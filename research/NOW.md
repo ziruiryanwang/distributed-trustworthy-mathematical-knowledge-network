@@ -1,14 +1,18 @@
 # Current research desk
 
-**Current D19 / Git introduction:** no root runtime is live. Local source-control
+**Current D19:** root guest05 cross-build is live under session82528, exact fresh
+selection5da04eb9fa61bb667efa2afe35157a86a2bfde6be05a3c0f64f7fc99e27fb74a.
+Actual repaired differential passed independent audit; no VM/proof is live.
+Local source-control
 baseline `7e2c038` preserves 1,010 files / 19,148,512 raw bytes; pre/post disk and
 raw staged SHA-256 agree, with no normalization, moves, deletions or remote.
 See VERSION-CONTROL.md for excluded preserved data and central-agent Git ownership.
 Actual receipt-controls01 passed independent audit (eight groups, synthetic
 nonreceipt only). Structural build02 passed, but run01 found the positional-array
 decoder mismatch; its failure and audited successful prefix remain preserved.
-Mechanism's minimal fallback and continuation build `9ac06819...` are independently
-cleared, not yet run. Stale guest05 must not launch. Scale's D19 located-receipt
+Mechanism's minimal fallback and continuation build `9ac06819...` plus run86ec...
+passed actual independent audits. The stale guest05 proposal must not launch;
+the distinct fresh structural selection above is active. Scale's D19 located-receipt
 composition passes source review; focused post-transition expiry controls remain.
 Root resumes v5's proof-cost and integrated search/admission priorities after the
 baseline. All final release obligations stay open. Older live entries are history.

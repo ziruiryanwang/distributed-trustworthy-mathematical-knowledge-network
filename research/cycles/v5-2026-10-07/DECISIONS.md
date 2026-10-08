@@ -1006,3 +1006,64 @@ binary/JSON framing, separate durable custody/reopen, partial commits, aggregate
 failure charging and exact six-attempt exhaustion are covered. Synthetic receipt
 bytes are deliberately nonproofs; no real verifier/prover or positive mathematical
 admission is included. Superseded unrun draft8dd907 is not selected.
+
+## D19: Git baseline, repaired differential and integrated receipt path
+
+User requests safe local Git and continued v5. Baseline7e2c038 records 1,010 files
+with raw-byte SHA-256 equality; workflow2f9be5f records central-agent-only Git
+mutations. No original source/evidence was rewritten, no remote or license added.
+Excluded experiment/installation/runtime data remain essential retained material,
+not disposable data or a portable clone. All agents resume their disjoint lanes.
+
+Adopt independently audited actual receipt-controls01 PASS, outer
+398a0695b268eae0a72c66ff97bc2670cdef03a2ac68e14a0fa0799708eb0f41:
+eight tests, zero failures/errors/skips,0.78125Job+0.28125wrapperCPU,1.6383991wall,
+clean closure. Four loopback calls638request/1354reply/900headerbytes; six-attempt
+budget includes two prepaid and four actual. Synthetic27-byte nonreceipt only;
+no crypto/native call or mathematical admission. Do not repeat this passed suite.
+
+Adopt structural-run01's independently delimited successful prefix only: all
+five held row-pair cases,421foundation mutations and firstthree extra forms.
+Retained23,313B foundation has rawSHA736792e52ff276f3ee7cdc2efd4fe464e984bc7441771b07cde2aa920ff6b01c
+and framedFoundationIDd931d114155cf3cf0dc0b868aa88c6d38b8ada8ecafe267a5934934075782481.
+Original run remains failed. Root read exact array-guard diff, continuation
+harness, builder and plan; independent review clears31sources534,033B.
+Select ONLY fresh structural-continuation-build01,
+9ac06819bc60ee22d4326a119d99a08b8d448ba858256d2f8239104f7ce67ce8:
+180JobCPU/300wall/4096MiB/eightprocesses and retained fat-LTO flags. One compile,
+no tests/native/VM/proof. Runtime continuation waits for actual binary and its
+separate reviewed selection. Guest05's stale selection remains forbidden.
+
+Scale's new located_receipts.py has independent source review. Select source-only
+focused controls for one original deadline/prepaid grants/exact candidate phase
+and descriptor expiry/egress invalidation AFTER acquisition begins, at every
+structural and raw-receipt dial. Refused dials must still consume their reservation.
+No DHT rerun or synthetic mathematical-acceptance claim. True receipt integration
+still requires the genuine current-image certificate not yet available.
+
+Adopt independent actual continuationbuild01 PASS, RESULT
+4c28caa27942523cb888e3ff825dc2ff4229151e349624f1d489567a86b80058:
+794,112B executablef6a9719449143899466e2591933491e2ffaaf7ffd8c6b223d844a231e30ee949.
+21.84375Job+2.421875outercontrollerCPU (includes2.40625main),27.6649845mainwall;
+ownedVCTIP17724 cleanup exit observed, finalactive0. All31sources/172runtime pins
+match. Select independently cleared structural-continuation-run01,
+86ec833d93226e349a4525a8caaa1f3d5aa333e2602c4ca1720008c35d241bbb:
+2sources/77runtimepins,30CPU/60wall/768MiB/threeprocesses. Root read complete
+wrapper, exact prior-prefix bindings and argv. Only remaining9valid+6array+
+21irregular controls; no native theorem, VM, proof or speedup claim.
+
+Adopt independent actual continuationrun01 PASS, outer
+7cfd5d5497a2a267e84c051d2ded86a8d50400243e6f10f3f738b8c3b160ffd5:
+nine remaining accepted, six/six array cases,21irregular comparisons(nine
+accepted by both), retained-prefix/foundation binding.0.265625Job+0.25wrapperCPU,
+1.2481846wall, clean closure; old overall failure remains unchanged.
+
+Select one independently cleared guest05 structural build, FRESH selection
+5da04eb9fa61bb667efa2afe35157a86a2bfde6be05a3c0f64f7fc99e27fb74a at
+guest-build-05-structural-selection.json.43sources612,640B/eight preparation pins;
+same1800JobCPU/1800wall/4096MiB/eightprocess/16GiB reserved profile. Root read
+the full builder, exact diff and updated plan. Old stale a00c... proposal stays
+preserved and unused. This is an offline guest cross-build only, not execution
+or proving. Reuse actual host03; generic assembly and profile2 snapshot helpers
+need no new source adapter, only later actual-output-bound selections. No cap
+increase or host/backend relink is selected.

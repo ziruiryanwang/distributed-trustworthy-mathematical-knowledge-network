@@ -22,6 +22,17 @@ The changed verifier requires a NEW exact image. Unchanged mathematical IDs
 do not authorize old-image parent recursion. The future snapshot retains the
 existing 2^25 ceiling; no completion or speedup is predicted by source census.
 
+The original focused run found a genuine positional-array decoder mismatch.
+The final selected parser sends ALL array-valued variant payloads to the
+unchanged general decoder; the direct enum path is only for non-array payloads.
+The failed run and its scoped completed prefix remain evidence. Fresh
+`STRUCTURAL-CONTINUATION-PLAN.md` covers the actual continuation: nine remaining
+accepted extras, six array-payload controls and 21 irregular controls passed,
+with no repeated five-held-case/foundation checks or kernel calls. The stale
+original guest05 proposal is retained but must not launch; the fresh
+`guest-build-05-structural-selection.json` binds the repaired parser and this
+updated unused plan. Root's independent actual adoption precedes guest launch.
+
 ## Build-only protocol
 
 Use the pinned retained Python with `-B -I -S` and canonical project workdir:

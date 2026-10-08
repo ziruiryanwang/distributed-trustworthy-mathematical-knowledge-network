@@ -65,7 +65,12 @@ An owner-bound host keeps a private set A of exact journal BYTE strings:
    image/profile. Only its actual journal enters A. Reject duplicate/unused
    frontier material according to the selected canonical packet policy.
 2. For each delta in order, call the unchanged relation on its exact bounded
-   bytes. Its returned parent journals must all already belong to A, with no
+   bytes. Validate its OWN computed Journal against the owner-adopted image,
+   foundation and semantic policy, including a foundation-only zero-parent
+   delta. Parent consistency is insufficient: relation input carries an image
+   claim and the guest normally relies on external final receipt verification
+   to pin its own image. The native host must impose that same profile binding
+   explicitly on every delta. Its returned parent journals must all already belong to A, with no
    substitution by ModuleID alone, rank-only comparison, a digest claim, or a
    statement claimed by an unchecked later delta. Only then add its computed J.
 3. The requested final target must match the last selected computed journal and
