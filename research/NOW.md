@@ -1,5 +1,22 @@
 # Current research desk
 
+**User-requested pause, 2026-10-08 UTC:** current source work and independent
+audits are complete. Worker20 and preparation9 focused controls pass with exact
+saved/current pins and clean closure; both use mock native calls and establish
+no certificate or positive mathematical handle. Used sources/evidence are frozen.
+The root is saving the local Git checkpoint; v5 remains unfinished.
+
+The user explicitly permits ONLY existing base-production01/session71174 to
+continue in the background under its original finite limits. PID18132 creation,
+executable and exact request/profile were rechecked at handoff; the operation was
+still live, with no terminal result claimed. No retry, renewed allowance, second
+proof, integration phase, new task or automatic resumption. Terminal proof audit
+and actual receiving/admission wait for user resumption. All three subagent
+assignments are complete. The unrun ReceivedFoldMap fixtures are retained;
+receipt_integration.py remains deferred/not created. See
+[pause handoff](cycles/v5-2026-10-07/PAUSE-HANDOFF.md). Older live entries below
+are history, not authority to restart work.
+
 **D23 live checkpoint:** full-base Producer session71174 is running unchanged;
 first three new stages report success, no failure, no final receipt. All five
 native controls now pass independent actual audit. Mechanism implements fresh

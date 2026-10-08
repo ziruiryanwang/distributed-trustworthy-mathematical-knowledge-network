@@ -36,7 +36,7 @@ is small; exhaustion explicitly refuses.
    the same actual deadline-bound verifier, not another with equal settings.
 2. Genuinely verify the chosen module receipt; select the returned handle with
    `session.use_handle(handle, exact_receipt_bytes)`, or use the existing session
-   `verify(...)` method. Open complete groups using `session.open_group(module,
+   `receive(...)` method. Open complete groups using `session.open_group(module,
    opening)` and supply committed bodies with `session.supply_body(module,
    universes, expression)`.
 3. Construct `SourceOperation(session, foundation_bytes, foundation_sha256,
@@ -73,11 +73,78 @@ operation.close()
 
 This is not a standalone launch example: missing-data handling, exclusive file
 creation, pinned runtime configuration and whole-process supervision are required.
-The retained supervisor strips arbitrary inherited `LEAN_*` configuration. An
-owner-pinned worker inside the existing Job must supply the exact Lean runtime
-root and DLL search path for the linked executable. The conditional harness does
-this internally; the production source worker remains an integration obligation.
+The retained supervisor strips arbitrary inherited `LEAN_*` configuration. The
+new owner-pinned `worker.py` supplies the exact selected Lean runtime root and DLL
+search path inside the existing Job. Its20 mock-only focused controls pass;
+actual worker/native integration remains unqualified. The earlier conditional
+harness does this internally.
 Do not assume setting an outer shell variable reaches the supervised child.
+
+## Fixed owner worker
+
+The outer owner controller invokes the selected Python interpreter in isolated,
+no-site, no-bytecode, nonoptimized mode with `worker.py --config ABS_JSON
+--config-sha256 HASH`. The worker never accepts peer-selected commands or a
+generic argument list. Its only native command is `AuthorLean.exe REQUEST
+FRESH_DIRECTORY`, using the exact pinned executable and request paths.
+
+The configuration has exactly these fields:
+
+```json
+{
+  "schema": "DMKN_OWNER_LEAN_WORKER_V1",
+  "worker": {"path": "ABS_WORKER", "bytes": 1, "sha256": "64-lowercase-hex"},
+  "executable": {"path": "ABS_EXE", "bytes": 1, "sha256": "64-lowercase-hex"},
+  "lean_root": "ABS_LEAN_ROOT",
+  "runtime_pins": [{"path": "ABS_RUNTIME_FILE", "bytes": 1, "sha256": "64-lowercase-hex"}],
+  "request": {"path": "ABS_REQUEST", "bytes": 1, "sha256": "64-lowercase-hex"},
+  "output_directory": "ABS_OPERATION/frontend",
+  "report_path": "ABS_OPERATION/worker-result.json",
+  "deadline_monotonic": 12345.6
+}
+```
+
+This illustrates fields, not valid runnable values. Every path is absolute and
+canonical. Output/report must be fresh siblings in an existing operation
+directory. `worker` binds the actual running file, not a test substitute. All
+selected files and configuration are rechecked before and after native work.
+Duplicate JSON keys, nonfinite numbers, unknown fields, bad pins and expired
+deadlines refuse. The owner supplies the effective deadline as the minimum of
+its original deadline, the live SourceOperation's original deadline and the
+per-call wall limit. The worker requires positive remaining time at most600s
+and recalculates the remaining wait after spawn; it does not grant fresh time.
+
+Runtime pins are explicit owner-selected execution dependencies under the adopted
+Lean root, not the compile/link test's approximately989MB compiler closure. The
+minimum five DLL entries are `libInit_shared.dll`, `libleanshared.dll`,
+`libleanshared_1.dll`, `libleanshared_2.dll` and `libc++.dll` in `bin`. The owner
+must also select any required runtime data. Limits are128 pins,512MiB each and
+2GiB total. This is not a hermetic toolchain, hostile-code sandbox or complete OS
+DLL closure. Request/export are each at most16MiB; configuration128KiB,
+worker2MiB and native executable64MiB. The worker hashes bounded file streams.
+
+Native stdout/stderr are inherited, never captured into worker memory: the outer
+supervisor owns their retained partial logs and sampled log caps. On timeout the
+worker kills/reaps its direct child; only the outer Job can establish whole-tree
+closure. Failure-report writing does not extend the original outer allocation.
+Owner byte accounting must include **all** files, especially native
+`module.ndjson` (up to64MiB) in addition to `EXPORT.json`, request, configuration,
+logs and report. `export_bytes` is not total operation bytes.
+
+The result schema is `DMKN_OWNER_LEAN_WORKER_RESULT_V1`. Its positive status is
+only `PASS_NATIVE_EXPORT_ONLY`: exact config/request/executable/worker hashes,
+original deadline, native return/timeout/direct-child disposition and export
+hash/size. It always has `mathematical_acceptance=false`,
+`outer_job_closure_required=true`, `native_logs=INHERITED_OUTER_SUPERVISOR` and
+`runtime_scope=EXPLICIT_OWNER_PINS_NOT_HERMETIC_OR_SANDBOX`. The owner must validate
+those bindings, actual whole-Job closure, all output costs and the still-live
+SourceOperation/selection before calling `finish` once. The returned child still
+requires the independent relation/certificate admission described above.
+
+`test_worker.py --out ABS_FRESH_EXPERIMENT_DIRECTORY` is a native-free
+control harness. It mocks every subprocess and keeps all fixtures/results. Its
+fake runtime/executable/export bytes exercise binding/refusal/control flow only;
+no Lean success, live handle, receipt or mathematical authority is fabricated.
 
 ## Missing-data handling
 

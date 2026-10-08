@@ -4,6 +4,14 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+USER PAUSE, 2026-10-08 UTC: all current source assignments and independent
+actual controls audits are complete (worker20/preparation9 pass). Root closes
+the local Git checkpoint and pauses the unfinished goal. No agent assignment
+remains; prior assignments below are historical, not post-pause authority.
+Only the already-selected finite proof71174 remains permitted in the background,
+under unchanged limits and no retry/renewal. Terminal proof audit/admission waits
+for user resumption. ReceivedFoldMap fixtures remain unrun; no integration starts.
+
 D23 active source assignment: mechanism owns fresh preparation/owner.py,
 __init__.py,API.md,test_owner.py; scale owns fresh authoring/worker.py and
 test_worker.py, agreeing the fixed worker schema before coding. Assurance

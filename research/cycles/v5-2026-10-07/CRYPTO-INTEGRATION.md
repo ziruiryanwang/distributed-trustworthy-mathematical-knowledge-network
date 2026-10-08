@@ -1,5 +1,72 @@
 # Guest-cost diagnosis and semantics-preserving construction repair
 
+## D23 current-task completion and halt boundary
+
+Final root disposition: the reviewed final controller and nine synthetic groups
+ran once under selection cf45f3c2, and independent actual audit passes. All36
+source/18runtime pins match;1.390625Job+0.296875wrapperCPU/2.5037198wall, clean
+closure. No actual host/native/guest/proof/positive handle. Sources/API/tests
+are now used/frozen. Current assignments are closed for user-requested pause;
+only existing proof71174 continues in the background. See PAUSE-HANDOFF.md.
+The proposal/pre-use wording below preserves the development history.
+
+Root selected the source proposal below as a reusable public preparation
+controller. `software/v5/preparation/{owner.py,__init__.py,API.md,test_owner.py}`
+is implemented; source-only AST diagnostics pass. Scale separately owns the
+agreed generic `authoring/worker.py` and its focused mock-only tests. No native,
+host, proof, integration or controller-test runtime was launched by this lane.
+
+The user subsequently requests halt after tasks already at hand and permits the
+already-running finite proof to continue in the background. Finish only these
+assigned sources/docs/review and root-selected necessary lightweight controls;
+do not begin the genuine receipt-to-source integration, another proof campaign,
+native-delta implementation, or a new allocation. Root owns background producer
+session71174 and its unchanged profile406fb045/request33c4947f. A future receipt
+is not presumed; completion/reaping/audit remains root's separate obligation.
+
+The controller reuses Producer's unchanged loader/Job/pin helpers without calling
+Producer.run or allocating proof work. One original owner allowance covers both
+methods, durable prelaunch reservation, actual settled CPU, unknown full-reserve
+closure, controller lifetime CPU, immutable control documents and sampled output.
+Public source return checks original SourceOperation/verifier/session binding and
+effective deadline after native closure, finishing, report/census and returned
+accounting construction. An expired candidate RESULT is overridden by the failure
+marker. Worker config/hash/native/export/deadline and direct/whole-Job closure
+bindings are separate from mathematics. Author output reserves96MiB beyond its
+request for64MiB NDJSON plus16MiB EXPORT/logs/reports; snapshot uses actual input/
+parent/frame/capsule bounds. No actual counts or module IDs are hardcoded.
+
+Root and assurance caught/reviewed final return liveness, worker report fields,
+and a Path-versus-string overlap constructor bug before use. The draft now converts
+protected pin keys to Path and includes a focused real-controller-constructor test
+with only the Producer loader mocked. Nine synthetic test groups create no
+verification handle and use visibly nonproof artifacts. Source minimum pins are
+explicitly not a complete dependency closure; adopted transitive owner installation
+remains trusted and its exact integration source map must be selected separately.
+
+Current source hashes sent root/reviewer (not frozen by this paragraph):
+
+| File | SHA256 |
+|---|---|
+| owner.py |a51482da62bffe4dabeb48c2a4fcb7842530a8543aa42ba287fc20c0d0cf3187|
+| __init__.py |fd5afeef596969313728cd44f81470f06c4136c7c33c4efa3463fd812889d885|
+| API.md |05b6c5018b3b5c2f612cd7f92c60bbcfaaa75391820102e4caf279a22872d4ae|
+| test_owner.py |6a40a5bbc0270fefefc449493ce596c4faebb4f8b90b355f25915ce6e4f91863|
+
+Proposed root-only light control scope is nine synthetic groups,20CPU/60wall,
+512MiB/two processes/1MiB streams, unchanged18Python runtime pins. The actual test
+selection/run/outcome audit is not supplied by these AST diagnostics. No Git
+mutation or edit to used source/evidence was performed by this lane.
+
+Independent complete source review found no remaining blocker for the nine
+synthetic groups. Root's final pre-use correction makes both relative method
+wall caps start at the actual public method entry, including initial mkdir/report
+fsync time. Two explicit metadata-delay assertions were added within the existing
+deadline group; the table above contains the refreshed owner/test hashes. AST
+diagnostics pass; root's earlier unused selection must be refreshed before use.
+The mocked no-native controls do not qualify the eventual actual worker+native
+two-active-process envelope; that integration concern stays deferred explicitly.
+
 ## D22 next integration proposal: real admission to an ordinary-source child
 
 Source-only proposal requested by root after prospective full-base production

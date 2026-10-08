@@ -4323,3 +4323,146 @@ Root/scale already identified the proposal's stale foldbundle; only current
 receipt-prepare01/base bundle `09e4f3bb...` is the matching fixture, not old-policy
 foldbundle `030d3520...`. Actual D23 controller/worker sources await review. Root's
 full-base producer71174 is live under the separately reviewed unchanged allowance.
+
+### D23 halt-after-current scope and worker draft review
+
+Root relays the user's halt-after-current-tasks request. Reviewer scope is now
+only the already-assigned preparation/worker source and necessary lightweight
+controls, terminal existing base proof71174, then root checkpoint/pause. No new
+integration, proof campaign or broad research is selected. Root's unrun later
+integration design is deferred.
+
+Read complete new worker draft
+`aeaad858c90da4f244801dc24f62a96550a6457381da5085a5bbc28939754137`.
+No immediate source blocker: exact fields/self/runtime/request/config pins,
+fixed three native arguments, operation-local runtime lookup, inherited native
+logs, original effective same-host monotonic deadline, direct-child kill/reap,
+and explicit dependence on the original outer Job for whole-tree closure.
+Returned export hash/size and PASS_NATIVE_EXPORT_ONLY are not mathematical
+authority. Five minimal shared-DLL pins are required, not the compiler/static
+library superset; arbitrary extra owner pins still incur their actual cost.
+Tests/actual qualification pending. Sent integration reminder: native output
+can contain 64 MiB module.ndjson PLUS 16 MiB EXPORT.json; controller accounting
+must not mistake the worker's export_bytes field for whole-operation output.
+
+### D23 wind-down refinement and worker-control exact clearance
+
+Root clarifies that the existing finite full-base proof71174 may continue in the
+background while the chat is handed back. Do not wait for its terminal result,
+start cold verification, actual receipt/source integration or another campaign.
+Finish only the already-assigned preparation/worker reviews and necessary small
+controls, then root checkpoints and pauses. The earlier terminal-proof wording
+above is superseded; no proof completion or receipt is claimed here.
+
+Worker controls read completely, including the repaired canonical PROJECT header:
+test_worker.py `877ba7dc228f9f23730113f11ef54b39fac238258e3cc40fac98ff1bcc6b9d82`.
+All20 controls mock Popen with a safety backstop. They exercise strict config,
+pins, fixed native argv/environment, inherited logs, original deadline including
+spawn latency, mutation, export cap, refusal, direct cleanup and exclusive reports.
+No native execution, receipt or positive handle is selected.
+
+Prospective selection `4283afea...` used active-process cap1. This was NOT cleared
+or run: both retained child-free producer/dependency Python suites report actual
+Job TotalProcesses2, and the unchanged supervisor uses CREATE_NO_WINDOW. The
+cause is not established. Root adopted a pre-use change to cap2 only, avoiding an
+unjustified cap1 assumption without enlarging CPU/wall/memory allowances.
+
+Exact clearance sent for selection
+`8416d09791bb02000403d0be6bd3522f4df0e08ca54723d5a9bb05efcf227721`:
+three sources/32,583 bytes and18 runtime pins independently rechecked; output
+absent. Bounds15CPU/30wall/256MiB/two processes/1MiB each outer log. Used worker
+remains `aeaad858...`. Actual outcome review remains separate. The future real
+Python-worker-plus-native process count is an integration obligation; mocks do
+not qualify the preparation controller's cap2 for that path.
+
+Complete preparation draft, API, init and nine-group tests read at owner
+`fb286863807c28614625409fc3c1168ca674c9ca917a3028401903a918c55df5`, tests
+`a2ea0e9420129ddd2de44d0ad8f4c9c469c3f7eb0a80ba57a8ed9d32a128234c`, API
+`05b6c5018b3b5c2f612cd7f92c60bbcfaaa75391820102e4caf279a22872d4ae`, init
+`fd5afeef596969313728cd44f81470f06c4136c7c33c4efa3463fd812889d885`.
+The previously reported str/Path overlap constructor bug is repaired with
+map(Path, self._pins), and its test now executes the actual OwnerPreparation
+constructor against a mock loader preserving the adopted Path-only helper API.
+Worker return binds config/self/request/native/export and direct cleanup; native
+output has96MiB reserve; exact parent/frame/host response/session shapes align.
+Final completion callbacks preserve source identity and original deadline through
+durable report/census and final public accounting construction. Required source
+pins are explicitly documented as a minimum, not complete import closure.
+
+Root caught one remaining documentation/implementation discrepancy before use:
+per-method wall time starts inside work(), after _call metadata writes, instead
+of public method entry. Author is making that narrow repair; final exact source
+and selection must be reviewed before the nine synthetic controls launch.
+
+### D23 worker controls actual pass and preparation deadline repair
+
+Independent actual PASS for author-worker-controls01. All three saved/current
+source files and18 runtime pins match; original/saved selection is exact
+`8416d097...`. Read all20 passing cases (zero failures/errors) and all12 retained
+worker reports, including the intended cleanup, timeout, mutation, native-refusal
+and export-bound failures. The positive mock export, request and config hashes
+independently match the returned bindings. No stdout; stderr has the full test log.
+
+Outer result `6ca3ff980fc8499eb9da6603a6849a3226bbab6a63f09570340436f5caa2415d`;
+inner `483e3c23f0b60d1c6d8bcaba79a224b562fee4e480cfded07e89b78c0265f435`.
+1.109375 Job plus0.46875 wrapper CPU seconds,2.5236674998886883 whole-wall;
+peak39,239,680 bytes, total2 processes. Clean zero exit/reaped/closed/active0,
+no termination or cleanup errors. This is mock-only worker control qualification,
+not real Lean, native Job closure, receipt or positive-handle qualification.
+Used source/test/selection/evidence freeze; no repeat requested.
+
+Preparation final narrow repair read at owner
+`a51482da62bffe4dabeb48c2a4fcb7842530a8543aa42ba287fc20c0d0cf3187`, test
+`6a40a5bbc0270fefefc449493ce596c4faebb4f8b90b355f25915ce6e4f91863`.
+Both public methods now capture entered before _call and clamp their deadlines
+to entered+wall_seconds. Work refuses before source/child processing if initial
+metadata writes consume this cap. Two new assertions in the existing deadline
+group simulate61 seconds in operation.json writes for a60-second method cap,
+expect the exact author/snapshot wall refusal, and assert no process calls.
+API/init are unchanged. No remaining source blocker for the nine synthetic groups;
+the final refreshed exact selection is still required before root launch.
+
+Final preparation-controls exact clearance sent root:
+`cf45f3c24236409b8f3576d49609052799dde5739efe4e2f16f2e38f7317e6a5`.
+All36 actual source entries/409,307 bytes and18 Python runtime pins match; output
+absent. The earlier informal37-source count was incorrect. Final owner/test pins
+are a51482da/6a40a5bb; fixed isolated snapshot CLI --output,20CPU/60wall/512MiB/
+two processes/1MiB each log. The pre-repair selection5c27d27a was not cleared or
+run. Only nine synthetic groups are selected, not actual native, host, guest,
+receipt, source-to-child integration or positive-handle qualification.
+
+### D23 preparation controls actual pass; reviewer wind-down complete
+
+Independent actual PASS for preparation-owner-controls01, exact selection
+`cf45f3c2...`. All36 saved/current source files and18 runtime pins match; saved
+and original selection hashes are identical. Read the complete outer result,
+nine-case test log, aggregate control result, retained candidate/failure reports,
+both synthetic Producer sessions, all10 settlement records and key reservations.
+All session image/frame/journal/capsule/parent size/hash pins match actual retained
+files, and both frames are exactly their length prefix plus saved child input.
+
+Nine groups pass with zero failures/errors. Eleven durable reservations produce
+ten fake process/settlement records; the unknown process outcome deliberately has
+no fake settlement, preserves its4CPU reservation and closes. Overshoot charges
+100 rather than refunding to4; shared allowance exhaustion retains the prior3
+charge. Wrong-worker binding refuses. Source expiry after candidate RESULT writes
+FINALIZATION-FAILED, which overrides that candidate. Both61-second synthetic
+metadata delays refuse the60-second method wall cap before process execution.
+Demand returns without launch;96MiB storage reservation refuses before launch.
+The actual OwnerPreparation constructor executes only against its mock Producer
+loader and closes cleanly; this is not adopted-runtime constructor qualification.
+
+Outer result `09d684b18cac23be7963c24dcd094ff65f53398cef9d7904269d05fc4938be27`;
+inner `66c14dddf66f050e5d669da7213bb860ddc14f8ef76e37e62595e314ff66ba25`.
+1.390625 actual outer Job plus0.296875 wrapper CPU seconds,
+2.503719799919054 whole-wall; peak31,186,944 bytes, total2 processes. Clean zero
+exit/reaped/closed/active0, no termination or cleanup errors. Inner counters
+report zero real supervisor/native/guest/proof/positive-handle calls; synthetic
+stage accounting is test data and must not be added to these actual runtime costs.
+
+Used preparation source/tests/API/init, exact selection and evidence now freeze.
+No rerun, actual integration, cold verifier or further campaign is selected.
+All reviewer tasks in the requested wind-down scope are complete. Root owns the
+coherent Git checkpoint and pause. Existing full-base proof71174 may continue
+under its unchanged original finite allocation; its terminal audit is deferred to
+manual resumption, not claimed completed here. The broad v5 goal remains open.

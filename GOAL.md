@@ -1,5 +1,11 @@
 # Goal: a usable mathematical commons architecture and software
 
+**User-requested pause, 2026-10-08 UTC:** current small source tasks and their
+independent control audits are complete. The goal is unfinished and paused;
+only the previously selected finite proof71174 may continue in the background,
+as explicitly permitted. No automatic retry, new task or integration follows it.
+See [pause handoff](research/cycles/v5-2026-10-07/PAUSE-HANDOFF.md) before resuming.
+
 The user-confirmed working directory is
 `E:\Distributed Trustworthy Mathematical Knowledge Network`.
 All root and subagent work must use it explicitly; follow the workspace

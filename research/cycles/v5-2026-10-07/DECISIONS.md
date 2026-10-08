@@ -1557,3 +1557,81 @@ Mechanism corrected its proposal; no operation used that erroneous reference.
 First read-only production observation: three new stages completed, fourth
 reserved, no failure,893.1875workerCPU charged. This is progress only, not a
 receipt or final actual audit. Keep root session71174 alive unchanged.
+
+Root selects fresh source-only authoring/receipt_integration.py plus
+workloads/ReceivedFoldMap.lean and ReceivedFoldMapRoots.json for the genuine
+single-cold-admission/live-session/source/parent-aware-snapshot endpoint. This
+test uses the new reusable preparation API, not another production controller.
+It must not import old proof rows, fabricate handles, repeat native controls,
+assume a child ID/count or launch before the actual base receipt exists and
+new source/exact finite inputs have been independently reviewed. The only
+selected live runtime remains base-production01/session71174.
+
+User now requests halting after current tasks at hand. Root acknowledges a
+wind-down, not goal completion: finish the already-running finite base proof
+attempt and reviewed current preparation/worker edits, then pause. No new proof
+campaign, integration phase or workstream. Root's receipt_integration.py remains
+deferred/not created; ReceivedFoldMap.lean and its structured roots are retained
+unrun fixtures, not evidence. The three agents are notified to finish only their
+already-assigned source/review and terminal actual audit. Only necessary small
+changed-boundary controls may precede the final Git checkpoint. Existing proof
+limits are not renewed; failure or exhaustion is terminal for this wind-down.
+
+The user then explicitly permits the current bounded proof to remain in the
+background while the chat is handed back. Therefore finish only the current
+small source checks/review and Git checkpoint, then pause without waiting for
+proof71174. Its terminal audit/admission is deferred until user resumption.
+No new background task, automation, run renewal or integration is authorized.
+
+Worker controls' unused selection initially had one active process. Independent
+review found that two prior child-free Python suites recorded two Job processes;
+the cause is not established. Root changes ONLY this unused process cap to two,
+matching the adopted small-test envelope; CPU15/wall30/256MiB stay unchanged.
+Updated selection8416d09791bb02000403d0be6bd3522f4df0e08ca54723d5a9bb05efcf227721
+awaits final exact clearance; earlier4283afea is not used. This does not qualify
+the future real worker+native process-count envelope, which must be separately
+reviewed on resumption. No passing test is repeated to diagnose that uncertainty.
+
+Adopt independent exact worker-controls01 clearance; select its final8416d097
+selection once. Three sources32,583B/18Python pins,15CPU/30wall/256MiB/two
+processes. Root has read full worker and corrected20test harness. All Popen
+calls are mocked; only new worker binding/deadline/cleanup controls run. No
+native executable, receipt or positive handle. Used worker/test bytes freeze.
+
+Wind-down: adopt independent actual worker-controls01 PASS, 20 tests with zero
+failures/errors, selection8416d097. All three saved/current sources and18Python
+runtime pins match; 1.109375Job+0.46875wrapperCPU/2.5236675wall, clean closure,
+reaped/active0/total2. All nested native calls are mocked; no proof or handle.
+
+Root refreshed ONLY the unused preparation-controls selection after the reviewed
+public-entry deadline repair. Final selection SHA256
+cf45f3c24236409b8f3576d49609052799dde5739efe4e2f16f2e38f7317e6a5,
+owner a51482da62bffe4dabeb48c2a4fcb7842530a8543aa42ba287fc20c0d0cf3187,
+test 6a40a5bbc0270fefefc449493ce596c4faebb4f8b90b355f25915ce6e4f91863.
+Root and independent reviewer match all36sources409307B/18Pythonruntimepins;
+fresh output absent. Select exactly preparation-owner-controls01 once,
+20CPU/60wall/512MiB/two processes/1MiBlogs. Nine synthetic groups; no host,
+native, guest, proof or positive handle. This is the last small runtime selected
+before the user-requested pause. Used controller/test bytes freeze on use.
+Base proof71174 continues separately under its unchanged finite allowance.
+
+Adopt independent actual preparation-owner-controls01 PASS. All36saved/current
+sources and18runtimepins match saved/original cf45f3c2; nine groups have zero
+failures/errors. Reviewer read exact frame/session pins, ten settlements,
+eleven reservations and the candidate-success override on late source expiry.
+1.390625Job+0.296875wrapperCPU/2.5037197999wall; zero exit/reaped/closed,
+active0/total2, no cleanup errors. Outer report SHA256
+09d684b18cac23be7963c24dcd094ff65f53398cef9d7904269d05fc4938be27;
+inner66c14dddf66f050e5d669da7213bb860ddc14f8ef76e37e62595e314ff66ba25.
+No real native, host, guest, cryptographic proof or positive handle. Used source,
+test, selection, preparation API and evidence stay frozen. Root read the actual
+nine-case log and report; no new test or integration is selected.
+
+All current agent assignments are complete. Root rechecked the original producer
+PID18132/parent17140/creation22:04:36Chicago and exact command; proof71174 remains
+live at handoff under the original allocation. No terminal result is presumed.
+Per the user's explicit background permission, defer its terminal audit and cold
+admission until resumption. Preserve background evidence and successful stages;
+no retry, renewal, follow-on run or automation. Save this source/evidence-index
+checkpoint in local Git and set the unchanged unfinished goal PAUSED. No public
+release, remote or license decision; v5 is not complete.

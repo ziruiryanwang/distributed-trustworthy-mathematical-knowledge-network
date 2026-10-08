@@ -2860,3 +2860,76 @@ prepare01 bundle09e4f3bb... (module2b54d3be.../policy5edfd0ee...), which was use
 the actual five controls. Do not reinterpret old-policy identifiers. A meaningful
 genuine child should select only the substantive theorem root, so its resulting
 ModuleID is to be derived, not copied from this three-root control.
+
+### D23 fixed owner worker and wind-down checkpoint
+
+Root selected the fresh source-only `software/v5/authoring/worker.py` and
+`test_worker.py`, with unused API prose, to close the retained supervisor's Lean
+environment seam. Mechanism separately owns the same-budget owner controller
+in `software/v5/preparation`; no duplicated controller or integration harness
+is authored here. Root then received an explicit finish-current-work-and-pause
+request. This lane completes only these sources, review and any root-selected
+necessary lightweight control; it starts no new runtime, proof or integration.
+
+Worker SHA256
+`aeaad858c90da4f244801dc24f62a96550a6457381da5085a5bbc28939754137`
+implements the agreed `DMKN_OWNER_LEAN_WORKER_V1` config and
+`DMKN_OWNER_LEAN_WORKER_RESULT_V1` result schemas. Strict fields/JSON and actual
+self/executable/request/runtime/config pins, fresh sibling outputs, original
+finite effective deadline and fixed native argv are enforced. The worker installs
+owner-local Lean runtime environment inside the already-existing Job and inherits
+native logs. Spawn latency cannot renew the original deadline. Direct-child
+kill/reap is distinct from mandatory outer whole-Job closure. Output remains
+untrusted: `PASS_NATIVE_EXPORT_ONLY` never admits mathematics. Source/finish and
+the real child relation remain separate checks.
+
+Per-call runtime pins deliberately do not impose the link harness's989MB compiler
+superset. Five DLLs are the required minimum; other adopted execution data stays
+owner-selected. This is not a hermetic loader or hostile-source sandbox. Native
+`module.ndjson` may add64MiB beyond16MiB EXPORT; reviewer explicitly required
+the owner to charge all files/logs, not mistake `export_bytes` for total work.
+This requirement was sent to the controller author and included in API.md.
+
+Proposed20-control harness SHA256
+`99b1af9bc5eb3b5d4424d12dcc8b1b929a42272ce787f18a7cda8b144c0f4e47`
+is native-free and **unrun** at this checkpoint. Every Popen is mocked; tiny
+explicit fake executable/DLL/export bytes test only file binding and process
+control logic, not Lean/certificate success. Controls cover strict configuration,
+self selection, minimum runtime pins, conflicting paths and mutated inputs with
+no subprocess, exact argv/environment/inherited logs, native refusal, direct
+cleanup success/failure, spawn/return deadline expiry, postnative pin mutation,
+bounded/missing exports and exclusive report writing. Fixtures and result remain
+under a fresh root-selected experiments directory; no cleanup or prior evidence
+overwrite. Independent reviewer already read worker with no immediate blocker
+and now has the exact harness for source review. Root owns any finite selection
+and actual adoption; no test pass is inferred from this source checkpoint.
+
+The base full-proof session71174 remains root-owned under its original allocation.
+There is no receipt-to-source integration run or final child certificate here.
+Used native frontend/build/link/control sources and all earlier evidence remain
+unchanged. This checkpoint is readiness for the user's requested pause, not a v5
+release or completion of the genuine source-derived reusable-module endpoint.
+
+Before any use, independent source review caught one harness-only launch issue:
+Run-V5-Check executes a copied source tree, so inferring the canonical project
+root from the copied file's ancestors would reject the legitimate evidence path.
+The unused harness now names the mandatory canonical root explicitly. Final
+harness SHA256 is
+`877ba7dc228f9f23730113f11ef54b39fac238258e3cc40fac98ff1bcc6b9d82`.
+Worker bytes are unchanged. Root requested the exact small selection at
+`experiments/v5-local-checks/author-worker-controls-01-selection.json`, SHA256
+`4283afeabeebf57c538a89277438f0f624bfb49b356a13dd3054cc45fa3050ea`:
+three sources,18 previously used Python runtime pins,15CPU/30wall seconds,
+256MiB,one process and1MiB per output stream. All21 source/runtime hashes were
+read-only checked and match. No real Lean runtime is selected. Review and any
+single actual launch/adoption are root-owned; this lane has launched nothing.
+The user separately permits the already-running finite base proof to remain in
+the background at pause, so this source checkpoint does not await or renew it.
+
+Final root disposition: before use, only the unused selection's process cap
+changed from1 to2 after independent review (no CPU/wall/memory expansion).
+The final8416d097 selection ran once; all20 mocked controls pass independent
+actual audit, with3saved/current sources and18runtimepins matched.
+1.109375Job+0.46875wrapperCPU/2.5236675wall, clean closure/active0/total2.
+Used worker/test/evidence are frozen. Real native Job integration remains open.
+This lane is complete and paused; proof71174 alone may continue in background.
