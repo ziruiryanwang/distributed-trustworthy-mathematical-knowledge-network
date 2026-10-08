@@ -1105,3 +1105,118 @@ clean closure. D19's focused composition guard/control gate is satisfied by
 this plus the audited prior prefix; no real routing or mathematical admission.
 Current-policy genuine receipt integration, supplier-loss cold re-verification
 and the broad v5 obligations remain open. Guest05 is the sole live root operation.
+
+## D20: acquisition must support real onward authoring
+
+Scale and assurance independently identify a source-proven composition blocker:
+unused authoring/imports.py requires exact ReceiptVerifier, but D18/D19 use exact
+DeadlineReceiptVerifier. Root read the complete source and found no executed
+local-check selection containing it. Select source-only minimal bridge in this
+unused authoring adapter, temporarily owned by scale: allow exactly these two
+concrete adopted classes, clamp session lifetime to the actual verifier deadline
+and original workflow D, and recheck verifier liveness throughout. No broad
+duck-typing/subclass authority, receipt substitution or saved acceptance is added.
+Keep all registry, exact receipt/journal/summary and group/body checks unchanged.
+
+LocatedReceiptWorkflow.close already closes its owned verifier and revokes handles.
+Perform import selection and untrusted child-request construction with that SAME
+live verifier before workflow closure. An already constructed untrusted request
+may outlive it only because actual child proving re-verifies real parent receipts;
+the old handle never becomes persistent authority. Update the existing authoring
+contract, not a duplicate specification. Focused source/lifetime/refusal controls
+may be prepared; no runtime or successful parent admission is selected here.
+
+Adopt independently audited actual guest05 build PASS, RESULT
+49d9dccffee46fc245f09c71a66bcaa38e19b8834d505b838239c095139cb2bb,
+ELF1,622,660B98f2b8955ccfbc258af53b503f4b82b146cea18e57f5df128faa8c8a19b77009.
+189.625Job+199.40625controllerCPU/434.6597575wall; exact graph/byte bindings,
+ownedVCTIP20468 exited, finalactive0. Root session82528 is reaped. Select ONLY
+independently cleared actual imageassembly04,
+f69121ae9bcc0910069bfee36d166dbd3dafe7f3cb3b6c43963bc04a89858378:
+three sources/sevenruntime-inputpins,120CPU/120wall/1024MiB/twoprocesses.
+Root read full existing generic assembler/plan; no new adapter, compiler, host,
+guest execution or cryptographic proof. Subsequent snapshot selection binds the
+actual output image and retains the unchanged2^25/po2=18 execution bound.
+
+Adopt independent actual assembly04 PASS, outer
+69b48014b334aea219bbde2fec0f75fc7e007a26d13bb7b59fecef9a5aa12e5b:
+image1,681,428B filedigestd76f623bb1de5c840fd2ef9c1ac35fc6aba2de74cda0f62c11c161f6973da31f,
+actualimageID9dfd589213a3245cf88e0d28096356aae4d2666bf0e85a7c3302b92e21d2c69e.
+0.515625Job+0.328125wrapperCPU/2.7907562wall, clean. Select independently cleared
+snapshot03,d0a2d11d304fd4eec470b8cbc44b57a277b7717fefe0d926ad7f50d696baffd9:
+eight sources/eight runtime-inputpins,240CPU/300wall/2048MiB/threeprocesses;
+exact same base workload and2^25/po2=18 execution ceiling. Root read complete
+generic helper and actual argv. One prepare plus one retained execution, no
+cryptographic proof or new budget beyond that finite selection.
+
+Adopt independently audited actual snapshot03 PASS, outer
+c436bb93fade1ed262ca5d64b31858f2d1691f6303385924d6ae642d882ac7e5,
+inner37ce9939dafe69594f03bd549e8c21d3e4b5c024d60c40acc2ced29ce6e4f3f3.
+The same base mathematics now completes within unchanged2^25, producing a
+21,274,865B retained capsule55eaa583ddfde8ebe827bfa941fcb81b95f9773fd2b2e295df2166501d973980,
+binding4608ca4e3c12d338a86813afa96dbf418a1076eca79b2a8ab2838bb78135d925.
+Actual110segments/zeroassumptions;28,835,840 padded-row upper bound is NOT an
+actual row count or timing speedup. Frame91,385B and exact184B journal match
+newimage/foundation/policy/module2b54.../11groups/rank0. Independent review
+reconstructed the capsule's session/outer binding. Saved75Bstderr is progress,
+not error.2.671875Job+0.40625wrapperCPU/3.4458391wall, clean. No cryptographic
+receipt exists. Retain this capsule for selected segment0 rather than reexecuting
+it;110segments leave a substantial proof-production cost decision unresolved.
+
+Select independently cleared retained-segment0 calibration ONLY,
+b1e7ae9d42cb54e131df6790280fc82147c549a966653e1025b0ccb9397c682b:
+two unchanged sources/ten exact actual inputs96,597,806B,1500JobCPU/300wholewall/
+4096MiB/twoactiveprocesses and60controllerCPU. Root read the complete adapter,
+plan and actual capsule/host/input/journal selection. Exactly one proof stage
+over the retained snapshot, with no guest replay, retry, automatic next stage,
+full110-segment campaign or application receipt admission. Keep any successful
+segment for later reuse. One stage's cost is not a proved upper bound for all
+remaining segments, lifts, joins, resolution or final verification.
+
+Root reaped segment0 session39827, zero exit. Adopt independent actual scoped
+PASS: RESULT6212efa399c55e6032e78889e1180e578f015060bb128b58c9830be499fed066;
+checkpoint234,817B6c037a3a9ed19b34dd5137a0de1020e5f2934e6dab02765748156b67d5cb652b,
+schema5/segment0/exact capsule binding. No finalization-failure marker;565.03125
+JobCPU+0.78125controllerCPU/81.7326653wholewall,3,533,524,992B peak Job commit,
+clean closed/reaped active0. This is one stage, not a module certificate or a
+cost bound for the remaining329calls. Preserve and reuse it. Select source-only
+mechanism comparison of full production strategies; no automatic full campaign.
+
+Root read complete imports.py, six-group lifetime harness, unchanged check
+runner and exact selection; adopt independent clearance and select ONLY
+import-lifetime-controls01,b032573207b7c8c8b370ee95fcd85ef209b6b32786eec2dc79b6ce722077f94b:
+23sources230,273B/18runtimepins,10CPU/30wall/256MiB/twoactiveprocesses.
+This tests exact owner classes, deadline minima, liveness and foreign-token
+refusal with empty handle registries. No receipt verification or positive
+mathematical acceptance is mocked or established; no network or native call.
+
+Adopt actual independent import-lifetime01 PASS, outer
+524dbab053ca1c2d4e4ed7e2d36fe00f1441d82147e20835ce099a9845b59d96,
+inner642b351077c973fb1f7fa7b9e64ea7b3c8651ae9334218b48c10687c0ec60915:
+all23saved/current source and18runtime pins match; six groups, zero failures,
+errors or skips.0.734375Job+0.296875wrapperCPU/2.2575266wall,clean/reaped/active0.
+The used source/test now stays frozen. This closes only the stated lifecycle
+bridge, not positive mathematical admission or ordinary Lean authoring.
+
+## D21: complete exact-address semantics acquisition and choose proof economics
+
+Scale identifies a concrete missing composition edge: retained AcquisitionClient
+already supports declaration(provider,module,structured_name,max_bytes), but
+LocatedReceiptWorkflow forwards only search-returned export and body requests.
+Ordinary reuse may demand dependency declarations absent from the original query.
+Root read complete located_receipts.py and receipt_client.py and selects source
+ONLY in new software/v5/authoring/acquisition.py plus focused new tests, owned by
+scale: use the existing workflow structural client, SAME original budget/deadline
+and expiring owner-approved contacts; commit/read back the group; authenticate it
+through the same live ImportSession. No new client/grant, search-result promotion,
+proof-history fetch, fake receipt, frozen-source edit or runtime is selected.
+Bind exact adopted workflow/session verifier and already selected owner module;
+new owner modules need genuine separate admission. Assurance reviews source and
+changed-boundary controls. Extend existing authoring contract/checkpoint only.
+
+Root continues genuine proof production strategy and full-cost growth, with
+mechanism comparing existing staged host to any proposed overhead repair before
+source selection. One segment cost does not justify unbounded spending. Machine
+read-only inventory reports16,828,944,384physical bytes and20logical processors;
+no concurrent memory-heavy proof operations have been selected. Current known
+segment peak3,533,524,992B must be included in any later aggregate allocation.

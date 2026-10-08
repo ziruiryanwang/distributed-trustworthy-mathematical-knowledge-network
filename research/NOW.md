@@ -1,5 +1,38 @@
 # Current research desk
 
+**Latest D21:** import-lifetime01 passed independent actual audit (six groups,
+zero failures); no root runtime lives. Scale owns the newly selected exact-address
+dependency-group acquisition companion for live authoring, reusing the original
+workflow budget/contacts and authenticated selected module. Mechanism compares
+full-proof strategies using actual segment0 cost; assurance reviews both. Root
+owns integration, full-cost growth, finite launches and Git. Real profile2 module
+receipt, ordinary Lean authoring, reciprocal return and final deployment remain
+open; passing local controls do not change that bar.
+
+**Latest D20 actual continuation:** root reaped segment0 session39827 with zero
+exit; independent audit confirms one retained cryptographic segment, not an
+application receipt. 565.03125 Job CPU + 0.78125 controller CPU seconds,
+81.7326653 whole-wall seconds; checkpoint234,817B. No proof campaign is live.
+Root selects the separately reviewed six-group import-lifetime controls01 once.
+Mechanism compares practical full-proof strategies using this actual cost and
+the330-call source census; scale prepares current-policy discovery-to-authoring
+integration; assurance challenges strategy and audits actual outcomes. Preserve
+the successful segment and capsule; do not replay either. Git remains local,
+root-owned, with no remote/publication and ignored evidence preserved on disk.
+No v5 release obligation is waived by these focused results.
+
+**Latest D20:** guest05/image04 and same-cap snapshot03 passed independent actual
+audits; no root runtime is live. First actual profile2 base capsule exists:
+110segments/zeroassumptions,21,274,865B, unchanged2^25 ceiling. This is retained
+prover witness, NOT a certificate. Mechanism prepares one original finite
+segment0 calibration; full production remains unselected. D19 composition
+controls pass through audited five-group/prefix reuse plus three-check
+continuation; original test-label failure is preserved. Scale fixes the previously
+unused ImportSession exact-verifier-type/lifetime seam before genuine onward use;
+assurance reviews source/runtime bindings. Root owns Git and actual launches.
+Baseline7e2c038 and checkpoints2335871/4fa3edd preserve tracked source; excluded
+evidence remains on disk. All final v5 release obligations remain open.
+
 **Current D19:** root guest05 cross-build is live under session82528, exact fresh
 selection5da04eb9fa61bb667efa2afe35157a86a2bfde6be05a3c0f64f7fc99e27fb74a.
 Actual repaired differential passed independent audit; no VM/proof is live.

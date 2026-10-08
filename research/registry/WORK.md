@@ -4,6 +4,17 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+D20 continuation: root reaped segment0 session39827 and owns the single reviewed
+import-lifetime-controls01 launch, integration, cost decisions and Git commits.
+Mechanism compares full-proof production strategies against the actual retained
+110-segment capsule and successful segment0, source-only. Scale prepares smallest
+current-policy located receipt-to-live-import-to-child integration, source-only.
+Assurance independently audits actual controls and challenges producer costs.
+Canonical root E:\Distributed Trustworthy Mathematical Knowledge Network;
+checkpoints research/cycles/v5-2026-10-07/{CRYPTO-INTEGRATION,DISCOVERY-INTEGRATION,ASSURANCE}.md.
+No agent Git mutation, proof replay, full campaign, release or external deployment
+is selected. Existing passed controls and used evidence remain preserved.
+
 D19 / Git baseline: root owns Git staging/commits and all finite runtime selections.
 Baseline 7e2c038 is complete, source-only, exact-byte verified; no root runtime
 lives. Mechanism resumes repaired structural continuation/runtime preparation;

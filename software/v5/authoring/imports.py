@@ -11,6 +11,7 @@ import hashlib
 import time
 
 from admission.verifier import ReceiptVerifier, VerifiedModule
+from transport.receipt_client import DeadlineReceiptVerifier
 from modules import codec as C
 from modules.model import ConditionalEnvironment, ImportClaim
 from modules.receipt.witness import decode_journal, make_input
@@ -33,7 +34,8 @@ class ImportSession:
     """
     def __init__(self, verifier, *, max_modules=8, max_calls=4096,
                  receipt_bytes=64*1024**2, data_bytes=16*1024**2, wall_seconds=3600):
-        C.require(type(verifier) is ReceiptVerifier, "IMPORT_OWNER_VERIFIER_REQUIRED")
+        C.require(type(verifier) in (ReceiptVerifier, DeadlineReceiptVerifier), "IMPORT_OWNER_VERIFIER_REQUIRED")
+        verifier._active()
         for value, cap in ((max_modules, 8), (max_calls, 65536),
                            (receipt_bytes, 1024**3), (data_bytes, 16*1024**2),
                            (wall_seconds, 86400)):
@@ -41,7 +43,9 @@ class ImportSession:
         self._verifier = verifier
         self._profile = verifier.report()["profile_id"]
         C.digest_string(self._profile)
-        self._deadline = time.monotonic()+wall_seconds
+        self._deadline = min(time.monotonic()+wall_seconds, verifier._deadline)
+        if type(verifier) is DeadlineReceiptVerifier:
+            self._deadline = min(self._deadline, verifier.outer_deadline)
         self._closed = False
         self._max_modules, self._max_calls = max_modules, max_calls
         self._receipt_cap, self._data_cap = receipt_bytes, data_bytes
@@ -50,10 +54,14 @@ class ImportSession:
         self._cache: dict[tuple[str, bytes, str], str] = {}
         self._groups: dict[tuple[str, int], bytes] = {}
         self._bodies: dict[tuple[str, int, str], bytes] = {}
+        self._active()
 
     def _active(self):
         C.require(not self._closed and time.monotonic() < self._deadline,
                   "IMPORT_SESSION_CLOSED_OR_EXPIRED")
+        # Even empty sessions must not outlive the originating verifier. Exact
+        # adopted classes only; no caller-supplied duck verifier or success JSON.
+        self._verifier._active()
 
     def _begin(self):
         self._active()

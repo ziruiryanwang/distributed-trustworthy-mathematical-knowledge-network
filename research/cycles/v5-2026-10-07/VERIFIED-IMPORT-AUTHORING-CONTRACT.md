@@ -28,6 +28,31 @@ Close/expiry revokes all authority. Different receipts for the same module need
 explicit deterministic first-selected-parent handling; do not merge their ranks
 or journals. A module has one exact parent journal in a child request.
 
+### Selected D19 deadline/lifetime bridge
+
+Root temporarily assigns the previously unused `authoring/imports.py` seam to
+the scale lane for this narrow source-only bridge and focused refusal controls.
+No Lean frontend, proof relation, used admission/transport source or existing
+evidence is changed. Actual runtime requires independent source/selection review.
+
+The session accepts exactly owner-created `ReceiptVerifier` or
+`DeadlineReceiptVerifier`, not arbitrary subclasses, `isinstance` widening,
+duck-typed verifiers or saved-success dictionaries. Construction requires the
+actual verifier to be live. The session's deadline is the minimum of the caller's
+requested lifetime, the verifier's actual deadline and (for the deadline-bound
+variant) its original outer D. Every session liveness check also checks that
+same verifier. Closing the verifier therefore refuses even empty-session data
+or request operations, not only operations that happen to describe a handle.
+All original registry/receipt/summary/journal bindings remain unchanged.
+
+`LocatedReceiptWorkflow.close()` owns closing its verifier and revoking its
+handles. Consequently use the same live verifier to select acquired handles,
+open groups, supply demanded committed bodies and build the request **before**
+closing that workflow. There is no ownership transfer through a serialized token.
+The resulting untrusted prover request may outlive a local session only because
+the host/guest independently reverify its genuine parent receipts, exact selected
+journals and all child obligations; persisted local success is never authority.
+
 Internal construction derives `ImportClaim` ONLY from the live handle's decoded
 184-byte journal and exact retained receipt hash. It uses `open_group` on every
 selected opening, then adds the derived claim/openings to a private conditional
