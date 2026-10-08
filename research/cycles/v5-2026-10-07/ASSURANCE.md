@@ -3951,3 +3951,140 @@ Retain all five checkpoints including prior segment0, with zero guest replay.
 There are still108segment/lift/join triplets plus finish and cold admission.
 The prefix is not an application receipt and does not establish mathematical
 admission, genuine live import, full recursive composition or useful growth.
+
+### D22 source-only context and reusable producer challenges
+
+Read the initial context.py draft completely. Its selected semantic closure
+includes all opened groups (matching the unchanged make_request behavior), all
+declaration types, transparent definition bodies and recursor rule bodies.
+Theorem proofs and opaque bodies are not traversed. Hash-bound owner-local /
+external references generate explicit missing-module/group/body demands; present
+group dependencies are ordered and ordinary self-reference/intergroup cycles
+refuse. Exact foundation rows retain their fixed finite proof bodies, distinct
+from downloaded imported theorem ancestry. No runtime or clearance yet.
+
+Two requests sent scale: source.py must retain the exact originating session /
+verifier identity and original operation deadline, because the context content
+hash alone does not bind a Python instance. Equivalent data in another session
+is not continuation authority. Also enforce cumulative group/declaration/byte
+caps before further cloning where feasible; the draft final census comes after
+whole-selection copying. Its counted_expression_visits covers traversal plus
+foundation source-row expansion, not all validation/hashing/copying/serialization
+CPU. Whole-operation supervision must cover those costs; report counters narrowly.
+
+Mechanism's reusable producer proposal received a separate source-only challenge:
+finish30CPU is a policy cap, not a demonstrated conservative bound (current finish
+verifies all segments both individually and in CompositeReceipt). Reserve space
+for a next stage's bounded artifact/log/report before launch against retained
+storage, while clearly retaining sampled-not-hard-quota semantics. An unknown
+worker charge retains its entire reservation and closure hold; that is accounting
+uncertainty, not proof that sampled totalCPU never exceeded it. Exact n=1 prefix,
+ordered resolves, all-segment finish inputs and adopted configuration/runtime/
+image/parent pins must survive relocatability. No implementation or campaign
+selection follows from these comments; root remains sole runtime owner.
+
+Read initial source.py completely after it appeared. SourceOperation captures
+exact originating ImportSession/verifier objects and original session deadline;
+every active check verifies identity, deadline and live immutable selection.
+This addresses the content-binding/session-substitution point in the wrapper.
+Requests are immutable bytes with fixed owner source/roots/context, returns are
+one-shot even on malformed data, and returned declaration census is independently
+derived before comparison with exported names. Foundation/external inventories
+come from the context, never from caller trust flags. Native absolute names gain
+only the three relocation components; unchanged relative protocol limits are
+reapplied to the resulting spec/bodies. Final same-session make_request remains
+untrusted and independently rechecked by host/guest/receiver. Root/scale informed.
+No immediate wrapper blocker found in this draft; native old-binding preservation,
+checked inductive reconstruction and selected-root closure remain the important
+pending source seam. No actual frontend execution follows from a JSON status.
+
+### D22 binder-annotation exactness trap identified before native build
+
+Retained Lean/Expr.lean805–824 explicitly defines BEq Expr as Expr.eqv, which
+ignores binder annotations; Expr.equal instead includes names and annotations.
+The new frontend must use Expr.equal after intentionally normalizing binder
+display names, universe parameters and metadata/let optimization hints. Plain
+`==` would not enforce committed binderInfo. The copied new AuthorLean serializer
+also initially used HashMap Expr for expression and no-metadata caches, allowing
+annotation-distinct expressions to merge. Requested structural keys in this fresh
+source, without touching frozen exporters. Root/scale informed.
+
+Checked final-parser compatibility: modules/native/checker/src/parser.rs786–816
+includes binder_info in lambda/pi hashes and binder_style in Expr; native_rows.py
+preserves binderInfo too. Thus structural caching matches the current protocol,
+not a new acceptance rule. This is a source-backed exactness/operability defect;
+the actual new native source still needs review and targeted compilation/control.
+
+The revised contexta6d0b794... now checks cumulative group/declaration/data
+allowance before additional copying, includes a foundation input precheck, and
+explicitly says the expression counter is not total CPU/work. Those review
+requests are resolved. SourceOperation834718f8... same-owner/deadline checks
+remain as reviewed. Serializer-only AuthorLean00e3ce33... was read completely;
+its native reconstruction section was not present yet at that read.
+
+Root's proposed missing external-owner companion was checked against actual
+DependencyAcquisition/ReceiptAcquisition/LocatedReceiptWorkflow source. No
+architectural blocker: exact-address current-policy group custody may precede
+real receipt admission, but never acceptance. Require immutable address/opening/
+descriptor/receipt-entry copies across awaits; same original owners, stores,
+profile, contact TTL, egress, shared ledger and deadline; exact admitted receipt
+readback for session.use_handle. Preflight predictable session capacity where
+possible. Post-admission session-selection failure closes the originating
+verifier and intentionally revokes all prior handles; structural custody can
+remain non-atomically. No synthetic discovery candidate, new automatic routing
+or completeness guarantee. This was plan review only, not source/runtime clearance.
+
+### D22 new-owner companion source and exact controls selection cleared
+
+Read complete module_dependency.py2b6ac4b168d915a714d9014b3ae96eaabca01c8e957ed513ff1216752a745a31
+and test_module_dependency.pyef9a6085988ea381eafa27b6baf0d5d8bd2d1c5baec35346f784ce3d70c612a7.
+The implementation retains exact original bridge/receiptstore/adapter/profile/
+contact identities and private canonical prepared selections, checks current
+namespace/address before custody, preflights session capacity before admission,
+then uses only actual ReceiptAcquisition.admit and exact receipt-byte readback
+for live session selection/opening. Late post-admit selection failure revokes
+the originating verifier; earlier structural custody remains non-atomic. No
+search candidate, remote configuration, new grant or proof ancestry is introduced.
+
+Six focused controls cover copied exact unselected-owner structural custody,
+wrong address/corruption, contact/session expiry with shared charges, changed
+owner/contact identities, retention/session capacity, and missing-receipt refusal
+before verifier launch. They reuse only earlier setup/teardown/reply helpers.
+Actual authority registries remain empty; no selected-positive handle or
+cryptographic-success fixture exists. Genuine positive import remains separate.
+
+Exact selection927f60ee189aa95a769982d18f5bee8e318eeb596cde160681eb3477e318958c
+independently matches36sources377,974B+18runtime pins. Output absent;15CPU/45wall/
+256MiB/2processes. Scoped source/exact-selection clearance sent root, not actual
+test success or admission.
+
+Initial complete producer04722604... source reviewed; deterministic n=1/ordered
+resolve/all-segment finish graph and checkpoint-pruned dependency planning agree
+with the host. Four source repairs requested: saved request/profile rebindings;
+conflicting input pins must not overwrite by path; conservative next-stage output
+reservation must cover artifact/log/reservation/command/stage/final reports;
+and same-live-Producer allowance reuse must not omit earlier charges by supplying
+prior_attempts=[]. Cross-restart lineage completeness/unknown-crash recovery
+must be explicitly owner-controlled or bound by persistent state, not claimed
+automatically enforced without such state. No producer clearance yet.
+
+### D22 actual module-dependency controls independently pass
+
+Actual `module-dependency-controls-01` passes the six selected structural/lifetime/
+refusal controls, not positive cryptographic admission. Read complete inner/outer
+results and stderr. Correctly rehashed all 36 saved files under `sources/` as well
+as current source (377,974 saved bytes), all 18 runtime pins, and saved/original
+selection: no mismatch. The earlier mistaken `snapshot/` path did not establish
+saved-source identity and was explicitly discarded before this disposition.
+
+Selection SHA256 `927f60ee189aa95a769982d18f5bee8e318eeb596cde160681eb3477e318958c`;
+outer result `0f66e5ee4cb19297b3cabe25b1351d1a4e67294122c0b05ae04d7636ee62b8bf`;
+inner result `80edfb3ae366d05610ac200ec317bead93c9f26281e6c32fdfd0cd9b839a7a37`;
+stderr `f59d65860a911fc80017cd4ab490ea590746db516d8d20678c9c2fbe4bc4cca7`.
+Six tests, zero failures/errors/skips; 0.703125 Job CPU plus 0.28125 outer wrapper
+CPU seconds, 1.6014972000848502 whole-wall seconds. Nested supervisor CPU is zero
+and not separately charged twice. Peak Job private commit 29,691,904 bytes;
+zero exit, reaped, closed, active-process count zero, no termination/cleanup error.
+All controls finish with zero verification counters and empty authority/session
+registries. Structural custody and refusal outcomes do not mint a live handle.
+Used source, exact selection and actual evidence are frozen; no rerun requested.

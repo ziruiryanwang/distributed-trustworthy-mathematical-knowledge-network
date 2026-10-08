@@ -1,5 +1,26 @@
 # Current research desk
 
+**D22 new-owner controls adopted:** module-dependency-controls01 independently
+passes six new structural/refusal cases with clean closure and no positive
+authority fabricated. New companion/tests are used/frozen; genuine external
+module admission still awaits actual receipt integration. No runtime lives.
+Producer and ordinary-source frontend remain in source/build preparation.
+
+**D22 continuation:** Git remains at reviewed checkpoint02e2ea0, no runtime
+lives. Root implements the fresh exact-address external-owner acquisition seam
+under the existing budget/receipt boundary; no new transport or candidate
+promotion. Mechanism/scale finish producer/native authoring while assurance
+reviews actual source (including Lean's binder-info equality/cache trap).
+All prior used sources/evidence stay frozen; no tests or full proof selected.
+
+**D22 active source implementation:** prior turn made audited progress; no
+runtime lives. Root selects reusable production/producer.py+API/controller tests
+under mechanism ownership; no full-remainder budget or launch yet. Scale writes
+ordinary Lean authoring context/frontend/source adapters; assurance independently
+reviews both. Existing five checkpoints and passed controls are reused. Git
+checkpoint02e2ea0 preserves completed work; new source drafts stay explicitly
+unqualified. Root owns integration, runtime selection and full-cost growth.
+
 **Latest adopted D21:** independent actual prefix01 audit PASS. All four new
 checkpoints and prior segment0 are retained; no runtime lives. Full module
 certificate remains unfinished, with325post-snapshot calls still needed by the

@@ -4,6 +4,20 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+D22 continuation adds root ownership of fresh authoring/module_dependency.py
+and focused tests for NeedVerifiedModule completion, using the unchanged live
+workflow and actual receipt admission. Checkpoint existing DECISIONS and
+VERIFIED-IMPORT-AUTHORING-CONTRACT. No new transport/runtime selected. Other
+three agent assignments below continue unchanged; root alone owns Git.
+
+D22 current: mechanism implements new reusable production/producer.py, API and
+focused controller tests; scale implements fresh authoring/context.py,
+AuthorLean.lean and source.py. Assurance independently reviews both lanes. Root
+owns actual finite request/launch integration, cold admission, growth accounting
+and Git. No runtime, full325-call allocation or repeated test is selected.
+Canonical root E:\Distributed Trustworthy Mathematical Knowledge Network;
+checkpoints research/cycles/v5-2026-10-07/{CRYPTO-INTEGRATION,DISCOVERY-INTEGRATION,ASSURANCE}.md.
+
 D21 terminal update: root reaped prefix01 session6942; four-stage raw PASS,
 independent actual audit pending. No runtime is live. Mechanism now proposes a
 bounded full-base producer successor reusing retained five checkpoints/capsule;

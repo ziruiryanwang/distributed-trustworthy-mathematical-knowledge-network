@@ -1315,3 +1315,74 @@ Retain all five successful checkpoints including prior segment0, and the same
 capsule. No application receipt, guest replay or actual mathematical admission
 occurred. Source-only next work: practical bounded full-base producer proposal
 and ordinary Lean authoring implementation. No new runtime is selected.
+
+## D22: public production and source-level authoring, not another fixture wrapper
+
+Goal continuation classification: the previous turn was PROGRESS, with audited
+new control/proof outcomes and commits ae96ced/02e2ea0. Guard and current Git
+state revalidated; no live proof operation or repeated blocker is present.
+The full goal stays active, with no change to the release obligations.
+
+Root read complete D22 producer proposal in PROOF-STAGING-AND-MINIMAL-LOOP and
+selects fresh software/v5/production/producer.py, __init__.py, API.md and focused
+new controller tests, owned by mechanism. The public owner API/CLI must accept
+adopted profiles and finite requests, generate the bounded stage graph, preserve
+checkpoints and charged failures across explicit resumes, and use unchanged
+host/image/format. Do not encode this experiment's dates, paths or110count into
+the reusable implementation. No arbitrary shell graph, remote executable policy,
+implicit retry/renewal or VerifiedModule authority. Root retains actual request,
+finite runtime and cold-admission selection. The proposed150,000CPU/14,400wall
+full-remainder allowance is NOT selected by this source decision. Source review
+and focused scheduler/accounting controls precede any consequential full launch.
+
+Root read fresh authoring/context.py and source.py drafts. These are unrun and
+unqualified; the native frontend is still in implementation. Scale retains its
+three fresh file assignment and independent complete-group review. The newly
+identified NeedVerifiedModule acquisition gap remains a final integration
+obligation: dependency-address group/summary may be acquired as untrusted data,
+but a new owner must pass actual same-budget receipt admission before selection.
+No new transport variant is selected during current frontend implementation.
+
+### D22 exact-address external-owner completion
+
+Root resumes with guard PASS and local Git checkpoint02e2ea0 unchanged. No
+runtime is live. The three existing agents continue producer implementation,
+native authoring implementation and independent changed-boundary review; no
+prior passing campaign is repeated. The goal remains active, not blocked.
+
+Select root-owned fresh authoring/module_dependency.py and focused new tests
+for the missing NeedVerifiedModule path. Reuse the exact existing workflow,
+structural client, stores, budget, deadline, expiring contacts and verifier.
+Acquire the exact-address group as untrusted data, validate its opening/name/
+namespace, commit/read back structural custody, and retain an immutable local
+selection. Existing offers/receipt methods acquire opaque bytes; only actual
+ReceiptAcquisition.admit may mint the originating verifier's handle. Then use
+that same handle and exact receipt in ImportSession, and open the group.
+Already-selected owners use the existing dependency companion. No feature
+extraction, search-candidate promotion, provider crawl, new transport or receipt
+profile is added. This closes a source-level integration gap, not mathematical
+qualification. The independent reviewer challenges the seam before runtime.
+
+All calls remain explicit and serialized. Post-admission selection failure
+revokes the originating verifier conservatively; structural custody and costs
+can remain after refusal. No new whole-workflow allowance or automatic retry.
+No test/build/proof launch is selected by this source decision.
+
+Root read complete new module_dependency.py and its six-group controls. Adopt
+independent source/exact-selection review and select ONLY
+module-dependency-controls01, selection SHA256
+927f60ee189aa95a769982d18f5bee8e318eeb596cde160681eb3477e318958c.
+All36sources377,974B/18runtime pins match; fresh output remains absent before
+launch. Limits15CPU/45wall/256MiB/twoactiveprocesses. This tests new unselected-
+owner structural custody, immutable selection, refusal/expiry/capacity and exact
+owner binding; it does not fabricate a positive handle or cryptographic success.
+Only old fixture helpers are reused, not the old passing suite. Actual outcome
+review and genuine admitted-owner integration remain separate obligations.
+
+Adopt independent actual module-dependency-controls01 PASS; six tests and zero
+failures/errors/skips, all36saved/current sources and18runtime pins match.
+Outer0f66e5ee4cb19297b3cabe25b1351d1a4e67294122c0b05ae04d7636ee62b8bf;
+inner80edfb3ae366d05610ac200ec317bead93c9f26281e6c32fdfd0cd9b839a7a37.
+0.703125JobCPU+0.28125wrapperCPU/1.6014972wall, clean/reaped/active0. No
+positive handle, receipt verification or network dial. These new source/test
+bytes and evidence freeze; do not repeat. No runtime is currently live.

@@ -285,3 +285,31 @@ The result remains an untrusted request with exact genuine parent receipt bytes;
 the unchanged host/guest/final receiver must recheck them and the child. Process
 launch integration is root-owned and separately selected; these source files
 must not autonomously start an unbounded Lean/prover/network workflow.
+
+## D22 new external-owner acquisition
+
+`authoring/module_dependency.py` closes the unselected-owner structural seam
+without changing frozen transport or admission. `ModuleDependencyAcquisition`
+retains the same workflow/session/verifier, stores, adapter, profile, expiring
+contact objects and aggregate budget. Its `prepare(provider,module,name,cap)`
+copies the exact address before await, validates opening/address/namespace,
+commits and reads back custody, and keeps a bounded immutable local selection.
+This is untrusted data, with no feature extraction or discovery-candidate entry.
+
+The owner explicitly acquires an offered receipt using existing workflow calls.
+`admit(module,name,entry,operation_directory,**limits)` uses only the retained
+opening and the existing real same-budget ReceiptAcquisition.admit, then reads
+back the exact receipt bytes and calls ImportSession.use_handle/open_group.
+It checks predictable module/receipt/call/data capacity before expensive work.
+A late session-selection failure revokes the entire originating verifier,
+including earlier imports; structural custody and paid costs can remain. No
+new close owner, provider traversal, retry, source execution or renewed budget.
+Already-selected modules use DependencyAcquisition instead. Returned JSON is
+not transferable acceptance; only the live verifier/session retain authority.
+
+Six changed-boundary controls actually pass and are independently audited at
+module-dependency-controls01, selection927f60ee189aa95a769982d18f5bee8e318eeb596cde160681eb3477e318958c.
+No old passing suite was repeated. No positive receipt/handle or cryptographic
+success was fabricated; these are structural/refusal controls, not the required
+genuine admitted external-owner and source-derived-child endpoint. Used source
+and test bytes stay frozen. See DECISIONS/ASSURANCE for exact results and costs.
