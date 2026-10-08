@@ -1067,3 +1067,41 @@ preserved and unused. This is an offline guest cross-build only, not execution
 or proving. Reuse actual host03; generic assembly and profile2 snapshot helpers
 need no new source adapter, only later actual-output-bound selections. No cap
 increase or host/backend relink is selected.
+
+While guest05 builds, select independently cleared located-receipt-controls01,
+8a302e1ed3211365c16c7ee0929dce0c878940aca3750e288b8af80e1885dfb8:
+27sources/18runtimepins,15CPU/60wall/512MiB/twoprocesses. All20usedD18 sources
+remain unchanged. Root read complete wrapper and six-group harness. Checks
+exercise actual composition/preflight code with explicitly seeded unauthenticated
+contacts/candidates, mocked reader start/close and socket/process tripwires.
+No actual routing, socket, native or receipt-verifier process is included.
+
+Actual located-receipt-controls01 FAILED one of six groups; outer
+96a7c365702c1a2d63c76a3f581764bb3f0cf6f771eb081c52f7fc93e1ba5b5c,
+0.671875Job+0.28125wrapperCPU/1.5174142wall, clean. Five groups passed, including
+post-transition expiry and owner-egress refusal before either dial. The remaining
+group failed at expected error text: seven prepaid requests with limit six are
+refused by charge_external's existing per-value F.uint guard (INTEGER_BOUND)
+before its sum guard (RECEIPT_AGGREGATE_BUDGET). This is a test expectation error,
+not observed unsafe acceptance. Preserve test/run01. Select source-only narrow
+remaining-check continuation; no product code change or passing-group repetition.
+Independent actual review determines precisely which prefix evidence is reused.
+
+Independent audit adopts exactly five passed D19 groups and the sixth group's
+original-deadline/prepayment/different-deadline-refusal prefix, not overall PASS.
+Root read the complete fresh test_located_receipts_remaining.py and exact argv.
+Select independently cleared located-receipt-controls02,
+699f931132b2a7bda37f63f669c077a4dff1e24b008c8e8299646a69ddf4f9ed:
+28sources329,513B/20runtime-evidencepins,10CPU/45wall/512MiB/twoprocesses.
+One explicitly named case with three unfinished constructor refusals only;
+all27previous sources stay exact and the old failure is pinned, not relabeled.
+
+Adopt independent actual controls02 PASS, outer
+d979411e1ad79944bf0a21ca591ef416162498632d73b6a4f86f17b2835df032,
+inner8bac4b723a5a51bddddfe36c7a8122c9cfdb9de54b55409b2c27e0f99a90b5f5.
+One actual case/three remaining refusals, zero failures/errors/skips; all28source
+and20runtime/evidencepins match.0.734375Job+0.359375wrapperCPU/1.5822417wall,
+clean closure. D19's focused composition guard/control gate is satisfied by
+this plus the audited prior prefix; no real routing or mathematical admission.
+Current-policy genuine receipt integration, supplier-loss cold re-verification
+and the broad v5 obligations remain open. Guest05 is the sole live root operation.

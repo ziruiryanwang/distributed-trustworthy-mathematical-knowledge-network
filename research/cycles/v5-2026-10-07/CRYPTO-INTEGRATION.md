@@ -674,3 +674,49 @@ checkpoint complete; no additional code edits/runtime until root resumes.
 Delta-frontier note independently challenged and incorporates actual-returned
 edge closure checks, charge-all-submittedmaterial and explicit nativeTCB/profile
 broadening. It remains source-only; first real capsule/receipt remains central.
+
+Git baseline7e2c038 plus safeguards2f9be5f are root-owned; sourcework resumed
+after canonicalguard/newAGENTSread. Mechanism performs no staging/commits or
+other Git mutations. New unused runtimewrapper
+software/v5/tests/run_structural_continuation.py SHA256
+1422228e51cce1d9d3d1d2f9a99e9a8ec1cb54a904ae14bcacf9c6223fe9cb8b
+rebinds all40 prior runtimefiles plus actualfailure/selection/stderr/foundation,
+requires preserved overallFAIL and exactconstpanic, verifies raw+domainfoundation
+hashes and only invokes fresh9+6+21continuation controls. Source/ASTcheck complete;
+independent review pending. Exact runtimeselection awaits actualcontinuation
+binary; buildselection9ac06819... unchanged and root alone launches.
+
+Root actual continuationbuild01 PASS/reaped12594:794,112B executable
+f6a9719449143899466e2591933491e2ffaaf7ffd8c6b223d844a231e30ee949,
+RESULT4c28caa27942523cb888e3ff825dc2ff4229151e349624f1d489567a86b80058.
+21.84375JobCPU+2.421875outercontrollerCPU (includes2.40625main),27.6649845mainwall.
+OwnedVCTIP17724 assistedcleanup exitobserved; finalactive0. Exact runtime
+selection86ec833d93226e349a4525a8caaa1f3d5aa333e2602c4ca1720008c35d241bbb,
+77runtimepins30CPU60wall768MiB3active, independently submitted; no launch by
+mechanism. The staleguest05selection remains held until actual continuation.
+Root's native-delta profile challenge is integrated: EVERY computed own Journal
+must match adoptedimage/foundation/policy, including zero-parent deltas.
+
+Actual continuationrun01 PASS independently adopted by root. OuterRESULT
+7cfd5d5497a2a267e84c051d2ded86a8d50400243e6f10f3f738b8c3b160ffd5;
+innerRESULT8778b688e49e995f8aa22556010388c1c1c9453aca29909d4d9993d91bc8a501.
+9remainingaccepted,6/6arraypayloadcontrols,21irregular(9acceptedbyboth),
+zeroKernel/VM/proof;0.265625Job+0.25wrapperCPU,1.2481846wall, ordinarycleanclosure.
+Fiveheldcases/421foundation/first3extras were reused; oldrun remains FAILED.
+Fresh guest05selection guest-build-05-structural-selection.json SHA256
+5da04eb9fa61bb667efa2afe35157a86a2bfde6be05a3c0f64f7fc99e27fb74a,
+43files612,640B. Only repairedparser7a183... and updated unusedplan57bcc68...
+differ from staleproposal a00c...; freshbuilder6c082359... unchanged. Root owns
+launch after independentexactreview; mechanism now prepares reusable generic
+image/snapshot seams source-only, with no fictitious actualELF/image pins.
+
+Full source read confirms no new assembly/snapshot adapter is needed.
+Use frozen assemble_guest.py6e757f... and original IMAGE-ASSEMBLY-PLANda64ca...;
+fresh module-image-assembly-04 selection changes only runname and actualguest05
+RESULT/ELF paths/pins,120CPU120wall1024MiB unchanged. Then reuse frozen
+SnapshotExistentialScreen.py51ac22... and its exact seven helper sources;
+fresh module-base-snapshot-03 selection changes only runname/actualassembly04
+image+inner/outerRESULT paths/pins and actualimageID. Host03/profile2/heldbase
+input unchanged;240CPU300wall2048MiB,2^25/po2=18 unchanged. No new source,
+duplicate plan, placeholder selection or assumed imageID is necessary. Root
+alone launches after actual-output binding and independent review.

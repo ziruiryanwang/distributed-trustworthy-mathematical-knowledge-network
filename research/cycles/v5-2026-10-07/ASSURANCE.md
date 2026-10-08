@@ -3401,3 +3401,148 @@ active0/no cleanup errors. No verifier worker, Lean/native check, proof, DHT,
 independent host or current-policy mathematical cold acceptance occurred.
 Root/author informed. Genuine cryptographic/cold-admission integration remains
 open; these passed controls are retained rather than repeated.
+
+### D19 repaired decoder continuation source/build clearance
+
+Independent parser diff against used build02 snapshot is only a comment plus
+`fields.values().all(|payload| !payload.is_array())` in the fast-path guard.
+Newly excluded array payloads call the original decoder literally; all other
+branches are unchanged. This includes max/imax tuple payloads as well as the
+previously failing positional struct variant. The native enum/public decoder,
+foundation and mathematical judgment are unchanged.
+
+Read complete structural_frontend_continuation.rs and its plan. Fresh controls
+cover9remaining accepted extras,6array-payload cases and21unreached irregular
+cases; prior5held/421foundation/first3extras are reused from independently
+audited failed-run prefix. No repetition of the already completed full inputs.
+Exact compile-only selection
+9ac06819bc60ee22d4326a119d99a08b8d448ba858256d2f8239104f7ce67ce8
+passes31source534,033B hash/length review; output/attempt absent at clearance.
+Adapter differs from successful build02 only by fresh paths/harness/plan names;
+retained fatLTO/embedded-bitcode and180CPU/300wall/4096MiB limits remain. Source
+clearance sent root before Git HOLD, not actual compilation or guest clearance.
+
+### D19 located receipt workflow read-only source review
+
+Read located_receipts.py plus actual retained controller/services/workflow and
+both HTTP callers. One original absolute deadline binds a fresh reader and any
+actual verifier; namespace/policy/profile/stores are checked before I/O. Full
+location/search logical attempt and reply-capacity allowances are prepaid before
+reader start. The location reply cap already includes its search byte grant;
+do not add that search grant a second time. DHT raw service traffic is reported
+separately and not falsely described as bounded by logical request counts.
+
+One phase transition issues one acquisition ledger. Only exact returned
+(objectID,RecordID) candidates can start export. Endpoint-compatible guard
+rechecks contact TTL, original deadline and owner egress inside both frozen
+HTTP exchange.validate paths, after the corresponding attempt reservation.
+Thus a late expiry refuses with a charged attempt. Contact expiry does not
+invalidate already custodied mathematics: local actual verification may still
+complete within the original workflow deadline. No source blocker found.
+Requested focused expiry-after-begin_acquisition controls for both structural
+and raw-receipt routes, proving refusal before network dispatch with no renewal.
+Genuine current-receipt integration/cold verification remain unpassed.
+
+During the user's local Git introduction, assurance held all writes/runtimes
+and reviewed root's plan read-only. After root reported baseline7e2c038 and
+safeguards2f9be5f complete, canonical guard passed and new AGENTS Git discipline
+was read. Root exclusively owns Git mutations; assurance does not stage, commit,
+switch branches or configure the repository. Ignored experiment/runtime/evidence
+bytes remain essential and untouched; Git is not their backup or a full release.
+
+### D19 continuation build actual PASS and run clearance
+
+Actual structural-continuation-build01 independently PASS compile-only, RESULT
+4c28caa27942523cb888e3ff825dc2ff4229151e349624f1d489567a86b80058.
+Actual794,112B executable
+f6a9719449143899466e2591933491e2ffaaf7ffd8c6b223d844a231e30ee949.
+All31saved/current sources+172runtime and executable/log pins match. Stderr410B
+is one unused-constant warning. Cost21.84375Job+2.421875outercontrollerCPU
+(contains2.40625main),27.6649845mainwall. Exact ownedVCTIP17724 cleanup has
+exitobserved; finalactive0/no cleanup errors. No test or proof outcome inferred.
+
+Full new run wrapper1422228e51cce1d9d3d1d2f9a99e9a8ec1cb54a904ae14bcacf9c6223fe9cb8b
+reviewed: rebind exact prior failure/selection/stderr/foundation and40retained
+runtime inputs; require original failure and exact const mismatch; reconstruct
+canonical/raw framed IDs; invoke only new continuation binary; verify9+6+21
+controls and write a retained-prefix binding without rewriting original failure.
+Exact run selection86ec833d93226e349a4525a8caaa1f3d5aa333e2602c4ca1720008c35d241bbb
+passes independent2source+77runtime pin/argv review, output absent.30CPU/60wall/
+768MiB/3processes. Root informed; assurance executes no runtime.
+
+### D19 actual continuation PASS and repaired guest05 selection
+
+Actual continuation outer
+7cfd5d5497a2a267e84c051d2ded86a8d50400243e6f10f3f738b8c3b160ffd5,
+inner8778b688e49e995f8aa22556010388c1c1c9453aca29909d4d9993d91bc8a501,
+retained bindingdc4113222dc65bf95a58d6f4198fab81307b36fb74294c3be9731718ec7370db
+pass independent review. All2savedsource/77runtime pins match. Nine remaining
+extras accept; all6array controls accept identically;21irregular cases agree,
+9accepted by both. Prior5held/421foundation/3extras and both foundation IDs are
+reused/bound, while prior overall failure remains unchanged. Cost0.265625Job+
+0.25wrapperCPU,1.2481846wall; closed/reaped/active0/no cleanup errors/stderr0.
+This completes the selected frontend differential gate, not VM checking/proving.
+
+Fresh guest05 selection
+5da04eb9fa61bb667efa2afe35157a86a2bfde6be05a3c0f64f7fc99e27fb74a
+passes independent43source612,640B and8preparation hash review. Only repaired
+parser and updated unused plan differ from stale a00c36... proposal. The full
+updated plan is read; builder6c0823... and reviewed graph/lifecycle unchanged.
+Fresh guest05 output absent at clearance;1800CPU/1800wall/4096MiB/8processes/
+16GiB bound unchanged. Static comparator/table/relation are the same reviewed
+source. Root informed of build-only clearance; host03 reuse avoids another link.
+
+### D19 six-group composition harness source review
+
+Read test_located_receipts.py and actual constructor/search-record dependencies.
+Real owner constructors, SQLite and both HTTP preflight paths are exercised;
+runtime adoption/start/close and seeded contacts/candidates are explicitly
+nonauthentic fixtures. Process/socket tripwires reject any accidental call.
+Controlled time crosses contact TTL while remaining before original D, asserting
+the exact TTL error for structural export and raw receipt, full attempt/reply
+charges, pending0 and no store writes. Owner policy invalidation is explicitly
+a private fixture, not a shipped policy-rotation API. Exact candidate RecordID,
+one transition, upfront prepaid capacity, original deadline and close scope
+controls cover this new composition seam without rerunning D18/DHT campaigns.
+Author informed of source-only clearance; exact runtime selection is pending.
+
+### D19 actual composition failure and minimal continuation clearance
+
+Original actual outer96a7c365702c1a2d63c76a3f581764bb3f0cf6f771eb081c52f7fc93e1ba5b5c,
+inner0103c4a4912fbbcbaead9b5e137685f8bdbd61cf9d1c509c10bb3ca7c81cba20,
+stderr e84c5ffd63cff359fcd3687c6607fe508067f482997edbab4fc86fe7837c626d
+independently reviewed. All27saved/current sources+18runtime pins match. Six
+groups ran, five passed, one failed, no errors/skips. The failing assertion
+expected RECEIPT_AGGREGATE_BUDGET, but charge_external first checks the individual
+prepayment against its entire grant:7requests>6 causes INTEGER_BOUND. The later
+unreached24576byte>24575grant control requires the same error. This is a fixture
+expectation failure, not a demonstrated product safety failure. Its earlier
+original-deadline/prepaid accounting/different-deadline refusal prefix completed.
+Cost0.671875Job+0.28125wrapperCPU/1.5174142wall; closed/reaped/active0/no cleanup
+errors. Expiry/policy controls passed with7prepaid+2refused attempts,25392charged
+replybytes, pending0/no custody writes. These are mocked reader/no-dial/no-spawn
+controls, not actual DHT/Noise or mathematical admission.
+
+Read full fresh test_located_receipts_remaining.py: explicit one-case TestSuite
+avoids inherited six-group discovery. Exactly three unfinished constructor
+checks run; original FAIL6/1/0/0 and five passed stderr groups are pinned and
+preserved. Both component bounds use INTEGER_BOUND, wrong profile uses initial
+namespace/profile refusal. Empty stores/workflow list and tripwires checked.
+Exact selection699f931132b2a7bda37f63f669c077a4dff1e24b008c8e8299646a69ddf4f9ed
+passes28source329,513B+20runtime/evidence pin review; output absent at clearance.
+Limits10CPU/45wall/512MiB/2processes. Source-only clearance sent root/scale; no
+runtime executed by assurance and no actual continuation PASS yet.
+
+### D19 actual remaining constructor controls independently PASS
+
+Continuation outerd979411e1ad79944bf0a21ca591ef416162498632d73b6a4f86f17b2835df032,
+inner8bac4b723a5a51bddddfe36c7a8122c9cfdb9de54b55409b2c27e0f99a90b5f5,
+stderr c2641d705c82699832fc553478f3a853ff4ea1e4e7b02cc920ae0a2aa5afb430
+pass independent actual review. All28saved/current source+20runtime/evidence
+pins match. One test ran exactly3remaining constructor refusals; zero failures,
+errors/skips. Original5completed groups and earlier constructor prefix are
+reused, not rerun or relabeled into original-suite success. Product source did
+not change. Cost0.734375Job+0.359375wrapperCPU/1.5822417wall, reaped/closed/
+active0/no cleanup errors. Root/scale informed. D19 focused composition controls
+are complete in their mocked-reader/no-dial/no-spawn scope, not real location,
+cryptographic admission, cold custody verification or release integration.

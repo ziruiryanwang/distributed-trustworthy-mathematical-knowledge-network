@@ -2370,3 +2370,111 @@ the already scoped location/search and D18 phases once, perform actual local
 admission, and establish fresh cold re-verification from retained custody after
 the supplier closes. Used passing component evidence should be reused rather
 than rerunning the old suites. All broader release/growth obligations remain open.
+
+### D19 post-Git focused control preparation
+
+Root completed local baseline7e2c038 and safeguards2f9be5f, then explicitly
+resumed this lane. Canonical guard passed; new Git discipline and VERSION-CONTROL
+were read. Root alone stages/commits/configures Git. This lane has performed no
+Git mutation, cleanup, branch switch or runtime launch. D18 used bytes stay frozen.
+
+Independent read-only D19 source review found no blocker: location reply capacity
+already includes search exactly once, original D binds reader/verifier, the one
+transition retains exact `(objectID,RecordID)` candidate membership, and both HTTP
+implementations reach the expiry/egress guard after reserving an attempt. Contact
+expiry restricts future dialing, not mathematical validity of already held bytes.
+The consequential new control is expiry AFTER `begin_acquisition`, not a repeat
+of existing location or transport tests.
+
+New unused harness `software/v5/transport/test_located_receipts.py` contains six
+focused groups. It uses actual wrapper, store constructors and both HTTP preflight
+paths, but mocks reader start/close and explicitly seeds **unauthenticated owner
+fixtures** for contacts/candidates. Placeholder runtime reference pins are never
+adopted, read as executable dependencies or launched. Runtime-adoption, process
+and socket tripwires forbid such work. The frozen D18 fixture is imported; its
+test suite is not loaded or rerun. No real verifier object or success is fabricated.
+
+Controls cover upfront shared prepayment and original D, insufficient grants and
+initial namespace mismatch; pending-search/exact candidate pair/one transition;
+post-transition TTL expiry for structural and raw receipt calls; post-transition
+owner egress invalidation for both calls; later original-deadline exhaustion; and
+close's work-revocation/store-ownership scope. The expiry clock is explicitly
+past contact TTL but before D and the location deadline. Each refused predial
+attempt keeps its full selected byte allowance, pending remains zero and no store
+write occurs. Owner policy mutation is test-fixture invalidation, not a newly
+implemented policy-rotation API. All report authority flags remain false.
+
+Reviewer has the source and was asked to challenge it before the exact finite
+selection is finalized. No new selection or runtime is yet prepared by this note;
+root alone may launch after review. Genuine current-image mathematical integration
+remains separate and must not be inferred from these source/guard controls.
+
+Root and independent reviewer subsequently read the full wrapper/harness and
+found no source blocker. The reviewer confirms the real constructor accepts the
+snapshot location-directory shape; mocked lifecycle/reference markers do not
+claim actual adoption; named-suite loading cannot execute the old D18 tests.
+The expiry and policy controls reach both actual HTTP preflight boundaries.
+
+Prepared fresh finite selection:
+`experiments/v5-local-checks/located-receipt-controls-01-selection.json`, SHA256
+`8a302e1ed3211365c16c7ee0929dce0c878940aca3750e288b8af80e1885dfb8`.
+Twenty-seven source and eighteen explicit runtime pins;15CPU seconds /60wall
+seconds /512MiB /two active processes. All twenty used D18 source hashes were
+rechecked against the adopted450598 selection and match. The seven additions
+are the D19 wrapper/test, four location Python dependencies and SearchSession.
+Output is absent. Independent exact-selection clearance is pending; root alone
+launches. No Node, DHT, socket or genuine receipt verification is selected.
+
+### Located-controls01 partial result and minimal continuation
+
+Root executed8a302e once. The full six-group run is **FAIL**, not reclassified:
+five groups passed, one failed at its undersized-request-grant assertion; no
+error/skip and clean process/Job closure. The product correctly raised
+`INTEGER_BOUND` from the component bound in `AcquisitionBudget.charge_external`
+before its later aggregate-sum check. The harness wrongly expected
+`RECEIPT_AGGREGATE_BUDGET`. Earlier assertions in that group had reached the
+original-D/shared-prepayment/different-deadline checks; its subsequent undersized
+byte and wrong-profile checks did not run. No product repair is indicated.
+
+Actual outer SHA256
+`96a7c365702c1a2d63c76a3f581764bb3f0cf6f771eb081c52f7fc93e1ba5b5c`;
+inner SHA256 `0103c4a4912fbbcbaead9b5e137685f8bdbd61cf9d1c509c10bb3ca7c81cba20`;
+stderr SHA256 `e84c5ffd63cff359fcd3687c6607fe508067f482997edbab4fc86fe7837c626d`.
+The author read and rehashed these actual files. Root reports0.671875Job +
+0.28125wrapper CPU seconds,1.5174142wall and clean closure. All used product,
+harness, selection and evidence bytes remain frozen. Independent outcome audit
+was requested. No blanket retry or repeat of the five passed groups is selected.
+
+Passed post-transition expiry and policy controls each charged7prepaid logical
+attempts/24576reply bytes plus one789-byte structural allowance and one27-byte
+opaque receipt allowance:9attempts/25392charged reply bytes, no pending/reserved
+request and no store writes. Guard refusals happened before either provider dial
+tripwire was called. These are charged allowances, not actual network bytes.
+More precisely, the tripwire excludes provider `asyncio.open_connection` and
+process-spawn calls; it is not an audit of OS/event-loop internal handles.
+No DHT, authenticated contact or mathematical verification was established.
+
+Root selected a fresh source-only continuation for just the three unfinished
+constructor refusals. `transport/test_located_receipts_remaining.py` imports the
+used fixture setup but explicitly constructs **one named TestSuite case**;
+default discovery, which would inherit/repeat old methods, is forbidden.
+Undersized request and reply grants both correctly expect `INTEGER_BOUND` from
+the retained per-component bounds. The policy mismatch expects the retained
+initial namespace/profile refusal. The runner pins/requires the old actual
+FAIL6/1/0/0 and five passed stderr groups without rewriting them.
+
+Prepared selection02:
+`experiments/v5-local-checks/located-receipt-controls-02-selection.json`, SHA256
+`699f931132b2a7bda37f63f669c077a4dff1e24b008c8e8299646a69ddf4f9ed`.
+Twenty-eight source/twenty runtime-input pins,10CPU seconds /45wall seconds /
+512MiB /two active processes. All27used source pins from01 still match; only
+the new continuation and two retained evidence inputs are added. Output absent.
+Source/exact selection review is pending; no runtime was launched by this lane.
+
+Independent reviewer subsequently adopted the original partial result: all27
+saved/current sources and18runtime pins match, five groups plus the executed
+constructor prefix are valid narrow evidence, and both incomplete component
+overruns properly raise `INTEGER_BOUND`. The same reviewer clears continuation
+699f9311:28source files329,513bytes and20runtime/evidence pins match; output absent;
+the explicit one-case suite cannot repeat inherited old groups. Root alone has
+the cleared finite launch. No product change, fake admission or broad rerun.
