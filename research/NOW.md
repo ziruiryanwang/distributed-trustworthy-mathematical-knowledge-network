@@ -1,5 +1,18 @@
 # Current research desk
 
+**Current D19 / Git introduction:** no root runtime is live. Local source-control
+baseline `7e2c038` preserves 1,010 files / 19,148,512 raw bytes; pre/post disk and
+raw staged SHA-256 agree, with no normalization, moves, deletions or remote.
+See VERSION-CONTROL.md for excluded preserved data and central-agent Git ownership.
+Actual receipt-controls01 passed independent audit (eight groups, synthetic
+nonreceipt only). Structural build02 passed, but run01 found the positional-array
+decoder mismatch; its failure and audited successful prefix remain preserved.
+Mechanism's minimal fallback and continuation build `9ac06819...` are independently
+cleared, not yet run. Stale guest05 must not launch. Scale's D19 located-receipt
+composition passes source review; focused post-transition expiry controls remain.
+Root resumes v5's proof-cost and integrated search/admission priorities after the
+baseline. All final release obligations stay open. Older live entries are history.
+
 **D18 live continuation:** root runs focused structural-frontend-build02 under
 session31949, restoring the retained dependency link's fat-LTO/embedded-bitcode
 flags. Build01 failed at link before tests and is preserved, with clean closure.

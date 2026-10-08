@@ -1,5 +1,16 @@
 # Project work instructions
 
+## Local Git discipline (2026-10-07)
+
+The canonical root now has a local Git repository; see `VERSION-CONTROL.md`.
+The central agent owns staging, commits, branches, and repository configuration.
+Subagents must not mutate the shared Git index or switch branches unless explicitly
+assigned. Stage only reviewed paths and commit coherent checkpoints. No remote or
+license has been selected. Do not normalize line endings or rewrite frozen bytes.
+Ignored runtimes, installations, experiments and state remain essential preserved
+data: never run `git clean`, hard reset, blanket restore/checkout, or force-add an
+excluded tree. Git history does not replace the existing evidence/selection rules.
+
 ## Canonical workspace (mandatory for root and every subagent)
 
 The only project root is

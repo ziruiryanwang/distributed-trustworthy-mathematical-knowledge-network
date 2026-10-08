@@ -4,6 +4,16 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+D19 / Git baseline: root owns Git staging/commits and all finite runtime selections.
+Baseline 7e2c038 is complete, source-only, exact-byte verified; no root runtime
+lives. Mechanism resumes repaired structural continuation/runtime preparation;
+scale resumes narrow located-receipt composition controls; assurance independently
+reviews selections and actual outcomes. No subagent Git mutation is authorized.
+Canonical root E:\Distributed Trustworthy Mathematical Knowledge Network; same
+checkpoints research/cycles/v5-2026-10-07/{CRYPTO-INTEGRATION,DISCOVERY-INTEGRATION,ASSURANCE}.md.
+No repeated passed campaign, stale guest05 launch, external publication, license
+selection, or ignored-data deletion. All broader v5 obligations remain open.
+
 D18 current: mechanism owns D17 foundation/direct-row repair and focused
 differential preparation; scale owns new receipt_store, http_provider_receipts,
 receipt_client and their focused controls under RECEIPT-ACQUISITION-PLAN;
