@@ -1,0 +1,62 @@
+# Operating scenarios and supplied premises
+
+Updated: 2026-09-20. Root-maintained research ledger, not a network scheduler, capacity market or mathematical task list. It indexes finite cases; the linked source controls exact premises and counts. [WORK](WORK.md) controls write ownership. [EVIDENCE](EVIDENCE.md) controls evidence grades. [ASSUMPTIONS](ASSUMPTIONS.md) records cross-project assumptions.
+
+## Why this ledger exists
+
+A numerical example may be internally consistent while its native workload, service times or external supply remain unqualified. Separate four categories:
+
+- **Inherited obligation:** enforced by the specified contract, conditional on a faithful implementation.
+- **Fixture choice:** a deliberately restricted input, topology or arrival sequence; it is not a property of arbitrary workloads.
+- **Supplied premise:** an actual resource or service commitment needed from named roles; a valid identity does not supply it.
+- **Derived consequence:** follows from those obligations, choices and premises. It must not silently become evidence that the premises hold.
+
+The distinction supports engineering hypotheses without demanding that every cost or usefulness heuristic be a theorem. Conversely, writing a favorable bound is not measuring it.
+
+## Case register
+
+| Case | Source / status | Main joint question | Permitted conclusion / next gate |
+|---|---|---|---|
+| SC-CORE-COMPOSITION | [Core comparison](../modules/reciprocal-operability/core-interoperability-comparison.md) `8A276F4A…`, two complete technical rereviews | Exact common logical basis; succ-shift extension, conflicting names and third-agent congruence/transitivity; separate shear/iteration opportunity. Actual finite compatible snapshots/budgets and full support are premises | Conditional typing/representation/capability results, not instantiated Lean objects, new FoundationID, no-cost capsules, global recall, sustained throughput or utility. No reduced BOOT1 basis substituted |
+| SC-TENURE-8 | [TENURE1](../modules/direct-broker/lead-tenure-policy.md) `79DA0348…`, two whole replacement reviews | New hypothetical eight-slot calendar, not a K50 reset: adopt four leads due100; X separately retries at108/listed110; reader refresh112 and independent native stages supplied | Delta10; old removal106; X removal218<=220;99 scans/396 inspections; supplied reader settlement364<400. No measured primitive/native costs, numerical all-owner fit or costed failed baseline. Old versions, X preparation/failures and aftercare remain charged |
+| SC-K50-R1500 | [Capacity source](../modules/broker-economics/repeated-reuse-capacity.md) `9DEA6C57…`, two complete reviews | Retain K50 at1500; four new core-qualified readers with attained exact9-MiB deficits; fixed32-MiB L cohort cap; X has same independent unused initial grants in both policies | Necessary direct-only defeat and sufficient paid-X schedule with fresh visibility/checking. Stronger incumbent stock/work certificates and denied alternate cohort paths are new premises. No costed failed baseline, cold global impossibility or sustained growth |
+| SC-K50-REUSE | [Matched source](../modules/broker-economics/matched-reuse-comparison.md) `E95D8CEE…`, two complete repaired-cut reviews |50 entries/25 sources, same known frontend, two independent warm-core readers; full discovery/check/use/export/custody/publication and later reuse | SELECTIVE and BROAD are different supplied query-incidence regimes. Later BROAD retains P and pays up to8 types,9.0sec/1.24CPU; L CPU sum378. K50 is not Q484. No realized native fixture, net dominance or sustained demand guarantee |
+| SC-DOMAINS | [Bounded-domain comparison](../modules/placement-separation/bounded-domain-service-comparison.md), `4352AEC6…`, two complete repaired-cut reviews | Complete-domain enumeration versus independent chain closure, common-key provider stock, fixed unfamiliar-query budgets and original publication windows | Separate conditional count/information families: N=mk chain, 4,097 providers at the same four depth-zero holders, 25 two-entry providers versus a two-page 50-entry G aggregate. Not one realized native/topology fixture or a positive operating point |
+| SC-N-INITIAL | [N recovery](../modules/reciprocal-operability/routing-recovery-contract.md), selected finite case | Can the initial full H scope revisit placements while also paying incumbent duties and bounded arrivals? | Conditional finite recovery with actual service and reader overlap; not a doubled-scope or perpetual guarantee |
+| SC-O-INGRESS | [O normalization](../modules/reciprocal-operability/batch-normalization-contract.md), selected finite case | Can already-published twenty-target batches lawfully enter binary tiers? | Paid disjoint normalization/carries; physical ancestors and other pending inputs remain charged |
+| SC-GROW-LIMIT | [Growth-boundary triage](../modules/reciprocal-operability/growth-boundary-triage.md), independently reviewed | Which N/O extrapolations fail at the largest admitted carry? | Serial calls, full-lookup cadence and retain-all upper-bound limitations; not an impossibility proof for all schedules |
+| SC-GROW-EPOCH | [P checkpoint](../../notes/checkpoints/CP-001P-joint-growth-epoch.md), source `6D6B9F51…`, independently reviewed conditional case | Can full A carry/recovery coexist with actual independent B contributions and a reciprocal checked-use path? | Twenty-four finite operating days plus preparation; native/service/supply premises are not measured. Future normalization, continuing supply and usefulness remain separate questions; all execution gates NOT RUN |
+| SC-CONTINUE-Q | [Q checkpoint](../../notes/checkpoints/CP-001Q-continuation-admission.md), source `88A7AE7B…`, two source reviews and fresh integration review | Can an actual-state controller fund old progress and nonempty new work from P's surviving B state? | Conditional one-day successor: 196100 calls, 711.0078125 MiB metadata, newly supplied 7.9375-GiB resident peak; 484 targets and 22 pending scopes plus tiers 32/8/4. Not a sustained cadence, realistic measured Lean bound or global optimum |
+| SC-J480 | [Joint envelope](../modules/placement-separation/joint-service-envelope.md), `65F68CA3…`, independently reviewed; UNSELECTED | Hypothetical 480-target old-mode dense/dispersed incidence, separately supplied J-B ceilings, equal useful-service demands and policy-specific work | Specified dispersed conversion exceeds one call grant; all-owner conditional thresholds. Not Q484, a native corpus, actual topology/supply or positive whole-service operating point |
+| SC-JOINT-WINDOW | Same envelope, separately supplied timing case, not a realized J480 workload | Exact residual build 60 + authorization 15 + commit 5 path, relevant C changes every 70 seconds through time 560, actual expiry at 600; other paid service remains | No current authorization by expiry despite a 640-CPU-second attempted-path allowance. Scope is this exact serial recipe; not an implementation-wide lower bound |
+
+## SC-GROW-EPOCH: premise-to-consequence map
+
+Figures here are navigation aids, not additional grants or an independent specification. P's exact selected source and audits control the conditional case; changes need affected review.
+
+| Dimension | Source of obligation or supply | Candidate premise / consumer | Failure consequence |
+|---|---|---|---|
+| Starting mathematical/index state | A owner and native/public guards | One completed 2,048-target run plus one disjoint published READY_FOR_CARRY run; 32,776 owned keys. The special eight-unique/eight-common feature incidence belongs only to A | Wrong incidence, overlapping targets, old tails or invalid anchors require a different admission cut; no arithmetic inheritance |
+| Owner transitions | Existing O / provider-wide ledger | Invalidate before mutation; genuine DROP-before-PUT; per-key settlement and final tier commit distinct | Report partial/uncertain state; do not infer settled coverage from retained ads |
+| Resource co-supply | A owner, B owner and actual remote holders | A retains its H resource ceilings; B receives separate real compute/storage/count/control budgets. Endpoint service and holder storage are not funded by identities | Decline/delay/readmit affected work without stealing incumbent obligations or counting A rows as B rows |
+| Carry reclamation | A plus holders, actual references/fences | Four bounded windows/day with actual lawful tail settlement before the next; at most 20,000 lifetime holders and retained empty-group reuse | Stop next window if stock or reference fences do not clear; timers cannot authorize deletion |
+| Calendar and leases | Actual executors, clocks and holders | Eight carry days, then sixteen recovery days; bounded control/native elapsed times and lease headroom, not CPU totals alone | Withdraw affected completion bound; keep spent work and live obligations |
+| New target stream | Independent local investigators and B | Twenty distinct selected targets/day for 24 days; general STRUCT2 at most 32 tokens/target, not A's artificial incidence | Fewer completed contributions or excess costs defeat this finite trace; no asserted universal production rate |
+| Custody/publication | Existing E and G/H/F authority | New immutable union custody ACTIVE before PUBLIC_SERVE/index/routing; old union release only after replacement protects it | Preserve old protected roots; halt public admission rather than relying on future custody |
+| Native acquisition/use | Qualified local checkers and exact closure suppliers | Paid cold root acquisition, current basis, checked application/export, actual RAM/disk/CPU fit at both endpoints | Native/reciprocal gate remains unpassed; source or metadata success does not substitute |
+| Remote observability | Existing authenticated protocol replies versus local state | Own fenced cleanup is locally inspectable; foreign physical garbage collection and native acceptance are not newly available receipt types | Keep foreign reclamation/acquisition as external premises or explicit owner risk decisions; do not invent a remote-success gate |
+| Cold-start limits | Explicit local import admission and finite remote export leases | A longer whole-import budget cannot extend a short export lease or silently replace smaller receiver defaults; same-inventory staged resume needs new paid authority | Expiry/refusal/exhaustion remains visible; cached verified bytes do not renew remote capability |
+| Meaningful mathematical circulation | Distinct checked judgments, not count alone | A supplies associativity; B produces a four-factor consequence; A checks/uses it in a five-factor consequence contributed at B | Missing discovery/check/application is an incomplete circulation path; successful example alone proves neither causal speedup nor general usefulness |
+| Beyond the finite cut | Future willing suppliers and actual admission | Day 24 leaves real evidence, scopes, costs and pending normalization duties | No free reset, automatic continuation, exponential growth or permanence follows |
+
+## Review discipline
+
+The next continuation is not a repeat with empty ledgers. With one retained pending feature batch per contribution day and no normalization, day 33 exceeds the 32-pending cap regardless of token sharing. The worst-stock renewal envelope already exceeds the unchanged second-renewal window on day 26; the conservative twice-final-stock daily reservation exceeds B's grant on day 30. The latter two are sufficient-envelope failures, not proved actual-cost lower bounds. [ISSUES](ISSUES.md) records the precise qualifications and next question.
+
+1. Compare entire joint calendars and peak states, not independently feasible role budgets.
+2. Require a payer and an admission authority for every endpoint, remote holder, retained generation and cold setup phase.
+3. Read count ceilings, bytes, resident memory, CPU, calls, traffic, I/O and elapsed deadlines as separate constraints.
+4. Link a concrete defeating trace to each consequential external premise; do not hide the premise in an aggregate PASS.
+5. Keep conceptual closure distinct from implementation authorization and observed qualification. A selected conditional case can be useful without being a measured deployment.
+
+This ledger is intentionally small. Add a row when a materially different case changes an inference, not for each draft or agent message. Exact reviewed hashes belong in ARTIFACTS and the corresponding audits/manifests.

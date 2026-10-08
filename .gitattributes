@@ -1,0 +1,4 @@
+# Existing sources/evidence are byte-pinned. Never normalize them during Git I/O.
+# -text preserves CRLF/LF exactly while retaining normal text diffs by detection.
+# Disable inherited content filters and ident expansion as well.
+* -text -filter -ident

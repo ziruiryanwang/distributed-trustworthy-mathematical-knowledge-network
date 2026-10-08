@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "observed_utc": "2026-09-23T07:33:05Z",
+  "canonical_root": "E:\\Distributed Trustworthy Mathematical Knowledge Network",
+  "unexpected_root": "E:\\Distributed Verifiable Mathematical Knowledge Network",
+  "both_roots_initially_ordinary_directories": true,
+  "app_project_id": "a8ba6e03-c5d7-476e-b035-9d83eb22f568",
+  "app_project_path_is_canonical": true,
+  "active_thread_id": "01a04490-1668-7620-aa5a-3ad55a10c02c",
+  "active_thread_cwd_is_unexpected_root": true,
+  "unexpected_directories": [
+    "experiments",
+    "experiments/lean-agent-authoring-syntax",
+    "experiments/useful-reuse-u1"
+  ],
+  "unexpected_total_file_bytes": 3259,
+  "files": [
+    {"relative_path": "experiments/lean-agent-authoring-syntax/01-term.lean", "bytes": 69, "sha256": "e355f852e5aa7ab06fa1a8b972c9d34ce7ad7b2e1fc3ee7198a2da1a2c690201", "canonical_peer_sha256": "e355f852e5aa7ab06fa1a8b972c9d34ce7ad7b2e1fc3ee7198a2da1a2c690201"},
+    {"relative_path": "experiments/lean-agent-authoring-syntax/02-same-line-by-exact.lean", "bytes": 84, "sha256": "f91059779a23a6e471187a240bc5380f057646ecbce34fa1b0af87d90bea19ba", "canonical_peer_sha256": "f91059779a23a6e471187a240bc5380f057646ecbce34fa1b0af87d90bea19ba"},
+    {"relative_path": "experiments/lean-agent-authoring-syntax/03-multiline-by-exact.lean", "bytes": 87, "sha256": "a327c12ead61a85c490a4d58e6231f1488e356301cbb5d32d8068ccf22b48ff5", "canonical_peer_sha256": "a327c12ead61a85c490a4d58e6231f1488e356301cbb5d32d8068ccf22b48ff5"},
+    {"relative_path": "experiments/lean-agent-authoring-syntax/04-multiline-by-let.lean", "bytes": 114, "sha256": "bc6f8fd741f96e5677d35f019bf2e99e7834b753d382bf8651943dc3428fc859", "canonical_peer_sha256": "bc6f8fd741f96e5677d35f019bf2e99e7834b753d382bf8651943dc3428fc859"},
+    {"relative_path": "experiments/lean-agent-authoring-syntax/RESULTS.md", "bytes": 2905, "sha256": "1fec3055efe00a43f40ef2dbc317859f799c9ff145a6ee40f7fb7afed3b3e323", "canonical_peer_sha256": "91e92912dbfacc57709149cc9a226be7615725d5ab06feba4ed1d7f08d049c33"}
+  ]
+}

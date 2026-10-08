@@ -1,0 +1,176 @@
+{
+  "scope": "READ_ONLY_SAVED_STAGE_ATTRIBUTION_NOT_NEW_BENCHMARK",
+  "slices": [
+    {
+      "slice": 1,
+      "file_sha256": "0dbb688577d9dc7db19373a4abe12e04fe3ed03d04f2496bb79a60411d9d7826",
+      "stages": 1,
+      "stage_cpu": 601.625,
+      "inclusive_job_cpu": 646.359375,
+      "enclosing_non_stage_cpu": 44.734375,
+      "public_controller_saved_cpu": 44.6875,
+      "outer_controller_saved_cpu": 1.265625
+    },
+    {
+      "slice": 2,
+      "file_sha256": "88248674271e334069e0eb49890ea5d78e033bc9b07a9391a94fc56ba4de0fdc",
+      "stages": 9,
+      "stage_cpu": 3028.71875,
+      "inclusive_job_cpu": 3252.859375,
+      "enclosing_non_stage_cpu": 224.140625,
+      "public_controller_saved_cpu": 224.046875,
+      "outer_controller_saved_cpu": 9.21875
+    },
+    {
+      "slice": 3,
+      "file_sha256": "9ad9a49771873cde688cce3087178edf7f7335bf6adba3bacbae819dcfd59989",
+      "stages": 9,
+      "stage_cpu": 2947.421875,
+      "inclusive_job_cpu": 3208.34375,
+      "enclosing_non_stage_cpu": 260.921875,
+      "public_controller_saved_cpu": 260.765625,
+      "outer_controller_saved_cpu": 11.984375
+    },
+    {
+      "slice": 4,
+      "file_sha256": "46e13d5104191e4fcb7b4bbf1e2d5ae9c964fd604fbb4c35eaca3b361660667c",
+      "stages": 9,
+      "stage_cpu": 2921.875,
+      "inclusive_job_cpu": 3182.171875,
+      "enclosing_non_stage_cpu": 260.296875,
+      "public_controller_saved_cpu": 260.1875,
+      "outer_controller_saved_cpu": 14.234375
+    },
+    {
+      "slice": 5,
+      "file_sha256": "4918fd336e41c65c095c457350479bfdc816b6ca80b8a7db39ba454cef31b793",
+      "stages": 9,
+      "stage_cpu": 2938.9375,
+      "inclusive_job_cpu": 3082.71875,
+      "enclosing_non_stage_cpu": 143.78125,
+      "public_controller_saved_cpu": 143.703125,
+      "outer_controller_saved_cpu": 6.453125
+    },
+    {
+      "slice": 6,
+      "file_sha256": "d778c134bd1f4d4d39dfe4d84b5328971822082851f28da6a528cf21eda74d97",
+      "stages": 12,
+      "stage_cpu": 3972.953125,
+      "inclusive_job_cpu": 4184.328125,
+      "enclosing_non_stage_cpu": 211.375,
+      "public_controller_saved_cpu": 211.234375,
+      "outer_controller_saved_cpu": 10.46875
+    },
+    {
+      "slice": 7,
+      "file_sha256": "e1a2b7ab641ee1e3a7e6a7796c36eba3aa56f65858b8b396e67ed4dc860f66e6",
+      "stages": 12,
+      "stage_cpu": 4058.96875,
+      "inclusive_job_cpu": 4288.3125,
+      "enclosing_non_stage_cpu": 229.34375,
+      "public_controller_saved_cpu": 229.21875,
+      "outer_controller_saved_cpu": 12.34375
+    },
+    {
+      "slice": 8,
+      "file_sha256": "c35d6a7209d3ed706c2c16c082460198ee58741cc484568b1cc850615254b27f",
+      "stages": 12,
+      "stage_cpu": 4039.453125,
+      "inclusive_job_cpu": 4278.609375,
+      "enclosing_non_stage_cpu": 239.15625,
+      "public_controller_saved_cpu": 239.046875,
+      "outer_controller_saved_cpu": 13.828125
+    },
+    {
+      "slice": 9,
+      "file_sha256": "930700fc3d1845974e9487fd6d7e08cddb2d477d750ee68d4b3c51f02d5af370",
+      "stages": 12,
+      "stage_cpu": 4053.03125,
+      "inclusive_job_cpu": 4311.4375,
+      "enclosing_non_stage_cpu": 258.40625,
+      "public_controller_saved_cpu": 258.234375,
+      "outer_controller_saved_cpu": 16.046875
+    },
+    {
+      "slice": 10,
+      "file_sha256": "7577fc25f59919907cae7dea5a842581432902030ada7dab90949a7eec6ec50b",
+      "stages": 12,
+      "stage_cpu": 4081.421875,
+      "inclusive_job_cpu": 4358.5625,
+      "enclosing_non_stage_cpu": 277.140625,
+      "public_controller_saved_cpu": 276.96875,
+      "outer_controller_saved_cpu": 18.984375
+    },
+    {
+      "slice": 11,
+      "file_sha256": "88f29dd8ad44fd1d35058deff37eae03322d42ccb9b5bcbbbb0ffeaebc03b279",
+      "stages": 12,
+      "stage_cpu": 4051.78125,
+      "inclusive_job_cpu": 4336.75,
+      "enclosing_non_stage_cpu": 284.96875,
+      "public_controller_saved_cpu": 284.78125,
+      "outer_controller_saved_cpu": 21.734375
+    },
+    {
+      "slice": 12,
+      "file_sha256": "b18c0b0c6507acbf9f4aae76f87dac73131bdd74c75820f10626a303c7a51293",
+      "stages": 13,
+      "stage_cpu": 3131.125,
+      "inclusive_job_cpu": 3398,
+      "enclosing_non_stage_cpu": 266.875,
+      "public_controller_saved_cpu": 266.6875,
+      "outer_controller_saved_cpu": 19.203125
+    }
+  ],
+  "kinds": [
+    {
+      "kind": "segment",
+      "stages": 40,
+      "worker_cpu": 30920.71875,
+      "sum_command_wall_seconds": 2666.923163
+    },
+    {
+      "kind": "lift",
+      "stages": 40,
+      "worker_cpu": 4466.390625,
+      "sum_command_wall_seconds": 1456.438389
+    },
+    {
+      "kind": "join",
+      "stages": 39,
+      "worker_cpu": 4334.625,
+      "sum_command_wall_seconds": 1405.450113
+    },
+    {
+      "kind": "resolve",
+      "stages": 1,
+      "worker_cpu": 103.65625,
+      "sum_command_wall_seconds": 30.106057
+    },
+    {
+      "kind": "finish",
+      "stages": 1,
+      "worker_cpu": 1.890625,
+      "sum_command_wall_seconds": 2.2997
+    },
+    {
+      "kind": "verify",
+      "stages": 1,
+      "worker_cpu": 0.03125,
+      "sum_command_wall_seconds": 0.063926
+    }
+  ],
+  "total_stages": 122,
+  "distinct_stage_ids": 122,
+  "inclusive_job_cpu": 42528.453125,
+  "stage_cpu": 39827.3125,
+  "enclosing_non_stage_cpu": 2701.140625,
+  "public_controller_saved_cpu": 2699.5625,
+  "outer_controller_saved_cpu": 155.765625,
+  "known_preparation_and_production_cpu_seconds": 42781.21875,
+  "known_advance_cpu_seconds": 42684.25,
+  "known_subtotal_less_measured_stage_cpu_seconds": 2953.90625,
+  "observed_known_subtotal_non_stage_fraction": 0.06904679988809341,
+  "observed_known_subtotal_segment_fraction": 0.7227638588486917,
+  "accounting_rule": "Nested stage CPU is a decomposition of enclosing Jobs, not an additional expense. Saved controller samples exclude some terminal tails. Broad unmetered costs are not zero."
+}

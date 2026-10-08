@@ -1,0 +1,123 @@
+{
+  "schema": "DMKN_V4_LOCAL_HANDOFF_ARTIFACTS_V1",
+  "milestone": "2026-10-02-v4-tentative",
+  "status": "LOCAL_EXPERIMENTAL_SHIPPED_READER_QUALIFIED_CONTRIBUTOR_REUSE_RELEASE_HOLD",
+  "full_project_goal_complete": false,
+  "externally_published": false,
+  "license_decided": false,
+  "independent_host_qualified": false,
+  "archives": [
+    {
+      "path": "../../product-local/certified-v4-package-01/mathematical-commons-v4-base.zip",
+      "bytes": 97817285,
+      "sha256": "773edc7f05ce3c6d3f5224801327c276cfbdd6a1b3c4d36f2197a3d49f238399"
+    },
+    {
+      "path": "../../product-local/certified-v4-package-01/mathematical-commons-v4-contributor.zip",
+      "bytes": 2349904469,
+      "sha256": "6160546271798a695fd8e823b73fe68426079f1e0a0af40152c5fa84346bf4ed"
+    }
+  ],
+  "portable_file_maps": [
+    {
+      "path": "../../product-local/certified-v4-package-01/BASE-FILES.json",
+      "bytes": 87278,
+      "sha256": "857a49267ed4ad0a70576d16c0e4c80eaf66c2c57390a7a5a1fd334d8cbea5e0"
+    },
+    {
+      "path": "../../product-local/certified-v4-package-01/CONTRIBUTOR-FILES.json",
+      "bytes": 2078309,
+      "sha256": "c7c00b38458519e2c07f0c6acfe7a999e7ce4cbe52e6531b32b641a644d602c3"
+    }
+  ],
+  "actual_shipped_receiver_profile": {
+    "path": "../../product-local/certified-v4-package-01/app/receiver/profile.json",
+    "bytes": 78883,
+    "sha256": "4803d60f1498635e60a71684709b6b6388935105598ca82e5a06aa64cca00785"
+  },
+  "actual_producer_origin_profile": {
+    "path": "../../product-local/certified-definitions-integration-02/install/profile.json",
+    "bytes": 1881153,
+    "sha256": "e3a65bc792029d7fd3f028d127d54d2f8f5e3f72dd0d695003bbbd635f0b9f7c"
+  },
+  "actual_peer_source": "../../product-local/certified-typed-directory-source-07",
+  "qualified_acquired_seed_bundle": {
+    "directory": "../../experiments/certified-typed-exchange-01/transfer-seed02/A-state/objects/07458f3ecdcc3b7394ffaac8023afa71c723d6841b892ab2f7a7d0532966dc3d",
+    "bundle_id": "07458f3ecdcc3b7394ffaac8023afa71c723d6841b892ab2f7a7d0532966dc3d",
+    "files": {
+      "bundle.json": {
+        "bytes": 823,
+        "sha256": "65508773450d8eafc3766bf2016ca40a451e9d1de3d8e7e08235508c35333ebf"
+      },
+      "capsule.json": {
+        "bytes": 5575,
+        "sha256": "e3fc6f3a361e6a6d4aca84815e5ccfc18b7078612827079025afc26e1830d840"
+      },
+      "journal.bin": {
+        "bytes": 192,
+        "sha256": "5a8b0843cd1af6a15cc623306d1a297a026aae0ad30a36024d29b49bd683dc6d"
+      },
+      "receipt.bin": {
+        "bytes": 223610,
+        "sha256": "94e38b8109ab6a83183e23767904ed2df67c0142e707f97c5bd9cdcb580002cd"
+      }
+    },
+    "receipt_verification_status": "ACTUAL_SHIPPED_READER_ACCEPTED_CONDITIONAL_EXPERIMENTAL_RELATION",
+    "no_ancestral_proof_files_required": true
+  },
+  "evidence": [
+    {
+      "path": "../../experiments/certified-v4-package-01/OUTCOME-REVIEW.md",
+      "bytes": 4497,
+      "sha256": "d9140e78212635b05299020dff03c3b236e22090f1147e3ea1ff680b7da3d0f9"
+    },
+    {
+      "path": "../../experiments/certified-growth-01/SEED-FINAL-031-OUTCOME.md",
+      "bytes": 4704,
+      "sha256": "787fbf032d9cecb12fd27dc52a00e864620bd3a34d137134837bc3116b1d1009"
+    },
+    {
+      "path": "../../experiments/certified-typed-exchange-01/TRANSFER-SEED02-OUTCOME.md",
+      "bytes": 6712,
+      "sha256": "4914c923fbcc5b42384390476413f09358557ebefad4a5d51a51945046acf26a"
+    },
+    {
+      "path": "../../experiments/certified-typed-receiver-01/real-receiver-01/RESULT.json",
+      "bytes": 27071,
+      "sha256": "9a1cada503bba064137ddab29f33f21c4f5303feb2eb1b2200fa7653d33ac7f7"
+    },
+    {
+      "path": "../../experiments/certified-typed-receiver-01/REAL-QUALIFICATION-OUTCOME.md",
+      "bytes": 8396,
+      "sha256": "64b44ce6fb100aa174f6f024e339d548bd2bedc03adf1f4f0f2c5786beeb8f65"
+    },
+    {
+      "path": "../../experiments/certified-growth-01/prepare-reuse01-controller/RESULT.json",
+      "bytes": 26117,
+      "sha256": "2bb333decdbe74b4ed9f9bba8ec178e8acee3838c66df1cfba0fdae4eea1d655"
+    },
+    {
+      "path": "../../experiments/certified-growth-01/PREPARE-REUSE01-OUTCOME-REVIEW.md",
+      "bytes": 7386,
+      "sha256": "44c10fe3d1ba04f978fa16be64e5d8cf27afff4b13480e805d2884aac938c377"
+    }
+  ],
+  "downstream_result": {
+    "status": "FAILED_NOT_RESUMABLE",
+    "error": "ValueError: BRIDGE_RESERVED_FOUNDATION",
+    "actual_parent_receipt_verified": true,
+    "actual_native_conditional_proof_use": true,
+    "same_native_endpoint_capsule_as_direct": true,
+    "guest_snapshot": false,
+    "ready": false,
+    "child_certificate": false,
+    "reciprocal_certified_return": false,
+    "net_useful_growth_established": false,
+    "native_endpoint_capsule": {
+      "bytes": 8790,
+      "sha256": "6a894fda3d5d78e2c9d97b1c4af572ca1ff1594da990f0c6e69325c6c76305be"
+    },
+    "failed_known_cpu_seconds": 46.859375
+  },
+  "integrity_scope": "Recorded archive pins reuse the independently adopted package audit. This handoff creates no replacement archives. Hashes bind bytes, not mathematical soundness. Paths are relative to this handoff directory and remain inside the canonical project root."
+}

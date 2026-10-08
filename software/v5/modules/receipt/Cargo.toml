@@ -1,0 +1,32 @@
+[package]
+name = "dmkn-module-relation"
+version = "0.1.0"
+edition = "2021"
+publish = false
+autobins = false
+
+[lib]
+name = "dmkn_module_relation"
+path = "src/lib.rs"
+
+[[bin]]
+name = "dmkn-module-guest"
+path = "src/main.rs"
+
+[[bin]]
+name = "dmkn-module-native"
+path = "src/bin/receipt_native.rs"
+
+[workspace]
+
+[dependencies]
+nanoda_lib = { path = "../native/checker" }
+serde = { version = "1.0.228", features = ["derive"] }
+serde_json = "1.0.111"
+risc0-zkvm = { path = "E:/Distributed Trustworthy Mathematical Knowledge Network/experiments/general-checker-guest-01/host-prepare-01/candidate/risc0-3bbcd44d6459b9ef6ac0df3846dc9215514934e8/risc0/zkvm", default-features = false, features = ["std"] }
+
+[profile.release]
+opt-level = 3
+overflow-checks = true
+lto = true
+panic = "abort"

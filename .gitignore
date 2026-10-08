@@ -1,0 +1,77 @@
+# Deliberate initial repository scope. This is source control, not an evidence backup.
+# Unlisted root directories require an explicit scope review before being tracked.
+/*
+!/*.md
+!/.gitignore
+!/.gitattributes
+!/software/
+!/tools/
+!/research/
+!/notes/
+!/spec/
+!/security/
+!/deliverables/
+
+# Preserved installations, state, raw evidence, and historical source snapshots.
+# These remain on disk; do not use git clean on this project.
+/experiments/
+/product-local/
+/software/runtime/
+/software/build/
+/software/release/
+/software/qualification/
+/research/audits/workspace-repair-2026-09-23/inplace-junction-test-01/
+
+# Dependencies and generated outputs, wherever they occur inside selected roots.
+node_modules/
+target/
+.lake/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+*.py[cod]
+*.olean
+*.ilean
+*.o
+*.obj
+*.rlib
+*.rmeta
+*.exe
+*.dll
+*.pdb
+*.lib
+*.so
+*.dylib
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+*.zst
+*.log
+*.tmp
+
+# Operational secrets and mutable node/database state are never implicit source.
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.keystore
+id_rsa
+id_ed25519
+credentials.json
+secrets.json
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+
+# Keep Cargo.lock and other reproducibility lockfiles: do not ignore *.lock.

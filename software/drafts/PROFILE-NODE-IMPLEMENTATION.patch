@@ -1,0 +1,135 @@
+diff --git a/py/node.py b/py/node.py
+--- a/py/node.py
++++ b/py/node.py
+@@ -25,1 +25,106 @@
+-def keys(value, required, optional=()):
++def _diagnostic_profile_selected(req):
++    """Fresh-install diagnostic only; no public profile option."""
++    args = req["args"]
++    if not (req["op"] == "submit" and req["request_id"] == "profile-target-001"
++            and args.get("root") == "ChunkedReductionStatement"
++            and type(args.get("source")) is str):
++        return False
++    try:
++        source = args["source"].encode("utf-8")
++    except UnicodeError:
++        return False
++    return (len(source) == 643 and digest(source)
++            == "2c1f0832c82e73423d212ca5782ca28ee4088d6ec4c53c4d72f8726e3f76570e")
++
++
++def _diagnostic_profile_start():
++    state = {"profiler": None, "error": None, "cpu_start": None, "cpu_seconds": None}
++    try:
++        import cProfile
++        state["profiler"] = cProfile.Profile(timer=time.process_time, subcalls=False)
++        state["cpu_start"] = time.process_time()
++        state["profiler"].enable(subcalls=False)
++    except Exception as error:
++        state["error"] = "start:" + type(error).__name__
++    return state
++
++
++def _diagnostic_profile_stop(state):
++    if state["profiler"] is not None:
++        try:
++            state["profiler"].disable()
++            state["cpu_seconds"] = time.process_time() - state["cpu_start"]
++        except Exception as error:
++            state["error"] = "stop:" + type(error).__name__
++
++
++def _diagnostic_profile_write(state, event_path, domains, event):
++    """Best-effort bounded diagnostics, after the ordinary response is flushed."""
++    try:
++        import json
++        require(state["error"] is None and state["profiler"] is not None,
++                "PROFILE_UNAVAILABLE:" + str(state["error"]))
++        require(event_path is not None and not event["historical"], "PROFILE_EVENT_REQUIRED")
++        event_path = event_path.resolve(strict=True)
++        require(event_path.is_file() and event_path.parent == Path(event["origin_directory"]),
++                "PROFILE_EVENT_BINDING")
++        destination = domains.require_write(event_path.parent / "dispatcher-profile.json")
++        require(destination.parent == event_path.parent and not destination.exists(),
++                "PROFILE_NEW_SIDECAR_REQUIRED")
++        entries = state["profiler"].getstats()
++        require(len(entries) <= 10000, "PROFILE_ENTRY_BOUND")
++        exclusive = sorted(range(len(entries)),
++                           key=lambda i: (-entries[i].inlinetime, i))[:30]
++        cumulative = sorted(range(len(entries)),
++                            key=lambda i: (-entries[i].totaltime, i))[:30]
++        selected = list(dict.fromkeys(exclusive + cumulative))
++        exclusive_rank = {index: rank + 1 for rank, index in enumerate(exclusive)}
++        cumulative_rank = {index: rank + 1 for rank, index in enumerate(cumulative)}
++        rows = []
++        for index in selected:
++            entry = entries[index]
++            code = entry.code
++            filename = "" if isinstance(code, str) else code.co_filename
++            name = code if isinstance(code, str) else code.co_name
++            rows.append({"entry_index": index, "filename": filename[-256:],
++                         "line": 0 if isinstance(code, str) else code.co_firstlineno,
++                         "function": name[:160],
++                         "labels_truncated": len(filename) > 256 or len(name) > 160,
++                         "calls": entry.callcount, "recursive_calls": entry.reccallcount,
++                         "exclusive_cpu_seconds": entry.inlinetime,
++                         "cumulative_cpu_seconds": entry.totaltime,
++                         "exclusive_rank": exclusive_rank.get(index),
++                         "cumulative_rank": cumulative_rank.get(index)})
++        node_path = Path(__file__).resolve(strict=True)
++        record = {"schema": 1, "status": "RECORDED_DIAGNOSTIC_NOT_ACCEPTANCE",
++                  "request_sha256": event["request_sha256"],
++                  "response_sha256": event["response_sha256"],
++                  "node_path": str(node_path), "node_sha256": digest(read(node_path, 2 * MIB)),
++                  "source_root": "ChunkedReductionStatement", "source_bytes": 643,
++                  "source_sha256": "2c1f0832c82e73423d212ca5782ca28ee4088d6ec4c53c4d72f8726e3f76570e",
++                  "request_id": "profile-target-001", "historical": False,
++                  "timer": "time.process_time", "subcalls": False,
++                  "scope": "Dispatcher construction and execute; child CPU excluded",
++                  "profiling_overhead": "UNMEASURED_INCLUDED",
++                  "scope_process_cpu_seconds": state["cpu_seconds"],
++                  "entry_count": len(entries), "entry_limit": 10000,
++                  "top_each": 30, "row_count": len(rows), "rows": rows,
++                  "output_limit_bytes": 65536}
++        raw = (json.dumps(record, sort_keys=True, separators=(",", ":"),
++                          ensure_ascii=True, allow_nan=False) + "\n").encode("utf-8")
++        require(len(rows) <= 60 and len(raw) <= 65536, "PROFILE_OUTPUT_BOUND")
++        with destination.open("xb") as stream:
++            stream.write(raw)
++            stream.flush()
++            os.fsync(stream.fileno())
++    except Exception as error:
++        warning = ("DISPATCHER_PROFILE_UNAVAILABLE:" + type(error).__name__ + ":"
++                   + str(error)[:160] + "\n").encode("ascii", "backslashreplace")[:512]
++        try:
++            sys.stderr.buffer.write(warning)
++            sys.stderr.buffer.flush()
++        except Exception:
++            pass
++
++
++def keys(value, required, optional=()):
+@@ -404,3 +509,4 @@
+-    store = None
+-    try:
+-        require(sys.dont_write_bytecode and sys.flags.ignore_environment and sys.flags.no_site
++    store = None
++    diagnostic_profile = None
++    try:
++        require(sys.dont_write_bytecode and sys.flags.ignore_environment and sys.flags.no_site
+@@ -423,1 +529,7 @@
+-                reply = Dispatcher(config, store, event).execute(req, raw)
++                if _diagnostic_profile_selected(req):
++                    diagnostic_profile = _diagnostic_profile_start()
++                try:
++                    reply = Dispatcher(config, store, event).execute(req, raw)
++                finally:
++                    if diagnostic_profile is not None:
++                        _diagnostic_profile_stop(diagnostic_profile)
+@@ -447,2 +559,4 @@
+-    sys.stdout.buffer.flush()
+-    return 0
++    sys.stdout.buffer.flush()
++    if diagnostic_profile is not None:
++        _diagnostic_profile_write(diagnostic_profile, args.event, domains, event)
++    return 0

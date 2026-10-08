@@ -1,0 +1,4974 @@
+# Current research desk
+
+**D18 live continuation:** root runs focused structural-frontend-build02 under
+session31949, restoring the retained dependency link's fat-LTO/embedded-bitcode
+flags. Build01 failed at link before tests and is preserved, with clean closure.
+No guest/proof is live. Mechanism prepares source-backed bounded native deltas
+over certified frontiers for selective certification, while scale implements
+receipt acquisition/custody. Root's COMPACT-SEMANTIC-DAG contract has independent
+concept review and now charges context-instantiated edges/bytes and feature work.
+These designs are not completed implementation or release evidence.
+
+**Current D18:** no root runtime lives. Actual location02 passed independent
+audit: bootstrap/DHT/Noise referral to same-budget formal candidate search.
+Actual prefix02 reached native row decoding; profile2 snapshot02 remains failed
+at the unchanged execution ceiling, with no capsule or receipt. Mechanism owns
+D17's combined exact static foundation comparator and direct-row fast path with
+unchanged general-decoder fallback; independent review precedes runtime. Root
+selects source implementation of minimal receipt custody/acquisition, owned by
+scale, with one absolute workflow deadline and no mathematical authority from
+stored offers. Root owns compact semantic-DAG nonexpansion design and integration;
+assurance challenges both lanes. All final v5 obligations remain open. Preserve
+passed controls and all failures; earlier live descriptions are historical.
+
+**Latest D17:** no root runtime lives. Guest04/host03/image03 built and passed
+independent audits, but profile2 snapshot02 STILL exceeds unchanged2^25 budget;
+no capsule or proof exists. Root prepares one current-image prefix diagnostic;
+mechanism/reviewer investigate structural foundation/hash cost before another
+build. Location01 failed before provider READY after four role controls passed;
+source audit finds missing mandatory retained Ping service. Scale owns narrow
+service-composition continuation and persisted child diagnostics; prior failure
+and passed controls remain intact. New authoring source is unreviewed/unrun.
+All final v5 obligations remain open; earlier live statements are history.
+
+**Latest D16:** native existential continuation passed independent actual audit;
+five completed projected cases were reused, remaining alternate-proof/refusal/
+layout/183validation controls passed. Root now selects guest04 and host03
+builds in parallel, unchanged finite budgets. New profile2 has no real guest
+execution or certificate yet. Controller cross-language/lifecycle controls
+passed; actual Noise-to-index integration awaits a narrow explicit reader-role
+successor so a reader need not fabricate an advertised endpoint. Root owns
+certificate execution/integration and full-cost growth; agents own mechanism,
+location and independent assurance. All final v5 release obligations stay open.
+Older live-process statements below are historical.
+
+**Current D16:** no runtime lives. Location continuation02 passes actual audit;
+seven historical plus six fresh groups cover the focused Node boundary, no real
+sockets. Native profile2 differential01 passed its first five projected cases
+then failed on an alternate-proof fixture's duplicate expression node. Mechanism
+prepares a fresh intern/reuse fixture continuation; native guards stay intact.
+Full retained dependency checks and process closure succeeded. The new-image prefix01
+diagnostic passes independent audit and identifies software SHA plus JSON work
+in its partial prefix; it did not complete execution. Root selects existential
+profile2 certificates (DMKNM002,184B): omit whole-witness provenance digest,
+preserve all mathematics/structure/parent checks. Mechanism implements and
+prepares differential controls; root's profile2 admission six controls already
+pass actual independent audit. New snapshot adapter is source-reviewed, not run.
+Scale prepares owner-bound controller/IPC and real loopback integration without
+editing the used Node slice; assurance identified a spawn/close race before any
+runtime. Prospective guest04/host03 await actual differential completion; no proof.
+All full v5 release obligations remain open. Older live statements are history.
+
+**Current live D14:** combined guest03 build runs under root session4066 with
+reviewed selection c45048fd3faf68930271ea2738a6772b5254a6f016a3a1f93f8f4ea4334b4793.
+All selected source bytes remain stable. The frontend differential is actually
+audited PASS (five journals,58shape/25canonical controls,10native calls).
+Admission's10pure controls pass actual audit; one real malformed-receipt wrapper
+refusal and12location controls completed cleanly and await actual review.
+The candidate socket integration actual audit is adopted. Root prepares a
+snapshot-as-execution-screen that retains successful work for subsequent proof
+stages; no guest execution or proof is yet selected. Mechanism prepares actual
+assembly02 only after guest03 result; scale maps retained Node routing adapter.
+
+**Latest D13/D14 state:** candidate-session controls01 and actual public
+offer->candidate integration01 pass bounded execution (actual integration audit
+follows). Two-request integration: 877 request/6,305 reply/453 header bytes,
+one fusion claim, full32 scan charge, no coverage or verified-cursor promotion;
+0.78125 Job + 0.28125 wrapper CPU, clean closure. No mathematical acceptance
+or worldwide routing follows.
+
+Frontend A/B/C source and focused 58-shape/25-canonical/five-held-journal
+differential harness pass source review; exact one-link build selection awaits
+final independent clearance. Root public receipt-admission source now exists
+under software/v5/admission, with same-call verifier binding and registered
+revocable handles; two reviewed deadline seams were repaired before runtime.
+Pure binding controls await exact selection review, not crypto success.
+Scale owns new software/v5/location key/descriptor/egress/aggregate-budget
+implementation under maintained-location assumptions. No new guest, proof,
+external deployment or final v5 release is selected by these steps.
+
+**Current D13 continuation:** constructor differential run01 passes independent
+actual audit: five retained positive witnesses and six exact refusals, 0.3125
+Job + 0.25 wrapper CPU seconds, clean closure. No guest speedup follows from
+this structural result. Root adopts FRONTEND-COST-PLAN and selects the combined
+move-extraction / one-pass canonical validation / foundation-encoding reuse
+implementation, preserving serde map AND positional-array inputs and public
+parse/check contracts. Mechanism owns source and focused differential preparation;
+assurance reviews before any build. One combined guest follows only if cleared.
+
+Root selects public candidate-session-controls01 after independent source/pin
+review (365f6640d384f49c6890c2678ab69860ba47cbe3eaf1a9010dc3ae508f3103e0).
+Scale prepares only the changed offer->candidate actual HTTP path on retained
+index bytes. No index rebuild, old guest/proof rerun or repeated network-loss
+campaign. All six full release obligations remain open; v5 is not delivered.
+
+**Current D12 cost decision:** candidate-controls02 now passes all nine controls
+and independent actual audit; failed fixture01 is preserved. Root's partial
+trace01 FAILED at its bounded sample-cell ceiling, but fresh OFFLINE analysis01
+passes independent audit without another VM run. Of 131,491 retained instruction
+samples: write_all 28,782; memcpy 20,170; canonical::emit 15,462;
+deserialize_any 11,775; 22,680 remain unattributed/overlapping. This is a partial
+prefix, not total/proof cost. SDK cycle fields are weighted unpadded row points,
+5040 per row-equivalent, distinct from padded session-limit accounting.
+
+Mechanism prepares exact 11-case old/new constructor differential runtime after
+its small standalone build passed (13.453125 worker CPU); then examines strict
+input movement and redundant canonical passes. Scale resumes public positive-
+candidate integration, with full requested scan charging and dedup by exact
+(object_id,RecordID) so first-provider metadata cannot suppress later honest
+alternatives. Assurance independently reviews each changed boundary. No runtime
+or proof is currently live; final v5 release obligations remain open.
+
+**Current D12 checkpoint:** actual unknown-SID offer->page passes independent
+review (811 request/6,203 reply bytes, two calls, one fusion candidate, clean
+shared budgets). Host metadata03 and diagnostic host-link02 now pass; link02
+uses 104.0625 worker + 17.28125 controller CPU seconds, assisted clean closure:
+the selected exact Job-owned VCTIP PID33172 was terminated and observed exited.
+No runtime is live. Root prepares one partial-PC diagnostic on the SAME old
+guest image and 2^25 ceiling, reusing the exact prepared frame/journal.
+
+Candidate-only controls01 FAILED: fixture committed partition-root hashes but
+did not persist their nonempty partition nodes. Actual provider Store admission
+does persist them. Author/reviewer independently identify this fixture defect;
+only fixture repair/fresh02 are next, not a changed correctness rule or relabeled
+pass. Mechanism's move-based descriptor construction has independent source
+equivalence review; standalone old/new differential preparation is next.
+No v5 cryptographic receipt or final release yet. All older entries are history.
+
+**Current D11 actual state:** guest02, host-link01 and image assembly01 have
+finished and passed independent outcome review. The first actual base-module
+guest execution, module-base-execute01, FAILED at its selected cycle ceiling:
+`Session limit exceeded: 33557665 >= 33554432`. Preparation and independent
+frame/journal binding passed; no completed execution, total-cost estimate or
+certificate exists. Job CPU 2.234375 seconds, wrapper 0.40625, wall 7.8061117;
+clean process closure. Preserve this result; diagnose cost before changing caps.
+
+Root selects the independently cleared two-request offer-public-integration01
+(`72f13c0e1c80694503c2a3e8e9c73e14f1fecb599c65e33c0089e7e7b5723587`):
+actual unknown-SnapshotID offer, then authenticated page from the returned plan,
+on a copy of retained index bytes. No rebuild, proof, native or failover repeat.
+Mechanism analyzes guest costs; root inspects SDK profiling; scale owns isolated
+bounded candidate-only retrieval; assurance reviews actual results and corrected
+growth-locality accounting. All full v5 release obligations remain open.
+Older launch paragraphs below are historical, not live-process statements.
+
+**Current D10 launches:** independent source/selection review clears guest02
+(86e38250bf1f4241f081ab13893e0eacce9e41411d70d204c46722171a707113)
+and host-link01 (761d12fe9c8b310018f41bf018d619084ecffa5a410c9402dc4b3f409fdadf12).
+Root runs guest02 under session21169 and host01 under session90512. Separate
+finite resources, fresh evidence, no guest execution or cryptographic proof.
+Host lifecycle uses the reviewed exact Job-owned/hash-pinned telemetry cleanup
+policy. Scale implements advisory provider/snapshot offers with same-session
+budgets; root will connect this public entry path to certified reuse.
+
+**Latest D10 actual state:** three parallel actual runs pass independent audit:
+host metadata02, seven compact-public controls, and retained-summary HTTP
+comparison 89,988 -> 3,017 bytes (96.64733% reduction), no index rebuild.
+Guest-build01 FAILED before commands at numeric census/pruned_aliases bookkeeping;
+48.96875 controller CPU seconds remain charged and root reaped session65319.
+No runtime is live. Mechanism repairs exact adapter and prepares reviewed fresh
+guest02; then real host link/image assembly. Scale investigates public provider
+offers and the common-feature intersection bottleneck; assurance reviews.
+Root owns integration and adoption. Full final v5 is not delivered.
+
+**Earlier D10 launch record:** canonical guard passes; full final v5 remains the goal.
+Root selected the independently reviewed guest-build01 (exact selection
+5ef8613f79c7ddb47704fa0930dfaaa854b3df32f15f2cc78ea44338202d8f6a),
+live under root session65319: offline graph validation and new guest build only,
+no execution/proof. Host metadata01 failed cleanly at the SDK typed-assumption
+conversion; failure is preserved. Mechanism repairs using SDK into_unknown and
+prepares metadata02. Scale's seven public compact-summary controls and root's
+two-request retained-index comparison await exact selection review. No repeated
+index build, network failover or native mathematics campaign. Frozen evidence
+and v4 remain unchanged; all six full release obligations stay open.
+
+**Latest D09 actual progress:** physical index comparison passes91.73028% size
+reduction (28,975,104 ->2,396,160B),19unchanged snapshots/421map proofs/exact summary
+and6pages. New index-buildCPU1.296875; no old matched timing. Receipt hash10calls,
+five new-policy actual native wrapper checks,9binding negatives and6compression
+contracts pass cleanly. Still no v5cryptographic receipt; native build lifecycle
+failed descendant cleanup and its reviewed executable was separately used.
+No runtime remains live. Next source owners: mechanism actual new-profile staged
+host/strict receiver + guest build prep; scale sparse authenticated-summary wire
+encoding; root integration/launches; assurance independent changed-boundary and
+actual-result audits. No repeated prior proof/network campaigns. Full goal open.
+
+**Current D08 work:** canonical guard passes. Scale implements compressed physical
+map runs while preserving logical roots/proofs, with one retained18-export
+comparator rather than a repeated network campaign. Read-only index-a census:
+92,672 map nodes,67 feature keys,362 postings,19 snapshots;28,975,104 physical
+bytes. Mechanism finalizes the same-relation native receipt diagnostic/build
+selection; root authors new-policy workload preparation; assurance owns distinct
+binding negatives and reviews. No guest/proof operation is selected. Small-proof
+native speed cannot justify receipt benefit; GROWTH-WORKLOAD now separates the
+two scale variables and derives the selective-certification margin explicitly.
+All full release obligations remain open. Goal service still reported historical
+blocked status on inspection; user explicitly resumed v5 and local work proceeds.
+
+**Latest v5 central state:** actual native positives7/7 and independent negative/
+demand controls7/7 pass; exact compact413row/22declaration zero-axiom foundation
+is adopted for the FIRST new semantic profile. Actual provider controls5/5 and
+FoldFusion unknown-ID discovery/provider-loss/custodian-restart pass. All are
+scoped evidence, not final v5 or cryptographic admission. See DECISIONS D06-D07.
+No runtime is live. Library/build lifecycle failures are retained unchanged.
+
+Next critical paths: mechanism real receipt wrapper closing every conditional
+premise; scale CENTRAL index-cost repair after observing29MB per18exports and
+44.1875 CPU seconds for two-index setup plus operations; root integration/full
+cost theory; assurance independent source/outcome audit. Public CLI/package work
+must not displace these issues. Full v5 release obligations remain open.
+
+**V5 current continuation:** root adopts the independently reviewed actual
+native metadata compile01 and focused native-rows8/source-rows7/export-index6/
+search-session7 passes. These establish implementation boundaries, not module
+certificates. Fold-export01 hit its 2GiB cap;02 found a changed Options API;03
+found the required frontend initializer. All failures are retained. Reviewed
+export04 now succeeds:84,291B NDJSON,27 declaration rows, no axioms, new Tree
+and fusion/composition roots. Exact snapshots/results are under v5-local-checks.
+
+Next: actual linked checker and workload module split; independent Rust
+descriptor/native-row correspondence; provider failover and typed module/body
+custody. Root owns workload/integration and selected launches; mechanism owns
+modules/native; scale owns discovery/transport/custody; assurance independently
+reviews both. No cryptographic guest/proof build or public deployment is yet
+selected. All six full v5 obligations remain open; v4 remains frozen.
+
+**2026-10-07 v5 implementation selected.** Root read/adopts MODULE-RELATION,
+DISCOVERY-CONTRACT and independent ASSURANCE in the active cycle. Development
+now uses the single mutable `software/v5/` tree; immutable source snapshots and
+fresh finite results live under `experiments/v5-local-checks/`. DECISIONS D01
+avoids duplicate product copies while preserving exact evidence. Mechanism owns
+modules, scale owns discovery, root owns workload/integration, assurance reviews.
+
+The fold/fusion workload and strong optimized-library growth comparator are
+selected. First Lean check failed solely on unavailable `congrArg2`, retained
+as fold-fusion-01 (clean closure). A local equality-elimination helper replaces
+it; independently reviewed fold-fusion-02 passed ordinary Lean checking with
+zero diagnostics, 0.890625 Job CPU seconds and clean process-tree closure. This
+checks the workload identities, not module imports or a growth advantage.
+No new cryptographic proof/build or network campaign is selected. Pure protocol
+models are not actual certified imports; native checker integration is next.
+All full v5 gates remain open and all v4/predecessor evidence stays frozen.
+
+**2026-10-07 20:30 UTC: v5 resumed by explicit user request; no deadline.**
+
+Current selection is research/cycles/v5-2026-10-07/PLAN.md. Root owns central
+integration/launches and a stronger growth workload; mechanism owns actual
+checker-backed certified module relation; scale owns federated structural
+discovery; assurance independently challenges both and maps production trust.
+Checkpoint evidence, not only concepts, must lead to a concrete implementation
+decision. Full v5 obligations remain open. Frozen v4 is the baseline, not final
+global release. No old runtime is live or renewed. No new build/proof launched.
+
+**2026-10-07 19:58 UTC: final v4 handoff adopted; work stops.**
+
+Root fully read/adopts the independent HANDOFF-INTEGRITY PASS under
+deliverables/2026-10-07-v4, SHA256
+`0c5f2b086509b774e3ac4cb7173a7f76ddd4c5ee6551d99bd44a7470cf980e48`.
+Manifestdc3b798e... binds six content files39304B; the independent record binds
+actual outcomes and archive/map identity. All22 final local links resolve.
+Adopted release is library02; archive/extraction library-package01. The core
+changes and limits are in final START-HERE/RESULTS. Law04 and negative03 pass;
+old failures remain unchanged. No runtime or uncompleted assignment remains.
+
+The supported substantial v4 milestone is complete before21UTC; the broader
+ultimate objective remains unfinished. Honor the explicit stop-after-delivery
+instruction. No further test, proof, optional mechanism or new workstream is
+selected. Future continuation requires new authorization and a fresh central
+selection; all used source/evidence/packages and eight handoff files are frozen.
+
+**2026-10-07 19:49 UTC: actual central mathematical gates adopted.**
+
+Root reads/adopts assurance's actual law04 and negative03 reviews. Law04 verifies
+the genuine223610B parent receipt then checks exact13001B target1aa007955d...
+with acquired D2b390c510...:FRAGMENT_CHECKED,rank1,local nontransferable,no new
+terminal certificate. KnownCPU4.421875s,wall5.6042385s. Negative03 genuinely
+rejects exact4721B0932c1da... at native assert_def_eq(exit101),no checked.json,
+false acceptance. KnownCPU20.65625s,wall22.5837839s. Whole trees clean; root reaped
+negative57752,law completed synchronously. No runtime remains live.
+
+All source/input/runtime/package evidence freezes. Root finalizes the v4 handoff
+under deliverables/2026-10-07-v4; assurance owns final integrity/adoption audit,
+final-growth owns the independent requirement judgment. No repeated passing
+campaign, optional new feature or new proof operation is selected. Final seal
+still pending; complete the delivery and then stop as requested.
+
+**2026-10-07 19:45 UTC: final mathematical suffix, no duplicate campaigns.**
+
+Adopted library02 archive/extraction and four relocated public starter actions
+pass independent actual audit. Return02 preserves successful good-D2 acquisition,
+three-request/zero-route cached closure and supplier-offline native acceptance;
+its law call failed before workers because300 logical seconds did not fund the
+600-second controller reservation. Law03 then failed before operation creation
+because its generic launcher used the predecessor's bundled Python path rather
+than library02's required interpreter origin. Both failures remain unchanged.
+
+Root selects only two new disjoint actual boundaries: final-growth authors the
+exact-origin law04 launcher/selection; scale authors the fresh three-call false-
+signature negative03. Assurance reviews both before root launches, then audits
+actual outcomes. Law04 funds1200 logical seconds with tighter actual120/180s
+public/outer ceilings; no proof generation or repeated network/D2 check. All
+used source/product/input/evidence bytes stay frozen. Root owns final handoff.
+Deadline21:00UTC; v4 acceptance still awaits law/refusal and final handoff gates.
+
+**2026-10-07 19:20 UTC: core evidence and a preserved harness failure.**
+
+Assembly02 is independently adopted:6655files236735668B, manifest a93714ecd267
+984d2bdc7830fc28027151d650d5b0aeea13fac850b52ba5beed. Client15 and all10 finite
+growth reconstructions pass actual audit. Shared recipes19963B versus separate
+capsules53480B; recipes+largest cache27609B fits32KiB. This is payload capacity,
+not a whole-route speedup claim.
+
+Integration01 passed actual9-hit pagination, A->B selective custody, supplier
+shutdown, nativeD1check and D2packing; it FAILED its harness's one-D2-hit
+expectation because the deliberate badD2 has the same declared type. Both hits
+were correctly unverified. Two sessions were force-closed; outerJob has no
+residual processes. Failure/cost134.53125knownCPU remain preserved. Source/product
+unchanged. Root selects fresh source-only remaining suffix under run_return02.py:
+read-only exact oldB custody export, freshB2/C2public operations, two expected
+type candidates, acquisition/check/law/refusal. No repeatfirsthalf or oldstateedit.
+
+Package01 is live under root24585 with independently cleared exact6655map;
+it cannot qualify mathematics by itself. Finalgrowth owns narrow suffix source;
+scale owns a cold-start companion; assurance owns independent actual review.
+Deadline21UTC. No prior proof campaign is renewed.
+
+**2026-10-07 19:02 UTC: exact narrow successor and central gates.**
+
+Root adopts verification01's complete6653-file map and independent actual audit;
+assembly01 remains failed, not relabeled. Source02 adds bounded remote cursor
+continuation (fixing permanently hidden ninth same-type candidates), operation-
+owned query accounting, and removes redundant/irrelevant preflight scans.
+Root owns public reciprocal integration, source02 overlay and public guide;
+scale owns exact assembly/client selections and package successor; assurance
+independently reviews source/actual boundaries. Fresh growth challenge owns a
+finite exact recipe-versus-flattened-prefix payload analysis. Used01 sources and
+evidence stay frozen. No new native/network runtime launched yet. Deadline21UTC.
+Read the selected named-library plans for exact limits; no old proof is renewed.
+
+**2026-10-07 18:33 UTC: named-library core implemented; actual integration next.**
+
+The15 lowerer and12 store/bridge contracts passed once and received independent
+actual audit (known CPU1.453125s combined). Inert fixture export passed and its13
+module IDs /27files59777B were independently checked. Source-reviewed public
+wrapper, adaptive session, typed DAG imports and selective closure acquisition
+are implemented. No native/network acceptance of this new boundary yet.
+
+Additive assembly01 copied6653 files but FAILED its240s verification budget;
+71.3125 known inclusive CPU seconds, clean closure. Preserve the failed result
+and frozen partial candidate `product-local/v4-library-commons-01/commons-v4`.
+Root selects a NEW read-only complete expected-map verification/adoption, not
+recopying or relabeling that failed allocation. Scale authors, assurance audits.
+Root owns the fresh public A->B->C integration and native wrong-import-signature
+control in `experiments/named-library-01`; no prior proof campaign is renewed.
+Latest user deadline21:00UTC unchanged. Full v4 remains active and unaccepted.
+
+**2026-10-07 17:52 UTC: final user-granted implementation interval.**
+
+New deadline16:00Chicago/21:00UTC today; unchanged full v4 bar. Source/theory
+triage and subsequent central implementation selected under
+`research/cycles/v4-2026-10-07/PLAN.md`. Current baseline remains frozen sealer02.
+No previous allowance, prepared operation or proof campaign is renewed.
+Root owns integration/launches; growth named-library feasibility; scale selective
+acquisition/service; new assurance agent independent requirement/source audit.
+First decision: named storage modules lowered through existing F-closed checking
+versus actual new relation, preserving no false claim of trusted kernel imports.
+
+
+**2026-10-06 15:56 UTC: central reaudit closed its selected runtime, not v4.**
+
+All selected operations are reaped; no runtime remains live. Root read/adopts
+sealer02 assembly, gate02, package05 and actual quote independent audits.
+Current development install: `product-local/v4-sealer-commons-02/commons-v4`;
+archive/extraction: `product-local/v4-sealer-package-02`. 6641 files,
+236530261 payload bytes; archive SHA daf9c6466d0a81039e6a4cfac25c53ce479c42cdb6702b370e169194ea75988a.
+
+Actual source-free native-apply -> guest-prepare passed, n10/a0, no proof stages
+or certificate; 7.40625 known CPU seconds. The selected n<=3 continuation gate
+was not met; no continuation is selected and no budget/deadline is renewed.
+This experiment's threshold is not a user requirement or general cost lower
+bound. Unchanged-source composition conditionally justifies the implemented
+compact completion route; another duplicate proving campaign is not required.
+Read-only quote correctly refused on original deadline and full funding.
+
+Full goal remains active, not achieved. Current handoff/evidence is
+`deliverables/2026-10-06-v4-reaudit`; do not call it an accepted v4 release.
+The root-adopted `research/cycles/v4-2026-10-06-resumed/NEXT-CENTRAL-DECISION.md`
+selects the next coherent design: authenticated named definitions/checked module
+extensions, joining semantic reuse and shared certification. Corrected module
+and proof-cost notes are source/theory results, NOT new shipped features.
+All passing/failed sources, packages, used fixtures and operation records remain
+unchanged; no old campaign may be restarted.
+
+
+**2026-10-06 15:34 UTC: evidence-backed proving configuration selected.**
+Sealer01 assembly passed and was independently adopted:6641files236529518bytes,
+44.15625CPU107.949976wall,0children,11changes2adds0removals. Root did NOT launch
+its clearedpo19 preparation. Source/data audit found83 successful actualpo18
+segment workers for the identical driver/image under4GiB, but no locatedpo19
+completion. This justifies a conservative18default, not a proof19 fails.
+
+Root selected freshsealer02 with only segment_po2 19->18, facadeprofilepin,
+APIclarification and3manifests (6changes/noaddsremovals). Independent exact
+assembly-selection02 e41c2221 cleared; onefilecopy live66781. No oldoperation
+migration, binary/guest/foundation change or renewedbudget. Moresegments may
+hit the unchanged128cap; cycleboundalone doesnotestablish segmentcapacity.
+Freshgate02 will use the same neverexecutedfixture. Fullcut remains contingent
+on actualn/a/time/resources and a separate rootselection, not promised by READY.
+
+
+**2026-10-06 15:23 UTC: source-free sealer contracts and funding advisor pass.**
+All31 focused workflow/facade controls pass once, independently adopted;
+0.734375knownCPU,2processesclean. The new prepared-record advisor's12synthetic
+contracts pass once,0.546875knownCPU,2processesclean; source independently
+reviewed, exactselection review was postlaunch and must not be called prelaunch.
+The advisor prices actual recorded segments/remaining stages and detects
+no-progress READY; it does not repair the separate old native-rollover estimator,
+verify a snapshot, establish full-wall feasibility or authorize any work.
+
+Fresh zero-frontier implication-composition fixture generated once and all
+actual bytes independently audited. Source-free assembly selection b5e11320
+targets v4-sealer-commons-01,6641files, no executable/image change. It awaits
+independent exactclearance. One prospective nativeapply->guestprepare gate has
+source review and a<=0/n<=3 economical-capacity criterion; no proof continuation
+is selected. Original deadline16:00UTC remains; gate must enter before15:45UTC.
+
+
+**2026-10-06 15:12 UTC: final I/O audit adopted; compact sealer implementation selected.**
+Root fully read/adopts SESSION-IO01-ACTUAL-REVIEW: all seven relocated cases pass;
+circulation03 and package03 are also independently adopted. No runtime is live.
+The exact existing crypto closure is606files/101249548bytes, excluding11796
+authoring assets/2246537905bytes. It already contains the same stage-capable
+driver and guest; zero new executable/formal-data bytes are needed.
+
+Root selects fresh experiments/compact-sealer-01 source work: scale owns
+action-scoped workflow and pure tests, mechanism new zero-frontier fixture and
+capacity/funding discriminator, root public facade/assembly/finite selections,
+reviewer independent boundaries. Prepare/advance retain exact mathematical
+relation, original allocation and completing-invocation cold verification.
+Direct definition checks do not become certified. No new proof/build/runtime
+is selected yet. Native-fast unknown segments cannot feed the legacy rollover
+advisor; do not invent a measurement or mistake preparation for affordable sealing.
+
+
+**2026-10-06 15:00 UTC: all selected public I/O controls pass before original deadline.**
+Root reaped47161: seven intended real pipe/node controls PASS,14directcalls
+closed/unforced,88whole-treeprocesses0active0terminated,cleanJob. KnownCPU
+292.609375 (291.234375inclusiveJob+1.375outer);343.770014wall. Positive orderly
+operations and five deliberately refused failure cases have distinct preserved
+records. No mathematical checks/proofs were repeated. Final independent actual
+audit is pending; sources/gate/selection now freeze. No runtime remains live.
+Root keeps the tested agent03/archive03 baseline while the extended16:00UTC
+source-only compact sealer feasibility investigation proceeds. No new campaign.
+
+
+**2026-10-06 14:56 UTC: user extends milestone to11:00Chicago/16:00UTC.**
+Existing selected I/O47161 retains its15:00UTC deadline and exact bounds; no
+budget renewal. Actual circulation03 passed and was reaped,128.796875 knownCPU,
+269.697662wall,82processes, clean15calls; operationalaudit adopted. Mathematical
+audit and final extracted I/O remain separate. Archive03 passed and was reaped;
+latest guide/evidence desk deliverables/2026-10-06-v4-reaudit is DRAFT, not release.
+
+Root selects SOURCE-ONLY feasibility for the extra hour: compact source-free
+prepare-seal/advance/finalverify/export using existing relation/prover, eliminating
+the separate full-authoring adoption burden. Scale owns executable closure/size;
+mechanism owns theoretical stage/capacity/funding discriminator; reviewer finishes
+actualaudits then challenges compatibility. No new proof/build/runtime selected.
+Prefer an implementable sustained-cut improvement over more passing-case tests.
+
+
+**2026-10-06 14:49 UTC: exact final03 actual gates live.**
+Twelve new closure controls passed and were independently audited. Agent03
+file assembly passed:6639files236496031bytes,41.421875CPU104.386677wall,
+five changed files (common supervisor, session client, three manifests), no
+additions/removals. Manifestd33f96d6/map1dd33c13. Used03 payloads now freeze.
+After independent18binding/actualassembly audit, root launched circulation03
+session4475, selection43ce07e6/outeree881c5f, deadline15:00UTC; file-only final
+archive03 session35514, selection3439455c. Old01/02 failures/packages preserved.
+Seven extracted public-session I/O controls are ready but unexecuted; their
+explicit minimum-start margin is now300seconds, same15:00UTC deadline and all
+original cases/caps/refusal assertions. No proof/native campaign duplication.
+
+
+**2026-10-06 14:42 UTC: package02 passes; actual closure race selects03.**
+Archive02 completed once and independently rehashes all 6639 extracted files:
+238039074-byte zip6c7221c5,236494160 payload bytes,38.40625 CPU/115.76 wall,
+zero children. No relocated runtime claim yet. Actual circulation02 failed at
+A-pack-D1: candidate produced and child exit0, but public supervisor immediately
+classified a nonzero post-poll Job count as descendants requiring termination.
+Outer77621 reaped clean12processes;34.4375 known CPU/35.2791wall; no node ran.
+The evidence cannot distinguish a transient counter from a briefly lingering
+descendant; both require bounded natural-settlement handling, not a guessed pass.
+
+Root selects fresh03 supervisor closure repair within original limits, same
+client closure seam if confirmed, focused deterministic controls, exact agent03
+assembly and archive03; unused session I/O controls retarget final extraction.
+No prior failure/used source changes; no old proof or native campaign restart.
+Scale owns closure sources/tests; root exact assembly/launch; mechanism package03;
+reviewer independent audit. Full-v4 acceptance remains undecided, not waived.
+
+
+**2026-10-06 14:32 UTC: real acquisition exposes response-parser defect.**
+Circulation01 reached actual create/restart, type-derived discovery and committed
+two-file definition custody. Public client then refused the legitimate acquire
+reply's finite elapsed_seconds decimal (NONINTEGER_JSON); no D1/D2 native checks
+or composition ran. Outer98108 reaped: 101.859375 known CPU, 103.95 wall, 50
+processes, zero active/terminated, clean Job closure; forced lease cleanup stays
+recorded in inner failure. Independent failure review adopted. Archive01 also
+refused before output at incorrect compact/full profile equality, recorded in
+definition-package-01/FAILURE01.md. Neither failure is relabelled.
+
+Root selects narrow fresh successors: client02 finite diagnostic response parser
+with strict requests/config unchanged; 20 new pure regression cases including
+actual failed reply; agent02 exact assembly (five changed files, 6639 total);
+fresh circulation02; archive02 correct compact membership. Seven relocated I/O
+controls remain selected but unexecuted. No proof/build campaign restarts.
+
+
+**2026-10-06 14:26 UTC: repaired public circulation and exact archive selected.**
+Full v4 remains unaccepted. Agent assembly completed and was reaped; independent
+file-only audit passed: 6639 files/236492227 bytes, two additions/four changes,
+no removals. Thirty-five pure session contracts passed once, not actual I/O.
+Root adopted exact independent selection review and launches one repaired
+definition circulation gate (inner3bb829fe/outer5eb5ab46) and one file-only
+archive/extraction (selection9a510f21). Deadline15:00UTC unchanged. Used sources
+and prior failed definition-run01 remain frozen. Actual outcomes are pending.
+Mechanism owns a fresh outer for seven relocated session I/O controls; reviewer
+owns actual mathematical and session audits; scale owns operational and final
+central triage. No new proof/build campaign or full-v4 acceptance is selected.
+
+
+**2026-10-06 14:01 UTC: actual startup failure drives selected core repair.**
+Definition assembly6637 files/236459287B passed independent delta audit. Actual
+definition-run01 then FAILED at fresh A startup: overlay requested status for an
+absent definition store. No ready, B operation or mathematical checking occurred.
+Four direct children/18 processes closed cleanly,44.90625 known CPU seconds,
+47.069767 wall. Used source/selection/package/partial state stay frozen.
+
+Root selects fresh agent-session-01 successor: corrected overlay create->init,
+restart->status; additive bounded adaptive public session client and API. The
+client addresses a genuine operability gap: finite command files cannot branch
+on returned providers or wait for routing readiness, while raw node use required
+an external supervisor. It is a transport/resource client, not a research planner.
+Scale owns client source; root pure protocol tests/assembler/repaired gate;
+mechanism focused I/O controls and final archive; reviewer independent audits.
+Target v4-agent-commons-01 has6639files,2add/4change/no removal. No runtime lives.
+Deadline15:00UTC and full-v4 acceptance bar unchanged.
+
+
+**2026-10-06 13:47 UTC: thin actual adoption and definition integration.**
+Root read/adopts thin ACTUAL-MATHEMATICAL-REVIEW: eight intended actual controls,
+genuine SDK verification followed by native application, exact prior endpoint,
+36 known CPU seconds and clean closure. No causal speedup claim from the temporal
+comparison. The source establishes fast hashed bytes 100316372 -> 33314052.
+The goal service now reports ACTIVE; its earlier BLOCKED observation is historical.
+
+Twenty definition contracts ran once and independently pass: 1.015625 known CPU,
+clean closure; all 28 source bindings rechecked. Sources/runner/results frozen.
+Root has read the additive assembler, guide and API; exact assembly-selection01
+is ready for independent clearance. Fresh final target is v4-definition-commons-01.
+Scale authors one actual public definition circulation gate; mechanism supports
+fixture semantics; reviewer owns changed-boundary and actual audits. No runtime
+is live. Full v4 remains unaccepted; deadline is 15:00 UTC, not a scope waiver.
+
+
+**2026-10-06 13:33 UTC: installed thin verifier actual gate selected and live.**
+Build and 12 new closure contracts independently pass:931840B genuine verifier,
+28.78125 build CPU seconds including disjoint controller; one exact owned VCTIP
+cleanup. Contracts0.75 known CPU seconds, clean closure. File-only receiver606
+assets101249548B and coherent6622-file package236242659B independently audited.
+Package root v4-thin-commons-01; release8c9053a4, profile622530a3. Assembly39.875
+CPU/120.534wall, no children. Fast action hash closure33,314,052B versus100,316,372B;
+one-parent seven rebinds save469,016,240 logical hash bytes. No speed extrapolation.
+
+Root read gate/plan; reviewer cleared exact c2c62b15 inner and b8b2e747 outer.
+One six-receipt-control plus public apply/corrupt-refusal gate is selected now,
+deadline14:00UTC. No native control or network campaign repetition. Fresh direct
+definition product sources, bounded public owner wrapper and17 inert contracts
+are staged, not run. Newly identified binder/universe spelling sensitivity in
+exact type discovery is selected for alpha-normalized advisory keys before use.
+Full v4 still unaccepted; work continues toward15:00UTC deadline.
+
+**2026-10-06 13:17 UTC: actual native assurance audit adopted.**
+Root fully read ACTUAL-MATHEMATICAL-REVIEW.md and adopts all8 selected boundaries:
+real finalfrontierverification, wrongproof/framing/outputbinding refusal,
+byteidentical applyendpoint,8leaf custody preservation, real corruptedreceipt
+rejection before nativechecking, missingreceipt structuralrefusal. Nativewhole
+check4.21875CPU, apply4.265625CPU; totalgate44.15625knownCPU,53.012475wall,
+36processesclean. No new certificate or wholev4 acceptance. Operationsaudit remains
+separate. Thin actualbuildselection01 prepared1ab73e66; awaiting independent
+source/exactselection clearance. Rootfresh workflow/stages+12inertcontracts and
+605->606asset receiverinstaller await review. Definitioncontract approved and
+implementation assigned, no runtime. Oldnative8gate will not repeat.
+
+**2026-10-06 13:09 UTC: native gate running; two central successors selected.**
+Native receiver installation and coherent6617-file/235292132B package passed
+file-only creation and independent source/identity audit. Exact native eight-call
+gate is live session26329 under fresh outer02; outer01 failed prelaunch
+LIMIT_RANGE:active_processes(16), no child/output, and remains preserved.02 uses
+the frozen supervisor ceiling8 and independently cleared exactselection20daf1a8.
+No prior proof campaign is restarted. Actual mathematicalaudit pending.
+
+Root adopts independently reviewed GROWTH-UNIFORMITY.md: causal fixed-policy,
+endowment-relative growth replaces free existential answer-selection. Charged
+fallback is required for a nondegradation claim; reuse is not research discovery.
+FULL-SEALER-PATH.md identifies an actual separately installed owner-funded sealer,
+not the compact seal-request stub. Its no-progress READY reserve hazard remains.
+
+New source selections: thin-verifier-01 (scale: real receipt SDK thin adapter,
+boundedbuild; root: fast action profileclosure/integration); definition-transport-01
+(mechanism: separate inert typeddefinition circulation, native finalchecking,
+unchanged Fclosed/rank0 relation; reviewer: both boundaries). No new runtime for
+these successors selected yet. No full v4 acceptance. The goal service unexpectedly
+reports BLOCKED although the user has resumed work; this records service state,
+not an engineering blocker or permission to stop. Goal API cannot resume it.
+Authorized projectwork proceeds to15:00UTC; broad objective stays unfinished.
+
+**2026-10-06 12:52 UTC: native build and13contracts pass; installation selected.**
+Build03 session31198 PASS after one adapter-only fatLTO link, reusing retained
+Nanoda. Binary1388032B SHA bbe32c37012b21dac47c26c19e2316b8106f24933cf79fc2923b49679a1667b3.
+KnownCPU38.375seconds (24.125Job+14.25controller),33.8223413wall. One exact
+Job-owned/hash-bound VCTIP telemetry process closed under the selected policy;
+no unknown descendants,0active/resource-terminated, Jobclosed. Original failed02
+57.453125knownCPU remains charged. No mathematicalnativeacceptance yet.
+Thirteen new mocked fastworkflow contracts PASS,0.6875knownCPU andcleanclosure;
+usedsource/tests/runner frozen. Root independently read installer+inerthelper,
+caught and adopted prelaunch repair for diagnostic floats (policy JSON remains
+integer-strict). Fresh install-selection01 binds successfulbinary/result and
+threehelpers; one file-only605asset receiver installation selected. Final coherent
+package source, native8call gate and source/theory growth refinement are parallel.
+
+**2026-10-06 12:39 UTC: search audit adopted; link failure preserved.**
+Root read/adopted candidate-discovery-02/ACTUAL-REVIEW.md: actual22advertised
+routes, exact4page stream and explicitly incomplete empty wildcard stream,
+original8leaf custody preserved offline,65.90625knownCPU. No globalrecall claim.
+Nativebuild02 terminatedFAILED at adapter link; successful Nanoda library remains
+available but no native binary.43.25Job+14.203125controllerCPU,25.0675463wall,
+no active/terminated processes, Jobclosed. Scale investigates selected dependency
+linkage and may author fresh adapter-only build03, not rerun successful library.
+Used02 remains frozen. Independent review cleared the three changed companions
+and13mocked contracts; root selected one finite run_contracts.py invocation.
+
+**2026-10-06 12:36 UTC: installed selective search passes; native build live.**
+Full v4 remains unaccepted and goal ACTIVE; milestone15:00UTC. Guard passes.
+Public02 session72880 terminated PASS: exact installed candidate provisioning,
+goal-derived exact/wildcard discovery, genuine acquired custody and both node
+closures. Six direct children;64.234375 inclusive JobCPU +1.671875 controller
+=65.90625 knownCPU;71.2469745wall; no active/terminated children. Independent
+actual review is pending. No guest proof was repeated; exact custody binds prior
+use evidence. Candidate02 used source/selection/run are now frozen.
+
+Native02 file-only preparation completed96961; selection02 is1250249B SHA
+4a3bb96159069ef112b5f6c928152ea7043f303e1cdbc731fc13e23aa119ef30.
+Root fully read source/PLAN02 and adopts reviewer source clearance. Actual exact
+selection review is adopted. One bounded compiler launch is live53776; no
+mathematical checking or certification has yet run in this lane.
+Mechanism owns fast workflow/tests; scale owns fresh native install/final package
+source; root owns facade and runtime; reviewer owns source and actual assurance.
+Prior passing campaigns will not repeat. Native fast checking preserves genuine
+certified frontier verification, but does not broaden the mathematical language.
+
+Updated 2026-10-06 UTC. This section is authoritative. Historical checkpoints below
+preserve earlier states; they do not select new work.
+
+## Current state and next decision
+
+**2026-10-06 12:29 UTC: selective contracts pass; fast same-relation lane selected.**
+Candidate02 twelve new inert tests pass (tool5d76e8): materialized argument-head
+and wildcard streams, charged atomic routes, unrelated-class locality and honest
+incompleteness. Provisioning twelve (not thirteen) inert contracts pass
+(tool817a11), root independent utility review adopted. No repeated old suite.
+One file-only assembly is live session34731 to fresh
+product-local/v4-selective-commons-01/commons-v4, selection
+15f228e4de5cd9ed5fde504451ed261edf334a9ea0106a31702c822e3f37655c.
+It is an intermediate integration tree, not another v4 acceptance decision.
+
+Root/reviewer select native-relation-01: the exact adopted relation/checker
+compiled for local native execution, with actual final-frontier certificate
+verification retained by the public workflow. Explicit apply-fast/check-fast
+commands, a distinct nontransferable local assurance and no fabricated VM
+segments. Original guest/image/math policy and inert wire remain unchanged.
+Mechanism owns native adapter plus fresh workflow/fragments/stages source;
+scale owns a fresh build_native02.py after independent prelaunch review found
+final resource, dependency-inventory and linker-binding gaps in unused01.
+Build selection01 is preserved and no compiler has launched. Root owns eventual
+installation/gates; reviewer owns native/public source and actual challenges.
+Unsealed proof fragments still need funded certified cuts for long-term bounded
+replay. Fast host checking does not by itself solve that or broad Lean semantics.
+
+**2026-10-06 12:13 UTC: actual discovery adopted; selective successor underway.**
+The unchanged goal is ACTIVE; v4 is not accepted. Deadline is 15:00 UTC.
+No runtime remains live. Root adopted the independent finite-semigroup-02
+actual review: identical target accepted with a smaller proof, wrong-value
+control rejected, 16.453125 known CPU seconds; original failed01 remains charged.
+Root adopted candidate-discovery-01 ACTUAL-MATHEMATICAL-REVIEW: goal precedes
+offers, actual provider-selected two-page discovery, descriptor refusal,
+acquired-custody rebind and actual 52-segment use all pass the fixed-case gate.
+Known CPU is 56.953125 seconds, nine direct children, clean closure. Pregoal and
+accepted capsule differ only by final LF, not mathematical content. This is
+interoperability evidence, not hard-math novelty or causal growth advantage.
+
+Random sharding alone does not solve rare-lemma discovery. Root fully read and
+approved candidate-discovery-02/CONTRACT.md: goal-derived argument-head plus
+wildcard postings, conditional syntactic coverage/locality, fully charged routes,
+fresh search namespace and honest incomplete fallback. Mechanism owns new
+terms/index/tests, reviewer the independent source/test challenge. Scale owns
+candidate-provision-01, a manifest-derived inert config utility; root owns
+integration/finite launch decisions and semantic-library triage. No prior source,
+runtime or campaign will be restarted. Keep package/interface integration behind
+substantive capability gates, not a substitute for them.
+
+**2026-10-06 11:51 UTC: same concrete target passes cheaper proof boundary.**
+Session22909 terminated gatePASS: finite-semigroup-02 sameC3/seed1/r31 exacttarget
+now accepted under unchangedguest/cap; wrongvalue reaches genuine def_eq refusal.
+Independent actualaudit pending. OuterJob16.046875+controller0.40625=
+16.453125knownCPU,18.4273164wall;20processcreations,0active/terminated,cleanclosure.
+Actualpositive108segments/53744690rows/56623104paddedrows/68683746instructions;
+instructions are NOT the sessioncycle counter. No newcertificate. Original
+finite01 failure remains charged. Twochangedpurecontracts pass, old17notrepeated.
+
+Candidate sidecar16inertcontracts PASS (toolc31356); Node11/12passed plus one
+test-only AbortController.signal() typo. Original frozen; corrected single
+contract02 passes (tool6e26c4), no productfix. All tested discoverysources frozen.
+Scale now owns new3node run_discovery.py/GATE-PLAN source; root review/launch.
+No runtime lives. Root has additionally challenged broadEq-bucket selectivity:
+randomshards alone cannot solve rarelemma discovery in a huge unrelatedcorpus.
+Reviewer will propose minimal sound constant-path/wildcard refinement after
+finiteactualaudit. This is a central nextdecision, not accepted globalrecall.
+
+
+**2026-10-06 11:42 UTC: resource refusal retained; scalable discovery source.**
+Full goal ACTIVE; v4 not accepted, deadline15:00UTC. Session86912 terminated
+FAILED at finite-semigroup positive: genuine parent verified, unchanged guest
+exceeded2^26cycles (67112097>=67108864). No mathematical verdict/export and no
+negative call. KnownCPU9.5625seconds, cleanclosure. No runtime remains.
+Independent actual audit adopted; do not restart run01 or edit usedbytes.
+Mechanism selects fresh finite-semigroup-02 source-only fast-RHS normalization
+instead of redundant explicit evaluation proof, same r31/table/seed/caps;
+this is a testable cost remedy, not an established causal diagnosis.
+
+Root implements candidate-discovery-01 network/node; scale owns canonical
+type descriptors, materialized classes/alternates, fixed-cut cursor sidecar and
+bridge; reviewer owns changed-boundary source/tests. Descriptor SHA and exact
+request echo bind remote metadata; acquisition must rederive against actual
+custody before advisory reuse. Actual public pagination/partition/query-to-use
+gate remains unlaunched. No guest/foundation/certificate change selected.
+Root adopted compact package/public actual audits and separate receiver-only
+continuation; combined disjoint publicgate+continuationCPU124.265625seconds.
+The original publicgate deadlinefailure remains FAILED_NOT_RETRIED.
+
+
+**2026-10-06 11:24 UTC: reciprocal semantic loop, preserved deadline failure.**
+No runtime lives. Public-run02 completed actualD1/D2compilation,55segment
+newlawchecking,actualilltypeddefinitionrefusal,returnacquisition and normal
+producerclosure. Its finalreceive failed PRE-GUEST with
+STOP_DEADLINE_FULL_STAGE_RESERVATION: shareddeadline no longer had600savailable.
+Original result remainsFAILED, no rerun. Inclusiveouter117.515625CPU plus
+disjointwrapper1.125=118.640625seconds;0terminated/active andcleanclosure.
+Independent exactselection68dbe15964d3c516b733f6dc405eb866d8d8a06fec8e95e26b01a508650b999b
+selected ONLY freshreceiver-continuation01, strict11:45Z/120CPU180wall. Actual
+publiccall exit0/LOCAL_EXECUTION_VERIFIED_NOT_TRANSFERABLE in6.712shellwall;
+independentactualauditpending. No network/proofcomposition repeated.
+
+Actual returnedT2 custody is public-run02/A/fragments/objects/
+fedb0e686a7591db45e88dea368f123988b34489d82238ede9f8f8e1d852bab6;
+capsule12210B/4221693a324a58b30f7718d17c698b2c590d7521280086bdb079589f28668826.
+Mechanism owns newfinite-semigroup-01 untrustedproof-producingcalculator/CLI/
+tests; rootrun_gate.py sourceonly. Theoreticalr-squaringsvs2^r-1namednaivecalls
+is NOT causalcommonsadvantage over a stronglocalfastalgorithm. Reviewerchallenged
+syntax/conversioncost; author now instantiates actualT2LHS preservingbindernames.
+Originalriskstrengthcorrected: actualIter/PlusareRegular, onlyD2abbrev; no
+observed exponentialconversionfailure. No calculatorruntime selected.
+Scale finishes operationalaudit and proposes freshsearchsidecar+remotepagination
+to close applicablelemma discoverygap, ahead of interactiveAPI polish.
+V4 unchangedgoalremainsACTIVE; these are centraladvances, not acceptance.
+
+**2026-10-06 11:10 UTC: public integration live, session76590.**
+Actual compact assembly passes independent audit:235282779B archivee3ed354a...
+and manifestcda4a721...,6600payloads. Public/outer source reviews adopted.
+Review caught strictUTCdate incompatibility in unusedselection01; preserved,
+never launched. Corrected freshselection02 independently reviewed: gate
+52e8c5cfec4da60178b6db3a798d8c0d5c1558e8b95376bdbe79bf9636bddaf6,
+outer365dd651547bd6c5a5718bf69a0f5f1400d3e146aa94d6396a147c2096e4dbd9.
+One launch live76590; used source/selections frozen. Deadline11:25:34Z,
+outer900wall/300CPU/2GiB/16proc. Two180s leases; no retry. Public live stdio
+checks routing status within one process before its one providers query.
+Original finite-file restart race is not silently treated as readiness.
+Root audits actual outcomes; mechanism investigates a general finite-semigroup
+proof-producing computation under unchanged guest, not more wrapper counts.
+V4 and full goal remain ACTIVE, no acceptance claim.
+
+**2026-10-06 11:02 UTC: compact public integration selected, assembly live.**
+No v4 acceptance; unchanged full goal ACTIVE until15:00UTC deadline. Root read
+and adopted independent exact package map/source review:6600files232680263B,
+selection77b0730a17378b265fc88f8209f5518dd63efc3de14aa8dadd870613f4463ca8.
+One file-only assembly is live session41800 to fresh
+product-local/v4-compact-commons-01. No peer/checker runtime lives. Used package
+payloads/control/selection freeze. Independent reviewer now reviews public_gate.py;
+root owns its outer containment/selection. New gate must exercise actual public
+two-process acquiredD0->compiledD1->compiledD2->newproof->return->offlinecheck,
+plus independently typed wrong-definition refusal. No old proof/cost campaign
+will repeat. Mechanism owns NET-BENEFIT-OPERATING-REGION synthesis; package
+identity is not the central growth gate and is not v4 completion.
+
+**2026-10-06 10:39 UTC: identical-proof receiving cost and semantic compiler.**
+Full and compact actual receiving both terminalPASS, same proof/receipt/guest
+and byte-identical input/journal/capsule; no workers remain. Known CPU including
+wrapper24.234375s full vs5.53125s compact (one ordered pair, cache/order caveats;
+independent matched audit finishing). The deterministic adoption byte-work
+reduction is separately source-justified; do not infer universal speedup.
+Repaired transparent compiler19/19 pure contracts pass. Its CLI and real
+three-generation acquired-definition proof remain pending. Public compact facade
+is source-only under scale ownership. Full goal ACTIVE, no premature v4 acceptance.
+
+**2026-10-06 10:33 UTC: actual maintained-network proof application passes.**
+Atomic-intent9/9 contracts pass. Selected lifecycle02/contained03 passes all9
+phases; scale's independent ACTUAL-OUTCOME-REVIEW adopted: unknown-holder
+discovery, exact E custody, renewal, A/C/D loss, restart against dead bootstrap,
+failed-transfer accounting and withdrawal observation. Known disjoint CPU20.15625s.
+All peers stopped cleanly. Actual E8files feed new positive/negative applications.
+Independent APPLICATION-ACTUAL-REVIEW confirms genuine-parent verification and
+real52segment guest acceptance of exact function-composition theorem,5.453125s
+known CPU; ill-typed premise reaches real guest type rejection with no export,
+5.046875s known CPU. These do not establish universal net useful growth.
+
+Source-reviewed matched full/compact receiving of SAME new fragment is selected;
+full run currently live session18724; compact follows only after termination.
+Rollover23/23 metadata/arithmetic contracts pass, not a measured economics claim.
+Mechanism now implements bounded transparent definition compilation under
+definition-compiler-01, with unchanged guest/new flattened identity; no migration.
+Scale implements compact public facade. No old proof campaign is restarted.
+
+**2026-10-06 10:24 UTC: resumed continuation, central race repair.**
+Full v4 remains unfinished and ACTIVE; deadline15:00UTC. Root recovered exact
+state without repeating passed campaigns. Five-node lifecycle remains unrun:
+independent review identified queued provider-renewal resurrection after withdrawal.
+Fresh intent_store/overlay02/node02 enforce atomic durable local publication
+intent at the actual SQLite self-provider write; reviewer found no source blocker,
+focused tests pending. Fresh overlay-tests02/run_contained03 are selected by
+contained-selection03 (bf8468631b386a6df566fe382978dca01544b6057d4a7a5e6257d7dc0f85c6de).
+Prior maps/harnesses stay preserved, unused. No worker currently lives.
+Root next: race contracts, lifecycle, actual acquired-proof positive/negative
+application. Scale owns compact public facade; mechanism owns exact semantic-DAG
+growth decision after completing rollover source; reviewer owns race/application/
+rollover challenge. Public release and full requirement acceptance remain HOLD.
+
+**2026-10-06 10:05 UTC: concrete successors and changed-boundary contracts.**
+Full v4 remains unfinished; goal service reports ACTIVE. Canonical guard passes.
+Action-scope/helper31 tests pass; workflow first run1pass/7fixture errors retained,
+sole mock-policy correction successor passes only those7. No guest run yet.
+Root independently adopts integration review and file-installer source/selection.
+One compact install completed:604 assets98,920,744B; profile8bef54d51cdedb70f27f30775d4beaf7aefdc06d5530ee2962d2701166475bd0
+at product-local/v4-application-receiver-01/receiver. File-only session88524 exited0;
+controller2.609375CPU/15.045729wall. Unchanged image/foundation, no native payloads.
+
+Maintained-overlay source now implements Noise/TCP/Yamux exact-custody streams,
+custom Kademlia hints, bounded durable metadata, persisted failed-transfer quotas,
+observed-region anchor refresh, expiry/renewal and owner stdio. Quota13 actual
+contracts pass. Root independently reviewed vendor patch; central reviewer found
+IO-restart and drain/backpressure defects, root repaired before any peer launch.
+Focused vendor/wire tests and actual5-node lifecycle harness are source-only;
+finite Windows-Job179wall/120CPU/1GiB test wrapper under final review. No network
+runtime or proof campaign live. Fresh public-plan application will use actual
+network-acquired custody; Nat->Nat composition positive/ill-typed negative fixture
+generator has independent source review. Final checking, full costs and meaningful
+growth mechanism/rollover economics remain central, not deferred acceptance gates.
+
+**2026-10-06 09:23 UTC: user rejects prior v4 acceptance; resumed to 15:00 UTC.**
+Prior turn classification: progress (actual completed handoff/integrity evidence),
+but NOT v4 completion. The prior local package stays frozen as a baseline.
+Latest direct user request requires reaudit and full use of time before 10 AM
+Chicago; it supersedes the stopped/delivered narrative below. No runtime lives.
+See `research/cycles/v4-2026-10-06-resumed/REAUDIT.md` for central requirement
+status and fresh disjoint source/theory assignments. No new product run selected.
+
+Concrete new source evidence: check-fragment binds its 12,398-asset installation
+seven times; two full passes account for over 90% of the modeled asset-hash bytes.
+Scale investigates action-specific executable closure with initial/final exact
+bindings, not unsafe trust caching. Mechanism targets an available full-cost
+capability application, challenge a sound compositional-definition path, root
+maintained decentralized discovery. None of these proposals is yet a passed
+implementation. Keep failed and completed evidence; do not repeat old campaigns.
+
+**2026-10-06 05:42 UTC: final local v4 delivered; stop after delivery.**
+Root fully read/adopts the final OPERATOR-OUTCOME and independent HANDOFF-AUDIT.
+The frozen release is `deliverables/2026-10-06-v4-local-release`; its START-HERE
+links the single 2354272105-byte archive and the existing verified/exercised
+extraction at `product-local/v4-operator-integration-01/commons-v4`.
+
+Actual public init/describe/offer/find/check-fragment all closed cleanly. Final
+checking used the actual returned B custody, not a packaged example or producer
+status: 18.25 child-Job CPU plus 0.8125 disjoint wrapper CPU; 22.8100923 public
+wall seconds. Five-command known disjoint CPU is 23.671875 seconds, excluding
+root PowerShell monitor and previous packaging/extraction/audit work. Mathematical
+receiver audit is independent; operational reviewer authored launcher/peer, with
+that conflict explicit. No new receipt/native admission is claimed.
+
+Final frozen handoff inventory: 4069 bytes / SHA-256
+`9fcc3d67d01b6e0c9e3af93b3cb8d2daf6bc5a14f0812a7eb9c01a855e1b7da7`.
+Independent `experiments/v4-package-01/HANDOFF-AUDIT.md`: 6760 bytes / SHA-256
+`fdd81f86f110fbec7f9e39d90700ca15bd235024fcc6213036c5732fa5fea6c7`.
+All 12 small-file anchors and 30 links pass; previous full archive/extraction
+evidence is reused explicitly. No completed campaign was rerun for sealing.
+
+No runtime or agent assignment remains live. All used sources, inputs, states,
+results, package, extraction and final handoff are frozen. Stop here per the user;
+the broad commons objective is unfinished, not marked complete. A future resumed
+selection should use the final RESULTS and RELEASE-CENTRALITY: lower ordinary
+operation overhead, compositional definitions, concrete full-cost capability
+applications, and maintained decentralized routing/custody. Known contacts,
+restricted F43/F-closed mathematics, same-host qualification, undecided licensing
+and no demonstrated net growth remain explicit limits. No new work is authorized
+by the historical pending/active entries below.
+
+**2026-10-06 05:26 UTC: archive and fresh extraction adopted; final runtime pending.**
+Root read/adopts PACKAGE-OUTCOME and EXTRACT-OUTCOME. Archive90ffbb12... is
+2354272105bytes; manifestcd25b9b2...2041394bytes. Exact12497-member extraction
+passed once (session85686 exit0),45.90625CPU/206.881987wall; resultb45f1fb9.
+No process remains live. Public runner/plan source reviews adopted. Exact
+operator-selection-01 is6932bytes/1b2bbbfef3b393926c886d02c6a08bb1099c2ecc6722ccb73fd6630b7b8acba1,
+pending separate exact-selection review before one five-command launch. It has
+a fixed06:00UTCoperation deadline and per-invocation limits; no automatic retry.
+Final recipient still unrun. Draft local handoff is under deliverables/2026-10-06-v4-local-release;
+not delivered or global-goal completion. All packaged/extracted payloads frozen.
+
+**2026-10-06 05:14 UTC: exact v4 archive assembly live, no product runtime.**
+Root fully read/adopts final map/origin review and extracted-utility source review.
+All12496payloads/2349258239bytes selected by package-selection-02 (a92cc2b1).
+One file-only assembly is live as session52873; used payloads/control files freeze.
+Selection01 stays unexecuted; the sole four-byte positive-investment-cost wording
+correction and original exact draft are retained. Do not edit any packaged leaf.
+Actual archive audit then one safe fresh extraction precede the already reviewed
+five-command public integration. That combines four local metadata/custody calls
+with the single actual returned-family receiving check. No certificate campaign,
+old operation renewal or external publication selected. Full goal ACTIVE.
+
+**2026-10-06 04:59 UTC: real reciprocal growth path adopted; packaging selected.**
+Composition and exact source-free seal preparation audits are fully adopted.
+The associative-square-block law actually consumed C's acquired first fragment,
+passed full pinned guest checking, and returned over real pinned TLS to fresh
+custody. Family/return semantic and operational audits pass their stated scope.
+The theoretical exponential-versus-linear multiplication-count comparison is
+for named algorithms, not measured evaluator speed or exponential knowledge growth.
+
+Root adopts public-launcher and file-assembler source reviews. One finite
+17-case mocked launcher suite is selected in v4-package-01/TEST-SELECTION-01.md;
+no mathematical qualification follows from mocks. Final fresh receiving check
+will run once through a relocated package using actual returned custody, not
+another experiment-runner check. Source-free READY is not a certificate. No
+new proof campaign or old-operation renewal. Documentation gaps are assigned;
+exact complete packaging map/assembly/extraction remain pending. Full goal ACTIVE.
+
+**2026-10-06 04:36 UTC: actual composition, rollover preparation and TLS pass.**
+Two-instance OwnerNext operation terminal PASS: full pinned guest execution,
+same genuine certified frontier,59segments atpo2=19,40.21875wholeJobCPU.
+Exact-type/definition/universe semantic audit is completing independently.
+Source-free seal-first01 terminal READY with one actual snapshot,17.625JobCPU;
+no crypto stages or certificate claimed. Real A→B→C fragment exchange passes
+independently adopted actual audit: producer A stopped before B served C,
+exact8file copies,4.078125workerCPU+10.6875controllerCPU,all peers closed.
+
+No runtime is live. Unused receiver-c01 is HELD: forthcoming new-family
+composition consumes actual acquired C bytes and checks the full proof, so an
+extra old-fragment check would duplicate that boundary. Source-only OwnerPower
+now targets generic associative repeated-squaring equivalence using the acquired
+first fragment; source/theory review precedes a separate finite actual selection.
+This can justify an algorithm-family advantage, not exponential network growth.
+Root's fresh minimal return adapter has independent source review; actual new
+family and final receiving check remain prerequisites. Full goal ACTIVE.
+
+**2026-10-06 04:25 UTC: seal installation adopted; changed-boundary tests pass.**
+Canonical guard passes. Root read/adopts seal INSTALL-OUTCOME: exact fresh
+12398-asset profile, only workflow/API overlays changed, same image/F/cycle cap,
+po2=19. File assembly session2225 naturally exited0; no runtime inferred.
+All four distinct fragment refusals are terminal and independently audited.
+Network contracts-01 failed before case dispatch because its test fixture
+shadowed TestCase.run; failure and used sources retained. Root independently
+reviewed the five-reference test-only successor. Fresh contracts-02 passed18
+groups once:1.234375CPU/1.8711597wall, sampled monitor, no real sockets/math.
+
+Root selects separate fresh composed-next and exact source-free seal preparations
+under certified-seal-01, each fixed05:15UTC deadline and finite Job bounds,
+pending exact selection review. No cryptographic production is selected.
+Mechanism agent owns real bounded A→B→C TLS adapter; challenge audits actual
+contracts and adapter; scale audits composed target and seal runtime.
+Release HOLD/full goal ACTIVE: core reciprocal network and rollover seams remain.
+
+**2026-10-06 04:16 UTC: real first fragment adopted; source-free successor installs.**
+First fragment passed real genuine-parent verification, native authoring and
+actual guest execution; independent RUNTIME-OUTCOME adopted. Exact requested
+capsule preserved; wholeJob38.125CPU, guest1.59375CPU,117segments atpo2=18.
+It is local-only evidence, not a new certificate. Invalid proof with all framing
+pins rebound was genuinely rejected by the guest's type-equality assertion.
+Three distinct structural controls are live; no duplicated proof campaign.
+
+Root read/adopts seal SOURCE-REVIEW and INSTALL-REVIEW plus actual13 mock tests.
+The new file-only seal installation is selected once with po2=19 and unchanged
+2^26cycle/4GiB/CPU limits, not an old-operation extension. This supports the next
+two-universe-instance composition within a better-aligned segment envelope,
+subject to actual checking and refusal. Source-free seal READY remains untested.
+Network source and18test draft are ready for independent source review; none
+has run. Goal ACTIVE, release HOLD pending actual reciprocal/network seams.
+
+**2026-10-06 03:56 UTC: bounded-frontier source review adopted; file install selected.**
+Root read/adopts the exact composer/integration and installer delta review at
+`experiments/certified-frontier-01/SOURCE-REVIEW.md`. Both resource-ordering
+findings are closed in source. All18 structural groups pass, with missing outer
+exit/CPU telemetry explicitly retained. Root selects `install-selection-01.json`
+for one file-only installation, not guest/proof execution. Full selected source
+and installer freeze on use. Next real work is a fresh received-parent fragment,
+then fragment-based next theorem and fresh receiver; no certificate campaign.
+Agents now cover actual review, distinct fragment transport design and a concrete
+growth-policy decision. This does not close release HOLD or the active goal.
+
+The one file-only installer is live under root session1092; no guest/proof work.
+The read/adopted network and growth decisions authorize source-only successors:
+`experiments/fragment-exchange-01/project` for isolated indexed TLS fragment
+exchange, and `experiments/certified-seal-01/project` for source-free exact
+certificate preparation. These do not mutate the now-used frontier cut. Root
+owns the current finite runtime adapter; reviewer checks it before launch.
+
+**2026-10-06: bounded proof-frontier source selected after theory/source triage.**
+See `experiments/certified-frontier-01/CONTRACT.md` and the October 6 decisions.
+Root verified the fresh 59-leaf successor; native/guest/host/checker/image stay
+unchanged. Root writes bounded closed-proof substitution; scale agent integrates
+fragment export/check/compose; growth agent writes targeted tests; challenge agent
+reviews source and conditional theory. No test/runtime/proof launch selected.
+This removes mandatory eager certification only if the actual reciprocal
+fragment path passes final checking; a local-success flag never becomes a receipt.
+
+**2026-10-06 03:30 UTC: theory-led v4 renavigation (current).**
+The user rejects another qualification-only milestone. The active deadline is
+October 6, 06:00 Chicago (11:00 UTC); the October 2 handoff remains a frozen
+experimental checkpoint, not a satisfactory release. Prioritize implementable
+growth mechanisms and huge-network operating conditions, using theoretical
+justification wherever assumptions can be stated and deductions checked.
+Growth/philosophy, scale economics and independent challenge run in parallel
+under `research/cycles/v4-2026-10-06/`. Root integrates their consequences into
+selected software changes; avoid merely restating the existing break-even rule.
+
+The unused foundation-restoration `contracts-selection-01.json` is HELD and
+superseded as a launch decision; do not execute or extend its 03:35 UTC deadline.
+Its reviewed source is retained as subordinate integration work. No runtime is
+live and no proof campaign is selected. Validity remains independent of utility;
+no mandatory root goal, task list, human-intention test or central service is added.
+Full goal ACTIVE; v4 release HOLD until substantive software and justification
+actually support the claimed capability.
+
+**2026-10-06 03:10 UTC: resumed qualification; no prior repair execution.**
+Canonical guard passes; current experiment has no run directories or outcome.
+Previous goal turn was a requested status report (no implementation progress),
+not a verified wait. No process handle was left live by the interrupted source
+work; no expired old operation is resumed. Root fixes the still-unused suite's
+registry path to the existing project/guest/support_registry.json; no extra
+product asset. Fresh restore_test_review owns final test review; cost analyst
+owns the prospective decision after actual repaired preparation. Root owns
+the next fixed finite selection and runtime. Full goal ACTIVE, v4 release HOLD.
+
+**2026-10-02 17:22 UTC: final repair source/map and integration source adopted.**
+Root fully read/adopts SOURCE-REVIEW.md (7096 B,
+`fc7e8dfe4c8f3776f43f128b16362fb198f2031c722aad7aa15736c0470dbff6`)
+and final INSTALL-SOURCE-REVIEW.md (7391 B,
+`f0ed71d2bf7c3feb770b0bc7ec98bb76963ec1929211b89e9e2736127f4518d6`).
+59-leaf successor: 55 unchanged, three selected edits, exact C01 addition;
+no missing/reparse leaves. Source supports strict full-declaration restoration
+without raw-proof changes, not runtime acceptance. Pure-data suite is written
+and undergoing author/reviewer checks; no test, installation or prepare live.
+Root retains the next finite run decision; all old evidence remains frozen.
+
+**2026-10-02 17:18 UTC: source implementation ready; no runtime yet.**
+Fresh restoration capsule/workflow/API source is authored (b534e60e/97e14157/
+2cc938bb); AUTHOR-NOTES.md is fully read by root. Independent final source/map
+review and bounded pure-data tests are in progress. Root read/adopts design
+review ba6d5842/11970 B conditionally, not as execution evidence. File-only
+installer adds one witness asset/role (12396 assets/18 roles); new parent adapter
+also observes that role and the exact retained restoration/endpoint. Both are
+new drafts, not a retry of the failed run. No source/runtime/proof outcome pass
+is claimed yet. Sealed v4 contributor-reuse release HOLD is unchanged.
+
+**2026-10-02 17:12 UTC: exact witness inventory adopted; implementation active.**
+Root fully read/adopts the single authoritative inventory at
+`research/cycles/v4-2026-10-02/CANONICAL-FOUNDATION-WITNESS-AVAILABILITY.md`
+(10195 B, SHA-256 `70123230411a3fa136f51543b889de4a1219af7c59a5751203ba5c90bde6291f`).
+It confirms all 43 exact registered witnesses, unique 66-name ownership,
+Graph compatibility and only registered F references. One exact excluded output
+is not foundation authority. Root copied/readback-verified the 114044 B C01
+asset under the new source (chunk 2456b0). Author owns capsule/workflow/API;
+separate tester and reviewer proceed concurrently. New file-only installer
+and parent adapter are drafts, not selected runtime. Earlier experiment-path
+inventory pointers below were intended destinations; use the actual path above.
+
+**2026-10-02 17:04 UTC: fresh source-only foundation repair selected.**
+Root verified all 58 definitions05 source leaves against its held baseline plus
+the two independently adopted name-repair deltas, then copied/readback-verified
+them into `experiments/certified-foundation-restore-01/project` (chunk 4c5470).
+See CONTRACT.md and SOURCE-BASELINE.json there. Only capsule/workflow/API leaves
+plus a separately authenticated witness asset may change. Native/guest/checker/F
+remain exact. Witness inventory and design/test review run in parallel; no
+implementation execution, installation, prepare retry or child proof selected.
+This is post-checkpoint development, not a change to the sealed v4 handoff.
+
+**2026-10-02 16:59 UTC: v4 handoff sealed; full goal ACTIVE.**
+Root fully read and adopts the independent handoff seal audit, 5442 bytes,
+SHA-256 `37c3908f6e128f4c40eea4e11bae1d69880fc656596ced61e29c190ccdbbd3a5`.
+The four handoff leaves and integrity report are frozen under
+`deliverables/2026-10-02-v4-tentative`; audit completed before 17:00 UTC.
+This is a local experimental checkpoint, not a repaired contributor release.
+Seed certification, typed acquisition/offline custody and actual shipped-reader
+acceptance pass their scoped audits. Acquired-parent preparation remains failed
+at BRIDGE_RESERVED_FOUNDATION; no child certificate, return or growth saving.
+No runtime is live. Next central task: authenticated canonical-foundation witness
+inventory, then a separately selected repair preserving the foundation guard.
+All used sources, allocations, failures and sealed delivery files remain frozen.
+
+**2026-10-02 16:43 UTC: failure independently adopted; exact mismatch diagnosed.**
+Root fully read/adopts failure44c10fe3/7386B:33evidence+27statepins, genuine
+fullparentreceiptverify and nativeproofuse; nativeendpointcapsule8790B/6a894fda
+equalsdirect including type+D bodies. NoREADY/shape/snapshot/cert;46.859375known
+CPU retained. Root fullyread diagnosis a86272ae/8701B: rawcongrArg's onlydisplay
+bindername differs after shared alpha-equivalent expression interning from the
+importedparent; fullbinder-erased declaration agrees. Reservedfoundationcheck
+correctlyrefuses unmatchedstructuraldigest. Reuse independently challenges
+diagnosis; no quickfix, relaxedguard or workloadrename selected. Newv4handoff
+explicitly HOLDS contributor-reuse release. Existingbase reader/typedTLS qualified
+scope preserved. Nextcentralimplementation is stable authenticatedfoundation
+serialization/restoration with non-name-drift refusals and genuine guestprep.
+Fullgoal ACTIVE, no runtime live; deadline17:00handoff sealing now.
+
+**2026-10-02 16:32:50 UTC: acquired-parent preparation FAILED at protected bridge.**
+Terminal80c986 exit1; ROOT-PREPARE-REUSE-TERMINAL-01 retained. ControllerRESULT
+2bb333de/26117B FAIL; genuineproductFAILED_NOT_RESUMABLE/
+ValueError: BRIDGE_RESERVED_FOUNDATION. Twoactualworkers verifiedparent and
+checkednativeowner successfully; no snapshot/shape/child/READY/bundle/stages.
+CleanfinalJob45.953125CPU plusfinalcontroller.90625=46.859375knownCPU,
+177.4151509wholewall. No timeout,proofcontinuation,renewal or retry selected.
+Reuse independently audits failure; producer diagnoses exactrawfoundation
+digest mismatch using saveddata/source only. Root preserves safetyguard.
+Preliminaryindependent finding: nativeendpointcapsule is byteidentical to direct;
+this is conditionalnativeuse evidence, NOT completed guestpreparation/certification
+or a trace-costcomparison. V4handoff must expose thiscentralcontributorblocker.
+
+**2026-10-02 16:28:27 UTC: one acquired-parent prepare is running.**
+Root adopted reuse's decisive exactselectionPASS beforelaunch; fullcheckpoint
+f0e6476a/5069B subsequently read/adopted. Session25658 invokes ONLY reviewed
+prepare-reuse-selection-01/415b967b. Originalnewoperation120000CPU/22:00,
+outer16:50 and allcontainment remainunchanged. This must freshly verify actual A
+parent,elaborate reuseauthor and capture genuine childsnapshot; no advance or
+childcertificate is selected. Actualendpoint/type/D/costcomparison against
+directREADY114 remains pending. Source/plan/selection now used/frozen.
+
+**2026-10-02 16:25:24 UTC: shipped reader independently adopted; parent preparation selected.**
+Root fully read/adopts selectionreviewb5f900dd and actualreader64b44ce6/8396B:
+all66selected/evidence checks, exact3causalcontrols, realterminal/closedJob and
+6.328125knownCPU. Genuineoutercommand6.3894983wall;15msinnercrypt is not whole
+reader latency. No runtime live. Newparentselection415b967b/4421B binds actual A
+parent/reuseauthor/plus,7adoptedevidence rows;120000CPU/22:00originalnewoperation,
+16:50outercutoff,prepare-reuse01. Reuse reviews beforeoneprepare; preflight must
+precede16:35. No childproofselected and expired directoperation is not revived.
+Root newhandoffdrafts plus relationguide; producer finalclaims/integrityreview.
+
+**2026-10-02 16:20:41 UTC: shipped reader terminal PASS, actual audit pending.**
+Root adopted producer's decisive exactselection review before launch24138 at
+16:20:08. Terminal4781e9 exit0 observed16:20:41; ROOT-REAL-RECEIVER-TERMINAL-01
+retained. RESULT9a1cada5/27071B: genuineacquiredseedaccepted,requiredDmutation
+precryptorefused,fulljournalmutationrealcryptorefused;3wrappers/2verifiers,
+cleanouterJob total10/active0/terminated0,3.3125CPU+finalcontroller3.015625=
+6.328125knownCPU/22.3430084wholewall. Positivewrapper6.2339303wall;
+this is one actual observation,not universalreaderlatency or growth.
+Producer independently audits actualcausaloracles/costbefore parentselection.
+No workloadlive; usedreader source/plan/selection/allocation now frozen.
+
+**2026-10-02 16:16 UTC: transfer02 adopted; exact shipped-reader selection.**
+Root fully read/adopts actualtransferaudit4914c923/6712B:41evidencepins,
+sixclosedcommands,2TLSrequests,offlineA custody,9.109375knownCPU. Failure01
+retains6.46875; combinedtransfer15.578125. Readerdelta24e9e59e fully read/adopted:
+exact source c0b50ae3/plan ee86909f. Selection094f8a26/3872B binds genuine A
+seed,package/seed/delta/transferaudits and16:40cutoff; producer independently
+reviews before one launch. Parentprepare remains draftonly: original new
+120000CPU/22:00UTC operation policy,16:50outercutoff,prepare-reuse01; no proof
+continuation authorized. Relation owns new v4 layeredguide; root final handoff.
+
+**2026-10-02 16:10 UTC: actual transfer02 terminal PASS; shipped reader next.**
+Root resumed at canonical root/guard PASS. Process02 delta/selection was adopted
+before one launch. Terminal e28ab8 exit0 observed16:04:52; actual RESULT ce609daf/
+30213B reports six direct commands, clean Job total12/active0/terminated0,
+9.109375 knownCPU including finalcontroller6.5. Supplier naturally stopped after
+two requests before final A custody; four acquired seed leaves match finalbundle.
+This is unverified custody, not mathematical acceptance. Independent actual02
+audit assigned to reuse_endpoint_v4; no rerun or runtime is live.
+Unused shipped reader outer active allowance2->4 is prospective headroom only:
+prior genuine active2 success means no demonstrated reader defect. Producer-cost
+reviews exact one-line delta/new plan pins before selection. Next genuine reader
+three-call gate, then one ordinary acquired-parent preparation if adopted.
+No ancestor proof download/replay, seed renewal, direct recertification or growth
+claim. Seed known production/preparation92976.578125CPU remains fully charged.
+
+**2026-10-02 16:01:14 UTC: typed transfer01 failed; narrow unused accounting successor selected.**
+Transfer01 exactselection352caedd review fully read/adopted beforeone runtime.
+Terminal27e5e0 exit1 observed15:54:08, retained ROOT-TRANSFER-SEED01-TERMINAL.
+Root fully read/adopts failureaudit3bee6004:FAIL_SELECTED_JOB_PROCESS_BOUND;
+four directlaunches/attachments,threeinit/offercloses,serveexit1emptylogs/unclosed,
+no find/acquire/Aobjects. Jobtotal7>6,active0/terminated0/closed,1.125CPU+
+actualfinalcontroller5.34375=6.46875knownCPU. No transfer/custody/reader qualification.
+Oldadapter/plan/contract/selection/allocation frozen; no automaticretry.
+Read/adopt diagnosis17e66e7a: prior successful peercommands eachJobtotal2;
+earlier diagnostic observedPython+conhost, NOT currentPIDattribution. Counts
+and rolelaunches differ; observe-before-serviceexit can mask anotherfailure.
+Rootnewsource-onlyrun_transfer_process02.py58acd72e exactlyseven substitutions:
+self/plan/contractnames,liveactive2->4,livetotal6->12,Jobactive2->4,finaltotal6->12.
+Sixdirectcommands,CPU120/512MiB/otherbounds/alltrust+TLS+custodygates unchanged.
+Newplan d1109da7/contract0e45c126; selection37d76a88/5752B freshtransfer-seed02,
+sameactualseed/query/metadata,16:30cutoff. Producer independently reviews delta/
+selection beforelaunch; no runtime live. Newfinitequota is evidence-supported
+scenario not universalbound or proof otherdefectsabsent. Reader remainsheld.
+
+**2026-10-02 15:49:11 UTC: final seed certificate independently adopted; transfer selected, not launched.**
+Root fully read/adopts independentfinal031787fbf03/4704B: actual COMPLETE250,
+exact14new/1296priorpins,96/5argv/wholemarkers,cleanJobs,typedfourfilebundle,
+actualterminal15:35:24before16:00/finalresourcebounds. Totalpreparation+production
+92976.578125knownCPU excludes model/shell/audit/otherinvestment;protocol105270.75.
+This closes conditionalexperimental seed certification, notfullLean/growth/global
+release. Transferselection4a074e7e/5459B created under typed-exchange01:actualbundle/
+3authorityanchors,11source07leaves,retainedBcredentialmetadata,Eqconstant/raw,
+loopback38504,freshtransfer-seed01,16:10UTCcutoff. Reuse independently reviews
+exactselection beforelaunch; no workload live or transfer outcome yet. Reader
+reviewer ready. No artifact,quota,source or originalseed policy rewritten.
+
+**2026-10-02 15:35:24 UTC: final031 terminal; COMPLETE250 rootcheck passes.**
+031 terminal5a3bf4 exit0 externally observed15:35:24UTC beforeoriginal16:00;
+saved terminal plus clockprovenance. Read-only finalobserver passes exact
+COMPLETE250/7e22e449,14new/1296priorpins,finish83segments+aggregate andsamecall
+full192B coldverify, typedfourfilebundle andfinaltelemetry. Workers3.671875CPU/
+4.469224wall,controller30.46875/public34.0555722,newknown34.140625;
+protocol105270.75<120000. Receipt223610B/94e38b81; actualcoldworker.046875CPU/
+.603288wall, not shippedreader/wholeworkflowcost. Allthrough030audits adopted;
+independentfinal031 audit assigned beforetransfer/parentreliance. No runtime
+live, no reverify/ancestorrehash. Broad Lean correspondence/growth/globalrelease
+remain unproved; this is conditional experimental relation evidence only.
+
+**2026-10-02 15:34:42 UTC: all248 ordinary adopted; final2 running.**
+Root fully read/adopts030 independent52d1d79d, including exact83segment/83lift/
+82join metadata closure. Preparation+30prefixes92942.4375knownCPU excluding
+model/shell/audit/otherinvestment.031/f9a11e40 runs66156:ONLYfinish0+coldverify0
+sameinvocation/bundlefinalization. Actual88input lengths38743451B pass caps;
+104667.078125charged+1200finalreserve fitsoriginal120000. Original16:00UTC
+unchanged. Selection15:34:31 permits two600workerwall windows+300closing
+planningmargin beforecutoff narrowly; not bound/guarantee. No ordinary-rate
+extrapolation qualifies finalcost. Final600controllerCPU/7200wall,exact14newpins/
+4filebundle, externally observed actual terminalbefore16:00 and independent
+finalaudit required. No certificate/parentreliance/adoption yet.
+
+**2026-10-02 15:31:08 UTC: READY248; no workload; final-prior audit pending.**
+Root fully read/adopts029 independentbca12e99:READY242,2265.109375knownCPU;
+preparation+29prefixes90727.09375knownCPU excluding model/shell/audit/other
+investment.030 terminalacd5e1/rootcheck READY248/0c0b0200,31new/1265priorpins,
+2215.34375knownCPU,protocol104667.078125; independent030 assigned beforefinal.
+Controller210.046875/workerwall257.70245/public299.8299039. No session remains
+live. Actual88finish-input lengths matchpriorpins/properleafcaps and total38743451B
+below536870912; ROOT-SEED-FINAL-INPUT-SIZES.json retains observation. Final1200
+reservation fits15332.921875remaining. Only draft final2 metadata exists in memory;
+no031selection/launch. Same original16:00deadline/fullfinaltelemetry gate remains.
+
+**2026-10-02 15:26:01 UTC: prefix242 root-checked; last ordinary six running.**
+Root fully read/adopts028 independent6590a5a4:READY236,2305.390625knownCPU;
+preparation+28prefixes88461.984375knownCPU excluding model/shell/audit/other
+investment.029 terminalde2838/rootcheck READY242/5caa4465,31new/1234priorpins,
+2265.109375knownCPU,protocol102061.78125; independent029 assigned.
+Controller198.890625/workerwall247.060932/public286.874087; same retainedmax
+417.3771074CPU sensitivity<450, not bound.030/01f9ab70 runs40374:ONLYlast6
+ordinarysegment81..join82, stopREADY248. Original120000CPU/16:00UTC/1200final
+reserve unchanged. Remainingordinary+separatefinal padded4280CPU fits17938.21875;
+1940wall from15:25:50 about15:58:10 excluding delays, not guarantee.
+Finalfinish+verify needs new selection,88inputsizecheck/allprioraudits/final
+telemetry and externally observed terminalbefore16:00. No certificate/growth.
+
+**2026-10-02 15:20:35 UTC: prefix236 root-checked; next six running.**
+Root fully read/adopts027 independent15850b3d:READY230,2352.203125knownCPU;
+preparation+27prefixes86156.59375knownCPU excluding model/shell/audit/other
+investment.028 terminalc644f8/rootcheck READY236/d0831f2d,31new/1203priorpins,
+2305.390625knownCPU,protocol99395.5625; independent028 assigned.
+Controller220.8125/workerwall270.143474/public312.2700164; retainedmaxratio
+0.8434427685412698 gives417.3771074CPU stress<450, not bound.029/3f93d9c0
+runs58559:ONLY6segment79..join80. Original120000CPU/16:00UTC/1200finalreserve
+unchanged. Remaining12ordinary padded7360CPU fits20604.4375;2380wall scenario
+from15:20 is15:59:40 excluding delays, narrow not guaranteed. Latesttwo-call
+rate plus1500tail=2124.5400328seconds. No renewal/retry/certificate/growth.
+Small static integration metadata prefetched: profile/install,11peerleaves,
+receiver/package/profile and retained credential metadata only; no credential
+file read or new allocation/transfer selection. Final actual bundle/audits needed.
+
+**2026-10-02 15:14:44 UTC: prefix230 root-checked; next six running.**
+Root fully read/adopts026 independent85f62c62:READY224,2118.609375knownCPU;
+preparation+26prefixes83804.390625knownCPU excluding model/shell/audit/other
+investment.027 terminal9f0210/rootcheck READY230/7878e5e8,31new/1172priorpins,
+2352.203125knownCPU,protocol96710.984375; independent027 assigned.
+Controller235.453125/workerwall279.157204/public327.2321728 gives new max ratio
+0.8434427685412698. Same1.25*320+80 sensitivity now417.3771074CPU<450target,
+not bound.028/9778f2ab runs61001:ONLY6segment77..join78. Original120000CPU/
+16:00UTC/1200finalreserve unchanged. Remaining18ordinary padded10440CPU fits
+23289.015625;2820wall exceeds cutoff marginally; three recent327.232calls plus
+1500tail=2481.6965184seconds plausible, not guaranteed. No policy extension,
+certificate, parent reliance or useful-growth claim.
+
+**2026-10-02 15:08:34 UTC: prefix224 root-checked; next six running.**
+026 terminal0daca3 exit0/rootcheck READY224/4f6eac62:31new/1141priorpins,
+2118.609375knownCPU,protocol93994.234375; independent026 audit assigned.
+Controller197.484375/workerwall243.186533/public287.6021363; original policy
+unchanged.027/f8b2dbff runs54835:ONLY6segment75..join76, same409.4182514
+controller scenario, not bound. Remaining24ordinary padded13520CPU fits26005.765625;
+3260wall scenario exceeds16:00 from15:08; four latest287.602wall calls+1500tail
+is2650.4085452seconds, plausible not guaranteed. No extension or blanket authority.
+Root fully read/adopts packaged-peer seamf15d2b34: eleven leaves409314B identical,
+but source07 transfer is not extracted app/peer runtime qualification. Reader
+gate remains actual packaged location. No certificate, parent reliance or growth.
+
+**2026-10-02 15:04 UTC: independent025 adopted; packaged-peer seam check assigned.**
+Root fully read/adopts025 a39cf483: exact closed218/policy/31new/1110prior
+pins/clean six Jobs and2320.859375knownCPU match root check.026 remains live.
+Reuse checks only eleven packaged peer leaves against source07 and existing
+transfer selection shape, no runtime or repeated campaign. Actual transfer will
+still use reviewed source07; byte equality alone is not relocated runtime evidence.
+
+**2026-10-02 15:03:03 UTC: prefix218 root-checked; next six running.**
+025 terminal2e0a42 exit0/rootcheck passes READY218/c2359d1a,31new/1110prior
+pins,2320.859375knownCPU,protocol91473.109375; independent025 audit assigned.
+Controller205.390625/workerwall257.854477/public295.4860244. Preparation plus25
+prefixes81685.78125knownCPU excludes model/shell/audit/otherinvestment.
+026/260e85b3 runs79716:ONLY6 segment73..join74. Retain reviewed409.4182514
+controller stress scenario, not a bound. Original120000CPU/16:00UTC and1200
+closing reserve unchanged. Remaining30ordinary conditional16600CPU fits28526.890625;
+3700wall padded scenario now passes16:00, so full padded deadline feasibility
+is no longer established. Recent actual rates plus1500tail still permit a
+plausible, unguaranteed finish; no extension or blanket continuation authorized.
+Next integration remains seed closure, acquired custody, shipped cold reader,
+same-endpoint parent preparation. No certificate or useful-growth claim yet.
+
+**2026-10-02 14:50:31 UTC: prefix212 independently adopted; next six running.**
+Root fully read/adopts024 independent144c7aa8:READY212/2294f597,
+31new/1079priorpins/exact six clean Jobs,2225.78125knownCPU,protocol88757.640625;
+controller191.515625/workerwall242.752459/whole280.2253285. Preparation+24prefixes
+79364.921875knownCPU excludes model/shell/audit/otherinvestment.025/94be61eb
+runs72734:ONLY6 segment71..join72. Same409.4182514 stress retained, not a bound.
+Original120000CPU/16:00UTC/1200finalreserve unchanged. Remaining36ordinary
+padded19680CPU vs31242.359375remaining;4140wall from14:49 about15:58 excluding
+delays. No certificate, transfer, shipped-runtime or growth claim yet.
+
+**2026-10-02 14:44:50 UTC: prefix206 independently adopted; next six running.**
+Root fully read/adopts023 independent3c43ce07:READY206/faea9b94,
+31new/1048priorpins/exact six clean Jobs,2327.625knownCPU,protocol86123.375;
+controller229.890625/workerwall289.504995/whole343.6129093. Ratio.7940817 remains
+below retainedmax.8235456. Preparation+23prefixes77139.140625knownCPU excludes
+model/shell/audit/otherinvestment.024/8e3b9bbb runs27775:ONLY6 segment69..join70.
+Same mix and409.4182514 stress scenario retained, not bound/wholecampaign
+authority. Original120000CPU/16:00UTC/1200finalreserve unchanged. Remaining42
+ordinary padded22760CPU vs33876.625remaining;4580wall from14:42 about15:58,
+excluding delays. Prior interval classified progress (closed/audited prefixes)
+plus live-handle verified waits; full goal remains active, not narrowed to seed.
+
+**2026-10-02 14:36:26 UTC: prefix200 adopted; six-stage continuation selected.**
+Root fully read/adopts022 independenteb0944b9:READY200/84fe88ef,
+26new/1022priorpins/exact clean Jobs,1378.203125knownCPU,protocol83425.640625;
+controller164.953125/workerwall200.296279/whole239.7482571. Preparation+22prefixes
+74811.515625knownCPU excluding model/shell/audit/other investment.
+023/4c80e197 runs40473:ONLY6 segment67,lift67,join67,segment68,lift68,join68.
+Root adopts reviewed headroom recalibration:018..022 CPU/workerwall ratios
+.726376,.737581,.759535,.749336,.823546; latest rate rises8.43% over prior max,
+so5%inflation was not a conservative empirical envelope. Select sensitivity
+maxratio*1.25*320paddedworkerwall+80fixed/jitter=409.4182514CPU below450target;
+eight440wall gives532.9500957 and is rejected.25%and80 are assumptions, not
+bounds; wallresidual is not fixedCPU and020burst is retained. Reassess actual023.
+Original120000CPU/16:00UTC/1200finalreserve unchanged. Remaining48ordinary
+padded25840CPU inclnine600calls/tail vs36574.359375remaining;5020wall from14:35
+about15:59 excludes delays and is not a completion guarantee/wholecampaign
+authorization. No final certificate, parent reliance, runtime release or growth.
+
+**2026-10-02 14:30:40 UTC: prefix195 independently adopted; next five running.**
+Root fully read/adopts020 ecd85007 and021 a9fb6725.021 terminaldfba09 exit0,
+READY195/84e995a0,21new/1001priorpins/exact four clean Jobs,2072.34375knownCPU,
+protocol81612.390625. Controller165.234375/workerwall220.507796/whole259.436323;
+38.928527residual, no causal attribution or future bound. KnownCPU through21
+73433.3125 excludes model/shell/audit/other investment.022/bd39e364 runs1637,
+ONLY5 lift65,join65,segment66,lift66,join66, same padded240workerwall as prior4.
+Retain adverse020 conditional439.4653CPU scenario, not automatic8/10 restoration;
+additional rebind is within40planning contingency, not measured bound.
+Original120000CPU/16:00UTC/1200finalreserve unchanged. Remaining53ordinary:
+21320paddedworkerCPU; one5 then six8 plusfinal scenario26720CPU fits38387.609375,
+5140wall from14:28 about15:54 excluding delays. Future8 not authorized; sustained
+020overhead still misses deadline. No final certificate, parent reliance or growth.
+
+**2026-10-02 14:23:18 UTC: prefix191 root-checked; controller jump; shrink to four.**
+Root fully read/adopts019 independent1deb8c1b.020 terminalf4aab3 exit0/rootcheck
+READY191/61e2d56c,3647.890625knownCPU,protocol79105.28125; independent020 pending.
+Controller406.234375CPU exceeds350shrink trigger, wall790.2020802 with
+534.846328workerwall;255.3557522residual is unassigned. Allworkers closed/no
+prover observed14:17:18; controller sampled402.765625CPU14:18:41 before terminal
+14:19:20. No hardlimit exceeded. Tenstage599.046875stress rejected.
+021/f1ec1d1a runs48439:ONLY4 segment64,lift64,join64,segment65 to calibrate.
+Conditional439.4653173CPU scenario retains255.3557522 assumed fixedCPU (equal
+residualwall, NOT measured attribution/bound), scales only remaining150.8786228
+by240/534.846328 workerwall, adds76.40625+40. Relation explicitly warns fixed
+closing/rebind can dominate independently;600failure remains nonresumable.
+No wholecampaign guarantee or blanket4continuation. Original120000CPU/16:00UTC/
+1200finalreserve unchanged. Remaining57ordinary plus one4/then8/tail scenario
+29560CPU fits40894.71875;120percallwall case about15:54, repeated255wall misses
+16:00. Reassess actual calibration; no renewal/retry or parent reliance.
+
+**2026-10-02 14:07:00 UTC: prefix181 root-checked; next ten; cost triage closed.**
+019 terminalc2e731 exit0 passes root exact check READY181/2fb61136,
+3628.296875knownCPU,protocol75263.625; independent019 audit pending.
+020/1ce2aeb6 runs22623,next10join60throughjoin63. Latestcontroller329.828125
+below350trigger; scenario437.515625 below450target, heuristic not bound.
+Remaining67ordinary padded32800CPU vs44736.375remaining;5900wall from14:06
+about15:44 excluding delays. Original120000CPU/16:00UTC/final1200reserve persist.
+Root fully read costcandidatea1d9050b: no newly evidenced dominant hotspot;
+supportproofs already not rechecked, nativeF preconstruction was already an
+unmeasured newimage design. Interior reexecution removal is a sameimage future
+host candidate only, with capture/resolve/freshfinish retained; old2.40% interval
+is neither isolatedexecution nor CPU attribution. Root hashes five inspected
+01/05project leaves equal, including hostec0e8425. No implementation selected.
+
+**2026-10-02 14:02:45 UTC: prefix171 adopted; next ten running.**
+Root fully read/adopts018 actual4040df6c:READY171/f78cc370,4362.078125knownCPU,
+protocol71365.15625,51new/848priorpins/exact clean Jobs.019/f05a8e20 runs37141,
+next10lift57throughlift60. Latestcontroller321.5625 below350shrink trigger;
+retained rolling scenario433.609375 below450target, not a bound. Original
+120000CPU/16:00UTC and1200closing reserve unchanged. Remaining77ordinary padded
+37240CPU vs48634.84375remaining;6540wall from13:56 about15:45 excluding delays.
+Preparation plus18prefixes64084.78125knownCPU excludes model/shell/audit and
+other investment. No certificate, completed parent reuse or growth advantage.
+
+**2026-10-02 13:54 UTC: final read-only observer reviewed, no execution.**
+Root fully read inspect_seed_final.ps1/a58b1824 and FINAL-OBSERVER-NOTES09dba3f4,
+crosschecked current child metadata and installed finish/verify/finalizer paths.
+No source blocker found for planned READY248->COMPLETE250 only. Actual externally
+retained terminal UTC, adopted prior SHA, exact two commands,14newpins/fourfile
+bundle/fulljournal/clean measured Jobs/final600CPU7200wall/originaldeadline are
+required. Not a cryptographic verifier, priorpayload census, launch or adoption.
+Producer-cost agent performs narrow read-only deduplication/candidate triage;
+no new runtime/build/proof or live source/environment change.018 remains live.
+
+**2026-10-02 13:48 UTC: prefix161 adopted; next ten running.**
+Root fully read/adopts017 actuald2b73d34:READY161/6f3c0f0e,3704.59375knownCPU,
+protocol66724.640625,51new/797priorpins/exact clean Jobs.018/989a9642 runs17439,
+next10segment54throughsegment57. Latestcontroller325.921875 below350shrink
+trigger; rolling scenario433.609375 below450target, not a bound. Prior residual
+115.9588634wall has no assigned cause; next forecast raises nonworker allowance
+to120per ordinary invocation. Original policy/final1200reserve unchanged.
+Remaining87ordinary padded42560CPU vs53275.359375remaining and7220wall from
+13:46 about15:46, excluding selection/audit. No final certificate/growth claim.
+
+**2026-10-02 13:38 UTC: prefix151 adopted; next ten running.**
+Root fully read/adopts016 actual63b77f89:READY151/822d22f3,3689.296875knownCPU,
+protocol62745.96875,51new/746priorpins/exact clean Jobs.017/50e3c6e9 runs80759,
+next10join50throughjoin53. Latestcontroller309.796875 below350shrink trigger;
+recent-high scenario417.484375 below450target, heuristic not bound. Original
+120000CPU/16:00UTC and1200closing reserve persist. Remaining97ordinary padded
+47000CPU vs57254.03125remaining;7660wall scenario about15:45 excluding delays.
+Selection017's manually entered13:37 timestamp is ahead of actual13:36:06
+preflight/13:36:17 launch observation; retain used selection unchanged and use
+actual tool observations for chronology. No certificate or blanket authorization.
+Reuse prepares a minimal read-only final observer from existing patterns,
+source-only, for actual COMPLETE/finish/verify/bundle/terminal adoption later.
+
+**2026-10-02 13:25 UTC: prefix141 adopted; next ten running.**
+Root fully read/adopts015 actual1cda1351:READY141/ea10368a,4114.34375knownCPU,
+protocol58766.46875,51new/695priorpins/exact clean Jobs.016/fc3efb0d runs76494,
+next10lift47throughlift50. Latestcontroller283.296875 below350shrink trigger;
+recent-high scenario401.359375 remains below450target, not a bound. Original
+120000CPU/16:00UTC and1200closing reserve unchanged. Remaining107ordinary
+padded scenario51440CPU vs61233.53125remaining;8280wall from13:22 about15:40
+excluding audit/selection. No certificate or all-remaining authorization.
+
+**2026-10-02 13:16 UTC: prefix131 adopted; next ten; vocabulary work deduplicated.**
+Root fully read/adopts014 actualf73dcdcf:READY131/5ce500f4,3424.421875knownCPU,
+protocol54335.421875,51new/644priorpins/exact clean Jobs.015/5dfab449 runs75105,
+next10segment44throughsegment47. Rolling controller scenario401.359375 uses
+recent max293.671875, not optimistic latest285.921875; original limits/final
+reserve unchanged. KnownCPU preparation+14prefixes48214.46875, no certificate.
+Reuse's narrow search found sealed-data locality already designed/challenged in
+v3 SCALE-NEXT-VOCABULARY05a25b47; root read that full revised note. No duplicate
+essay or implementation selected. V4 still requires transparent F-closed bodies,
+four-definition context and refusal of conflicting same names. Existing future
+sealed-signature/common-realization design is not an implemented v4 capability;
+neither an opaque name nor mere satisfiability supplies composable validity.
+
+**2026-10-02 13:06 UTC: prefix121 adopted; next ten running.**
+Root fully read/adopts013 actual4325e776:READY121/968fabd6,3479.296875knownCPU,
+protocol50596.921875,51new/593priorpins and exact clean Jobs.014/c266cbfa runs20090,
+next10join40throughjoin43; original policy and1200final reservation unchanged.
+Latestcontroller293.671875 yields401.359375 conservative next-call scenario
+(+2*33.84375+40), still below450target and350actual shrink trigger. Prior whole
+minus summedworkerwall98.7413139 is larger, cause unassigned; no extra diagnostic
+campaign. Remaining127ordinary padded52,200workerCPU+600tail+8400reservations
+fits69,403.078125remainingCPU. Paddedwall9560seconds from13:03 projects15:42:20
+excluding selection/audit delay, not a guarantee or all-remaining authorization.
+
+**2026-10-02 12:55 UTC: prefix111 adopted; next ten running; same-image acceleration screen.**
+Root fully read/adopts012 actualdf4521d1: READY111/b2fd858d,4243.140625knownCPU,
+protocol46811.296875,51new/542priorpins/exact clean Jobs.013/444833ab runs17449,
+next10lift37throughlift40. Updated positivecontrollerincrement33.84375 yields
+285.15625+2*33.84375+40=392.84375heuristic next-call scenario below450target;
+latest remains below350shrink trigger. Originalpolicy/1200closing reserve persist.
+Root fully read acceleration source screen569fe5d5: held SDK5.0.0 supports a
+separately compiled CUDA producer in principle without changing exact guest/
+journal/hash suite/verification parameters; current driver lacks that feature.
+Native Windows toolkit/build path and4GiB availableVRAM unqualified; WSL would
+need separate containment/accounting. No installation,backend switch,build,
+WSL/GPU/proof runtime selected. Consider cheap no-proof readiness only after
+sole production closes; do not treat this as deadline rescue or measured gain.
+
+**2026-10-02 12:45 UTC: prefix101 adopted; next ten; accelerator feasibility only.**
+Root fully read/adopts011 actualb8e69f99:READY101/4bfe59e8,3544.671875newknownCPU,
+protocol42253.3125,51new/491priorpins/exact Jobs.012/9aa8e498 runs61525,
+next10segment34throughsegment37, original policy/closing reserve unchanged.
+KnownCPU preparation+11prefixes37067.609375; no certificate or growth claim.
+Root read-only hardware observation finds RTX3050Laptop (reported4GiB), nvidia-smi
+and wsl executables; nvcc not found on PATH. No runtime/backend readiness inferred.
+Scale examines exact held SDK/platform source only for same-image future
+acceleration feasibility; no WSL/GPU launch, installation/build/proof or live
+environment/source change selected. It targets dominant production cost, not
+the already rejected row-parser optimization or another proof campaign.
+
+**2026-10-02 12:39 UTC: packaged-command guide read and adopted as draft.**
+Root fully read V4-GUIDE-DRAFT c422affb: actual app/receiver,app/peer and
+app/contributor paths, separate roles/profile digests, locally derived structural
+search-key syntax and finite command templates. Its12:36snapshot is explicit.
+These are source-checked unexecuted templates: origin contributor/source07 peer
+runtime is not mislabeled extracted-path or arbitrary relocation qualification.
+No release, runtime or product change selected.011 remains sole live workload.
+
+**2026-10-02 12:36 UTC: prefix91 adopted; closure reserve planned; next ten running.**
+Root fully read/adopts010 actual74f1a3a4: READY91/9f7fbbac,3570.84375knownCPU,
+protocol38359.953125;51newpins/440prior metadata and clean exact Jobs.
+011/6d216ebd runs50891,next10join30throughjoin33; all original limits unchanged.
+Root read closing-feasibility d1fae842: target READY248 then separately max2
+finish/verify; final cold verify and bundle closure must share that invocation.
+Reserve1200protocolCPU for final600controller+two300workers; actual input caps,
+full bindings/clean Jobs/independent audits and final measured controller event
+plus terminal-before16:00 remain required. COMPLETE/exit0 alone is insufficient.
+From closed010,padded scenario leaves52segment/52lift/53join:64600ordinaryCPU,
+8360workerwall. Constant10/8/6 batches incl final need75400/77800/82000CPU vs
+81640.046875remaining; these are scenarios, not guaranteed bounds or selections.
+Ten-batch remaining wall11460seconds incl stated allowances gives about15:45
+from12:34, excluding selection/audit delay. Reassess each actual prefix;
+controller249.125 below350shrink trigger. No blanket continuation or renewal.
+
+**2026-10-02 12:26 UTC: prefix81 independently adopted; next ten running.**
+Root fully read/adopts009 actual fbe21501: READY81/d69c402e,51new/389priorpins,
+exact dependency commands and clean Jobs;4175.953125newknownCPU,protocol34438.234375.
+Select010/76b37951,next10global81..90 lift27throughlift30; sole session65072.
+Original120000CPU/16:00UTC unchanged. Latest controller240.59375; heuristic
+240.59375+2*27.046875+40=334.6875 stays below450planning target, not a bound.
+All independently audited prefixes through009 close; no completed certificate.
+Root read monitoring design46fce09d: slower sampled census explicitly weakens
+transient detection; retain as future hypothesis, no live-source change or
+implementation selection. Reuse updates only editable V4 guide to actual
+archive layout/commands; runtime and mathematical gates remain pending.
+
+**2026-10-02 12:13 UTC: prefix71 adopted; next ten running; real gate ready in source.**
+Root fully read/adopts008 actual412ea118:51new/338priorpins/exactcommands,
+cleanJobs,3436.390625knownCPU,protocol29902.875,READY71/03def06f.
+009/04b8c618 running75258, only next10segment24throughsegment27. Latest
+214.9375controllerCPU remains below selected shrink trigger; same original
+budget/deadline and audit-pipelining conditions. No certificate yet.
+Root fully read/adopts real reader independent f9b264fd:qualifier ea93f9ea/
+plan d382e3ff ready source-only; genuine COMPLETE/acquired custody remain
+mandatory. No real-receiver-01 allocation or selection exists. Scale supplies
+bounded future monitoring-hotpath design only; no live source/profile edit,
+new product cut or implementation selected. Root owns consequential next gates.
+
+**2026-10-02 12:05 UTC: package adopted; prefix61 checked; reader gate source review.**
+Root fully read/adopts actual package auditd9140e78: exact byte distribution,
+not shipped runtime. Root007 check passes51new/287priorpins,READY61/627e813c,
+3457.296875knownCPU,protocol26081.421875; independent007 audit pending.
+008/0deb142a running99189, only next10 join20throughjoin23, no policy renewal.
+Root read full real reader qualifierea93f9ea and plan d382e3ff, no root blocker;
+reuse independently reviews exact final source. No real gate selection/run.
+
+Root adopts CONTROLLER-HEADROOM-TRIAGE's heuristic (not a bound): preserve150CPU
+planning slack; reassess comparable recent costs/mix after each closed prefix;
+shrink at latest>=350CPU or next10scenario>450CPU, recalibrate fixed overhead
+without assuming proportional costs, and account every extra600reservation.
+No in-place source fix, headroom interruption, blanket remaining launch or
+deadline extension. Final finish/verify/full closure gets separate consideration.
+
+**2026-10-02 11:57 UTC: prefix51 adopted; package terminal PASS, audit pending.**
+Root fully read/adopts006 actual0106e7bd:51new/236priorpins,exactcommands,
+cleanJobs,3984.90625knownCPU,protocol22229.234375, READY51/e3645a52.
+007 selection01926fda runs session39888,next10lift17throughlift20, original
+120000CPU/16:00UTC unchanged. Relation separately triages rising census/rebind
+controllercost before later finite batch decisions; no live-source modification.
+Package27977 terminal54b4ad exit0, final163.328125CPU369.012468wall,
+base97817285B/773edc7f and optionalcontributor2349904469B/61605462.
+Exact extraction/result0476c48e awaits relation's independent outcome audit;
+no shipped runtime or release adoption yet. Scale authors minimal real reader
+gate; reuse reviews final source afterward. Genuine completed/acquired seed
+remains mandatory. No new campaign, retry, predecessor mutation or budget renewal.
+
+**2026-10-02 11:51 UTC: exact package running; growth claim audited.**
+Root fully read/adopts005 audit4fc52df5. Seed006 remains sole proof job.
+File-only package27977 runs concurrently under fixed600CPU/1800wall/512MiB/
+8GiB/32GiB explicitI/O; neither job is a controlled performance comparison.
+No package outcome or shipped runtime is claimed until terminal and audit.
+Root fully read/adopts GROWTH-CLAIM-AUDIT62d5336e: resource-vector net saving
+requires sum(direct-minus-reuse)>incremental investment+maintenance; elapsed
+latency/peakmemory are not additive. Existing forced-use source is a mechanism
+test, not optional-use agent causal evidence. Exact direct114/a0 requires343
+stages; future reuse n/a1 requires3n+2. Smaller stage count is not measured
+end-to-end benefit, and preparation alone cannot amortize current seed in one
+use. Next meaningful gate remains genuine acquisition and same-endpoint parent
+preparation; no full direct certificate campaign is selected just to force a win.
+The layered draft now documents the small reader separately from contribution.
+
+**2026-10-02 11:44 UTC: prefix41 root-checked; typed reader install adopted.**
+Root fully read/adopts004 audit3fb96176;005 terminal8beb8e exit0 READY41/
+9d3af321, direct transition check51new/185priorpins/exactcommands/cleanJobs.
+NewknownCPU3424.8125, protocol17849.484375. Select006/a9f06809 next10 global41..50,
+segment14 throughsegment17, running69176, original120000CPU/16:00 unchanged.
+Relation independently audits immutable005 in parallel; no certificate yet.
+
+Typedreader cheap actual6e04de4b adopted:fourgroups,0.265625knownCPU, no crypto.
+File installation terminal9c7b0e and independentc274a7f9 adopted:597files/
+97302245B incl78883B profile4803d60f, final3.21875CPU/12.917115wall, zero workers.
+Root fully read pack.py/PLAN/independenteb3cc0fe and selects next file-only
+two-archive packaging, not runtime/release. Scale owns source-only three-call
+REAL qualification on eventual extracted receiver using genuinely acquired seed;
+reuse independent source reviewer. No duplicate installed/shipped positive.
+Growth philosophy remains resource-bounded accessible capability, not theorem
+count or enlarged deductive closure; actual comparison still awaits parent reuse.
+
+**2026-10-02 11:36 UTC: prefix31 root-checked; next ten running.**
+Advance004 terminal42b3f7 exit0, READY4/e0dd0002:31of250 stages. Root direct
+transition check passes51newpins/exact dependency commands/clean measured Jobs,
+3281.28125worker+157.078125finalcontroller=3438.359375knownCPU;
+protocol14002.78125. Relation independently audits immutable attempt004 while
+selection005/c10fed20 launches sole proof session79705, global31..40 join10
+throughjoin13. Original120000CPU/16:00UTC unchanged, no whole-campaign authority.
+Correction: the previous004 caption said throughjoin10; its actual selected
+and executed array correctly ends lift10. Used004 selection remains unchanged.
+No certificate or parent reliance until completion and all audits close.
+Root read final cheapreceiver launcher/plan; reuse reviews independently.
+Scale designs minimal real cold reader qualification source-only using existing
+adapters. No cheap run, receiver installation, package or new receipt claimed.
+
+**2026-10-02 11:25 UTC: proof prefix31 running; small-reader/package source advance.**
+Advance003 actuale583b2 exit0/READY21/5e1b2b3d independently adopted:51newpins,
+3855.65625worker+142.9375controller=3998.59375knownCPU; protocol10121.5.
+Immutable audit01fec92c follows exact original policy. Advance004 selected166b524e
+and launched sole session61999 at11:18UTC, next10 lift7 throughjoin10; no renewals.
+
+Root selects audit pipelining for future ordinary prefixes: before each separately
+finite next launch, directly check immutable closed-record chain, all new pins,
+exact stage/dependency argv/markers, clean measured Jobs, charges and retained
+policy. Independent audit may then run against only that closed attempt while
+the next selected prefix runs. Any mismatch stops future selection; descendants
+stay unadopted. No parent reliance/final certificate/release adoption until ALL
+independent audits close. Final finish/cold-verify/bundle still separately audited.
+Relation independently agrees this does not change product verification or limits.
+
+Typed receiver three-site delta independently passes9a85edd0, minimal file-installer
+passesdb7227ac; root fully read both. Four inert testgroups authored a32fa0bb;
+scale adapts held Phase launcher only, reuse independently reviews. No tests or
+receiver installation yet. Fresh v4 package adapter a2b098d4 authored source-only;
+relation reviews exact delta. Current receiver/source used predecessors unchanged.
+
+**2026-10-02 11:04 UTC: prefix11 adopted; next10 and typed receiver source selected.**
+Actual advance002 terminale7ff32 exit0,119.4375controllerCPU/491.989132wall.
+Root adopts scale's direct actual51-pin/order/cleanJob findings:3134.140625worker
++119.4375controller=3253.578125knownCPU, protocol5665.84375, READY2/6c1507fb,
+11of250stages. New immutable audit1d31cbfd; old pinned3846B audit remains exact
+66599124 (do not append to used pinned audits). Select advance003/671d0011,
+next10 global stages11..20, segment4 throughsegment7; original limits unchanged.
+Root owns sole proof runtime; scale audits only actual new terminal afterward.
+Root fully read/adopts reuse-source edf12cd0 and budget-triage34921e29.
+
+Package-seam review identifies missing standalone typed receipt authentication
+as central reader usability. Root selected fresh9-file typed-receiver-source01
+baseline/CONTRACT: relation owns verifier/API/PLAN only; reuse owns minimal
+file-installer source/docs. Root/scale independent reviews and separately selected
+cheap/cold-real-receipt qualification remain required. No guest/native rebuild,
+no runtime install or packaging selected; all used03/05/v3 sources stay frozen.
+
+**2026-10-02 10:50 UTC: next ten seed stages selected and launched.**
+Selection002 b39db601 chains exact READY1/2ea2e15c and actual adopted audit;
+11 selected pins rechecked. Sole installed public advance max10, lift0 through
+join3, no policy/source change or concurrent heavy workload. At most10*600s
+worker wall within7200 sampled invocation limit; not an aggregate hard guarantee.
+Batching reduces fixed600CPU reservations; relation's retained-cost triage
+supports this finite prefix, not whole completion. Original120000CPU/16:00UTC
+and all prior charges persist. Root owns terminal; scale audits new stages only.
+
+**2026-10-02 10:48 UTC: first proof segment and direct preparation adopted.**
+Root fully read/pin-adopts direct outcome bec70fb0 and first-segment outcome
+66599124. Seed segment0 is genuine/clean,744.546875 disjoint knownCPU,
+64.917347publicwall; cumulative protocolcharge1931.703125CPU. State READY1,
+83segments/a0, no certificate;249 stages remain unselected. Direct remains
+READY114 for the exact downstream endpoint, not a same-endpoint speedup.
+Reuse author supplied1377B/7e4d835e conditional source with one seed application
+plus a local splitting induction; no runtime or authenticated parent yet.
+Relation now triages finite production batches/cost under original120000CPU/
+16:00UTC; scale reviews exact reuse source; reuse author checks concrete
+transfer/parent-preparation readiness. Root owns subsequent finite selections.
+No heavy workload lives, no completed campaign is repeated. Goal ACTIVE.
+
+**2026-10-02 10:34 UTC: direct READY114 observed; one seed segment selected.**
+Actualdirect01 terminald4999c exit0/RESULTc0f4c1ca;114segments/a0 and exact held
+endpoint,35.890625knownCPU/38.633363wall/cleanJob. Relation audits actual; no
+certificate or same-endpoint advantage claimed. Seed83actual auditc33640b5 fully
+read/pin-adopted. Select seed-advance-selection001: direct installed public
+advance max-new-stages1, onlysegment0 of250, original120000CPU/16:00UTC unchanged.
+Worker1800CPU/600wall/4GiB/active8; existing cooperative public controller, no
+external aggregateJob. Resource/claim boundaries in SEED-PRODUCTION-DECISION-01.
+No other heavy job; root owns launch/terminal, scale actual new-prefix audit.
+
+**2026-10-02 10:31 UTC: seed/plus adopted; independent direct preparation selected.**
+Root adopts scale's exact actual seed bindings/closure (compactsealc33640b5)
+and typed's plus findings/seale888908f (fully read). Both READY only. Actual plus
+ID35ee/capsule8c2aedaf,21segments/a0,50.8125knownCPU; no Dcertificate. A fresh
+no-history author supplied exact-endpoint1894B/b9a0c891 without reading seedproof;
+154s observed source-authoring interval, metadata exposure/unmeasured model cost
+disclosed in AUTHOR.md. Root read proof/source and checked recurrence argument;
+do not claim full experimental blinding or agent-efficiency advantage.
+Select prepare-direct01: same exact statement, actualiter+plus data, zero Prop
+parents,120000originalCPU/16:00UTC, same600JobCPU/900wholewall/4GiB/512MiB outer,
+cutoff11:05UTC. One prepare, no proof. Root owns terminal; independent actual
+audit and a separate seed first-segment cost probe follow. Both goals ACTIVE.
+
+**2026-10-02 10:21 UTC: seed preparation actual READY; plus preparation selected.**
+Actualseed01 terminalee7968 exit0/RESULT2206bfab,37.65625knownCPU/40.323008wall,
+cleanJob; n83/a0, no certificate. Scale audits real theorem/D/bridge/guest and
+has independently confirmed exact5-token render4805781b. Full certificate would
+require250stages; no blanket launch or cheap-proof claim. First qualify plus and
+obtain honest direct-control feasibility, then consider one first segment only.
+Select prepare-plus01, reviewed same wrapper/profile/102B owner3e85de7f,
+3000originalCPU/11:20UTC, outer600CPU/900wholewall/4GiB/512MiB/cutoff10:50UTC.
+Typed audits actual plus. Root owns terminal/next finite production decision.
+
+**2026-10-02 10:18 UTC: public iter adopted; substantive seed preparation selected.**
+Root adopts typed's actual31input/37evidence findings: publiciter02 READYb0d273fb,
+same exact6104 capsule, two native/one guest snapshot23segments/a0. Terminal728a2a
+exit0/resultfe4761f7;50.671875knownCPU/51.740278wall/cleanJob, no Dcertificate.
+Render fixed IterIntertwine template via five exact actual-D substitutions to
+812B/c8ca6960, explicit render map retained. Select prepare-seed01 with this
+local semantic D,120000originalCPU/16:00UTC deadline, outer600JobCPU/900wholewall/
+4GiB/512MiB/cutoff10:45UTC. One public prepare only; proof needs separate decision.
+Scale reviews exact render then actual seed; typed seals actual iter; root owns
+terminal/cost triage. Both central goals ACTIVE, no measured growth advantage.
+
+Root diagnostic overhead note: a read-only PowerShell JSON render accidentally
+expanded Get-Content's extended metadata at depth14. Exact own process8060 was
+identified and stopped after observed81.765625CPU/1027883008B private memory;
+no project files were written or removed. Subsequent read casts text to string.
+This is separate diagnostic overhead, not included in public-prepare CPU above.
+
+**2026-10-02 10:12 UTC: repaired installation adopted; fresh public iter selected.**
+Install05 session12077 terminalaa34d3 exit0/result2cf91916/profilee3a65bc7.
+Root adopts relation's independent exact metadata+20overlay findings:12395assets,
+only importer/API differ from04;12393byte-identical.59.609375CPU/177.228434wall,
+file-only0workers. Select prepare-iter02 using unchanged reviewed public wrapper,
+same owner78894e7a, fresh allocation and profile,3000originalCPU/11:00UTC deadline,
+outer600CPU/600phase/900wholewall/4GiB/512MiB/cutoff10:40UTC. No Dcertificate.
+Old FAILED operation stays unchanged. Typed audits actual math/public outcome;
+root owns terminal. Transfer-source review637c2240 fully read/pin-adopted.
+
+**2026-10-02 10:05 UTC: retained native regression adopted; fresh file install selected.**
+Root adopts typed's direct actual02 findings: all23input/11evidence pins agree,
+exact retained6104 capsule/three-string Name/Nat+iter packet, all helper controls,
+zero recapture; terminal88e5a7 exit0/result4c1d25f9,7.875knownCPU/cleanJob.
+First wrapper failure stays FAIL. Select reviewed05 install-selection01,
+fresh integration02, ten actual overlays and adopted04 driver/image reuse;
+300controllerCPU/1800wall/512MiB file-only, no native/guest/proof/network.
+Relation audits actual map/profile/delta; root owns terminal/adoption. Root fully
+read/pin-adopts parent-source review148fd5d3; scale reviews typed-transfer source.
+
+**2026-10-02 10:02 UTC: regression wrapper syntax failure retained; fresh02 selected.**
+Actual01 session1097 terminal8554ee FAIL before helper/native execution: test-local
+`prefix` is a Lean keyword.6.859375knownCPU/28.408872wall, clean0active/0terminated.
+Root adopts typed's independent actual29-pin failure findings and exact successor
+delta. Fresh02 changes only allocation/adapter/plan bindings and that local name.
+Select77c2b59c/23190608, same retained6104 inputs/oracles/production repair/runtime,
+same600JobCPU/900wholewall/4GiB bounds, cutoff10:25UTC. No old failure relabeled.
+Root owns one launch/terminal; typed audits actual02. Installer still held.
+
+**2026-10-02 09:57 UTC: one retained-name regression selected.**
+Root read/adopts final regression64c1f79d/planb872b21f and independent repair
+reviewc66116b1. Select name-regression-selection01, exact retained6104 request,
+one native call plus pure helper/report/order controls; no recapture or guest.
+600JobCPU/600phase/900wholewall/4GiB/active8/512MiB, cutoff10:20UTC. Root owns
+launch/terminal; typed independently audits actual output. Existing04 installed
+runtime closure is reused; no repeated full scan or image build. Scale reviews
+parent-prepare source; relation authors transfer-only adapter. Goal ACTIVE.
+
+**2026-10-02 09:35 UTC: exact name repair selected in fresh05; no image rebuild.**
+Root read/adopts actual failed-iter audite185f80f: real polymorphic Nat.rec capture,
+no final child or snapshot,46.390625knownCPU retained. Root copied/hash-verified
+58leaf04 source into fresh05 (af9678), selected CONTRACT. Typed owns only native
+ImportTail and contributor API; relation independently reviews exact delta.
+Raw mixed digit/letter ID parses anonymously; all-digit ID can become Name.num.
+Select canonical-D-only explicit Name.str protocol parsing/rendering plus
+consistent report/order, preserving AST/ID/F/guest/codec. Scale authors one
+native regression using retained6104 request plus pure name/order assertions;
+no recapture or duplicate guest/build campaign. Root's05 installer is the
+small reviewed04 relocation with actual04 driver/image reuse, awaiting review.
+Public source wrapper remains unchanged and reusable with a future new profile.
+
+**2026-10-02 09:26 UTC: actual iter capture passes; canonical-name finalization FAIL.**
+Public session67597 terminal42d217 exit1, controller RESULT721b0a89. First native
+captures actual polymorphic Nat.rec iter successfully; second native refuses
+IMPORTER_ROOT_DOTTED_CANONICAL. No child/snapshot/proof; operation closed FAILED
+and is not resumable. Outer Job45.734375+controller0.65625=46.390625knownCPU,
+50.66417wholewall/2790690816Bpeak,0active/0terminated/7total. Terminal saved;
+all used inputs/evidence freeze. Scale audits immutable outcome; root/typed
+diagnose canonical-name serialization before any separately selected successor.
+Do not change DefinitionID or retry failed operation. Installation audit51e2663e
+fully read/pin-adopted. No certificate/growth/integrated-release claim.
+
+**2026-10-02 09:24 UTC: actual installation adopted; iter public prepare selected.**
+Root adopts relation's directly received narrow actual findings: map/profile
+all12395 rows agree, exactly10 deltas/12385unchanged;20overlay byte pins and12
+small evidence pins pass; full-copy/readback closure is the actual installer
+PASS, not a duplicated independent2.3GB scan. Concise seal follows. Select
+prepare-iter-selection01: actual profile76f81a2a/owner78894e7a, kind definition,
+zero contexts/parents,3000originalCPU/10:00UTC operation deadline; outer600CPU/
+600phase/900wholewall/4GiB/active8/512MiB/09:50UTC cutoff. Exactly one public
+prepare; no advance/certificate/network. Root owns terminal, scale actual audit.
+All used prepare source/docs/selection freeze on launch; no automatic retry.
+
+**2026-10-02 09:20 UTC: file installation terminalPASS; real iter prepare next.**
+Sole session19222 terminal5544bf exit0:12395 assets/2345240276B, profile76f81a2a,
+RESULT551c4875. Final61.875controllerCPU/264.5238225wall; no worker/native/guest.
+ROOT-INSTALL-TERMINAL saved. Relation audits exact map/profile/ten-overlay delta,
+not another full runtime census. Root fully read/adopts public-prepare source
+review3cf3a8d4 and complete adapter/plan/contract (0b828c2f/2c2333f4/45de85fa).
+After actual install adoption select one iter definition public operation,3000
+original CPU allowance, no proof or network. Scale owns actual public/native/
+guest/canonical-interface audit. Typed's production decision favors the one-D
+iter_intertwine seed; original endpoint has a short direct proof. No assumed
+growth advantage or duplicate test. Both central goals remain ACTIVE.
+
+**2026-10-02 09:14 UTC: six guest controls adopted; file-only install selected.**
+Root fully read/pin-adopts independent execution audit ba405efc. Actual fe73b5
+exit0: positive plus five intended mathematical refusals, clean closed Job,
+2.703125 knownCPU/7.7107908wall. Positive34segments/8781824padded rows;
+execution-only, not a certificate. Select reviewed install-selection01 with
+ten exact overlays, actual driver32356c4f/image3a3391d7 and their adopted
+outcomes; fresh certified-definitions-integration01 only. File-only300CPU/
+1800wall/512MiB; no native/guest/proof/network. Root owns launch/terminal;
+relation independently audits actual installation. Public prepare source
+review complete; root finishing source read before separate real iter selection.
+Full goal ACTIVE; no efficiency or growth claim and no completed test repeats.
+
+**2026-10-02 09:06 UTC: fixtures and P0 adopted; six genuine guest checks selected.**
+Root fully read/pin-adopts localcaps outcome3335b1ca and assembly59a16ad7.
+Relation's independent54-pin actual fixture findings adopted directly: all six
+rank0/parent-free frames/journals match actual image and packet commitments;
+controllerce1c1d7f PASS,0.53125knownCPU/cleanJob. Concise seal follows. Select
+execution-clearance01 for exactly six guest cases with new driver32356c4f,
+actual image5275d4fb and13exact inputs,600JobCPU/900wholewall/4GiB/active8/
+12GiB/2^26cycles/po2=18. One positive/five intended refusals, no proving.
+Root owns terminal; relation independent actual audit. Installed public/growth
+operations remain held until this central semantic gate passes. No reruns.
+
+**2026-10-02 09:01 UTC: actual image adopted; one fixture-data worker selected.**
+Root adopts relation's independent16-check actual assembly findings received
+directly; concise seal follows. Actual image5275d4fb/1418472B/3a3391d7 comes
+from sole pinned COMBINED_IMAGE marker, not an old profile. Select fixture
+selection01/controller-selection01, exact58source/22input roles and actual image,
+fixed09:15UTC cutoff,15JobCPU/30phase/90wholewall/512MiB/two processes/64MiB.
+This creates only six candidate frames, not guest execution. Root owns terminal;
+relation later audits actual data. Localcaps actual six tests PASS0.984375knownCPU,
+1.6028wall/cleanJob; scale audit pending. No certificate or growth claim.
+
+**2026-10-02 08:58 UTC: localcaps source adopted; six groups selected.**
+Root fully read/pin-adopts independent review858a6719 and complete launcher/
+test source. Operational timing-float fix is test-only; production58 unchanged.
+Select localcaps-selection01, fixed09:15UTC cutoff,60JobCPU/120phasewall/
+180wholewall/512MiB/two processes/32MiB. Exactly six new inert groups, no native,
+guest/proof/network. Scale audits actual output after root terminal, no rerun.
+Assembly actual exit0/0.453125knownCPU/2.4553wall; image5275d4fb (actual ID),
+1418472B/3a3391d7. Relation narrow assembly outcome audit pending; data/guest
+selection follows. Typed authors consequential one-public-prepare supervisor.
+
+**2026-10-02 08:52 UTC: guest/host builds adopted; one assembly selected.**
+Root fully read/pin-adopts independent build reviewfc4b7b62. Guest266.1875+
+host68.21875=334.40625knownCPU, both clean; no live compiler. Select one image
+assembly under clearance66855407, reviewed phase adapter, actual new ELF
+d9c33946 and held v1compat/assembly driver.120JobCPU/240wholewall/4GiB/active8/
+12GiB; no execution/proving. Root owns terminal; relation audits actual result.
+Root adopts growth SOURCE-FEASIBILITYba56cc8a as source reasoning only. New
+PUBLIC-PREPARE-CONTRACT selects thin one-public-prepare supervisor authoring,
+not runtime; actual iter/plus vocabulary/seed preparation will replace an
+identity-only public trial. Scale caught localcaps operational-float parser bug
+before launch; narrow unused test fix is under final review. Production unchanged.
+
+**2026-10-02 08:44 UTC: guest compile terminalPASS; host compile selected.**
+Session59236 terminal7f3271 exit0,319.0852wall. Job168.125CPU plus98.0625
+controller=266.1875known; clean0active/0terminated/413total. New ELF1359704B/
+d9c33946; resultd93cf718/ROOT-BUILD-TERMINAL saved. Relation audits actual build;
+no execution/proof qualification. Root selects independent sequential host
+compile only under host-clearance01 SHA0d797643 (600JobCPU/900wall/4GiB/active8/
+12GiB), reviewed6a2de98b adapter and exact reused rlibs/target/runtime. No
+dependency rebuild/retry. All used build inputs freeze. Root read/pin-adopts
+fixture source review0c8df2cd; image/data/guest launches still require actual
+outcome adoption. Public six-group tests/launcher remain source-only.
+
+**2026-10-02 08:39 UTC: composed native audit adopted; one guest build selected.**
+Root fully read/pin-verified actual cheap review23ea77c0 and adopts only its
+bounded native/data/codec scope. Original03 FAIL and all costs stay. Root
+read/adopts bridge adapter source review7f8db200; selects fresh04 guest
+build-clearance01 with all58 actual source pins, held eight preparation pins,
+1800JobCPU/1800wall/4GiB/active8/16GiB bounds. One offline fresh target build;
+no execution, proof, network or automatic retry. Root owns launch/terminal;
+relation next audits actual result. Host compile remains separate/sequential
+given low free RAM. Typed owns six public-state groups; scale owns producer-only
+iter/plus templates and full-cost feasibility, not consumer endpoint proofs.
+No certificate, efficiency or growth qualification. Full goal remains ACTIVE.
+
+**2026-10-02 08:27 UTC: minimal continuation actually passes; audit pending.**
+Actual54421 terminal1381b3 exit0; ROOT-CHEAP-TERMINAL saved.04worker completed
+4new native calls (2positive/2intended refusal),2sourceelaborations,18codec and
+5bridge controls. Inherited2native observations remain separate;03FAIL retained.
+Job39.234375CPU +controller21.859375=61.09375knownCPU,125.4153controllerwall;
+clean0active/0terminated/12total,peak2761416704B. Fixture manifest0024145a saved.
+Relation audits immutable actual outcome; no rerun. Root read/adopts installer
+source reviewb0495a05. Guest/host launches await actual audit; run sequentially
+given only2527MiB free of16049MiB RAM at this check, not two concurrent4GiB Jobs.
+Public-state tests and data fixtures proceed in parallel as source-only work.
+
+**2026-10-02 08:23 UTC: one minimal native/data continuation selected.**
+Root fully read/adopts bridge source review7f8db200 and cheap source review8e344a5d;
+missing-final-Job correction is in final controllere296e8ba. Select only fresh04
+cheap-selection01 with58source/33inherited/5owned pins and08:50UTC cutoff;
+360JobCPU/600phase/900wholewall/4GiB/24total8active/64MiB. Reuse actual03prefix,
+run only4unrun native +18codec/5bridge controls;03FAIL stays. Root owns launch/
+terminal; relation independently audits actual outcome. All used sources/harness/
+selection freeze on launch. No guest/proof/install runtime selected by this gate.
+
+**2026-10-02 08:20 UTC: bridge source review passes; minimal continuation preflight.**
+Root read author-final notes7ad6e89b and full independent BRIDGE-SOURCE-REVIEW;
+adopts its source-only scope. Four final companion/doc deltas,54unchanged,
+all58original03 intact; additive bridge31885B/d17a4fa7 and workflow164fff85.
+Root read complete continuation harness and preflighted33 inherited files;
+typed requests a narrow missing-final-Job conservative-charge fix before final
+review. No runtime selected/launched. Build/host/phase adapters source-reviewed;
+root authored file-only V4installer, now independently reviewed. Fresh directory07
+has exact shared capsule plus one index pin/status note (8other leaves unchanged),
+not another test campaign. Scale adapts22-role data fixtures; typed next authors
+six localcap public-state groups. Root owns all selections/launches; goal ACTIVE.
+
+**2026-10-02 08:01 UTC: exact-interface bridge source selected; directory audit adopted.**
+Root read/adopts actual directory review b4952358: eight inert contracts only,
+not native/guest/TLS/growth. Read independent serializer challenge108d4e32;
+select fresh verified04 CONTRACT, four companion/docs leaves only. E erases
+only binder display names at forallE/lam/letE, preserving all other fields;
+ordered F digests, Prop root proof and final un-erased capsule IDs remain exact.
+Typed authors, relation independently reviews, scale authors four-unrun-native
+continuation plus bridge/data controls. Inherit03 observations without relabeling
+03FAIL; no completed capture/finalize rerun. Root owns all runtime; none selected.
+Full goal ACTIVE; no mathematical growth or integrated release qualification yet.
+
+**2026-10-02 07:44 UTC: typed-directory eight groups actually pass; serializer blocked.**
+Root actual tool8e2359 exit0: eight groups/48inert bundles/5synthetic attempts,
+1.796875knownCPU/2.7046903wall; cleanJob0active/0terminated/2total. Root read
+all actual test markers and saved terminal. Scale independent outcome audit
+pending. This is structural typed discovery/acquisition evidence, not TLS/math.
+Native03 remains FAIL after conditional capture success; exact root type from
+packet uses F's binder x but standalone capsule uses n. Typed owns serializer/
+identity/F-preservation diagnosis. No repeated completed gate, build or proof
+selected. Directory06 used source and tests freeze. Full goal remains ACTIVE.
+
+**2026-10-02 07:39 UTC: compile repaired; exact capsule mismatch now isolated.**
+Actual03 session10046 exit1/chunkb66c6d: capture passed conditional native;
+finalize exit0 then exact packet/capsule comparison failed. Two attempts/one
+qualified positive/zero refusals/codecs. Known37.484375CPU,40.4848324wall,
+closed0active/0terminated/7total. ROOT terminal saved;03 used sources freeze.
+Root observed exported D type reuses F's forall binder x whereas its exact
+capsule has n; typed diagnoses serializer identity, no weakened comparison.
+Root selects one separate eight-group typed-directory inert run, final source/
+plan pins and08:00UTC cutoff. Scale audits actual03 failure; relation authors
+data-fixture controller only. No definition build/certificate/growth qualification.
+
+**2026-10-02 07:35 UTC: exact single-layout03 repair reviewed/selected.**
+Root read actual02 error, exact one-hunk diff and source-grounded author notes:
+same seven fields on one line, no mathematical changes. Fresh58-leaf03 copy
+verified;57 unchanged. All five03 adapters are exact HERE-only relocations.
+Root selects one cheap03 allocation,08:10UTC cutoff/unchanged finite envelope,
+owns launch/terminal. Prior failures56.453125knownCPU remain charged. Directory
+eight-group source/plan/runner fully read by root; final pins imminent. No build,
+proof or integrated product/growth adoption.
+
+**2026-10-02 07:30 UTC: native02 still fails one record syntax diagnostic.**
+Actual32892 exit1/chunkd206be; only generatedImport753:88 syntax error remains,
+the lookup/cascading errors are gone. One capture attempted; zero mathematical/
+codec cases qualified. Job5.75CPU +outer21.296875=27.046875known;95.4094613wall,
+closed0active/0terminated/4total. ROOT-CHEAP-TERMINAL saved,02 used inputs freeze.
+Typed diagnoses exact parser/layout cause, scale independently audits actual
+failure. No build/proof/rerun selected; typed-directory tests proceed disjointly.
+
+**2026-10-02 07:29 UTC: reviewed native02 gate selected.**
+Root fully read/pin-verified immutable cheap01 audit4b863435 and repaired-source
+reviewc3d9413b; adopts their narrow scopes. Root exact inverse comparison confirms
+both cheap02 Python adapters are HERE-only relocations of reviewed01. Select
+fresh02 cheap-selection01, all58 final pins, fixed08:00UTC cutoff and unchanged
+six-native/eighteen-codec resource envelope. Root owns launch/terminal; all used
+source/harness freezes on launch. Scale reviews exact six-guest fixture adapter,
+typed authors public-localcaps continuation plan, relation focused typed-network
+inert tests. No certificate, efficiency or growth result is implied.
+
+**2026-10-02 07:20 UTC: first native gate failed compilation; narrow02 selected.**
+Sole54028 exited1/FAIL before math: one native attempt,0positive/0refusal/0codec.
+Actual diagnostics show DefinitionVal record syntax and two missing-Inhabited
+TypedCapsule lookups; downstream field errors retained. Job6.265625CPU plus outer
+23.140625CPU =29.40625known,120.0519291wall; closed0active/0terminated,total4,
+peak2332647424bytes. ROOT-CHEAP-TERMINAL01 saved, all used01 sources/evidence
+freeze. Scale independently audits outcome; no automatic retry. Root copied/
+verified58 files into certified-definitions-02/project and selected ONLY native
+compile repair;57 unchanged. Root relocated unused02 harness/build/phase adapters,
+reviews pending. Typed guest fixtures move to02, no actual fixture yet. Typed
+directorysource06 three-leaf delta author-final/root reviewed; relation authors
+focused inert tests. No workload currently lives; full goal ACTIVE.
+
+**2026-10-02 07:12 UTC: one six-native/eighteen-codec allocation selected.**
+Root fully read/pin-verified intrinsic source reviewcd611047 and adopts its
+source-only scope; all58 originals intact, exact11 contracted changes. Root's
+complete cheap-harness review supports cheap-selection01, final58 source pins,
+fixed07:40UTC cutoff,360JobCPU/600phasewall/900totalwall/4GiB/cumulative24-active8/
+64MiB. Select only fresh cheap01 plus controller01, six conditional native calls
+and18 codec controls. Root owns launch/terminal; scale later immutable outcome
+audit. All selected source58/harness/inputs freeze on use. No guest/image/proof
+or integrated release is qualified. Typed network/fixture source work is disjoint.
+
+**2026-10-02 06:54 UTC: intrinsic-definition source amendment selected.**
+Root fully read/adopts independent intrinsic review2515ec7d. INTRINSIC-SELECTION
+selects only unused relation plus workflow/stages/two-doc changes: locally supplied
+safe F-closed definitions genuinely checked without separate D receipts; Prop
+premises retain exact real receipt/final-discharge gates. localcaps<=4 (duplicate
+local IDs refuse), total nativecontexts<=8, existing bounds remain. Native logic,
+codecs/journal/main/host unchanged. Same unused typed tag, eventual new image;
+no old-image migration. Relation and typed authors have disjoint ownership;
+scale will independently review amendment source. No runtime selected yet.
+
+**2026-10-02 06:53 UTC: intrinsic-definition decision and cheap gate preflight.**
+Root resumed guard PASS and read the intrinsic-definition proposal. Independent
+challenge remains pending before source selection. Proposed route genuinely
+checks safe F-closed definition bodies in native/guest contexts without requiring
+a prior D certificate; Prop axioms still require fully discharged real receipts.
+Existing definition READY preparation pays two native calls and a guest snapshot,
+not zero-cost capture. Root prospectively corrects the unused cheap harness to
+4GiB, cumulative24/active8 processes and exactly18 codecs: retained one-native
+Jobs consumed three processes and about2.73GB. Six calls and existing time/storage
+caps remain unchanged. No new runtime selected. Typed discovery seam is authored;
+definitions and directory remain unintegrated. All executed evidence stays frozen.
+
+**2026-10-02 06:32 UTC: directory10 actual outcome and definition source reviews adopted.**
+Root fully read/pin-verified directory audit abdb5f9e: ten actual groups pass,
+112synthetic-transport attempts including9failures,40inert ads,1.546875knownCPU,
+closedJob/zeroactive. Qualifies only the selected storage/router/maintenance
+boundaries, not TLS/global search/mathematics. Used sources/selections/results
+freeze. Root adopts guest4 source review23cf605c and native7review plus typed-pair
+delta27efd649; no definition runtime. Guest4/companion7 now source-final.
+Scale authors the six-call cheap native/codec gate. Typed reviewer audits root's
+new cross-build adapter, then proposes coherent typed discovery integration.
+Relation reviewer diagnoses trace cost from source. Root owns final selections.
+PLAN now explicitly records that directory05's old Prop codecs are not compatible
+with the definition profile: integration is a required central gate, not an overlay.
+
+**2026-10-02 06:23 UTC: parser cost gate failed; directory10 selected.**
+Root adopts immutable execution audit3fb30be5: actual guest execution succeeds,
+but both prospective performance conjuncts fail (75segments/19660800paddedrows
+versus held66/17301504). KnownCPU1.296875; no proof/certificate was made. Do not
+adopt this parser as an efficiency improvement or repeat its screen. Definition
+baseline inheritance is a separate feature selection, not performance adoption.
+Root read/pin-verified native7 review5a67b3d6: supports cheap qualification only;
+one unused typed-journal uniqueness discrepancy is now under narrow correction.
+Root fully reviewed directory launcher96ee1277/plan eefde54c, its held Phase/Job
+interface and exact ten-group oracle. Select fresh tests01/controller01 under
+the two exact selection files, fixed06:40UTC cutoff,90JobCPU/180phasewall,
+512MiB/two processes/128MiBoutputs; one inert worker, no native/TLS/proof calls.
+Root owns actual terminal and subsequent independent outcome audit. Definition
+cheap-gate source authoring proceeds; no definition runtime selected yet.
+
+**2026-10-02 06:16 UTC: host54 union and reframe adopted; one guest screen selected.**
+Root fully read/pin-verified actual review658bcbbf:54intended observations in
+27distinct pairs pass,55actual calls includes one unqualified wrong-fixture case.
+Both earlier allocations remain FAIL; combined4.1875knownCPU retained. Assembly
+and exact image-only AB reframe also independently pass. Root selects only one
+retainedAB execution under execution-clearance01, unchanged10%trace/segment bar,
+zero parents/no proving. Root owns terminal; relation_impl later immutable audit.
+Directory source/API/test review complete after prelaunch clock fix; ten-group
+launcher being authored by typed_review. scale independently audits definition
+native7; relation_impl finalizes guest4. No definition compilation selected yet.
+
+**2026-10-02 06:00 UTC: host oracle failure preserved; assembly complete.**
+Differential02 actual exit1/FAIL after5commands: AB/meta old/new pass, but old
+false-proof mutation touches the first foundation theorem and stops at reserved
+foundation name, not native false-proof rejection. All used files freeze; reviewer
+now consolidates all fixture/oracle corrections before any successor selection.
+Root selected reviewed independent assembly01: actual exit0/2.2503831wall,
+one combined image only. Execution remains held on full host gate; no proof.
+
+**2026-10-02 05:57 UTC: remaining50 host cases selected without repeating A/B.**
+Root fully read/adopts actual host02 compile/graph review54d65145 and updated
+host differential review2cba583f. Host02 passed (280.59375knownCPU); differential01
+failed exclusively creating its second progress snapshot after four independently
+verified A/B observations. Original FAIL and0.234375knownCPU stay preserved.
+Select only run_host_differential02/clearance02: remaining25pairs/50commands,
+same binaries/oracles/bounds, no A/B repetition. Root collects actual terminal;
+relation_impl audits union54 after notice. Definitions implementation and real-
+store directory test authoring continue in parallel. No proof campaign selected.
+
+**2026-10-02 05:44 UTC: contributed-definition implementation selected.**
+Root read the full definition CONTRACT/IMPLEMENTATION-NOTES and verified the
+fresh58-leaf SOURCE-BASELINE: original sources and copies all match. Select
+only eleven contracted deltas,47unchanged. typed_review owns native ImportTail
+plus four companion codecs/workflow/stages and two API docs. relation_impl
+will own four guest/journal/host leaves after pending host reviews. New typed
+DMKNJ004/profile commits safe F-closed transparent definitions, canonical
+content-derived names and max4 exact type-required definition IDs; singleton
+public path initially. No runtime/certification/source-wide expansion selected.
+Root adopted compile02review96690c94 and launched one fresh host-build-02,
+session41433/clearance136f3891. Wait for actual terminal; no duplicate launch.
+
+**2026-10-02 05:38 UTC: host compile01 failed; narrow environment successor prepared.**
+Root adopts actual guest-build audit6e4e6fdc:277.625known CPU,295unit exact graph,
+cross-build only. Host compile73485 actual terminal exit1/FAIL preserved in
+ROOT-HOST-BUILD-TERMINAL-01; cargo101 selected cl for GCC-style C++ preprocessing,
+then failed remaining-descendant check. Closed Job0active;123.84375worker +
+59.84375controller =183.6875known CPU. No host executable/test passes. Root
+authored fresh compile02 with pinned existing clang/rustfmt and unchanged
+mathematical sources; independent delta review pending, no runtime selected.
+Unused54case runner authored, review pending. Definition contract and directory
+implementation continue; no guest execution/proof or automatic retry.
+
+**2026-10-02 05:29 UTC: growth model adopted; host qualification advances.**
+Root fully read and hash-verified GROWTH-ENDPOINT-SELECTION (93742453) and
+PHILOSOPHY-OF-GROWTH (b07640f8). Growth means resource-bounded accessible,
+independently checkable mathematical capability, not enlargement of fixed
+deductive closure or theorem counts. Reject E1 as an expensive leverage trial;
+select concrete contributed-definition contract authoring next. No runtime
+or source expansion yet. Host probe plan now binds repaired main e214f441;
+independent final review/build-outcome audit assigned. Root prepares bounded
+host compilation and differential runner. Maintained-directory author continues
+four-leaf source05 implementation; no tests launched. All prior used evidence
+and authentic02 failure remain preserved; full goal ACTIVE.
+
+**2026-10-02 05:12 UTC: typed-row cross-build terminal PASS, scope not yet adopted.**
+Root resumed/polled existing session28084: actual exit0/PASS_GUEST_CROSS_BUILD_ONLY,
+307.2694846wall; graph/build commands completed. ROOT-BUILD-TERMINAL-01.json
+records actual tool terminal. Build/source inputs are used/frozen. No workload
+remains from this build, no guest execution or proof. Interrupted agents resumed
+current work: relation_impl host/phase source review; scale_implementation four
+directory leaves; typed_review definition seam and philosophy of growth. Host
+probe sources finalized; root prepares bounded host build/differential launcher.
+
+**2026-10-02 05:05 UTC: root adopts source review; one cross-build selected.**
+Complete independent review6f7b8aa5 read/pin-verified:40baseline/38unchanged,
+two source changes, shared construction/auth/native checks, conditional owned
+decoder argument and adapter review. Root selects only new typed-row build-01
+under build-clearance-01.json:1800CPU/wall,4096MiB,eight processes,16GiB; offline
+fresh target/full295unit graph. Sources/build inputs freeze at launch. No image,
+execution/proof/adoption. Parser owns host-probe sources; scale directory source;
+typed_review now exact substantive-growth feasibility/estimates. CORE-MODEL.md
+records theoretical assumptions and inspected libp2p DHT mechanisms.
+
+**2026-10-02 05:02 UTC: V4 central implementation selected; no runtime yet.**
+User target is v4 by October2 noon Chicago/17:00UTC. Full goal ACTIVE. Guard
+PASS at canonical root. Typed parser and relation source are final (2bcf4034 /
+300ca0ec); independent congruence review and host-probe authoring follow. Root
+verified fresh eleven-leaf maintained-directory source05 copy and selects
+experiments/certified-maintained-directory-01/CONTRACT.md. Scale author owns
+four production leaves; seven unchanged. Root owns finite build/test selections,
+actual terminal collection, growth integration and adoption. Source04, sealedv3,
+authentic02 FAIL and all earlier used evidence remain frozen. Current plan:
+research/cycles/v4-2026-10-02/PLAN.md. No running workload or automatic retry.
+
+**2026-09-30 06:16 UTC: authentic02 failed final harness binding; guest seam selected.**
+Sole5286 is terminal exit1/finalFAIL_CLEANUP_BINDING_UNKNOWN_ACCOUNTING,
+worker policycharge300/rootterminalCPU1.53125/wall12.839213800034486.
+Saved evidence reaches all11cmds/5TLS/coldexit0, but FINAL_BINDING_LIMIT:PIN_SHAPE
+prevents whole-allocation PASS. Census independently audits cause and narrow
+observations; no automatic retry or relabeling. ROOT-TERMINAL-01 saved, all
+used authentic02 sources/evidence now freeze. No workload lives.
+Root fully read/adopts typed-row proposal6a728a01 as source-only, verifies exact
+fresh40-leaf candidate against map3821fa58 and selects its CONTRACT. Parser
+author diversity_review / relation author diversity_author have disjoint leaves;
+census later independent congruence after final notices and actual failure audit.
+No Cargo/build/test/proof/runtime selected. Main goal ACTIVE; sealedv3 unchanged.
+
+**2026-09-30 06:08 UTC: one post-delivery authentic02 allocation cleared.**
+Root fully read/adopts final review8569B/42768bd9, complete new plan/notes and
+exact four-line executable delta. Selection01 f13e6fc1 binds34inputs/14750969B:
+30 unchanged pins/four new leaves. CLEARANCE-01 selects one fresh run-01,
+port39243, labdeadline06:40/lateststart06:20 and unchanged finite budgets.
+Public cert expired09/25; existing documented profile is explicit DER-pin
+key-possession trust, NOT date-valid PKI. No policy bypass, key-content read
+or new identity; ordinary server loads its selected key. Root owns launch/
+actual terminal; census later immutable outcome only. Original01 omitted and
+sealedv3 unchanged. Guest-work proposal continues separately; goal ACTIVE.
+
+**2026-09-30 05:59 UTC: fresh post-delivery source continuation selected.**
+The prior goal turn completed/adopted exact closeout records: verified progress,
+not full-goal completion. Root selects only experiment
+certified-diverse-authentic-peer-02/CONTRACT.md: reviewed omitted01 adapter
+successor with fresh location/schema/event and independent finite laboratory
+deadline 06:40 UTC, latest start target 06:20. This does not renew or mutate
+the old allocation, old cutoff, sealed delivery or 06:00 delivery deadline.
+Diversity_review owns the three new adapter/plan/notes leaves; census_review
+reviews only after final notice. No runtime selected; root owns later clearance.
+Diversity_author receives a separate source-grounded dominant guest-work
+prototype proposal, not another cost survey. Main goal remains ACTIVE.
+
+**2026-09-30 05:55 UTC: final closeout audit fully read and adopted.**
+Root read the complete frozen DEADLINE-CLOSEOUT-AUDIT.md and verified
+6,764B / `346ca7319ee79e9a973f944cb513462f6862ddddb75b3000b9885b8f0e54b579`.
+Disposition PASS_FINAL_CLOSEOUT_CLAIMS_LINKS_PINS_ONLY: three finalized new
+records, six small-file pins and 14 links / 12 ordinary targets agree; no
+new runtime or broader qualification is inferred. These records stay frozen.
+The sealed tentative-v3 software handoff remains the delivered milestone,
+completed before September 30 01:00 Chicago. The authentic diversity runtime
+remains OMITTED; no late allocation or old-run revival. The next design-only
+decision is NEXT-CORE-SELECTION.md. No workload or outstanding closeout
+assignment lives. The full goal and both core gaps remain ACTIVE, not solved.
+
+**2026-09-30 05:52 UTC: ranked next central decisions adopted as design only.**
+Root fully read/adopts NEXT-CORE-SELECTION.md, 8,101B /
+`53ddc0c7c34706a30c0f8bf1ab2556b139d45d0a131873ce55baf2b842594990`.
+First qualify the changed authentic intake under a new future selection, then
+test substantive certified downstream use against fair local/exact-reuse/
+bounded-search arms. In parallel target dominant authenticated guest work,
+before paying new-image/parent/discovery migration, and implement the specified
+single hot-key fenced split before promising maintained directory reachability.
+None is launch/source-edit authority or new growth evidence. Final new-record
+audit is assigned to census_review; its target is 05:56 UTC. Existing frozen
+delivery/evidence and 06:00 deadline remain unchanged; full goal stays ACTIVE.
+
+**2026-09-30 05:49 UTC: source review adopted; late authentic runtime omitted.**
+Root's first resumed clock was 05:45:37 UTC, after the prior 05:45 latest
+selection/start target. Root fully read/adopts final independent adapter review
+9473B/33606e19 and prospective outcome worksheet 8489B/19d7241a, not runtime.
+Six small source/review/selection pins agree. The prospective authentic
+selection e4e4d1a9 remains UNLAUNCHED/NOT CLEARED; run-01 was absent. Root
+does not renew its deadline or extend the cutoff. ROOT-DISPOSITION is saved
+under certified-diverse-authentic-peer-01; DEADLINE-CLOSEOUT under the current
+cycle summarizes the sealed milestone and central remaining work. Census owns
+only their independent final-record audit after notice; diversity_review owns
+one concise NEXT-CORE-SELECTION decision, not another architecture or runtime.
+Frozen v3 and all prior failures/successes stay unchanged. No workload lives;
+the full twin goals remain ACTIVE and the deadline remains 06:00 UTC.
+
+**2026-09-30 05:27 UTC: eight actual inert contracts independently adopted.**
+Root fully read/adopts final12546B/dd3e84a6 OUTCOME-AUDIT-02. Actual callerexit0
+and matching finalevent; all8groups/zeroerrorsfailuresskips, exact23inputs,
+observedPython+conhost/closedtotal2active0. Known4.921875CPU,7.345897799998056wall.
+Duplicate case returns[1,33]/2445JSONbytes within fixedopportunity;17classmiss,
+firstpoisoning/rawexactaccess, strictwire/keytypebinding, atomicquotas andindexed
+VMwork pass. This qualifies inertdirectboundary ONLY, notrealcert/TLS/growth.
+Original01FAIL/90charge unchanged. Authenticadapter author targets05:32final;
+independentdiversity_author reviews afterward; root alone may launch only after
+finalread/review/explicitclearance and unchanged deadlineheadroom. No runtime
+lives. Proof-work design staysconditional; same-image31.9587% priortrace screen
+andold-image30.8901% are distinct alreadyretained comparisons, notnewspeedup.
+Deliveredv3 and allusedbytes frozen; broad twin goals active.
+
+**2026-09-30 05:20 UTC: fresh02 inert allocation selected.** Root fully read/
+adopts final delta review6807B/4d52bfbf. Source02 preserves all8oracles, changes
+freshpath/inputroles and explicitly bounds/observes onePython+oneconhost;
+other budgets unchanged. Sole selection-02/081f50dd, fixed05:30UTCdeadline,
+fresh supervisor-02/tests-02; root owns one launch/actualexit, census actual
+outcome audit after terminal. Original01FAIL/90charge and probe remain frozen.
+Authentic adapter remains source-only, independentauthor review later; no
+network runtime or image change selected. Deliveredv3/broad goals unchanged.
+
+**2026-09-30 05:09 UTC: concrete startup observation adopted; two new sources only.**
+Root fully read/adopts probe outcomeaudit5501B/df86ac74: actualexit0, BOOT/SSL/
+SQLITE/MOCK markers, directPython plus observed System32/conhost, total2/
+active0/closed. SavedJob0.15625+root0.140625CPU excludes unmetered root tail.
+Prior01failure/charge remains unchanged; extraPID there is not retroactively
+identified. Diversity_author owns fresh02harness with explicit bounded console
+identity/costs; census reviews after final notice. Root read/adopts proved-work
+decision21839B/3371662b as conditional DESIGN ONLY: typed-row handoff first,
+unchanged authentication/checks; no newimage tonight, no measured saving.
+Newimage also changes discovery namespace and entails real parent/search
+migration cost. Diversity_review owns the separate authentic direct integration
+adapter under its CONTRACT; no network runtime selected. Root retains all
+launch/adoption authority. Sealedv3 unchanged; broad twin goals stay active.
+
+**2026-09-30 05:03 UTC: inert startup failure adopted; separate diagnostic selected.**
+The sole type-diversity01 test exited1/finalFAIL, totalJobprocesses2 vs cap1,
+no observedgroups/emptylogs/tests-01 absent. Root read/adopts audit10abb591;
+closedactive0 is not passing closure,90workerCPU policy charge retained.
+Second process identity unresolved. Root selects only the separately reviewed
+bootstrap probe a7eb24a6 under certified-type-diversity-bootstrap-01/CLEARANCE-01:
+startup/threeimports/PIDimages,2active2cumulative/10JobCPU/30live45finalwall,
+no tests or product imports. No automatic retry or blind limit relaxation.
+The failed test and all used bytes remain frozen. Authentic direct-network
+feasibility is finalized, pending root adoption and later selection; delivered
+v3 remains frozen and broad twin goals active.
+
+**2026-09-30 04:54 UTC: one inert direct-diversity test selected.** Root read
+and adopts final source review b477ac83 and final independent harness review
+4ff21a93. Exact23-leaf selection-01.json /3df4121b, fixed05:10UTCdeadline,
+fresh supervisor-01/tests-01; 90workerCPU/60rootCPU/240wall and existing plan's
+memory/process/storage caps. Root alone launches once and collects actual exit;
+no automatic retry. Used source04/tests/inputs freeze. This is inert contract
+evidence only, not certificate validity or useful growth. Diversity_author
+owns the new source-only authentic direct search-to-use feasibility plan;
+diversity_review owns dominant proved guest-work reduction decision. Census
+will independently audit actual test results after terminal. Delivered v3 and
+completed campaigns remain frozen; broad twin goals active.
+
+**2026-09-30 04:36 UTC: source delta reviewed; directory design adopted only.**
+Root read final source04 code/documentation deltas and verified the whole
+11-leaf map: three permitted changes/eight unchanged. CANDIDATE-MAP and
+ROOT-SOURCE-REVIEW are saved under certified-type-diversity-01. Independent
+source/test/runner review remains required; no runtime has been selected.
+Root fully read/adopts DIRECTORY-TRANSITION-CONTRACT as DESIGN ONLY, 25,008B /
+`1e00bb883a01258ba686c878e038c6d9d5c68d2b76d6842413b83da116587779`.
+Its one-ACK-loss counterexample changes the directory priority: the first
+possible split needs all-old fenced cuts and sufficient successor copies;
+it blocks pre-fence loss and does not solve continuous churn. No directory
+implementation is selected. Its independent narrow arithmetic check supports
+the new completed-producer attribution, preserving terminal samples/tails.
+
+**2026-09-30 04:18 UTC: new central source-only successor selected.**
+The sealed tentative-v3 handoff remains unchanged. Root verified an exact fresh
+11-file source03 copy at product-local/certified-diverse-peer-source-04 and
+selects only the optional materialized type-diverse DIRECT-query seam under
+experiments/certified-type-diversity-01/CONTRACT.md. No namespace/image/foundation
+change, migration, routed mode, socket, certificate, package or runtime is
+selected. Separate directory-transition design addresses huge-network ad
+visibility/churn. This continues the full twin goals; candidate compression
+alone cannot close either. Root owns finite launches only after source review.
+
+**2026-09-30 04:12 UTC: tentative-v3 local milestone sealed and adopted.**
+Root read the entire finalized independent HANDOFF-SEAL-AUDIT and confirmed
+its exact ordinary-file length and SHA-256: 9,108 bytes /
+`10e89aad9923f7b6b1b4e722390a266fe602db073097524b35eadf49fad0329b`.
+Disposition is `PASS_FINAL_SMALL_FILE_HANDOFF_SEAL_ONLY`. The audited integrity
+record is 9,278 bytes /
+`57619135c8cab8d6ba8bf50c1d5ab2503a5261ba4cf2c901d049ac3c97089fdc`.
+All 29 selected pins / 3,149,633 bytes agree; all 62 links / 43 targets resolve.
+Root adopts this frozen audit and closes the local tentative-v3 handoff at
+`deliverables/2026-09-30-v3-tentative`, before the unchanged 06:00 UTC /
+September 30 01:00 America/Chicago deadline. The six guides, integrity record,
+seal audit and all used software/evidence stay frozen. No campaign, ZIP or
+installed binary was repeated or rehashed for this adoption.
+
+The actual public child and supplier-offline return remain adopted within
+their restricted fixed-support Prop / same-image, one-physical-host scope.
+The broad goal stays ACTIVE: maintained useful huge-network discovery,
+affordable broad production, causal net useful-growth advantage and stronger
+semantic/cryptographic assurance remain central gaps, not solved by this seal.
+The design-only next-decision map is V3-FINAL-CORE-GAPS.md; a successor needs
+a separate explicit selection. No runtime lives; E1 remains omitted. No
+external publication, license decision or independent-host qualification.
+
+**2026-09-30 03:50 UTC: actual child return adopted; final handoff reconciliation.**
+Root read/adopts the full finalized return audit15249B/a5a9537d. One actual
+session15570 exited0 with its authoritative finalPASS event. Twelve commands,
+ten public peer envelopes and two distinct fresh cold checks pass; B stopped
+before A verification, and both services stopped before C verification. A serves
+existing custody without another offer. Known37.328125CPU/45.80859699996654wall,
+48 cumulative/closedactive0/terminated0,4911031filebytes/212descendants. No replay,
+private-key audit reads, proof generation, fallback or retry. No workload lives.
+
+Public child COMPLETE12/all122 and its origin cold check remain adopted under
+final audit6e8dae62. Preparation plus twelve actual disjoint slices costs
+42781.21875 knownCPU; original policycharge47643.609375/remaining52356.390625,
+100000CPU allowance and06:00UTCdeadline unchanged. Root reconciles six guides,
+selected example/output pins, archive identities and one small-file seal;
+census_review owns the later independent seal audit. No ZIP/hash/extraction/
+binary campaign or new source is selected. Broad twin goals remain active:
+useful huge-network search, affordable production and causal useful-growth
+advantage are unestablished. Core-gapsa60528e5 is design-only follow-on guidance.
+
+
+**2026-09-30 03:19 UTC: one actual enveloped return terminal; audit pending.**
+Root collected sole15570 actualEXIT0 plus matching finalPASS event:
+22.90625 inclusive treeCPU /14.421875 terminal rootCPU /45.80859699996654wall.
+Known nonoverlapping37.328125CPU; saved earlier13.234375root sample is replaced,
+not added. Twelve actual commands: ten public envelopes/two fresh cold checks,
+48 cumulative processes, closedactive0/terminated0 reported. return_review
+now independently audits immutable outcomes/offline ordering/bytes/finalevents.
+No runtime remains live, no automatic retry, duplicate fallback or new proof.
+Root reconciles guides only to adopted outcomes; full central goals remain open.
+
+
+**2026-09-30 03:17 UTC: final child adopted; one enveloped return selected.**
+Root reread/adopts finalized audit 9299B/6e8dae62: COMPLETE12/p122, all original
+stages, actual discharge and same-call cold verification, exact four-file bundle.
+Known public-operation path 42781.21875 CPU; original charge 47643.609375 leaves
+52356.390625 of100000, deadline06:00UTC unchanged. No proof workload remains.
+Root selects only return-enveloped-selection-01.json, reviewed enveloped adapter,
+ten public peer commands and two fresh received-copy cold checks; original
+service-offline barriers are mandatory. Fresh 600treeCPU/900wall/2GiB/8active/
+64cumulative plus120rootCPU/512MiB; absolute04:00UTC return deadline. No extra
+readiness probe, private-key reads, new identity/proof, fallback or retry.
+return_review owns actual terminal audit. Root reconciles guides and seal after
+actual return adoption. Core gaps a60528e5 are a design priority map only; no
+diversity implementation or namespace change is selected. E1 remains omitted.
+
+
+**2026-09-30 03:11 UTC: final 012 is terminal; independent adoption pending.**
+Root collected session 78827 actual exit 0 with the supervisor final event:
+19.203125 controller CPU / 460.15945159998955 wall seconds. Saved result reports
+COMPLETE, all 122 stages and the exact final four-file bundle. This is not yet
+root adoption: census_review is finalizing the immutable final-state, chain,
+new-pin, assumption-discharge, same-invocation cold-check and accounting audit.
+No proof workload remains live and none will be restarted. Root prepares only
+the one previously reviewed enveloped B-to-A-to-C return selection, conditional
+on reading/adopting that audit. Original allowance and 06:00 UTC deadline stand.
+Contributor planner records concrete remaining core gaps; return reviewer owns
+the later actual return audit. No E1, new certificate, source cut or package run.
+
+
+**2026-09-30 02:59 UTC: 011 adopted; final finite 012 selected.** Root read
+the complete independent 011 audit (6205B/97d78a35). Session 57461 actually
+exited 0, root terminal 21.734375 CPU / 515.5623626000015 wall seconds.
+READY11/p109 of 122, thirteen remain, next join36. New known CPU 4358.484375;
+cumulative operation path 39364.015625. Public terminal 284.90625 leaves
+315.09375 of 600 CPU. Original charge 43912.484375, remaining 56087.515625,
+deadline 06:00 UTC unchanged. Root separately selects 012/k13: join36,
+segment37/lift37/join37, segment38/lift38/join38, segment39/lift39/join39,
+resolve0/finish0/verify0. Unchanged 18000 tree CPU / 1800 wall / 120 root CPU,
+6GiB / eight active; unchanged public 600 CPU controller limit.
+
+This distinct mix has three segments rather than four and adds one resolve,
+finish and cold verify. Prior one-parent discharge observed 104.90625 worker
+CPU, finish1.5, verify0.03125 in a DIFFERENT earlier image/profile; use only as
+a planning reference, not a bound or current pass. Current known mixture and
+headroom support this finite exposure. Strict final bundle and SAME invocation
+cold verification must actually pass, independently audited before adoption.
+No automatic retry, proof import/replay, state recovery, new source, allowance
+renewal or deadline extension. Root owns all runtime and actual exit.
+
+Root read/adopts the independent crowding review (6674B/a451e922) only as a
+design finding: exact-type miss, no measured capability/growth loss; any future
+diversity seam needs versioned direct-query contracts, poisoning and accounting
+falsifiers. It is not implemented or qualified by v3. E1 remains omitted.
+
+**2026-09-30 02:46 UTC: 010 adopted; finite 011 selected.** Root read full
+independent 010 audit (6037B/81260c10). Session 97898 actually exited 0; root
+terminal 18.984375 CPU / 541.0868022000068 wall seconds. READY10/p97 of 122,
+25 remain, next join32. Known new CPU 4377.546875; cumulative path 35005.53125.
+Public terminal 277.078125 leaves 322.921875 of 600 CPU. Original charge
+39260.703125, remaining 60739.296875, deadline 06:00 UTC unchanged. Root selects
+011: twelve globals 97–108 (join32 through lift36), same 18000 tree CPU / 1800
+wall / 120 root CPU. Retain finite observed exposure; rising controller cost
+is not hidden or converted to a safe bound. Final13-stage mix will require its
+own decision after actual audit, including resolve/finish/verify. No replay,
+automatic schedule, allowance renewal or deadline extension.
+
+E1 optional latest start 02:45 UTC is now missed with no authors, frozen arm
+sources, review or clearance. Omit E1 runtime under its existing plan; do not
+extend the cutoff or claim an attempted experiment. Root read the source-only
+SEARCH-CAPABILITY-CROWDING-DECISION (14525B/431a5506); independent design review
+is pending. It clarifies a syntactic full-type miss and a conditional diversity
+seam, not demonstrated lost capability, growth, or v3 implementation adoption.
+
+**2026-09-30 02:34 UTC: 009 adopted; finite 010 selected.** Root read full
+independent 009 audit (6140B/0ad9dd5d). Session 71160 actually exited 0; root
+terminal 16.046875 CPU / 502.74314849998336 wall seconds. READY9/p85 of 122,
+37 remain, next join28. Known new CPU 4327.484375; cumulative path 30627.984375.
+Public terminal 258.359375 leaves 341.640625 of 600 CPU. Original charge
+34579.28125, remaining 65420.71875, deadline 06:00 UTC unchanged. Root selects
+010: twelve globals 85–96 (join28 through lift32), same 18000 tree CPU / 1800
+wall / 120 root CPU. Actual headroom supports this finite empirical exposure,
+not a cost bound or automatic schedule. Growing observer cost remains visible;
+no used source, old stage, original budget or deadline changes. Census review
+prechecks new closed workers and audits final state only after root terminal.
+Final child/return remain unqualified. E1 is held; no authors or runtime selected.
+
+**2026-09-30 02:22 UTC: 008 adopted; finite 009 selected.** Root read the full
+independent 008 audit (5656B/93a684cd). Session 28962 actually exited 0; final
+root observation: 13.828125 CPU / 498.18713069998194 wall seconds. READY8/p73
+of 122, 49 remain, next join24. Known new CPU 4292.4375; cumulative operation
+path 26300.5. Public terminal 239.109375 CPU leaves 360.890625 of 600.
+Original charge 29926.25, remaining 70073.75, deadline 06:00 UTC unchanged.
+Root separately selects 009: twelve globals 73–84 (join24 through lift28),
+same 18000 tree CPU / 1800 wall / 120 root CPU envelope. Retain the observed
+twelve-stage exposure; larger chunks would save small orchestration cost but
+do not reduce dominant proof-generation work, and are unnecessary for current
+deadline headroom. This is empirical risk acceptance, not a safety bound.
+No automatic schedule, proof replay, budget renewal or deadline extension.
+Census review owns new closed-worker prechecks and the later terminal audit.
+The final child and one enveloped return still await actual qualification.
+
+**2026-09-30 02:12UTC actual007 adopted; finite008 selected:** root read full
+independent007audit5645B/aa0804fc, terminalsole93489 actualEXIT0 with finalevent
+12.34375CPU/508.1348285000422wall. READY7/p61of122,nextjoin20;61remain.
+Newknown4300.65625CPU,path22008.0625CPU; public229.296875 leaves370.703125
+of600. Originalcharge25286.796875/remaining74713.203125/06:00UTC unchanged.
+Root separately selects008/k12 globals61..72,join20throughlift24, same
+18000treeCPU/1800wall/120rootCPU. Actual007 supports retaining finite12 only
+as empirical exposure, not safechunk bound. No automatic schedule, oldproof
+replay, deadline/allowance renewal or failedstate recovery. Finalcertificate
+and one envelopedreturn remain unqualified. Root owns launches; census_review
+prechecks only newlyclosed008workers then audits finalstate after rootterminal.
+
+**2026-09-30 02:01 UTC prefix006 terminal/adopted; finite007 selected:**
+Root read/adopts complete independent006 audit6497B/8370c004. Sole90328 is
+terminal EXIT0, READY6/p49of122;73remain,nextjoin16. Known new4194.796875CPU,
+cumulative operation-path17707.40625CPU; public211.28125CPU leaves388.71875
+of600. Savedcharge20627.828125/remaining79372.171875; original100000CPU and
+06:00UTCdeadline unchanged. Root separately selects007 from exact006 chain,
+k12 global49..60 (join16 throughlift20), unchanged18000CPU/1800wall/120rootCPU.
+The previous twelve-stage sample supports this empirical exposure only; growth
+in state/hashing/closure and unpredictable worker costs remain nonresumable
+risks, not a safe-chunk theorem. No automatic schedule, stage replay, allowance
+renewal or deadline change. No final child certificate yet. E1 remains held.
+
+
+**2026-09-30 01:42UTC envelopedreturn source adopted, runtime still held:**
+root read full newsource/plan/finaldelta and complete independentreview9588B/
+730b2318; rebound finalsource60770B/9fecd82a andplan11615B/d4c1e1e1.
+ActualfinalCOMPLETE remains prerequisite. Planned one requiredreturn uses ten
+publicpeer envelopes plus two freshcold checks; never bothadapters/extraTLSfixture.
+Alloldfallback/usedbytes preserved. Sole90328proof006 continues. Root adopts
+lastmileusabilitynoteaf397584 and fixes launchtemplate/supervision/scope/reuse
+example/teaching wording in mutableguides; no runtime or newproductcut.
+
+
+**2026-09-30 01:40 UTC prefix005 adopted; next finite12 selected:**
+root read/adopts complete005audit11102B/9a7b8cf8: READY5/p37of122,85remain,
+nextjoin12,newknown3089.1875CPU,path13512.609375CPU. Public143.734375CPU
+leaves456.265625of600; charge16054.875/remaining83945.125,06:00UTC unchanged.
+Root accepts finiteempiricalk12 exposure under006/aa2c01eb: global37..48,
+join12throughlift16,4segment/4lift/4join,unchanged18000CPU/1800wall/120rootCPU.
+No source/limit/allowance/deadline change, automatic schedule or old stage replay.
+Worstpriornine260.84375 scaled4/3 is347.791667CPU only as planningestimate,
+not a bound; growingstate/workerwall/closure can fail nonresumably. Actualaudit
+precedes futureselection. Envelopedreturn reviewpending; E1 heldunselected.
+
+
+**2026-09-30 01:31 UTC optional public envelope narrowly adopted:**
+root read/adopts full actualaudit13218B/4bafe3ad: exactninegroups/oneactual
+shippedclientinit,outer19cumulative/closedactive0,known3.953125CPU. Sidecar
+e49a7d05/guide21ce46b8 now qualified only for scoped Windows per-command
+envelope, not TLS/crypto/growth/newrelocation. The guide's source-only wording
+is preserved used-source history; delivery separately states actualscope.
+Envelopedreturn source review still pending; actualfinalCOMPLETE required.
+Sole16640proof005 continues; no other workload. Deadline/reserve unchanged.
+
+
+**2026-09-30 01:24 UTC operator tests terminal; fifth suffix selected:**
+root collected38676 actualEXIT0 and matching finaleventPASS,worker3.359375CPU/
+controller0.59375CPU/14.8392825wall. PreliminaryRESULT alone is not adoption;
+census_review independently audits saved nine-group/oneinit evidence now.
+Root selects005/212a6a9a from adoptedREADY4: next9global28..36 (join9 through
+lift12), unchanged18000CPU/1800wall/120rootCPU and original100000CPU/06:00UTC.
+Observed004controller339.75CPUheadroom and remaining87484.0625 permit this
+bounded empirical continuation, not a uniformstage/safechunk guarantee.
+No stage repeats or other workload runs concurrently. Original state unchanged.
+
+
+**2026-09-30 01:22 UTC prefix004 adopted; finite operator tests selected:**
+root read/adopts complete actual004audit9467B/e07a2c0f: exact new19..27,
+READY4/p28of122,94remain,nextjoin9,knownpath10423.421875CPU. Public260.25
+leaves339.75of600; charge12515.9375/remaining87484.0625 and06:00UTC unchanged.
+No proof workload live and no stage repeats. Root fully reviews test sources
+and selects one focused operator allocation0d7faebe,01:40UTC deadline,
+180CPUeach/600wall/8active/64cumulative; one actual client-onlyinit,
+no sockets/credentials/proofs. census_review audits actual terminal outcomes.
+contributor_plan authors only separate enveloped final-childreturn adapter;
+return_review critical-path audit then independent delta review. E1 held.
+
+
+**2026-09-30 00:56 UTC proof003 adopted; fourth disjoint suffix selected:**
+root read/adopts full actual003audit8226B/63919b19: READY3/p19, nine exact
+new stages, newknown3220.34375CPU; public260.84375 leaves339.15625of600.
+Original charge8994.0625/remaining91005.9375 and06:00UTC deadline unchanged.
+Selection004/6496a8f5 chooses nine global19..27 (join6 throughlift9), same
+18000CPU/1800wall/120supervisorCPU envelope, exact three prior-slice pins.
+Root launches once; no passed stage repeats. Source-only separate operator
+sidecar/tests continue; no concurrent qualification runtime. Child certificate,
+return and useful-growth benefit still unqualified. E1 remains held/unselected.
+
+**2026-09-30 00:51 UTC proof003 terminal; incremental audit selected:**
+root collected10656 EXIT0/clean positive prefix; terminal root12.0CPU/
+720.4926888wall. Rawp19/122 is progress, not a final certificate. census_review
+is preempted for new global10..18 actual audit at contributor04/ADVANCE-PREFIX-
+003-OUTCOME-AUDIT; no old proof repeats. Root waits actual adoption before
+another suffix. Separate operator sidecar author/tests remain source-only;
+no extra runtime selected. Original100000CPU/06:00UTC proof context unchanged.
+
+**2026-09-30 00:45 UTC one-command operator seam source-selected:**
+sole10656 proof003 continues; no extra runtime. Independent usability audit
+458334e7 identifies missing reproducible outer process-tree launch envelope.
+Root selects source-only separate optional operator sidecar under certified-
+public-peer-envelope-01/CONTRACT, unchanged ZIPs/profiles/usedhelpers. Author
+contributor_plan; tests/finite runner return_review; independent source review
+census_review, preempted by actual proof003 audit. Root alone may select a
+small reviewed test in a quiescent interval. No scheduler, identity provision,
+new proof/networkfixture or repeated campaign. E1 source-only handoff remains
+held/unselected. Tentative delivery's full production/return still pending.
+
+**2026-09-30 00:39 UTC proof002 adopted; next nine disjoint stages selected:**
+root read/adopts full actual002audit12422B/e7acd3b2: READY2/p10, exact nine
+new stages, original budget/deadline/pins, newknown3262.078125CPU. Public
+terminal224.078125CPU leaves375.921875of600; original remaining94553.359375.
+Selection003/8ba14eda chooses global10..18 (join3 throughlift6), identical
+18000CPU/1800wall/120supervisorCPU envelope and original100000CPU/06:00UTC.
+This is empirical headroom, not uniform-stage safety. Root launches once;
+no prior proof repeats. START-HERE now links/pins both ZIP manifests and
+correctly calls routed-copy verification an adopted composite, not one run.
+Central producer/return qualification remains pending. Optional E1 unselected.
+
+**2026-09-30 00:34 UTC resumed; proof002 terminal, audit before next selection:**
+canonical guard passes; root collected sole44944 EXIT0/clean positive READY2,
+p10/122, no certificate. Terminal root9.21875CPU/746.7486103wall; inclusive
+Job3252.859375CPU/20entries/closedactive0/terminated0. Raw result24828B/
+88248674 and READY2record13767B/22b72f41 remain immutable. census_review
+independently audits only the nine new stages and prefix001 link; no restart.
+Original100000CPU/06:00UTC deadline unchanged. Root checks actual headroom
+before a disjoint suffix. return_review audits delivery usability/source-only,
+updates stale routed-composite qualification text, no runtime. contributor_plan
+continues optional E1 source-readiness only; no author/runtime selection and
+02:45UTC latest optional-start cutoff remain. Core proof/return has priority.
+
+**2026-09-30 00:25 UTC routed-copy composite adopted; proof002 continues:**
+root read/adopts full independent ROUTED-COMPLETION-OUTCOME-AUDIT11553B/
+ada48bda: actual46650B/364ad12c RESULT and3241B/5d5d2ba7 coldresult,
+sameCownedA/full184journal/actualpackageddriver. Newknown2.140625CPU,
+oldfailedprefix17.0, composite19.140625. OriginalFAIL, oldcoldabsence and
+missingserviceclosedJSON remain. No networkrepeat or producerancestor inputs.
+Root read/adopts complete RETURN-PREFIX-REVIEW10851B/5451b0c9 with plan
+12388B/5f79ab9c; source46337B/ec9a3cb4 held, actualfutureCOMPLETE needed.
+Sole44944 prefix002 remainslive; no newprodstep selected. Root drafts unsealed
+RESULTS with costs/limits, no growthclaim. return_review clarifies external
+TLSprovisioning prerequisite in guide; no newproduct/identity/runtime.
+
+
+**2026-09-30 00:16 UTC first proof prefix adopted; second suffix selected:**
+root collected77128 EXIT0/cleanREADY1, then read/adopts complete independent
+prefix001 audit10392B/3f1def40. Exactlysegment0, worker601.625CPU/90.892997wall;
+publicterminal44.703125CPU/125.8836877wall, knownnew647.625CPU including
+terminalroot1.265625. Savedcharge1817.921875/remaining98182.078125; original
+identity/deadline unchanged, no certificate. Root selects next9disjointstages
+underprefix002/0fa1d8ba with18000CPU/1800wall/120supervisorCPU, unchanged
+public600CPU and original100000CPU/06:00UTC. Selection rationale appended to
+PILOT-DECISION; this is empiricalheadroom, not uniformcost/safechunk proof.
+
+Root read/adopts complete routed-cold source review22efdc81 and selected
+19166aab once; actualcompletion terminalEXIT0/compositePASS, terminalroot
+0.578125CPU/2.9630664wall. contributor_plan independently audits actual fresh
+savedoutcome, no networkrepeat. OriginalgenuineFAIL remainsunchanged.
+return_review reviews fresh future-return seam ec9a3cb4/5f79ab9c, no runtime.
+Root drafted START-HERE/CORE-ISSUES; handoff unsealed pending central runtime.
+
+
+**2026-09-30 00:08 UTC cost screen adopted; first public proof stage selected:**
+root read/adopts full independent cost OUTCOME-AUDIT8570B/ee22abd6.
+Sole14129 EXIT0; actualRESULT6773B/17d5e9b5, known14.59375CPU plus
+unmeasured parenttail. Init8.5CPU, two rebind1.953125/2.15625CPU; optimistic
+122stageprojection476.5625CPU is not a bound or safechunkproof. Original
+READY0/pins/charges/deadline unchanged. Root explicitly accepts bounded
+empirical exposure in PILOT-DECISION and selects only segment0 once under
+prefix-selection-001/e0786c9f, outer2400CPU/1200wall/120rootCPU, unchanged
+public600controller and original100000CPU/06:00UTCoperation. No full invocation,
+automatic schedule, retry or stage import; actual terminal audit precedes any
+subsequent slice. Root source review and independent prefix review are adopted.
+
+Root also read/adopts full GENUINE-OUTCOME-AUDIT12332B/125b03d1 as failed
+allocation/actual network prefix only. census_review authored cold-only source
+97500450/03ef83b8; return_review independently reviews before selection.
+contributor_plan owns fresh UNUSED return-prefix source/plan for actual future
+COMPLETE slice and packaged peer03/receiver, no runtime. Root owns all launches.
+
+
+**2026-09-30 00:01 UTC prepare adopted; cost screen selected; routed FAIL preserved:**
+root read/adopts independent PREPARE-OUTCOME-AUDIT13186B/0ba7d22e,
+READY0N40/A1/S122/p0, same snapshot and original100000CPU/06:00UTCdeadline,
+savedcharge616.296875. Actual conditional source reuse contains two parent
+proof occurrences and no ancestor proof packets; no new certificate exists.
+Known96.96875CPU includes terminal root, not nested double counting.
+Root selects one read-only primitive screen78f0e32c on pristine READY0,
+40CPU/120wall/512MiB each parent/worker,4GiBreads, no advance concurrently.
+contributor_plan independently audits its actual closure; root owns launch.
+
+Genuine42267 terminalEXIT1/FAIL,15direct launches/30cumulative Jobentries,
+closedactive0/terminated0,Job6.578125 +terminalroot10.421875=17knownCPU.
+Publication/acquisition exit0; cold wrapper never launched. Both author and
+independent reviewer isolate overstrong test equality: actual30s transfer
+cap correctly shortens60s whole deadline. Source03/product unchanged; no
+network retry. return_review audits saved actual prefix; census_review authors
+fresh same-copy packaged cold-only completion after that audit. OldFAIL,
+all service/custody outputs and costs remain frozen. Root source-only adopts
+prefix81b7366b/0770faf2; actual measured costs still prerequisite to runtime.
+
+
+**2026-09-29 23:57 UTC resumed; public prepare terminal, genuine routing selected:**
+canonical guard passes through process-local PowerShell invocation. Root collected
+sole prepare64041 EXIT0/PASS_PREPARE_ONLY, actual READY0/N40/A1, zero proof
+calls, outer Job79.625CPU/closed/active0 and terminal root17.34375CPU. Actual
+independent PREPARE-OUTCOME-AUDIT is assigned to census_review; no advance
+selected yet. Original100000CPU allowance and06:00UTC deadline stay unchanged.
+Root read/adopts final genuine-process delta review3e489b80 and complete current
+plan86e83eec, including disclosed documentary inverse limitation. Selection
+4fe33bbc chooses one never-run packaged genuine routing gate with prospective
+16active/48cumulative/exact16direct, four retained identities and01:00UTC
+allocation deadline. No old TLS failure or process ceiling is changed.
+Root read/adopts cost-screen ACTIVE-DELTA-REVIEW38a942ff; runtime awaits actual
+prepare adoption. Prefix final author pins81b7366b/0770faf2 await signed source
+review and root review; no positive prefix or proof may be inferred.
+
+
+**2026-09-29 23:48 UTC exact package adopted; sole public prepare selected:**
+root read/adopted routing actual audit96f930a2, then selected one file-only
+package underdcbbaa60. Session61525 terminalEXIT0 with archive/extractionPASS,
+terminal206.890625CPU/611.5666302wall,19.588GBreads+4.896GBwrites explicit.
+Root independent OUTCOME-AUDIT rehashes both archives/manifests and checks all
+13004ZIPmembers/extracted lengths; no repeated assembly/payloadhashcampaign.
+Base97618680B/e985b03c, optionalcontributor2349843643B/fba95cb4;
+actualRESULT2856B/1342a618; package used/frozen, fileidentityonly.
+
+Root selects single never-started public prepare under8780b16d against actual
+packaged contributor and composite-verified TLS02 owned A, fixed100000savedCPU
+allowance and06:00UTC originaldeadline. No advance/proof selected yet; actual
+READY/N/cost audit needed. Root caught prospective processlimit gaps beforeuse:
+genuinequalification needs16active/48cumulative/exact16direct with one-line
+fresh experimental guard16helper, not frozenhelper changes; all15peerCLIs now
+use shippedPython. Final independent delta review pending. Costscreen UNUSED
+Jobactive1->2 matches2lifetime/exact1worker; preserved baseline, tiny independent
+delta review pending. All old limits/failures untouched. Prefixadvance authoring
+continues; root will use actual measured readiness/cost for runtime decision.
+
+**2026-09-29 23:30 UTC focused routing and actual acquired-copy completion:**
+root selected/collected one focused source03 inert runEXIT0 underf4dd7ad3,
+14groups/91ads/8descriptors,Job0.84375+terminalroot0.625=1.46875knownCPU.
+Used source/tests/controls freeze; census_review independently audits actual
+saved output before package adoption. This is not real TLS/growth evidence.
+Root independently reviewed/selected one completion-only installed check under
+ccac8055;EXIT0 fresh cryptographic verify of same TLS02 acquired A. Root's
+independent COMPLETION-OUTCOME-AUDIT adopts only honest composite;72immutable/
+snapshot pins+5log/result pins rebound,Job4/active0/closed/1.390625CPU plus
+terminalroot0.453125=1.84375knownnewCPU. OriginalFAIL/oldcoldabsence preserved;
+TLS01+TLS02+completion nonoverlapping known7.375CPU, not a single passing run.
+No newnetwork/native/guest/proof. Unused prepare composite delta passes root
+review after correcting absent-error-key lookup, final85972c95/024d29f6.
+
+Held file-only package selectiondcbbaa60 chooses exact source03 eleven-file
+map and original full receiver/contributor closures; no assembly launched yet.
+contributor_plan authors fresh general-prefix advance adapter (not product
+change) for possible clean READY continuation after actual cost screen.
+return_review's genuine adapter review passes final49fc4773/3754ac6c; it now
+authors practical operator guide. Root retains all launches and actual audits.
+
+**2026-09-29 23:20 UTC resumed; failed TLS02 prefix adopted, not relabeled:**
+canonical guard passes; deadline remains Sept30 06:00 UTC/01:00 Chicago.
+Root read/adopts TLS02-OUTCOME-AUDIT7724B/63e1f8f4 only as an audit of the
+failed allocation. Six completed public commands transferred exact retained A;
+the seventh Python wrapper hit cumulative Job13 above selected12, before any
+actual cold verifier. Original FAIL, logs and limits stay frozen. Final Job
+closed/active0; known CPU4.625 (0.875 Job +3.75 terminal controller), earlier
+TLS01 0.90625 separate. No network/proof restart is selected. census_review
+authors one fresh completion-only public check of the same owned acquired A
+and honest composite handoff; root independently reviews/selects it and later
+adapts UNUSED prepare. No old seven-call PASS may be fabricated.
+
+Source03 postcommit-overrun semantics are corrected but unused; return_review
+independently reviews/tests, contributor_plan authors genuine packaged routing
+adapter. Root owns all finite launches, package selection and public production.
+Base191stage AB and receiver gates remain completed/adopted; no proof live.
+Package before first prepare remains the selected deduplication strategy.
+Public production cost and actual useful-growth advantage remain unqualified;
+scalable trustworthy reuse and the complete network loop are the critical path.
+
+**2026-09-29 23:10 UTC corrected TLS02 selected:** root read/adopts the full
+TLS02-DELTA-REVIEW, including complete semantic-delta and44-hardcoded-pin
+format check, and the preserved package-review path appendix. Launch02 once
+under selectiond41d647d into fresh tls-parent-02, same retained genuine A,
+source01, fixedport38471 and23:40UTC absolute deadline. No passed work is
+repeated; failed preflight01 remains charged/frozen. Actual terminal audit
+still required. Root read/approved source-only cost screen76f922c0/00c000fa;
+actual packaged READY0 remains its prerequisite, no cost runtime selected.
+
+**2026-09-29 23:06 UTC receiver adopted, TLS preflight01 failure preserved:**
+root read/adopts RECEIVER-RECEIPT-OUTCOME-AUDIT8503B/5da8873f, only scoped
+actual A/B intake and refusals. Known7.71875CPU; no receiver rerun.
+TLS01 exited1 at preflight before workers/allocation: hardcoded journal hash
+was63characters, actual qualified bytes/selection/PLAN correct64. Definite
+worker0 and0.90625controllerCPU remain charged in PREFLIGHT01-FAILURE.md.
+Old adapter/PLAN/selection freeze; no network or crypto failure is inferred.
+Root authored only corrected named/allocation02 successor; independent complete
+delta/pin audit by census_review preempts further work, held selection02.
+
+Root preserved exact unused public prepare/advance pairs in pre-package-baseline
+and changed only adoption to the future extracted contributor with same exact
+profile/map, original assembly anchor and new package result. Independent
+PACKAGE-DELTA-REVIEW passed; subsequent unused TLS path01->02 must be appended
+with current pins before use. Cost-screen source is complete but unreviewed;
+root must review before selection against actual packaged READY state.
+
+Draft undergraduate LAYERED-GUIDE at deliverables/2026-09-30-v3-tentative
+explains architecture and limits; it is not a final handoff or new feature claim.
+
+**2026-09-29 22:58 UTC release integration decisions:** receiver65092 is
+terminalEXIT0 with raw four-control PASS, finalcontroller3.171875CPU and
+19.4931121wall. Actual independent audit is pending before TLS launch;
+no receipt gate is repeated. Root prepared held exact TLS selection01 from
+actual A/result/source pins and retained public credential-pin metadata only.
+
+Root fully reviewed the file-only packager and caught/corrected its pre-use
+ASCII ZIP UTF8-flag mismatch through the author. SOURCE-REVIEW binds corrected
+489f7c0d/3bb36fe8; no archive or peer cut is selected yet. Packaging before the
+never-started public prepare is being assessed to qualify shipped relocation
+in that same operation, rather than duplicate preparation later. This requires
+separately reviewed unused harness adoption deltas, not just an INSTALL edit.
+
+Routing independent review found concrete endpoint-alias/local-deadline issues;
+author also found isolated CLI import bootstrap mismatch. Correct these unused
+bytes before focused tests. Root explicitly clarified64MiB database/payload
+caps are not a64MiB whole-directory cap including SQLite journals; broader
+deployment claim refused. Existing five distinct public TLS test identities
+appear sufficient; no new identity or mathematical certificate is selected.
+
+**2026-09-29 22:52 UTC terminal AB audit adopted; receiver selected:** root
+read the appended104-stage audit and adopts only
+PASS_ACTUAL_COLLECTION_AB_FINAL_RECEIPT_AND_COLD_VERIFY_ONLY. Audit21005B
+SHA8bebb1769b465ff887550fd241bb5e9e10c4daf92af1714e772d0895a0c58ccf;
+all191stages are covered with preserved prefix. No campaign is restarted.
+Known69638.921875CPU and production-security/Lean-correspondence limits remain.
+Root selects the already reviewed receiver receipt gate once under exact
+receiver-receipt-clearance-01.json, fresh receiver-receipt-01. This is not
+yet a receiver/network/contribution pass. Routing author and independent
+review/test author coordinate source03; root retains all finite launches.
+Package source exists, root independent review/runtime remains pending.
+
+**2026-09-29 22:38 UTC AB campaign actually terminal, adoption pending:**
+root collected91114 EXIT0: all191 selected suffix stages, final receipt223594B
+SHA7e144e049fd730c5ccdfa653e31e62df91e70386ccef46daa7da042510fb169d,
+and actual cold verify PASS. No mathematical process remains live.
+census_review extends its existing3..31 audit through32..65+finish/cold, without
+repeating the old audit. Saved campaigncontroller166.1875 is an earlier sample;
+terminal166.203125 is preferred, replacing it. Known cumulative69638.921875CPU
+includes66163.046875 suffixworkers and3309.671875 carry; do not add nested phase
+controllers already covered by the umbrella controller. Root waits actual
+audit before the one installed receiver-receipt gate.
+
+Root read PUBLIC-ADVANCE-COST-RISK: the global operation scan on every50ms
+poll and whole-installation scans are inherited but performance-unqualified;
+base phase disk refresh was10 seconds. Rayon2 is unchanged, not evidence of a
+new slowdown. No performance failure is asserted without actualN/measurements.
+Cheap pre-advance fit assessment is central; blindly raising limits is not.
+
+Root source-only selected fresh exact nine-file certified-routed-peer-source-03
+under certified-routed-peer-01/CONTRACT.md. contributor_plan implements real
+announce/rendezvous inert ads/unknown-holder acquisition; genuine certified
+prerequisites still required before runtime. return_review authors the unused
+file-only v3 packager, no source/runtime mutation. Prior used bytes stay frozen.
+
+**2026-09-29 22:26 UTC actual shape audit adopted:** independent return_review
+OUTCOME-AUDIT (11002 bytes, SHA414de2017d9c006f2a23875330d09968d0f3218839b5ac967b1a5595d67217be)
+passes; root read it completely and adopts only the nine inert changed-boundary
+groups. Known CPU7.796875, actual three-row SQL62 opcodes, guarded81 extraction
+reads, target-hit1279 JSON bytes versus same-shape miss16619 bytes, exact80
+entries and clean closure. No runtime is repeated or source unfreezed.
+Unknown-holder discovery needs actual publication placement, not just traversal
+under an evaluator-injected holder map. contributor_plan now recommends a
+bounded selected-key announce -> rendezvous inert-ad lookup -> unknown holder
+acquisition seam with shared budgets and explicit endpoint admission. Root
+awaits concise ROUTING-SLICE before selecting a fresh successor. No source03
+or new networking runtime selected yet. Return source review also passes,
+actual public child remains prerequisite. Proof91114 continues unchanged.
+
+**2026-09-29 22:19 UTC actual shape gate collected, audit pending:** root's
+independently reviewed one-shot runtime26031 exits0 with nine-group PASS.
+Used source02/tests/runner/plans/clearances freeze. Exactly80 selected entries,
+differing-shape positive and same-shape honest miss; no certificate/native/TLS.
+Independent actual OUTCOME-AUDIT assigned to return_review after its completed
+unused-return source review. Root terminal outer CPU2.4375 supersedes earlier
+saved sample; do not double-charge inclusive Job/child diagnostic CPU.
+Proof91114 continued through lift56 with join56 started, final AB still pending.
+
+**2026-09-29 22:14 UTC resumed deadline and source integration:** canonical
+guard passes; goal service now agrees with Sept30 01:00 Chicago/06:00 UTC.
+Root continued session91114, never restarted: join53 passed, segment54 started.
+Final AB receipt remains pending. Complete source02 index/API delta and exact
+nine-file map pass root independent source-only review; only index/API changed.
+Focused tests/runner remain census_review's assignment, no runtime yet.
+return_review independently reviews the unused genuine child-return adapter.
+contributor_plan now owns concise implementation-ready ROUTING-SLICE.md after
+the existing routing challenge, no coding/launch. Root owns actual prerequisite
+adoption and receiver -> genuine TLS acquisition -> acquired-parent public
+prepare -> own-state advance -> child return. No useful-growth or full-v3 claim.
+
+**2026-09-29 22:00 UTC useful-query obstruction adopted; one remedy selected:**
+session1657 completed once EXIT0 and independent actual OUTCOME-AUDIT passes.
+The five-entry control returned one A-type candidate; the33-entry duplicate
+prefix returned16 B-type candidates and exhausted both pages without A.
+Known CPU7.4375 seconds, actual saturated replies16551 bytes, zero instrumented
+Python query-blob opens, clean closed Job. This is a constructed limitation,
+not typical recall or growth. Used screen/supervisor/plan/selection bytes freeze.
+
+Root read REMEDY-DECISION and selects only one generic bounded conclusion-shape
+key. Materialized type-diverse representatives also solve the old duplicate
+case; neither dominates. Root verified an exact nine-file source01 copy into
+certified-shape-index-source-02, with baseline map/ownership/gates in
+certified-shape-index-01/CONTRACT.md. contributor_plan implements only the
+specified index/API seam; census_review authors focused small tests/runner;
+root independently reviews both before any runtime. No new image, proof,
+representative ranking, router or old-shard migration is selected. Known-contact
+TLS/public reuse still uses frozen source01. Census_finish authors the separate
+genuine child return/custody-loss adapter; no fresh proof as transport fixture.
+Proof91114 latest root collection is passed join46, segment47 starting; final
+AB receipt remains unqualified. Root retains the receiver/TLS/acquired-parent
+prepare/own-state advance critical path. Prepare-peer delta review passes.
+
+**2026-09-29 21:50 UTC central integration delta, unused only:** root preserved
+the reviewed local-fixture prepare harness/plan under contributor04's
+prepare-peer-baseline/ (e5e51f75/1b864371), then changed the UNUSED prepare
+adapter to require actual tls-parent-01 PASS and the receiver's owned acquired
+A directory plus its freshly verified cold-result pin. The one eventual
+public prepare now consumes that exact network-acquired copy and repeats real
+parent verification. Packet/type/capsule/image/resources and all old evidence
+remain unchanged. census_finish independently reviews this delta before root
+selection. Advance's own snapshots and original allowance remain authoritative.
+No extra prepare, native campaign or proof is selected by the source change.
+
+**2026-09-29 21:40 UTC deadline and adopted search gate:** plan against the
+latest direct 2026-09-30 01:00 Chicago deadline (06:00 UTC), despite the goal
+service's initially conflicting13:00 wording (subsequently corrected by the
+user to01:00). Root adopts OUTCOME-AUDIT's narrow
+PASS_SELECTED_INDEXED_PEER_INERT_CONTRACTS_ONLY: thirteen groups, actual 62
+SQLite VM opcodes at both 1000/100000 unrelated rows, no Python theorem-blob
+opens, transfer quarantine and pre-read quota boundaries. Known runtime CPU
+14.0625 seconds; no TLS, cryptographic verification or useful-growth claim.
+Do not rerun or edit those used bytes.
+
+Proof91114 continues the existing suffix02; root collected through lift36
+with join36 starting. Completed stages3..31 pass an incremental independent
+audit (87 stages/797 unique bindings); no final receipt is yet qualified.
+census_finish reviews the unused genuine-parent TLS adapter, contributor_plan
+authors one source-only query-selectivity discriminator, and census_review
+independently reviews that discriminator without reading later live stages.
+Root owns every finite runtime selection and the receiver/prepare/advance
+critical path. See cycles/v3-2026-09-29/DELIVERY-PLAN.md. Selectivity, unknown
+holder reachability, return/custody, supported semantics, full production costs
+and useful-growth benefit remain central open issues, not completed features.
+
+**2026-09-29 21:24 UTC concrete indexed gate:** root selected and ran the
+reviewed inert contracts exactly once, session 79427, now terminal EXIT0.
+All thirteen groups pass. Actual exact-key SQL work was 62 VM instructions
+at both 1000 and 100000 unrelated metadata rows, with postings/entry primary-key
+SEARCH plans; guarded reopen/find performed no Python theorem-blob opens.
+Late-transfer failure retained quarantine without custody visibility; serving
+quota refusal preceded a selected blob read. This is not real TLS,
+mathematical growth, useful unknown-lemma retrieval or huge-overlay evidence.
+census_review independently audits the saved outcome before adoption.
+
+Used source01's nine payloads, tests, supervisor, plans and CONTRACT are now
+frozen. Final index474a58f2/peer9fe69871/API99f550ea are in SOURCE-REVIEW;
+clearance09b62920 and TEST-SELECTION bind the one launch. Known measured CPU
+is 11.09375 inclusive worker Job plus 2.96875 final supervisor observation;
+do not also add the saved earlier supervisor or inner test samples. Adapter
+byte I/O is unmetered. contributor_plan authors only an unused genuine-A
+loopback TLS adapter/plan; no service/receipt call selected yet. census_finish
+inspects at most one novel producer-throughput seam, source-only, without
+editing or running the used checker. The existing proof91114 latest join28
+passed and lift29 was collected starting; no final AB receipt yet.
+
+**2026-09-29 21:05 UTC continuation:** the user again prioritizes efficient,
+scalable search/proof and justified useful growth for a very large network.
+The goal remains active and unchanged. Root collected the existing suffix02
+session 91114 through passed join19; segment20 started. This is still an
+incomplete campaign, not a final certificate or proof-cost improvement.
+Do not restart or repeat its successful prefix.
+
+Contributor04 installation and its thirteen changed-boundary contracts remain
+adopted. The unused prepare-path correction passed independent delta review.
+The unused advance runner/plan now pass a different agent's source review,
+including an explicit unmetered-I/O correction; runtime still requires a
+genuine newly prepared operation and finite selection. Root independently
+reviews indexed peer integration; contributor_plan authors its source/API;
+census_finish authors focused tests/supervisor. census_review challenges the
+next selective routing boundary and a matched growth/cost discriminator.
+No subagent launches runtime. Known-contact exchange, huge-network routing,
+actual public production and useful-growth benefit remain distinct gates.
+
+**2026-09-29 latest selection:** contributor04 installation passed independent
+all12395asset/profileaudit (2,345,182,266bytes;9profilefields;97.28125known
+installerCPU), runtime still unqualified. Root corrected onlyunusedprepare
+harness paths to actual receiver-receipt-01, preserving oldreview and allused
+sources. Root selected source-only indexedcertifiedpeer01 under its CONTRACT:
+author contributor_plan, tests census_finish; exact6copiedhelper/assets plus
+newindex/peer/API. Root owns independentintegrationreview and finite launches.
+census_review authors source-only publicadvancegate using actualfutureprepared
+operation, not customproofpipeline. Suffix02 session91114 remains soleliveproof,
+join14passed/latestlift15live; no ABfinalreceipt yet. No newnetworkservice,
+externalconnection, oldproofrepetition or growth/fullv3claim.
+
+**2026-09-29 current priority/actual gates:** user reaffirms scalable and
+efficient search/proof plus an implementable decentralized network supporting
+justified fast usefulgrowth at veryverylarge scale. Coldacceptance may not
+download/replayancestry; search may not scanallcorpus/allpeers perquery. Source04
+13newcontracts passed independent actualaudit (2.5625knownCPU preferred using
+rootfinalcontroller observation). Root launched sole file-only install04,
+session67440; installed qualification remains pending. Soleproofsession91114
+continues suffix02, with join6 passed and segment7 started at latest collection.
+Reviewer owns actualcontracts then publicprepare source review; census_finish
+waits terminalinstall for fullinstalled-map audit; contributor_plan authors
+bounded nextsemantic/networkintegration decisions, not a new runtime. Public
+prepare waits genuineABfinalreceipt, realreceiverintake and installadoption.
+No stage/proof/test repetition, no growth/fullv3claim.
+
+**2026-09-29 15:33 Chicago status:** genuine newjoin2 passed independent actual
+audit (100.75knownCPU increment,3309.671875cumulative), originalfailureunchanged.
+Root launched reviewed191-command suffix02 from3..65 at20:29UTC/session91114,
+100000cumulativeCPU/23:30UTCdeadline. Segment3/lift3/join3 passed; proof remains
+live, no finalABreceipt yet. Public contributor04 source is complete and passes
+independent SOURCE-REVIEW;13newcontractgroups and supervisor are source-complete
+but await test/runnerreview and actual one-shot runtime. Root's file-only
+installer passes separate independent review; no installation launched yet.
+Author now finishes prepare-only publicqualificationadapter using the later
+genuine receiver A bundle, not another customchildcampaign. No nativeadmission,
+proofCPUspeedup, usefulgrowth or fullv3claim is adopted by this status.
+
+**2026-09-29 15:20 Chicago continuation:** copied receiver startup passed,
+independent RECEIVER-STARTUP-OUTCOME records2.90625knownCPU. Focused census
+tests completed exactly once:33cases, independent actual audit PASS,
+0.09375innerCPU (outer cost unavailable). Root selects one fresh cryptographically
+verifying join2 after clearance audit, preserving quarantined lift2 and failed
+full01. No old deadline is revived. Exact new finite bounds are in collection
+JOIN-RECOVERY-SELECTION. Public collection contributor source04 is selected:
+author contributor_plan, disjoint tests census_finish, independent review
+census_review after recovery; root installer/runtime. Group selected members
+by full parent journal; one assumption per group, singleton child, actual finish
+and cold verification mandatory. No repeat proofs, installed admission or useful
+growth claim. The next vocabulary proposal remains unimplemented.
+
+**2026-09-29 15:09 Chicago resumed actual work:** prior turn is progress:
+actual receiver installation passed and was independently byte/census audited;
+live-census repair/phase02/base02 and receiver qualification source reviews
+passed. No mathematical process is live (fresh process census); failed full01
+remains terminal with no certificate. Old time allowances expired, not revived.
+Root selects first copied-receiver startup only. New census_finish completes
+the existing unrun test source/plan; census_review audits it; contributor_plan
+finishes the previously uncompleted publicAPI decision. Root owns finite tests,
+quarantined-lift genuine join recovery and any later fresh suffix selection.
+No completed proof, baseline or compiler campaign is repeated.
+
+**05:44 Chicago base attempt stopped:** session55930 terminalFAIL after six
+successful stages and failed lift2: live census resolved a deleting SDK temp
+file into NTFS $Extend/$Deleted and refused it. Cumulative3208.828125CPU includes
+354.1875carried; all Jobs closed/active0. No final certificate, no automatic
+retry. Growth audits the actual failure/preserved prefix; root owns narrow
+census diagnosis; index finishes receiver harness then targeted census tests.
+Lift2 emitted a checkpoint but remains quarantined, not adopted from its marker.
+Root separately selects reviewed file-only receiver installation01; it changes
+no mathematical/checker or used source. Actual receipt intake remains blocked
+on genuine new-profile final evidence. Full01 and all attempted evidence freeze.
+
+**05:41 Chicago actual base-pair proof selected:** independent snapshot and
+base campaign source audits pass. Root selects base-clearance-full01: existing
+AB snapshot, indices0..65/199serialstages,100000cumulativeCPU including354.1875
+known setup, fixed12:45UTC deadline, stop-on-first-failure/no retries. Per-phase
+12GiB is not a global retained-storage cap. See collection BASE-SELECTION.md.
+Efficiency finishes receiver installer/API; growth reviews it; index authors
+new V2 real-receipt qualification harness. No old tests/proofs repeated; no
+real collection intake or child campaign before genuine final certificate.
+
+**05:30 Chicago collection cheap gates adopted; real snapshot captured:**
+All19 executions independently pass: newAB17,301,504paddedrows/66segments,
+30.89005236%saving vs retained oldsum; two guestproof refusals, one postexecution
+journal mismatch, thirteen host preflights. Twelve inert bundle groups/46refusals
+and A-only conditional native two-use child also pass actual independent audits.
+Root [DECISION](../experiments/certified-collection-01/DECISION.md) accounts for
+352.484375known newCPU through those gates, no proof-speedup/growth inference.
+Root selected one reviewed AB snapshot, terminalPASS66segments/0assumptions,
+12,356,427bytes, bindinga2b1c7b5...; growth audits actual snapshot. No proof live.
+Index authors exact parentfree66segment campaign; efficiency source-only small
+receiver installer/API closure; growth reviews both. Current V2 receiver source
+review passes; no new installation, final receipt or product adoption yet.
+All used guest/host/build/native/framing/negatives/bundle tests stay frozen.
+
+**05:16 Chicago builds terminal / conditional native selected:** guest2636
+PASS349.3675108wall,264.71875known worker+controllerCPU, owned telemetry cleanup
+and zero active; host7451 PASS113.0504512wall,57workerCPU (outer controller costs
+in host-attempt-01), zero active. Actual independent audits by index/efficiency
+are pending adoption. Root launches the reviewed one-command A-only conditional
+native preparation under selective-prepare-clearance-01. No receipt/journal
+inputs, no B capsule or parent proof, no native admission. Assembly clearance
+is ready but unlaunched. Source-reviewed inert bundleV2 includes exact schema;
+efficiency authors data-only tests, growth reviews them. No proof campaign.
+
+**05:09 Chicago first collection runtime selected:** final guest/sharedcodec,
+host and build adapters pass independent source reviews. Root launched only
+guest cross-build01 once, session2636, exact build-clearance-01; used guest and
+build source freeze. Host build clearance is prepared but unlaunched. Growth's
+phase/framing review is complete; efficiency does not duplicate it and instead
+reviews index's forthcoming16negative fixtures. Growth reviews selective native
+preparation, index owns actual guest-build audit after terminal, root launches.
+No image execution, proof, native import or receipt acceptance has occurred yet.
+
+**05:04 Chicago collection source integration:** protocol review adopts explicit
+fixed-support-only output types and exact parent-receipt/header-journal bijection.
+Guest/sharedcodec and stagedhost are authored; independent source review is in
+progress. Root's guest/host build adapters pass conditional source review; phase
+and three-arm framing are under review. Efficiency now owns a strictly conditional
+native import of A-only capsule into a new ordinary composition-injectivity child.
+No new runtime has launched. Previous cost proof/receiver evidence stays frozen;
+no inferred proof speedup, broad Lean fidelity or useful-growth claim.
+
+**04:53 Chicago audited cost milestone and next source selection:** growth's
+EXECUTION-OUTCOME34a3bcbd... confirms all 19 commands, exact diagnostics, work
+gate and 299.640625 known CPU seconds including setup (stated exclusions).
+Root adopts the pass and finalizes the batch DECISION; its sources/results stay
+frozen. A fresh [collection contract](../experiments/certified-collection-01/CONTRACT.md)
+selects source work only: genuinely versioned singleton/pair journal, exact
+selected-member import and same-image recursive parents. Efficiency owns guest,
+index host, growth independent review, root integration/launches. No new runtime
+or proof selected. Reuse actual A/B/AB packets and old-image row baselines;
+do not repeat them. Full goal remains active, with no useful-growth/release claim.
+
+**04:43 Chicago five-arm and fourteen-control executions terminal PASS:**
+Both selected executions completed exactly once with clean zero-active Jobs.
+Five-arm RESULT4d8fd6ff...; negative RESULT871a1f3d... (session36908 collected).
+Pair padded rows17,301,504 versus25,034,752 summed old singletons:30.8901%
+saving, segments96 to66; nonpadding rows30.8523% lower. The prospective work
+filter passes on root's actual readings; growth independently audits all actual
+diagnostics/bindings/costs before adoption. No proof, certificate or useful-growth
+claim. Root's [decision checkpoint](../experiments/certified-batch-probe-01/DECISION.md)
+accounts for setup and holds expensive proving of this provisional profile.
+Efficiency authors a minimal selectively reusable final-profile delta; index
+independently challenges the next cost/integration choice. No live runtime.
+
+**04:42 Chicago actual data audits pass; five executions selected:** root adopts
+FRAMING-OUTCOME f86da054... and NEGATIVE-DATA-OUTCOME e5b2e968... for exact saved
+inputs. Execution-clearance-01 selects five serial old-A/old-B/new-A/new-B/new-AB
+commands, actual images, identical member packets,2^26cycle/po218,
+600aggregateworkerCPU/900allocationwall/4GiB/eight active. Fixed75%padded-row
+and fewer-segment bar is unchanged. No concurrent mathematical runtime or
+proof process. Negative execution remains a separate next allocation.
+
+**04:39 Chicago adopted native/image, five-arm framing passes:** actual native
+audit1a7bdcdb... and assembly audit3fa24762... independently pass. Root selects
+reviewed framing-clearance-01; terminal PASS_FIVE_ARM_DATA_FRAMING_ONLY,
+0.125outercontrollerCPU/0.2734421outerwall. Same packets/proofs now bind actual
+old/new images. Root selects reviewed data-only negative generation once from
+that framing's exact request, not a native/guest/prover launch. Used preparation,
+framing and negative source/inputs now freeze. Actual five-arm and14negative
+executions await frozen input review and finite selections; no certificate yet.
+
+**04:35 Chicago native pass and new image assembly:** native22402 is terminal
+EXIT0, PASS_NATIVE_INDEPENDENT_PAIR_PREPARATION_ONLY, RESULTc4a5e543...;
+13.234375workerCPU/0.984375outercontrollerCPU/113.0575684outerwall, closed.
+Actual A/B/AB packets12302/11096/15689bytes,204/186/268expression nodes,
+support5/4/5; these sizes are not a performance gate. Growth audits actual
+native semantics/correspondence/refusals. Root adopted index's build audit
+6e053124... and ran one bounded assembly01, terminalPASS. Index audits its
+actual binding/closure before image adoption. Framing source review5e597faa...
+passes; data generation waits for these actual audits. No live runtime now.
+
+**04:31 Chicago build terminal/native preparation selected:** session48741
+collected EXIT0, PASS_GUEST_CROSS_BUILD_ONLY; actual RESULT6d8a05a6...,
+169.734375workerCPU+101.640625controllerCPU,307.666577wall, zero active.
+Index owns independent actual build audit before new-image adoption. Root
+adopts growth's native source review431abe9b... and selects exactly one Lean
+preparation under preparation-clearance-01:600workerCPU/600phasewall/
+900allocationwall/4GiB/eight active. Corrected unused full-record parser is
+now frozen along with both ordinary sources and tail/plan on first launch.
+Framing and14negative sources are disjoint; no guest execution or proof yet.
+
+**04:25 Chicago batch compiler-only build selected:** root adopts independent
+adapter REVIEW and guest SOURCE-REVIEW (7a45f886...). Build-clearance-01 selects
+one fresh offline guest cross-build,1800workerCPU/1800wall/4GiB/eight active,
+same held295-unit graph and fixed support. No guest execution/proof yet.
+Build session48741 is live; actual offline graph command passed before compile.
+Relation/fixed and build sources now freeze on launch. Native preparation and
+changed-boundary controls are separate pending gates; no old campaign repeats.
+Before any workload execution, root prospectively selects a common2^26-cycle
+ceiling at exponent18 for all five positives and14negatives, within the reviewed
+phase adapter's fixed600workerCPU/900allocationwall. This replaces the framing
+draft's2^24 proposal, not a post-failure increase. The75%-padded-row/fewer-segment
+criterion and exact pair stay unchanged. Native prelaunch review caught a full
+support-record hint/safety parser omission; unused preparation is corrected,
+while held codecs and all already used evidence remain unchanged.
+
+**04:15 Chicago source selection: bounded co-check cost discriminator.**
+Root selects fresh source work only in `experiments/certified-batch-probe-01`.
+Efficiency owns the new guest relation; index owns two ordinary independent
+Prop proofs and minimal singleton/pair exports; growth independently reviews
+semantics/comparison and new adapters; root owns build/execution supervision.
+The chosen workload is left-inverse injectivity and commuting-idempotent
+composition, subject to native checking, not the earlier illustrative pair.
+Five matched execution arms compare old A/B, new A/B and new AB. Every member
+must be checked; all self/cross-member references are excluded. A fresh image
+uses mandatory DMKN_BATCH_EXEC_V1 and a domain-separated collection digest.
+For this nonadopted execution instrument only, the held148B envelope is reused:
+bytes84:116 mean collection commitment, not singleton interface. No receiver
+adoption, parent reuse, prove/stage/verify, bundle or installation is selected.
+Each native preparation/build/execution awaits independent source review and
+its own finite root selection. No old campaign is restarted. Source feasibility
+notes are not actual outcomes. The existing sealed receiver remains unchanged.
+
+**04:07 Chicago handoff sealed:**
+[certified-reuse START-HERE](../deliverables/2026-09-28-v3-certified-reuse/START-HERE.md)
+and exact child ZIP are final. Independent draft/archive and finaldelta review
+pass; root's nine-reference identity check passes. HANDOFF-INTEGRITY SHA
+cdef393af94701ae105a41e6d2465f5f3036481e4b358f972ed40a90c48cba04.
+These five delivery files now freeze. No live worker or outstanding runtime
+collection remains. All three subagents completed disjoint audit/diagnosis/
+next-decision work; no repeated certificate, native prepare or verifier test.
+The broad software goal remains active: this is a restricted experimental
+certified-reuse checkpoint, not full v3 or faster useful-growth evidence.
+Next work requires a fresh central selection from the cost proposal and
+remaining semantics/installed-production gaps, not restarting old campaigns.
+
+**04:04 Chicago consolidated result:** ordinary child certificate and packaged
+receiver positive/unresolved-premise refusal are independently adopted. The
+new child ZIP is an independently checked exact four-file sample; final
+dated handoff is deliverables/2026-09-28-v3-certified-reuse/START-HERE.md.
+Index's retained-output sweep confirms installed prepare compatibility
+post hoc, while original prepare02 prospective byte-oracle remains FAIL.
+All remaining actual checks pass:18external/30saved pins, three genuine
+workers, exact source/packet/input/journal, freshN31/A1, closedREADY,
+609.390625charged operationCPU (600reservedcontroller+9.390625workers),
+no proof/bundle. No runtime is repeated or live. Exact final-LF discrepancy
+and oldprelaunch failure stay preserved. Installed advance remains unqualified.
+
+Next central proposal is
+[POST-CHILD-COST-DECISION](cycles/v3-2026-09-27/POST-CHILD-COST-DECISION.md):
+an execution-only co-checking discriminator before expensive new proof work.
+This is a proposed new-profile experiment, not an adopted batch implementation
+or runtime selection. Actual child segment stages account for81.10%workerCPU,
+lift/join18.59%; controller-only optimization cannot explain a large gain.
+Keep semantic/certificate compatibility, selective definitions, exact trust
+assurance and honest useful-growth comparisons central. No attribution,
+ledger or extra coordination work is selected.
+
+**03:57 Chicago receiver boundary independently adopted:** growth confirms
+the actual child positive and genuine unresolved-prefix refusal, exact
+unchanged223,398-byte cryptographic payload, no syntax/seal substitution,
+all37 immutable pins and596 installed assets, clean inner/outer Jobs.
+Root adopts scope only; final RESULTfbaff67d936f722ed320eb6ecff39b5e0a25c9a4c1037ecac8cb35b9271c4e0e.
+The separate certified-reuse handoff will carry only the genuine child sample
+and link the existing qualified receiver. Prepare02 difference is isolated
+to public compact JSON omitting native export's finalLF; raw comparison FAIL
+remains, index audits remaining saved checks and source-derived compatibility
+without rerunning preparation. No new runtime/proof selected.
+
+**03:54 Chicago two receiver controls pass; prepare comparison fails:** receiver
+session74876 EXIT0 PASS_INSTALLED_CHILD_AND_ACTUAL_UNRESOLVED_ASSUMPTION_REFUSAL;
+genuine rank1 positive and actual join30 payload refusal with SDK claim-digest
+mismatch.4.171875controllerCPU,2.3125inclusive workersCPU,21.1236933outerwall;
+growth audits actual scope. Prepare02 session18392 EXIT1 despite public
+READY/exit0: exact child.capsule.json comparison differs from old oracle.
+Outer closed Job34.734375CPU/9cumulative/0active/0terminated,cleanup[];
+final controller2.234375CPU/37.7144899wall. Index independently audits failure;
+efficiency diagnoses exact byte and source semantics without edits or reruns.
+No silent equality relaxation or positive installed-qualification claim.
+
+**03:53 Chicago child independently adopted; receiver gate selected:** growth
+confirms all95 ordered stages and686 unique pinned inputs. Independent binary
+decode finds exactly1 assumption in join30, zero after resolve and in final;
+the resolved succinct payload equals the final payload byte-for-byte. Root
+adopts that scoped actual PASS and selects child-receiver selection-01:
+exact genuine rank1 positive plus authentic unresolved-join refusal through
+the already qualified extracted receiver.600wall/180controllerCPU,
+300inclusive workerCPU/2GiB, no native/guest/prover. Installed prepare02 is
+live as session18392; no advance/proof selected. Both actual outcomes still
+await collection/audit. No certification or installation is rerun.
+
+**03:52 Chicago corrected prepare02 selected:** independent delta review
+PREPARE02-REVIEW75dc8da3... passes. Root selects fresh prepare-runtime-02
+through source586af89f.../plan38f368c5..., fixed original10:00UTC deadline
+and2000inclusive outerCPU/1800wall,1800charged operationCPU. Active bound8
+matches helper; cumulative bound12 remains the original separate policy.
+Definite zero prelaunch is now accounted distinctly from uncertain launches.
+No product/source03 change, no proof/new theorem, no failed evidence rewrite.
+Index independently audits actual outcome. Growth continues actual child audit;
+root retains child receiver launch authority only after adoption.
+
+**03:45 Chicago actual ordinary child completes:** session10447 collected
+EXIT0, PASS_ORDINARY_CHILD_FINAL_RECEIPT_AND_COLD_VERIFY_ONLY. All95 stages
+finished once, including actual parent-assumption resolve, final receipt and
+fresh cold verification. Final receipt223,522bytes SHA14e0a6d6e0ffbfab9990d03c879bb24cf02dd176639e5c4e56011aa0fa3dde35;
+campaign RESULT9aeef85ab9282d767d55ddb58d9df5264ac7b3816aba6054b4a4a05187eea9d2.
+New charged workers34,315.109375CPU plus70.1875 outercontrollerCPU;
+declared cumulative71,350.75CPU includes36,965.453125 carried.
+Campaign wall3847.7708418seconds (final event3847.7871173). Growth audits
+the actual chain before root selects the reviewed child receiver gate.
+No second child proof is selected; installed prepare remains separately
+failed-before-launch pending its minimal supervisor correction. This outcome
+is after03:00 and does not qualify full v3, useful growth or production trust.
+
+**03:44 installed prepare launcher refuses before public execution:** the one
+prepare-runtime-01 ends exit1: reused Job helper permits at most8 active
+processes, while the test supervisor requested12. No public worker, native
+check, guest or verifier started. Raw result retains its conservative2000CPU
+unknown-worker charge and secondary missing-stdout cleanup classification;
+observed controller3.5CPU/3.9439749wall. Do not rewrite that evidence.
+Index audits the actual failure. Efficiency authors fresh run_prepare02/plan
+with compatible8-process bound and accurate zero-launch/absent-log handling;
+index reviews only the consequential delta. Same public product/inputs and
+fixed10:00UTC deadline; no product repair, proof restart or runtime renewal.
+Root must select a fresh allocation before any corrected launch.
+
+**03:43 Chicago installed prepare selected:** root adopts the independent
+file-only installation audit (INSTALL-OUTCOME SHA177dd29a...) and prepare
+source review (PREPARE-REVIEW SHA3324f4d2...). Selection prepare-selection-01
+permits exactly one copied public prepare, fixed10:00UTC deadline,1800charged
+operationCPU and reviewed enclosing2000CPU/1800wall. No advance/proving,
+checkpoint migration or new theorem. Index audits the actual terminal result.
+Child10447 continues unchanged; join29 latest collected. Growth owns its
+95-stage terminal audit, root later selects the two-command child receiver
+gate only after actual genuine completion. All used inputs/sources remain
+frozen. No entire-v3 or timely03:00 completion claim is made.
+
+**03:34 Chicago contributor installation finishes:** session88292 collected
+EXIT0, PASS_FILE_ASSEMBLY_ONLY_NOT_RUNTIME_QUALIFIED.12,395assets,
+2,344,989,101bytes;97.0625controllerCPU/310.0227264outerwall. Actual RESULT
+cd75c174737289f68d1852dc3b9437a12ab974fb818d72457485bef327823452;
+profile1,881,142bytes,2815aec95b049ad26befb9e62d6d9e3967faa32c0cadc4c63d0b16705348b37c.
+Index independently audits the now-quiescent full installed map; do not rerun
+installation. Efficiency's prepare-only public runtime adapter is source-ready,
+growth reviews; no runtime selection yet. Child10447 remains live, through
+segment25/lift25 with join25 latest collected. Final child is still unpassed.
+
+**03:28 Chicago contracts actually pass; file installation selected:** all12
+contributor03 groups passed once with independent actual audit; outer RESULT
+d88d8713a9200193dca0201f00cb0f5b548701c9b78812be965222dc8c6353a2,
+0.890625workerCPU/0.671875recordedcontrollerCPU/2.225551wall, clean closure.
+Root selects reviewed installer once under install-selection-01: exact held
+inventory plus7overlays,12,395assets. File-copy-only300CPU/1800wall/512MiB;
+no workers/native/guest/prover/verifier. Index independently audits actual
+installed identity; efficiency authors one public prepare-only adapter, growth
+reviews. This does not certify installed production. Child10447 continues.
+
+**03:26 Chicago contributor03 contracts selected:** final product,12-group
+suite and bounded supervisor independently source-reviewed. Root verified
+the full11-file source map:8 unchanged, workflow changed, stages/API added;
+source02 baseline still exact. Root selects one native-free contract process
+under contracts-selection-01,300workerCPU/600wall/512MiB, no Lean/guest/proof.
+All used source03/test/plan/supervisor bytes now freeze. Actual outcome is
+pending; installation remains gated on its independent outcome audit. Child
+10447 continues unchanged, last collected lift20 in progress.
+
+**03:11 Chicago continuation:** root resumed the existing child10447, with
+join13 latest collected in progress; no proof restarted. Contributor03 source
+preparation continues in the disjoint author/test/reviewer split. Installer
+source review passes conditionally; its plan now precisely scopes the timing
+sample after imports. No new contributor runtime selected. Root additionally
+prepares a fresh two-command child receiver gate: actual rank1 positive and
+actual fully joined but unresolved receipt refusal, preserving SDK payloads.
+This gate waits for completed child proof, exact framing review and a finite
+selection. It does not reprove either theorem or repeat the four L controls.
+The sealed pre03:00 handoff remains unchanged; no full-v3 deadline success is
+claimed. Exact current assignments remain in the contributor03 contract.
+
+**02:49 Chicago tentative receiver handoff sealed:**
+[START-HERE](../deliverables/2026-09-28-v3-tentative/START-HERE.md) links both
+actual archives, actionable Windows commands, layered scale design and costs.
+Independent review checks all24 local links and both PowerShell blocks by
+parsing, not execution. The root identity seal matches7 local delivery files,
+receiver archive and3 qualifying result records; manifest SHA
+5aae245daa75fbacd4403bf0c283da0d15a166ab18cfe2fd180faa7fd8389169.
+These delivered bytes freeze; later child evidence must be a separate dated
+checkpoint. This meets a usable experimental-receiver milestone before03:00,
+not full-v3 or broader-goal completion. Child full01 session10447 remains live;
+do not restart. Efficiency identifies the smallest installed-contributor delta:
+old source02's failed importer tail, monolithic `prove` interface and7200CPU
+workflow cap cannot be reused unchanged with current staged driver07. Root
+continues central integration work without duplicating actual proof campaigns.
+
+**02:41 Chicago actual base receipt and installed receiver pass; child proving:**
+L session63631 completed once, EXIT0, independently audited final real receipt
+and fresh cold verification. Receipt223,522 bytes, SHA
+5ac187a57279f2fbaeab05dc37cc302541ca006bbb5fd172a22ccde54ab2e4d7;
+campaign RESULT d608de23be3c2ca7af356417802f325098dce5bbed1cd55c0010c19c3f18977c.
+New remainder CPU24,195.96875; declared cumulative36,933.65625 includes carried
+failed/repair work. Actual receiver receipt phase also passes independent
+audit: extracted wrapper positive and four genuine refusals, clean closure,
+5.078125 known total CPU across all five controls, 6.4813454 enclosing wall.
+Its positive wrapper reports about2.008147 wall/1.328125 controller+worker CPU;
+do not confuse this with the13ms inner cryptographic timer.
+Ordinary-child snapshot passes with31segments/one actual assumption, binding
+74916f7e6dc085bcff3fe415dde9c355b31dd959b5755af3d60256772a803a0b.
+Root selected reviewed full01 once: session10447 began07:41:06UTC,95stages,
+80,000 cumulative CPU cap including36,965.453125 carried,09:05UTC cutoff with
+600-second full-stage reservation. No automatic retry/increase. Actual child
+receipt/assumption discharge remains pending, and expected proof time extends
+beyond the03:00 tentative checkpoint. User informed; no deadline success claim.
+Root prepares actual receiver/sample handoff while this central proof runs.
+
+**02:28 Chicago scale-boundary continuation:** root resumed the existing
+session63631, not a new proof run. Coherent L stages through segment20/lift20
+passed; join20 was the latest collected running stage. Final receipt remains
+unadopted. Root reread the selected child controller and receiver integration
+interfaces; no used code or budget changed. Independent source audits now
+complete: [implemented locality](cycles/v3-2026-09-27/IMPLEMENTED-LOCALITY-AUDIT.md)
+finds no mandatory global-corpus/ancestral-proof input, while explicitly
+charging repeated execution, snapshot decoding, immediate receipt checking,
+campaign hashing and receiver installation hashing. [Profile assurance](cycles/v3-2026-09-27/CERTIFIED-PROFILE-ASSURANCE.md)
+requires review of the SDK's entire accepted recursion-program root, not only
+the honest producer's subset; this is an assurance gap, not an identified exploit.
+Nanoda/Lean fidelity remains a separate gap. Growth audits actual terminal
+results; index and efficiency prepare disjoint scale/receiver handoff guides.
+Next root actions remain actual L adoption, one extracted receiver positive
+plus four refusals, then one actual ordinary-child snapshot and a cost-informed
+finite certificate selection. No duplicate native authoring, old campaign or
+new peripheral mechanism is selected. The 03:00 checkpoint must distinguish
+packaged receiver capability from the still-unfinished certified commons loop.
+
+**02:14 Chicago packaged receiver runtime gate selected:** exact597-file archive
+and fresh extraction independently pass file-identity audits. ZIP56,577,912bytes,
+SHAdb862cc0c0b86a53d7f9e47c9c5c32ba4cc4406f805d1f08d6fb37b78b4f9ec4;
+extracted tree is product-local/certified-verifier-package-01/extracted/certified-receiver.
+The one reviewed startup gate there passes actual independent audit, not at the
+original installation:102 module-file origins inside copied runtime, worker
+0.421875 plus outercontroller2.28125CPU,2.7648956wall, clean closed Job. RESULT
+SHA260e08a0aee3a72f32684121bd8cb579be80de4988db202791607fb8ab65dfcc.
+Later real-receipt positive/four controls await L. Final integration
+source10bf2b6d.../plan0e73517d... distinguish direct launches from Windows Job
+counters (held evidence1direct/2counter; cause unestablished). The actual L
+campaign63631 has cleanly joined0..13; segment14 started07:13:44UTC. Full final
+certificate remains unpassed. Ordinary-child snapshot/finite proof adapter is
+source-reviewed but cannot run before genuine L. Index audits implemented
+locality/cost; efficiency audits exact-profile assurance; growth owns actual
+runtime outcomes. Root retains every launch and all final adoption authority.
+
+**01:59 Chicago coherent pair passes; finite remainder running:** driver07
+captured one exact 24-segment execution and proved/lifted/joined segments0..1
+successfully. Independent audit confirms matching intermediate roots, all five
+stages clean; 1,972.296875 new CPU, 12,737.6875 cumulative. Snapshot SHA is
+e50240f6f7fe5971f435a2e53a2787c58911e75f2cb00a5f48161b8fe483e373.
+Root launched remainder once at06:49:03UTC, session63631: segments2..23, finish
+and fresh receipt/journal verification; 42,000 cumulative CPU cap, 07:55UTC
+cutoff and full-stage reservation. No final certificate yet. Small receiver's
+twelve changed-boundary tests passed once with independent actual audit.
+Its596-asset/97,064,061-byte file-only install also passes independent full-map
+audit; profile SHA6dc5cef431843e15ec6e8647892a0462bc5bd7a76554d541ff76d4d8719af297.
+Preallocation missing-clearance invocation failure retained and charged separately.
+Copied-runtime startup and real receipt verification remain unpassed. Growth audits outcomes;
+efficiency authors genuine installed receipt-only integration; index authors
+actual child parent-aware adapter. Native child is checked conditional on L,
+not certified. Native v2 remains unchanged; experimental trust is separate.
+
+**01:39 Chicago coherent snapshot remedy selected after actual join refusal:**
+firstpair session82947 collected FAIL. Segment1 andlift1 passed, butjoin1 safely
+refused unequal intermediate memory roots. Independent bincode decoding ties
+those exact roots to stderr; the source of run-to-run nondeterminism is not
+localized.839.40625newworker+1.53125outercontrollerCPU,81.3176145wall;
+declaredcontinuation cumulative10700.6875CPU includes previous failures.
+No remainder launched. Root selects fresh host07 snapshot+schema3: capture one
+actual Segment vector, prove only its saved witnesses while retaining fresh
+Session and every final composite/succinct/image/journal check. Indexauthors,
+growthreviews; rootbuild07/phase08/campaign02. First freshcoherentpair0..1 only
+aftercaptureadoption. Old partialproofs preserved but incompatible, not migrated.
+Efficiency implements selected small coldreceiver,97MB retainedassetclosure,
+noLean/imagefile/ancestorinputs; still no actual finalcertificate.
+
+**01:28 Chicago stable-key reuse now actually passes:** driver06 actual build
+adopted63.125knownCPU/67.4061373wall; exact segment0 migration preserved all bytes
+after the schema/binding and passed full seal checks. Separate lift0 then PASS:
+99.6875knownCPU/30.2086149wall,223,214bytes, unchanged schema2binding
+1b6edd80ec1413c63a72b9947d299b82e9e80d29b38d0d3c997046a42a8e2014.
+No final theorem certificate yet. Index authors finite serial campaign around
+unchanged phase07; growth reviews and actual-audits. Root next selects only
+segment1/lift1/join1, then uses actual join cost/stability for finite remainder.
+Ordinary-source child data finalized once,7,639-byte input/rank1/148-byte expected
+journal; no native rerun or old M substitution. Efficiency prepares minimal
+cold-verifier asset closure so receiver verification need not install/hash Lean.
+
+**01:16 Chicago stable checkpoint repair / conditional import:** driver05 built;
+actual segment0 PASS retained234,817bytes with full seal verification,
+585.203125knownCPU/91.6120659wall. Separate lift0 refused before crypto:
+checkpoint session binding mismatch,0.875knownCPU/1.3934394wall. Independent
+SDK inspection identifies deliberately randomized raw final post-state while
+Session/SegmentReceipt halted claims normalize it. Root selects fresh driver06
+schema2 operational key without raw trace hashes, full final crypto gates
+unchanged. Index authors; growth independently reviews; root owns minimal
+build06/phase07. First selection only pinned seal-verified migration of original
+segment0 then lift0; no reproof, unbounded campaign or altered randomness.
+Probe02 repaired the Header accessor compile error and actually passed ordinary
+source/clean native conditional import; efficiency audits actual outcome.
+Parent L remains uncertified; no final general-checker receipt or net useful
+growth claim exists. All predecessors and failures remain preserved.
+
+**00:52 Chicago proof02 failed; resumable proof work selected:** session3221
+collected exit1. Actual worker7200.234375CPU/controller4.875CPU,1059.5664689wall,
+peak Job3,477,934,080bytes; Jobclosed/active0. Raw FAIL_CLEANUP is retained,
+with INCLUSIVE_CPU_LIMIT and final-CPU cleanup label. No receipt; telemetry
+reaches segment11proving, no compression. Growth audits actual outcome. The24
+retained trace files total4,385,888bytes and are not saved SegmentReceipts.
+Root selects source-only driver05 using public SDK segment/lift/join/resolve
+stages, preserving real verified work to immutable checkpoints. Same guest,
+image and final full succinct gate; no claimed fresh-proof speedup or SDK
+rebuild. Root owns direct-link build05 and single-stage phase06; growth reviews
+driver/build, index reviews supervisor after actual inventory adoption.
+First runtime selection will be segment0 then separate lift0, not another
+whole monolithic run or automatic budget increase. A full finite continuation
+requires actual stage costs/stability. Companion inventory passed once:
+12,391files/2,345,099,332bytes,21.125outerCPU/300.6691374wall; independently
+audited file identity only. No installation or ordinary certified contribution.
+
+**00:38 Chicago resumed central scale work:** root collected proof02's still-live
+session3221, not a new launch. Telemetry now locates actual progress in segment
+proving; multiple segments have started, but no receipt or compression success
+is established. Root keeps the adopted limits unchanged. Efficiency diagnoses
+the exact CPU implementation/cost bottleneck; growth prepares receipt-only cold
+verification and independently audits the actual terminal outcome; index prepares
+the budget-independent installation inventory and shortest genuine L-interface
+ordinary-source contribution. All runtime launches remain root-owned. Current
+selection is still body-free certified interfaces with recursively discharged
+immediate premises, not trust in peer status, cached booleans or global replay.
+Native v2 remains unchanged and the complete certificate loop is unqualified.
+
+**00:31 Chicago new-image real proof running:** guest04 build and actual copied
+maps/295-unit graph/ELF independently pass. Assembly02 adopts image
+7a8589ef226cc222696afa93f0fca96a0f3d56ca03fcdebdc9008f7e79a3f0d0.
+Finalizer02 independently confirms unchanged mathematical packets and only
+image-related frame/journal differences. Matched L execution04 passes:24
+segments,5,576,463usedrows,6,160,384padded,5,540,823instructions:17.61%fewer
+usedrows,not measured proving speed. Driver04 actual build independently passes;
+its bounded metadata-only telemetry preserves all receipt checks.
+Root explicitly selects ONE proof02 at7200inclusiveCPU/1800sampledallocationwall,
+unchanged4GiB/eightprocesses/po2=18/2^24rowcap, skipping another uninformative
+1800CPU trial. Source/budget review documents overshoot and no completion
+guarantee. Used phase05/clearance02 sources freeze. Session3221 began05:31:23UTC;
+root must collect it. No receipt yet. Cold full verification and actual next
+contributor remain next central gates. Installer source02 reviewed but unrun;
+its proposed1800CPU workflow limit is NOT automatically enlarged by research.
+
+**00:19 Chicago unchanged-dependency specialization build:** guest04 source
+equivalence passed once and independent review adopted all43/66 exact
+projections. Fresh build01 is running under root's reviewed clearance, session
+31826; actual full295-unit graph matches modulo new project/cache paths. No
+host backend rebuild. Growth reviews the fresh metadata-only telemetry driver04
+and root's same-budget phase04 adapter; actual proof stage is otherwise unknown.
+Bundle01's first3 data contracts passed then Windows path/handle ctime mismatch
+caused contract4 refusal. Fresh source02 fixes comparable birthtime; focused
+bundle02 passes10 groups, real symlink NOT_EXERCISED (WinError1314). Efficiency
+independently audits that outcome. Root added only RAYON_NUM_THREADS2 to the
+unrun source02 workflow to match research configuration. Installer remains
+source-only and image/driver-parameterized. Index audits actual guest04 build;
+root owns assembly, fresh image-specific finalization, matched18 execution and
+subsequent explicit proof decision. No general-checker receipt exists yet.
+
+**00:08 Chicago proof-cost correction:** the actual first L succinct proof
+produced no receipt: worker CPU1800.78125s exceeded its1800s limit, known total
+CPU1802.265625s,267.7345099s allocation wall,3,475,738,624 peak Job bytes.
+Raw FAIL_CLEANUP is retained; the Job closed with active0 and the secondary
+cleanup report is the final inclusive CPU violation, not an observed leaked
+process. See guest02/PROVING01-OUTCOME.md. No ABI success or proof-stage location
+is inferred from its empty logs. Root selects fresh guest04 fixed foundation/
+schema specialization, preserving all untrusted relation checks and exact
+foundation identity; image must change. Efficiency authors, index independently
+reviews, growth prepares a fresh established cross-build adapter; root owns
+adoption/launch. Measure actual L rows at18 before another bounded proof.
+No cap increase, host backend rebuild or old campaign rerun is selected.
+Companion/bundle/installer remain source-only and do not establish usable
+ancestor-free contribution. Cold verification and reciprocal certificates are
+still the critical unpassed gates; native v2 remains the usable fallback.
+
+**23:53 Chicago first real guest execution:** adopted driver03 compiled against
+existing host05 rlibs (93.71875knownCPU/102.9744wall,assistedVCTIPclosure).
+Exact combined image81a4a31d596fcf99afabdaf3cbacb499dc27d6fca61f9f3c79710090fa796ed5
+and five prospectively framed cases now adopted. L execution01 failed2^24row
+cap atpo2=16; actual row accounting charges segment padding/repeated paging.
+Execution02 changes onlypo2=20 and passes:5segments,4,894,500usedrows,
+5,242,880padded,6,800,392instructions,0.453125workerCPU. Not a certificate.
+Root selects first real succinct proof after source-informed4GiB segment-size
+check; no blind cap increase or completed campaign rerun. Five type-only
+capsules adopted separately,N2564bytes. Generic importer and fresh experimental
+portable companion source have scoped independent reviews, no runtime pass.
+Index reviews real-receipt mutation utility; growth actual executor outcome;
+efficiency proof-memory selection; root proof/cold verification/integration.
+
+**23:31 Chicago actual host adopted / runtime adapter closure:** host05 passed
+independent build-only audit,1663.640625 known CPU/1013.82223 wall,closed Job;
+exact-owned VCTIP cleanup used. Its actual host/target bindings match audited
+host04 bytes; CXX ABI runtime exercise remains pending. Target map passed:
+5833 files,2,165,483,116 path-charged bytes,15.953125 controller CPU. Adapter01
+preflight refused two legitimate pinned Windows crate import-lib directories
+outside target before any worker/allocation. Efficiency authors precise fresh
+adapter02; root reviews. Capsule preparation01 refused decimal timing metadata
+through the integer-only math parser before projection; index authors fresh02,
+growth reviews. Supervisor source passed independent review, with the same
+unused metadata-parser correction now selected. No actual certificate yet;
+source16/native predecessor and all prior failures remain frozen. Next is real
+assembly, L execution/proof/cold verification and generic certified contribution.
+
+**23:15 Chicago guest ELF adopted / importer implementation:** guest03/build03
+has independent PASS_CROSS_BUILD_ONLY:1,192,948-byte RISC-V ELF,
+374.5625knownCPU/337.8491651wall. Exact-ownedVCTIP cleanup was used and recorded;
+no guest/proof execution. Host05's reviewed fresh offline build is running.
+Index authors generic named type-capsule/native ordinary-source importer;
+efficiency independently reviews it. Growth authors its bounded supervisor;
+root owns host outcome, profile adoption and subsequent certificate stages.
+No ancestor files or prior native approvals may be loaded by the new reuse
+operation. Base-only execution gates replace redundant positive child
+executions: each real child prove already executes the same guest. Target-map
+port and driver telemetry changes are source-reviewed, not runtime-qualified.
+
+**23:01 Chicago actual guest compilation:** preparation03 independently passes
+the complete295-unit graph/lock comparison: only ruint1.20.1 to1.16.0,
+edition and its existing serde edge changed.100.90625knownCPU,135.877274wall,
+unassisted closure. Root launched separate reviewed build03, not a guest or
+proof run. Host04 final failure is retained:1353.921875knownCPU,760.1726163wall,
+ownedJob abort/active0. Root selects fresh host05's two precise linker repairs;
+no altered arithmetic/checker or failed-target reuse. Real receipts and the
+ordinary-Lean certified importer are the next central integration gates.
+
+**22:56 Chicago resumed scale closure:** reviewed guest03 preparation03 is
+running in its fresh allocation; two earlier preparation failures remain
+preserved. Host04 reached linking and failed on GPU-HAL and platform-allocation
+symbols; final controller outcome/audit are pending. No host artifact is adopted.
+Index owns actual failure/FFI audit; efficiency investigates the minimal fresh
+portability recovery; growth owns actual guest preparation adoption. Root owns
+separate build clearance and certificate-to-Lean integration. Completed native
+L/M/P bridge and prior campaigns are not rerun. Actual succinct certification,
+usable certified import and whole-loop cost evidence remain central open gates.
+
+**22:39 Chicago native seam passed:** single fresh L/M/P bridge plus unchanged
+Fin/N copies passed independent scoped adoption. M uses actual L twice; P uses
+only body-free N/Fin once each; no L/M declarations or unused ancestor Expr rows
+in P.21.015625knownCPU,129.334wall,clean closure. This is conditional native
+evidence,not discharged certificates. Host03 failed later at libclang18/MSVC
+header version gate,732knownCPU,492.967wall,ownedJob abort. Root selects host04
+bindgen-only compatibility override, CXX22 unchanged. Guest03 precise offline
+dependency recovery preparation is running; actual guest/proof gates remain.
+
+**22:29 Chicago actual compiler boundary:** guest02/build02 failed on
+ruint1.20.1 const-slice reverse versus the pinned early1.90nightly. Actual
+268.375knownCPU,225.4758wall;owned Job aborted/closed,no guest or proof.
+Root selects fresh guest03 precise offline downgrade to retained compatible
+ruint1.16.0, with new lock/graph adoption before another build; efficiency owns.
+Host03 narrow portability build is now running. Index authors L/M/P fixture
+bridge/finalizer; growth reviews that boundary and root's separate driver-phase
+launcher. Used predecessors remain frozen. No product admission/growth claim.
+
+**22:19 Chicago build separation:** actual host02 compilation failed on three
+Windows C++ portability classes and used the owned-Job abort path; no host
+binary/proof,688.484375knownCPU,433.9954wall. Independent BUILD-OUTCOME preserves
+the failure. Root selects fresh host03 exact two spelling fixes plus NOMINMAX,
+with fresh target and unchanged dependency locks; growth authors, root reviews.
+Guest02 actual dependency/std preparation independently passes adoption:
+295units,127.59375knownCPU,262.9689wall,clean closure. Fresh build02 adds exact
+retained Clang/rustfmt and may compile independently of host success. Index
+authors one fresh L/M/P native fixture bridge for genuine L→M→N and N+Fin join.
+No assembly/guest/proof yet; no frozen source or completed campaign is rerun.
+
+**22:07 Chicago actual next gates running:** corrected host02 unit-graph
+preparation independently passes:584units/361packages, same selected package
+and feature unions as before;14resolution-only archives add940,031bytes.
+126.046875knownCPU,156.4304wall,clean unassisted closure. Root launched its
+separately reviewed offline host build. In parallel root launched guest02
+dependency/std preparation under its exact reviewed clearance; no guest
+compilation/proof yet. Its actual mathematical wrapper, independently recomputed
+fixed foundation and148-byte journal now pass scoped source review. A separately
+reviewed new host adapter will link only adopted existing rlibs, not repeat
+backend compilation. Index identifies genuine L→M→N retained proofs and Fin
+for a finite new-checker campaign; M is conditional on L and is not mislabeled
+as a base theorem. All used runners/source/input pins remain frozen.
+
+**21:50 Chicago preserved host-build failure:** host-build01 stopped before
+compilation because Cargo needed direct dev dependency ciborium0.2.2, absent
+from the prior normal/build-only tree closure. Independent outcome audit
+confirms0.578125workerCPU plus270.796875controllerCPU,667.8755wall, clean
+unassisted closure; no guest/proof execution. The source/profile is unchanged.
+Root selects `general-checker-host-02` actual build-unit-graph preparation,
+then separately adopted offline build. New caches seed exact archives/index/git
+instead of copying20,000 unpacked files. Growth reviews this finite recovery;
+efficiency authors guest/std unit-graph runners, index actual wrapper/registry.
+The guest fixed baseline is explicitly native-checked installed support;
+only certified parent types and the new theorem are checked per contribution.
+No claim of general-scale completion follows from these preparations.
+
+**21:36 Chicago scale-checker progression:** corrected general-checker-02 has
+its independent narrow PASS: three unchanged positives accept, malformed
+projection refuses at the new precise guard. Known allocation CPU65.234375s;
+owned compiler-telemetry cleanup was used and disclosed. Host preparation
+and exact build adoption also pass independently,270.1875knownCPU. Root
+launched the one reviewed offline host-only build; no guest/proof runs yet.
+Source preparation of guest-02 now proceeds in parallel: index owns actual
+serial checker/interface binding, efficiency external rust-src/build-std
+closure/runners, growth relation review and host-build actual audit, root
+succinct adapter/integration. Used inputs remain frozen; no duplicate native
+or equation campaign. General Lean correspondence, actual succinct reuse,
+production recursive assurance and useful-growth evidence remain open.
+
+**21:16 Chicago actual general-checker diagnostic:** diagnostic03 completed
+all ten candidate checks and six nonadmitting origin/format controls. Required
+retained positives pass; the predicted C04 projection-annotation discrepancy
+is real and holds adoption. Native and candidate saw the same malformed Expr.
+Worker10.375CPU plus controller2.1875CPU,15.0047wall,clean closure. Two prior
+bridge failures remain preserved (JSON inference, then full-CID native naming).
+Growth independently audits actual refusal causes and unchanged packet binding.
+Root selects general-checker-02's one-file annotation guard and four identical
+packet comparisons; source/runner are authored, not launched. Efficiency's
+RISC Zero preparation/build runners are authored; index independently reviews
+the finite preparation boundary and four-file portability profile. No general
+guest certificate or product admission mode is yet qualified.
+
+**20:59 Chicago native-checker boundary:** the exact nanoda build has an
+independent PASS. The retained Fin/sealed-N bridge and six finite origin/format
+controls have separate source reviews; root has reconciled the ten-check
+diagnostic runner with the actual APIs and awaits its final independent review.
+One 180CPU/180wall diagnostic is selected next, not another old proof campaign.
+The anticipated projection-annotation mismatch remains adoption-blocking.
+Efficiency prepares a direct in-process RISC Zero host build, with an explicitly
+selected fourth-file Windows string-literal escaping fix; no backend build or
+guest/proof execution is yet authorized. Both cold receiving and new contribution
+must ultimately avoid ancestral proof replay. No v3 general-scale claim yet.
+
+**20:40 Chicago general checker build:** exact nanoda_lib3a240721 native build
+has raw PASS:39.78125workerCPU,10.421875controllerCPU,54.7386allocationwall,
+550,969,344peakJobbytes. Exact-owned VCTIP cleanup was used and recorded; clean
+closure. No theorem or proof ran in this build. Used candidate/compiler/runner
+inputs freeze. Growth audits actual outcome; index prepares one exact retained
+Fin/SEALED_PROP packet bridge and native differential references, root the finite
+diagnostic runner. The candidate remains nonadmitting. Guest investigation found
+a real stock-nightly build-std route and a concrete host SDK Unix-only orchestration
+compile blocker; efficiency checks whether a small in-process-only profile can
+remove that unused path. No guest/platform installation or crypto run selected.
+
+**20:24 Chicago general-checker decision work:** no experiment is running.
+The same-packet native repair has its final independent PASS; the restricted
+equation lane is complete only in its stated scope. Root selects bounded
+source-level closure work on actual Lean certification before another runtime
+allocation: efficiency owns the pinned native-kernel/guest closure, index the
+alternative inference-trace contract, growth the adaptive recursive-soundness
+and dual receiver/contributor gate. Root checks concrete existing checker
+implementations and chooses the next consequential build or implementation.
+No more equation joins, network wrappers or source16 packaging is selected.
+Existing source/evidence is frozen. New decision notes are linked in WORK.md.
+
+**20:12 Chicago same-packet repair passed:** source-only interface02 replaces
+the second runtime import with the held post-import snapshot, explicit-t0 and
+the unchanged Descriptor.checkConditional. Exactly the same4inputarrays; no
+rebuild/prover/crypto repeat. Raw PASS,1.734375workerCPU,0.109375controller,
+1.9310318wall,2,223,742,976peakJobbytes,clean closure. Two diagnostic stages
+and actual25,773-byte conditional theorem receipt retained. Original OOM stays
+failed/charged. Independent interface02/OUTCOME now passes. This completes only the restricted
+certificate→conditional-native seam; INTEGRATION-GAP and NEXT-CENTRAL-GATE state
+why it is not Lean-authored proof→certificate export or general-scale admission.
+
+**20:01 Chicago handoff failure:** actual handoff-01 failed internal out-of-memory
+at the unchanged4GiB Job limit; stdout empty,5.03125workerCPU,0.140625controller,
+9.2196247wall,clean closure. No conditional theorem was reported. Cryptographic
+campaign independently passes its own audit, not the missing native gate.
+Index investigates exact native path; efficiency checks installed Lean APIs
+for eliminating possible duplicate import, root owns repair selection/launcher.
+Earlier decoder-only controls peaked2.23GB; --run followed by runtime import of
+Soundness is a concrete duplicate-import candidate, not yet proven failure
+location. No memory increase, campaign rerun, or source edit in place selected.
+
+**19:57 Chicago actual certificates:** the selected campaign-01 has raw PASS:
+9positive proofs,5cold verifies,8targeted byte-refusals and1actual wrong-TRANS
+prover/witness refusal with no candidate. Worker80.390625CPU,controller3.828125,
+54.9689753wall,clean closure. All9proofs149,380bytes; exact full378 public words
+match for Jshort/Jlong despite different immediate-parent histories. Each cold
+receiver reads152,526applicationbytes, no parent/proving assets. Inner verifier
+time4–6ms is not whole-process cost or a useful-growth claim. Growth audits
+actual evidence; root prepares the already-reviewed one-shot conditional Lean
+handoff. Used campaign/code/assets now frozen. General Lean certification and
+production recursive security remain unsolved, not silently enabled in v2.
+
+**19:53 Chicago setup milestone:** setup-01 raw PASS after one application
+refinement reached exact common-data fixed point. One actual helper proof,
+24.59375workerCPU,16.3210896allocationwall,clean Job closure. Static assets total
+149,606,005bytes (prover circuit148,937,522; verifier1,905; helper149,380).
+This exposes the real producer/receiver asymmetry, not an efficiency win.
+Growth independently audits setup; the concrete finite campaign and native
+handoff have passing scoped static reviews. Root prepares exact adopted setup
+clearance for9positive+1invalidTRANS proofs,5cold receiver checks and8byte
+mutation refusals. No application proof/native handoff has run yet.
+
+**19:47 Chicago build passed:** exact two-parent example build-01 passed the
+actual independent BUILD-OUTCOME audit. Worker205.203125CPU plus controller
+59.546875CPU=264.75knownCPU;163.9070208allocationwall. Selected owned-MSVC
+telemetry cleanup actually ran and is disclosed; no proof ran in this build.
+Next is one separately bounded900CPU/900wall setup, followed only on success
+by the reviewed finite campaign and one conditional native handoff. Campaign
+authoring is ready for review; no repeat compile/backend/native controls.
+
+**19:42 Chicago execution checkpoint:** actual application build-01 is running
+under build-clearance-01.json after separate circuit/encoding and runtime
+reviews. Exactly three added Rust example files; no setup/proving in this
+allocation. The native descriptor controls completed once:29pass(3positive,
+26negative),1.96875workerCPU,0.09375controllerCPU,clean closure. Existing backend,
+native and source16 evidence is not repeated. Efficiency authors bounded setup
+and independently adopted profile/assets; growth specifies finite graph/negative
+controls and audits build; index authors exact accepted-packet→conditional-Lean
+handoff; root owns campaign/integration. Rust/build inputs are now frozen.
+The central criterion remains history-independent new contributions as well
+as receiving. Production crypto, arbitrary-Lean support and useful-growth
+evidence are still open; no release-completion claim is made.
+
+**19:18 Chicago executable milestone:** Gate T run03 actually passed the exact
+single upstream cyclic-recursion test, independently audited in THIRD-OUTCOME.
+The correct disposition includes declared external cleanup of one proved-owned
+MSVCVCTIP descendant after successful compile; it is not an unassisted lifecycle
+pass. All3crypto allocations total961.875knownCPU, plus unmetered external
+inspection; controller census overhead is retained. Exact native descriptor/
+conditional-consumer modules also actually compiled and passed BUILD-OUTCOME,
+but consumer execution remains untested. Root selects real application source
+under experiments/scale-equation-01: efficiency owns circuit/main, index owns
+encoding, growth independent actual review, root finitebuild/campaign/handoff.
+Degree14/cap3fixed-point attempts selected; no automatic degree/security change.
+Old source16/package/growth runs remain held. No arbitrary-Lean/production/growth
+claim follows from the backend gate. Overall goal remains active.
+
+**19:04 Chicago:** Gate T run02 also stopped during compilation on an
+unqualified CENSUS_ESCAPE; its exact transient path was not recorded. Final
+census/original-input checks and cleanup pass; no proof ran. Its independent
+SECOND-OUTCOME preserves57.734375 total knownCPU across both failed allocations.
+Root selected and launched reviewed run03 using the already-tested pinned
+Windows resolved-namespace comparator with path diagnostics, not a new census
+algorithm. No fetch/resolve repeats; all3retained runs are charged. In parallel,
+v3_index authors the exact native descriptor/conditionalCONGR2 consumer under
+experiments/certified-equation-interface-01; v3_growth reviews that changed
+seam and root's2module build launcher. v3_efficiency prepares concrete
+serialization/assets for the prospective crypto application. No new product
+trust mode, arbitrary-Lean certificate or useful-growth result exists yet.
+
+**18:56 Chicago continuation:** independent run01 audit confirms preserved
+artifact integrity and no proof execution. Root and independent artifact review
+pass the exact narrowly changed offline continuation; run02 is now building
+under launch-02.json, with no fetch/lock resolution repeated. Original failure
+remains charged. The sealed native seam and general Lean equational soundness
+are separately passed; application crypto and product integration are not.
+Root supervises Gate T and selects only the next consequence of its actual
+outcome. The whole goal remains active.
+
+**18:47 Chicago backend status:** Gate T run-01 is FAILED_CENSUS, not a crypto
+result. All pinned downloads/portable assembly/version probes/lock/fetch passed;
+offline build stopped on a Windows-created in-profile Content.IE5→IE junction.
+Root's read-only reparse query confirms the exact same-run target/tag; no
+proof ran. First Job5.875CPU plus controller35.515625 retained, clean closure.
+Root selects only preparation of a narrowly reviewed OFFLINE continuation:
+reuse old Rust read-only, fresh pinned source/lock/cache/index and target/profile,
+exact known-alias handling, no redownload/reresolution. Old scripts/run frozen.
+v3_efficiency authors continuation, v3_growth actual failure audit/test design,
+v3_index interface plan and targeted continuation review. Application circuit
+code remains held until actual backend capability; full goal stays active.
+
+**18:38 Chicago audited state:** sealed native chain and13 controls now pass
+independent actual audit (CONTINUATION-OUTCOME). The general equational source
+also actually compiled and its five declarations have empty axiom censuses;
+independent OUTCOME under equational-soundness-01 passes. That is stock-Lean
+semantic evidence, not circuit correspondence or custom-product admission.
+Crypto Gate T has no execution yet: v3_efficiency writes the thin provision/
+build runner, v3_index audits archive/portable assembly, v3_growth audits the
+exact upstream proof-test evidence, root reviews environment/accounting and
+launch. No new generic backend survey or old campaign rerun is selected.
+
+**18:33 Chicago native milestone:** the body-free A→B→C Lean seam has raw PASS
+after an exact controller-only continuation. Original native-01 failed after
+actual A success because root compared tagged raw refs to bare names; its
+19.5625JobCPU and all evidence remain retained. Continuation reuses A/support,
+never rebuilds/repeats them, and runs only B/C/13 scoped controls; all pass with
+clean closure. Combined worker Job38.140625CPU, separate controllers1.125CPU.
+Independent actual-chain audit is underway. This is locally grounded native
+reuse, NOT remote crypto, proof-sensitive conversion or a large-scale release.
+Equational semantic proof and check launcher are authored/preparing; isolated
+Plonky2 Gate T scripts are being written. Root pinned its exact source archive
+by read-only in-memory HTTPS fetch; no toolchain/downloaded code executed.
+
+**18:21 Chicago continuation:** native sealed-interface sources and root runner
+passed independent prelaunch review and the single native allocation is running.
+Same actual foundation/prebuilt source13 support, fresh A/B/C
+environments, body-free parent inputs and13 scoped controls are bound.
+RISC Zero has a real recursive API, but immediate full Lean guest readiness is
+not established; no WSL/Linux runtime is installed. A bounded native-Windows
+Plonky2 research discriminator is being specified because it can verify two
+independent parent proofs. Its deprecated status and estimated95/100-bit default
+security exclude treating it as an already-qualified huge-network production
+trust profile. No cryptographic software/dependency has been installed or run.
+Source16 packaging/growth remain held; completed results are not repeated.
+v3_index now prepares a general constructive equational soundness proof under
+experiments/equational-soundness-01, with exact explicit common assumptions;
+this is a restricted bridge for the prospective two-parent crypto experiment.
+
+**18:05 Chicago scale checkpoint:** [integrated redesign](cycles/v3-2026-09-27/SCALE-DESIGN.md)
+selects sealed Prop interfaces, exact authenticated definition support and
+recursive certificates of new checking steps. Separate Lean/crypto/dataflow
+reviews found no central logical blocker to this architecture, with narrow
+clarifications incorporated; this is not implementation readiness. Root selects
+only the new experiment-only [sealed-interface contract](../experiments/sealed-interface-01/CONTRACT.md):
+fresh L→M→N Lean processes with locally checked parent evidence, explicitly no
+crypto/cold-network claim. v3_index authors separate Lean roles, root runner,
+v3_growth independent review; v3_efficiency checks one pinned recursive backend
+and actual Lean guest compatibility. Source16 remains frozen/unpackaged.
+
+**User-directed priority change, 2026-09-27:** the goal now explicitly assumes
+a very large commons. Downloading/replaying the full transitive proof closure
+cannot remain the mandatory receiving or downstream-authoring path. Root has
+held new installed/growth executions while redesigning certificate-backed
+Lean interfaces, recursive verification and selective authenticated data access.
+Source16's completed correctness/reader evidence is preserved; its27.18%reader
+saving is not a scalability solution. No new source cut or cryptographic trust
+mode is implemented or enabled. Assignments: v3_efficiency certificate relation,
+v3_index Lean interface boundary, v3_growth dataflow/availability; root synthesis
+and practical selection. Checkpoints live in cycles/v3-2026-09-27/SCALE-*.md.
+
+**Source16 reader completed once:** raw fixed-gate PASS, all16 observations and
+canonical outputs retained. CPU ratio0.7281553398 (16.09375s baseline versus
+11.71875s candidate), wall ratio0.7259037670, per-fixture CPU ratios0.70518/0.75.
+Worker total42.71875 CPU seconds, separate controller7.265625. Independent
+actual audit is pending. The varied AB/BA observations do not establish their
+cause or a whole-workflow speedup. Root's next gate is fresh source16 packaging
+then the reviewed installed identical-Count comparison; no source15 build.
+
+**Source16 contracts completed once:** nine tests passed, zero failures/errors/
+skips, clean closure. Inclusive worker Job95.125 CPU seconds; coordinator5.375
+CPU seconds separate. Actual RESULT hash
+`52a7a80e1d495cb19765b0859efb7c22136b242c1dab05a02280db186d936137`.
+Source16 and its used contract inputs/runner/tests are now frozen. Independent
+actual outcome audit precedes the unchanged sixteen-read cost gate. The
+unexecuted numeral adapter gained an explicit actual-type numeral-one witness;
+this is not another native execution. Growth consumer measurement must use the
+same outer-Job boundary as its H intake, with completed-publication deadlines.
+
+**17:42 Chicago continuation:** source16's nine focused test methods are held
+after independent static challenge (94 fresh reader invocations). Root has
+filled the exact runner map/test pins; independent constant review passed and
+the single bounded contract run is active. Root retains all failed measurements. Source16's
+installed Count comparison and numeral adapters are drafted, and growth setup
+still awaits actual gates/build. No runtime success is presumed. Work is split
+between runner/installed audit, numeral semantics/outcome audit, and growth
+evidence critique; root owns execution and integration.
+
+**17:36 Chicago v3 checkpoint:** root selected source16's additional exact
+read-local foundation-byte reuse after two independent equivalence assessments.
+Its114-file initial copy was hash-verified; author held a tiny reader-only patch,
+root updated its lock and checked all81 bindings. Focused differential tests
+and independent runner reviews are underway. No source16 execution or claimed
+gain yet; same10%reader and5%installed gates remain. The growth setup/statement
+capture draft targets source16 and has root static review, pending actual gates.
+
+**Prior17:26 result:** source15's selected operation-local encoding,
+plan, union and closure reuse is implemented. The reviewed 12-contract run
+passed once with zero failures/errors/skips, clean closure and52.515625 worker
+Job CPU seconds (5.390625 controller CPU separate), and actual audit passes.
+The completed16-read cost gate FAILS:8.71%pooled CPU savings versus required10%,
+with all output equality checks and clean closure. Its audit confirms strong
+order variation without attributing a cause. No threshold relaxation or
+source15 packaging is selected. Root/independent reviewers now assess exact
+freshly-local foundation-byte reuse as a possible further small improvement.
+Source15 and all used
+source/test/harness/evidence are frozen. No native check is removed; this is
+not yet installed or speed qualification. Source14's prior14-contract index
+gate/audit remain passed. See [current contract](../experiments/operation-reuse-01/CONTRACT.md).
+The installed matched workload now uses the retained actual Count theorem,
+not only a definition. Mathematical growth uses retained seed knowledge and
+new endpoints, separately from this original-numeral index regression case.
+
+**Active v3 deadline: 2026-09-28 03:00 Chicago (08:00 UTC).** User requests
+central bug repair, more efficient proofs/checking/reuse, and a resource-accounted
+case for quicker useful knowledge growth. See [v3 plan](cycles/v3-2026-09-27/PLAN.md).
+The source14 component gate is complete; qualify its installed behavior together
+with source15's selected operation-local cost improvements and a small
+counterfactual reuse evaluation. Do not rerun the completed index campaign.
+The supplied inferential-cost/hypergraph models are proposals to test, not
+adopted network obligations. No new runtime is running at this checkpoint.
+
+**User-facing v2 explanation:** the [undergraduate layered guide](../deliverables/2026-09-23-v2-guide/GUIDE.md)
+now covers the delivered source13 system from basic ideas through the actual
+reciprocal example, operational boundaries and evidence. Separate technical,
+mathematical-example and teaching reviews are recorded under
+`research/audits/v2-guide-2026-09-23`. This documentation task does not modify
+the sealed release, qualify source14 or complete the broader project goal.
+
+**Historical post-v2 selection:** root selected fresh source14's complete bounded raw
+type indexing for the already existing canonical syntax, addressing the actual
+numeral-publication refusal. No proof/native/schema/network change. See
+[contract](../experiments/complete-type-index-01/CONTRACT.md) and
+[assignments](registry/WORK.md). Source14 now has an audited component pass,
+not installed qualification; source15 is the current combined candidate.
+Source13 remains the delivered release. No full prior campaign is repeated.
+
+**Historical v2 deadline:** the user requested local **v2 before 19:30 Chicago,
+2026-09-23**. The feature scope is the current central group-root/reciprocal-use
+work, relevant changed-boundary checks and usable packaging/documentation.
+No optional feature expansion or repeated predecessor campaigns. A version
+label cannot waive failed gates. See [goal checkpoint](../GOAL.md).
+
+### Completed local v2 handoff, before19:30 Chicago
+
+The exact source13 package is frozen and copied into
+`deliverables/2026-09-23-v2-local-release`. Preparation, original accepted Count
+source and four native refusal controls have scoped independent audits.
+The first source13 exercise remains failed at publication: its type used a Nat
+literal outside the public index fragment. No failure or cost is erased.
+
+The source-only continuation completed on the same nodes, changing only that
+statement's literal spelling to explicit `Nat.succ Nat.zero`. Its independent
+[actual audit](../experiments/auxiliary-frontend-01/CONTINUATION-OUTCOME.md) passes:
+full source/canonical proof correspondence, substantive main/auxiliary use,
+publication/TLS return and fresh receiving admission after the sender stops.
+Six new calls/two stages, no rebuild/reinitialization/renewal, clean closure.
+Original plus continuation:16 attempted/15 successful requests, seven native
+stages;627.71875 Job CPU seconds including source13 preparation and failures.
+A remains5requests/1stage/456MiB; B3/0/312MiB, so B needs owner renewal for more
+native work. No accounting reset or erased original failure.
+
+The final [startup guide](../deliverables/2026-09-23-v2-local-release/START-HERE.md),
+[qualification](../deliverables/2026-09-23-v2-local-release/QUALIFICATION.md),
+document review and [integrity seal](../deliverables/2026-09-23-v2-local-release/HANDOFF-INTEGRITY.md)
+close this seven-file local delivery. All delivery/source/used evidence bytes
+are frozen. No runtime remains running and no local release gate is outstanding.
+Completed responsibilities are in [the work ledger](registry/WORK.md).
+
+The source12 draft is preserved separately. Source13 is the sole selection;
+all used source/installation/harness bytes are immutable. No optional features
+or unchanged predecessor reruns are selected. Final pages disclose local
+Windows/same-host evidence, the narrower publication-type fragment, finite
+capacity and undecided license. Broader goal remains active; useful growth,
+broad-library interoperability, scale and independent hosting are not claimed.
+
+## Historical closing checkpoints
+
+The following status/assignment descriptions are preserved chronology, not
+current pending work or competing source edit authority.
+
+### Earlier v2 closing gates
+
+**18:36 Chicago central blocker and successor:** the actual reciprocal submit
+was safely refused because source elaboration cannot see the public checked
+auxiliary `t0.rec_1`. The pinned runtime documents the missing frontend
+registration step. Root selects fresh source13's minimal AgentClient frontend
+repair; no kernel/network change. See
+[contract](../experiments/auxiliary-frontend-01/CONTRACT.md). Source12 FAIL stays
+retained (24.75 Job CPU seconds); all four native refusal outputs match their
+expected markers, but their harness command assertion failed and needs actual
+outcome audit, not another native run. The source12 delivery remains a draft.
+
+18:49 Chicago: source13's two-file repair and preparation wrapper passed
+independent review. Fresh package/support build passed and was audited
+(`EXERCISE-REVIEW.md`),19.203125 inclusive CPU seconds. Root copied the exact
+source13 archive/manifest/receipt into final v2; the earlier source12 draft
+is retained separately. One reviewed fresh two-node reciprocal exercise is
+running; no success is presumed. Its unchanged Count source must now elaborate
+through the repaired frontend and survive both fresh canonical checks and
+return admission. Four actual source12 native refusals are independently audited
+despite their retained path-string harness failure, so no rerun is selected.
+
+The fresh source13 run then established actual Count capture, both fresh native
+checks/inverse identity and substantive main/auxiliary use, but publication
+refused the theorem type's single natural-literal node. The existing public
+index supports only native type tags0-5, an insufficiently documented support
+restriction. Original run remains FAIL,396.15625 disjoint Job CPU seconds and
+364.926295 wall seconds. Product/source13 bytes stay unchanged. Selected
+continuation uses the same nodes and identical mathematical equations, changing
+only theorem spelling `1` to `Nat.succ Nat.zero`; no normalization or claim that
+the original publication passed. New six-call/two-stage continuation requires
+review and fresh evidence; expected final A7/3/568MiB, B9/4/712MiB stays within
+the original allowances and includes the refused publication and new submit.
+The companion release pages must disclose the publication type-fragment limit.
+
+| Gate | Actual status |
+|---|---|
+| Five-file public group-root repair | Eight focused tests and outcome audit pass; source12 frozen |
+| Fresh source12 package/install | Build/integrity audit pass; archive preserved |
+| Real Rose publication/transfer/fresh B admission | All eight public calls succeeded; original harness failure stays frozen. Separate finishing supplement passed with exactly two administrative statuses and no mathematical retry; actual audit in progress |
+| Genuine received main/auxiliary recursion and return theorem | Author deriving from actual public B reply/API; no execution or success claim yet |
+| Changed native-boundary refusal controls | Selected after actual positive fixture; no old campaign repeated |
+| V2 local distribution | Package/docs/integrity closure after actual gates; license undecided, no external publication |
+
+18:30 Chicago checkpoint: the finishing adapter now binds B's final snapshot to
+its actual acquisition result (not its initial snapshot). Independent review
+caught this before execution. The used adapter/clearance are frozen. Root is
+preparing the actual six-call reciprocal launch; its author binds the real
+packet, and a separate worker drafts only the user-facing v2 handoff. Native
+controls run serially after the reciprocal execution to avoid contention.
+
+The actual first exchange consumed 252.859375 disjoint Job CPU seconds,
+388.6535845 wall seconds and closed cleanly. `PUBLIC_ROW_ACTUAL_NATIVE_MEMBER_BINDING`
+is a harness failure: canonical names do not equal naive splitting of Lean's
+quoted pretty names. Do not edit/relabel or rerun the used allocation. Cost
+triage found the next initialization near baseline with identical native output;
+no new performance optimization campaign is warranted.
+
+### Active: complete public group-root path in source12
+
+Source11's component/native-build passes remain valid, but independent review
+refused its **unexecuted** Rose exchange: worker root-reference generation,
+public metadata and index validation still excluded group roots. See
+[actual finding](../experiments/nested-groups-01/FIRST-EXCHANGE-REVIEW.md).
+Do not spend a known-negative runtime on these explicit restrictions.
+
+Root selected `product-local/group-roots-source-12`, exact verified 114-payload
+source11 copy, zero reparse entries. [Contract](../experiments/public-group-roots-01/CONTRACT.md).
+Complete existing F4 group-root semantics, first-original-type metadata, shared
+worker reference selection, and complete checked descriptions for group offers.
+Group roots already exist in the formal schema; no native/foundation/network
+change is needed. Since no bare group was previously publicly admissible, all
+group offers may receive full descriptions while keeping theorem/definition
+behavior unchanged. The existing description cap stays in force.
+
+Three disjoint agents author canonical metadata, focused public-seam tests, and
+independent review; root handles checking/API/locks/integration. No source12
+execution yet. Reuse the source11 nested tests/build evidence and adapt its
+unexecuted exchange harness after this central plumbing is reviewed. Source10
+remains the usable delivery; neither source11 nor source12 is qualified yet.
+
+Implementation and eight focused public-seam groups are now held. The complete
+[source map](../experiments/public-group-roots-01/SOURCE-MAP.md) explains five
+changes, with 109 unchanged payloads and matching asset locks. The preparation
+adapter reuses the prior package/build scaffold; the exchange author adapts the
+unused eight-call Rose draft into the new experiment, preserving old bytes.
+No old component, transport, custody or lifecycle campaign is being repeated.
+
+The eight public-seam contract groups have now passed once in
+`experiments/public-group-roots-01/contracts-01`, zero failures/errors/skips,
+clean closure, 50.109375 inclusive worker Job CPU seconds (controller 5.140625
+separate). Source12 and used tests/runner/map/notes are frozen. Actual outcome
+review precedes fresh packaging. No source12 Rose/native acceptance yet.
+
+The independent component outcome now passes its exact scope. Fresh source12
+package/support build also completed once, clean closure, 50.84375 inclusive
+Job CPU seconds. Archive SHA-256
+`365c2727de1563d16e0981109ce44ead53298e7490a5cc6045218459c482c9e7`.
+Used preparation/package/install remain frozen; no node initialized yet. The
+reviewer combines actual build audit with Stage A prelaunch. Continuation author
+caught a stale receiver snapshot in the unused exchange handoff; root corrected
+it to final public status before launch. This avoids an unnecessary failed
+continuation and does not change the product. Next: real Rose exchange.
+
+The actual build/prelaunch review passes its scoped gates. Root read it,
+created `FIRST-EXCHANGE-CLEARANCE.json`, and launched the single source12
+`first-exchange-01` run. Used exchange script/plan/clearance are now frozen.
+Nodes are fresh; the run is not yet a success. Continuation retains these same
+states and will use B's actual public checked packet, never guessed recursor
+arguments or a replacement datatype. The overall goal remains active.
+
+### Retained source11 component/build checkpoint
+
+`product-local/nested-groups-source-11` is selected, initially an exact verified
+114-payload source10 copy. See [contract](../experiments/nested-groups-01/CONTRACT.md).
+Native and codec authors implement the existing EXTRACT1/auxiliary-selector
+semantics; a third agent independently reviews both. Root owns focused tests,
+public checked-interface compatibility, asset locks, execution and integration.
+The group-wide nested count is shared, not summed; `[3,k]` denotes first-type
+`rec_k`, and recursor universes come from the actual inventory. Exact checked
+native inventory equality remains mandatory. Source11 is now frozen after its
+first execution: all nine focused native-free groups passed once in
+`experiments/nested-groups-01/contracts-01`, clean termination, 14.578125
+inclusive worker Job CPU seconds. RESULT SHA-256
+`d828870591d5abd174cf1cb9941f57751ef57212a37ba36aad4f88cda8b0928b`.
+Independent component-outcome review passes. The fresh source11 package/support
+build also passed once with clean closure (14.40625 inclusive Job CPU seconds),
+using `nested-groups-package-11` and `nested-groups-integration-11`. Independent
+build/outbound-exchange prelaunch review is underway. No actual Rose acceptance
+or reciprocal-use evidence exists yet. Archive SHA-256:
+`3108ce0086da817926d9d4322e663140048bd48e76e36bfd502c698cf2165aae`.
+
+Concrete public-interface gap: current admission describes only the root and
+definition inspection omits auxiliary recursor references. The narrowly selected
+repair expands descriptions for newly supported nested group-type offers only,
+within the existing 256-reference bound, and recognizes auxiliary references in
+ordinary definition inspection. Ordinary non-nested admission stays unchanged.
+Next: A's ordinary Rose publication, B's transfer/fresh admission and public
+checked eliminator descriptions; then receiver-authored count definitions and
+a returned theorem using the actual auxiliary eliminator. Changed-boundary
+native refusal controls are separately drafted, not executed or qualified.
+No old encoder, transport or lifecycle campaign is repeated. Source10 remains
+the frozen usable delivery; the overall goal is active, not achieved.
+
+The following post-handoff narrative records the preceding completed cycle;
+its former next-work wording is superseded by this section.
+
+### Post-handoff full-goal continuation
+
+The six-file source09 local handoff below is complete and immutable. The full
+goal remains active. The preceding turn was progress (new build/runtime/audited
+delivery), not a no-progress or blocked turn. Root is inspecting the measured
+whole-workflow cost and comparing two concrete central gap reviews, not
+reopening release qualification or automatically adding optional mechanisms.
+The [package-cost baseline](../experiments/package-cost-01/BASELINE.md) records
+341.984375 CPU seconds in five mathematical calls versus 113.0 in nested stage
+Jobs, with existing 25-28 s package-read metrics. Historical profile and exact
+encoder source correspondence make a new baseline-only profile duplicative:
+the authored profiler is shelved unexecuted. The new selected component work is
+[short-header encoding](../experiments/short-header-01/PLAN.md), preserving every
+validation/traversal check. Candidate, differential tests and bounded two-pair
+actual-reader comparison passed independent static review. `qualification-01`
+passed twelve groups; `benchmark-01` passed all 24 reads with median paired CPU/
+wall ratios 0.688461/0.679034 and exact outputs. Both independent outcome audits
+pass their component scopes; their total disjoint worker CPU is 85.953125 seconds.
+Root selected fresh `product-local/short-header-source-10`: all 114 source09
+payloads verified before/after copying, then exactly three changes (encoder,
+embedded loader pin, asset-lock helper rows), 111 unchanged. [Map](../experiments/short-header-01/SOURCE-MAP.md).
+The next work is focused binding tests and one fresh-install transfer/admission,
+not another comparative network campaign. Independent final prelaunch review
+cleared preparation; the fresh source10 package/support build completed once
+in `experiments/short-header-01/preparation-01` and now passes its independent
+outcome audit. It used 31.359375 inclusive Job CPU seconds, with clean closure;
+114 payloads and all archive/build bindings agree. Source10 and its used four
+orchestration files, source map and binding adapter are now frozen. The separate
+six-case binding allocation passed with clean closure, 5.109375 worker Job CPU
+seconds and its independent actual-outcome audit. Root read that audit and
+issued the separate `BINDING-CLEARANCE.json`; the reviewed eight-call/four-stage
+installed scenario completed once in `integration-01` with raw
+`PASS_SOURCE10_INSTALLED_ENCODER_PENDING_INDEPENDENT_AUDIT`. Actual installed
+new helpers reproduced the prior Compose package/plan; three TLS responses
+supplied the fresh receiver, which admitted after service stop. All Jobs closed,
+no pending work, 158.6875 disjoint runtime Job CPU seconds, 159.8781085 wall
+seconds. The independent installed outcome audit now passes
+`PASS_SELECTED_SOURCE10_INSTALLED_ENCODER_NOT_WHOLE_V1`; root read it fully.
+The six-file [successor handoff](../deliverables/2026-09-23-short-header-local-candidate/START-HERE.md)
+is now complete/frozen, with final independent copied-file integrity PASS at
+SHA-256 `68d1af2b7c62de887af1a0eed5373b33e3ec8dc6944cbda8fe7d8b952c05a1e6`.
+Root read that report fully. No further runtime test is selected for this encoder change. This is
+not whole-goal closure or a whole-workflow speedup comparison.
+Prior constructor rejection and incomplete
+checked-insertion timing stay unchanged. Mathematical coverage and continuation
+reviews are complete; no duplicate lifecycle test is selected.
+
+The bounded nested-inductive decision review is complete. Deduplication found
+the selected EXTRACT1 recovery design and existing auxiliary selector `[3,k]`;
+no new identity theory or known-negative Rose run is needed. Root read the
+complete EXTRACT1 note, pinned source-capture API note and
+[decision memo](cycles/2026-09-23-nested-group-decision.md). The memo recommends
+a separately selected schema-preserving implementation of those exact existing
+semantics, followed by positive received-Rose main/auxiliary-eliminator use and
+fresh return verification. This is broader reusable mathematical vocabulary,
+not a source10 release blocker. Root's next decision is its exact source delta
+and finite positive/changed-boundary gate before any implementation or launch.
+No source11, new harness, product edit, schema extension or runtime execution
+has yet been selected. All bounded agent assignments are complete; full goal
+remains active. Memo SHA-256:
+`1d6e9306d4ff7c25fd9e70e31873f97ac7222edc277df2754d480d83cdf664b2`.
+
+### Frozen delivered baseline: source09 census repair
+
+This checkpoint supersedes earlier selected/next-work wording in the retained
+context below. The canonical workspace remains unchanged.
+
+- **Selected successor:** `product-local/stage-census-source-09`, the verified
+  exact source08 copy with only the held `py/run_stage.py` repair. Complete
+  read-only verification finds 114 payloads, 113 unchanged, exactly one explained
+  runner delta, no missing/extra files or observed successor reparse entries.
+  [Complete source map](../experiments/stage-path-census-01/SOURCE-MAP.md).
+  Runner SHA-256: `bdd2cbc28258f49ef08b678ba54b437ff541ef4deb0af4aa36795d2baa19b028`.
+- **Actual completed evidence:** the deterministic stdlib-only probe passed six
+  groups; its independent [outcome audit](../experiments/stage-path-census-01/PROBE-OUTCOME.md)
+  qualifies the simulated reachable namespace mechanism only, not a product
+  repair, installed workflow, or actual incident cause. There was no product
+  import, native stage, or network use in that probe.
+- **Failure remains visible:** source08 preparation01 packaged successfully but
+  failed in the inherited census before initialization. Its exact transient
+  entry/disjunct and cause remain undetermined. Keep its entire failed allocation,
+  package, installation, used harness and 32.625 observed Job CPU seconds.
+- **Source/test checkpoint:** the exact held cut passed independent
+  [static source/harness review](../experiments/stage-path-census-01/SOURCE-REVIEW.md).
+  Root then ran `contracts-01` once: 12 tests, zero failures/errors/skips, clean
+  termination, 1.265625 observed worker Job CPU seconds and 38,662,144-byte peak
+  private commit. The actual [result](../experiments/stage-path-census-01/runs/contracts-01/RESULT.json)
+  is `PASS_PENDING_INDEPENDENT_OUTCOME_AUDIT`; it claims no native stages,
+  network connections, or mathematical acceptance. Its independent outcome
+  [audit](../experiments/stage-path-census-01/OUTCOME-AUDIT.md) now passes the
+  selected census scope. The patch changes only resolved
+  DOS/UNC comparison spelling and bounded refusal diagnostics, not mathematical
+  checking, actual I/O paths, entry/byte/resource limits, schema, wire, or TLS.
+  [Implementation checkpoint](../experiments/stage-path-census-01/IMPLEMENTATION.md).
+- **Actual fresh preparation:** package and support build passed with all 114
+  payloads bound, clean Job closure and 15.578125 observed inclusive Job CPU
+  seconds. The source09 archive is 3,782,752 bytes, SHA-256
+  `015894dea22164802b9683cf6545a6c9ab04ec2098c9fd9684b8fff34e9014ed`.
+  The independently reviewed `integration-01` completed exit 0 with
+  `PASS_MIXED_EXPOSURE_PENDING_INDEPENDENT_AUDIT`: fresh Beta publication and
+  acquired-only D1 shared one actual managed catalog; receiver freshly admitted
+  both. Twelve requests/five stages/one replay, zero renewals, all Jobs closed
+  and no pending work. Runtime wall 375.5965236 s; disjoint runtime Job CPU
+  391.8125 s, or 407.390625 s including preparation. Used source09, package,
+  installation, state and harness are frozen. The independent
+  [installed outcome audit](../experiments/stage-path-census-01/INTEGRATION-OUTCOME-AUDIT.md)
+  passes `PASS_SELECTED_SOURCE09_INSTALLED_MIXED_ROLE_NOT_WHOLE_V1`, confirming
+  actual proof-body dependency (D1 node 148), distinct P/C authority, fresh
+  receiver statements/foundation, exact accounting and clean shutdown.
+  The six-file [release handoff](../deliverables/2026-09-23-v1-local-candidate/START-HERE.md)
+  is complete and frozen. Its
+  [final integrity report](../deliverables/2026-09-23-v1-local-candidate/HANDOFF-INTEGRITY.md)
+  passes the static local-handoff scope, SHA-256
+  `085f938dacca521fd8eb598432ea9e2d465a7b8eaf6ca69f558df690ddd2d226`.
+  All six files, 114 payloads, exact document/evidence identities and selected
+  link/encoding/credential-pattern checks are recorded. No services or workers
+  remain from the selected run. Failed source08 cost/evidence stays visible.
+  The local handoff checkpoint is achieved; the broader goal remains active,
+  with no public release, independent-host, sustained-growth or broad-library
+  claim. No new optional mechanism or repetition of passed trials is selected.
+
+### Retained preceding context
+
+- **One canonical project tree:** `E:\Distributed Trustworthy Mathematical Knowledge Network`.
+  Recovered misplaced files are hash-verified and preserved. The retired
+  Verifiable directory contains only its exact retirement notice; the guard
+  passes. Reopening the desktop task at the correct cwd remains outstanding.
+  Do not force a junction or edit private app state.
+  [Repair record](audits/workspace-repair-2026-09-23/REPAIR.md).
+- **Preserved reciprocal baseline:** `product-local/operator-source-05` and
+  `product-local/operator-package-05/math-commons-source.zip`. Exact archive
+  SHA-256: `94463e9d56c980bdcdbe1656f4114ff6db473d0d9481b9684461d883634ea493`.
+  All 114 payloads are audited: 108 unchanged from remote04, four changed
+  documentation/allowlist files and two provisioning/documentation additions.
+  All runtime/mathematical/protocol code remains unchanged. The actual fresh
+  used installation is `product-local/operator-use-02/install`.
+  No frozen source, used installation or state may be edited.
+- **Implemented transport:** config-5 owner-selected IPv4/pinned TLS 1.3;
+  explicit plaintext loopback remains separate. Wire/catalog version 2,
+  receiver-local Lean acceptance, exact canonical packages, paged peer
+  discovery and one-pass finite owner hosting remain selected. Remote04 passed
+  14 bounded transport adversaries, owner hosting and genuine theorem return
+  through surviving custody with a fresh receiver.
+  [Remote qualification](../experiments/remote-transport-01/QUALIFICATION.md).
+- **Preserved central result:** the operator05 packaged workflow completed an
+  assisted second attempt. A no-history operator independently built/setup
+  Alpha and Beta, acquired genuine D1, authored Beta's homomorphic extension,
+  returned it to Alpha, authored Alpha's product-aggregation corollary, and
+  returned that to Beta for fresh local checking. Both mathematical audits and
+  the operational audit pass. One agent operated both nodes on one host.
+  [Integrated qualification](../experiments/operator-onboarding-01/QUALIFICATION.md).
+- **Failures are retained:** first setup failed under PowerShell 5.1 native
+  stderr logging; a fresh allocation used the already documented PS7 with one
+  disclosed correction. Beta's first source was refused and independently
+  repaired. Neither old failure nor its cost is erased. Original 45-minute
+  window unchanged; product operations ended by 09:59:34 UTC and evidence was
+  sealed at 10:03:37 UTC, 34m37s after the original start.
+- **Measured scope:** 22 ordinary requests, nine mathematical stages, one
+  definition inspection, three source attempts; 372.03125 s disjoint observed
+  inclusive Job CPU including failed setup and source. Largest single public
+  Job private-commit peak 2,746,036,224 bytes; 167,505,548 retained logical
+  runtime bytes across both allocations. These are not complete model/machine
+  costs. No active/pending work, surviving listeners or worker children.
+- **Post-seal selected-key scan passed:** 1,687 files / 163,011,913 bytes;
+  exact two known test keys/body prefixes only, excluding private storage.
+  No general secret-detection or future-file guarantee.
+- **Latest selected frozen candidate:** `product-local/peer-contacts-source-06`
+  and `product-local/peer-contacts-package-06`. Config 6 / physical database 5;
+  114 payloads, 101 unchanged and 13 explained changes from operator05. No
+  Lean/checking/wire/TLS/supervision implementation changed. Twelve native-free
+  contracts and exact package/support build pass independent scoped audits.
+  [Download, pins and operator entry](../deliverables/2026-09-23-contact-continuation-candidate/START-HERE.md).
+- **Actual contact continuation03 completed:** the retained initialized node
+  received genuine D1, added third alias `beta`, replayed the exact addition,
+  refused changed-byte/same-ID conflict, reused its old remote handle, and
+  freshly admitted genuine Beta while retaining earlier checked state.
+  Config/head/provider/quota remain unchanged across contact administration.
+  Final usage is eight requests, three stages and 616 MiB against 768 MiB;
+  three contexts, two provider entries, three contacts and no pending work.
+  Independent terminal audit passes; its exact disposition is in
+  [qualification](../experiments/peer-contacts-01/QUALIFICATION.md).
+  Suppliers were static copies of audited public views, not new publications.
+- **Failures and cost remain visible:** integration01 failed on the harness's
+  unsupported sixteen-process Job; integration02 accepted initialization but
+  failed on its fixture's five-root argument to an exactly-four-root API.
+  Continuation03 retained initialization and consumed quota, without rebuild,
+  reinit or grants. All Jobs are closed. Package/build plus runtime02/03 cost
+  203.921875 observed disjoint Job CPU seconds; 204.28125 with native-free
+  tests. These exclude model/controller/reviewer and prior theorem production.
+  Source, package, scripts, used installation/state and failed runs are frozen.
+- **Next central implementation selected:** bounded plural custody exposure,
+  allowing one participant to offer several acquired roots in one managed
+  catalog. Root verified a fresh exact 114-payload source06 copy at
+  `product-local/aggregate-custody-source-07` before edits.
+  [Contract and gates](../experiments/aggregate-custody-01/CONTRACT.md).
+  [Independent priority challenge](cycles/2026-09-23-next-priority-challenge.md)
+  identifies the prepare/commit/service singleton restriction;
+  [continuation triage](cycles/2026-09-23-continuation-triage.md) finds existing
+  renewal/manual-service paths. General migration is not selected. Unexposed
+  material at irreversible resource exhaustion remains a disclosed gap.
+  No wire/schema/native-checking change or lifetime expansion is planned.
+  Root handles helper/docs/integration; separate author, tests and reviewer
+  own disjoint files. Static source/API review passes. The native-free
+  `aggregate-01` run passed all 13 tests, with zero failures/errors/skips,
+  1.171875 observed worker Job CPU seconds and 77,791,232-byte peak commit;
+  process termination was clean. The independent
+  [native-free outcome audit](../experiments/aggregate-custody-01/NATIVE-FREE-OUTCOME-AUDIT.md)
+  passes the scoped contracts and actual evidence bindings.
+  Mathematical semantics and final network service are mocked in that suite;
+  real SQLite/view framing is exercised. The installed-harness independent
+  prelaunch review passes after binding the exact actual audit/result/input
+  tuple and all eight reviewed changed payloads. Root is now launching the
+  first fresh package/build allocation, which now passes with all 114 payloads
+  bound and clean termination (41.359375 observed inclusive Job CPU seconds).
+  The reviewed installed `integration-01` terminated
+  `PASS_AGGREGATE_CUSTODY_PENDING_INDEPENDENT_AUDIT`: actual holder service
+  supplied both roots after original suppliers stopped; receiver freshly
+  admitted both, with exact references/types/universe arities/foundation.
+  Holder research requests/stages stayed exhausted; no grants/publications.
+  All services/Jobs ended normally. Preparation + runtime used 194.546875
+  observed disjoint Job CPU seconds (195.71875 with the unit suite).
+  [Qualification](../experiments/aggregate-custody-01/QUALIFICATION.md)
+  now has the independent disposition
+  `PASS_SELECTED_INSTALLED_PLURAL_CUSTODY_NOT_WHOLE_V1`; root read the full audit.
+  Full v1 is not claimed.
+  Source07 and its reviewed harness are frozen. The selected workflow has six holder
+  requests/one stage, five receiver requests/two stages and no new authoring.
+  Do not repeat passed contact, reciprocal or seven-entry unknown-ID fold tests.
+  [Work ledger](registry/WORK.md) records exact current assignments.
+- **Selected next source:** `product-local/mixed-exposure-source-08`, an exact
+  114-payload source07 copy verified before/after creation. Thirteen explained
+  deltas implement optional acquisitions on publication `expose`, per-row
+  mixed managed authority, helper support and current profile documentation;
+  101 files including the mathematical checker/wire/schema are unchanged.
+  Four late prelaunch documentation corrections remove stale status/profile
+  claims; they change no runtime/test behavior.
+  [Contract](../experiments/mixed-exposure-01/CONTRACT.md) and
+  [source map](../experiments/mixed-exposure-01/SOURCE-MAP.md).
+  Final 13-change static source/harness review passes. The fresh `mixed-01`
+  native-free allocation passed 12 tests with no failures/errors/skips and
+  clean termination: 1.90625 observed Job CPU seconds, 3.0359369 s worker wall,
+  78,528,512-byte peak private commit. The independent
+  [actual-outcome audit](../experiments/mixed-exposure-01/OUTCOME-AUDIT.md) passes
+  the native-free scope; this is not Lean or installed-network qualification. Source08 and its used
+  suite/runner/notes/contract/results are frozen.
+  One fresh installed producer-publication plus acquired-root discriminator
+  binds that fixed audited result/input/audit tuple and passes independent
+  prelaunch review. First preparation-01 packaged successfully but support
+  compilation failed during `size_tree` with `SELECTED_STAGE_ENTRY_OR_PATH_LIMIT`.
+  All processes closed, 32.625 observed inclusive Job CPU seconds; no node
+  initialization or network operation occurred. Frozen failed evidence remains.
+  Final stage tree alone cannot identify the transient offending entry/count;
+  root and independent agents are diagnosing before any separately allocated retry.
+  The five used harness files and source-map note are frozen.
+  Installed mathematical qualification remains pending; release drafts are not final.
+  After scoped mixed qualification, prioritize the
+  [release-convergence checks](cycles/2026-09-23-release-convergence.md), not
+  another automatic optional mechanism.
+
+The full goal remains active. No second host is available; same-host evidence
+is not independently hosted deployment, but further local work is possible.
+Licensing is undecided and no external publication/deployment is authorized.
+Sustained useful growth, broad-library interoperability and large-network
+scaling remain limited/unestablished, not silently imposed as perfect-v1
+theorems. Avoid speculative identity, global-ledger or cryptography work.
+
+## Historical checkpoints
+
+The entries below retain prior decisions and then-current statuses. Their
+“current”, “next” and “latest” wording is historical, not competing live state.
+
+**Latest runtime result, 2026-09-23 08:32 UTC:** the installed remote04 passed
+the first seven real loopback-TLS cases under a 120-second/1024-MiB outer Job
+and finite service Jobs. Correct catalog/page/bundle transfer completed;
+wrong pin sent zero application bytes; wrong ALPN/plaintext/HTTP authority,
+stalled handshake and missing TLS close-notify were refused. All Jobs ended
+with zero active processes. Wall 7.81 s, Job CPU 1.25 s. This is inert transport,
+not owner-hosting authority, mathematical admission, the entire adversarial
+matrix or independent-host deployment. Evidence: `experiments/remote-transport-01/runs/tls-01`
+and `launch-tls-01`. The selected test-key/certificate leak scan also passes
+over 224 package/install/evidence files. Next: installed owner hosting and
+genuine D1 TLS custody/admission, with remaining transport controls in parallel.
+The older "no real TLS test yet" below is superseded by this entry.
+
+**Current execution checkpoint, 2026-09-23:** remote04's 22 source-only caller
+tests and the five finite transport-contract groups pass. The complete
+112-file map has exactly 13 reviewed changes; 99 baseline payloads, including
+all mathematical/wire assets, are unchanged. The successor package and fresh
+support build pass at `experiments/remote-transport-01/preparation-01`.
+The immutable new install is `product-local/remote-transport-integration-04/install`;
+[handoff](../experiments/remote-transport-01/INSTALL-HANDOFF.json) pins manifest
+and build receipt. No node initialization, real TLS test, mathematical transfer
+or external deployment has yet run on this successor. Those are the next gates;
+do not confuse packaging/source tests with them. Used integrated03 remains frozen.
+
+**Active implementation, 2026-09-23:** independent review of the
+[TLS contract](../spec/REMOTE-TRANSPORT-V1-REVIEW.md) is dispatch-ready, not
+software qualification. The exact 112-file integrated03 baseline was copied to
+`product-local/remote-transport-source-04`; only this successor is editable.
+Root owns config/caller/worker integration, transport agent owns `peer_service.py`,
+hosting agent owns `hosting.py`, and the test agent owns a finite native-free and
+loopback-TLS harness. See [allocation](../experiments/remote-transport-01/PLAN.md).
+No external bind, public deployment, used-state migration or release claim.
+This active entry supersedes the review-pending wording below.
+
+**New central execution, 2026-09-23 07:50 UTC:** the actual
+[direct-agent return](../experiments/direct-agent-return-01/run-01/RESULT.json)
+terminated `PASS_SELECTED_DIRECT_AGENT_RETURN_NOT_RELEASE`, exit 0. A fresh
+holder acquired D1's real publication; after the original service stopped,
+the holder served it and a fresh receiver obtained and independently admitted
+the exact audited theorem. Both finite services stopped normally, no pending
+requests or live children remain, and exact charges are retained. The run took
+about 94.54 seconds, not including D1 authoring/setup or model work. The independent
+[terminal audit](../experiments/direct-agent-return-01/RESULTS-AUDIT.md) passes. This is one same-host tested reciprocal return,
+not independently hosted operation, continued availability or growth efficiency.
+The next implementation priority is the explicit remote-capable peer profile
+identified below; the unchanged integrated03 installation remains frozen.
+
+**Current priority, 2026-09-23:** review and implement the proposed
+[remote-capable profile](../spec/REMOTE-TRANSPORT-V1.md), whose exact TLS,
+configuration, secret-handling and caller-boundary contract is now written but
+not independently reviewed or implemented. Misplaced files have been
+hash-verified and consolidated; the locked old path contains only a guarded
+retirement marker pending app cwd correction. The canonical root is
+`E:\Distributed Trustworthy Mathematical Knowledge Network`; all agents use
+explicit canonical paths. See the [workspace incident](audits/workspace-repair-2026-09-23/REPAIR.md).
+This current entry supersedes the older "awaits author" and integration-repair
+statuses below; failed experimental records remain unchanged.
+The [release recalibration](cycles/2026-09-23-release-recalibration.md) selects
+the now-executed replica return, an implemented remote-capable peer profile, independently
+operable installed continuation, and complete-workflow cost as the central next
+milestones. Current code hard-codes loopback in configuration, client and server;
+this is a concrete implementation limit, not merely unexecuted two-host testing.
+No external listener or deployment is authorized by the local qualification plan.
+
+**Actual independent contribution:** D1 used the shipped request helper and
+management API, corrected one refused source attempt, then submitted and
+published `TripleNestedReduction`. The [independent mathematical audit](../experiments/direct-agent-reuse-01/author-result/MATH-AUDIT.md)
+passes the frozen 79-node exact type, source binding, canonical replay and
+substantive prior-proof-dependency checks. There were two source submissions,
+one publication request and no inspections. This is a genuine nontrivial
+checked reuse/contribution endpoint, not unknown-result discovery or evidence
+of sustained growth. The selected config-4/wire-2 integrated03 package is
+unchanged. The [operational publication audit](../experiments/direct-agent-reuse-01/author-result/OPERATIONAL-AUDIT.md)
+passes and the real return has executed as recorded above. No whole-release, cross-host, comparative-efficiency or
+exponential-growth claim is justified.
+
+The entries below preserve earlier decisions, outcomes and then-current
+assignments. Their "next" or "latest" wording is historical, not a replacement
+for the active priorities above. Do not rerun old allocations from these notes.
+
+**Immediate integration repair, 2026-09-23:** the direct-agent setup stopped
+before peer requests because frontend package02 was built from the older
+`software/` product tree (wire 1/config 3), while the selected qualified
+one-pass release and U1 input fixture use wire 2/config 4. Both file maps were
+authentic but incompatible. Preserve `direct-agent-reuse-01/runs/setup-01`
+with its accepted initialization and failed service; no author attempt began.
+Do not downgrade the fixture. Assemble the exact latest qualified one-pass
+archive plus the Lean source-frontend repair in the new editable
+`product-local/integrated-frontend-source-03`, audit the complete baseline
+delta, and check actual `load_view` compatibility before a fresh setup.
+The older frontend tests retain their scoped mathematical evidence, not
+qualification of the newer combined release. Root [work instructions](../AGENTS.md)
+now make source selection explicit to prevent this regression recurring.
+
+**2026-09-23 central continuation:** the
+[second frontend integration](../experiments/lean-frontend-integration-02/RESULTS.md)
+completed ordinary first and second theorem submission/publication/admission,
+with actual checked proof reuse, and captured an imported `Nat.add_zero`
+dependency. Its complete gate nevertheless **failed**: the `sorry` fixture
+was refused by an earlier unsupported-string guard, while the harness expected
+a different native reason and the wrong public exit code. Do not relabel it.
+The separate [used-new-axiom test](../experiments/lean-frontend-negatives-03/RESULTS.md)
+now confirms the exact named-axiom guard, source binding, no artifact or head
+advance, quiescence, and complete 2-request/2-stage/272-MiB charge. Its harness
+still ended failed because it confused the actual integer `initialized: 1`
+with a JSON boolean; retain that failed record and use the actual evidence
+for this scoped safety judgment. No rerun is selected for that assertion bug.
+In parallel,
+the [direct-agent experiment](../experiments/direct-agent-reuse-01/PLAN.md)
+uses the already shipped request helper and management API to test independent
+nontrivial proof authoring and publication, without root forwarding calls.
+Setup admits the prior theorem's complete checked closure where supported,
+avoiding redundant reconstruction of its definition. This is not unknown-result
+discovery, sustained useful growth, or full release qualification. Delayed
+retrieval from surviving custody remains the next availability obligation.
+
+**Source-frontend repair background:** the
+[controlled diagnostic](../experiments/lean-frontend-context-01/RESULTS.md)
+confirmed that declaration-only reconstruction lacks `let` and `exact` tactic
+parser entries. The candidate now uses an imported local Lean frontend while
+preserving the data-only acceptance path. All 581 foundation bindings match
+under the existing canonical inventory comparison; a trivial multiline proof
+now elaborates and captures successfully. The fresh package builds and passes
+an independent [package/build audit](../experiments/lean-frontend-integration-01/PACKAGE-AUDIT.md).
+The [integration runner](../experiments/lean-frontend-integration-01/run_integration.py)
+exercised ordinary contribution/publication/admission, a second proof using
+the first, safe ambient lemma capture, and an incomplete-proof refusal before
+the failed gate described above. The
+[acceptance contract](../spec/SOURCE-FRONTEND.md) explains the two
+environments and unchanged fresh kernel replay requirement. The goal remains
+active; these elementary tests cannot establish useful growth or deployment.
+
+Updated: 2026-09-23 UTC. Root-maintained engineering priorities, not a mathematical task queue. The resumed architecture/software goal is active; the user accepts the delivered local candidate as a reasonable v1 baseline.
+
+**Current destination:** [publishable, deployable, usable architecture and software](../GOAL.md), with implementation/experimentation and conceptual/formal work together. No second physical machine is required to continue development or to qualify local operation. Independent-host behavior remains untested, not silently passed. Earlier blocked-status references below are historical. Frozen artifacts and licensing choices are unchanged.
+
+**Latest central result:** the frozen [U1 matched consumer trial](../experiments/useful-reuse-u1/U1-RESULTS.md) completed negatively. A discovered a catalog row but its only service expired before acquisition; B independently selected and freshly Lean-admitted the prior chunk theorem, then exhausted two submitted source attempts on Lean source diagnostics. Neither published the target or returned a new result. A separate [trivial syntax probe](../experiments/lean-agent-authoring-syntax/RESULTS.md) shows ordinary Lean accepts comparable multiline `by` forms, so the exact-context failure cause remains to be isolated. Valid operational receipts are not mathematical success. Do not relabel this as useful growth, causal treatment advantage, or v1 completion. The two immediate central work items are (1) conditional delayed retrievability from a surviving holder without a central ledger and (2) an affordable agent-side Lean check/revision loop before scarce final contribution attempts. Run new prospectively frozen tests for these, then a fresh full reciprocal-use/return trial. Preserve U1's exact failures and costs. Political attribution, global consensus and polishing old transport controls are not the priority.
+
+**Source-front-end hold, 2026-09-23:** a post-U1
+[exact-context trivial `by`/`let` diagnostic](../experiments/exact-context-source-syntax-01/RESULTS.md)
+reproduced the same parser/goal symptom under the retained admitted B
+plan/inventory, although the direct probe was not a bounded public product
+call and does not identify the cause. The fresh
+[S1 authoring plan](../experiments/source-feedback-s1/PLAN.md) therefore
+holds its six-submit agent allocation. Diagnose and independently qualify the
+selected Lean source front end first; then test charged iteration and a
+self-service local agent API that does not require root to relay every call.
+The operator-mediated S1 design alone would not establish deployable agent
+autonomy. Delayed retrieval remains the parallel central availability issue.
+
+**Preserved first experiment:** the user-authorized selected-foundation/import/use/re-export path succeeded and received independent native and canonical-artifact reviews; see the [executed checkpoint](cycles/2026-09-20-executed-reciprocal-feasibility.md). Historical NOT RUN records and frozen sources remain unchanged.
+
+**Current central obstacle:** move from a finite installed reciprocal-use demonstration to continued useful operation. The G02/H01 reciprocal loop, minimal peer controls and genuine interrupted-transfer recovery now have passing independent audits. The first failed G attempt and every consumed charge remain preserved. Same-host success does not qualify independent-host deployment, broad retrieval or useful growth.
+
+## Central work first
+
+**Live 2026-09-22 checkpoint:** [central priority, preserved U0-01/U0-02 failures and U1/U2 design obligations](cycles/2026-09-22-live-central-checkpoint.md). U0-02 reached a product-accepted private target `Prop` definition, then its evidence-only capture failed on a wrong DAG-shape assertion. The complete U0 gate is not passed, but independent read-only semantic/operational audits support a narrower exact statement-feasibility result from retained bytes. No theorem proof, U1/U2 run, or release-readiness claim follows.
+**Later same-day status:** the exact U1 expected type and two authentic seven/eight-entry static transport fixtures have independent byte/receipt audits. The first build allocation failed and remains charged; a fresh second allocation passed. A disposable node then configured and initialized successfully, and one ordinary first `peer_find` returned the pinned eight-row catalog through the bounded service/coordinator path. The full [startup-fit-01](../experiments/useful-reuse-u1/STARTUP-FIT-01-DISPOSITION.md) gate nevertheless **failed** at natural terminal: the selected service measured 600.130 seconds after its 600-second deadline, violating the helper's overstrict `<=600` observation. Its original failure is preserved. A prospective 600–601-second full time-expiry rule and matched helper/coordinator source cuts now have static independent review; arm-specific plans, onboards and packets remain to freeze. No redundant diagnostic rerun is selected solely to relabel the failure. The [live checkpoint](cycles/2026-09-22-live-central-checkpoint.md) records the evidence. No fresh U1 arm, agent selection, new proof, or return has run. The next central operation is equal fresh onboarding and no-history consumers, not ledger/attribution work.
+The [U0 evidence disposition and U1 frontier](cycles/2026-09-22-u0-disposition-and-u1-frontier.md) allows prospective U1 preparation from that narrow retained evidence without replaying Lean, while keeping both failed U0 gates failed and withholding U1 consumer dispatch until its exact target, fixture, agent-boundary and cost controls are frozen.
+
+**Latest selected local candidate (2026-09-22):** the
+[one-pass peer service package](../deliverables/2026-09-22-onepass-peer-candidate/START-HERE.md)
+has separate scoped passing protocol, 20-step genuine Lean, and two-slot
+durable-hosting audits. Its owner service performs one complete view
+authentication per session and still checks selected authority and requested
+bytes. [Exact support and limits](../deliverables/2026-09-22-onepass-peer-candidate/RESULTS.md).
+This closes the narrow duplicate-startup-load seam, not full-workflow
+affordability or growth. The [read-only cost frontier](cycles/2026-09-22-native-cost-frontier.md)
+has attributed the 607-second chain only to the level its receipts support;
+the next local central work is [preflight and then test demand-driven,
+nontrivial agent reuse](cycles/2026-09-22-central-next-decision.md) against a withheld-result/local-library control. These
+must be designed as consequential discriminators, not another transport
+polish or an assumed speedup. Independent-host deployment and licensing
+remain unresolved; the latter does not dictate mathematical acceptance.
+The [phased central decision](cycles/2026-09-22-central-next-decision.md)
+selects U0 statement/corpus feasibility before any matched agent dispatch.
+The [read-only historical-package preflight](cycles/2026-09-22-useful-reuse-preflight.md)
+identified the exact eighth theorem and a disclosed static fixture route;
+the [direct-Lean syntax probe](../experiments/useful-reuse-u0/SYNTAX-PROBE.md)
+elaborated the proposed target but did not test product canonical capture.
+
+**Preserved paged predecessor (2026-09-22):**
+[paged peer discovery](../deliverables/2026-09-22-paged-peer-candidate/START-HERE.md)
+is locally qualified after fifteen protocol contracts and an independently
+audited genuine Lean receiving, reuse and contribution chain. Its immutable
+catalog pages raise the finite bound to 256 entries; a mixed fixture exercised
+the 33rd position, while one ordinary returned contribution was independently
+received. [Exact scope](../deliverables/2026-09-22-paged-peer-candidate/RESULTS.md).
+The frozen source, used installation, previous archives and all evidence are
+preserved. Checked package insertion passed ten differential tests and review,
+but its fixed [timing attempt](../experiments/checked-package-insertion/TIMING-OUTCOME.md)
+stopped at 27/48 reads under the predeclared 150-second start-read deadline;
+there is no four-pair gate result or product adoption. The then-next
+[one-pass owner-authorized hosting discriminator](cycles/2026-09-22-next-central-gap.md)
+addressed that predecessor's duplicate view authentication; its qualified
+successor is summarized above.
+Prior dated entries below are historical snapshots, including their then-current
+next steps.
+
+**2026-09-22 product filtered-discovery integration:** the actual schema-4 API
+and ordinary `make_request.py find` helper now pass sixteen native-free
+contracts, independent source/outcome review and package/extraction byte audit.
+Its fresh real-Lean follow-through also passes: 27 fixed steps, two proof-valued
+definitions, exact Eq-symbol discovery, separate receiving admissions and an
+actual canonical dependency back to the first result. Both outcome audits are
+complete; root read them. See the [native checkpoint](../experiments/indexed-discovery/NATIVE-RESULTS.md)
+and [updated local candidate](../deliverables/2026-09-22-indexed-discovery-candidate/START-HERE.md).
+Editable source remains `product-local/indexed-discovery-source-01`; the used
+`product-local/indexed-discovery-01` installation/state and all prior archives
+are preservation-only. No metadata/native attempt needs rerunning merely to
+continue. No service remains running; licensing and independent-host evidence
+remain unresolved without blocking local work.
+
+**Next central decision:** extend useful peer discovery beyond the separate
+32-entry remote-catalog ceiling and address full-workflow cost. Select the
+smallest consequential bounded same-host experiment before widening network
+claims. The new index is exact local type-symbol membership, not semantic
+search or evidence of unknown-result retrieval/useful accumulation at scale.
+Do not spend another cycle repeating these now-qualified tiny proof controls.
+
+**2026-09-22 easy indexed-discovery result:** ten native-free tests passed in
+one fresh allocation, with independent source and outcome review. Exact-symbol
+pages agree with an independent input-ledger oracle; snapshot/cursor, duplicate,
+provider, rollback/reopen and exhaustion controls pass. Synthetic catalogs of
+64/1024/8192 rows use indexed lookup; sparse-page VM instructions stay at 125
+(not a constant-time or whole-node speed claim). See the
+[result and evidence](../experiments/indexed-discovery/RESULTS.md).
+The product and release archives are unchanged. Next integrate the optional
+single-symbol predicate in a separately versioned source cut, with actual
+API byte-budget/cursor/retry/transaction tests; do not silently alter schema-3
+nodes or rerun completed native/network qualifications. Peer catalog limits and
+useful-growth evidence remain separate issues.
+
+**2026-09-22 fresh integration completed:** the preceding turn was progress:
+its audited correctness/timing evidence selects serialize-once integration.
+Root prepared a separate three-file source overlay, packaged it with the unchanged
+selected builder and verified a fresh extraction at
+`product-local/serialize-once-01/install`. Previous product trees and archives
+remain unchanged. Fresh build/configuration, exact previously qualified Compose
+submission/publication, admission, inspection and three binding contracts passed.
+An independent operational review and separately disclosed execution-independent
+canonical audit both pass. Root read both. See the
+[integration checkpoint](../experiments/lean-serialization-efficiency/INTEGRATION-RESULTS.md)
+and [updated source candidate](../deliverables/2026-09-22-serialize-once-candidate/START-HERE.md).
+Next focus on useful indexed discovery, using this source cut as the new baseline;
+do not repeat completed native/transport tests or treat unavailable hardware as
+a blanket development blocker.
+
+**2026-09-22 measured serialization slice:** the subsequent
+[serialize-once probe](../experiments/lean-serialization-efficiency/RESULTS.md)
+passed ten differential correctness tests and the frozen paired reader-cost
+criteria, both with independent outcome PASS audits. It removes one duplicate
+payload encoding without caching or skipping
+checks. Its subsequent fresh integration above is separate from the original
+product tree and baseline archive and exercises those configured-loader bindings.
+Do not rerun completed easy tests or relabel this as a whole-agent speedup.
+
+**2026-09-22 easier-test slice:** the user asks for easier tests on the available
+machine. The unchanged 18 transport tests passed in fresh `transport-02` with
+independent outcome review. Three additional small real-socket cases passed
+in fresh `local-network-smoke-02`: separate child-process supplier turnover,
+truncation/close, and hostile Host refusal followed by valid discovery. They reuse the existing
+60-second Job supervisor, synthetic inert fixtures and retained failure logs;
+they do not rebuild Lean, modify product code or establish mathematical acceptance.
+Root executed; `simple_network_tests_author` authored the three cases;
+`growth_cost_design` independently reviewed runner/cases and both outcomes; the
+fresh three-case run has an audited PASS. Smoke01's
+over-specific stopped-port assertion remains a retained failure; the corrected
+case accepts the documented refusal-or-timeout family without weakening the
+natural-exit/no-catalog requirement. [Results](../software/tests/EASY-TESTS-RESULTS.md)
+and [simple commands](../software/tests/EASY-TESTS.md) provide the checkpoint.
+
+Parallel source triage found two possible next improvements, neither adopted:
+`Store.add` serializes one payload twice (a serialize-once change can be tested
+differentially without caching); unknown-answer formal retrieval needs persistent
+symbol postings rather than the legacy per-call scanning index. Current public
+`find` returns four rows **per page**, not four in total. Prioritize a measured
+consequential change after these easy tests, not a large speculative rewrite.
+
+**Final local-candidate checkpoint:** both independent consumer endpoints are
+published and independently audited, including B's reachable peer-proof use.
+Package02 and its real fresh-install hosting/helper workflow pass scoped audits.
+Independent change-impact review binds relevant legacy recovery/replica evidence
+to shipped code without blanket reruns. The usable local candidate has an
+authoritative [support/results statement](../deliverables/2026-09-21-local-v1-candidate/RESULTS.md).
+The final independent handoff review and root's document/artifact integrity
+check passed; [delivery checkpoint](../deliverables/2026-09-21-local-v1-candidate/HANDOFF-INTEGRITY.md).
+The principal software gate is actual independent-host qualification; no second
+machine is available. Licensing remains undecided. The v1 objective is unchanged;
+neither packaging nor this bounded success establishes scalable useful growth.
+
+### Post-handoff goal continuation audit
+
+2026-09-21. The delivery turn was **progress**: it completed the matched-result
+synthesis, support statement, independent handoff review and artifact integrity
+checks. The first automatic continuation re-read current goal/readiness/source
+and commissioned fresh `remaining_core_triage`; no additional central locally
+implementable blocker was established. Two contacts and bounded catalogs are
+explicit v1 limits, not a required central server. Lifetime exhaustion does not
+promise safe automatic rollover: only surviving already-exposed complete
+closures fall within the conditional reconstruction policy; private/unoffered
+work and all historical state do not.
+
+This continuation adds no implementation or new runtime qualification and is
+**no progress toward closing the remaining gate**, not a verified wait. There
+is no live qualification handle to await. The same external condition has now
+been observed in two consecutive goal turns: the delivery turn and this first
+continuation. Another authorized separately operated host is unavailable;
+licensing/publication remain deliberately undecided. The goal remains active
+at this audit count. Preserve the delivered cut; do not manufacture progress
+through peripheral additions or relabel local evidence as independent hosting.
+
+**Second automatic continuation / third consecutive blocker observation:**
+the previous turn is classified no progress, not a verified wait. Root re-read
+the current goal, readiness and unexecuted two-host profile, confirmed the
+delivered ZIP/readiness hashes unchanged and observed zero project test
+processes. No new host, connection authority, license decision or qualifying
+evidence was supplied. The same external gate remains after delivery and two
+continuations; the blocked threshold is satisfied. The goal tool successfully
+set **blocked**, never complete or paused. No candidate files or frozen evidence
+were changed. Resume the unchanged objective when an authorized independent
+host becomes available; license/publication still require the owner's later
+decision. This status update is not engineering progress or a new runtime test.
+
+**17:10 Chicago execution frontier, superseding older pending statements:**
+the exact benchmark proposition definition passed canonical-value audit without
+being mistaken for its proof. Both matched consumer nodes are on-boarded; fresh
+independent consumer dispatch is next. Request-builder contracts are audited;
+hosting contracts passed and actual fresh-install service testing is next.
+One packaging fixture-count regression is preserved and being repaired without
+changing product limits. Root is integrating a fresh local candidate before
+19:00. User confirms no second host and no license choice; these remain explicit
+deployment/public-distribution boundaries. No speculative optimization is selected.
+
+**Newest execution update:** replica-native02 has an independent custody/native/
+canonical-reuse PASS; native01 remains failed and charged. Corrected source-package
+contract02 and the actual 108-file development archive are independently audited.
+Fresh archive extraction plus the ordinary five-command fold-vocabulary workflow
+has an independent body/publication PASS. The independent append/fold source is
+ready; producer02 completed six requests/four stages and published it, with
+independent mathematical/operational PASS audits. Producer01's launcher-observation
+failure remains closed before mathematics. Existing audited packages supply a
+source-reviewed static retrieval fixture, not fictional node publications.
+That seven-entry corpus prepared successfully through the real structural
+metadata/catalog APIs and passed independent outcome audit; no service ran.
+No matched consumers are dispatched; substantial dispatcher cost now has a
+measured breakdown and a proposed narrow profile, not a guessed optimization.
+Root selects one combined prospective target-statement/source-profile diagnostic
+next, using a definition of the proposition rather than its proof. This preserves
+fresh consumer independence while answering an actual interface gate and a
+performance question in one allocation. No diagnostic or consumer has run yet.
+These combined steps share one installation to avoid duplicate build work. See the current
+[product checkpoint](../software/CHECKPOINT.md); old failures and all consumed
+resources remain visible. No usefulness, independent-host or v1 claim follows.
+
+**Current frontier, superseding earlier pending labels:** native ordinary-abort02
+has an independent [bounded PASS](../software/qualification/ordinary-abort-native-02/OUTCOME.md).
+Root integrated the exact six-file replica patch and the reviewed fourteen-test
+registry entry. All fourteen state contracts executed once and have an independent
+outcome PASS; their synthetic/mocked limits remain explicit. Separate authors
+prepare the fixed producer-offline replica/fresh-receiver-use test and a bounded
+offline development-source packager; the operator quickstart is authored but
+not yet exercised. No actual replica serving, independent-host result,
+useful-growth comparison or v1 release is yet established. Root alone imports/
+runs; failures and old cuts stay frozen.
+
+**Current execution frontier:** native03 now has a passing independent
+[canonical and operational audit](../software/qualification/context-native-03/OUTCOME.md)
+for its fourteen-CLI/six-stage overflow/select/admit/use regression on preserved
+v2 bytes. No growth claim follows. The v3 twelve capacity contracts and four
+[integration controls](../software/qualification/capacity-integration-01/OUTCOME.md)
+have audited narrow passes, including actual SQLite FULL and commit-uncertainty
+handling with mocked supply. Native renewal01 completed once after source/launch
+review: 17 CLIs, 2 receiver stages / 6 pipeline commands, 288 MiB charged,
+145.6837083 seconds elapsed and 124.421875 known measured CPU seconds. Its
+independent operational/state/canonical outcome audit now passes. All 101
+product files and 6 outer sources are retained. Review corrected one
+test expectation without changing product bytes. Ordinary-abort replacements
+are now integrated and independently source-reviewed; all 11 native-free
+contracts executed once after exact-launch review and passed independent
+outcome audit. Elapsed 1.9290653 seconds; known CPU 0.890625 seconds. A genuine
+native interruption/abort/continuation harness ran once, but failed at a test
+cwd-comparison mismatch before its live-handle trigger or recovery. Root's
+read-only final-state supplement records two requests/two stages/272 MiB and
+intact pending state; whole-tree cleanup passed. Independent failure audit and
+fresh02's one-correction/new-roots review are underway. No recovery qualification
+follows from failed01; old sources, evidence and charges remain preserved.
+The retrieval assessment
+supports using existing enumeration/peer acquisition before building a new index;
+its proposed small Fin comparison is not commissioned because matched portable
+endpoints and a decision-changing workload still need selection. Old failures
+and charged work remain preserved; no installation has been migrated.
+
+### Prior frontier retained
+
+**Latest checkpoint:** the test-only outer-sixteen shape control passed normal
+and timeout cleanup. Native context-02 then reached bootstrap success but X
+refused `SOURCE_REJECTED / Unknown constant lcAny`; its independent
+[failure audit](../software/qualification/context-native-02/OUTCOME.md) confirms
+two terminal requests, two charged stages / 272 MiB, unchanged bootstrap head,
+no accepted artifact and clean containment. A fresh03 changes only source
+noncomputability and harness roots against preserved v2 bytes. The
+[source-profile review](../software/drafts/CONTEXT-NONCOMPUTABLE-REVIEW.md)
+supports this correction, not a success prediction. V3 capacity/status/renew
+is now integrated in mutable product source, not yet qualified. Root owns
+execution/integration; independent agents review03, twelve native-free capacity
+contracts and v3 integration. No old allocation is retried or edited.
+
+### Prior checkpoint retained
+
+Current assignments: all 24 native-free context-selection contract tests passed
+once and received an independent outcome audit. The subsequent native scenario
+failed during bootstrap on the aggregate process limit (observed nine versus
+eight); its [failure audit](../software/qualification/context-native-01/OUTCOME.md)
+preserves costs, pending state and unknown native extent. No context/reuse result
+follows. A separate test-only outer-sixteen adapter and native-free five-layer
+normal/timeout control precede any fresh native allocation. Public/native profiles
+stay unchanged. Five real SQLite page-tier controls passed and have a passing
+[outcome audit](../software/qualification/sqlite-tiers-01/OUTCOME.md). Fresh v3
+capacity/storage/status drafts now advance separately from frozen product cuts.
+The original-vs-normalized transport representation distinction is recorded in
+[replica custody](../software/drafts/REPLICA-CUSTODY.md). These are engineering regressions,
+not mathematical discovery/usefulness tests. No old installation is modified.
+
+Next decisions concern sustainable authorization/storage, ordinary source and
+library usability, useful retrieval, evolving contacts and two-host operation.
+Keep these tied to product outcomes rather than expanding optional mechanisms.
+The [independent v1 critical path](../software/drafts/V1-CRITICAL-PATH.md) adds
+exact-byte replica sharing: another holder must be able to supply mathematics
+after its producer disappears without inventing wrapper theorems or acceptance.
+See [current product checkpoint](../software/CHECKPOINT.md).
+
+### Historical progress below
+
+Earlier pending labels are historical and superseded by the current assignments
+and audited status above; original artifacts and failures remain unchanged.
+
+**Newest reciprocal execution:** H01 also completed once, with a fresh packet-only
+Beta-authored successor returned to Alpha and checked after Beta service cleanup.
+11 calls / 2 stages / 116.138757 active seconds / 114.703125 observed CPU seconds.
+G02's independent audit passes; H01's substantive-proof audit is in progress.
+Post-cycle corruption/replay/duplicate/private-route controls have a separately
+reviewed source and await exact launch review. Recovery preflight review found
+test evidence/accounting defects, which the author is repairing before execution.
+No test failure or incomplete audit is promoted into a full qualification.
+
+Next operability work remains bounded context selection and allowance renewal;
+the decision drafts under `software/drafts/` do not yet change product policy.
+The core question is whether a node can keep doing useful work without importing
+the entire corpus or resetting its consumed resources—not a new global research
+agenda for participating agents.
+
+**Newest result:** G02 completed once: Alpha's revised contribution was published,
+transferred, and checked by Beta after Alpha's service was stopped/reaped.
+Actual evidence is `software/qualification/peer-01-g02/continue-result.json`:
+11 calls / 2 native stages / 108.265675 active seconds / 106.421875 observed CPU
+seconds, with wrapper CPU explicitly unmetered. Independent outcome audit is
+running. A fresh Beta author receives only its actual public packet/API and
+the source-syntax clarification; it must independently author substantive H.
+The prior source failure remains charged. Recovery and negative controls advance
+in parallel without modifying either frozen peer installation. This is still
+same-host positive-path evidence, not an independent-host or usable-v1 result.
+
+**Latest implementation step:** [two installed nodes](../software/qualification/peer-01/RESULTS.md)
+now complete all ten public prepare commands: two source builds, two fresh
+mathematical bootstraps and empty contribution catalogs, in 86.709 active seconds.
+Independent outcome audit passes; the earlier ordering preflight failure is preserved.
+The nodes have separate installations/state but explicitly share same-host
+runtime distributions. A fresh packet-only author chooses the first contribution
+while the public two-way exchange continuation is implemented. Offline reciprocal
+use, not preparation alone, is the next decisive result. First G submission
+failed at source parsing (one charged native stage, no network/publication).
+Its source and the harness's incomplete failure accounting are retained; an
+independent diagnostic-driven source revision and separate v2 continuation are
+being prepared. Recovery is integrated only into the mutable development tree;
+four close controls pass pending outcome audit, but actual recovery remains unrun.
+
+**Current product checkpoint (supersedes historical in-progress assignments below):** the [operation-local real-Lean integration](../experiments/lean-operation-integration/RESULTS.md) passed final mathematical/evidence audit, including substantive theorem reuse, exact inverse replay and C's fresh admission. Both original/additive allocations are closed. The mutable [software tree](../software/CHECKPOINT.md) now targets relocatable installations and inert peer exchange. Root owns execution and durable integration; separate agents review the bounded transport harness, design the minimum durable acquisition seam, and author native-free operator-contract tests. First qualify existing code, then fresh source build/bootstrap and peer-to-local checking. No public deployment, global ledger, DHT or new usefulness policy is selected.
+
+**Latest storage result (2026-09-21 UTC):** the [operation-locality discriminator](../experiments/lean-operation-locality/RESULTS.md) passed independent outcome audit after a separately reviewed one-character test-pin correction. The original zero-operation launch failure remains preserved. All 28 operations / three actual package reads / zero native stages completed in 14.39 seconds; bounded queries remained about 0.15–0.17 seconds with no proof reads across unrelated growth/damage. Selected faults refused, old cuts/replay and conservative charges held. This qualifies only the finite data boundary, not integrated mathematics or a network.
+
+**Preserved implementation step:** connect indexed storage to the actual Lean checking gates in new [operation-local integration](../experiments/lean-operation-integration/SEAM.md). Root owns storage/dispatcher; separate author extracts selected checking and a stage-local runner; independent author builds public-API tests/docs; reviewer audits the source. No old node/fixture Store wrapper, no new network protocol, and no unreviewed execution. Inline owner-authorized source is an explicit new cooperative execution lane, not a hostile-source sandbox. The next qualification must demonstrate actual acquire–use–contribute–acquire behavior with operation-local metadata costs.
+
+**Preserved predecessor central work:** [R1 proof-context reconciliation](cycles/2026-09-20-proof-context-reconciliation-qualified.md) passed, following the [source-derived Gate A](cycles/2026-09-20-source-composition-qualified.md). Two independently different exact proofs coexist through genuine dependencies in one newly checked ordinary-source consumer. The final 41-object package survives actual inverse export and fresh replay unchanged. [Results](../experiments/lean-proof-context-reconciliation/RESULTS.md) and [audit scopes](../experiments/lean-proof-context-reconciliation/AUDIT.md) preserve the exact claim and costs. The user's “Do whatever useful to our project” authorized this bounded local work; it is not a network-deployment claim.
+
+**Latest completed central discriminator:** the [independent-agent API result](../experiments/lean-agent-api/RESULTS.md) establishes one cooperative local reciprocal cycle in a disclosed engineering continuation. A independently acquired and used an existing theorem to publish its injective-lift result. Fresh B discovered A's new result without its identifier/source, checked it and substantively used its witness/certificate in the pointwise-unique-lift successor. Both full polymorphic targets, actual native/canonical/inverse correspondence and append-only 10→11→12 publication have an [independent outcome audit](../experiments/lean-agent-api/AUDIT.md). The original timed trial remains **NONCOMPLETION** because A exceeded its original interaction deadline; no counter reset or failed-source deletion occurred. This is not original STRUCT2/mode-6 Gate B, enforced isolation, utility, scalability or network-readiness evidence.
+
+**Latest additional central result:** usable inspection of unfamiliar admitted definitions now has [bounded executed evidence](../experiments/lean-definition-inspection/RESULTS.md). Three fixed fixtures survive full native/canonical round trips and body inspection; a fresh consumer independently decoded the selected body and authored its full polymorphic successor, passing canonical/fresh/inverse/fresh replay before deadline. One source submission, no proof repair, no catalog/network publication in this experiment. The [audit](../experiments/lean-definition-inspection/AUDIT.md) preserves exact trust/resource limits. The earlier proposal remains historical, not competing implementation evidence.
+
+**Existing-library discriminator now passed:** [pinned Init `Fin.castLE_castLE`](../experiments/lean-library-interop/RESULTS.md) and an explicitly two-application three-cast successor survive source/canonical/fresh/inverse/fresh paths. Actual eight-unit closure includes a private matcher and an external theorem representative inside `Fin.castLE`'s proof-bearing body. `Fin`/`Nat.le_trans` are seeded; no new external group or direct external judgment in a statement DAG is thereby qualified. Two stages, no repairs, unused slots closed; [independent audit](../experiments/lean-library-interop/AUDIT.md).
+
+**Next central discriminator:** fix a P1 snapshot/query and show that growing unrelated P2/history does not force proof reads or completed-history scans. Separately corrupt a selected dependency and require fresh acquisition to refuse. SQLite indexed local metadata plus immutable CAS blobs is the candidate implementation direction, not a global ledger. Old-cut pagination, exact historical retries, atomic publication and conservative crash reservations need explicit tests. Agent research/proof strategy remains external; arbitrary untrusted-source execution and networking remain unqualified. Larger heterogeneous retrieval/usefulness follows affordable operation. Defer aliases/notation absent an actual blocker. Efficiency rule: one consequential obstacle, one minimal intervention, one fixed bounded test, one outcome audit; root creates no new registry hierarchy.
+
+The user's priority correction is now enforced: **do not optimize an optional mechanism before establishing why the core product needs it.** The [central-priority checkpoint](cycles/2026-09-20-central-priorities.md) records three separately prompted reviews, cross-challenges and root's decision.
+
+| Priority | Central question | Current disposition |
+|---|---|---|
+| Trustworthy reciprocal use | Can an independent agent acquire, check, actually use and re-export Lean mathematics? | Full selected basis, source-derived Gate A and one nonvacuous R1 differing-proof reconciliation case pass. Broad native/library interoperability remains unqualified. |
+| Usable shared mathematics | Can agents discover unknown results and combine useful definitions/interfaces? | One unknown-ID theorem discovery/reuse cycle and one exact unfamiliar-definition inspection/use case passed locally. Larger library interoperability, broad retrieval and actual benefit remain unqualified. |
+| Continued valuable accumulation | What stays discoverable, recoverable and useful as contributions grow? | Allow honest local heuristics and funded custody; no universal novelty oracle, mandatory task list or permanent retention entitlement. |
+
+## Preserved predecessor core result
+
+The [executed results](../experiments/lean-feasibility/RESULTS.md) are positive: all 456 selected units / 581 exports were reconstructed from a decoded saved 262,520-byte canonical seed. An ordinary 15-object f/ell package was checked; a later 19-object successor actually uses the acquired ell instance. Actual checked native output was re-exported and successfully reconstructed in a third fresh process with identical objects and types/bodies. Both a forged generated inventory and a canonically valid but ill-typed proof were rejected. Separate native and CAS/fixture reviews confirm the bounded path. This is not complete BOOT1/library qualification, evidence of useful growth, or a working network.
+
+The [completed core comparison](cycles/2026-09-20-core-interoperability.md) retains the selected canonical exchange architecture. Two independently valid projects can bind the same name to different definitions; strict name-preserving union cannot supply the required joint application. Checked renaming may repair it but moves obligations, and a new interpretation cannot borrow existing FoundationID/discovery bindings. No measured winner or universal PI1 composition claim follows.
+
+The separate accumulation analysis is a **conceptual worked path, not executed discovery or usefulness evidence**: under its stated checking/discovery/service premises, a standalone shear definition can support a later iteration theorem using existing general-root/collection/custody/index operations. Treat definitions and interfaces as normal contributions without requiring theorem wrappers. This selects no new fragment object or automatic retention policy, and credits existing proof-root closures.
+
+Two complete technical rereviews closed one shared defect: distinct status facets still have actual native-index eligibility prerequisites. The independently scoped disposition reviewer reread the whole replacement too. All artifacts are preserved; no implementation or replacement protocol was selected.
+
+## Deferred and preserved
+
+[TENURE1](cycles/2026-09-20-lead-tenure.md) remains reviewed and unselected. Its [calendar successor](cycles/2026-09-20-due-window-calendar.md) is shelved before technical audit; draft counts are not reviewed findings. Broker calendar tuning, placement/catalog optimization and new broker routing require a demonstrated core-path obstacle before further work.
+
+Selected V6/I and J–Q remain as recorded in [CURRENT-DESIGN](../CURRENT-DESIGN.md). An optional specified facility is not a prerequisite for every participant or the minimum product. Earlier handoffs are closed; only the new bounded R1 paths have current write assignments. [WORK](registry/WORK.md) owns assignments.
+
+## Research gate and evidence boundary
+
+Root must identify the central capability, concrete obstacle, consequential decision, simpler existing alternative and stop condition before assigning more work. See [BOTTLENECKS](registry/BOTTLENECKS.md). A residual formalizable uncertainty alone does not warrant a new module.
+
+The complete selected-foundation/finite-actual-use/independent-successor path now has bounded executed evidence. The [readiness handoff](modules/qualification-readiness/README.md)'s historical NOT RUN rows are not retroactively promoted into complete gate passes: representative library capture/composition, footprints, isolation, broad recall, sustained supply and useful-growth evidence remain unresolved. The [checkpoint](cycles/2026-09-20-executed-reciprocal-feasibility.md) identifies the next central discriminants and the authorization boundary.
+
+The [subsequent two-reviewer triage](cycles/2026-09-20-core-interoperability.md#subsequent-bounded-central-obligation-triage) remains a historical scoped result, not proof of conceptual completeness. B-CONTINUE stays genuinely open to a decision-changing retention/service comparison under a stated workload and supply envelope. The user's subsequent explicit authorization—not automatic continuation—opened the current experiment. WORK records the new bounded assignments; optional mechanism research remains deferred.
+
+## Control records
+
+[Comparisons](registry/COMPARISONS.md) · [Decisions](registry/DECISIONS.md) · [Claims](registry/CLAIMS.md) · [Issues](registry/ISSUES.md) · [Assumptions](registry/ASSUMPTIONS.md) · [Scenarios](registry/SCENARIOS.md) · [Interfaces](registry/INTERFACES.md) · [Artifacts](registry/ARTIFACTS.md) · [Evidence](registry/EVIDENCE.md)
+
+Keep these concise and point to source arguments. Historical cycles preserve earlier commissioning without competing with this current page.

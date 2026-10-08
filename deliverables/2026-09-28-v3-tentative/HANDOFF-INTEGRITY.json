@@ -1,0 +1,67 @@
+{
+  "schema": "DMKN_TENTATIVE_V3_RECEIVER_HANDOFF_V1",
+  "evidence_cutoff_utc": "2026-09-28T07:43:00+00:00",
+  "scope": "QUALIFIED_EXPERIMENTAL_RECEIVER_NOT_COMPLETE_V3",
+  "native_admission": false,
+  "child_certificate_at_cutoff": false,
+  "license": "UNDECIDED_NO_EXTERNAL_PUBLICATION",
+  "files": [
+    {
+      "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\deliverables\\2026-09-28-v3-tentative\\START-HERE.md",
+      "bytes": 5068,
+      "sha256": "a7dd989d62a96705ae68156332e4490679ae21c78455e79baad7bcba3547b719"
+    },
+    {
+      "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\deliverables\\2026-09-28-v3-tentative\\RESULTS.md",
+      "bytes": 9183,
+      "sha256": "74b6a45bb79a0e949563567cdd05df3d8e0eb2c3293a228bf444c49c465d7a17"
+    },
+    {
+      "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\deliverables\\2026-09-28-v3-tentative\\RECEIVER-USAGE.md",
+      "bytes": 12136,
+      "sha256": "d110dd252353b5d520579d7b6cb88765daa3c15dcc45bf1e526f96d1b802c0d3"
+    },
+    {
+      "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\deliverables\\2026-09-28-v3-tentative\\SCALE-ARCHITECTURE.md",
+      "bytes": 16843,
+      "sha256": "90cd6803778f8738d808109016f7319889ee010c27f8e25877c6af7f1bf9b592"
+    },
+    {
+      "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\deliverables\\2026-09-28-v3-tentative\\SAMPLE-ARCHIVE-AUDIT.md",
+      "bytes": 2866,
+      "sha256": "0601805dd78a8981b48463a5a3712c2dbb315b04c4cd8de6d0c4947f43bd0ade"
+    },
+    {
+      "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\deliverables\\2026-09-28-v3-tentative\\HANDOFF-REVIEW.md",
+      "bytes": 5048,
+      "sha256": "7568a7b944e392669976516ff6dd5e81b0e02f047a527ddf77868fc0daf7dee8"
+    },
+    {
+      "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\deliverables\\2026-09-28-v3-tentative\\lemma-L-bundle.zip",
+      "bytes": 223898,
+      "sha256": "d6f2012e152b77e0e51ad189e156769c76ceddc9dd4604c4480fbbeac6f561f9"
+    }
+  ],
+  "receiver_archive": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\product-local\\certified-verifier-package-01\\mathematical-commons-v3-receiver.zip",
+    "sha256": "db862cc0c0b86a53d7f9e47c9c5c32ba4cc4406f805d1f08d6fb37b78b4f9ec4",
+    "bytes": 56577912
+  },
+  "profile_sha256": "6dc5cef431843e15ec6e8647892a0462bc5bd7a76554d541ff76d4d8719af297",
+  "qualifying_receiver_result": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\certified-verifier-integration-01\\receipt-01\\RESULT.json",
+    "bytes": 22649,
+    "sha256": "1108b785ab5795b73bd9eb9ce6dae514123164829bd3034402774db99ab89cac"
+  },
+  "qualifying_L_result": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-guest-02\\campaign-l-snap-rest\\RESULT.json",
+    "bytes": 209885,
+    "sha256": "d608de23be3c2ca7af356417802f325098dce5bbed1cd55c0010c19c3f18977c"
+  },
+  "qualifying_child_snapshot": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-guest-02\\campaign-child-snap01\\RESULT.json",
+    "sha256": "ebfaafdd0eb17a6d89ed8b8f8e6141a1e1cc38958b968341bdf03da280d25faf",
+    "bytes": 10599
+  },
+  "excluded": "DRAFT-* are historical; live navigation and ongoing child artifacts are outside this immutable milestone. No source/runtime requalification is inferred from this file identity seal."
+}
