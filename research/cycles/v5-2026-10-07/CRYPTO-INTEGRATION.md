@@ -1,6 +1,71 @@
 # Guest-cost diagnosis and semantics-preserving construction repair
 
-## Current D22: actual four-stage prefix; full producer plan pending selection
+## Current D22: producer controls ran; exact full-base owner request proposed
+
+Root reports producer-controls01 exited zero: eight synthetic groups, observed
+1.296875 worker Job+0.203125 wrapper CPU seconds/2.4186588 wall, clean closure.
+Independent actual audit is requested; this paragraph does not substitute for
+that disposition. Producer/init/test/API bytes below are now USED/FROZEN.
+These controls perform no cryptographic proof or real producer-constructor call.
+
+As separately selected source work, actual owner manifests now exist:
+
+- `experiments/v5-local-checks/module-base-production-01-profile.json`, SHA256
+  `999c5451156801b2985f9a5c8dd9500470bccc6e5676f57dbace857744da89bf`.
+- `experiments/v5-local-checks/module-base-production-01-request.json`, SHA256
+  `33c4947f60ccc3abec2a309d0c68882136211a2f016eebe33ae19af6af59c76a`.
+
+They invoke the public CLI directly, no new fixture-specific wrapper. The exact
+existing host03/image04/capsule03 and all five checkpoints are pinned. The new
+allowance is `6e23ea7e9fa04070afc2fb33f9a5f5953918bcaad6a74b7eb4243bb6229f6a89`.
+It selects the325 missing calls and no guest replay, parent or cold admission.
+The actual output directory is absent. Root/independent exact review and launch
+decision remain necessary: this is NOT a live or authorized proof campaign.
+
+Prospective caps are150,000 worker CPU/900 controller CPU/14,400 whole wall,
+1GiB sampled new output/4,096 entries; stages retain1,500CPU segment,
+250CPU recursion and30CPU finish policies. Carried legacy calibration+prefix
+observations are1,852.453125 worker+2.78125 controller CPU seconds and
+176.1639226002153 summed active wall. Earlier preparation/builds/failed snapshots/
+tests/research and timing tails are explicitly separate or unmeasured, not zero.
+No previous proof is recharged to the new allowance or silently erased from cost.
+
+### Implemented public source and review
+
+Root selected the reusable producer source implementation, now completed under
+`software/v5/production/`: `producer.py`, `__init__.py`, `API.md` and
+`test_producer.py`. API is `Producer(owner_profile).run(owner_request)` plus a
+pinned-profile/request CLI. It generates bounded dependency graphs, imports
+existing checkpoint bytes directly, records prelaunch reservations, preserves
+same-lineage costs and refuses unknown closure/finalization. No host, guest,
+image or checkpoint-format change; no math-admission handle is manufactured.
+
+Complete independent source/API/test review has addressed saved control binding,
+role-pin collisions,70MiB/10-entry next-stage reservation, live allowance-history
+omission and explicit cross-process owner-custody assumptions. Three Python AST
+diagnostics pass; the later root-selected eight-group run is recorded above.
+Their fake supervisor/nonproof artifacts exercise graph/reuse/dispatch/accounting,
+mutation/deadline/finalization and preflight refusal, not the real constructor,
+native host, cryptographic proofs or mathematical admission. Root owns the exact
+focused test selection, then any full325-call producer allocation.
+
+Current used/frozen source SHA256 pins:
+
+| File | SHA256 |
+|---|---|
+| producer.py |5555e944d7473731e3e9095e85c5c57ce89c5f59187f78c5b248b4c1227532f3|
+| __init__.py |c66f4ce32e6a929bf3d0a178fb9c62e6aaaebe45b441a98e4d2bc10b68d916ae|
+| API.md |b591d63d55e0cf7d48aeb7d98424bf059864bf15b70157ccee8968b637a34b4f|
+| test_producer.py |65e0b43db21dde71cccecdc3c29afa62c62561f3b9382661fa26d7d30f455b1b|
+
+No runtime or Git mutation was performed by this lane. Profile/CLI construction
+costs and unsuccessful preflight without a safe output path remain explicitly
+outside durable stage accounting; refused run CPU/wall is available in the live
+producer's last-call observation. The enclosing owner must retain/measure those
+costs instead of calling them zero. Unknown crash/settlement requires explicit
+owner recovery, never automatic replay or hidden budget renewal.
+
+### Actual retained prefix
 
 Root reaped prefix01 session6942 with zero exit. Independent actual audit passes
 all four stage/checkpoint/schema5/binding/argv/process-closure checks. The outer
@@ -21,8 +86,21 @@ These actual recursion costs exceed the historical104/106CPU means. Replace
 those scenario inputs in the next decision; do not claim the old forecast was
 an upper bound. Keep all five successful checkpoints (segments0/1,lifts0/1,
 join1) and the one capsule. Remaining graph is108 segment/lift/join triplets
-for2..109 plusfinish:325 calls; cold public admission is separate. Source-only
-successor planning is selected, not implementation or full-proof launch.
+for2..109 plusfinish:325 calls; cold public admission is separate. The successor
+source is now implemented; focused test and full-proof launches remain separate.
+
+The existing PROOF-STAGING note now specifies the proposed reusable successor:
+owner-configured portable Windows producer; generated bounded stage graph;
+missing-only checkpoint consumption; durable reservations/explicit fresh resume;
+same existing host and final admission boundary. Prospective remaining allocation
+is150,000 worker CPU+900 controller CPU/14,400 whole-wall seconds, unchanged
+1,500CPU segment and250CPU recursion caps,30CPU finish policy,1GiB sampled
+output/4,096 entries. Actual current triplet scenario is119,785.5 worker CPU;
+completion is not guaranteed. Sum of all per-stage maxima is216,030, so150,000
+requires settled actual cost plus outstanding-reservation accounting, not an
+up-front promise that all maxima fit. Independent sourceplan challenge agrees
+with the direction and requires the explicit limits/uncertainty conditions in
+the note. Root has since selected implementation; runtime selection is separate.
 
 ## Previous D21: actual retained segment and selected bounded prefix source
 

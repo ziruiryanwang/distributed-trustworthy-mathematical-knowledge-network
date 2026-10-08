@@ -4088,3 +4088,136 @@ zero exit, reaped, closed, active-process count zero, no termination/cleanup err
 All controls finish with zero verification counters and empty authority/session
 registries. Structural custody and refusal outcomes do not mint a live handle.
 Used source, exact selection and actual evidence are frozen; no rerun requested.
+
+### D22 full native authoring and repaired producer source review
+
+Read all 932 lines of `AuthorLean.lean` at SHA256
+`00f90c7f449d1228227d89fc251283061ccfa59791e5bd563e058b3d41f1f78e`.
+The fresh serializer now uses `ExprStructEq` keys, preserves binder annotations,
+normalizes binder display names and let nonDep, and enforces the full inductive
+group insertion count. Native reconstruction uses checked `addDeclCore`, full
+kernel-environment added census (not only `Declaration.getNames`), exact normalized
+types/values/ordered metadata/recursor rules, and actual imported frontend
+visibility. Owner elaboration preserves old kernel constants and each formerly
+visible frontend binding; originally kernel-only Init names may stay hidden, and
+new exposure of such old names must agree with old kernel data. Selected-root
+export stops at authenticated interfaces/fixed foundation. No immediate semantic
+source blocker found; native compatibility, ordinary source success and focused
+refusals remain unexecuted. Imported nested shapes/visibility may refuse safely;
+the native 64-universe limit is intentionally narrower than the codec's 256.
+This owner-source process is expressly not a sandbox or mathematical admission.
+
+Re-read complete repaired `producer.py` at SHA256
+`c56ae697d5c3d8a4dda6b679ce32f82f65c0b5374e9c265577c7f47056a3fdc3`.
+All four previously requested changes are present: saved request/profile pins
+are rebound with inputs; conflicting path-role pins refuse; the next-stage
+reservation is 70 MiB plus 10 entries (individual operational files are bounded
+by inherited save_new); a live owner's allowance lineage cannot omit earlier
+attempts, and unknown launched closure closes the owner. API and focused controls
+are pending. Cross-process predecessor completeness still requires honest owner
+selection/recovery; preflight refusal observation is not a durable cumulative
+budget ledger. No producer runtime selection or actual proof result is implied.
+
+Author compile-only selection
+`7a9ba55926c829782761eab6398d5c8740e66b255801a50f0fad6ef53f9e5e30` independently
+matches all three selected sources (59,893 bytes) and seven runtime pins; output
+`author-lean-build-01` is absent. `lean -j1 -o ...olean -c ...c` compiles the
+reviewed source only, with no `--run`, owner request, linked executable or proof.
+Limits 60 CPU/90 wall seconds, 2048 MiB, two processes, 1 MiB per stream. Scoped
+exact-selection clearance sent root; source freezes if used. Explicit runtime
+pins are not a hermetic transitive Lean toolchain claim. Author confirmed the
+ordinary descriptor intentionally excludes Lean declaration `.all` metadata,
+unused by kernel semantics; old binding preservation nevertheless compares it.
+
+Producer source clearance updated to final
+`5555e944d7473731e3e9095e85c5c57ce89c5f59187f78c5b248b4c1227532f3`:
+the final 11-byte delta puts request serialization inside the run try/finally,
+so refusal is observed and busy state always clears. Complete API
+`b591d63d55e0cf7d48aeb7d98424bf059864bf15b70157ccee8968b637a34b4f`
+and eight-test source
+`65e0b43db21dde71cccecdc3c29afa62c62561f3b9382661fa26d7d30f455b1b`
+read. Init `c66f4ce32e6a929bf3d0a178fb9c62e6aaaebe45b441a98e4d2bc10b68d916ae`.
+Documentation states cross-process completeness, owner recovery and preflight/
+constructor/tail cost limits explicitly. Controls intentionally bypass runtime
+adoption and use a synthetic supervisor, artifacts and costs. They exercise
+graph/frontier selection, dispatch, same-owner history, uncertainty/overshoot,
+saved-control mutation, deadline/finalization, pin conflict and output overlap;
+they do not qualify native host invocation or mathematical admission. Scoped
+source clearance sent root; exact finite selection and actual result pending.
+
+### D22 native compile01 actual failure preserved
+
+Independent actual audit confirms `author-lean-build-01` FAILED, not compiled.
+All three saved/current sources, seven runtime pins and saved/original selection
+`7a9ba559...` match. Read complete 13,716-byte stdout: reserved identifiers
+`meta` and `scoped` cause parse errors beginning lines 689/747 and subsequent
+cascades. Empty stderr. No `.olean` or `.c` output exists. Result SHA256
+`390df8553cd197a19bf1c2e02b6da052986d176e1f264d571fd1284e2747191e`;
+stdout `1a09c83f259be838779c0d90e3bff19a356a2bad9bc3b3e5ec5fb4ed6f764684`.
+5.265625 Job plus 0.703125 outer wrapper CPU seconds; 50.79929430014454 whole-wall
+seconds. Nested supervision 0.171875 is included, not added again. Peak private
+commit 1,178,349,568 bytes; exit 1, clean reaped/closed/active0 with no termination
+or cleanup error. Failure, selection and used source remain frozen. Root selects
+fresh `native02/AuthorLean.lean` keyword-only repair; review/compile02 are separate.
+
+Native02 full delta independently read: only `meta` -> `descriptorMeta`, `scoped`
+-> `allowedGroup`, and the relative license link. Source
+`9597caa077301506fbbbde257a3a466b042f2eb1a6b442c0a1a550b619cddd1c`;
+build02 selection `c763b5c9833aa6efbe0bdee1afcabd1658134e8366c38e587b25bebb7245d83c`
+matches three sources/60,190 bytes and seven runtime pins; output absent at
+clearance. Compile-only limits unchanged. Scoped clearance sent root before use.
+
+### D22 producer synthetic controls actual pass
+
+Selection `e3f2bbfeff4f3be607068da5499b3f3c251e41d15b36b325464e328451c8828c`
+was independently cleared before launch: five sources/55,410 bytes, 18 runtime
+pins, fresh output, 20 CPU/60 wall/512 MiB/two processes. Actual eight tests pass
+with zero errors/failures/skips; all saved/current sources/runtime pins and
+saved/original selection rehash correctly. Full stderr and control/outer results
+read. Nine nested attempt records and twenty fake stage reports inspected;
+all recorded synthetic artifact hashes match. The finalization candidate PASS
+has an overriding failure marker; overshoot charges 100 rather than reservation
+4; unknown closure retains reservation 4 and closes; mutation/timeout fail final
+binding; the second resumed attempt carries prior charge 1.
+
+Outer result `8e729acab6cf0f798c28fcdaacea8adce13e70797abad32f387ac9f39f04e9b0`;
+control result `2fc9f697daf1dcf57850fa6e72e3d38434e716ff3e0102a93e01a8e979031682`;
+stderr `554e2b4a23eaca2f51bf468074ff2821b4eb3c441897c5e29fdc943d8aa27eef`.
+1.296875 Job plus 0.203125 outer wrapper CPU, 2.418658799957484 whole-wall
+seconds; peak 25,485,312 bytes, clean zero exit/reaped/closed/active0 and no
+termination/cleanup errors. Zero real host calls, guest executions, cryptographic
+proofs or mathematical admission. This qualifies synthetic controller behavior,
+not real runtime adoption/constructor or native host invocation. Used producer,
+tests, API, exact selection and actual evidence stay frozen; no rerun requested.
+
+### D22 native compile02 actual pass
+
+`author-lean-build-02` independently passes compilation only. All three saved/
+current sources, seven runtime pins and saved/original selection `c763b5c9...`
+match. Complete outer result
+`233cf35563d7d284d9ed96dc1784f0ea775333a74b7a280d3f3781b9c5aaf988` read;
+both logs empty. Actual emitted `.olean` 4,457,008 bytes, SHA256
+`22e17b5663a8c9779666e3b3e218155ca111eccaf81e0eff369a7ea0b0492a2b`;
+C 1,488,069 bytes,
+`5cd6401e02f59989350e04a2900df88d47a2a548f67be6d1e458515123473e73`.
+3.875 Job plus 0.5625 outer wrapper CPU seconds; 4.688224700046703 whole-wall
+seconds. Nested 0.046875 supervision is included. Peak private commit
+1,232,748,544 bytes; clean zero exit/reaped/closed/active0, no termination or
+cleanup errors. No linked binary, owner-source request, generated child or
+mathematical admission was executed. Used source, selection and artifacts freeze.
+
+### D22 actual full-producer request review (not launch)
+
+Read request `33c4947f60ccc3abec2a309d0c68882136211a2f016eebe33ae19af6af59c76a`
+and initial profile `999c5451...` completely. All 15 initial runtime/source/input/
+checkpoint pins (98,822,757 bytes) and three helper rows in the exact adopted
+manifest match. Independently decoded all five retained checkpoint envelopes:
+schema5, exact capsule binding, selected kind/index and complete payload length.
+The 184-byte expected journal is profile2 with the adopted image/foundation/policy,
+11 groups and rank0. No parent or assumption, same retained 110-segment capsule.
+325 missing stages avoid replay of the five retained checkpoints. Source CLI
+shape and selected budgets are compatible; output absent. Aggregate 150,000
+worker CPU is below the 216,030 sum of all stage maxima, so this finite allowance
+does not guarantee completion. Carried calibration/prefix subtotal is scoped,
+not all historical project work. Root requested adding applicable runtime DLL
+pins before selection; the initial empty-runtime profile is NOT cleared.

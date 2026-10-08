@@ -2749,3 +2749,40 @@ Root now assigns new source-only `authoring/context.py`, `AuthorLean.lean` and
 complete-group design below is added to the existing authoring contract and
 sent for independent challenge before coding that native seam. Used helpers,
 imports/acquisition and exporters remain unchanged. No transport variant is added.
+
+### D22 ordinary Lean frontend draft and compile-only proposal
+
+Native source now includes canonical descriptor decoding, exact adopted
+foundation/runtime comparison, checked imported definitions and full inductive
+groups, recursor metadata/RHS matching, actual imported frontend visibility,
+old-binding preservation and source-derived bounded export. Imported theorem/
+opaque values are authoring-only assumptions at exact registered boundaries;
+their proofs are neither traversed nor exported. Unknown used Init constants
+must be captured as local data or refused. Fresh axioms/quotient constants refuse.
+
+Independent source review found Lean's ordinary Expr BEq ignores binderInfo;
+the fresh frontend now uses Expr.equal after narrow normalization and structural
+expression-key caches. Direct full-group insertions also have the4096 cap.
+Root's hidden-Init visibility concern is resolved without weakening mandatory
+new imported-group visibility. Reviewer read all932 lines and reports no immediate
+semantic source blocker; actual compilation/native compatibility remain unrun.
+
+Source draft identities at compile proposal:
+
+- `context.py`: `a6d0b794204fb92dd43b7b63d38cd4f4dd15dff5d7f33d0254c4f1cbc1650541`.
+- `source.py`: `834718f8e52ca8360d97d921f16bcf1c22ef0a111528bc8edf53d4572c116df0`.
+- `AuthorLean.lean`: `00f90c7f449d1228227d89fc251283061ccfa59791e5bd563e058b3d41f1f78e`.
+
+Root requested the exact small compile-only selection at
+`experiments/v5-local-checks/author-lean-build-01-selection.json`. It uses unchanged
+Run-V5-Check and retained Lean4.34, three source/seven runtime pins (all inspected
+and matched),60CPU/90wall seconds,2048MiB,two processes,1MiB per output stream.
+It emits checked .olean and C source only, not a linked executable and not an
+authoring run. Root owns review/adoption/launch; this lane has launched nothing.
+
+The existing contract records native64 versus codec256 universe scope, existing
+8-parent/session and selected semantic-closure caps, exact-address external-owner
+bootstrap requirement, and preservation of any foundation mismatch. Suggested
+next meaningful native input is an actual imported Tree/fold/map/binary_congr
+source-derived fold_map law, not an assumption-only identity. Structural packet
+success cannot replace actual positive receipt/session-to-child qualification.

@@ -1386,3 +1386,76 @@ inner80edfb3ae366d05610ac200ec317bead93c9f26281e6c32fdfd0cd9b839a7a37.
 0.703125JobCPU+0.28125wrapperCPU/1.6014972wall, clean/reaped/active0. No
 positive handle, receipt verification or network dial. These new source/test
 bytes and evidence freeze; do not repeat. No runtime is currently live.
+
+Root adopts independent complete native-source and exact build-selection review
+and selects ONLY author-lean-build01, SHA256
+7a9ba55926c829782761eab6398d5c8740e66b255801a50f0fad6ef53f9e5e30.
+Three sources59,893B/seven explicit runtime pins,60CPU/90wall/2048MiB/twoactive
+processes. Lean compiles the new frontend to fresh .olean and C files; no source
+fixture execution, link, proof or mathematical admission is selected. Native
+source00f90c7f is frozen on use. Transitive runtime hermeticity is not claimed.
+Any compiler failure is preserved and repaired in a fresh selected successor.
+
+Author-build01 terminates FAILED/reaped cleanly: source used reserved identifiers
+meta/scoped, with cascading parser diagnostics. RESULT
+390df8553cd197a19bf1c2e02b6da052986d176e1f264d571fd1284e2747191e;
+5.265625JobCPU+0.703125wrapperCPU/50.7992943wall. No compilation success or
+mathematical endpoint is inferred. Select scale-owned fresh
+authoring/native02/AuthorLean.lean for exact-copy/minimal keyword repair and a
+fresh same-limit build02 proposal. Old source/selection/failure remain frozen.
+Also select source-only authoring/test_native_frontend.py and API.md for a
+conditional native Tree/fold/map reconstruction and source-derived-child test;
+no positive receipt/handle is fabricated. Native runtime/link/fixture launch
+awaits independent review and a separate finite selection. Root owns launches.
+
+Root read final producer implementation, all eight synthetic controller tests
+and public API; adopt independent source/exact-selection clearance and select
+producer-controls01 ONLY, SHA256
+e3f2bbfeff4f3be607068da5499b3f3c251e41d15b36b325464e328451c8828c.
+Five sources55,410B/eighteen runtime pins;20CPU/60wall/512MiB/twoactiveprocesses.
+Constructor is explicitly bypassed and every host dispatch is synthetic; this
+qualifies only changed scheduling/accounting boundaries, not real production
+adoption, cryptography or admission. Source/test freeze on use; full actual
+production still requires a separate exact request, review and allocation.
+
+Root read complete native02 delta and adopts independent exact build02 review:
+only reserved local identifier renames and relocated license link changed.
+Select author-lean-build02, SHA256
+c763b5c9833aa6efbe0bdee1afcabd1658134e8366c38e587b25bebb7245d83c;
+three sources60,190B/seven runtime pins, unchanged60CPU/90wall/2048MiB/twoactive
+processes, fresh output absent. Compile-only, no fixture/link/proof. Source
+9597caa0 freezes on use; build01 failure remains unchanged and charged.
+
+Adopt independent actual producer-controls01 PASS: eight groups, zero errors/
+failures/skips; allfive saved/current sources and18runtime pins match. Review
+covered nine synthetic attempt records/twenty synthetic stage reports and their
+artifact pins, including explicit finalization failure, overshoot, unknown cost,
+mutation, timeout and resumed charges. Outer8e729acab6cf0f798c28fcdaacea8adce13e70797abad32f387ac9f39f04e9b0;
+inner2fc9f697daf1dcf57850fa6e72e3d38434e716ff3e0102a93e01a8e979031682.
+1.296875Job+0.203125wrapperCPU/2.4186588wall, clean/reaped/active0. No real host,
+guest, proof, constructor qualification or admission. Used production sources,
+API and tests freeze. Mechanism now prepares source-only exact owner profile/
+request for all325missing current-base stages through the public CLI, reusing
+five checkpoints; no full budget or launch yet. Root reviews actual pin/cost
+selection before independent review and launch.
+
+Author-build02 actually exits zero/reaped/closed with empty logs,3.875Job+
+0.5625wrapperCPU/4.6882247wall. Independent actual artifact audit follows. The
+successful compilation does not execute imported-context reconstruction. Scale
+continues fresh conditional native frontend controls/API and proposes a finite
+link of the retained generated C; no repeated passing source compile or actual
+link/fixture launch is selected. No root runtime is currently live.
+
+Adopt independent actual build02 PASS. Allthree saved/current sources and seven
+runtime pins match; .olean4,457,008B SHA256
+22e17b5663a8c9779666e3b3e218155ca111eccaf81e0eff369a7ea0b0492a2b,
+C1,488,069B SHA2565cd6401e02f59989350e04a2900df88d47a2a548f67be6d1e458515123473e73.
+Empty stdout/stderr, no cleanup errors; generated artifacts stay frozen.
+This confirms compilation only, not imported-context execution or admission.
+
+Select explicit link-only preparation inside scale's fresh assigned
+test_native_frontend.py, using retained generated C and pinned Lean4.34 leanc/
+compiler/library inputs. No Lean re-elaboration, new generic runner or runtime
+is selected. A separate reviewed finite link precedes the five conditional
+frontend cases. Owner-selected LEAN_SYSROOT/DLL search paths must be explicit;
+the fixtures never create a positive receipt handle or replace genuine import.

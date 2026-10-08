@@ -286,6 +286,57 @@ the unchanged host/guest/final receiver must recheck them and the child. Process
 launch integration is root-owned and separately selected; these source files
 must not autonomously start an unbounded Lean/prover/network workflow.
 
+### D22 source envelope and first native validation
+
+The three-file draft is complete and unrun. Native equality is deliberately
+`Expr.equal` after positional-universe/binder-display/mdata/nonDep normalization,
+not Lean's annotation-insensitive `BEq Expr`. The new exporter caches use
+`ExprStructEq`; canonical binder display names prevent spurious duplicate rows
+while binderInfo stays significant. All direct inductive/constructor/recursor
+insertions receive the same 4096 visited-constant limit. The ordinary declaration
+`all` list is intentionally absent from the existing module descriptor: Lean
+documents it as frontend mutual-block information, not kernel semantics. Do not
+confuse that with the required complete ordered inductive `all` metadata. Old
+native ordinary `all` values and hints are still preserved exactly across source.
+
+This native authoring envelope currently permits at most64 universe parameters
+or constant universe arguments, narrower than codec's256. It is a safe explicit
+refusal, not complete compatibility. Context defaults remain256 groups,4096
+imported declarations and16MiB. ImportSession's existing8-parent cap remains.
+The report's expression counter omits hashing/copying/JSON/native work and is
+not total CPU. Original whole-operation supervision is mandatory. Cost depends
+on selected semantic closure and fixed foundation, not the whole network or
+imported theorem proof ancestry; no claim says arbitrary closure fits these caps.
+
+Kernel-generated nested auxiliaries must also be frontend-visible for each newly
+imported group. Previously kernel-only Init names need not become visible; every
+previously visible binding must remain equal, and any newly exposed old kernel
+name must agree with the old kernel constant. A descriptor/runtime mismatch
+(including old export canonicalization loss) must be preserved as a failure, not
+silently repaired by changing adopted foundation bytes.
+
+Exact-address bootstrap of an unselected external owner is distinct from the
+used D20 same-selected-module group companion. `NeedVerifiedModule` refuses
+context readiness until that owner is genuinely verified and selected using the
+same acquisition budget/deadline. Root owns this adjacent seam. No fake search
+candidate, synthetic positive handle or extra transport path is part of this
+frontend. An operation returning missing-data demands is closed/reprepared after
+session selection changes; the original binding cannot silently follow mutation.
+
+First proposed validation is compile-only through the existing bounded runner:
+`author-lean-build-01-selection.json`, no request, no runtime authoring and no
+receipt admission. It elaborates the selected Lean file and emits .olean/C
+artifacts; it is not a linked native executable or a passing source-use test.
+Subsequent meaningful input should use the actual snapshot03 base module's Tree,
+fold, map and binary_congr with its full required semantic bodies, plus exact
+adopted foundation. A new owner-source fold_map law using Tree induction,
+definitional unfolding and imported binary_congr exercises all three import
+kinds. Exact qualified names avoid relying on unreconstructed namespace/attribute
+registries. A conditional structural packet can test native compatibility only;
+the required genuine live receipt/session -> owner source -> child request ->
+certificate endpoint remains a separate obligation. No theorem proof body from
+the imported base may be provided to the frontend in that control.
+
 ## D22 new external-owner acquisition
 
 `authoring/module_dependency.py` closes the unselected-owner structural seam

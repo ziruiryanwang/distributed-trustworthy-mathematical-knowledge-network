@@ -4,6 +4,13 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+D22 latest: root owns integration/Git/exact launch decisions; no runtime lives.
+New-owner six controls and producer eight synthetic controls pass actual audit;
+native02 frontend compile passes actual audit after preserved keyword failure.
+Mechanism prepares exact full-base profile/request (no launch); scale writes
+fresh native frontend controls/API and proposes a retained-C link; assurance
+reviews changed sources and exact preparations. Previous used bytes stay frozen.
+
 D22 continuation adds root ownership of fresh authoring/module_dependency.py
 and focused tests for NeedVerifiedModule completion, using the unchanged live
 workflow and actual receipt admission. Checkpoint existing DECISIONS and

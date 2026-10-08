@@ -1,5 +1,14 @@
 # Current research desk
 
+**D22 producer controls pass; native frontend compiles:** eight new synthetic
+producer tests pass independent actual audit. Real full325-call producer request
+is in preparation, not launched. Native frontend's first compile failed on
+reserved identifiers; preserved failure led to a minimal native02 successor
+that compiles successfully (independent actual audit adopted). Source-derived imported
+Tree/fold/map use and genuine module receipt remain the next central endpoints.
+No runtime lives. Git0cd0414 preserves the audited external-owner seam; unfinished
+authoring/production work is not a v5 release.
+
 **D22 new-owner controls adopted:** module-dependency-controls01 independently
 passes six new structural/refusal cases with clean closure and no positive
 authority fabricated. New companion/tests are used/frozen; genuine external

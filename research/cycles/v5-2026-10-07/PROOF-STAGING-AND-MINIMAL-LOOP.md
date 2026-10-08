@@ -8,6 +8,19 @@ are NOT new v5 measurements.
 
 ## D22 actual prefix and full-base production decision
 
+Implementation update: root subsequently selected the public producer source,
+now present in `software/v5/production/{producer.py,__init__.py,API.md}` with
+eight focused synthetic control groups in `test_producer.py`. Complete source
+review addressed saved-document binding, role-pin conflicts,70MiB/10-entry
+prelaunch output reservation and live allowance-history omission. AST-only
+inspection passes; root subsequently reports eight synthetic control groups
+passed once (independent actual audit requested). Used sources are frozen.
+The two actual owner manifests for the325-call remainder are drafted and pinned
+in CRYPTO-INTEGRATION; their output remains absent, no full launch is selected
+by this note. The proposal below preserves the rationale; exact current interface and
+accounting/recovery limitations are in API.md, source hashes/status in
+CRYPTO-INTEGRATION.md. No actual prefix/source evidence is changed or replayed.
+
 Prefix01 is now independently audited PASS, root reaped session6942. Its frozen
 outer RESULT hash is `fb61eb62eb75a1c40694a4b5ab12c650c39cdb4738153b356591eb895672afee`.
 Actual costs are lift0=174.09375, segment1=751.5, lift1=182.5, join1=179.328125
@@ -25,7 +38,7 @@ The two actual lift samples average178.296875CPU, materially above historical
       =119785.5 worker CPU seconds =33.27375 CPU hours.
 
 This excludes finish, controller, cold admission, setup, failed work and a child
-proof. Replacing751.5 by observed segment0's565.03125 gives99,647.875 seconds;
+proof. Replacing751.5 by observed segment0's565.03125 gives99,646.875 seconds;
 neither is a confidence interval or bound. Segment composition and available
 resources differ. Current per-stage memory remains below4GiB; both segment
 observations are around3.53GB private commit, recursion around1.55–1.58GB.
@@ -35,6 +48,188 @@ processes need a separately funded aggregate-memory decision and are not selecte
 The existing source/selection below is now USED/FROZEN. Source-only planning of
 a relocatable reusable producer successor is selected; no successor code,
 325-call campaign or cold-admission launch follows automatically.
+
+### Proposed successor: a reusable owner-controlled producer
+
+This is a source PLAN, not selected implementation. The concrete smallest next
+scope is one public module `software/v5/production/producer.py`, its concise API
+documentation, and focused scheduler/accounting controls. Keep the existing
+host03, image04, capsule03, checkpoint schema5 and public admission boundary.
+Do not build a new host, change the guest/image, make a dependency manager, or
+write another controller whose executable code contains `110`, fixture paths,
+or this experiment's hashes. The owner supplies adopted configuration and a
+finite request; the software checks and executes that request.
+
+The same implementation should be callable from a local agent and a small
+owner CLI. It is relocatable on the supported Windows profile, not a claim of
+Linux/macOS support or a hostile-code sandbox. Absolute paths are owner inputs,
+not mathematical identities. Installation/runtime/helper pins and outputs are
+owner-controlled; remote discovery replies cannot configure executables or
+resource budgets. Compose with the existing admission supervisor/module-loader
+bindings without replacing an already loaded foreign `domains` module.
+
+The interface has three inputs and one non-authoritative operational report:
+
+1. An owner-adopted `ProducerProfile`: pinned host executable, supervisor
+   manifest/helpers/runtime, actual image/profile/foundation/policy and finite
+   implementation ceilings. Rebind these before and after every actual call.
+2. A `SessionSpec`: exact image bytes, frame, expected journal, retained capsule,
+   cycle/po2 limits, parent receipt pins, capsule binding, segment count and
+   actual assumption count. Counts are bounded plan inputs, not trusted proof
+   facts. The unchanged host independently binds/validates them on consumption
+   and finish. This operation does not execute the guest again.
+3. A finite owner request: exact stage allowance, existing checkpoint inventory,
+   fresh attempt directory and budget disposition. Existing artifacts are pinned
+   bytes, not accepted because a previous JSON report says PASS. Legacy prefix
+   artifacts need no conversion or rewrites. Their actual host validation occurs
+   when consumed by a later stage; finish fully verifies the exact result.
+
+The output is a retained checkpoint inventory or a `ReceiptArtifact`, plus exact
+process/byte/cost observations. It never fabricates `VerifiedModule` handles.
+Only the separate public same-call admission path can mint those handles. No
+network operation, search, publication or external message belongs in producer.
+
+### Deterministic finite stage graph and reuse
+
+For n in1..128 actual segments and a in0..8 actual assumptions, generate exactly
+n segment nodes, n lift nodes, n-1 left-prefix join nodes, a ordered resolve
+nodes and one finish node. The owner request may select a prefix of this graph
+or the complete remaining graph. No arbitrary shell commands or caller-supplied
+dependency edges are accepted. Enforce these generated dependencies:
+
+- lift(i) consumes segment(i).
+- join(1) consumes lift(0),lift(1); join(i>1) consumes join(i-1),lift(i).
+- resolve(0) consumes the final joined/lifted prefix plus the host-derived
+  actual assumption; later resolve(j) consumes resolve(j-1). Exact parent
+  receipts accompany each call as required by the unchanged host protocol.
+- finish consumes every segment checkpoint and the final succinct prefix or
+  resolved checkpoint. It emits a receipt only after full same-call application
+  verification, exact journal/claim equality and empty assumptions.
+
+For n=1 the prefix is lift0, with no joins. Bound the request, checkpoint
+inventory and predecessor manifests before graph construction (proposed ≤1MiB
+request, ≤392 graph nodes, ≤16 prior attempt records and ≤8MiB prior metadata).
+Pin maps have a512MiB aggregate immutable-input envelope, and every planned
+host call must fit the existing512MiB aggregate-read/64MiB per-file limits.
+These are explicit finite profile restrictions, not universal module support.
+
+An existing checkpoint fills a graph node only after exact session-binding,
+schema/kind/index/byte pins are checked. It is never reproved. A supplied joined
+prefix can close previously completed intermediate lift/join work; do not
+artificially require replay of its vanished execution reports. All supplied
+artifacts and costs remain accounted for; intermediate claims alone are not
+application authority. Missing retained artifacts cause a typed missing-input
+result, not an automatic costly retry. The first stage failure stops the attempt.
+
+Current exact inventory contains segment0,segment1,lift0,lift1,join1. Preserve
+all five. New stages use join1 as the prior succinct prefix; finish uses both
+retained segment checkpoints. The retained lifts already contributed to join1
+and need not be passed as unused finish arguments (the host rejects extras).
+The selected prospective remainder is108 triplets for2..109, then finish:
+325 new calls, zero guest executions. Cold public admission remains additional.
+
+### Proposed finite resource allocation and its limitations
+
+A concrete next request can use the following POLICIES, subject to root choice
+and independent exact review; these are not mathematically proved runtime bounds:
+
+| Resource | Proposed ceiling |
+|---|---:|
+| Aggregate worker CPU |150,000 seconds|
+| Aggregate observed controller CPU |900 seconds|
+| Whole attempt wall, including binding and finalization |14,400 seconds|
+| Segment stage CPU / wall |1,500 /300 seconds|
+| Lift or join stage CPU / wall |250 /120 seconds|
+| Finish stage CPU / wall |30 /120 seconds|
+| Per-stage Job private commit / active processes |4,096MiB /2|
+| Per-stage stdout / stderr |1MiB each|
+| New retained attempt output / entries |1GiB /4,096|
+| One checkpoint or receipt |64MiB|
+
+150,000 worker CPU gives25.2% headroom over the current119,785.5 triplet
+scenario, but only two segment observations and three recursion observations
+exist. Completion within it is NOT guaranteed. Sum of all325 maximum stage CPU
+caps is216,030 seconds, greater than the aggregate allowance. The controller
+must therefore enforce actual settled charges plus outstanding reservation,
+not pretend that all stage maxima were simultaneously funded. If the root
+instead wants the full sum of stage reservations funded up front,216,030 is the
+appropriate structural number; it still does not guarantee stages won't time
+out or fail. Whole wall is a separate bound, not CPU divided by guessed cores.
+
+Finish30CPU is prospective headroom above the retained old66-segment finish's
+2.796875CPU and its larger110-segment verification vector, not a bound derived
+by assuming a universal scaling factor. No repeat finish calibration is needed.
+Current finish verifies every segment individually and the composite again,
+then the final succinct/application receipt; all of that work remains charged.
+An unexpected expensive finish remains a failed, charged operation with all
+prior proof work retained. Cold admission is separately owner-budgeted; do not
+run an otherwise identical extra cold verifier before the actual public gate.
+
+At each stage: durably record its reservation before launch; require settled
+worker charge plus that reservation≤150,000; clamp the call to remaining whole
+wall. Only complete final Job accounting and clean closure may reconcile the
+reservation to its actual usage. A sampled overshoot is recorded in full and
+stops the attempt; never truncate observed costs to the cap. An exception or
+missing final counter retains the full reservation and flags accounting/closure
+uncertainty. The controller never releases unknown budget merely because a
+checkpoint file exists. Controller CPU and whole wall are also checked after
+every call and final report; their pre-report observations exclude unmeasured
+startup/exit/tails explicitly. No nested supervisor reading is added twice.
+The retained Job's hard time limit is user CPU; total CPU/log/wall limits are
+sampled. Thus a reserved charge for an unknown outcome is conservative local
+budget bookkeeping, NOT a proved ceiling on all actual CPU used. Unknown
+closure/accounting holds further automatic work until explicitly resolved.
+
+Disk is a between-stage/post-finalization sampled envelope, not a filesystem
+quota. Before the next call reserve64MiB output plus its bounded logs/reports
+against the1GiB aggregate; after the call account actual retained bytes, without
+deleting successful or failed evidence. Bound entry count while enumerating;
+reject reparses/escaped paths. The expected actual checkpoint total is much
+smaller (roughly75MB if current sizes persisted), but this is not a size bound.
+All110 segment checkpoints must remain available through finish. Original
+capsule/runtime/retained inputs are pinned rather than copied for each stage.
+
+### Failure, restart and cost lineage
+
+The durable reservation precedes any host launch. Per-stage completion records
+and artifacts are create-new/fsynced; they include exact dependencies, capsule
+binding, process disposition and cost observations. An interrupted pending
+reservation is never silently forgotten. Successful mathematical checkpoint
+bytes may be salvageable after an operational failure, but this requires a
+fresh explicit owner adoption of their pins and prior cost/closure disposition;
+it does not relabel the failed attempt or its budget as passing.
+
+No process automatically retries a failed stage or starts another attempt.
+A fresh resume request names its predecessor attempt manifests and their
+unresolved reservations, imports only pinned completed/salvaged checkpoints,
+and supplies an explicit remaining allowance. In the same allowance lineage,
+prior settled charges and unresolved full reservations are subtracted; a new
+larger allowance is explicitly new authorization, never an implicit reset.
+Unknown cleanup blocks automatic continuation. Whole-attempt monotonic clocks
+restart only under that fresh request; the full-cost ledger carries prior wall
+observations separately, not a false continuous original deadline. An owner
+requiring a cross-restart deadline must also supply an absolute deadline under
+an explicit trusted-wall-clock assumption. First implementation need not invent
+a distributed budget ledger: this is one local owner's finite operation.
+
+The portable library must not require dated experiment RESULT schemas as
+mathematical authority. Its own request/attempt format can record imported legacy
+costs and pins. Cold restart still verifies actual dependency receipts inside
+the unchanged host and final receipt at the public admission boundary.
+
+### Smallest qualification before a full launch
+
+Use pure scheduler/supervisor-double controls for graph generation, missing-only
+resume, exact argument order, reservation reconciliation/unknown costs, original
+deadline exhaustion, source/input mutation, output overlap and finalization
+failure. They establish controller behavior, not crypto validity. Reuse the
+actual prefix for backend correctness; no proof stages are repeated merely to
+test the scheduler. Independently review the public source and exact finite
+owner request before root selects any325-call remainder. The ultimate gate is
+the actual final receipt plus genuine cold public admission, not the controller
+contracts alone. Root's full growth accounting also retains all prior failed
+builds, snapshots, calibration, preparation and research costs under their
+declared inclusion/scalarization policy; none vanishes in this new attempt.
 
 ## D21 decision: existing staged host, not a persistent prover rewrite
 
