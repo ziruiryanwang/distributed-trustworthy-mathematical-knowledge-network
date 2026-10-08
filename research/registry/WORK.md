@@ -4,6 +4,14 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-08 documentation-only user request COMPLETE: root authored the full
+notes/V5-ARCHITECTURE-GUIDE.md. Mechanism, scale and assurance supplied disjoint
+source-backed notes under research/cycles/v5-2026-10-07/guide-review/; scale and
+assurance also reviewed the whole draft. Root incorporated their clarifications.
+No experiment, proof, deployment, product-source change or background-result
+adoption was selected. All writing/review assignments are complete. Root saves
+the documentation Git checkpoint; the user-requested pause remains in force.
+
 USER PAUSE, 2026-10-08 UTC: all current source assignments and independent
 actual controls audits are complete (worker20/preparation9 pass). Root closes
 the local Git checkpoint and pauses the unfinished goal. No agent assignment

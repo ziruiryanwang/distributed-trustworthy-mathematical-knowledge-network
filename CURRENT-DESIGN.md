@@ -1,8 +1,22 @@
 # Current design: decentralized Lean mathematical commons
 
-Updated: 2026-10-07 UTC. This is a mutable navigation page, excluded from frozen checkpoint manifests.
+Updated: 2026-10-08. This is a mutable navigation page, excluded from frozen checkpoint manifests.
 
-## Authoritative current boundary
+## Current candidate architecture: v5
+
+Read the [complete theoretical architecture guide](notes/V5-ARCHITECTURE-GUIDE.md)
+for the whole system: formal modules, certified/lazy reuse, local Lean authoring,
+federated search, location, custody, resource limits, useful growth and release
+obligations. It distinguishes implemented components from proposed mechanisms
+and missing end-to-end evidence, using development checkpoint `fdfcd80`.
+
+The October 8 writing task is documentation-only and ends in a pause. It neither
+changes product source nor adopts a later background proof result. V5 remains
+unfinished. Consult [NOW](research/NOW.md) and the
+[prior pause handoff](research/cycles/v5-2026-10-07/PAUSE-HANDOFF.md) for exact
+runtime/resumption boundaries. The frozen v4 release remains unchanged.
+
+## Preserved v4 release boundary
 
 **Final, October 7, 19:58 UTC:** root adopted the independent
 [v4 integrity/claim seal](deliverables/2026-10-07-v4/HANDOFF-INTEGRITY.md).

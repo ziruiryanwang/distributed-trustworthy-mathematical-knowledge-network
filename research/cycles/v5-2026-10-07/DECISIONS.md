@@ -1635,3 +1635,16 @@ admission until resumption. Preserve background evidence and successful stages;
 no retry, renewal, follow-on run or automation. Save this source/evidence-index
 checkpoint in local Git and set the unchanged unfinished goal PAUSED. No public
 release, remote or license decision; v5 is not complete.
+
+## D24: documentation-only architecture guide, then pause
+
+The user's October8 request authorizes a complete, accessible theoretical
+architecture guide, not implementation resumption. Root writes
+notes/V5-ARCHITECTURE-GUIDE.md from development checkpointfdfcd80. Three agents
+provide disjoint growth, discovery and assurance synthesis; the latter two
+also review the full draft. Root incorporates exact current semantics,
+coverage/unknown-custodian limits, constructible queries and conditional
+scale/cost arguments. The final document and checks are recorded in
+guide-review/REVIEW.md. Only documentation/navigation/ledgers change.
+No runtime/test/proof/service or background-result adoption occurs. All writing
+assignments finish; save a local Git checkpoint and remain PAUSED as requested.

@@ -1,5 +1,14 @@
 # Current research desk
 
+**2026-10-08 documentation-only guide complete:** the user's full
+[candidate architecture guide](../notes/V5-ARCHITECTURE-GUIDE.md) is written,
+source-backed and independently reviewed. Three disjoint review notes are under
+cycles/v5-2026-10-07/guide-review/. Root reconciled the receipt/opaque-semantics,
+constructible-query, index-only location and conditional-scale clarifications.
+No product source, experiment, proof, service or background-result audit was
+started. Writing/review assignments are complete; remain PAUSED. This entry
+does not assert that the older background process below is still live or passed.
+
 **User-requested pause, 2026-10-08 UTC:** current source work and independent
 audits are complete. Worker20 and preparation9 focused controls pass with exact
 saved/current pins and clean closure; both use mock native calls and establish
