@@ -1,9 +1,176 @@
 # Actual proof-cost anchors and the minimal certified module loop
 
-Source/evidence planning only. No proof stage, budget increase, image assembly
-or old campaign restart is selected by this note. Mechanism lane; root owns
-actual launches and release claims. Current profile2 guest04/host03 sources
-remain fixed. The old proof observations below are NOT new v5 measurements.
+Source/evidence planning and newly selected prefix-controller source. No runtime
+launch, budget increase, image assembly or old campaign restart is selected by
+this note. Mechanism lane; root owns actual launches and release claims. Current
+profile2 guest05/host03 sources remain fixed. Historical proof observations below
+are NOT new v5 measurements.
+
+## D22 actual prefix and full-base production decision
+
+Prefix01 is now independently audited PASS, root reaped session6942. Its frozen
+outer RESULT hash is `fb61eb62eb75a1c40694a4b5ab12c650c39cdb4738153b356591eb895672afee`.
+Actual costs are lift0=174.09375, segment1=751.5, lift1=182.5, join1=179.328125
+worker CPU seconds; total1287.421875 plus2.0 observed controller seconds and
+94.4312573 whole-wall seconds. Stage wall times total92.4811368 seconds,
+already inside whole wall, not added to it. Outer output census before RESULT
+is950,170 bytes/31 entries. Controller values are observations before final
+report writes; process startup/exit and unmeasured tails remain excluded, not
+silently zero. No new proof or verifier measurement is needed to learn this.
+
+The two actual lift samples average178.296875CPU, materially above historical
+104.2683. Thus the new scenario for remaining108 triplets is:
+
+    108*(751.5 + 178.296875 + 179.328125)
+      =119785.5 worker CPU seconds =33.27375 CPU hours.
+
+This excludes finish, controller, cold admission, setup, failed work and a child
+proof. Replacing751.5 by observed segment0's565.03125 gives99,647.875 seconds;
+neither is a confidence interval or bound. Segment composition and available
+resources differ. Current per-stage memory remains below4GiB; both segment
+observations are around3.53GB private commit, recursion around1.55–1.58GB.
+Keep serialization for this host's existing4GiB stage envelope; parallel proof
+processes need a separately funded aggregate-memory decision and are not selected.
+
+The existing source/selection below is now USED/FROZEN. Source-only planning of
+a relocatable reusable producer successor is selected; no successor code,
+325-call campaign or cold-admission launch follows automatically.
+
+## D21 decision: existing staged host, not a persistent prover rewrite
+
+The actual base segment0 is retained and independently audited:
+565.03125workerJobCPU+0.78125controllerCPU,81.7326653wholewallseconds,
+234,817Bcheckpoint. Its stderr reaches `crypto` at135ms and `written` at80,685ms.
+135/80,685=0.1673% is an observed wall fraction before crypto, not CPU share,
+proof-phase timing or a guarantee for other calls. Saving all repeated capsule
+reads therefore does not support a large speedup claim;7.02GBlogicalreads is
+not evidence that I/O dominates.
+
+Actual compiled SDK provenance is the compiler-artifact manifest paths under
+experiments/general-checker-host-05/build-01/source/
+risc0-3bbcd44d6459b9ef6ac0df3846dc9215514934e8/risc0. The host uses retained
+native CPU backend features, includingcommons-inprocess-only/disable-dev-mode;
+not a hypothetical unmodified SDK or GPU installation. Source establishes:
+
+- zkvm/src/host/server/prove/prover_impl.rs: ProverImpl retains only ProverOpts;
+  each prove_preflight creates a newsegment_prover, proves and verifies it.
+- circuit/rv32im/src/prove.rs: segment_prover chooses new_cpu on this platform;
+  its ProverContext is dropped after the call. Merely retaining ProverImpl does
+  not cache that context or skip witness-specific proof work.
+- zkvm/src/host/recursion/prove/mod.rs and circuit/recursion/src/prove/zkr.rs:
+  each lift/join loads its program through XZdecode and Program::from_encoded.
+  circuit/recursion/src/prove/mod.rs::Prover::run constructs a recursion prover,
+  clones program/input, and performs preflight/witness/commit/finalize work.
+  Recursion po2 is fixed18. Keeping only the public host API alive does not
+  automatically eliminate these operations or any of219recursionproofs.
+
+An explicit lower-level context/program cache could change some setup, but its
+cost share, mutable-state reset safety and memory lifetime are unknown. It would
+need newhost/dependencyintegration, build and assurance; it does not eliminate
+109remainingsegmentproofs. No such rewrite is selected now. Avoiding a measured
+small boundary is a poor reason to defer the first genuine reusable frontier.
+
+### Cost reference and the cheapest decision-changing prefix
+
+The already audited historical29lifts have mean104.268318965517CPU and
+range100.78125..114.21875;29joins mean105.815732758621CPU and
+range102.203125..116.703125. These source-linked retained observations are reused,
+not reexecuted. Combining them with segment0 only as a SCENARIO gives:
+
+    remaining base worker CPU reference
+      =109*565.03125+110*(3023.78125/29)+109*(3068.65625/29)
+      =84591.8362069seconds =23.49773CPUhours.
+
+This is not a bound, confidence interval, wall prediction or complete production
+cost. It excludesfinish,coldadmission,controller,failures,setup and childproof;
+othersegments/tailpadding/resourcecontention may differ. A historical-segment
+mean835.64709 instead gives a substantially larger scenario. CPUhours are not
+wallhours because the prover is multithreaded. Do not derive runtime allocation
+from these point estimates alone.
+
+The selected source controller advances exactly this finite graph:
+
+    retained segment0 -> lift0 ---\
+                                  join1 (prefix0..1 only)
+    capsule -> segment1 -> lift1 -/
+
+Order is lift0,segment1,lift1,join1. This is four newstages, not reproving0, not
+an applicationreceipt and not wholebasecertification. It provides actual new
+image/lift/join compatibility while retaining every costly proof for eventual
+finish. The analogous workerCPU scenario is879.38362069seconds. All110segment
+checkpoints, including0/1, must remain available for finalhostfinish.
+
+### Fresh prefix-controller source contract
+
+software/v5/modules/receipt/advance_stages.py uses the unchanged owner supervisor
+from product-local/v4-library-commons-02/commons-v4, the exact host03/image04/
+capsule03 and retainedsegment0. It neither imports the used calibrationadapter
+nor edits any usedsource/evidence. The owner selection has schema
+DMKN_V5_RETAINED_PREFIX_V1; the only executable source pin is advance_stages.py;
+this research note stays mutable for actual cost updates, not frozen as runtime
+source. The exact selection and controller constants bind the finite operation;
+inputs are the originaltenroles plus segment0/segment0_result. ImageID is exact.
+No caller-specifiedcommands, arbitraryproofgraph or automaticremainder exists.
+
+- Segment1:1500workerCPU/300wall; eachlift/join:250workerCPU/120wall.
+  All have4096MiBJobmemory,2activeprocesses,1MiBstdout and1MiBstderr ceilings.
+ 250CPU is explicitpolicyheadroom above old114.21875/116.703125maxima, NOT a
+  provenbackendbound. Totalselected2250workerCPU+60controllerCPU/660wholewall.
+- Every call is clamped to remainingwholewall; setup/pins/writes are inside the
+  samewall/deadline. Firstfailure stops; resourceoverrun, uncertaincleanup or
+  finalizationfailure never becomes a success. MeasuredworkerCPU includesfailed
+  stages; absentfinalJobcounter charges reservedCPU with explicituncertainty.
+  The supervisor'sprocessCPU is nested in thiscontroller, never countedtwice.
+- Inputs have an aggregate512MiB bound. At mostfournewcheckpoints each≤64MiB
+  plus boundedlogs/reports/sources fit a384MiB/128entryretainedoutputenvelope,
+  checkedbefore/afterstages and finalization. It is sampled/cooperativesource
+  enforcement, not a filesystemquota or a hostileOS guarantee. The host's
+  boundedwrite and supervisorlogcaps remain in force. Noinput is recopied.
+- A fresh output directory and create-newfsync records preserve allsuccesses and
+  failures. No cleanup, deletion, retry or automaticbudgetrenewal occurs.
+- A separate fresh ownerselection may pin a contiguous previouslycompleted
+  prefix and run only its missingsuffix; the firstselection has completed=[].
+  Each retainedstage must match exactinputidentity/binding/kind/index and a
+  cleanboundstageRESULT withoutstagefinalizationfailure. It additionally pins
+  the enclosing invocationRESULT, requires completedstage membership and valid
+  finalinputbinding, and refuses an outerfinalizationfailuremarker. Reuse from
+  an outerFAIL requires an explicit ownerallow_failed_invocation=true in the
+  newselection; it never relabels the oldinvocation or itsbudget as passing.
+  SavedJSON only selects
+  resumework: the unchangedhost cryptographically verifies actualdependency
+  checkpoints upon consumption. No detached PASS label grantsmathauthority.
+- Result accounting is THIS invocation'sworkerJob+controller. Retainedprior
+  work is explicitlylisted, not claimedfree and not chargedtwice. Root'sfull
+  growthaccounting must additionally include allpriorattempts and setupcosts.
+
+No actuallaunch follows solely from this sourcecontract; independent exactsource/
+selection review and root's finite decision are separate. A later fullcontroller
+may accept another finitegraph under freshselection, but this source currently
+cannot run index2..109,resolve,finish,guestexecution or admission.
+
+Current source proposal: `advance_stages.py` SHA256
+`f67e493d409e4b3772e40115a21ee501f59d590ea71d4873e5daced090c82a33`.
+Exact first selection: `experiments/v5-local-checks/module-base-prefix01-selection.json`,
+SHA256 `6e4b8922bb6bf981ec05917f2bbe7c614118f4a002f34b11c0c9819559625920`.
+It retains segment0 and starts with `completed=[]`. Source-only AST inspection
+passed; subsequent root launch and independent actual audit now pass as recorded
+in D22 above. This lane performed no launch. The completed four-stage prefix
+leaves108 segment/lift/join triplets plus finish:
+325 further calls, plus cold admission. Any producer successor must reuse all
+five retained checkpoints (segments0/1, lifts0/1, join1), not replay them.
+
+### Beyond the base: selective certification is the substantive cost lever
+
+After genuine basecertification and new-image recursive child/coldadmission,
+prioritize boundednative deltaDAGs above exactcertifiedfrontiers. They avoid
+certifying each smallcontribution and avoid historydownload below a realfrontier.
+If sealingcost isS, nativedeltaverificationcostD and receiptreusecostR, sealing
+has positive amortization only whenn(D-R)>S after incrementaldiscovery/storage/
+service/failure costs and equalbaselineendowment; D>R is necessary. Frequency is
+a localheuristic for future n, not proof ofbenefit. See
+DELTA-FRONTIER-NATIVE-SEAM.md for exactparentjournalinduction/ownerpolicy/resource
+conditions. The presentguest cannot consume nativeVerifiedDelta as a receipt;
+selectivefrontiers supplement, not fictionalize, cryptographiccertification.
 
 ## Backend cost evidence already available: reuse, do not rerun
 
@@ -34,6 +201,19 @@ multiplying a native Lean/checker timing by a made-up factor is valid. Different
 segment composition, tail padding and available host resources can alter cost.
 The current backend still uses software SHA in its M3 kernel; changing a version
 register alone cannot create a sound accelerated proving backend.
+
+The SAME retained audit has a terminal extension for the old 66-segment
+collection; this does not extend the new v5 prefix. Its actual finish was
+2.796875 worker CPU seconds and cold verify0.015625 worker CPU seconds
+(12ms inner verifier). The complete old campaign's known accounting was
+3,309.671875 carried setup/failure CPU +66,163.046875 worker CPU
++166.203125 final controller CPU =69,638.921875 CPU seconds, with
+7,690.7769043 saved wall seconds. Those totals include the old campaign's
+63 triplets after its recovery; nested per-phase controller figures are not
+added again. They are retained producer/finish/cold-cost context, NOT a bound
+or speedup measurement for current110segments. Finish's additional segment
+verification scales with the finite receipt vector; neither its small old
+cost nor a cheap cold receipt justifies ignoring current full proof production.
 
 ## Exact operation graph in the current selected host
 
@@ -73,12 +253,38 @@ is unacceptable, stop the selected campaign and preserve its useful artifacts.
 
 ## Smallest real base-to-child certificate integration
 
+### Actual base-capsule census, not a timing forecast
+
+Snapshot03 now exists:110segments,0assumptions,21,274,865capsulebytes. For the
+CURRENT host stage interface, a full base receipt requires110segment calls,
+110lift calls,109sequential-prefix join calls,0resolve calls and1finish call:
+330post-snapshot calls. Snapshot/prepare and cold admission are additional;
+the actual retained successful segment0 leaves329 calls, not restart330.
+This is an exact source-derived action census for this interface, not a lower
+bound on every possible prover API or permission to launch those actions.
+
+Every current post-snapshot stage reads the full capsule before its branch.
+Those330 calls therefore logically read at least7,020,705,450capsulebytes
+(330 times21,274,865), before wrapper rebinding, decoding/hashing, checkpoints,
+image/frame/journal inputs or cryptographic work. Logical reads are not physical
+disk traffic: OS caches may satisfy them. This cost does not imply7GB retained
+storage. An operation-bound indexed/mapped capsule API could change the repeated
+read term, but is neither implemented nor selected by this observation.
+
+One segment calibration cannot bound the other109segment costs,110lifts,
+109joins or finish. Full producer budgeting must separately justify their
+resource envelopes and retained storage, including failures and any new child
+proof. The actual completed execution and110-segment census alone do not make
+whole-module certification economical for low-reuse contributions. Selective
+native deltas remain a complementary route, not a substitute for this real
+certificate/recursive-composition/cold-admission gate.
+
 Base and child use the same actual newly adopted image and existing mathematical
 policy. Their ModuleIDs/semantic group/body commitments do not include image
 identity. Their certificates nevertheless cannot be relabeled across images.
 
-1. Use the root-selected profile2 base snapshot when it actually completes.
-   Finish its actual finite proof stages, then full cold public admission of
+1. Reuse the actual retained profile2 base snapshot03 and successful segment0.
+   Complete only newly selected finite proof stages, then full cold public admission of
    the genuine base receipt. Stage/checkpoint labels alone cannot authorize it.
 2. Construct one fresh child request from the held fusion mathematical input:
    one local group, one parent, rank1,11body openings,1054native rows. Preserve

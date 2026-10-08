@@ -4,6 +4,24 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+D21 terminal update: root reaped prefix01 session6942; four-stage raw PASS,
+independent actual audit pending. No runtime is live. Mechanism now proposes a
+bounded full-base producer successor reusing retained five checkpoints/capsule;
+no launch or full campaign is selected. Scale owns source-only ordinary Lean
+authoring context/frontend/source adapter after native-API review. Assurance
+owns actual prefix audit and authoring trust/compatibility review. Root owns Git,
+integration, finite selections and full-cost growth; existing checkpoint paths
+below remain authoritative. Do not repeat completed controls or proof stages.
+
+D21 current: mechanism owns fresh advance_stages.py and reviewed four-stage
+prefix preparation (lift0,segment1,lift1,join1), not a full campaign. Scale owns
+fresh authoring/acquisition.py and focused dependency-acquisition controls;
+next ordinary Lean frontend proposal stays source-only. Assurance reviews these
+changed boundaries; root owns exact selections/launches, growth interpretation
+and Git. No runtime is currently live. Successful segment0 and capsule are
+retained; the authoring lifetime six-group run is complete and not repeated.
+Canonical root and checkpoint locations remain those listed below.
+
 D20 continuation: root reaped segment0 session39827 and owns the single reviewed
 import-lifetime-controls01 launch, integration, cost decisions and Git commits.
 Mechanism compares full-proof production strategies against the actual retained

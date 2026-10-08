@@ -1,5 +1,30 @@
 # Current research desk
 
+**Latest adopted D21:** independent actual prefix01 audit PASS. All four new
+checkpoints and prior segment0 are retained; no runtime lives. Full module
+certificate remains unfinished, with325post-snapshot calls still needed by the
+current host. Both six-group authoring lifecycle/dependency control runs passed.
+Current coding priorities are ordinary Lean authoring over certified interfaces
+and a practical bounded producer; source-only assignments below remain active.
+The updated growth note contains an independently reviewed conditional selective-
+sealing cost rule, not an empirical useful-growth or release claim. Git is local,
+root-owned, byte-preserving; essential excluded evidence stays on disk.
+
+**D21 terminal prefix:** root reaped session6942 with zero exit; four selected
+stages report PASS,1287.421875 worker CPU +2.0 controller CPU seconds and
+94.4312573 wall seconds. Independent actual audit is pending. No runtime lives.
+Retain segment0 plus the four new checkpoints; no receipt or full remainder has
+been produced/selected. Scale implements source-only ordinary Lean authoring
+after exact native-API review; mechanism prepares a finite full-base producer
+proposal using retained work; assurance audits actual output and frontend seams.
+
+**D21 live prefix:** root selects exactly four retained-capsule stages under
+module-base-prefix01/6e4b8922, reusing actual segment0; no replay or full campaign.
+Dependency-acquisition controls01 passed independent actual audit (six groups).
+Scale moves to source-only ordinary Lean imported-context authoring; mechanism
+retains proof sources and plans subsequent finite work; assurance reviews actual
+outcomes and source seams. Git remains root-owned; no v5 completion is claimed.
+
 **Latest D21:** import-lifetime01 passed independent actual audit (six groups,
 zero failures); no root runtime lives. Scale owns the newly selected exact-address
 dependency-group acquisition companion for live authoring, reusing the original

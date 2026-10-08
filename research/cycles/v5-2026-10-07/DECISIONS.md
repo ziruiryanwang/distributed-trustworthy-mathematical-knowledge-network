@@ -1220,3 +1220,98 @@ source selection. One segment cost does not justify unbounded spending. Machine
 read-only inventory reports16,828,944,384physical bytes and20logical processors;
 no concurrent memory-heavy proof operations have been selected. Current known
 segment peak3,533,524,992B must be included in any later aggregate allocation.
+
+Mechanism source inspection and root review favor retaining host03: the observed
+segment0 pre-crypto progress was135ms, and ProverImpl retains options rather
+than a useful cross-stage segment cache. Repeated21MB capsule access is not the
+measured dominant term beside565JobCPU seconds. Select fresh source-only
+software/v5/modules/receipt/advance_stages.py and extension of existing
+PROOF-STAGING-AND-MINIMAL-LOOP.md: bounded exact stage manifests, preserved prior
+checkpoint adoption, fresh outputs and aggregate cost/closure/finalization checks.
+The first proposed actual selection is ONLY lift0,segment1,lift1,join1, reusing
+segment0; exact limits/pins and independent review precede runtime. No full
+remainder, automatic retry, guest replay, image change or host rewrite selected.
+The approximately23.5CPU-hour remaining-stage forecast combines one current
+segment's cost with historical recursion means, excluding the already retained
+segment0. Including that segment gives roughly23.65CPU-hours before additional
+finish/controller costs. Neither figure is a proved bound or an allocation.
+
+Root adopts independently challenged D21 selective-sealing theorem in existing
+GROWTH-WORKLOAD.md: for one fixed target with known nonnegative per-request
+incremental native cost and a successful seal at fixed full incremental cost S,
+rent while total plus next cost is at most S, then buy. Its incremental cost
+is at most twice min(S,total rent); unknown future request count is allowed.
+Reviewer corrections clarify analytical baseline normalization and include ALL
+fallback/delay/service costs in any additive failed-sealing term. This is a
+conditional resource-investment result, not measured v5 benefit, global DAG
+competitiveness, a useful-mathematics metric or a selected runtime policy.
+
+Dependency companion review also removes a source-proven false coupling:
+the retained convenience declaration helper constructs optional index features
+twice, potentially refusing valid mathematical dependencies at a feature cap.
+The new companion instead uses the SAME structural client's canonical group
+HTTP reader/guards/ledger, then exact opening/live-summary/name checks and typed
+locator derivation. No feature extraction, synthetic candidate or new authority.
+Root read the corrected complete source; independent narrow source review passes.
+
+Root read complete six-group dependency harness and exact selection; adopt
+independent clearance and select dependency-acquisition-controls01 ONLY,
+34f32284af2979e996f795d2407df2cee50fdc3adf759a556137481df1141a59:
+34sources362,018B/18runtimepins,15CPU/45wall/256MiB/twoactiveprocesses.
+Structural success explicitly mocks the selected-summary/open-group prerequisites,
+not registered receipt handles or cryptographic success. The140symbol fixture
+distinguishes valid structural acquisition from optional discovery-feature caps.
+Actual owner/lifetime refusal, canonical group/store/readback, shared charges,
+TTL preflight and failure effects are tested; no native/receipt/network process.
+The prior lifetime file supplies a fixture helper only; its passed suite is not
+repeated. Genuine acquired-handle authoring remains a separate open endpoint.
+
+Adopt independent actual dependencycontrols01 PASS, root reaped zero exit:
+outer9c39b930643bb208beea39be35fc7a9981364d6853d4725fba955a15247be51e,
+innera1231bf57da74b1c82d4e2b3d07f70f94e234290372b43c341c03a63e570c9c6;
+all34saved/current sources and18runtime pins match; six groups, zero failures,
+errors/skips;0.921875Job+0.34375wrapperCPU/2.0356054wall,clean/active0.
+The140symbol discriminator passes without discovery feature work. TTL/expiry
+attempts remain charged; late refusal may leave structural custody only. No
+real receipt/registered handle/network is implied. Used companion/test freeze.
+
+Select scale's next source-only implementation in fresh authoring/context.py,
+AuthorLean.lean and source.py, under existing VERIFIED-IMPORT-AUTHORING-CONTRACT:
+bounded semantic-context assembly, genuine native imported-environment
+reconstruction, owner-local source/structured roots and exact new closure export.
+First inspect pinned Lean4.34 APIs and independently review complete inductive
+group installation/metadata comparison. Imported authoring assumptions never
+become mathematical acceptance; transparent definitions need committed actual
+bodies; local new axioms refuse; final relation checking stays authoritative.
+No proof-ancestry download, frozen-source edit, build/runtime or source execution
+is selected. Assurance reviews the trust/compatibility seam after prefix review.
+
+Root read full final advance_stages.py, actual input selection and revised
+cost note; adopt independent exact clearance and select module-base-prefix01,
+6e4b8922bb6bf981ec05917f2bbe7c614118f4a002f34b11c0c9819559625920.
+Controllerf67e493d409e4b3772e40115a21ee501f59d590ea71d4873e5daced090c82a33
+and12actual input pins match. Run ONLY lift0,segment1,lift1,join1, sequentially,
+over retained capsule03 and segment0.2250workerCPU+60controllerCPU/660wholewall;
+segment1500CPU/300wall, each recursion250CPU/120wall;4096MiB/twoactiveprocesses.
+Output384MiB/128entries is sampled, not a hard disk quota. Runtime reports omit
+small startup/exit/report tails; do not treat instrumented timing as full physical
+machine cost. No guest replay, remaining325calls, finish, receipt admission or
+full campaign is authorized. First failure stops; successful checkpoints remain.
+
+Adopt independently audited actual prefix01 PASS; root reaped session6942 zero
+exit. Outerfb61eb62eb75a1c40694a4b5ab12c650c39cdb4738153b356591eb895672afee.
+Saved/current source/selection,12input pins, supervisor helpers, four stage
+reports and four checkpoints match; schema5/capsulebinding/kind/index/payload
+decoding independently checked. All workers closed/reaped/active0, no cleanup
+or finalization errors.1287.421875workerCPU+2controllerCPU/94.4312573wall;
+0.296875 supervisor CPU is nested, not added again. Final953,155B/32entries.
+Actual per-stage CPU: lift0=174.09375,segment1=751.5,lift1=182.5,join1=179.328125.
+These recursion costs exceed historical means, demonstrating why the old
+23.5hour scenario was not a reliable forecast. A new repeated-current-stage
+scenario for the325remaining calls is about33.27CPU-hours before finish,
+controller/cold admission/setup; it is still not a bound or a selected budget.
+
+Retain all five successful checkpoints including prior segment0, and the same
+capsule. No application receipt, guest replay or actual mathematical admission
+occurred. Source-only next work: practical bounded full-base producer proposal
+and ordinary Lean authoring implementation. No new runtime is selected.

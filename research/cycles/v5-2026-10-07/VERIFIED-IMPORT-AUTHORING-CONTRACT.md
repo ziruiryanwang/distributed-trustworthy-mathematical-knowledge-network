@@ -69,6 +69,43 @@ Copies, parsing, hashes, demands and failed requests count against session cost.
 Verification dedup here only removes duplicate owner admission within an
 operation; it does not yet remove host verification across proof-stage commands.
 
+### Selected D20 exact-address dependency-group companion
+
+Root selects fresh `authoring/acquisition.py` without modifying the now-used
+D18/D19 transport or import-session files. `DependencyAcquisition` requires the
+exact adopted `LocatedReceiptWorkflow` and `ImportSession` with the **same live
+DeadlineReceiptVerifier** and an already selected module. It captures and
+rechecks their exact acquisition/client/store/budget/verifier object identities.
+The session may expire earlier than the workflow; both are checked before and
+after work, during precommit, and after output copying.
+
+`declaration(provider,module,structured_name,max_bytes)` copies the validated
+name before awaiting the retained structural client's `_get` on the existing
+exact-address group route. There is no new client, grant, deadline, provider referral, receipt
+verification or proof download. This is explicit semantic-dependency acquisition;
+it has **no RecordID and is not a discovery candidate**. It does not change the
+original search's `seen_candidates` or waive that set's export gate. A new module
+must first acquire a real receipt and be selected by the existing live session.
+
+The retained transport bounds the reply and checks canonical bytes. The companion
+checks the ModuleID group opening, exact live selected summary and unique
+structured name, then derives the usual typed locator/ExportID directly. It
+does **not** call the retained `declaration` helper: that helper constructs
+optional discovery features twice, which could refuse a valid complex dependency
+at the feature-profile cap. Dependency acquisition requires no such feature work.
+It durably commits and reads back the exact group/descriptor through the
+same ModuleStore, then calls the actual `ImportSession.open_group`. All HTTP
+attempts and unknown outcomes retain the existing shared accounting, original-D,
+contact-TTL and egress checks. This adds no automatic retry or network traversal.
+
+Store commit, session selection and returned data are not one atomic operation.
+A later failure may leave structural custody or a verified session opening;
+neither mints a new handle or a transferable acceptance record. The companion
+returns copied data and marks nonpromotion/non-atomicity explicitly. Closing
+the existing workflow still revokes every originating handle; the companion
+owns no new closer. This is source-only pending independent review and focused
+changed-boundary controls; no positive receipt/import qualification is inferred.
+
 ## Existing Lean seam and the genuine missing piece
 
 `workloads/ExportWorkload.lean` already elaborates ordinary owner-selected Lean
@@ -136,3 +173,115 @@ Final real child receipt and a cold receiver remain a separate required endpoint
 
 The historical `PrepareReceiptWorkload.py` remains frozen profile1-only and
 asserts an obsolete witness field. Do not advertise/invoke it as this workflow.
+
+## D20 selected source implementation and exact native reconstruction proposal
+
+Root selects **fresh source-only** `authoring/context.py`, `AuthorLean.lean` and
+`source.py`. Existing used imports/acquisition/exporters remain frozen. This
+section fixes the proposed complete-group algorithm before implementation;
+independent native-boundary challenge precedes coding that seam. No runtime,
+build or positive admission is selected by this source assignment.
+
+### Existing Lean4.34 APIs actually inspected
+
+The retained runtime is `software/runtime/lean-4.34.0-windows`. Its
+`src/lean/Lean/Declaration.lean` defines `Constructor {name,type}`,
+`InductiveType {name,type,ctors}` and
+`Declaration.inductDecl (lparams : List Name) (nparams : Nat)
+(types : List InductiveType) (isUnsafe : Bool)` (lines173–196).
+`Environment.lean:701` provides
+`env.addDeclCore maxHeartbeats maxRecDepth decl none (doCheck := true)` and
+documents that it checks the declaration. This also populates elaborator
+constant visibility. `Lean.Elab.Frontend.lean:134` provides
+`Lean.Elab.process source environment options fileName`.
+These are retained source/API observations, not a successful new build.
+
+`InductiveVal`, `ConstructorVal`, `RecursorVal` and `RecursorRule` expose all
+committed metadata: mutual members/constructors/parameter-index-field counts,
+nested/recursive/reflexive/unsafe flags, motives/minors/K flag and each rule's
+constructor/field count/RHS. `Declaration.getNames` explicitly warns that it
+omits nested auxiliary recursors. Therefore that function alone cannot establish
+the generated census; compare the actual environment difference after insertion.
+
+### Three files, one coherent authoring operation
+
+`context.py` freezes data from the actual live ImportSession and expands only
+the selected semantic context. Its address map is `(ModuleID, structured Name)`;
+the whole group is the indivisible installation unit. It traverses declaration
+types, transparent-definition bodies and recursor rule bodies, recording work,
+unique groups, body bytes and outstanding typed demands under finite limits.
+Theorem proof bodies and opaque values are not traversed. Missing groups/bodies
+return explicit bounded demands without starting a process or dialing; the
+owner satisfies them through the existing same-budget acquisition/session APIs.
+No foundation or newly encountered module is silently accepted. Each imported
+module must already have the same verifier's live session selection. Foundation
+rows have an owner-adopted exact byte pin; unrelated Init is not that foundation.
+
+The assembler builds a dependency graph over selected groups, using every
+semantic reference in the required types/bodies. It topologically orders them;
+self references are allowed only within a complete inductive group being
+constructed. Unexpected cycles or absent definitions refuse, not become axioms.
+The resulting packet is private untrusted frontend input, not a new receipt or
+portable trust token. Before/after frontend work the owner rechecks the live
+session and immutable selected data; late expiry cannot yield a child request.
+
+`AuthorLean.lean` reconstructs a frontend over pinned Init for syntax only.
+The exact adopted foundation subset is compared against its supplied canonical
+view before use; a conflict refuses. The decoder uses structured names and
+ordered universe parameters, de Bruijn indices, exact binder info and the
+existing canonical expression tags. It rejects metavariables, free locals,
+unsupported constructors and undeclared references rather than guessing.
+Each imported absolute name is the exact `codec.relocated_name` spelling,
+not display-string parsing. Imported theorem/opaque interfaces are explicitly
+authoring-only assumptions; their types/registration are exact, and they can
+never become new accepted axioms. Transparent definitions install actual bound
+bodies with their committed hints. No `sorry`, dummy theorem proof, arbitrary
+recursor insertion or `doCheck := false` is permitted.
+
+For **each complete inductive group**:
+
+1. Obtain the ordered type list from the common committed `meta.all`; require
+   consistent type-universe parameters and `num_params`. Obtain each type's
+   ordered constructors from its own committed constructor list. Decode their
+   exact types with this group's type names in the allowed mutual scope.
+2. Require every declared group name to be absent. Call checked
+   `Declaration.inductDecl` with those types/constructors and `isUnsafe=false`.
+   Do not submit claimed recursor rules as kernel declarations.
+3. Enumerate **all newly created constants**, not only getNames. The new-name
+   set must equal the authenticated group's exact declaration-name set; every
+   new constant must have the expected kind. An extra nested helper, missing
+   recursor or differently generated name refuses unless it is already part of
+   that exact complete group. No synthetic name repair or extra trusted group.
+4. Compare types after replacing universe parameters by their positional names,
+   dropping expression metadata and ignoring only binder display names (not
+   binder info, levels, de Bruijn positions, projection owner/index or references).
+   Compare all metadata fields and ordered lists exactly. For every generated
+   recursor rule, compare actual constructor, field count and normalized RHS
+   with the actual supplied expression previously hash-bound by the session.
+   The Python adapter already checked the RHS digest; Lean need not invent a
+   second cryptographic hash implementation. Any difference refuses before source.
+
+This permits nested groups only when the complete committed/generated census
+and metadata really agree; a successful simple Tree group is not broad nested
+compatibility evidence. Scope is determined by explicit refusal, not by accepting
+approximate native metadata. The checked constructor plus comparison supplies
+frontend compatibility; only the later certified relation grants mathematics.
+
+After assembly, preserve all old bindings across owner-source elaboration.
+Roots are caller-supplied structured names and may select a theorem, definition,
+opaque value or inductive group. The exporter stops traversal at exactly adopted
+foundation/registered external bindings, captures new reachable auxiliaries and
+complete groups, and refuses fresh axioms/unsafe/partial declarations. Imported
+authoring assumptions are omitted only through that explicit external registry.
+Unknown library constants used by the child must be captured as local dependencies
+or refused, including hidden `sorryAx`; Init syntax grants no semantic exemption.
+
+`source.py` binds the owner source, roots, context and fresh export files under
+the original finite operation. It verifies the returned census and old bindings,
+derives local/foundation/external inventories rather than asking the caller for
+canonical groups, and calls existing `source_rows.decode_source`. Only this new
+local-only ConditionalEnvironment is passed to ImportSession.make_request.
+The result remains an untrusted request with exact genuine parent receipt bytes;
+the unchanged host/guest/final receiver must recheck them and the child. Process
+launch integration is root-owned and separately selected; these source files
+must not autonomously start an unbounded Lean/prover/network workflow.

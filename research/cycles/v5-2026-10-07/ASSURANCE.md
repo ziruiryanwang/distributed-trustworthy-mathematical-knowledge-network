@@ -3546,3 +3546,408 @@ not change. Cost0.734375Job+0.359375wrapperCPU/1.5822417wall, reaped/closed/
 active0/no cleanup errors. Root/scale informed. D19 focused composition controls
 are complete in their mocked-reader/no-dial/no-spawn scope, not real location,
 cryptographic admission, cold custody verification or release integration.
+
+### D19 next composition blocker: live acquisition handle to authoring
+
+Scale identified, and assurance independently confirmed from the full current
+source, that authoring/imports.py::ImportSession.__init__ requires exact
+ReceiptVerifier while receipt_client.py::ReceiptAcquisition.admit requires
+exact DeadlineReceiptVerifier. The latter is a reviewed subclass retaining the
+base registry/minting/describe rules, but the former deliberately rejects all
+subclasses. Acquired mathematical handles therefore cannot yet enter that
+authoring session through its ordinary constructor. A safe successor can accept
+only explicitly adopted exact owner types and bind the import-session deadline
+no later than the original workflow D; generic duck typing, persisted success
+JSON or a foreign registry are not adequate bridges. No change was made here.
+
+Lifetime is also consequential: LocatedReceiptWorkflow.close calls acquisition
+close, which closes the verifier and revokes every acquired handle. Authoring
+must consume/revalidate the live same-verifier handle before workflow closure,
+or a separately reviewed ownership split must preserve the verifier under the
+original deadline. An acquisition context that closes before returning cannot
+hand out usable authority merely by returning the old Python handle. Root and
+scale informed; this is source evidence, not an executed composition failure.
+
+### D19 actual structural Guest05 build and assembly04 clearance
+
+Guest05 actual build independently PASS, RESULT
+49d9dccffee46fc245f09c71a66bcaa38e19b8834d505b838239c095139cb2bb.
+Actual1,622,660B ELF98f2b8955ccfbc258af53b503f4b82b146cea18e57f5df128faa8c8a19b77009;
+linkmap9f18ef720922e6eaadcde4e8c820194ef3d39aaa5ba8a1fb55a21f0ffc8b1aeb.
+Independent93pin checks comprise43current selected files,44saved wrapper/checker/
+build-source files including generated lock, four logs and two artifacts; all
+match, as do8adopted preparation-record hashes. Cargo output contains exactly
+one non-test fresh guest artifact with overflow_checks true and one successful
+build-finished record. Reviewed adapter's actual graph comparison retains
+296vs295units and zero external package/feature/edge changes; serde_json remains
+default/std only. Full unchanged dependency-map rebind remains the reviewed
+builder's evidence, not an independently repeated whole-SDK compiler campaign.
+
+Cost189.625Job+199.40625controllerCPU/434.6597575totalwall. Owned VCTIP20468 has
+selected cleanup and exit observed; Job closes with active0/no cleanup errors.
+No VM execution, image assembly or proof occurred in this build. Host03 remains
+unchanged and reusable; no duplicate relink is required.
+
+Read full unchanged assemble_guest.py and IMAGE-ASSEMBLY-PLAN. Exact new
+assembly04selectionf69121ae9bcc0910069bfee36d166dbd3dafe7f3cb3b6c43963bc04a89858378
+passes3source+7runtime/input pins, binding actual Guest05 result/ELF with retained
+assembler and kernel. Output absent at clearance;120CPU/120wall/1024MiB/2active
+processes. Root/mechanism informed of assembly-only clearance. Future imageID
+must come from the actual assembly and subsequent host remeasurement, not an
+ELF/file hash, projected identifier or earlier image. No actual assembly PASS
+or current-profile receipt follows yet.
+
+### D19 actual assembly04 independently PASS
+
+Outer69b48014b334aea219bbde2fec0f75fc7e007a26d13bb7b59fecef9a5aa12e5b,
+innerf27ea56cb0c6ad6e60248ae46c759bbd38f66be0b33b11a2b1065fe5b9db7b36
+pass actual audit. All3saved/current sources+7runtime/input pins match. Exact
+assembler command uses Guest05 ELF and retained58,736B kernel. Actual image
+1,681,428B SHA256d76f623bb1de5c840fd2ef9c1ac35fc6aba2de74cda0f62c11c161f6973da31f;
+assembler stdout reports imageID
+9dfd589213a3245cf88e0d28096356aae4d2666bf0e85a7c3302b92e21d2c69e.
+This image measurement is not the file SHA. One assembly call, no stderr, no
+VM/proof. Cost0.515625Job+0.328125wrapperCPU/2.7907562wall; reaped/closed/
+active0/no cleanup errors. Root/mechanism informed; exact snapshot03 selection
+and actual same-cap execution remain separate gates.
+
+### D19 exact snapshot03 selection clearance
+
+Read full unchanged SnapshotExistentialScreen.py; exact selection
+d0a2d11d304fd4eec470b8cbc44b57a277b7717fefe0d926ad7f50d696baffd9
+passes8source+8runtime/input pins. Source/limits equal used snapshot02; only
+fresh run name and actual image/assembly bindings change. Output absent at
+clearance. Original2^25execution ceiling, po2=18,240CPU/300wall/2048MiB/3active
+processes remain. Frame and184Bprofile2journal are freshly rebound against
+actual image, exact held zero-parent base mathematical input and host03.
+Source clearance sent root/mechanism, not actual completion. A successful
+snapshot is retained untrusted prover witness, not a transferable certificate;
+no proof or calibration is selected by this clearance.
+
+### D19 actual same-cap snapshot03 independently PASS
+
+Actual outerc436bb93fade1ed262ca5d64b31858f2d1691f6303385924d6ae642d882ac7e5,
+inner37ce9939dafe69594f03bd549e8c21d3e4b5c024d60c40acc2ced29ce6e4f3f3
+pass independent audit. All8saved/current source+8runtime/input pins match.
+Exactly91,385Bframe has91,381Bpayload; parsed mathematical input equals held
+base input except explicit schema2/image substitution. Expected184Bjournal
+hasDMKNM002/profile2, actual newimage9dfd5892..., foundationd931d114...,
+policy5edfd0ee..., module2b54d3be...,11groups/rank0, SHA
+22fe722c57894cb192a6700954fb045a708431a1470e274440c7d60a5767b682.
+
+Actual schema3capsule21,274,865B has SHA
+55eaa583ddfde8ebe827bfa941fcb81b95f9773fd2b2e295df2166501d973980.
+Read-only independent .NET byte reconstruction of the pinned host's bincode
+fixint encoding and SHA framing gives sessionhash
+bc4e7b1a204a0a19283e5f99183e32aff5d685fcdf85bdf17806cb46305f1e35,
+equal to capsule bytes4..35; outer binding
+4608ca4e3c12d338a86813afa96dbf418a1076eca79b2a8ab2838bb78135d925
+also matches actual stdout/report. No host/guest/proof was rerun for this audit.
+
+Host source requires actual Halted(0), exact journal and complete claim before
+snapshot output. Actual110segments/zero assumptions complete within unchanged
+2^25session ceiling/po2=18.110*2^18=28,835,840 is an upper row bound, NOT measured
+row count or a performance ratio.75Bstderr is only the expected
+CHECKPOINT_PROGRESS snapshot0 execute_once elapsed_ms=85 line. Cost2.671875Job+
+0.40625wrapperCPU/3.4458391wall, closed/reaped/active0/no cleanup errors. Root/
+mechanism informed. This is the first completed current v5 guest capsule, still
+untrusted prover witness, not a cryptographic receipt or deployable release.
+
+### D19 retained segment0 exact selection clearance
+
+Read full unchanged calibrate_segment.py and SEGMENT-CALIBRATION-PLAN. Exact
+selectionb1e7ae9d42cb54e131df6790280fc82147c549a966653e1025b0ccb9397c682b
+passes2source+10actualinput pins(96,597,806B), frozen supervisor manifest
+a93714ecd267984d2bdc7830fc28027151d650d5b0aeea13fac850b52ba5beed
+and its3helper length/hash checks. Output absent at clearance. Selected ONLY
+retained capsule segment0 with1500JobCPU/300wholewall/4096MiB/2active processes,
+plus60controllerCPU ceiling. No guest replay, next stage, retry or automatic
+full110segment campaign. Finalization-failure marker/nonzero exit overrides an
+earlier candidate PASS record. Host source cryptographically verifies produced
+segment before checkpoint5 output; that checkpoint is still not an application
+certificate. Root/mechanism informed; no actual stage outcome yet.
+
+### D19 live-authoring bridge source review
+
+Read full updated VERIFIED-IMPORT-AUTHORING-CONTRACT, imports.py and
+test_import_lifetime.py. Read-only Git diff confirms only the explicit adopted
+DeadlineReceiptVerifier import/exact-type allowance and lifecycle clamps/checks
+changed in imports.py; original handle/receipt/journal/group/body binding logic
+is untouched. Constructor checks live verifier before setup and at completion;
+session D=min(requested end, actual verifier D, optional original outerD).
+Every session _active checks the same originating verifier, so empty sessions
+also refuse after verifier closure. This addresses the identified source seam
+without arbitrary subclasses or transferable serialized acceptance.
+
+Six focused harness groups exercise exact types/all deadline minima, arbitrary
+subclasses/duck refusal, closed/expired constructor, verifier-close revocation
+for empty sessions, subsequent deadline/session closure and foreign/serialized
+tokens. Exact-class __new__ fixtures keep empty registries and never invoke
+receive/mint positive authority. These are local lifecycle/refusal controls,
+not actual installation adoption or cryptographic acceptance. Narrow source
+clearance sent root/scale; exact finite selection and actual outcome remain.
+The complete ordinary Lean authoring/certified return workflow is not qualified
+by this bridge and still requires the separately described integration.
+
+Exact import-lifetime-controls01selection
+b032573207b7c8c8b370ee95fcd85ef209b6b32786eec2dc79b6ce722077f94b
+passes independent23source230,273B+18runtime pin review. Output absent at
+clearance;10CPU/30wall/256MiB/2processes. Root/scale informed. No positive
+cryptographic admission, Lean authoring, network or source execution follows
+from these six fixture-only lifecycle/type controls.
+
+### D19 actual retained segment0 independently PASS
+
+Actual RESULT6212efa399c55e6032e78889e1180e578f015060bb128b58c9830be499fed066,
+process751407ea842a8c087dcc3862e17e272f04c8ecd49c2d73a99f626c3fde4547ca
+pass independent read-only audit. All2saved/current sources+10selected inputs
+match. Actual234,817Bcheckpoint SHA
+6c037a3a9ed19b34dd5137a0de1020e5f2934e6dab02765748156b67d5cb652b
+independently decodes as bincode fixint checkpoint5, same4608ca4e... capsule
+binding, kind segment, index0,234,754Bpayload and63Bheader with no trailing data.
+Host actual stdout matches110segments/zero assumptions and the same binding.
+141Bstderr is expected crypto/written progress only; FINALIZATION-FAILED absent.
+
+Actual565.03125Job+0.78125controllerCPU/81.7326653wholewall; supervisor0.34375CPU
+is nested, not added again. PeakJobprivatecommit3,533,524,992B. Process reaped,
+Jobclosed,active0/no cleanup errors. Root confirms outer session39827 zero exit
+and reaped, completing scoped PASS adoption. No current runtime. One genuine
+segment proof/checkpoint, zero guest replay, no application receipt. Reuse this
+checkpoint; its cost is not a bound on all remaining segments/lifts/joins.
+
+### D19 actual import lifetime bridge controls independently PASS
+
+Outer524dbab053ca1c2d4e4ed7e2d36fe00f1441d82147e20835ce099a9845b59d96,
+inner642b351077c973fb1f7fa7b9e64ea7b3c8651ae9334218b48c10687c0ec60915,
+stderr7853762a2dd2839c1016e8512889817f01c4707a649dd8173241672d86cf37f8
+pass actual audit. All23saved/current sources+18runtime pins match. Six groups,
+zero failures/errors/skips. Exact-class empty-registry fixtures only; no receipt
+receive, positive handle registration, network, Lean authoring or proof success
+is simulated. Actual0.734375Job+0.296875wrapperCPU/2.2575266wall,closed/reaped/
+active0/no cleanup errors. Root/scale informed. Used bridge and tests now freeze;
+full genuine acquired-handle-to-Lean-to-certified-child flow remains separate.
+
+### D20 exact dependencies must not require discovery-feature generation
+
+Initial DependencyAcquisition source reused structural.declaration, which calls
+adapter.describe and then resolve (which calls describe again). Independent
+source inspection shows exact-address group use would therefore compute optional
+index features twice and could refuse EXPORT_FEATURE_PROFILE_EXHAUSTED for an
+otherwise valid committed dependency. This is an operability/cost coupling, not
+false mathematical acceptance. Root adopts correction before any new runtime:
+the companion uses the SAME structural._get with existing budget/deadline/TTL/
+egress/canonical checks, then verifies the group opening and exact selected
+summary/name directly. No frozen transport edit, index hint, RecordID generation
+or candidate-set promotion is required. Scale owns the fresh correction; actual
+revised-source review and narrow controls follow. No source clearance yet for
+the initial discovery-coupled implementation.
+
+### D21 selective-seal theory challenge
+
+The proposed deterministic rent-or-buy proof is correct for one fixed target
+when each nonnegative incremental rental delta is known before routing and a
+successful seal is available at fixed complete cost S: before buying, R<=S;
+the crossing request establishes total deltas>S; hence cost R+S<=2OPT.
+Root appropriately excludes cache/horizon/DAG/network/latency generalizations.
+
+Two precision requests sent root: express baseline B as sum of sealed-route
+per-request costs s_i, with native r_i>=s_i and delta_i=r_i-s_i. This analytical
+normalization does not assert that the native route physically verifies an
+as-yet-nonexistent target seal. Second, additive failure bound B+2OPT+F requires
+F to include extra fallback rental/service/delay costs, or failures to preserve
+the chosen rental prefix/schedule. Failed proving CPU alone does not bound
+arbitrarily delayed purchase. This is theory review, no strategy implementation
+or empirical positive-growth conclusion.
+
+### D20 corrected dependency companion source review
+
+Read full corrected acquisition.py and its contract. Same structural._get
+retains actual shared attempt/reply ledger, canonical response parsing,
+original-D/contact-TTL/owner-egress preflight guards. New code checks actual
+C.verify_group_opening, live selected summary and unique requested structured
+name, deriving typed locator/ExportID without any discovery features or RecordID.
+Validated name is copied before await. Same workflow/acquisition/client/store/
+budget/verifier identities and original deadline are rechecked; already selected
+module is re-described before/after await, during precommit, after durable exact
+opening/descriptor readback and after final copied output. Actual ImportSession
+open_group supplies the originating handle/summary binding. No proof body,
+candidate promotion, new grant/deadline or automatic traversal is introduced.
+
+No remaining source blocker found in this companion boundary. Late structural
+commit or session opening can remain on refusal; non-atomicity is explicit and
+no new handle is minted. Root/scale informed of SOURCE-only clearance. Changed
+negative/structural controls are distinct from genuine selected-handle positive
+acquisition, which still requires an actual verified receipt and cannot be
+replaced by a fabricated registered handle.
+
+Root's revised D21 theory now incorporates both precision corrections. Full
+updated section independently read: B=sum(s_i) is analytical normalization;
+failure F must cover all additional fallback/delay/service costs or preserve
+the rental prefix/request schedule. Conditional2competitive proof passes in
+that model. The delayed-observation additive d_max overshoot is valid for the
+stated bounded-increment threshold variant. No current-cost, integrated-strategy,
+network-wide competitiveness or useful-capability expansion claim follows.
+
+### D21 four-stage retained prefix pre-runtime challenge
+
+Root selects source-only lift0 -> segment1 -> lift1 -> join1 on the same capsule
+and adopted host. Independent dependency census agrees: lift0 consumes retained
+segment0, segment1 takes no checkpoint, lift1 consumes new segment1 and join1
+consumes both lifts. No guest replay or full campaign; retain both segments for
+eventual finish, which requires all110segment checkpoints. Caps sum to2250worker
+CPU (1500+3*250);660wall (300+3*120) includes controller work, so per-stage wall
+must clamp to remaining whole-operation time. Historical costs inform policy
+headroom only, not a completion bound or justification of useful growth.
+
+Initial draft has a concrete prelaunch blocker: it compares actual snapshot03
+metrics to a two-key dictionary, but the actual metrics have five keys. Required
+field/exact complete schema correction sent author/root. Also requested storing
+selection_raw verbatim rather than JSON reserialization and rebinding saved
+source/selection snapshots. Root separately requires conservative unknown-worker
+charging if supervise raises, and excludes the continuing research-cost note
+from runtime OWNED sources to avoid freezing the live investigation document.
+No source/exact-selection clearance or runtime yet.
+
+Read retained supervisor postclosure logic: clean success rechecks actual final
+CPU/wall/log limits, so those guards plus next-stage reservation bound aggregate
+worker work; nested supervisor CPU stays inside controller cost. Output census
+is sampled admission/reporting, not a hard disk quota. An individually completed
+stage can remain useful after a later outer prefix failure, but requires its
+own clean process/binding/finalization provenance and actual cryptographic
+checkpoint verification; this never relabels the failed whole prefix PASS or
+erases failures from cumulative project/campaign accounting.
+
+### D20 dependency harness source review
+
+Read full six-group test_dependency_acquisition.py. Exact-class owner fixtures
+retain empty registries/no receipts/handles; selected-summary/open-group callbacks
+are explicitly mocked ONLY for conditional structural plumbing. The important
+discriminator uses140synthetic foundation symbols in a balanced syntactic type:
+it first requires the retained discovery helper's feature-cap refusal, then
+places tripwires on describe/resolve while the direct dependency path performs
+its real structural/store work. This is not a proof that the synthetic type is
+mathematically valid or has a genuine import certificate.
+
+Other groups cover real unselected/foreign/exact-owner refusals, unchanged owner
+identity/deadlines, wrong address/selected summary/corrupt opening before commit,
+actual retained HTTP TTL preflight with charged predial refusal, earlier session
+expiry after reply, and late non-atomic open/readback refusal after structural
+commit. Name is copied across await; returned copies cannot mutate durable DB;
+seen_candidates and handle/session authority tables stay empty. No new network,
+proof or prior transport campaign is selected. Scoped source clearance sent
+root/scale; finite selection and actual execution remain pending.
+
+Exact D20 dependency-control selection
+34f32284af2979e996f795d2407df2cee50fdc3adf759a556137481df1141a59
+passes34source362,018B+18runtime pins. Output absent at clearance;15CPU/45wall/
+256MiB/2processes. Explicit new harness entry; imported lifetime file supplies
+only the unused-registry fixture helper, not a repeated old test suite. Root/
+scale informed; no actual outcome or genuine receipt claim yet.
+
+### D20 actual dependency controls independently PASS
+
+Outer9c39b930643bb208beea39be35fc7a9981364d6853d4725fba955a15247be51e,
+innera1231bf57da74b1c82d4e2b3d07f70f94e234290372b43c341c03a63e570c9c6,
+stderrf98b283da9f63814e171800fc6e1c00bf0754d45e9f976fe7bb186458aa62a0a
+pass actual audit. All34saved/current source+18runtime pins match. Six tests,
+zero failures/errors/skips. The140symbol conditional structural case first
+observes discovery feature refusal, then succeeds without describe/resolve:
+one request9486replybytes, one durable group, no handle/candidate promotion.
+Three malformed/address/summary refusals charge1564B/3requests and commit none.
+TTL preflight plus later session expiry charge4618B/2requests and commit none.
+Two late readback/open failures charge1044B/2requests and intentionally leave
+only structural custody. Every case retains empty real authority tables and
+zero verify attempts. These are mock replies/explicit conditional prerequisites,
+not actual authenticated location, receipt verification or live imported math.
+
+Cost0.921875Job+0.34375wrapperCPU/2.0356054wall; reaped/closed/active0/no cleanup
+errors. Root/scale informed; used companion/tests freeze. Genuine positive
+receipt-to-semantic-group-to-authoring integration remains required.
+
+### D21 corrected prefix source and exact first selection cleared
+
+Reread complete advance_stages.py SHA256
+f67e493d409e4b3772e40115a21ee501f59d590ea71d4873e5daced090c82a33 and exact
+first selection6e4b8922bb6bf981ec05917f2bbe7c614118f4a002f34b11c0c9819559625920.
+Independently hashed all12input pins, sole runtime source, frozen supervisor
+manifest a93714ec... and three pinned helper sources: all match. Prospective
+module-base-prefix01 output absent at clearance. Full updated staging/cost note
+read, including23.49773remainingCPUhour scenario, explicitly not a bound or a
+whole-campaign selection. No remaining source/exact-selection blocker found for
+lift0 -> segment1 -> lift1 -> join1, completed=[], original finite caps only.
+
+Saved selection is verbatim and saved/current sources rebound. Exact actual
+snapshot metrics now use required fields. Unexpected supervise exception reserves
+full stage worker cap, marks accounting incomplete and stops; actual postclosure
+and aggregate final worker guards remain. Resume additionally binds stage and
+outer report, exact input identity, clean process and final bindings, excludes
+finalization markers and explicitly distinguishes failed outer invocations.
+It cannot turn old whole-prefix failure into success. Root/mechanism informed.
+
+This is SOURCE/SELECTION clearance, not actual proof success. No guest replay,
+full campaign, finish or admission is selected. Output census remains sampled,
+not hard disk quota. Reported controller CPU/wall are observations before final
+report writes; startup, exit and postmeasurement/report tails are excluded, not
+silently zero. Retained segment0 must be reused; actual outcome audit follows.
+
+### D20 ordinary-authoring native reconstruction design review
+
+Read the full appended contract and retained Lean4.34 Declaration.lean173–410,
+Environment.addDeclCore and Frontend.process. Checked inductDecl accepts exact
+ordered mutual type/constructor inputs and regenerates native inductive data;
+the proposed full kernel environment difference and exact declaration census,
+kinds, alpha-normalized types, ordered metadata and committed rule-expression
+comparison is appropriate. Do not use getNames alone: its own documentation
+excludes nested auxiliary recursors. Direction cleared for source implementation,
+not clearance of nonexistent source or runtime. Root/scale informed.
+
+Source-backed compatibility caveat: addDeclCore populates elaborator asynchronous
+visibility only for decl.getNames, not the complete newly generated census.
+Therefore correct kernel reconstruction does not itself demonstrate ordinary
+frontend visibility of nested helper recursors. Unsupported cases must refuse
+or be demonstrated through a checked visibility path; no arbitrary ConstantInfo
+injection. A simple complete Tree group can advance independently; it does not
+establish general nested support.
+
+Review requirements reiterated: bound closure over types/transparent bodies/
+recursor rules; preserve structured references and original opaque descriptors;
+no proof-body fetch, invented opacity, unknown module acceptance, new local axiom
+or transferable success token. Same originating ImportSession must remain live
+after frontend work and before request construction. Ordinary owner source is
+executable local code, not hostile-data input. Final unchanged certified relation
+remains the mathematical authority, but frontend compatibility must also work.
+
+### D21 actual four-stage prefix independently PASS
+
+Actual module-base-prefix01 outer RESULT SHA256
+fb61eb62eb75a1c40694a4b5ab12c650c39cdb4738153b356591eb895672afee passes audit.
+Saved/current6e4b8922...selection and f67e493d...controller match; all12inputs
+and three frozen manifest helpers still match. Four stage report pins, four
+artifact pins, exact saved command argv/limits, observed log sizes and complete
+stdout/stderr independently checked. All stages closed/reaped/active0, no
+termination or cleanup errors; no finalization marker. Root confirms outer
+session6942 zero exit/reaped. Final census953,155B/32entries within finite caps.
+
+Independent .NET bincode-fixint decoding of each retained checkpoint confirms
+schema5, exact4608ca4e...capsule binding, expected kind/index and declared payload
+with no trailing bytes. This is structural independent audit of genuine host
+proof outcomes, not a redundant cryptographic rerun.
+
+| Stage | Checkpoint SHA256 | Bytes | Worker CPU seconds | Stage wall seconds |
+|---|---|---:|---:|---:|
+| lift0 | a1cf19cabb470808f13105b758ee36a0869245519fd06cfbeeed3dfe3225bf80 |223214|174.09375|12.407588000176474|
+| segment1 | e1d39729286695c9cfca03fc7a055425496274a0d4f436ca7aabe732844d0d7c |234817|751.5|54.7126235999167|
+| lift1 | 84babc2800409cb44b18348f52e9cc2115cdd5a868a77377d05bf0bd7c108042 |223214|182.5|12.841126299928874|
+| join1 | 69f60c28fb858276516459d8f435cb4af1e10651941321bd95e59d965aa03d47 |223214|179.328125|12.519798900000751|
+
+Prefix worker1287.421875CPU+controller2.0CPU /94.43125730007887wall seconds.
+Nested supervision0.296875CPU is NOT added again. All reported stage limits
+hold; controller startup/exit/postmeasurement tails remain excluded. Actual
+recursionCPU is materially above historical100–117CPU observations; those were
+scenarios, not bounds. Mechanism/root informed to incorporate fresh costs in
+later decisions. Current success does not authorize or budget a whole campaign.
+
+Retain all five checkpoints including prior segment0, with zero guest replay.
+There are still108segment/lift/join triplets plus finish and cold admission.
+The prefix is not an application receipt and does not establish mathematical
+admission, genuine live import, full recursive composition or useful growth.

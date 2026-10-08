@@ -304,3 +304,76 @@ workflow budgets. The exact new guest execution screen determines whether the
 first module's P is operationally affordable before selecting real proving.
 Do not infer a positive certification margin from metadata compression or from
 the very cheap native checks of this small workload.
+
+## D21: a prediction-free selective-sealing result, with explicit limits
+
+The completed first segment makes proof investment a concrete cost, not an
+assumed negligible overhead. Native bounded deltas over certified frontiers
+remain proposed, not implemented. The following theorem explains a possible
+local investment rule once both routes actually exist; it does not authorize
+a proof campaign or claim that the current workload benefits from sealing.
+
+Consider ONE fixed immutable target, one adopted checking profile, one resource
+valuation with nonnegative prices for additive resources, and one service
+horizon. Both alternatives perform identical useful applications. Let s_i be
+the sealed route's per-request cost and r_i >= s_i the native route's cost;
+set delta_i = r_i-s_i and B=sum_i s_i. This is analytical normalization, not
+a claim that a native recipient physically verifies a sealed target receipt.
+The *additional* native cost delta_i >= 0 is known before choosing that
+request's route. A successful seal is
+available on demand for total additional cost S > 0 and thereafter removes
+these deltas. S must include production, publication, additional retention,
+service and funding overhead over the stated horizon. There are no overlapping
+targets, cache changes, changing prices, unavailable seals or resource interference
+in this model. A time-varying variable service surcharge belongs in delta_i or B
+only if the two routes actually have those costs. Peak memory is a constraint,
+not an additive resource bill to be summed across sequential requests.
+
+Let R initially be0. While unsealed, rent (native-check) request i if
+R + delta_i <= S, updating R. Otherwise buy the seal BEFORE serving i. Never
+buy a second seal for this same target/profile within the modeled horizon.
+For any finite request sequence, the offline best incremental cost is
+
+    OPT = min(S, sum_i delta_i).
+
+If the policy never buys, its incremental cost equals the sum, which is at
+most S; it is optimal. If it buys at j, the previously rented cost R <= S,
+while R + delta_j > S. Thus the sequence's total deltas exceed S, OPT=S,
+and policy cost R+S <= 2S = 2 OPT. Adding the common B preserves
+total_cost <= B + 2 OPT <= 2(B+OPT). This is the standard deterministic
+rent-or-buy argument applied to selective mathematical certification. It uses
+realized request costs, not predicted future popularity, mathematical intention,
+a global task list or a usefulness oracle. Zero deltas do not trigger purchase.
+
+This is a precise conditional guarantee, NOT evidence that current measurements
+satisfy its hypotheses. In particular:
+
+- A proof budget is not a promise of successful sealing. A failed attempt cannot
+  be replaced by a receipt-shaped object, or assigned cost zero. If failed work
+  before a successful seal totals F and was not included in S, an additive
+  bound B+2OPT+F follows only when F includes ALL additional fallback checking,
+  delay and service costs, or the failed attempts leave the chosen rental prefix
+  and request schedule unchanged. Failed prover CPU alone is insufficient.
+  If no successful seal is available,
+  this theorem does not apply to a comparator that can buy one at S.
+- If delta_i is learned only AFTER paying it, arbitrary one-request overshoot
+  destroys this bound. With an established per-request bound d_max, a delayed
+  threshold rule instead has at most d_max additive overshoot. Forecast upper
+  quotes alone do not prove competitiveness against the true lower-cost optimum.
+- Requests at one already accepted local cache need not pay delta_i again.
+  Charge only actual otherwise-uncached work. A repeated theorem name or request
+  count is not a new independent costly use.
+- The result is for an accountable local funding domain and a fixed target.
+  Many independent operators buying duplicate seals do not inherit a network-wide
+  factor2 guarantee. Shared DAG ancestors, alternative frontier placements,
+  changing custody horizons and seal latency require a richer model.
+- A positive request can still be unhelpful mathematics. This rule optimizes
+  validation investment conditional on selected uses; it does not prove that
+  those uses expand the resource-bounded capability frontier.
+
+Software implication: retain actual same-profile cache state and aggregate
+incremental costs; offer bounded proof routes and an explicitly funded seal
+option; retain failed costs; never make popularity mathematical authority.
+The policy belongs in an optional owner strategy after native delta and real
+receipt routes are integrated. There is no need to add consensus, identity-based
+voting or a compulsory global demand ledger to obtain this limited guarantee.

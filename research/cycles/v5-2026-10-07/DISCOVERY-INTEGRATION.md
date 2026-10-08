@@ -2478,3 +2478,274 @@ overruns properly raise `INTEGER_BOUND`. The same reviewer clears continuation
 699f9311:28source files329,513bytes and20runtime/evidence pins match; output absent;
 the explicit one-case suite cannot repeat inherited old groups. Root alone has
 the cleared finite launch. No product change, fake admission or broad rerun.
+
+### Actual continuation02 PASS; composition controls closed within scope
+
+Root executed exact699f9311 once. One explicit test / three remaining constructor
+refusals passed, zero failures/errors/skips, clean child/Job closure. Independent
+reviewer rehashed28saved/current sources and20runtime/evidence pins and adopted
+the actual result. Outer SHA256
+`d979411e1ad79944bf0a21ca591ef416162498632d73b6a4f86f17b2835df032`;
+inner SHA256 `8bac4b723a5a51bddddfe36c7a8122c9cfdb9de54b55409b2c27e0f99a90b5f5`.
+The author read the inner result and rehashed both. Cost0.734375Job +
+0.359375wrapper CPU seconds,1.5822417wall. Five earlier groups and their valid
+constructor prefix were reused, not rerun or relabeled. The prior full-suite
+FAIL remains preserved. All28used source files, both selections and results
+are frozen. The D19 changed-boundary gate is now satisfied in its explicitly
+mocked/no-provider-dial/no-Node/no-admission scope. Genuine integration is open.
+
+### Genuine current-policy integration: prerequisites and discovered reuse seam
+
+The smallest next actual path is **one** newly certified current-policy module
+through the D19 public composition, not another old-policy location campaign.
+Before any selection, root needs a completed genuine profile2 receipt, adopted
+actual image/host/runtime pins, exact ModuleSummary and matching committed group
+opening/body data. The image comes from actual assembly; neither a guest ELF SHA
+nor diagnostic journal is an adopted image/certificate. Profile2 binds184-byte
+DMKNM002, exact foundation/policy/module and empty assumptions. Current receipt
+format/implementation compatibility remains the D18 wire-profile selection.
+
+Use the exact current-policy spec already bound by that certification to derive
+the selected export object and fresh `ModuleExportAdapter` namespace/index.
+No old-policy ModuleID, SnapshotID, locator or export is relabeled. Producer-side
+opening/index construction is not receiving-side download of proof ancestry;
+its actual cost must nevertheless be counted. At the receiving boundary obtain
+only the selected group, exact receipt and explicitly demanded committed bodies.
+Old proven components/control results are reused; one current namespace's actual
+location -> candidate -> group/receipt -> local verification is the new boundary.
+
+For this first path, the owner-approved provider can explicitly cohost index,
+module and receipt roles. The descriptor authenticates an advisory contact,
+not a custody promise; missing roles spend/refuse. The experiment cannot establish
+unknown-custodian routing, independent-host deployment, global recall or growth.
+Budget and original D must be assigned before setup, including location runtime
+adoption, metadata construction, all HTTP work, receipt verification, readbacks
+and teardown. DHT events/raw transport and HTTP body/header costs remain separate.
+
+The source inventory found a central **authoring compatibility gap**:
+`software/v5/authoring/imports.py:ImportSession.__init__` currently demands
+`type(verifier) is ReceiptVerifier`, so it rejects the exact
+`DeadlineReceiptVerifier` used by D18/D19. This is a safe refusal, not false
+acceptance, but located admission alone therefore does not yet compose into the
+authoring session. Root and independent reviewer were notified; this lane did
+not edit authoring ownership. A separately selected bridge should support only
+explicitly adopted owner verifier types, retain originating live-handle checks,
+and clamp the import-session deadline to the original verifier/workflow D.
+Generic duck-verifier acceptance or loading saved success JSON is not a repair.
+
+There is also an explicit lifetime dependency: `LocatedReceiptWorkflow.close()`
+closes its verifier and revokes handles. Verified authoring selection (`use_handle`,
+`open_group`, demanded bodies, `make_request`) must occur with the same live
+verifier before workflow closure, unless root separately selects an ownership
+split. A generated prover request is untrusted data and may be retained for a
+later bounded proof operation because the actual prover rechecks the selected
+parent receipts; the prior local acceptance is not serialized as authority.
+
+Supplier-independent and cold claims require distinct evidence: stop the
+supplier after exact receipt/group/demanded bodies commit and read back; a fresh
+consumer process must reopen those stores and invoke the genuine adopted verifier
+again, obtaining no handle from stored flags. Reserve any cold-worker verification
+attempt/input/CPU allowance before its launch and keep its deadline within the
+same selected outer operation; do not silently create a fresh global grant. A
+valid receipt associated with a different ModuleID must still refuse against the
+wrong expected summary. These actual receipt/cold-binding checks cannot be
+replaced by the synthetic D18/D19 passes. No such runtime is selected by this note.
+
+### D19 explicitly selected unused authoring bridge
+
+After reading `imports.py` and finding no used-selection references, root assigns
+this lane temporary, narrow ownership of **unused** `software/v5/authoring/imports.py`
+and the lifetime section of `VERIFIED-IMPORT-AUTHORING-CONTRACT.md`. This does
+not authorize changing used product source or the separate Lean frontend lane.
+
+The source now allows exactly `ReceiptVerifier` and `DeadlineReceiptVerifier`;
+it checks actual verifier liveness before construction, clamps session D to the
+minimum of requested lifetime/actual verifier deadline/original outer deadline,
+and checks the originating verifier again on every `_active`, including empty
+sessions. Original handle registry, exact receipt/summary/journal bindings,
+body checks and untrusted-request construction are unchanged. The updated
+contract requires acquired-handle authoring before LocatedReceiptWorkflow.close
+and preserves subsequent independent host/guest verification of retained requests.
+
+New source-only `authoring/test_import_lifetime.py` has six focused groups for
+exact classes/all deadline minima; duck/subclass refusal; closed/expired
+constructor refusal; verifier-close revocation of empty-session operations;
+independent session/verifier expiry and session-close ownership; and refusal of
+unregistered/serialized tokens. Lifetime fixtures bypass actual installation
+adoption and retain **empty handle tables** throughout. Public `VerifiedModule()`
+construction appears only as a negative unregistered token. No positive handle,
+receipt, journal, verification output or cryptographic success is fabricated;
+`receive` is never selected. The root and reviewer have the source; independent
+challenge precedes a fresh finite selection. No runtime or Git mutation by lane.
+
+Prepared exact finite selection:
+`experiments/v5-local-checks/import-lifetime-controls-01-selection.json`, SHA256
+`b032573207b7c8c8b370ee95fcd85ef209b6b32786eec2dc79b6ce722077f94b`.
+Twenty-three source and eighteen explicit Python runtime pins;10CPU seconds /
+30wall seconds /256MiB /two active processes. The source snapshot entry is only
+the new six-group lifetime harness; no positive admission, network, Lean or
+proof runtime is selected. Root and reviewer have the exact selection and
+contract. Reviewer previously found no scoped source blocker and is checking
+the exact finite selection. Output was absent at preparation; root alone launches.
+
+Independent exact-selection review now clears b0325732:23source pins/230,273bytes
+and18runtime pins match; output remains absent. The full bridge and lifetime
+contract were read. This clearance remains limited to exact verifier types and
+empty-registry lifecycle controls, not broad authoring or mathematical admission.
+
+### Actual import-lifetime01 result
+
+Root ran the cleared selection once; all six groups passed with zero failures,
+errors or skips. Independent reviewer adopted the actual result and all23saved/
+current source plus18runtime pins. Job CPU0.734375seconds, wrapper0.296875seconds,
+wall2.2575266seconds; clean closure. The author read/rehashed actual evidence:
+outer `524dbab053ca1c2d4e4ed7e2d36fe00f1441d82147e20835ce099a9845b59d96`,
+inner `642b351077c973fb1f7fa7b9e64ea7b3c8651ae9334218b48c10687c0ec60915`.
+No positive handle was registered and receive was never selected. Bridge,
+harness and selected dependencies are now used/frozen. This closes the narrow
+lifetime/type seam, not ordinary authoring or genuine receipt reuse.
+
+### D20 current-profile path: existing data versus missing software
+
+Root requested a concrete integration map while proof work proceeds, not another
+campaign or new plan. Source inspection establishes the following composition:
+
+| Step | Existing callable path | Additional input or gap |
+|---|---|---|
+| Current module bytes | Snapshot03's `profile2-request.json` contains actual local spec and committed bodies used by guest execution | A proving capsule is not a receipt. Preserve the original spec/image identities. |
+| Publish discoverable data | ModuleExportAdapter + existing authenticated index, ModuleStore and ReceiptStore + receipt-capable provider | Prepare a fresh exact current-namespace index/openings and owner-configured provider; do not relabel the old fixture's index. |
+| Find unknown export | LocatedReceiptWorkflow.start/route/descriptor/begin_search/offer/candidates | One current-namespace descriptor/index binding and one selected query, within the original finite D. No mathematical authority from any search answer. |
+| Acquire and verify | begin_acquisition/export/receipt_offers/receipt/admit | Genuine final current-profile receipt and locally adopted host/image/runtime pins. No substitute from expected journal or capsule. |
+| Select verified import | ImportSession(same verifier), use_handle(actual handle, exact stored receipt), open_group | Must finish while the workflow's originating verifier remains live. Receipt copied from local custody must hash-bind the actual handle. |
+| Expand semantic context | Existing structural declaration/body routes; session.open_group/supply_body | Public exact-address dependency-group forwarding was missing; D20 companion below is selected. No ancestor theorem proof bodies are requested. |
+| Ordinary local authoring | Pinned Lean source exporter and source_rows.decode_source are usable ingredients | No current AuthorLean/source adapter installs the selected module interfaces and derives a new local closure from caller roots. This remains the major source gap. |
+| Produce child request | ImportSession.make_request(local-only environment, exact foundation rows, adopted image words) | Local source adapter must return the actual new local-only environment. make_request is not a child certificate; host/guest must reverify real parent receipts. |
+
+Read-only inspection of actual snapshot03 identifies the prospective base module
+`2b54d3be0ee27667c864ede130980f3fdeef963141296989b60113ba90e5be9e`,
+foundation `d931d114155cf3cf0dc0b868aa88c6d38b8ada8ecafe267a5934934075782481`,
+policy `5edfd0ee15b141b7304e26c1a39cd11f7f7e721713cf099813ae4f4442fad377`.
+It has11groups/14declarations and11body entries: one Tree inductive group,
+Tree helpers, fold/map definitions and binary_congr theorem. These data already
+exist; they need not be invented or re-exported just to construct provider
+openings. This is source/data inventory, not admission. Assembly04 actually
+records image ID `9dfd589213a3245cf88e0d28096356aae4d2666bf0e85a7c3302b92e21d2c69e`
+and image-file SHA256
+`d76f623bb1de5c840fd2ef9c1ac35fc6aba2de74cda0f62c11c161f6973da31f`.
+The image ID is not the file SHA. Future root selection must bind exact retained
+files, current receipt and actual adoption manifest; this note is not that selection.
+
+Still missing/adoption-dependent: final genuine base receipt and actual verification;
+exact receipt wire profile/local host-runtime adoption; current-namespace provider
+index and location descriptor; independent ordinary child source and selected roots;
+general authoring adapter; source-derived child request and final child receipt.
+Foundation rows already exist in retained preparation and must be bound exactly,
+not regenerated from whatever Init happens to be locally installed. No synthetic
+PrepareWorkload ImportClaim or old profile1 PrepareReceiptWorkload output can fill
+the receipt/verified-parent gap. Child proving is a later separate finite operation;
+its parent bytes are rechecked even when its untrusted request outlives this session.
+
+### D20 selected dependency-group acquisition seam
+
+Source inspection found that `AcquisitionClient.declaration` already resolves
+an exact `(ModuleID, structured Name)` without an index hint, but D18 receipt
+acquisition and D19 located composition forward only search-returned exports
+and committed bodies. Semantic closure may need another group that does not
+match the original search query. Requiring every dependency to be an original
+search candidate is therefore an operability defect, not a trust safeguard.
+
+Root selects fresh **source-only** `software/v5/authoring/acquisition.py` and
+the narrow dependency section of the existing authoring contract. The new
+DependencyAcquisition requires exact workflow/session types, the same actual
+DeadlineReceiptVerifier and an already selected module. It captures/rechecks
+the existing acquisition/client/store/budget/verifier identities and uses only
+the SAME underlying structural client; there is no renewed deadline or grant.
+The copied validated structured address goes through the existing route, exact
+summary/address checks, ModuleStore commit/readback, actual live session.open_group,
+and final liveness after output copying. It cannot promote search candidates,
+mint handles, verify a new module or crawl proofs. A late failure may leave
+structural custody or a live opening; this is explicitly not one atomic commit.
+
+Independent source review caught an important correction before execution:
+the retained public declaration helper performs optional discovery-feature
+extraction twice and may reject a valid complex type at its feature-profile cap.
+Root therefore selects direct use of the SAME structural `_get` and existing
+group route, followed by canonical group-opening/live-summary/unique-name checks
+and direct typed locator construction. No feature extraction, RecordID or
+synthetic candidate is needed. The fresh companion/contract now implement this
+correction; retained transport sources remain unchanged. This removes a real
+discovery-to-semantics coupling rather than merely documenting a restricted route.
+
+The source and contract are with the independent reviewer. Focused new controls
+are selected only after that review; no runtime or Git mutation by this lane.
+Used receipt/located/import sources remain untouched.
+
+### Most consequential next source proposal: ordinary certified-context authoring
+
+After the bounded dependency companion, prioritize the existing contract's
+`AuthorLean.lean` plus `source.py` adapter, not another network experiment.
+Mechanism confirms its present assignment is proof-cost work, not frontend work.
+The key input is **ImportSession.selected_data() from the same live verifier**,
+owner source and structured roots; a proof-authenticating JSON flag is not input.
+Root must explicitly assign implementation ownership before work begins.
+
+The minimum coherent slice is a bounded semantic-context assembler and Lean
+frontend together. Starting at caller-selected import addresses, traverse types;
+for transparent definitions traverse the committed actual bodies; for inductives
+include the whole group and reproduce/compare native-generated recursor metadata.
+For imported theorem and opaque interfaces traverse their types but not proof/
+opaque value ancestry. Missing groups/bodies produce bounded typed demands to
+the existing acquisition/session APIs. Exhaustion refuses without treating missing
+definitions as opaque. Context cost can depend on selected semantic-body closure;
+it must not depend on transitive theorem proof histories or unrelated corpus size.
+
+Use `DMKN.Mod.<ModuleID>` structured relocation and explicit foundation/external
+name inventories; never derive semantic names by splitting display strings.
+Install theorem/opaque assumptions only inside this owner-controlled authoring
+environment, transparent definitions with real bodies/hints, and inductives via
+Lean's group constructor. Preserve all old bindings across source elaboration.
+Export reachable NEW local groups/auxiliaries from the caller's actual structured
+roots. `source_rows.decode_source` can omit precisely registered external rows
+while rejecting unclassified declarations, partial groups and fresh local axioms.
+Unknown used Init/library constants must become captured local dependencies or
+refuse; importing Init for syntax does not expand the mathematical foundation.
+
+The frozen AgentClient source gives the environment-assembly/old-binding-check/
+reachable-export pattern. It cannot be used unchanged because it replays complete
+old proofs in an obsolete content format. ExportWorkload likewise cannot be used
+unchanged: it starts from Init with fixed theorem roots and has no certified import
+environment. A thin wrapper around either would not close the missing capability.
+Retain independent final relation checking as the soundness boundary, but require
+one actual source-derived Tree/map child to establish useful frontend compatibility;
+a handcrafted canonical child or an assumption-only identity example cannot replace it.
+
+### D20 actual dependency companion controls adopted
+
+Root executed the independently cleared exact selection
+`experiments/v5-local-checks/dependency-acquisition-controls-01-selection.json`,
+SHA256 `34f32284af2979e996f795d2407df2cee50fdc3adf759a556137481df1141a59`.
+Thirty-four source/eighteen runtime pins,15CPU/45wall seconds/256MiB/two processes.
+All six groups passed with no failure/error/skip; independent actual audit adopted
+all saved/current pins and clean closure. Job CPU0.921875seconds, wrapper0.34375,
+wall2.0356054seconds. Author read/rehashed outer
+`9c39b930643bb208beea39be35fc7a9981364d6853d4725fba955a15247be51e`
+and inner `a1231bf57da74b1c82d4e2b3d07f70f94e234290372b43c341c03a63e570c9c6`.
+
+The synthetic140-symbol structural type actually exceeds discovery's feature cap,
+yet passes the feature-free conditional group path (one request/9486reply bytes).
+Exact-name/corrupt-opening/wrong-selected-summary refusals precede any commit;
+TTL then earlier-session-expiry preserve two charged attempts/4618reply bytes
+and no commit. Late readback/open refusals leave structural custody only. Exact
+classes, live owner identity, copies and absent candidate promotion are checked.
+The conditional selected-summary/open callbacks are explicitly mocked; there is
+no positive registered handle, receipt verification, provider dial, authenticated
+location or genuine imported mathematics. All used companion/harness bytes are
+frozen. No rerun; the actual genuine endpoint remains required.
+
+### D20 next source selection: context/frontend/owner adapter
+
+Root now assigns new source-only `authoring/context.py`, `AuthorLean.lean` and
+`source.py`; no build, runtime, proof or positive admission is selected. The
+complete-group design below is added to the existing authoring contract and
+sent for independent challenge before coding that native seam. Used helpers,
+imports/acquisition and exporters remain unchanged. No transport variant is added.

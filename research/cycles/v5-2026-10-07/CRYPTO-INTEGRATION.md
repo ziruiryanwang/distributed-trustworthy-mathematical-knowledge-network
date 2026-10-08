@@ -1,5 +1,85 @@
 # Guest-cost diagnosis and semantics-preserving construction repair
 
+## Current D22: actual four-stage prefix; full producer plan pending selection
+
+Root reaped prefix01 session6942 with zero exit. Independent actual audit passes
+all four stage/checkpoint/schema5/binding/argv/process-closure checks. The outer
+RESULT SHA256 is `fb61eb62eb75a1c40694a4b5ab12c650c39cdb4738153b356591eb895672afee`.
+Actual worker CPU is1287.421875 seconds plus2.0 observed controller seconds;
+whole-wall observation94.4312573 seconds. The retained output census before
+outer RESULT is950,170 bytes/31 entries. All used source/selection/evidence is
+now frozen. There is still NO application receipt.
+
+| New stage | Worker CPU seconds | Command wall seconds | Checkpoint bytes |
+|---|---:|---:|---:|
+| lift0 |174.09375|12.4075880|223,214|
+| segment1 |751.5|54.7126236|234,817|
+| lift1 |182.5|12.8411263|223,214|
+| join1 |179.328125|12.5197989|223,214|
+
+These actual recursion costs exceed the historical104/106CPU means. Replace
+those scenario inputs in the next decision; do not claim the old forecast was
+an upper bound. Keep all five successful checkpoints (segments0/1,lifts0/1,
+join1) and the one capsule. Remaining graph is108 segment/lift/join triplets
+for2..109 plusfinish:325 calls; cold public admission is separate. Source-only
+successor planning is selected, not implementation or full-proof launch.
+
+## Previous D21: actual retained segment and selected bounded prefix source
+
+Actual segment0 calibration PASSED and root reaped it with zero exit; independent
+actual audit agrees. RESULT SHA256
+6212efa399c55e6032e78889e1180e578f015060bb128b58c9830be499fed066.
+Retained checkpoint234,817B, schema5/segment0, SHA256
+6c037a3a9ed19b34dd5137a0de1020e5f2934e6dab02765748156b67d5cb652b.
+565.03125workerJobCPU+0.78125controllerCPU,81.7326653wholewallseconds;
+peakJobprivatecommit3,533,524,992B, ordinary cleanclosure. This is one real
+cryptographically verified segment, NOT a module/applicationreceipt. Preserve
+and reuse it; no segment0 replay is selected.
+
+Progress starts crypto at135ms and writes checkpoint at80,685ms. The measured
+ordinary precrypto wall fraction is135/80,685=0.1673%; not a CPU fraction or
+a timing bound for other stages. A persistent CLI alone cannot remove the
+segment backend context or recursion program work: actual retained SDK creates
+them inside each proving call. Therefore no hostrewrite/backendchange is
+selected. Root selects source of advance_stages.py, using unchanged host03,
+image04/capsule03 and retained0, for exactlylift0,segment1,lift1,join1. Independent
+review and fresh root runtime selection remain necessary. Full329remainingcalls
+are not authorized. The existing PROOF-STAGING-AND-MINIMAL-LOOP note now gives
+the cost comparison and finite source contract; no duplicate plan is created.
+
+The exact controller source proposal is SHA256
+f67e493d409e4b3772e40115a21ee501f59d590ea71d4873e5daced090c82a33;
+module-base-prefix01-selection.json is SHA256
+6e4b8922bb6bf981ec05917f2bbe7c614118f4a002f34b11c0c9819559625920.
+AST-only inspection passes; independent exact review/root launch remain pending.
+The four stages have a2250workerCPU+60controllerCPU/660wholewall envelope,
+not a fullbase allocation. A successful prefix would leave325calls plus cold
+admission; every successful checkpoint is retained for that later decision.
+
+## Previous D19: actual retained capsule, one calibration proposal
+
+The repaired guest05/image04 actual snapshot03 PASSED under unchanged2^25;
+independent actual audit passes. Earlier no-capsule/live-build statements below
+are historical. There is still NO cryptographic module receipt or full proof.
+Capsule:110segments,0assumptions,21,274,865B SHA256
+55eaa583ddfde8ebe827bfa941fcb81b95f9773fd2b2e295df2166501d973980;
+binding4608ca4e3c12d338a86813afa96dbf418a1076eca79b2a8ab2838bb78135d925.
+Snapshot innerRESULT37ce9939dafe69594f03bd549e8c21d3e4b5c024d60c40acc2ced29ce6e4f3f3;
+outerc436bb93fade1ed262ca5d64b31858f2d1691f6303385924d6ae642d882ac7e5.
+2.671875Job+0.40625wrapperCPU,3.4458391wall, ordinarycleanclosure. The75B
+snapshotstderr is expected hostprogress.110*2^18=28,835,840 is a segment-row
+upper bound, not measuredcycles or cryptographic proofwork.
+
+Exact source-only module-base-segment0-01-selection.json proposal SHA256
+b1e7ae9d42cb54e131df6790280fc82147c549a966653e1025b0ccb9397c682b
+pins10actualinputfiles/96,597,806B and unchanged calibratedadapter2a2355.../
+planfe7735.... Only retained segment0 proof; zero reexecution, no nextstage,
+fullcampaign or applicationreceipt.1500JobCPU/300totalwall/4096MiB/2active,
+60controllerCPU remain exact. Root alone selects/launches after independent
+review; mechanism has not launched it.110segments mean substantial remaining
+cost: one segment observation is NOT a rigorous budget for othersegments,
+lift/join/finalization or the actual child/cold-admission gates.
+
 Mechanism checkpoint. Root owns runtime selection, SDK partial-trace design,
 build/proof allocations and adoption. This note is source/data analysis, not a
 new experiment, proof certificate or a claim that the dominant cost is known.
@@ -720,3 +800,26 @@ image+inner/outerRESULT paths/pins and actualimageID. Host03/profile2/heldbase
 input unchanged;240CPU300wall2048MiB,2^25/po2=18 unchanged. No new source,
 duplicate plan, placeholder selection or assumed imageID is necessary. Root
 alone launches after actual-output binding and independent review.
+
+Actual guest05 final PASS/reapedroot82528. ELF1,622,660B SHA256
+98f2b8955ccfbc258af53b503f4b82b146cea18e57f5df128faa8c8a19b77009;
+RESULT49d9dccffee46fc245f09c71a66bcaa38e19b8834d505b838239c095139cb2bb.
+189.625totalJobCPU (6.28125graph+183.34375compile),199.40625controllerCPU,
+434.6597575totalwall, finalactive0. No guestexecution/proof. Fresh assembly04
+selectionf69121ae9bcc0910069bfee36d166dbd3dafe7f3cb3b6c43963bc04a89858378
+binds that actualresult/ELF and unchangedassembler/kernel/adapter/plan, same
+120CPU120wall1024MiB2active. Independent actual/selectionreview pending;
+root alone launches. Snapshot03 exactpins wait actualassembly04/imageID.
+
+Actual assembly04 independently PASS: imageID
+9dfd589213a3245cf88e0d28096356aae4d2666bf0e85a7c3302b92e21d2c69e,
+image1,681,428B SHA256d76f623bb1de5c840fd2ef9c1ac35fc6aba2de74cda0f62c11c161f6973da31f.
+InnerRESULTf27ea56cb0c6ad6e60248ae46c759bbd38f66be0b33b11a2b1065fe5b9db7b36;
+outer69b48014b334aea219bbde2fec0f75fc7e007a26d13bb7b59fecef9a5aa12e5b.
+0.515625Job+0.328125wrapperCPU,2.7907562wall, ordinarycleanclosure.
+New module-base-snapshot-03-selection.json SHA256
+d0a2d11d304fd4eec470b8cbc44b57a277b7717fefe0d926ad7f50d696baffd9
+changes onlyfreshname+actualimage/assemblypins/actualID from snapshot02;
+host03,source/helpermap,input and limits unchanged. Source-onlyselection pending
+independentclearance/rootlaunch; no capsule/certificate yet. Generic segment0
+adapter remains applicable if an actualsuccessful capsule appears, never before.
