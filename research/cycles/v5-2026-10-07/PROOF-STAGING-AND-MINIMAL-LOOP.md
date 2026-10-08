@@ -21,6 +21,14 @@ by this note. The proposal below preserves the rationale; exact current interfac
 accounting/recovery limitations are in API.md, source hashes/status in
 CRYPTO-INTEGRATION.md. No actual prefix/source evidence is changed or replayed.
 
+The unused production profile now has SHA256
+`406fb0453b114315339d2e5e54af785cacd0b032a5856004fe0ebd407421c6fb` after
+adding the16 retained applicable runtime DLL/PYD pins (10,270,560 bytes), with
+python.exe/python314.dll already separately bound. Actual size/hash checks pass;
+this is the previously inspected runtime envelope, not a hermetic dependency
+closure. The request stays33c4947f60ccc3abec2a309d0c68882136211a2f016eebe33ae19af6af59c76a
+and output remains absent. Root alone chooses any launch after exact review.
+
 Prefix01 is now independently audited PASS, root reaped session6942. Its frozen
 outer RESULT hash is `fb61eb62eb75a1c40694a4b5ab12c650c39cdb4738153b356591eb895672afee`.
 Actual costs are lift0=174.09375, segment1=751.5, lift1=182.5, join1=179.328125

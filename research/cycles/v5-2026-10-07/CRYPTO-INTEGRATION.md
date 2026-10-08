@@ -1,5 +1,172 @@
 # Guest-cost diagnosis and semantics-preserving construction repair
 
+## D22 next integration proposal: real admission to an ordinary-source child
+
+Source-only proposal requested by root after prospective full-base production
+clearance. No implementation, runtime, new wrapper or allocation is selected by
+this section. It reuses the existing host/image, producer and scale-owned native
+frontend; it does not duplicate the conditional native fixture. A genuine base
+receipt is still absent at this checkpoint. Never register a synthetic positive
+handle or use the expected journal/capsule in place of that receipt.
+
+### Existing trust and data path
+
+| Boundary | Existing implementation | Exact consequence |
+|---|---|---|
+| Cold admission | `admission.verifier.ReceiptVerifier.receive` | Actual host `receive` with dev mode disabled, fully resolved proof, exact module/image/foundation/policy and same-call receipt binding; only then a live local handle. |
+| Select imports | `authoring.imports.ImportSession.use_handle`, `open_group`, `supply_body` | Same originating verifier and exact receipt; group openings and demanded semantic bodies bind the admitted summary. No acceptance JSON is loaded. |
+| Prepare ordinary source | `authoring.source.SourceOperation(...).prepare()` | Fixed source/structured roots/live-selection binding; complete semantic context or typed demands. No native process is started. |
+| Source-derived child | `SourceOperation.finish(EXPORT_bytes)` | One-shot return binding, actual returned local census, source-row decoding, and `ImportSession.make_request`; result is an untrusted profile2 input plus exact real parent receipts. |
+| Prepare exact host files | host03 `prepare IMAGE RAW_JSON FRAME EXPECTED` | Exact frame/expected journal construction, not kernel checking or certification. Parent journals are never relabeled. |
+| Retain child execution | host03 `stage ... snapshot 0 OUTPUT PARENT_COUNT PARENTS...` | Reverify every actual parent application receipt, execute the child relation once, and retain one capsule with measured segment/assumption census. This is not an application certificate. |
+| Finish proof later | existing `production.Producer` | Consume the actual capsule and parent pins, produce/resolve/finish; only separate receiving can mint child authority. |
+
+The current source already supplies the mathematical interface across these
+boundaries. The missing code is a reusable **owner-side execution/materialization
+adapter**, not a new proof relation, trust token, frontend, transport or checker.
+
+For the first real integration, use exactly one cold base admission in the same
+Python owner process that holds the ImportSession and SourceOperation. Do not run
+a disposable cold verifier and then deserialize its handle in another process.
+`ImportSession.receive` is an equivalent existing route when it is itself the
+one cold admission. If acquisition already returned a handle from the workflow's
+DeadlineReceiptVerifier, use that exact verifier/handle/receipt without a redundant
+second admission. Closing the located workflow revokes that authority; defer its
+close until source finishing and exact child-data materialization are complete.
+
+Read only the retained semantic base bundle for frontend data, not the base proof
+rows: `receipt-prepare-01/prepared/base/bundle.json` SHA256
+`09e4f3bbc045ef25ba0378ee000bdd36bd1d57423f60b696dafc57a48595c926`.
+Its fields are spec/openings/semantic bodies and explicitly nonadmission metadata;
+it contains no imported theorem proof body. Recheck its summary against the real
+receipt, open selected groups through the live session, and supply only committed
+bodies. Exact foundation rows already exist at
+`receipt-prepare-01/prepared/foundation.json` SHA256
+`736792e52ff276f3ee7cdc2efd4fe464e984bc7441771b07cde2aa920ff6b01c`.
+This fixed foundation includes its adopted proofs; zero *imported theorem ancestry*
+is not zero foundation or semantic-body input.
+
+Scale's preimplementation cross-review corrected this proposal's initial path:
+the fold-prepare bundle is an old policy/module and is NOT usable here. Only the
+receipt-prepare bundle above commits the current2b54d3be... module under5edfd0ee...
+policy. The foundation bytes are identical, but that does not migrate a module.
+No runtime used the erroneous proposal and no old bytes were changed.
+
+The meaningful local source/root comes from scale's existing Tree/fold/map/native
+work. Require substantive use of the imported `binary_congr` theorem in the new
+proof and selected Tree/definition interfaces; do not substitute a manually built
+fusion witness or include unrelated binder-control roots in the certified child.
+The actual local group count, ModuleID, rows, byte size and later segment count
+must be derived from the real export, not assumed equal to a prior synthetic
+fusion fixture. The source need not be novel to qualify this integration gate;
+the gate alone is not a knowledge-growth experiment.
+
+### Smallest reusable implementation to select next
+
+One public owner preparation controller can expose two narrowly scoped methods,
+with names finalized by root:
+
+1. `author(source_operation, fresh_directory, finite_limits)`: call its existing
+   prepare method; return typed missing-data demands without launching if not ready;
+   otherwise create-new/fsync exact request bytes, supervise one adopted frontend
+   invocation, retain process evidence, require clean closure and immutable bindings,
+   and pass its bounded `EXPORT.json` to the SAME live operation's finish method.
+   It owns no verifier, does not infer/renew an allowance and does not fetch demands.
+2. `snapshot(untrusted_child_request, fresh_directory, cycles, po2, finite_limits)`:
+   preserve the returned relation input exactly as canonical JSON and materialize
+   exact parent receipt bytes separately; supervise host prepare then exactly one
+   parent-aware snapshot. Return actual file pins/capsule binding/counts in the
+   existing Producer session shape, not a new mathematical handle or proof status.
+
+Use common existing supervisor/pin/clean-closure mechanics and one explicit finite
+owner allowance/deadline across these preparation methods. Do not make a new
+fixture-specific main script or add autonomous author/prove/retry behavior. Root
+can place the small public adapter alongside authoring/production without changing
+their used sources. The controller must measure/reserve worker CPU, controller CPU,
+wall and retained output; preserve failed/unknown work; and clamp each child to the
+remaining original allowance/deadline. It must not double-count nested supervision
+CPU. Constructing/closing a SourceOperation does not itself allocate or refund CPU.
+
+**Concrete environment seam:** frozen `operator/commons.py::supervise` invokes its
+fixed `child_environment(cwd)`, which strips every LEAN variable and sets PATH only
+to receiver bin/Python directories. Setting LEAN_SYSROOT in the outer caller is
+therefore insufficient. The actual linked frontend uses `Lean.findSysroot` and
+Lean shared libraries. Reuse the adopted supervisor unchanged and add, if selected,
+one tiny generic fixed-command owner worker inside its Job: validate the pinned
+native executable/runtime/request/output configuration, set operation-local
+LEAN_SYSROOT and Lean-bin PATH, invoke only `AuthorLean.exe REQUEST FRESH_DIR`,
+wait/reap and preserve bounded output. This is product execution plumbing, not
+another hardcoded mathematical test wrapper. Worker plus native child consumes
+two process slots and both costs belong to the same outer Job. No arbitrary
+executable/environment overrides from peers; no persistent environment changes.
+Known runtime pins do not establish a hermetic OS/olean/DLL closure. The native
+source remains owner-authorized executable source, not hostile-source sandboxing.
+
+Scale confirms the native two-argument CLI and SourceOperation APIs. Actual linked
+frontend SHA256 is `1f73b8b0ea20395a43202a3c155e6fd929a5ae0cef2a74a4c70d2625b9e3f69d`
+at `experiments/v5-local-checks/author-lean-link-01/link/AuthorLean.exe`.
+Its existing conditional controls and independently adopted pins, not a new build,
+must govern later selection. Link/runtime compatibility is not real import use.
+
+### Parent-aware snapshot obligations
+
+The used `SnapshotExistentialScreen.py` is **not** a child adapter: it requires
+V1 input, zero parents/rank0, constructs V2 test data, and passes parent-count0.
+Do not modify/reuse it unchanged or copy its base-only assumptions. The existing
+host03 commands themselves already support the required child and need no rewrite.
+
+For the live source result:
+
+- Serialize `result["input"]`, not the enclosing result containing Python bytes.
+  Retain each `parent_receipts` item as exact binary plus explicit hash/length;
+  no stringified bytes, synthetic journal, V1-to-V2 rewrite or renamed parent.
+- Require schema `DMKN_CERTIFIED_MODULES_V2`, adopted image/foundation/policy,
+  actual derived local summary/ModuleID, exact selected parent journals/openings,
+  and rank `1 + max(parent rank)` (rank1 for this actual rank0 base). Pin source,
+  request and parent inputs before/after the command and use fresh nonoverlapping
+  output paths. Sorting/request ordering must stay fixed across snapshot/proving.
+- Independently bind host prepare's frame to the exact canonical input and its
+  184-byte DMKNM002 expected journal to the derived child summary/image/rank.
+  `prepare` does not verify a parent receipt or prove the local rows.
+- Invoke the one snapshot directly, not execute-then-snapshot. Supply the real
+  base receipt as the sole parent. Host fully verifies it; the guest checks the
+  child relation and calls `env::verify` on exact parent journals; the host binds
+  actual assumption order to the fully verified supplied parent set.
+- Require actual schema3 capsule, finite size/count, one actual assumption for
+  this one-parent request, exact stdout/capsule binding and clean process closure.
+  Preserve its actual counts as Producer input. Do not assume the child fits
+  any historical segment/cycle estimate. Proposed first execution keeps the
+  already adopted2^25/po2=18 envelope unless root independently selects another.
+- A later proof allowance is separately selected from these actual measurements.
+  The capsule and request may outlive the import session only as UNTRUSTED data:
+  later host stages reverify the exact real parent receipts. This is not renewal
+  of the original authoring/acquisition allowance or persistence of a handle.
+
+If context preparation reports `NeedDeclaration`, `NeedBody` or
+`NeedVerifiedModule`, use the existing same-budget dependency/body/module companion
+APIs, close that unready SourceOperation, and construct a fresh bound operation
+within the SAME original owner allowance after the selection changes. No hidden
+provider crawl, synthetic search candidate or loop without a finite demand budget.
+An error/expiry after native export may preserve usable *untrusted* bytes but may
+not produce a successful live SourceOperation result.
+
+### Consequential qualification boundary
+
+Next implementation proof obligation is one real cold-base-admission/live-source/
+child-snapshot flow, with an independently checked source-derived imported-use
+census. Do not rerun scale's five unrelated native controls in that flow. Refusals
+for expired original selection or mismatched/missing real parent must not become
+fallback acceptance. Root selects exact changed-boundary controls after code review.
+Then fund only the measured child proof graph, including its one resolve, and
+perform one actual cold child admission with no base receipt/proof/source supplied
+to that receiver. Semantic openings needed for *later reuse* remain a separate cost.
+
+This closes a real reusable authoring/cryptographic integration gap; it does not
+alone establish federated discovery, reciprocal return, full deployment or net
+growth advantage. Bounded native deltas over certified frontiers remain the next
+cost-critical extension after the genuine recursive receipt gate, not a substitute
+for it. No new whole-library proof replay is proposed here.
+
 ## Current D22: producer controls ran; exact full-base owner request proposed
 
 Root reports producer-controls01 exited zero: eight synthetic groups, observed
@@ -11,7 +178,7 @@ These controls perform no cryptographic proof or real producer-constructor call.
 As separately selected source work, actual owner manifests now exist:
 
 - `experiments/v5-local-checks/module-base-production-01-profile.json`, SHA256
-  `999c5451156801b2985f9a5c8dd9500470bccc6e5676f57dbace857744da89bf`.
+  `406fb0453b114315339d2e5e54af785cacd0b032a5856004fe0ebd407421c6fb`.
 - `experiments/v5-local-checks/module-base-production-01-request.json`, SHA256
   `33c4947f60ccc3abec2a309d0c68882136211a2f016eebe33ae19af6af59c76a`.
 
@@ -21,6 +188,14 @@ allowance is `6e23ea7e9fa04070afc2fb33f9a5f5953918bcaad6a74b7eb4243bb6229f6a89`.
 It selects the325 missing calls and no guest replay, parent or cold admission.
 The actual output directory is absent. Root/independent exact review and launch
 decision remain necessary: this is NOT a live or authorized proof campaign.
+
+Before use, root requested the retained runtime envelope be explicit. The
+profile now carries16 additional DLL/PYD rows (10,270,560 bytes), independently
+size/hash checked against the18-file producer-controls adoption; python.exe and
+python314.dll remain the two explicit roles, not duplicate rows. This preserves
+the known applicable runtime envelope and makes no hermetic-closure claim.
+Only this unused profile changed; request33c494, used sources and all retained
+proof evidence stay exact. The output directory was still absent after checking.
 
 Prospective caps are150,000 worker CPU/900 controller CPU/14,400 whole wall,
 1GiB sampled new output/4,096 entries; stages retain1,500CPU segment,

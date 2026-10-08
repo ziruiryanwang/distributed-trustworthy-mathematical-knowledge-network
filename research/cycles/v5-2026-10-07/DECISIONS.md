@@ -1459,3 +1459,101 @@ compiler/library inputs. No Lean re-elaboration, new generic runner or runtime
 is selected. A separate reviewed finite link precedes the five conditional
 frontend cases. Owner-selected LEAN_SYSROOT/DLL search paths must be explicit;
 the fixtures never create a positive receipt handle or replace genuine import.
+
+### D23: retained native link and genuine production continuation
+
+Root resumes with canonical guard PASS and Git checkpoint46efa72; no runtime
+was inherited. Read the full new native harness, link selection, producer API,
+updated producer profile/request and independent prospective reviews. Git stays
+local on main with no remote; no old artifact or passed campaign is recreated.
+
+Select ONLY author-lean-link01, selection SHA256
+57ebc233489601091bf3a4a55e7c14da90a4cc581483e2803c492d06bb1b6277.
+Three sources37,153B and69 runtime/input pins are independently matched. Link
+retained C5cd6401e through pinned leanc with operation-local Lean runtime paths;
+90CPU/150wall/2048MiB/six processes. No Lean re-elaboration, source fixture,
+positive handle or receipt admission. Harness3f13702c and runtime manifest373862d5
+freeze on use. Preserve any failure. The selected full-base profile406fb045 and
+request33c4947f are prospectively cleared but NOT launched by this decision.
+Serialize native/proof operations: current free physical memory is about5.2GiB,
+while proof peak previously reached3.53GB. Independent source work continues.
+
+Adopt independent actual link01 PASS: executable593,408B SHA256
+1f73b8b0ea20395a43202a3c155e6fd929a5ae0cef2a74a4c70d2625b9e3f69d,
+2.421875Job+1.765625wrapperCPU/6.7398912wall, clean/reaped/closed/active0.
+No source request or mathematical admission. Root reads the exact five-case
+controls01 selection and independently matches all31sources344,047B and
+87runtime/input pins1,006,478,209B; adopt reviewer clearance. Select ONLY
+author-lean-controls01, SHA256
+8433dbc4b677135c328ad6bd4ba43b6966bc50d4804fdf4bc63d7d54802e3f24,
+90CPU/270wall/2048MiB/four processes. It checks conditional Tree/fold/map source
+use and four distinct refusal boundaries; no verifier/session authority is
+fabricated. Stop on first unexpected result and preserve evidence. The used
+source/context/frontend artifacts stay frozen, even if a failure is observed.
+
+Native controls01 terminates raw PASS/reaped25218: all five distinct cases pass,
+7.59375Job+1.921875wrapperCPU/11.7218668wall; clean closure/active0. Positive
+ordinary source exports three new declarations with Tree/fold/map/binary_congr
+reuse and zero imported theorem proof bytes. Four exact refusals pass. Actual
+independent review remains requested; this is conditional frontend compatibility,
+not positive receipt/session admission. No native runtime remains.
+
+Root selects genuine base-production01 through the already reviewed public
+Producer CLI. Exact owner profile SHA256
+406fb0453b114315339d2e5e54af785cacd0b032a5856004fe0ebd407421c6fb
+and request33c4947f60ccc3abec2a309d0c68882136211a2f016eebe33ae19af6af59c76a;
+allowance6e23ea7e9fa04070afc2fb33f9a5f5953918bcaad6a74b7eb4243bb6229f6a89.
+This is the325missing stages of the actual110segment capsule, retaining all
+five successful checkpoints; NO guest replay, old proof repetition, substitute
+receipt, new host/image or external service. Aggregate150,000workerCPU,
+900controllerCPU,14,400activewall seconds,1GiB sampled output/4096entries;
+per-stage segment1500CPU/300wall, lift/join/resolve250/120, finish30/120,
+4096MiB/two processes. No automatic retry or allocation renewal. The119,785.5
+workerCPU forecast is not a bound; the216,030 sum of stage maxima exceeds the
+aggregate allowance. Failure must retain checkpoints and charged work.
+
+This expenditure establishes the genuine reusable certified frontier for the
+central import/child/recursive-return integration. It does NOT assert a favorable
+cost for this tiny workload or choose mandatory sealing for every contribution.
+Native bounded deltas and selective sealing remain necessary cost work. Prior
+calibration/prefix1852.453125worker+2.78125controllerCPU/176.1639226summedwall
+remain recorded separately; earlier research/build/failure costs and measurement
+tails are not zero. Exact output is experiments/v5-local-checks/module-base-production-01.
+Root owns the live process, final review and subsequent separate cold admission.
+
+Production01 is live under root session71174. No second memory-heavy runtime is
+selected. Root reads the complete next-integration proposal at the top of
+CRYPTO-INTEGRATION and actual authoring API. Select fresh reusable preparation
+source only: mechanism owns software/v5/preparation/{owner.py,__init__.py,API.md,
+test_owner.py}; scale owns software/v5/authoring/{worker.py,test_worker.py}.
+Mechanism's OwnerPreparation provides author(...) and parent-aware snapshot(...)
+under one explicit finite owner budget/deadline; scale's tiny worker performs
+only the fixed pinned frontend invocation with operation-local Lean environment.
+Owners agree the minimal worker control schema before coding. No arbitrary
+command graph, remote runtime/profile choice, auto-fetch/retry/prove or mathematical
+handle is added. Preserve exact SourceOperation and current host/image APIs.
+
+The controller must keep the live source selection valid through finishing;
+expired or changed selection leaves only untrusted artifacts. It materializes
+the exact profile2 child input and real parent bytes; prepare is not acceptance,
+and snapshot must actually verify the parents/execute once. Bind the returned
+frame/184byte journal to independently derived input/summary/rank and return
+actual capsule counts in Producer-compatible shape. Per-call reservations,
+unknown closure, failed work and retained outputs remain charged. APIs expose
+accounting tails and non-hermetic/sandbox limits explicitly. Reuse implemented
+supervision with no change to frozen helpers; no base-only harness reuse or
+new trust token. Assurance reviews new code and controls before any launch;
+root owns exact finite selections and genuine receipt-to-source integration.
+
+Adopt independent actual native-controls01 PASS. All31saved/current sources,
+87runtime/input pins, original/saved selection and five requests match; four
+refusals have no export. Positive export23,483B/545rows/three local roots;
+outer033a6734 and innerc8e03b22 identify the actual reports in ASSURANCE.
+Full source/session/receipt integration remains open. Scale caught an old-policy
+bundle in mechanism's unexecuted proposal: use current receipt-prepare01 base
+bundle09e4f3bb, module2b54d3be/policy5edfd0ee, never old fold-prepare01/bundle030d35.
+Mechanism corrected its proposal; no operation used that erroneous reference.
+
+First read-only production observation: three new stages completed, fourth
+reserved, no failure,893.1875workerCPU charged. This is progress only, not a
+receipt or final actual audit. Keep root session71174 alive unchanged.

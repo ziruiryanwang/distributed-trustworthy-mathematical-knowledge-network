@@ -4221,3 +4221,105 @@ worker CPU is below the 216,030 sum of all stage maxima, so this finite allowanc
 does not guarantee completion. Carried calibration/prefix subtotal is scoped,
 not all historical project work. Root requested adding applicable runtime DLL
 pins before selection; the initial empty-runtime profile is NOT cleared.
+
+Updated prospective profile
+`406fb0453b114315339d2e5e54af785cacd0b032a5856004fe0ebd407421c6fb` adds the
+16 retained applicable DLL/PYD pins (10,270,560 bytes), all independently matching
+actual files and the previous controls pin map. It is 6,577 bytes; unchanged
+request `33c4947f...` is 4,410 bytes. Fresh output remains absent. Exact prospective
+clearance sent root for this updated profile and unchanged request, not the
+earlier empty-runtime profile. Finite request: 150,000 worker/900 controller CPU,
+14,400 wall seconds, 1 GiB retained output/4096 entries; segment 1500 CPU/300 wall,
+lift/join/resolve 250/120, finish 30/120. Reuses all five actual checkpoints;
+no old stage, guest execution, cold admission or automatic subsequent allocation
+is selected by this review. Actual runtime and final receipt remain unproduced.
+
+### D22 retained-C native link source/selection clearance
+
+Read the complete combined conditional controls/link harness at
+`3f13702cea308fff9e0552c9465f1b00361fa3d8fda2824de9193c4cca90f547`.
+The link mode loads no product Python modules and runs only retained generated
+C through fixed `leanc -O0 -leanshared`, without re-elaboration or owner source.
+Timeout now saves bounded partial stdout/stderr and command disposition; log
+capture's 1 MiB check is explicitly posthoc and the outer Job supplies process/
+memory supervision. Five later source controls are explicit structural-only
+conditional tests, without any synthetic positive receipt/session authority.
+
+Link-only selection
+`57ebc233489601091bf3a4a55e7c14da90a4cc581483e2803c492d06bb1b6277`
+matches three source files/37,153 bytes and 69 runtime/input pins/997,025,228
+bytes. Runtime manifest `373862d5...` contains 66 rows/988,652,359 bytes, all
+size/hash-consistent with actual files and selection. Fresh output absent;
+90 CPU/150 wall seconds, 2048 MiB/six processes/1 MiB outer streams. Generated
+C remains exact `5cd6401e...`. Operation-local LEAN_SYSROOT and bin PATH plus
+pre/post manifest/tool/C rebinding are explicit; not a hermetic toolchain claim.
+Root received scoped clearance; actual link/frontend execution still pending.
+
+### D22 retained-C link01 actual pass
+
+Independent actual PASS for link01. Three saved/current sources, all 69 runtime/
+input pins and saved/original selection `57ebc233...` match. Complete outer/inner/
+command results read; direct leanc exits zero with no timeout, truncation or logs.
+Actual binary 593,408 bytes,
+`1f73b8b0ea20395a43202a3c155e6fd929a5ae0cef2a74a4c70d2625b9e3f69d`.
+Outer result `bc7316e2d0b783e69ba4c2327d6bb29e71e449fdbad933a5d87d0859ccf32849`;
+inner `20a65bdd746673202a6d61d18a91c9ef88fbdf6fba221d7664145b7993118c3d`;
+command `a761b4c891971b97b3212f9c97aeec2d8f1e8632198dee17a8e5a5ad01f559f7`.
+2.421875 Job plus 1.765625 outer wrapper CPU, 6.7398912000935525 whole-wall
+seconds; nested 0.046875 supervision is included. Clean zero exit/reaped/closed,
+active0, total6 processes, peak96,149,504 bytes, no cleanup/termination errors.
+No Lean source re-elaboration, owner request, receipt or admission. Used harness,
+runtime manifest, selected evidence and binary freeze; no link rerun requested.
+
+Five-case conditional native controls selection
+`8433dbc4b677135c328ad6bd4ba43b6966bc50d4804fdf4bc63d7d54802e3f24`
+independently cleared: 31 source files/344,047 bytes and 87 runtime/input pins/
+1,006,478,209 bytes match, output absent. Uses linked binary `1f73b8b0...`,
+retained exact structural bundle `09e4f3bb...` and foundation `736792e5...`;
+90 CPU/270 wall seconds, 2048 MiB/four processes. Reviewed frozen harness runs
+five distinct source/refusal inputs with early stop, retained diagnostics and no
+forged positive receipt/session; context/source drafts match the earlier review.
+Actual compatibility and the authenticated source-to-child endpoint remain open.
+
+### D22 conditional ordinary-source controls actual pass
+
+Independent actual PASS for all five native controls. All 31 saved/current source
+files, 87 runtime/input pins and saved/original selection `8433dbc4...` match.
+Full five case/command records, four exact refusal stderr messages and aggregate
+results read. Request hashes all match; no negative case has an EXPORT result.
+The positive export has 545 rows, exactly the three intended local roots/names,
+matching source/selection bindings and false mathematical acceptance. Reviewed
+source inspector confirms substantive Tree/fold/map/binary_congr use and implicit/
+explicit binder distinction; no imported theorem proof bytes. The four actual
+refusals are foundation Eq binder type mismatch, regenerated recursor RHS mismatch,
+missing transparent body, and fresh OwnerV5.bad axiom.
+
+Outer result `033a67348d6f389c629090607ead798aabd71a63b6099f55ae77d35fd4741053`;
+inner `c8e03b22146fef679fcf88a67dc14d3c2fb54204e3878ccd4201da99d03231ae`.
+EXPORT 23,483 bytes,
+`5400be333bfc424793435be88f7000a09af385b5aae844fa82e02f53e7a9c448`;
+NDJSON 22,878 bytes,
+`c79cc500bdd95692f2f2dab19213ad1b106bd268cf7f4da87f9eefe3b81104c3`.
+7.59375 Job plus 1.921875 outer wrapper CPU seconds, 11.721866799984127 whole-wall
+seconds; nested 0.03125 supervision included. Peak499,224,576 bytes; clean zero
+exit/reaped/closed/active0, seven total processes, no cleanup/termination error.
+No live import session, real receipt verification, final relation or child
+certificate has been tested by this conditional fixture. Used source/evidence
+remain frozen. A read-only audit formatter stalled; its exact shell identity was
+checked, only that shell stopped/reaped, then the audit completed with plain reads.
+No product, test, proof process or artifact was modified by that cleanup.
+
+### D23 ordinary-source integration proposal challenge
+
+Read the complete new CRYPTO-INTEGRATION proposal. The actual cold verifier ->
+live ImportSession/SourceOperation -> one-shot source-derived child -> exact real
+parents -> parent-aware snapshot path has no immediate architectural blocker.
+The public adapter must retain one original allowance/deadline across its methods,
+exact supervisor loader identities, immutable request/receipt bytes, original
+operation recheck after native closure, and charged fail-closed unknown cleanup.
+The tiny native worker must expose no peer-controlled arbitrary argv/environment.
+The snapshot may outlive handles only as untrusted data; host rechecks real parents.
+Root/scale already identified the proposal's stale foldbundle; only current
+receipt-prepare01/base bundle `09e4f3bb...` is the matching fixture, not old-policy
+foldbundle `030d3520...`. Actual D23 controller/worker sources await review. Root's
+full-base producer71174 is live under the separately reviewed unchanged allowance.

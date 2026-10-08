@@ -2786,3 +2786,77 @@ bootstrap requirement, and preservation of any foundation mismatch. Suggested
 next meaningful native input is an actual imported Tree/fold/map/binary_congr
 source-derived fold_map law, not an assumption-only identity. Structural packet
 success cannot replace actual positive receipt/session-to-child qualification.
+
+### D22 compile repair, retained native link and conditional control selection
+
+Build01 failed on Lean's reserved local identifiers `meta` and `scoped`; all35
+parser diagnostics and clean failure remain. Outer RESULT390df8553cd197a19bf1c2e02b6da052986d176e1f264d571fd1284e2747191e:
+5.265625JobCPU+0.703125wrapperCPU seconds,50.7992943whole-wall seconds. No authoring
+input ran. Original source00f90c7f is frozen. Root selected fresh
+`native02/AuthorLean.lean`: exact byte copy hash-checked before the minimal local
+identifier and relative-license-path edits. Source9597caa077301506fbbbde257a3a466b042f2eb1a6b442c0a1a550b619cddd1c
+and build02selectionc763b5c9833aa6efbe0bdee1afcabd1658134e8366c38e587b25bebb7245d83c
+passed independent source review and actual root compilation.3.875JobCPU+
+0.5625wrapperCPU seconds,4.6882247whole-wall seconds, empty logs and clean closure.
+Native02 is now used/frozen. Actual .olean22e17b5663a8c9779666e3b3e218155ca111eccaf81e0eff369a7ea0b0492a2b
+(4,457,008B) and generated C5cd6401e02f59989350e04a2900df88d47a2a548f67be6d1e458515123473e73
+(1,488,069B) are retained. Compilation is not authoring success.
+
+Root selected the assigned harness's stdlib-only exact link mode. Selection
+`author-lean-link-01-selection.json`57ebc233489601091bf3a4a55e7c14da90a4cc581483e2803c492d06bb1b6277
+uses three sources/69runtime pins,90CPU/150wall seconds,2048MiB/six processes.
+The harness3f13702cea308fff9e0552c9465f1b00361fa3d8fda2824de9193c4cca90f547 and
+runtime manifest373862d53214e39d92209d2afbca563eefa037b4eaab223400abe3a821f2fb8c
+are used/frozen. It links held C with retained `leanc -O0 -leanshared`, without
+Lean re-elaboration. Root reports/adopts independent actual PASS:
+2.421875JobCPU+1.765625wrapperCPU seconds,6.7398912whole-wall seconds. The resulting
+593,408B executable is `author-lean-link-01/link/AuthorLean.exe`, SHA256
+1f73b8b0ea20395a43202a3c155e6fd929a5ae0cef2a74a4c70d2625b9e3f69d.
+This lane read the inner result and did not launch anything.
+
+The runtime manifest pins66 explicit retained tools/libraries/Lean headers;
+owner-local LEAN_SYSROOT/binPATH is installed inside the supervised worker.
+This is not a hermetic toolchain claim. Timeout handling preserves bounded
+partial logs/disposition; capture-output quotas are explicitly posthoc under
+outer memory. `API.md` documents the actual source preparation/return methods,
+demands/lifecycle and the production source-worker environment integration gap.
+
+Proposed exact conditional controls selection is
+`author-lean-controls-01-selection.json`8433dbc4b677135c328ad6bd4ba43b6966bc50d4804fdf4bc63d7d54802e3f24:
+31sources/87runtime pins,90CPU/270wall seconds,2048MiB/four processes. It calls
+the retained executable directly, with no repeated successful compile/link.
+Inputs are actual `receipt-prepare-01/prepared/base/bundle.json`
+09e4f3bbc045ef25ba0378ee000bdd36bd1d57423f60b696dafc57a48595c926 and foundation
+736792e52ff276f3ee7cdc2efd4fe464e984bc7441771b07cde2aa920ff6b01c. The base bundle
+has the current module2b54d3be...,11groups/11semantic bodies and no theorem proof
+bodies. No verifier/session/positive handle is fabricated. One positive source
+uses exact-qualified Tree/fold/map/binary_congr and explicit Tree.rec induction,
+plus two binder-info-distinct roots. Four negatives cover foundation binderInfo,
+generated recursor RHS, missing transparent body and fresh-axiom escape. Root
+owns separate review/launch; actual controls are not claimed here. Mechanism
+separately owns genuine receipt/session-to-source child integration; no duplicate
+fixture work is assigned.
+
+### D22 actual five-case native result read
+
+Root's controls01 returned zero and closed/reaped cleanly. Author read full outer
+and inner results and rehashed them: outer
+033a67348d6f389c629090607ead798aabd71a63b6099f55ae77d35fd4741053;
+innerc8e03b22146fef679fcf88a67dc14d3c2fb54204e3878ccd4201da99d03231ae.
+All five cases pass. Actual positive output has three local groups/declarations,
+module890b30cc92673437addbe6d33409e89ced54b03ce29abb97043db9016eb700f9,
+substantive inductive/definition/theorem use and preserved binderInfo distinction.
+Four exact native refusals occurred, with no final EXPORT for negatives. No
+receipt verification or positive handles; imported theorem proof bytes zero.
+Total7.59375JobCPU+1.921875wrapperCPU seconds,11.7218668whole-wall seconds;
+peak499,224,576B,active0,total7processes,no cleanup errors. Independent actual
+audit is root/reviewer-owned; no new run is selected by this checkpoint.
+
+API documents the passed conditional scope and still-open genuine source endpoint.
+The old fold-prepare01 bundle is NOT appropriate for that endpoint: it binds
+module28b3e7c4.../policyb49e45c0.... Author identified and sent this stale-reference
+correction to mechanism/root before implementation. Use the current receipt-
+prepare01 bundle09e4f3bb... (module2b54d3be.../policy5edfd0ee...), which was used in
+the actual five controls. Do not reinterpret old-policy identifiers. A meaningful
+genuine child should select only the substantive theorem root, so its resulting
+ModuleID is to be derived, not copied from this three-root control.

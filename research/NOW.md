@@ -1,5 +1,29 @@
 # Current research desk
 
+**D23 live checkpoint:** full-base Producer session71174 is running unchanged;
+first three new stages report success, no failure, no final receipt. All five
+native controls now pass independent actual audit. Mechanism implements fresh
+preparation/owner.py with author+snapshot APIs; scale implements fixed-command
+authoring/worker.py; assurance reviews both. Use current receipt-prepare01 base
+bundle09e4f3bb, not old-policy fold-prepare01. Root owns Git/exact launches; used
+frontend and prior proof evidence remain preserved.
+
+**D23 full-base production selected:** five native frontend controls actually
+pass (independent actual review requested). No native runtime remains. Root
+selects public Producer CLI profile406fb045/request33c4947f for325missing stages,
+reusing all five genuine checkpoints and the actual110segment capsule. Finite
+150,000workerCPU/900controllerCPU/14,400wall/1GiB allocation; no automatic retry,
+new guest execution or ancestral proof replay. No final module receipt exists
+yet. Source-only public authoring/snapshot integration continues in parallel.
+
+**D23 native link selected:** root resumes from Git46efa72, guard PASS. The
+retained successful C will be linked once under reviewed link01/57ebc233 limits;
+no Lean re-elaboration or positive admission is selected. Full-base producer
+profile406fb045/request33c4947f are prospectively cleared, not yet launched.
+Scale finishes native controls/API; mechanism prepares genuine receipt-to-source
+integration; assurance reviews changed seams/actual outcomes. All v5 gates remain
+open and used predecessor evidence stays frozen.
+
 **D22 producer controls pass; native frontend compiles:** eight new synthetic
 producer tests pass independent actual audit. Real full325-call producer request
 is in preparation, not launched. Native frontend's first compile failed on

@@ -1,0 +1,271 @@
+{
+  "schema": "DMKN_AUTHOR_LEAN_LINK_RUNTIME_V1",
+  "root": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\runtime\\lean-4.34.0-windows",
+  "files": {
+    "bin/clang.exe": {
+      "bytes": 217600,
+      "sha256": "1aea18dca98f91a6a7c65532adc2567efc775904d2a4bd28bf06731bc2c3778c"
+    },
+    "bin/ld.lld.exe": {
+      "bytes": 6772224,
+      "sha256": "675e59f33f11cb90500577f116082ed4a6214fcac3a1bad88d6323aa0373179f"
+    },
+    "bin/leanc.exe": {
+      "bytes": 100864,
+      "sha256": "f9ad423614cffe541c6009af96dc47cd775953bf86d4f6a05db578dfe5532726"
+    },
+    "bin/libc++.dll": {
+      "bytes": 1659392,
+      "sha256": "8a9deaac6d2f4d2de468a544d1f35cd0dd4bcde03cda3cfb76fb9674749828d4"
+    },
+    "bin/libclang-cpp.dll": {
+      "bytes": 71108608,
+      "sha256": "1b32dd58335db4a984237e1fd1993cfd0f0fa413b5d10957290703eb03377ca4"
+    },
+    "bin/libInit_shared.dll": {
+      "bytes": 28345856,
+      "sha256": "841b87dfdfb81be44d03720039d123cac50e9b3e2461ff50753f77ba2c7a0b8f"
+    },
+    "bin/libleanshared.dll": {
+      "bytes": 70414848,
+      "sha256": "002995f741bab9497ff7ecd18be469ddd5dd7d0833037d6f434084d36138f2cd"
+    },
+    "bin/libleanshared_1.dll": {
+      "bytes": 52662272,
+      "sha256": "15d171f935fc65a394049af4b027818891fa271821c3a5524a2fdc7688ecfa45"
+    },
+    "bin/libleanshared_2.dll": {
+      "bytes": 59422720,
+      "sha256": "bdbb5b6c62d4530c296a05828f1a9a0c9f52ad7da5d17efd2b1cba505468355b"
+    },
+    "bin/libLLVM-22.dll": {
+      "bytes": 90563584,
+      "sha256": "beaba61b3176e06fc0c4bf87e8bfae094a2405d01fa8e03d78029471555445d2"
+    },
+    "bin/lld.exe": {
+      "bytes": 6772224,
+      "sha256": "675e59f33f11cb90500577f116082ed4a6214fcac3a1bad88d6323aa0373179f"
+    },
+    "bin/zlib1.dll": {
+      "bytes": 131072,
+      "sha256": "94dd0a72d4da79e25294a91d1edf902d76eade7512d9218609a5fe43e3a7397a"
+    },
+    "include/lean/config.h": {
+      "bytes": 264,
+      "sha256": "9985404cb86d0cdab0b68f18bf398c46619ef4a6532cc7d7b82e732a9dcd0d17"
+    },
+    "include/lean/lean.h": {
+      "bytes": 140236,
+      "sha256": "03650048fa40c6c96f80e5250a6f47abb9bdfed5dad96bf83c47a1a26e3e01fc"
+    },
+    "include/lean/lean_gmp.h": {
+      "bytes": 604,
+      "sha256": "dc0be10c6ae4d8081fb73f63f6767d255d63559d15d399554c57d47ddf616bb1"
+    },
+    "include/lean/lean_libuv.h": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "include/lean/mimalloc.h": {
+      "bytes": 47671,
+      "sha256": "b457b2365eb25d852efe02f0b5808c99f822b2934d6bcf9acf3a06254c8dcdd1"
+    },
+    "include/lean/version.h": {
+      "bytes": 412,
+      "sha256": "6454e458e3641bff9446b2b820c8e95db87de7307cfe29c3b07f89d317f24926"
+    },
+    "lib/crt2.o": {
+      "bytes": 24820,
+      "sha256": "eccc9562e3199f284234f7ef821a8c63cae449012392e80405875d08b2b21a1d"
+    },
+    "lib/crtbegin.o": {
+      "bytes": 628,
+      "sha256": "be5fe272cc521f0c5227c40545d5dac2c42abd739cf8048ade51e5159d840a65"
+    },
+    "lib/crtend.o": {
+      "bytes": 628,
+      "sha256": "b8da76b9fbf1e113f94649d26047580e21a27878fc0ffc651874b31a2dedb43f"
+    },
+    "lib/dllcrt2.o": {
+      "bytes": 17336,
+      "sha256": "c03d695f91ae5c70ceef0c2f3c35e68f22cc2e859c60b5fa11a7ac4378f6abc7"
+    },
+    "lib/lean/libInit.a": {
+      "bytes": 25124098,
+      "sha256": "cf16dbefa0d3b56e2bd09024f4aace0216dc39a1620ab1dff509214bafae8568"
+    },
+    "lib/lean/libInit_shared.dll.a": {
+      "bytes": 18695336,
+      "sha256": "43d6af92234ee10d4428d75eb5e1f9b450e9b3d9045a7fbc6a121660a3c7607e"
+    },
+    "lib/lean/libLake.a": {
+      "bytes": 20839330,
+      "sha256": "d279ddda58b09019473ea79c73ce9bd993a1da6e53b3a9d79208750b7d6f78e9"
+    },
+    "lib/lean/libLake_shared.dll.a": {
+      "bytes": 6690714,
+      "sha256": "c33baca4add10c223220ff20a9dfbef867b32de249867d37b105e97c86099431"
+    },
+    "lib/lean/libLean.a": {
+      "bytes": 340642802,
+      "sha256": "e52a91fc07de32b404e5aec01a17b303d95556688e07ca8d0345c4097c2d2784"
+    },
+    "lib/lean/libLeanc.a": {
+      "bytes": 41318,
+      "sha256": "296d60851dd52f1099e39650085d1f554d9ba160e591709d505837432c39271e"
+    },
+    "lib/lean/libLeanChecker.a": {
+      "bytes": 54158,
+      "sha256": "9b80143ffa32c0e96d134a1ac5ffd3cf0702f631e1cac2e6433fd86bc1a455e6"
+    },
+    "lib/lean/libleancpp.a": {
+      "bytes": 2563666,
+      "sha256": "3352b4fe412cd6668373560e2d57c59859ab1500e5f23c36310c2df6fc84c8af"
+    },
+    "lib/lean/libLeanIR.a": {
+      "bytes": 326554,
+      "sha256": "b280b9d2f7d2dd98ef85909521e9d3454080538351cc686789eac8ad885ffc18"
+    },
+    "lib/lean/libleanmanifest.a": {
+      "bytes": 2324,
+      "sha256": "c9324d90821f4cf10394f6cdee1e5e6f8d3536713c4ffa2b62ce86a48ee10300"
+    },
+    "lib/lean/libleanrt.a": {
+      "bytes": 1189128,
+      "sha256": "0687121d67dcff0a86e01cdde92b9838507443db1f59979b2dbaa1e6ba0c6ac7"
+    },
+    "lib/lean/libleanshared.dll.a": {
+      "bytes": 52370776,
+      "sha256": "2c66a7e84f3342cfaf77bee12f89e07b26567803be00c8658d47376ec7c30b79"
+    },
+    "lib/lean/libleanshared_1.dll.a": {
+      "bytes": 37922042,
+      "sha256": "2c74fcf852f1b99e3cfebf5c684941d59ac21626de6d4f6858339c3d0c6081c9"
+    },
+    "lib/lean/libleanshared_2.dll.a": {
+      "bytes": 40595610,
+      "sha256": "8f9f43f7121f51d5d132120a9614821807437ec5369143785c88cc72b61a8461"
+    },
+    "lib/lean/libStd.a": {
+      "bytes": 30510264,
+      "sha256": "c19cc6de44db2b1ca18f44ac80175e784d0458f182dcf5b0187a7691ca10716e"
+    },
+    "lib/libadvapi32.a": {
+      "bytes": 200914,
+      "sha256": "25af7787cd9a365f6485900f0f39ce42b40e90561e41843e3e13cb77a5273270"
+    },
+    "lib/libbcrypt.a": {
+      "bytes": 16244,
+      "sha256": "6f6c23b3f46ee45e56bea34d6574a9e9f709c1330c02be947e3269dcb43ba20b"
+    },
+    "lib/libc++.a": {
+      "bytes": 3625804,
+      "sha256": "16e0958a2e0addceb70dac0aed019463dc710bb83b7ea00ceb3b26dd0d481a56"
+    },
+    "lib/libc++abi.a": {
+      "bytes": 741256,
+      "sha256": "96c35a917aa700b66e81ddeaac8457a99559999f948d09afe93be03863a52b40"
+    },
+    "lib/libcrypt32.a": {
+      "bytes": 73954,
+      "sha256": "91725c34a74762bf9d403b4bd238ec2484ac600d4a1e61b8bc3fce083042a653"
+    },
+    "lib/libcrypto.a": {
+      "bytes": 9083506,
+      "sha256": "ccba334a376bcfec6ede1c340078ccd9ec747bd9d3fe85a8548c47f142b73fe9"
+    },
+    "lib/libdbghelp.a": {
+      "bytes": 49766,
+      "sha256": "f407acff38e12cb5227a6bad5f023f31c3705aca0a5339fc9b25ec433342e3cc"
+    },
+    "lib/libgdi32.a": {
+      "bytes": 208456,
+      "sha256": "4644a7db189fb5dda4e933803b017a4fe1725d04fe7c2b43540e7f12cbe31e7a"
+    },
+    "lib/libgmp.a": {
+      "bytes": 1257966,
+      "sha256": "50c6c0f596274b87a7dce9ab1fb7844c4ace58a1ae0bc9dadce860ec080d77f5"
+    },
+    "lib/libicu.a": {
+      "bytes": 203082,
+      "sha256": "caac4424be135e9a42a05e54ebafc851ecab00c68cd8872df92b2d49e1e98fc9"
+    },
+    "lib/libiphlpapi.a": {
+      "bytes": 84806,
+      "sha256": "6d83b979e5535280f3e6cff327f7a863a9353dfcd60b20ab062f500613ec4c63"
+    },
+    "lib/libkernel32.a": {
+      "bytes": 572718,
+      "sha256": "5f16fef0a0e68dd08beb9bb4b3924b605cc6e51839405b353b16843b478b68e2"
+    },
+    "lib/libm.a": {
+      "bytes": 920,
+      "sha256": "0bb4732c24467ec9e88e6077a8dbb3a211182a01d96ce39134c6c0e025c93b53"
+    },
+    "lib/libmingw32.a": {
+      "bytes": 127598,
+      "sha256": "0892dac181bb2c587ac8bfe34bdd0418074e07f997aa8807b1c22986d4baf71e"
+    },
+    "lib/libmingwex.a": {
+      "bytes": 1860052,
+      "sha256": "a02c8de612bde89fe57fa6f0e4ce2938b4701d93f5c2536aeff0a39fc02931e7"
+    },
+    "lib/libmoldname.a": {
+      "bytes": 926,
+      "sha256": "789200973efb6bfeee186d7e7d7b3fcb9f2781312615c44f69529dc5b3bf1c39"
+    },
+    "lib/libmsvcrt.a": {
+      "bytes": 838666,
+      "sha256": "9cde48e4b8b6a66e249fc9f7bc4d01bed10f466431ed30a592469253fd570902"
+    },
+    "lib/libole32.a": {
+      "bytes": 119320,
+      "sha256": "a708363a6239cdc8c9f1612aa5e80445b15b7777da17226965312b475cf4c639"
+    },
+    "lib/libpsapi.a": {
+      "bytes": 7044,
+      "sha256": "076cc8e87fe8ca9011785893c3e11491566da7772f58cc242ba2ded1b87b8170"
+    },
+    "lib/libpthread.a": {
+      "bytes": 88632,
+      "sha256": "4896cb34d9db5edca7c3740b9a411844fcf377c770e92a442a8bac71ff77977f"
+    },
+    "lib/libpthread.dll.a": {
+      "bytes": 38072,
+      "sha256": "00acde66932e311faf7b0809a88c4b4f30d83399fa9720d1ff6a69af77d293f0"
+    },
+    "lib/libshell32.a": {
+      "bytes": 92168,
+      "sha256": "66dcaab29fb70660c542d7555512d43c9d1c34aa08d0bbcfa126e03f73bcda4d"
+    },
+    "lib/libssl.a": {
+      "bytes": 1570648,
+      "sha256": "f07316bcdd872e6acb007d5552c66215e9c3e5665c6f3247494348175adf60a4"
+    },
+    "lib/libucrtbase.a": {
+      "bytes": 773202,
+      "sha256": "2807235d4ce793dca6700248c3ae5bf890a0b38f51766ddcc34ed9031a76e1ed"
+    },
+    "lib/libunwind.a": {
+      "bytes": 89832,
+      "sha256": "34eba43da3451a537e8d9794296fd785afb8e7dadb203fe51e83f73dca12d2e6"
+    },
+    "lib/libuser32.a": {
+      "bytes": 207984,
+      "sha256": "6b2bea0a02e6a95bcbb684ff4ede16a4a51c8bd0a55e7e15b81255c4467190bb"
+    },
+    "lib/libuserenv.a": {
+      "bytes": 19538,
+      "sha256": "c9d73aedfcbde527e9a41e9c1bb72924bd6fac5e8a4d0cae13483e8b72e2f94b"
+    },
+    "lib/libuv.a": {
+      "bytes": 562670,
+      "sha256": "05ae2391a2a4442bf496479514df7451c73b98d62119296efcc9de5f9a5431f0"
+    },
+    "lib/libws2_32.a": {
+      "bytes": 164632,
+      "sha256": "740d424a56b433c2d72b83f200abc80d436ee9b3d7f541f92bbf628ef03e9e1e"
+    }
+  },
+  "scope": "Explicit retained compiler, link libraries and Lean headers; not a hermetic toolchain or operating-system proof"
+}

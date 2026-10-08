@@ -4,6 +4,26 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+D23 active source assignment: mechanism owns fresh preparation/owner.py,
+__init__.py,API.md,test_owner.py; scale owns fresh authoring/worker.py and
+test_worker.py, agreeing the fixed worker schema before coding. Assurance
+reviews both. Root owns live proof session71174, actual import integration,
+Git and growth; no other memory-heavy runtime. Existing sources stay frozen.
+
+D23 production launch: root owns one exact full-base Producer operation under
+profile406fb045/request33c4947f, final audit/admission, Git and growth costs.
+All five native controls terminated raw PASS; assurance audits actual evidence.
+Mechanism/scale continue source-only public authoring and parent-aware snapshot
+integration. Serialize further memory-heavy operations with live proof stages.
+
+D23: root owns reviewed native link01 launch, subsequent finite decisions,
+integration/Git and growth accounting. Mechanism prepares source-only genuine
+cold receipt-to-ImportSession-to-ordinary-Lean-child flow; scale finishes native
+controls/API; assurance owns independent source/actual review. All use canonical
+root E:\Distributed Trustworthy Mathematical Knowledge Network and checkpoints
+under research/cycles/v5-2026-10-07/. No agent Git mutation, used-source edit or
+repeated passing campaign. Full proof production remains unlaunched.
+
 D22 latest: root owns integration/Git/exact launch decisions; no runtime lives.
 New-owner six controls and producer eight synthetic controls pass actual audit;
 native02 frontend compile passes actual audit after preserved keyword failure.
