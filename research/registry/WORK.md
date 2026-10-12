@@ -4,6 +4,18 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-12 next central implementation: integrated proof-validation build and
+two retained actual comparisons independently PASS; no runtime remains live.
+Root owns host/build.py + Select-AggregateHostBuild01.ps1 exact single-link
+selection, pending independent closure clearance. Base owns aggregate_guest/
+graph.py/build.py/proposal, checkpoint AGGREGATE-GUEST-INTEGRATION.md (source
+only; three manifests are already reviewed). Author owns only fresh
+aggregate_claims/aggregate_admission.py and focused control draft, checkpoint
+AGGREGATE-PUBLIC-ADMISSION.md; typed I/A member principle is adopted. Assurance
+owns actual/evidence and independent source reviews. Root alone runtime/Git.
+All shells/edits remain canonical E:\Distributed Trustworthy Mathematical
+Knowledge Network; checkpoints research/cycles/v5-2026-10-12. Guest/proof held.
+
 2026-10-12 current integration slice: root adopts claims-controls02 and owns
 delta-claim-controls01 exact selection/launch, whole-system economics, Git and
 future guest decisions. Base owns fresh proof_validation/lib.rs and integration/

@@ -1,0 +1,14 @@
+{
+  "schema": "DMKN_V5_PROOF_VALIDATION_COMPARISON_V1",
+  "name": "proof-validation-native-compare-01",
+  "authorizes_two_native_calls": false,
+  "source": {
+    "bytes": 12277,
+    "sha256": "d0b0bc18788cd8df2334dec97b488b2a33e61a21999e64bf40ac5fec6d03aff7"
+  },
+  "build_result": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\proof-validation-integration-build-01\\RESULT.json",
+    "bytes": 27713,
+    "sha256": "55ba9a702360dd10a6b9bea00f481d5066553a1b8debcb10ca43bbcab4de4069"
+  }
+}

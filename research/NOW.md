@@ -1,5 +1,27 @@
 # Current research desk
 
+**2026-10-12 actual optimized native comparison independently adopted.** Result
+f60945682fd510c837a26c6bc1703fe8065e8e1a2a301d675e9f869d44384d33 passes:
+valid two-delta output is byte-identical to the retained baseline; invalid proof
+still fails at the actual kernel type-equality assertion. Exactly2new native
+calls, no baseline replay;0.0625workerCPU+1.90625controllerCPU,3.217173wall,
+clean closure. This validates integrated behavior, not a measured speedup or
+new checker-to-Lean theorem. Root's host single-link selection b8c64994 is
+prepared (3sources,3142runtimepins), awaiting independent closure clearance.
+No runtime, aggregate guest/image or proof is live. Base and author continue
+the distinct guest-build and real aggregate-admission source paths.
+
+**2026-10-12 integrated optimizer compile independently adopted.** Build01
+55ba9a70 passed four compiles with78 actual bindings,74.609375 workerCPU plus
+2.578125 controllerCPU,41.8762891wall and clean closure. Root selects only
+compare01 4f8f35b41fd42ff5a4c5709912a7fe87431d375e784d6d3c68dbf15a692de6c1:
+two retained native inputs, exact old stdout comparison, no baseline rerun.
+Original60workerCPU/phase-wall,1536MiB/2active,60controllerCPU/300totalwall.
+Public aggregate authority principle is independently reviewed; author now owns
+fresh aggregate_admission.py only. Base owns source-only guest graph/build
+integration; root owns source-only single-link host adapter and exact selection.
+No aggregate guest or proof operation is selected.
+
 **2026-10-12 proof-validation integration build selected.** Exact independent
 review clears selection948c505ea10547885cf316ff0ecc336df459c625fa671f185f6659ebc298e9f9:
 33source pins, four native compiles, original240workerCPU/phase-wall,

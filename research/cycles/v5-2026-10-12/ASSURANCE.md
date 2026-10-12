@@ -2,6 +2,134 @@
 
 ## Explicit implementation resumption after guide delivery
 
+### Aggregate public-admission principle: source-backed support
+
+Reviewed `AGGREGATE-PUBLIC-ADMISSION.md` against the actual existing admission
+owner, journal/member/output binders and aggregate Rust receipt/host paths.
+Support the proposed minimal new aggregate owner and later typed mixed frontier.
+The base constructor loads and pins supervision but does not perform I admission;
+a narrow subclass with final A-specific profile and disjoint exact opaque handle
+registries can reuse it. The host really calls full receipt verification with
+dev mode disabled, genuine succinct Poseidon2, adopted image and exact H. An
+inert output/member binder alone remains incapable of mathematical admission.
+
+Implementation guardrails sent to author: override inherited `describe` as well
+as the new describe methods; initialize fields used by any overridden hook
+before the base constructor dynamically calls `_check_install`, or retain that
+hook unchanged; check source/runtime pins and live parent on all authority uses,
+not just `_active`. Member decoding already reconstructs and binds the semantic
+summary from exact J. Direct A-member import must not require a dummy delta or
+an I verifier process. Later source/exact/runtime reviews remain separate.
+
+Under the stated checker, branching recursive proof and hash-binding assumptions,
+the seal-height/native-rank induction and explicit same-J complete-record cut
+are coherent: an A terminal establishes the identical child premise, so descendants
+need not be rewritten and unreachable unsealed ancestors can be omitted onward.
+The fresh-target condition remains separate. No actual A image/receipt, positive
+mixed-frontier integration, growth advantage or v5 release is established.
+
+### Proof-validation compare01: source and exact selection clearance
+
+Reviewed fresh `proof_validation/integration/compare.py`, 12,277 bytes,
+`d0b0bc18788cd8df2334dec97b488b2a33e61a21999e64bf40ac5fec6d03aff7`.
+Exact 704-byte selection
+`4f8f35b41fd42ff5a4c5709912a7fe87431d375e784d6d3c68dbf15a692de6c1`
+matches proposal `564a464c60d8df4b7f7753d6383104eac40e63aeeaa3fef2590d3a4264df8050`
+except true authorization. Six retained baseline pins, four new outputs, exact
+build RESULT/finalization, 174 retained recipe runtime pins and the helper
+predecessors match; output and attempt were absent. Root owns the one launch.
+
+Exactly two new native calls use the retained positive and invalid-proof inputs;
+both stdout byte sequences must equal retained outputs. The invalid case must
+still exit two at native kernel `tc.rs:945` with `self.def_eq(u, v)`, not a setup
+failure. There is no baseline rerun. One cumulative 60 CPU/60 phase-wall-second
+Job, 1536 MiB/two processes, 60 controller CPU/300 total wall, 16 MiB/128 entries
+and final input/snapshot/budget/closure checks bound the operation. D:\Python314
+is required. This is a mathematical-boundary comparison, not guest affordability,
+receipt authority, standalone optimizer speed measurement or deployment evidence.
+
+### Full native optimizer integration build01: actual compile-only PASS
+
+Independently reviewed actual RESULT
+`55ba9a702360dd10a6b9bea00f481d5066553a1b8debcb10ca43bbcab4de4069`
+under `experiments/v5-local-checks/proof-validation-integration-build-01/`.
+All 78 changed bindings match: 33 current sources, 33 immutable snapshot
+sources, four outputs and eight logs. Selection remains
+`948c505ea10547885cf316ff0ecc336df459c625fa671f185f6659ebc298e9f9`.
+The four actual successful commands compile checker, module, aggregate and
+driver in order, with all project source/output/extern/search paths selecting
+the fresh snapshot and directory. No predecessor checker/module binary is
+substituted. Driver keeps fat LTO; intermediate profiles remain unchanged.
+
+All commands exited zero with COMMAND_COMPLETED, clean Jobs, zero active or
+terminated processes, no cleanup error or overriding finalization marker.
+Root reports outer session12588 reaped with exit zero. Actual worker cumulative
+CPU is 74.609375 seconds (36.96875, 13.125, 2.546875, 21.96875 per compile),
+disjoint controller CPU 2.578125, wall 41.87628909992054 seconds; peak Job
+private bytes 695197696 and total process count 10.
+
+| Output | Bytes | SHA256 |
+|---|---:|---|
+| libnanoda_lib.rlib | 11339020 | `c0c0b10ba18adf5c20496d751cc9cbbc911677fafe64461d963dadc53a37c4a2` |
+| libdmkn_module_relation.rlib | 4217412 | `10efaf57720635b0c347487194283117599ecb3be326b4c51b3c9dbcc144a4bf` |
+| libdmkn_aggregate_relation.rlib | 916696 | `829d68c1a2c51138785394e19bcb35692902144d7be19f1dbfc9c9742f1952b4` |
+| native_aggregate.exe | 1804800 | `7ca635aa5bb18ce1a2a360d0f5e30f5d5ebf0b2fdce818aa8ae1029c92446635` |
+
+This is compile-only evidence, not native mathematical verification, guest
+execution, certificate production, measured optimizer speedup or v5 release.
+
+### Full native optimizer integration: source and exact selection clearance
+
+Fresh thin root `proof_validation/lib.rs` at
+`c1961d6722b8d9677b68e6bb8bf318c4b2a4383adf09f82aa3c305e90099341a`
+and `proof_validation/integration/build.py` at
+`78bcf7fa950d5a350f9bdc1ef0464f79309f994f2a3e30d0974f233be1372d58`
+pass changed-boundary source review. Public checker module order/API and
+STACK_SIZE remain unchanged. The exact 33-file proposal contains the complete
+32-production-Rust closure plus controller; all source length/hash pins match.
+Old module/checker/claims source identities are checked against their used maps,
+not merely rehashed into a new arbitrary source selection.
+
+Retained command inspection confirms exact checker-root/output substitution,
+module-to-fresh-checker binding, claims-to-fresh-module binding, and driver-to-
+both-fresh-rlibs binding. All three predecessor project dependency search paths
+are replaced by one fresh artifact directory; external paths remain retained.
+There are exactly four non-test compiles. Checker keeps its eight externs and
+driver keeps fat LTO. One cumulative 240 CPU/240 phase-wall-second Job,
+3072 MiB/six processes, 60 controller CPU/600 total wall seconds and 1 GiB
+output bounds remain, with final input/snapshot checks and override marker.
+
+Exact 13,267-byte selection
+`948c505ea10547885cf316ff0ecc336df459c625fa671f185f6659ebc298e9f9`
+passes review: same parsed 33-source map as inert proposal
+`da8129fadd3913cf9d36fd196b259b157662065443773a78fcfea9b20346ed6e`,
+only compile authorization changed to true, output and attempt absent. All
+68 retained checker runtime pins independently rehash correctly; recent
+unchanged shared runtime review is retained. D:\Python314 is required. Root
+owns one compile-only launch; no native/test/guest/proof outcome follows yet.
+
+### Guest-manifest overlay: source-path review only
+
+Fresh `aggregate_guest/` manifests are reviewed at:
+
+- root Cargo.toml:
+  `1ea53d21c8b6503793b96d974eaad22dbf3856b9d0ada77a291e64ad37a9fafe`;
+- checker/Cargo.toml:
+  `56364af430400d805de9be09d842b70e2f3bc3de9a14ff8082b18bcbcc1ff543`;
+- module/Cargo.toml:
+  `50b4046fa9b0e1a83e3bc6900bd35be09e729804eb14fa33868004256c459c4d`.
+
+Relative library paths select the reviewed fresh checker root, unchanged module
+relation and exact-J claims-v2 source. External version requirements/features
+and the eight checker dependencies are preserved; explicit resolver2 and guest
+binary are appropriate. The root SDK dependency is intentionally nonoptional
+in this guest-only overlay, not a portable native-library manifest. A future
+command must select exact package/binary/target and audit actual resolution,
+unit graph, feature/profile/build-script closure and new image identity. Source
+review does not establish those runtime properties or portability. Existing
+host API explicitly requires linking the selected v2 library; no aggregate
+host manifest/build is implicitly selected by these three guest manifests.
+
 ### Actual explicit-warrant/derivation bookkeeping controls: PASS
 
 Selector `Select-DeltaClaimControls01.ps1` was source-cleared at
