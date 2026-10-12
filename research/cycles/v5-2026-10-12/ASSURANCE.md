@@ -2,6 +2,347 @@
 
 ## Explicit implementation resumption after guide delivery
 
+### Native-controls01 actual import failure; reviewer closure correction
+
+Controls01 outer RESULT SHA
+`316cc0caf5f81127e6e78be11559aded17f31e8eef7b5efe00576c4ec7fcf889`
+is FAIL, exit1. Actual stderr stops while importing `aggregate.input`, which
+imports `delta.packet`: Python first runs `delta/__init__.py`, whose eager
+`.receiver` import was absent from the twelve-file snapshot. No control run(),
+unit binary, native checker, receipt, guest or proof executed. This was an
+incorrect source-closure clearance by this reviewer, not a product relation
+failure. The earlier claim that twelve files covered the import closure is
+superseded by this actual finding, without modifying old source or failure.
+
+Independent full package/import reading now finds exactly two additions:
+
+- `software/v5/delta/receiver.py`
+  `418708346600bff17d2a8425fb9ca322d8eeb9e6a0ad97a6d63c5637bd4df120`.
+- `software/v5/admission/verifier.py`
+  `9f77bd17abbf87d8f777c52c047d41cfbfd1b29078f29a173006ccad99839571`.
+
+The receiver imports the verifier, admission bindings, codec, producer and
+packet; all except the verifier were already selected. The verifier imports
+bindings/codec plus standard-library modules only. Read every initializer:
+admission/modules have no eager imports, production imports its already held
+producer, delta imports receiver/packet, and aggregate is a namespace package
+with no initializer. Neither receiver nor verifier is constructed by import;
+their dynamic supervisor loads occur only within constructors not called by
+these controls. The controls' actual fixed supervisor loads remain separately
+bound through the adopted manifest. A fresh fourteen-file selection can repair
+the import closure without changing any control, binary or mathematical fixture.
+
+Actual cost:0.28125 inclusive Job CPU plus0.21875 separate wrapper CPU,
+0.7050249wall,2total/0active/0terminated processes,peak24,018,944B; direct child
+reaped/Job closed, no cleanup errors. All failed work remains charged. Root owns
+the fresh exact selection; no retry/runtime was launched by this reviewer.
+
+Fresh controls02 exact selection
+`3aed2221be2dee9727660d4212e72a680ec25e9db633970698d6e427fd01d56d`
+and config
+`c0f826275a5b6e3eda5f8d8ba5cd4f232f394d92a1f735f5f0a52ec55bda5ce6`
+are independently cleared. All56existing and14future snapshot bindings match.
+The new map includes the complete traced package closure above; controls,
+both actual binaries, packet and all limits are unchanged. Only source closure,
+fresh output/config/runtime paths change; output was absent at review. No
+passing workload is repeated because01 never executed a worker.
+
+### Retained-reader continuation: source cleared, exact selection separate
+
+Independently read fresh `delta/network_continue.py`
+`1d80a4dff3d578d8c5f58793381bf997a9dc314cb9363137309203576c0c5cd2`
+and `delta/retained_custody.py`
+`bb94845d77cac6016ac1be7a1ac04fc822412c557fa9300309cd1b54d120a901`.
+Also reread inherited actual02 Campaign/source-closure/reader/cleanup and the
+actual packet/module custody schemas. No source-level blocker was found.
+
+The reader1 result, packet DB and module DB paths are fixed to actual02's
+preserved recipient. Exact pins are checked before/after read, links/junctions
+and SQLite sidecars refused; DB connections are read-only immutable with
+query_only/trusted_schema off, 32MiB file ceilings and200,000 SQL-VM-step query
+bound. Packet bytes/size/module/offer/profile match the selected acquired
+record. Both fresh provider stores derive only those packet bytes; every retained
+group/body byte string must equal the structurally recovered packet semantics,
+and the export must equal the original actual returned record. Previous
+admission flags and DB metadata confer no mathematical authority.
+
+Four new Node lifetimes (neutral seed, transient holder, fresh reader, replica)
+exercise the unreached suffix with no repeated first-recipient admission. The
+reader obtains an actual first route, the transient holder really stops, and
+the replica starts; the same inherited workflow must observe a stale descriptor,
+use the same live channel for an alternative route, find a genuine formal
+candidate and perform exactly one receipt plus two native checks. Ordinary
+authoring-context reconstruction still uses the newly admitted live handle and
+received semantics plus pinned foundation. No authoring/proving is added.
+
+The sole publication gate change permits `INCOMPLETE/QUERY_ERRORS` to continue
+when there is at least one local ADD_PROVIDER write, no thrown error, coherent
+fixed diagnostics, the exact rendezvous key and original live channel/deadline.
+It preserves remote_placement_confirmed=false and all acceptance/completeness
+denials. Actual subsequent discovery, not that gate, decides usability. The
+predecessor remains FAIL and the new report explicitly composes two operations,
+not one uninterrupted success. Source/runtime/input selection and actual outcome
+remain separate root decisions; no runtime was launched by this review.
+
+Root subsequently rejected the unnecessary minimum-local-write experiment gate:
+publication diagnostics should not prevent an actual discovery attempt solely
+because no write was observed. The author is preparing an unused successor;
+the source hashes above are therefore historical source-review findings, not
+the final selected runtime. Exact revised diagnostics/deadline behavior must be
+reviewed before that new selection is cleared.
+
+### Affordability source proposal: focused independent challenge
+
+Read `AFFORDABILITY-NEXT.md` and the actual aggregate census/relation, strict
+canonical parser, public module relation entry points, and correspondence
+inventory/expression/level/declaration implementation. Intervention1 is a
+sound small source direction: P(b);C(V);drop(V);P(b);R(V) can become
+P(b);C(V);S(V);R(V), since P is deterministic strict parsing plus S and the census
+is read-only on the Value. Both existing canonical-size traversals remain in the
+minimal replacement; this does not weaken raw duplicate-key/trailing/numeric/
+nesting validation. Mathematical checking sees the same Value, exact graph
+premises and conclusion. Resource/diagnostic behavior need not be identical.
+This saves a redundant parse/allocation/destruction, not a proved full-program
+speedup or peak-memory factor. A changed guest still needs fresh adopted A image
+even if its internal legacy I journals/content IDs remain byte-identical.
+
+Intervention2, validating a discarded new-theorem proof tree without constructing
+it, is plausible but more consequential. The simulation must preserve ordered
+traversal, not only the set of visited nodes: const visits its levels before its
+reference; projection validates its reference before its expression child; work
+increments precede invalid-index and depth refusals. Include failed-prefix work
+counter and every name/universe/constructor/field/backward-reference check. A
+lexicographic induction separates expression-child descent and level descent;
+no level refers back to expressions. Keep Inventory::new and its global row/name
+validation unchanged, even for rows unused by the new theorem. Types and committed
+bodies retain actual canonical comparison; the mathematical kernel check remains
+untouched. First remove constructed output with O(unfolded occurrences) traversal;
+do not silently replace multiplicities with memoized DAG cost. No implementation,
+guest screen, proof campaign or quantified saving is selected by this review.
+
+### Network02 actual partial success, overall FAIL preserved
+
+The selected readiness successor ran once. Outer RESULT SHA
+`1ab8c1ef52449338cc60116577326235a061a8f3e58b89ee52bacfeee67a3bf1`;
+inner RESULT SHA
+`0876c37c8b28fa1a2878b06e98f889d7beae8e5b4d6bfbe392b681918774371a`.
+All 217 independently checked actual bindings match: 56 canonical sources,
+46 outer pins, 76 actual-owner runtime pins including the 56 now-created
+snapshot paths, 28 canonical/aliased Node source bindings and 11 selected inputs.
+
+Actual reader1 started with no target IDs or HTTP contacts, discovered the
+origin through the real formal-feature rendezvous key, adopted its actual
+Noise-authenticated descriptor, and selected the first actual returned formal
+candidate. The origin publication had one local provider write and no query
+error; reader1 routing returned one provider, no query error and no global
+completeness claim. Reader1 acquired exact packet 662,480B/54c7dac7 and the real
+223,594B/850c33b2 base receipt. The genuine host verified the base receipt under
+fixed image I, fully resolved, with rank0 and exact foundation/policy. Its two
+native calls bound actual inputs 113,220B/88b71b82 and 101,687B/ea66d3ef to the
+retained rank1 and rank2 journals respectively. The first imports the base;
+the second imports the exact base and first-delta journals. The integrated
+receiver produced the live target52c564f8 admission and durable custody readback.
+The packet-only semantic extraction retains 13groups/11bodies with no missing
+selected committed value; this is not all future semantics or fresh authoring.
+All three mathematical subprocesses exited0/reaped/closed with no cleanup error.
+
+Reader1 then closed; reader2 genuinely located the origin before its departure,
+despite a query error for the now-closed reader1. The real origin was stopped.
+Replica publication yielded two local provider writes **and two query errors**;
+its preserved result is `INCOMPLETE / QUERY_ERRORS`, not failed mathematics or
+proof of no placement. The harness required zero query errors and aborted with
+`NETWORK_ACTUAL_FEATURE_HINT_DISPATCH` before reader2 attempted any descriptor.
+Thus actual typed stale-descriptor recovery, second search/acquisition/admission
+and final reconstructed import context remain unexercised. The overall result
+stays FAIL; the successful reader1 prefix is retained and should not be repeated.
+The next source decision may use those exact received custody bytes, allowing
+incomplete advisory publication to proceed to actual discovery under the same
+finite limits; it must not relabel incomplete publication as confirmed delivery.
+
+All five Node processes exited0/closed with unchanged role pins, no forced stop
+or channel failure. Every pre/post runtime inventory records the same 5,896 files
+and 130,118,221 bytes; CPU/time differ normally because each hashes independently.
+Origin HTTP handled five requests, zero failures; replica handled none. All
+frontier/delta owners close with zero live handles and no cleanup errors. Outer
+exit1 is reaped/Job closed, 13 total processes, zero active/terminated, no
+termination requested, peak531,005,440B. Inclusive outer Job CPU41.09375 plus
+disjoint wrapper0.65625, wall52.7956683s. Inner controller34.796875 and nested
+checker CPU are included in the outer Job and must not be added again. There is
+no finalization override. This is actual progress, not independent-host evidence
+or full v5 completion.
+
+### Aggregate link02 actual PASS; native-controls01 selection cleared
+
+Actual link02 RESULT SHA
+`054f9bf9724640b0963b39f13a9c663a1c7bbe80f1102c53a5e3fe5208e5e8f7`.
+Both final links completed exit0. Independently compared actual argv against
+retained build01 commands: only fat LTO and fresh output paths differ. All212
+retained source/snapshot/runtime bindings, both output hashes and four raw log
+pins match. No library was rebuilt and no test/native/guest/proof call ran.
+
+- Test binary: 2,403,840B,
+  `8918edad50a65ab16c65f2352794618d2677fc134910034050e2bf6b6a51b378`.
+- Native aggregate binary: 1,797,632B,
+  `59836fe0a35f58e6db82d873b6f830e2d15560a7419d5e68eb64bfa28c20f51b`.
+
+Worker CPU63.03125 (39.765625 tests-link +23.265625 driver-link), separate
+controller2.453125, wall76.8809158s. Final Job has8total/0active/0terminated
+processes, peak818,597,888B. Two exact owned MSVC telemetry processes received
+the preselected postbuild cleanup, with exit observed; no other cleanup error,
+final-check error or finalization override exists. Original build01 stays FAIL.
+
+Exact native-controls01 selection
+`ecd54b5c1e42bef493d80ce7f03b8ea8a176f4f98e63fface1e55804fbb05afe`
+and configuration
+`ae13604947e3a82ee3d3c1d09bb3d5f4c7075ddb4143bd4983f77d431e900ffa`
+are source/selection cleared. Independently re-read controls a92e2bfb; 54existing
+bindings and12future snapshot bindings match, including the actual new binaries.
+The twelve sources cover the loaded local import closure. Fresh evidence output
+was absent. At most5workers test9unit groups, the retained real two-delta
+conditional relation plus cross-language vectors, and three precise refusals
+(missing premise, wrong rank, actual invalid theorem proof). Each worker has
+30CPU/at most60wall/3072MiB/2processes; owner60CPU/600wall; enclosing allocation
+240CPU/600wall/4096MiB/4processes. The original post-report finalization guard
+remains. Synthetic A is explicitly nonauthoritative; this neither verifies a
+receipt nor grants aggregate admission, and no guest/proof/author/network runs
+are selected. Root owns actual execution and outcome adoption.
+
+### Fresh readiness network02: source and exact selection cleared
+
+Independently read the complete fresh role/route helper and every integration
+change against used actual01. The selected bytes are:
+
+- `maintained_roles_ready.mjs`
+  `9824559f55eca9b1e56786c14cbe090b74904d1786a915f124dc4101b0aa9683`.
+- `observed_route.py`
+  `9800b5fd3a1f922dcc2e59818916b2333f79004b7f4b6ed42eb89d40891740f1`.
+- `network_actual02.py`
+  `f772cce4aa6c33bb1970c931d3483f932b102f97258789673dcad8ab497c4718`.
+- Selection
+  `0435e839636101824929c31ec1119074f9543b27806120be1012af0b5699e512`;
+  configuration
+  `7eefe36e52b80d1d2abe42e4284053e1c221f47201c60258a110d6454f8323df`.
+
+Read the actual adopted `kad-dht` query manager, query-self, startup,
+content-routing and network implementations, plus the adopted `p-event` and
+`race-signal` implementations. With `allowQueryWithZeroPeers:false`, both the
+empty-routing-table event wait and initial-self-query wait observe the original
+operation signal combined with shutdown and early-exit cancellation. DHT startup
+starts QuerySelf by scheduling its first call; it does not await discovery. Thus
+the neutral seed can start listening with no peers. The background initial
+self-query has no independent short query timeout; its bound is the existing
+service lifetime/shutdown and enclosing process envelope, not per-query credit.
+
+The exact source permits dial-before-identify/routing-admission; restoring the
+event barrier supplies the missing ordering edge. Old actual01 records do not
+identify whether the publication race, reader race, or both actually occurred.
+This repair is justified by a reachable source defect, not an invented timeline.
+The barrier still cannot guarantee connectivity or provider placement under churn.
+
+ADD_PROVIDER is a no-answer RPC. The actual library yields PEER_RESPONSE after
+local message writing and does not await stream.close. The new positive label
+therefore correctly requires a yielded write and no query error but remains
+`HINT_DISPATCHED_UNACKNOWLEDGED`, with `remote_placement_confirmed:false`.
+The fixed-size diagnostics count yielded events, not wire bytes. The observed
+route helper uses exactly the existing channel, original WorkflowBudget and one
+ticket; it retains diagnostics without inventing peers, authority, retry or grant.
+Settlement occurs once through the unchanged budget; malformed/expired/channel
+failures close and charge the same allowance. Partial advisory hints can survive
+an incomplete route without becoming mathematical or global-completeness claims.
+
+Independent prelaunch pin check: 122 existing bindings match (56 canonical
+Python sources, 46 outer runtime/input pins, 20 existing actual-owner runtime
+pins). All 56 future Python snapshot paths bind to exact selected source bytes.
+The 14-file Node snapshot has the two explicit reviewed aliases. Original limits
+and seven loopback ports are unchanged; output was absent at review. Root may
+select the bounded full endpoint, whose previously unreached formal discovery,
+two cold delta admissions and real stale-origin/alternative path remain unchanged.
+This clearance is source/selection evidence only, not an actual network result.
+
+### Aggregate native build01 failure and link-only02 clearance
+
+Actual build01 RESULT SHA256:
+`8e60e4315158eb85ce63110234d9e179f88df6ecf8502abe8bc2b158abe5eb91`.
+The module and aggregate rlib commands finished exit0; test linking failed exit1
+with unresolved dependency symbols and semver LNK1107. The driver command was
+not run. No unit test, native mathematical check, guest or proof ran. The retained
+recipe contains `-C lto=fat`; build01 dropped it. This is a build/link failure,
+not evidence of a mathematical relation failure or damaged pinned dependency.
+The earlier reviewer did not identify the missing flag before execution; root
+isolated it from the actual failure. Preserve that failure and its full cost.
+
+Successful reusable outputs, independently hashed:
+
+- `libdmkn_module_relation.rlib`: 4,217,310 bytes,
+  `3d37e6dc700a7e789f8c0aa5f732ae6a7a4d8f46fd3ec9293f9d19bd35b31c0e`.
+- `libdmkn_aggregate_relation.rlib`: 876,346 bytes,
+  `268f00c6f62f1c826d63546dc7d44ef0544721f0996732491f60f1799813c1e4`.
+
+All 212 canonical/snapshot/runtime bindings match: 19 canonical source files,
+the exact 19-file actual snapshot, and 174 retained native runtime pins. Retained
+source-map SHA `82c4dc73df29c9a4b6638ef1dd872ad8a0ccfeb66f97f89c5923ada93494f0d6`
+and compile-command SHA
+`1f80c02b5049dbb5bdb22fea28ff52d8def582871b27366dd1cd98a73be5e232`
+also match the successor's exact pins. Actual worker CPU was 18.96875 seconds
+(11.96875, 2.296875, 4.703125 by command), controller CPU 1.546875 separately,
+wall 7.0430142 seconds. Final Job: 7 total processes, 0 active/terminated,
+655,794,176-byte peak private commit. No telemetry cleanup, cleanup/final-check
+error or finalization override is recorded. All six retained command-log pins
+match, with empty cleanup-error lists. Eight separately pinned controller,
+supervisor and Python helper/runtime files also match. Full v5 remains unfinished.
+
+Fresh link-only source SHA
+`59f85991f3206a15000703231530b7c5d232948d92be565cba656ec623d8461a`
+and selection SHA
+`6659bdb51431f1633c2ce9f5740c05232381e308be3cdad8c66d08d579168726`
+are independently cleared. It loads the pinned predecessor helpers without
+invoking their main functions, reuses the two successful rlibs and exact old
+snapshot, and runs only the retained final two commands. The only command
+changes are restoring `-C lto=fat` and choosing fresh executable output paths.
+No successful library compile repeats. The worker retains 240 CPU/240 phase-wall
+seconds, 3072MiB and six active processes; controller retains 60 CPU/600 wall
+seconds, 1GiB/8192-entry output cap and post-report overriding finalization check.
+The fresh output and attempt were absent at review. This clears two links, not
+test execution or admission. No reviewer runtime or Git mutation was performed.
+
+### Aggregate native build01: exact compile-only selection cleared
+
+Source-reviewed `native.rs`
+`b153bdd3ae6be389b1e81d4731bfc7c1fcff22ce64eacb2668f54e835e2195ad`
+and `build_native.py`
+`4b77bad55119746df2e66cf7b8336b62ee1db8bfa4dca7152b6c1512b4ad892a`.
+The native driver directly invokes the aggregate relation, returns exact
+conditional claims/header/members/openings/input hash, and labels all output
+non-admission. Error or checker panic returns refusal/exit2. It verifies no
+receipt. Build source now rechecks original controller wall/CPU and output
+census after RESULT and attempt writes, with explicit FAIL_FINALIZATION override
+and nonzero return; the earlier pre-write-only draft is not selected.
+
+Root selection:
+`50edb1a8c307b1a55a17ba6f7941851402a6ba28461e6d5bad83ef6f983e4d3f`.
+Independently checked19exact source files plus174 retained recipe runtime pins
+(193bindings), and separately the recipe, native-library02, previous helper,
+three provision helpers, finite phase runtime, D:/Python314 executable/DLL and
+both exact Job helper files. Output and attempt were absent. Source closure
+contains9unchanged module-relation sources and10aggregate/build files.
+
+Only four thin rustc builds are selected: module relation rlib, aggregate rlib,
+structural test executable and conditional native driver. There is no Cargo,
+checker rebuild, test execution, guest, proof, receipt admission or networking.
+All four share one240CPU/240wall worker phase,3072MiB/6active-process cap; the
+controller retains600wall/60CPU and1GiB/8192entry output limits. The retained
+telemetry cleanup can close only its own exact selected remaining MSVC helper.
+This is source/selection clearance, not a successful build or permission to run
+the resulting executables; actual outcomes require separate audit.
+
+Reviewed `native_controls.py`
+`a92e2bfb21e81c0a5dcae6713fc5d7a929723828111bbab797b356f41a6914c5`
+source-only. It proposes at most5bounded workers:9structural unit groups, actual
+retained two-delta conditional checking, and missing-premise/rank/invalid-proof
+refusals. Python independently binds all3journals, header/root/paths and aggregate
+census. Synthetic A is explicit; no receipt verification or authority is claimed.
+Exact binaries/config/runtime selection remains pending and no control was run.
+
 ### Actual network01 outcome: independently audited FAIL, no math attempted
 
 Root reports session73832 terminal and reaped. Saved outer RESULT

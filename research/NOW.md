@@ -1,5 +1,48 @@
 # Current research desk
 
+**2026-10-12 aggregate native boundary independently adopted.** Controls02
+passed exactly5workers:9unitgroups,actual two-delta cross-language agreement,
+missing-premise/wrong-rank/invalid-proof refusals. All70 actual bindings hold;
+2364rows/22bodies/23openings/3edges,3exact journals/192Bheader/all openings.
+4.03125inclusive JobCPU+.296875wrapper,6.7812959wall,clean closure. This is
+conditional native evidence with syntheticA, not an aggregate receipt. Root
+adopts it without repeating controls01 or base proofs. Retained-reader onward
+continuation is prepared:58sources,selection5699ded6/config0cfa1763,original
+limits and Node02 snapshot; independent exact review pending. Parse-once
+successor and a reusable guest-execution seam proceed source-first in parallel.
+
+**2026-10-12 resumed implementation: retained prefixes, not repeat campaigns.**
+Canonical guard PASS; full goal ACTIVE. Network02 is terminal FAIL, not live:
+reader1 completed genuine discovery, real base receipt plus two native checks,
+and durable custody; replica publication then hit an over-strict harness gate.
+All217 actual bindings and clean closure independently audited. Root selects
+fresh retained-reader continuation from immutable reader1 databases, with one
+new recipient and original limits; no first-reader recheck or reauthoring.
+Aggregate link02 is terminal, independently audited PASS (63.03125JobCPU plus
+2.453125controller;76.8809158wall), with both final executables retained.
+Native controls01 failed before any worker due missing eager package-import
+closure (delta.receiver/admission.verifier); raw failure retained and charged
+0.28125JobCPU+.21875wrapper. Fresh14-source controls02 selection3aed2221/config
+c0f82627 is prepared for independent review, not launched. Same sources,
+binaries, packet and caps; no mathematical rerun occurred. Root selects a fresh
+source-only parse-once aggregate successor, preserving both size passes and
+unchanged mathematical relation, with equivalence review before execution.
+No aggregate guest/proof, new release or deployment is claimed.
+
+**2026-10-12 readiness successor selected; aggregate final-link repair pending.**
+Root launches network02 once as session93689 after independent source/runtime
+review, selection0435e839/config7eefe36e. Fresh Node14file snapshot aliases
+ready roles9824559f and available entry02bbdf12; harnessf772cce4/observed route
+9800b5fd. Original300CPU/600wall/480workflow and all nested grants unchanged.
+Event-based routing readiness replaces the bypassed barrier; publication and
+route diagnostics distinguish unacknowledged writes/incomplete outcomes.
+No success claimed while live. Aggregate build01 terminal FAIL preserved:
+both relation rlibs compiled; final test link omitted required fatLTO for
+retained LLVM-bitcode dependencies. No mathematical source defect shown.
+Worker18.96875CPU+1.546875controller/7.0430142wall,0active/terminated. Fresh
+link-only02 source59f85991/selection6659bdb5 awaits review and reuses both
+successful rlibs; no successful recompile/checker rebuild/test/proof selected.
+
 **2026-10-12 actual network01 failed before mathematical work; diagnosis first.**
 Selection1718ca6b/config86dbacee ran once (root73832, now terminal/reaped). All210
 independent actual bindings hold. Origin advertised but reader1's first DHT

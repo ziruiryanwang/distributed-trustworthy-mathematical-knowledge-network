@@ -271,3 +271,222 @@ after writing RESULT; `FINALIZATION-FAILED.json` overrides any earlier PASS text
 Cleanup attempts each owner independently and retains the original operation error
 even if another closer fails. Same-host success, if observed, will not be reported
 as independent-host availability, global search completeness or final v5 readiness.
+
+## Actual01 failure and event-readiness successor (source-only)
+
+Actual01 ended with `NETWORK_NO_LOCATED_INDEX_CONTACT` before formal search,
+acquisition, receipt verification or native admission. Reader1's actual route
+was empty. Origin's publication reported `ADVERTISED_HINT` with `error:null`.
+The independent outcome audit owns the complete retained 210-binding census;
+this section diagnoses the source seam, not a repeated execution of that audit.
+All used actual01 source/input/evidence remains frozen.
+
+Two tempting inferences are incorrect:
+
+- `READY.known_peers == 0` is the application descriptor cache size, populated
+  only by locate. It is not a measurement of the DHT routing table.
+- The retained DHT default removes private addresses, but our adopted role
+  explicitly supplies `peerInfoMapper: mapPeer`, which applies the configured
+  owner egress policy and permits the selected loopback endpoints. The default
+  private-address mapper is therefore not the identified defect here.
+
+### Causal source argument, and its evidentiary limit
+
+The exact adopted library is beneath
+`product-local/v4-library-commons-02/commons-v4/overlay/node_modules`.
+
+1. `@libp2p/identify/dist/src/identify.js:21` starts identify asynchronously from
+   `connection:open`; its callback does not await identify before dial returns.
+2. Identify learns the remote protocol/address information. The DHT topology
+   listener forwards that event asynchronously; `kad-dht.js:335` applies the
+   configured mapper and queues routing-table insertion. A connected transport
+   is not yet an admitted DHT peer.
+3. Our previous `allowQueryWithZeroPeers:true` both disables the empty-table wait
+   and immediately resolves the initial-self-query barrier. In the retained
+   `query/manager.js:95-130`, a query with no routing peers simply returns.
+4. `content-routing/index.js:50-123` first records self as provider locally and
+   only dispatches provider records for returned `FINAL_PEER` events. Zero such
+   events is a normal generator completion, not necessarily an exception.
+5. Our old publisher discarded every yielded event, including `QUERY_ERROR`,
+   and equated nonthrowing completion with `ADVERTISED_HINT`. Our old route
+   wrapper also discarded Node's termination diagnostic.
+
+Thus the previous interface permits this execution order:
+
+`dial completes -> READY -> publish/query exhausts empty -> identify/routing admission`.
+
+It lacks the required happens-before edge from routing admission to a query.
+That is a concrete software defect and a sufficient explanation of the observed
+empty result. The retained actual01 records do not identify whether its publisher
+race, its reader race, or both occurred: the relevant event/table diagnostics
+were not retained. We do not retrospectively convert the plausible interleaving
+into a measured timeline, nor pretend that a completed local write proves remote
+provider-record placement.
+
+### Selected smallest semantic repair
+
+Root selected source-only fresh `maintained_roles_ready.mjs`, to be aliased to
+`maintained_roles.mjs` in a separate exact Node snapshot. It restores the library's
+`allowQueryWithZeroPeers:false`; no bootstrap/provider list is injected and no
+sleep, polling loop, retry, larger cap or renewed deadline is introduced.
+
+Startup itself still means only listening and attempted bootstrap dials. The
+neutral no-seed bootstrap is therefore allowed to start. Application queries,
+not startup, wait on the library's `peer:add` event and initial-self-query promise.
+`QueryManager.run` combines the supplied original operation signal with shutdown
+and early-exit signals; its `pEvent(...,{signal})` and
+`raceSignal(initialQuerySelfHasRun.promise,signal)` both observe that combined
+signal. An unreachable/empty network returns bounded incomplete/aborted evidence
+at the original operation cap, rather than silently exhausting an unready table.
+The initial background self-query is separately bounded by the existing service
+lifetime and shutdown; it is not represented as charged per-query work.
+
+An event barrier establishes only local query readiness. It does not guarantee
+publication delivery, global connectivity, search completeness or a stable peer
+set after the barrier. Churn may still produce an incomplete or empty result.
+
+### Publication and routing outcomes
+
+Fresh fixed-size diagnostics retain event, send-query, peer-response, final-peer,
+query-error, provider-event and completed-local-provider-write counts, bounded
+last error and actual routing-table sizes before/after the operation. Counters
+describe yielded library events; they are not packet counts or wire-byte bounds.
+All earlier transport/owner/service limits remain in force.
+
+The only positive publication label is `HINT_DISPATCHED_UNACKNOWLEDGED`, requiring
+at least one actual local `ADD_PROVIDER` write completion and no yielded query
+error. The library's `network.js:164-191` sends this message without expecting an
+answer; it yields `PEER_RESPONSE` after `_writeMessage`, while `stream.close` is
+not awaited. Therefore even that label sets `remote_placement_confirmed:false`.
+Zero writes, yielded errors or aborts are `INCOMPLETE`, with separate termination
+and error information. Subsequent actual discovery is the evidence of usefulness.
+
+Fresh `observed_route.py` uses the exact existing `ServiceLocatedWorkflow`, its
+original `WorkflowBudget`, one original ticket and actual child channel. It
+validates and preserves advisory diagnostics while using unchanged peer acceptance
+and full allowance settlement. It creates no subclass, additional command,
+contact, search grant or mathematical authority. Malformed diagnostics, channel
+failure or expired owner deadline close the channel and remain fail-closed.
+
+Fresh `network_actual02.py` changes only these integration seams: requires the
+explicit startup/readiness descriptions, persists publication before judging it,
+requires actual advisory dispatch rather than a nonthrowing iterator, and calls
+the observed route helper. The retained mathematical packet and two-receiver,
+origin-loss, same-channel stale/alternative path are unchanged. Its schema is
+`DMKN_V5_ACTUAL_DELTA_NETWORK_V2`. Config additionally pins the exact fixed
+`location.ready_source` path and binds its hash to the aliased role entry before
+and after the operation; it adds no arbitrary topology/configuration field.
+No successor runtime is selected by this note.
+
+| Fresh source awaiting independent review | SHA-256 |
+|---|---|
+| `software/v5/location/maintained_roles_ready.mjs` | `9824559f55eca9b1e56786c14cbe090b74904d1786a915f124dc4101b0aa9683` |
+| `software/v5/location/observed_route.py` | `9800b5fd3a1f922dcc2e59818916b2333f79004b7f4b6ed42eb89d40891740f1` |
+| `software/v5/delta/network_actual02.py` | `f772cce4aa6c33bb1970c931d3483f932b102f97258789673dcad8ab497c4718` |
+
+### Smallest decisive follow-up, not launch authority
+
+Independent source review must first check the retained library's abort reach,
+the no-seed startup distinction, exact accounting/settlement and diagnostic
+semantics. The focused network discriminator needs only one neutral router, one
+publisher and one fresh reader: publish once immediately after dial readiness;
+query once immediately after fresh reader dial; require actual returned advisory
+provider and authenticated descriptor, with the new event census. This performs
+no mathematical calls. A separate no-peer bounded query can check abort behavior
+if the reviewer judges the exact source argument insufficient; it must not
+silently renew any existing allocation.
+
+For the full endpoint, root may instead select one fresh actual02 operation after
+review, preserving the original finite caps. Its previously unreached mathematical
+and origin-loss suffix is substantive integration evidence, not a repeat of a
+passing network campaign. Failure is retained and diagnosed; no automatic retry
+is authorized. This lane launched no runtime, test, proof, build or Git action.
+
+## Actual02: useful prefix preserved, partial-publication gate corrected
+
+Actual02's readiness repair reached genuine reader1 discovery, authenticated
+descriptor, formal search, exact packet acquisition, one receipt verification,
+two native checks and durable semantic custody. Reader2 then obtained an actual
+first route; origin fully closed; replica started. The full operation nevertheless
+failed at `NETWORK_ACTUAL_FEATURE_HINT_DISPATCH`: the replica had two completed
+local provider-record writes and two query errors involving departed origin and
+reader1 contacts. Independent assurance owns the actual prefix/outcome audit.
+Root reports outer41.09375CPU + .65625wrapper,52.795668wall and clean closure.
+
+The Node outcome `INCOMPLETE/QUERY_ERRORS/error:null` was correct. The V2 harness
+wrongly required zero query errors before trying the actual consumer route. This
+was an overly strong harness liveness precondition, not a mathematical rejection
+or evidence that both writes were ineffective. A peer disappearance should not
+require every other reachable advisory advertisement to be error-free.
+
+All used V2, readiness-role, route-helper and actual02 evidence bytes are frozen.
+The whole operation remains FAIL; the successful prefix is not discarded or
+repeated. No result is silently upgraded by changing its old status/report.
+
+### Fresh source-only continuation selected by root
+
+Root selected one retained-recipient continuation, not another full two-reader
+campaign. `network_continue.py` subclasses only V2's orchestration `Campaign`;
+its new provider method accepts structurally bound advisory publication outcomes
+while the original owner remains live. Root's subsequent source-only refinement
+removes positive local write count as a precondition for trying real discovery;
+the precise current outcome table is in the compact API below.
+It reuses the exact old reader, real workflow/channel, mathematical admission,
+semantic import and cleanup code. No verifier or controller subclass is added.
+
+`retained_custody.py` reads these exact closed reader1 artifacts only:
+
+| Artifact under actual02/evidence | Bytes | SHA-256 |
+|---|---:|---|
+| `reader1-result.json` |135076|`8b907e77d4f86a9c3d9fa2815663c89b2a6def76057aba23c988b91ec9aacf9a`|
+| `reader1-packets/delta-packets.sqlite` |679936|`5054fecc3de547baf8204a273d74d40102aad2aa2d23802b68de86995e4bcb03`|
+| `reader1-modules/modules.sqlite` |131072|`dba5e1dc2d3c2533c76f157b085c8944b4dded360f0ee1764b6304f6c73d8541`|
+
+Preserved SQLite files are opened `mode=ro&immutable=1`, with query-only and
+trusted-schema restrictions plus bounded progress. Sidecar existence refuses
+the continuation. Before/after file pins, exact packet digest/module/profile,
+complete group/body map equality and exact reproduced formal-export record bind
+the selected input. Report accepting flags and journals confer no new authority.
+The original producer packet is not an input to this continuation.
+
+The fresh run creates separate transient-origin and replica stores from those
+recipient-held bytes. Its only fresh reader first discovers the transient origin
+through a neutral router. After that origin actually closes, the same reader
+tries its genuinely stale contact, then performs alternative location/search and
+one cold complete admission through the replica. Private target/provider IDs are
+not passed to reader choice. Exact expected IDs/bytes are compared only afterward.
+The inherited real ordinary-context reconstruction remains part of this suffix.
+
+Four Node lifetimes, at most three concurrent; one actual receipt and two native
+checks maximum; no reader1 re-admission, authoring, guest or proof calls. The
+original 480workflow/600outer wall and other selected ceilings stay unchanged.
+Accounting and evidence are explicitly stitched across distinct finite operations,
+not claimed to be one uninterrupted successful test. Same-host limitations remain.
+
+| Fresh source submitted for independent review | SHA-256 |
+|---|---|
+| `software/v5/delta/retained_custody.py` |`bb94845d77cac6016ac1be7a1ac04fc822412c557fa9300309cd1b54d120a901`|
+| `software/v5/delta/network_continue.py` |`1d80a4dff3d578d8c5f58793381bf997a9dc314cb9363137309203576c0c5cd2`|
+
+The exact configuration replaces top-level `packet` with fixed three-pin
+`retained_custody` and uses `DMKN_V5_DELTA_RETAINED_CONTINUATION_V1`. Its API is
+`software/v5/delta/network_continue_api.md`. Root owns snapshot/configuration and
+any launch after independent review. This lane has run no test, service, proof,
+build or Git operation for the continuation.
+
+### Root-directed publication refinement before runtime
+
+Fresh `network_continue.py` now has SHA-256
+`39aae5225fb97cbc9fea6095dc280543e5e0ffe906192642dec5cb7fef5e9d5d`;
+`retained_custody.py` remains `bb94845d...`. The earlier `1d80a4df...` review
+was source-only; no runtime used those bytes. This revision removes local-write
+count as a general eligibility precondition. Source-shaped zero-write completion,
+partial query errors and exactly classified per-operation timeout/event-cap
+outcomes may proceed to the original bounded discovery attempt. Unclassified
+errors, failed channels, exited processes and expired owners still refuse.
+The exact allowed combinations are recorded in `network_continue_api.md`.
+
+This is not making publication itself pass: every original report/error/census
+is retained, actual discovery is still decisive, and every mathematical gate is
+unchanged. No retry, extra request/grant or deadline extension is introduced.
+Root and independent assurance must read the fresh hash before runtime selection.

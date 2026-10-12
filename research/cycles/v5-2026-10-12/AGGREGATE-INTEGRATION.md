@@ -3,6 +3,30 @@
 The goal is working v5, not a new guide or an aggregate-only release. This is a
 mutable implementation checkpoint. All six release obligations remain open.
 
+## Latest actual boundary: conditional native aggregate works
+
+Root adopts the independent controls02 actual audit. The unchanged aggregate
+relation checked the actual corrected two-delta frame (215388 bytes), returned
+all three exact journals and the independently reproduced 192-byte header,
+member commitment and openings. Census is 2364 rows,22 bodies,23 openings,
+3 parent edges,29858 JSON nodes,maximum depth28. Nine unit groups passed;
+missing-premise,wrong-rank and genuine invalid-proof inputs all refused.
+All70 actual source/runtime bindings match. Outer result492129c6/inneraf619d07;
+4.03125 inclusive JobCPU plus.296875 wrapper,6.7812959wall,all processes closed.
+The used native_controls.py and all inputs/outputs stay frozen. Controls01's
+pre-worker import failure remains retained; controls02 repaired only its eager
+package import closure, not the relation or fixture.
+
+The synthetic A in these native checks supplies no cryptographic authority.
+There is still no aggregate image or receipt. The next selected implementation
+is a fresh parse-once successor with unchanged mathematical checker and both
+canonical-size passes retained. Source equivalence is the primary argument;
+focused differential checks test that implementation boundary. Do not repeat
+the complete old graph suite, base proof, authoring or successful network prefix.
+A separate source-only execution-capsule investigation must explain how to reuse
+successful execution for later proof stages and retain meaningful cost evidence
+before root funds any guest attempt. No blind old-limit success screen is selected.
+
 ## Adopted design and exact source status
 
 The independently reviewed Rust relation calls the unchanged conditional module

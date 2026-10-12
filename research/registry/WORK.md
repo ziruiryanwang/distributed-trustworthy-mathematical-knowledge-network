@@ -4,6 +4,25 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-12 resumed latest: root owns exact retained-recipient continuation and
+controls02 selection/runtime, integration/growth decisions and Git. Network02,
+link02 and controls01 are terminal; no inherited session is live. Source owner
+v5_receipt_source_loop owns fresh network_continue.py/retained_custody.py and
+DELTA-NETWORK-SEAM.md. v5_base_actual_audit owns fresh aggregate_parse_once/
+and AGGREGATE-PARSE-ONCE.md: exact parse/census equivalence, no checker change.
+v5_integration_assurance owns ASSURANCE.md, exact/actual controls then network
+and parse-once reviews. All checkpoints are under cycles/v5-2026-10-12; canonical
+root E:\Distributed Trustworthy Mathematical Knowledge Network. Root alone
+launches/Git; no repeat successful campaign or expensive proof allocation.
+
+2026-10-12 next active slice: root owns live network02/session93689, exact
+aggregate link/control selection, integration/Git. v5_receipt_source_loop owns
+network readiness source/checkpoint only, no parallel affordability memo;
+v5_base_actual_audit owns link-only02 source then AFFORDABILITY-NEXT.md cost
+diagnosis; v5_integration_assurance owns exact successor/actual audits. Root
+added reviewed aggregate/input.py and receipt.rs; no speculative full host or
+new guest/proof funded. All prior failures and successful prefixes retained.
+
 2026-10-12 latest continuation: root owns exact network-actual01 selection,
 integration adoption, growth/service model and Git. v5_receipt_source_loop
 finishes stable source/selection handoff then examines actual network outcome

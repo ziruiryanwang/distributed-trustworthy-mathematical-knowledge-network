@@ -218,3 +218,38 @@ its cost. The intended application benefit is avoided *intermediate receipt*
 production; actual full-batch proving and surviving frontier/service costs must
 still beat the selected optimized-library comparator in a nonempty workload
 region. No inequality or workload result has been manufactured by this proposal.
+
+## Native build01 failure and link-only successor
+
+Root's selected `experiments/v5-local-checks/aggregate-native-build-01` is
+terminal **FAIL**. The unchanged module-relation rlib and aggregate-relation
+rlib compiled successfully. The unit-test executable failed at MSVC linking;
+the native driver command was never reached. Preserve that outcome and all
+used sources. Recorded worker CPU is 18.96875 seconds, controller CPU 1.546875
+seconds and wall time 7.043 seconds, with zero remaining active/terminated
+processes as reported by root. No tests or mathematical checks ran there.
+
+Source/archive inspection isolates a concrete recipe defect: the new controller
+omitted the retained working recipe's `-C lto=fat`. The retained semver rlib is
+a valid 245,128-byte ar archive; its three code members begin with LLVM raw
+bitcode magic `42 43 C0 DE`, at data offsets 151,788, 184,224 and 218,472.
+Their sizes are 32,376, 34,188 and 26,656 bytes. The reported LNK1107 position
+`0x3BD88` equals archive EOF; it does not establish archive corruption. Restoring
+the known required final-link option is a source-supported repair, not evidence
+that a new link has already passed.
+
+The fresh **unused** `software/v5/aggregate/build_native02.py` has SHA-256
+`59f85991f3206a15000703231530b7c5d232948d92be565cba656ec623d8461a`.
+It reuses both successful rlibs and both frozen final compiler commands,
+inserting only `-C lto=fat` and fresh `-o` destinations under
+`experiments/v5-local-checks/aggregate-native-build-02`. It does not rebuild
+either relation or the checker. Its exact config is
+`DMKN_V5_AGGREGATE_LINK_V1`, `authorizes_link_only:true`, plus its driver hash.
+
+The successor rechecks the old failed RESULT, source map, source snapshots,
+compile recipe, both successful rlibs and retained runtime/helper pins. Its
+two final compiles share the unchanged 240 CPU / 240 wall-second worker phase,
+3072 MiB / six-process limits, plus at most 60 controller CPU and 600 total
+wall seconds. Retained owned-VCTIP cleanup and post-report finalization checks
+remain. Independent source review and root's exact runtime selection are still
+required; this author ran no compiler, test, guest, proof or network operation.
