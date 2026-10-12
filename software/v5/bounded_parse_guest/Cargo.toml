@@ -1,0 +1,29 @@
+[package]
+name = "dmkn-aggregate-claim-relation"
+version = "0.2.0"
+edition = "2021"
+publish = false
+autobins = false
+
+[lib]
+name = "dmkn_aggregate_relation"
+path = "../bounded_parse/aggregate_lib.rs"
+
+[[bin]]
+name = "dmkn-aggregate-claim-guest"
+path = "../aggregate/main.rs"
+
+[workspace]
+members = ["checker", "module"]
+resolver = "2"
+
+[dependencies]
+dmkn-module-relation = { path = "module" }
+serde_json = "1.0.111"
+risc0-zkvm = { path = "E:/Distributed Trustworthy Mathematical Knowledge Network/experiments/general-checker-guest-01/host-prepare-01/candidate/risc0-3bbcd44d6459b9ef6ac0df3846dc9215514934e8/risc0/zkvm", default-features = false, features = ["std"] }
+
+[profile.release]
+opt-level = 3
+overflow-checks = true
+lto = true
+panic = "abort"
