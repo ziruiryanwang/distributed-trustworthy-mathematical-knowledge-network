@@ -2,6 +2,1918 @@
 
 ## Explicit implementation resumption after guide delivery
 
+### Offline attribution actual PASS adopted in its diagnostic-only scope
+
+Independent actual audit confirms outer2,115B RESULT SHA
+`481f5c67df18f368036bae073872d517faefe7dd9796b2cbac29ed79d2f91b49`
+and inner1,519,214B report SHA
+`9f100a3f56f7645938fae6eb46803d6d742ddbb7cccfdc1070a58c0ae37f893f`.
+Outer command exited zero and closed/reaped cleanly: active0, terminated0,
+no cleanup error or failure override.0.734375inclusive Job CPU plus0.328125
+wrapper CPU gives1.0625knownCPU; outer wall1.2728937seconds before excluded
+reporting tails; peak138,825,728B. All3 current/snapshot source pins and39
+runtime/data pins match. All19 adapter-bound files match size/hash and are
+covered by the exact selection. No source or evidence was changed by review.
+
+Inner status is exactly `PASS_OFFLINE_PREFIX_ATTRIBUTION_ONLY`, with zero
+compiler/guest/proof/subprocess calls and no mathematical admission. It retains
+the failed screen,128partial segments and original session-cap error; neither
+a complete capsule nor a success/speedup claim was created. The frozen helper
+was used only for the new exact image. Saved old attribution was not rerun.
+
+Read-only report checks independently confirm stored/omitted/observed metadata
+against both adopted inputs, window/category/class count conservation, total
+sample count `ceil(observed/256)`, every published missing-label interval and
+unchanged old class/category counts. Current131,614stored+22,960omitted events
+cover39,570,878observed instructions. Both current ambiguity counts are zero;
+118,588stored events resolve to symbols and13,026fall outside user executable.
+Both top40 lists are truncated.72,522reported current windows are retained-only
+SDK row-point bins, not completed phases or session-cycle intervals.
+
+The actual new coarse labels include canonical-native correspondence18,800,
+module canonical7,973, serialization7,261, general runtime35,895 and
+unclassified48,410stored events. Example retained symbol counts: memcpy14,620,
+serde JSON deserialize_any13,529, memcmp7,379, write_all6,227, parse_str6,032,
+JSON index_into5,042, correspondence fields4,016 and validate_expression3,953.
+These are **exact retained sample-label counts**, not execution cost fractions.
+Several JSON trait symbols are deliberately unclassified by the unchanged
+coarse-name classifier, so the serialization class alone does not bound total
+JSON work. The old canonical26,530 and current7,973 counts describe different
+capped prefixes; their difference is not a measured saving or speedup.
+
+Conclusion: source investigation of parse/copy/correspondence work is justified
+by actual retained labels. No ranking of full execution bottlenecks, proof-cost
+forecast, cycle-cap sufficiency or completed-work benefit follows. Use this
+with the source/theory options comparison to select any next intervention;
+stage compilation, proof funding and guest retry remain unselected/HOLD.
+
+### Exact offline attribution selection cleared
+
+Independently read and hash-checked the actual11,057B selection SHA
+`8d4ece90a22f79702778e88edc85da14f7204c04c5cb4aa72577349d6b9c0968`
+and5,760B configuration SHA
+`f6588442d3c3811d86c28d3e316fb6a559a6a61b84fc3d58fcb06404801c2024`.
+All three source pins and39runtime/data pins match actual ordinary files;
+the latter total31,125,493B. All twelve configuration record sizes/hashes agree
+with that closure. Derived ELF/map/image/wire/header/I-receipt pins match the
+previously adopted actual records. The new adapter is exactly reviewed e712b33f.
+
+Actual argv invokes only isolated `-I -S -B` Python over the new snapshotted
+adapter, exact config path/hash. Limits are30CPU/60wall/512MiB/two active with
+1MiB each stdout/stderr. The operation root and output are absent/fresh at
+review. Clear **one bounded offline attribution** for root's selection; no
+runtime was executed by this reviewer. No guest/proof/cap increase, baseline
+reattribution, stage compilation or mathematical admission is authorized.
+
+### New-image offline attribution source and selector cleared
+
+Read the complete final17,231B `bounded_parse_guest/attribute.py`, SHA
+`e712b33fea2a46bbc975f9b576c8e844cf8b2d397d163f0925a8c023291007b1`,
+the complete failure-decision checkpoint and6,135B root selector SHA
+`04f79bdfea40464da8c8c17d4e8c4e8c8c010788f9e5e8bde0b934ae5d5e15b2`.
+Independent PowerShell parsing reports zero syntax errors; selector was not
+executed by this reviewer. No concrete source blocker remains.
+
+The adapter reuses the previously read frozen25,115B helper0fc2ca9b only under
+a non-main module name. Exact current twelve-record binding connects the
+successful direct build, actual assembly and failed screen to their own ELF,
+map, image, wire,192B header and retained genuine I receipt. The new41-source
+map is bound through actual assembly selected_inputs, not confused with the
+old39-source hash in direct-build RESULT. Prior attribution31b29b7a is read as
+adopted data, never recomputed. No compiler, subprocess, guest or proof call is
+introduced, and no old dependency-tree campaign is repeated.
+
+The only new arithmetic summarizes retained windows, conserved coarse-class
+counts and top40 unique-attribution symbol labels. Global omission intervals
+`[H,H+O]` share one missing-label pool. They are not independent bounds on
+physical overlapping symbol ranges, all instructions or execution/proof costs.
+The explicit unique-attribution wording resolves the last source precision
+concern. Unknown windows, ambiguous labels, deterministic sampling/saturation,
+caller/inlining limits and nonalignment of the two failed prefixes remain
+explicit; no speedup ratio, matched-phase inference or completion claim occurs.
+
+Selector prospectively pins three sources, eighteen inherited Python files,
+twelve records and all derived reads;8MiB caps accommodate the adopted4.7MB
+baseline and2.4MB diagnostic. Final rebinding remains inside128MiB total reads;
+output <=16MiB. Proposed outer30CPU/60wall/512MiB/two-active envelope is finite.
+This is **source clearance only**: root must prepare the actual immutable
+selection/configuration for exact review before its one offline operation.
+Stage-host compilation, guest retries/cap increases and proof funding stay held.
+
+### Optimized-image execution screen actual FAIL at unchanged cycle cap
+
+Root reports the single selected screen terminal exit1. Targeted independent
+audit confirms outer2,100B RESULT SHA
+`a4db15321bc9084ba5db4c7f4dbbb702a391909c8cafe7fd7d82f7ecec6237e9`
+is COMMAND_FAILED; inner859B RESULT SHA
+`bc7fae70d1a7cde35a3db76a075ff289d8e082dea90b4ec2f726fb05ed99ba05`
+is FAIL.2,434,863B diagnostic SHA
+`dca409e07e44f7647c2b248167cadcba6f5ad0827af83a3aa3173e0aee0bda72`
+is FAILED_NO_ACCEPTED_CAPSULE with null result and session_stats. Actual host
+stderr says `Session limit exceeded: 33557665 >= 33554432`. This is not compiler,
+wall-time or memory exhaustion and not a completed aggregate execution.
+
+All eight current/snapshot source pins and29runtime/data pins match. Actual
+215,540B wire SHA
+`aeddcc517ac61bc14d93e66abe099b73d4167a2ef26f1ef0363d44ddb39aed1e`
+and192B header SHA
+`1c81b7b3bf815cc25f5fdcc65a4044280e04838c98cb3933a9b0f05de501e887`
+equal the retained reference except the exact32-byte A-image slot. Diagnostic
+binds those bytes, the adopted image and the unchanged2^25cap/po2=18. Its one
+boundary parent is the unchanged genuine I receipt850c33b2. One host/guest call,
+zero proof calls and no mathematical admission occurred.
+
+All128retained partial segment file sizes/hashes match diagnostic; total
+25,477,893B. No `aggregate.snapshot` capsule exists. These partial files are
+preserved diagnostic evidence, not a completed or resumable production capsule.
+Job exits cleanly with active0/terminated0, child reaped, no cleanup error and
+153,657,344B peak private commit.8.296875workerCPU+.46875wrapperCPU gives
+8.765625knownCPU; outer wall8.685207seconds, final reporting tails excluded.
+No prior failure or resource expenditure is erased.
+
+Reported phases are134ms bounded-read/native preflight,13ms genuine boundary
+receipt verification and6484ms partial guest execution/segment custody. These
+are phase wall times, not CPU or completed-work costs. The deterministic sample
+map is saturated at131,072cells with22,960omissions; diagnostic explicitly says
+instruction samples are not proof-cycle attribution. It cannot justify an
+unbiased whole-execution hotspot percentage, completed total-cycle estimate or
+speedup claim. Source/retained-trace investigation remains valid next work.
+
+Adopt the **failure and clean closure**, not guest success. Staged-host compile,
+proof funding, a larger cap and another execution remain HOLD/unselected. The
+bounded-parse optimization alone did not meet the existing completion gate.
+
+### Held aggregate staged-host one-link source review complete
+
+Read all17,828B `aggregate_production/build.py`, SHA
+`a1d2c22427ffa9f8293813ac76359f9cdde6a3f73870c75a209dad2310bc781a`,
+the one-link contract/controller sections of AGGREGATE-PRODUCTION-SEAM and root
+selector SHA
+`7909b346f906b77e94fb3a4332b16d7cf6a64f45585418cdce2ecd60a02f9a67`.
+Selector PowerShell syntax passes without execution. Reviewed Rust stage/receipt
+source pins remain unchanged. No source blocker found in this held builder.
+
+It preserves the actual successful host argv except exactly crate name/source/
+output, retaining seven externs and14search directories. The deterministic
+1,071-file/2,320,491,997B runtime subset preserves exact prior versions, native
+archives and host linker inputs; implicit Windows facilities stay trusted.
+Three-file fresh snapshot contains the builder plus only two compiler-read
+Rust files. Stage's sole path module is the reviewed receipt.rs, with no added
+Cargo environment/include dependency. Old result/attempt/absence of override
+are bound. Complete private environment and cl/link/rc metadata observations
+are recorded and compared to their previously pinned environment record.
+
+Full runtime hashing occurs at initial/final binding; the precompile midpoint
+rechecks smaller records/helpers/sources. Census has both pre/post envelope
+checks. One240inclusiveCPU/300wall/3072MiB/six-process Job,40ordinary+20final
+controllerCPU/420totalwall,512MiB/8192entries and1MiB combined logs remain finite;
+finalization can override reported success. The more comparable retained stage
+host03 cost, not only snapshot-host size, informs this headroom. No claim of
+actual new link completion is made. **This source clearance does not bypass
+the failed screen or authorize stage compilation; no exact selection exists.**
+
+### Exact unchanged-cap optimized-image screen selection cleared
+
+9,277B selection SHA
+`115c00c10b33e75e72b4427061a1b933cb3b632e0ed70681611cb6d766100719`
+and568B configuration SHA
+`19296697208cc4b6b0b9135bf4baf90a905050bdb926a9718746244e8585d681`
+match actual files. All eight unchanged source and29runtime/data pins match,
+including snapshot.py d99656a1, the adopted actual assembly696774f9 and new
+image17325569/fileSHAe3ec2dbb. Existing actual-two-delta input/native output and
+the genuine I receipt are unchanged; old failed executions are not restarted.
+
+Source retains one host snapshot with2^25session cycles and segment_po2=18,
+zero proof calls and no mathematical admission.180CPU/240wall/3072MiB/three
+active processes and1MiB stdout/stderr remain the selected bounds. Exact fresh
+run root is absent at review. Root may launch that one screen; no stage-host
+build, proof budget or larger guest cap is authorized by this clearance.
+
+### Fresh aggregate image actual assembly PASS
+
+Root confirms the single assembly launch terminal exit0. Outer RESULT2,295B SHA
+`f92ac44d3b2b12c677e3dcbe819dd64703cfd9f1da00d01efd58bb68e49c47ab`
+is COMMAND_EXITED_ZERO_AND_CLOSED. Inner2,208B RESULT SHA
+`696774f9616ffd0f8a058eccf5fbf13f9f6b6e2eb0cfdbb5f7ee6acde75e6b7a`
+is PASS_NEW_AGGREGATE_IMAGE_ASSEMBLY_ONLY; inner17,082B COMMAND SHA
+`fa544ea6ce87fee63a1b70e3e443461fa7f535e34b524de5979f9bb456840cde`.
+
+Targeted actual audit matches all81selected runtime/data pins, both current and
+snapshotted source pins,60recorded assembler-input pins, actual image and both
+inner log pins. No whole dependency-build inventory was repeated. Actual outer
+argv equals selected substitution; the inner command uses exactly the adopted
+new guest ELF, retained kernel and pinned assembler. The build finalization
+failure marker remains absent. Printed and saved inner reports are semantically
+equal; their JSON property ordering differs normally. An audit-only order-
+sensitive comparison was replaced by a read-only semantic comparison, without
+changing evidence or running the operation again.
+
+New image1,739,692B SHA
+`e3ec2dbb7742bf6de81ebd0d226bd08f88d63c91e1658fdf262510c296857822`
+matches actual bytes. Assembler stdout's exact COMBINED_IMAGE record reports
+image ID
+`173255698c2bc9030e7528297b627c59d6d35a605ec3a16542b2ba73e5107ac2`
+and matching size. This image ID is the pinned assembler's actual computation,
+not the file SHA or an independent re-execution by this reviewer.
+
+One assembler call, zero guest/proof calls and mathematical_admission=false.
+Child exits0/reaped, Job closed with active0/terminated0 and no cleanup errors;
+stderr is empty. Worker0.734375CPU plus wrapper0.59375CPU gives1.328125knownCPU;
+outer wall2.8056585seconds, with final reporting tails excluded. Recommend root
+adopt this assembly, then separately select the unchanged-cap execution screen.
+No capsule, aggregate receipt or mathematical acceptance is established yet.
+
+### Fresh image assembly exact selection cleared
+
+22,532B selection SHA
+`f78b388b6b6278ffbae2aa73ab50f5eadfe5f1527a744e2f4cc8799670abcb35`
+under `bounded-parse-image-assembly-01-selection.json` matches all two source and
+81runtime/data SHA pins on current ordinary files. It binds the adopted actual
+direct-build RESULT694d205b, newly linked ELF/map, provenance records,39source
+snapshot files, both direct-build adapters, preserved failed02 lineage and the
+unchanged pinned assembler/kernel. Selected assembly source is220f54cf;
+changed-source review was independently completed by the guest author and root,
+so this reviewer did not duplicate their complete source reread.
+
+Actual argv selects the snapshotted adapter with the exact successful guest
+result and fresh `{output}/assembly`. Output root was absent at review.
+120CPU/120wall/1024MiB/two active processes and1MiB stdout/stderr limits are
+unchanged. Root may launch this one assembly. No guest execution, proof,
+receipt or mathematical acceptance follows from exact selection clearance.
+
+### Direct three-project build actual PASS; fresh assembly prerequisite satisfied
+
+Root confirms session6763 terminal/reaped exit0. Independently audited actual
+`bounded-parse-direct-build-01` without any compile/test rerun.25,069B RESULT SHA
+`694d205b63082ecd02536eb70b16ae08a271f06d66d5df95f296a51a607ce22b`
+records PASS_BOUNDED_PARSE_THREE_PROJECT_COMPILES_ONLY; matching attempt binds
+that exact result and no FINALIZATION-FAILED marker exists. Both reviewed
+adapter sources and selected finite limits remain unchanged.
+
+All329original input length/SHA pins and238fresh copied artifact pins match.
+Copied view contains exactly those238regular files. All39immutable project
+snapshot pins match, and independently parsed compiler dep-info identifies
+exactly the16selected non-checker Rust sources, with no additional project file.
+All five new code/metadata output pins, six log pins and three separately stored
+command records match RESULT. Actual argv arrays equal the saved reconstructed
+recipes in module/aggregate/guest order. Each command exits0/COMMAND_COMPLETED,
+with no cleanup error or selected telemetry cleanup. The only stderr is three
+dead-code warnings in module compilation, not compiler failure diagnostics.
+
+| Phase | Worker CPU seconds | Command wall seconds |
+|---|---:|---:|
+| Module | 4.734375 | 2.1362851 |
+| Aggregate | 1.015625 | 1.0437693 |
+| Guest | 23.796875 | 25.8535494 |
+
+Final Job is closed, active0/terminated0, seven total processes and
+387,866,624B peak private commit. Worker CPU29.546875 plus recorded controller
+CPU6.78125 gives **36.328125known CPU seconds**, with report/write/exit tails
+explicitly excluded. Recorded whole-operation wall is40.8754799seconds.
+Reported pre-result census/peak is278entries/328,317,496B. These are this fresh
+operation's observations, not a matched full-workflow speedup; all previous
+failed costs and their unknown tails remain retained and charged.
+
+New1,680,924B guest ELF SHA
+`16b7f1a26bcabdf95bf6cd85da1c0f8e6cd6c8647c2b7b049c65c7332f0fc701`
+and1,771,273B link map SHA
+`b200d6322acfad9ab454f5fddbfb90dc08d1e476f3282b53956ab9a34e9f4581`
+match actual files. Independent byte parsing confirms ELF32/little-endian/
+RISC-V executable, four bounded LOAD segments and entry2100484inside executable
+file-backed bytes, all matching ARTIFACT. Link map contains `_start` at that
+entry and `__start`. This confirms a newly linked artifact, not execution or
+mathematical validity.
+
+Additional provenance pins:
+
+| File | Bytes | SHA-256 |
+|---|---:|---|
+| SOURCE-MAP.json | 9666 | `35387a79067d4868e02076c71c9128b1695fe0371524493f87e28de51fa19c3e` |
+| INPUT-MAP.json | 142848 | `1977a89a3936ecd3916f889f52b6590e215897df1c377213c073498e82fb353c` |
+| RECIPES.json | 17089 | `e6fc21c18e114cc280f7a5fe9bba3beafedae31309e87f940c970ec89ec38510` |
+| ARTIFACT.json | 1238 | `d551a90cb1af3ed77c064bb457f34c38aaa9acc0eaf766143393cdb1c09dccb8` |
+| GRAPH-COMPARISON.json | 572 | `3f2accd068ea0413dba2126fd03ef14433d6f4eb2a2375493714b94dab41a438` |
+| bounded-parse-direct-projects-job.json | 390 | `481812fd34faeec6b6f9680179585d7119177a0b0e6f6a66e7afdf4aaedc3451` |
+
+Recommend root adopt this bounded build result and proceed to a separately
+reviewed exact assembly selection. Zero new Cargo/graph/dependency/checker
+compiles, network/assembly/guest/proof calls are reported. No image, capsule,
+A receipt or final deployable-v5 claim follows from this audit.
+
+### Direct recovery exact selection cleared for one root-owned launch
+
+Selection253,090B SHA
+`3f92ea98aa873580929a446635e426717f6d0efe1a1b1a91e272e21ab7eb9bc6`
+has exactly the reviewed schema/explicit retained-adoption flag, two matching
+adapter pins and unchanged finite limits. Independently reconstructed the
+expected artifact set from the pinned old nonverbose stdout:108 matching-stem
+rlib/rmeta pairs,22host macro DLLs,41 build-script rows without external native
+link paths/libraries, and one successful build-finished record. All238 actual
+current file sizes and SHA-256 hashes equal the selected map. Total bytes
+320,499,420; library-pair bytes281,325,788. Old project crates are excluded.
+The exact fresh output directory and attempt marker do not exist at review.
+
+Root may launch that one unchanged finite three-compile operation. This reviewer
+ran only read-only parsing, source inspection, hashing and selector syntax
+parsing. An initial audit-only PowerShell property-count assertion omitted the
+array wrapper and failed before artifact validation; correcting that local
+read-only diagnostic allowed the complete audit above. No product, selection,
+retained artifact, source profile or runtime state was changed by the correction.
+No compiler/ELF/guest/receipt result is implied by clearance.
+
+### Direct three-project recovery source and selector cleared
+
+Read complete18,648B `bounded_parse_guest/build_projects.py`, SHA
+`a2ccf89c795cfafd6f9cc8ec14afb6447a95ab317ae483a323b94b62ce80fb49`,
+9,412B `recipes.py`, SHA
+`61d020dfc0597cd74c887d162bf88187e446ab1f4a9f67faa2ae2dbd3e7e7927`,
+and GUEST-BUILD02-RECOVERY. Root selector SHA
+`29cc4c5781d8d4790714ceff09485f5874c02d4de0d9f20c518aa7974f89a328`
+was read completely and PowerShell syntax-parsed without execution. No source
+blocker found; root may prepare exact selection for separate input-pin review.
+
+Independently inspected the actual retained297-unit graph's three project
+profiles and11/10/11 direct dependency edges. It records edition2021, release3,
+fat-LTO intent, abort panic, checked overflow, debug assertions off, unspecified
+codegen-unit count and no incremental compilation. New library bitcode/final
+fat-LTO recipes match that intent, not uncaptured Cargo argv or identical ELF.
+Seven standard-library edges retain `noprelude`; the exact relocated checker
+package is the only direct package-ID exception and all16 checker source pins
+must equal the old map. Linker/text-address/atomic/getrandom flags come from the
+bound old environment, with only the fresh map destination changed.
+
+The old compiler child actually records COMMAND_COMPLETED, exit0, clean active0/
+terminated0 closure and222.640625workerCPU. Its encompassing finalization remains
+failed. Successful child artifact messages identify108 target library pairs and
+22host macro DLLs. All41 build-script messages declare no additional native
+library/search paths; any embedded native payload remains inside adopted rlib
+bytes. This is **explicit present-time adoption of retained compiled artifacts**,
+not an invented historical content-hash attestation or source-to-binary proof.
+
+Every target pair has identical stem, one rlib and one rmeta; lookup is keyed by
+package ID and target name, preserving distinct versions. The fresh238-file copy
+view excludes both old project crates physically. Distinct new metadata salts
+and explicit new rlib extern paths enforce sequential new-module/new-aggregate/
+new-binary composition; no Cargo cache,297-unit rebuild or retained target search
+directory is used. The complete39-file source snapshot remains read-only and is
+rebound, as are26selected compiler/linker/runtime files totaling395,093,004B.
+Operating-system facilities remain trusted; this is not a hermetic-build theorem.
+
+Independently read the retained SDK entry expansion (mod.rs SHA c149e205): it
+emits the const/function wrapper without consumer Cargo-variable lookup. Serde
+derive1.0.229's only inspected environment macro occurs inside the compiled
+macro implementation's Ident construction, so its `__private229` token is
+already fixed in the adopted DLL. No dynamic environment read was found in that
+derive source or serde_json's macro definition. The explicit private invocation
+environment is recorded; this narrow result says nothing about arbitrary macros.
+
+The strict copied view consumes320,499,420B, leaving216,371,492B inside the total
+512MiB output cap for new code/logs/temp/evidence. For context, the old two
+project rlib/rmeta pairs total3,897,401B and guest ELF1,682,292B; those are not
+upper bounds for new LTO temporary space. The new238-file view avoids the old
+11,755-entry census shape, while all three compiles share240workerCPU/300wall,
+40ordinary+20finalcontrollerCPU/420totalwall and six processes. This is justified
+finite headroom, not a measured speedup or guaranteed pass. Sampled census and
+final override remain necessary; failures and unknown old tails stay charged.
+
+Exact238retained-byte pins and fresh selection/outputs remain to audit. No new
+compile, ELF, assembly, execution, A receipt or deployable-v5 result follows.
+
+### Combined genuine-A reciprocal harness source review
+
+Read all50,429B `mixed_network/reciprocal_actual.py`, SHA
+`9ae9520bc9f01205aa53689149be09606f9ec3bed2e9f907fc0391ebfa482857`,
+and the complete REAL-A-RECIPROCAL-PLAN. Independently followed only changed
+integration seams into existing import, preparation, transport and location
+owners. No core edit, project import, test, native call or network run occurred.
+The inherited guide request is already completed; root directly reaffirmed the
+newer human software-continuation instruction after this reviewer's resumption.
+
+The source preserves actual authority separation. Author receives a genuine
+A/H call and selects only exact BASE/FIRST member Js; membership openings and
+retained interface data cannot independently authorize mathematics. Its live
+owner survives session/preparation completion. FIRST proof and reference SECOND
+are not passed into authoring; reference SECOND is read only after author
+closure, with complete witness comparison, not merely a row-count check. This
+is explicitly trusted same-process input separation, not hostile isolation.
+Ordinary output remains untrusted until each new reader performs its own one-A/
+one-native admission. Final ordinary import uses the second reader's live
+mixed handle and acquired semantic data; saved reports never re-create it.
+
+Unknown-target discovery uses only the previously known BASE fold vocabulary
+and structural theorem/equality features. The neutral bootstrap has no provider
+publication; route descriptors supply contacts, the actual returned candidate
+supplies the module/export, and expected SECOND assertions follow acquisition.
+The test owner's loopback egress allowlist necessarily knows permitted endpoint
+ports; it is not a claim of adversarial consumer isolation or Internet recall.
+The first actual relevant match is selected within existing finite grants,
+without a hidden expected-ID filter or success-driven retry.
+
+Replica index and semantic custody derive solely from reader1's acquired bytes.
+Its mathematical owners close before reader2 begins. Origin HTTP/node/stores
+are stopped and closed before reader2 route/search; fresh reader2 stores and
+owners then independently acquire/admit. Only structural custody survives.
+Source counts enforce three A verifications, one ordinary authoring and two
+native SECOND checks, with no I verification, guest call or proof generation.
+
+Budget design is feasible in principle, not a measured prediction: the existing
+outer launcher accepts at most600worker-wall seconds; inner cap540 leaves
+nominal tail headroom. Sequential phases have at most three live location nodes
+plus the main worker and at most the existing two-process mathematical child
+bound, fitting the proposed eight-process ceiling. Six30CPU child reservations
+total180CPU; nested owner/acquisition limits constrain that same work and must
+not be added again. Actual installation validation, controller work and cleanup
+remain inside enclosing totals. Five node lifetimes imply ten full retained
+location installation validations; their cost must not be erased or called
+constant-free. Existing finite node/search lifetimes may expire before the
+whole outer cap; such expiry is a preserved failed operation, not renewed work.
+
+No changed-source blocker found. **Source clearance is not exact runtime
+clearance:** actual A image/receipt/H/member paths, updated snapshot profile and
+63-file loaded-source closure, concrete supported allocation, receipt/packet
+size fit and fresh output/port selection remain to review. No genuine A artifact
+or operation success is established. Direct-project recovery review now takes
+priority; this passing source review does not warrant running old campaigns.
+
+### Resolver build02 actual controller failure and diagnostic findings
+
+Tool session84782 is terminal/reaped exit1, confirmed by root. Actual14,187B
+RESULT SHA
+`792ed5825ae3110dc3ddc1a85b49636b63469f5e4cb1d662e70d8ddf27d6b4b6`
+is FAIL; its matching attempt remains FAIL. A223B overriding marker SHA
+`36c6f5c6b7084dbb08d461c008ea8b39e71e80bf95cc90860e455936b637cf55`
+sets **FAIL_FINALIZATION**, binding that exact RESULT, because the final
+controller envelope was exceeded. Never treat the recorded pre-tail counters
+as a complete successful resource result.
+
+Independent audit matches all77 current/snapshot source pins and379 copied
+cache pins, plus all four actual command-log byte/hash records. Saved16,129B
+selection is the cleareda537fdbc object. CACHE-SELECTION6,171B SHA85c7a308 equals
+RESULT's explanation and selects180 archives/379 files. Original failed01
+descriptor/costs remain in the result. No historical SDK/runtime census was
+repeated by this audit.
+
+The one graph command exited0,6.515625workerCPU/17.7477509commandwall. Stored and
+stdout graphs both have297 units; GRAPH-COMPARISON232B SHA36b0bd9b records only
+the previously reviewed two library/four unit/cache relocations. UNIT-GRAPH
+544,592B SHA142224e5 is retained. This establishes the resolver repair's actual
+graph outcome, not completion of the subsequent compile.
+
+The compile command failed at the controller ordinary-envelope check after
+183.703125workerCPU/128.6510096commandwall. Source error handling killed its
+owned Job and reaped the direct child; exit1 is not a recorded compiler
+diagnostic. Final392B Job record SHA
+`f7fd903607b68ac3abe9184b88ddc8b743e15f18b5ddcc2d2c4bee875ea11237`
+has closed=true, active0, no cleanup errors,190.21875cumulative workerCPU and
+1,203,777,536B peak private commit. No ELF, link map or ARTIFACT exists; no image,
+guest session or proof followed. Preserve partial dependency outputs for a
+separately justified reuse decision, never as a complete guest build.
+
+**Accounting:** RESULT records88.640625controllerCPU/179.72636870015413wall
+before writing/final reporting. The subsequent override proves total controller
+CPU exceeds90; its exact final CPU and final elapsed tail were not recorded.
+Thus actual worker+controllerCPU for build02 is **greater than280.21875**, not
+the apparently precise pre-tail sum278.859375. Including failed01's recorded
+20.125CPU gives a combined lower bound **greater than300.34375CPU**, with
+excluded reporting/exit tails explicitly unknown. Do not fill missing tail
+measurements with estimates presented as observations.
+
+**Monitor source diagnosis, not measured attribution:** frozen runtime.py polls
+CPU/wall/logs about every0.1seconds, but calls Budget.refresh before/after each
+command and after10wallseconds have elapsed since the previous census. It does
+not census at every poll. Each refresh calls c.census on the full new output
+tree (11,755entries at the recorded end), with an initial lstat, another in
+regular_stat, and path.resolve plus run.resolve for each ordinary entry. It
+also repeats namespace/path checks. The work is at least linear in tree entries
+with repeated path-resolution overhead; there are no internal controller-time
+checks inside that census. Rebinding separately rehashes selected inputs.
+No census timing/call-count record exists, so no numerical fraction of88.64CPU
+can be attributed to a particular routine. The final extra whole-tree census
+can consume the remaining reserve before its post-scan envelope check refuses.
+Simply enlarging an allowance is not a diagnosed efficiency repair.
+
+**Additional latent source defect exposed by retained logs:** the9,903,636B
+compile stdout SHA
+`c9997034e6cf812da545c2b8e34711a8c3164ca67f234b279d7cc6795e186be4`
+contains228 compiler-artifact,1214 compiler-message and37 build-script-executed
+JSON rows, plus439 non-JSON bracketed verbose build-script lines. None of the
+parsed rows is an error diagnostic, build-finished or guest executable artifact.
+All439 other lines have the `[crate version] ...` build-output form. Frozen
+build_resolver.py's unconditional json.loads per stdout line would therefore
+fail if later reached after a successful `-vv --message-format=json` Cargo call.
+That branch was not reached here and did not cause the actual controller failure.
+Future direct rustc work avoids this Cargo framing issue; any future Cargo parser
+must distinguish structured records from retained verbose output. Root and author
+were notified. No retry, source mutation, assembly or runtime by this reviewer.
+
+### Resolver successor source and exact build02 selection cleared
+
+Full new cache_resolver.py7,693B SHA
+`afb71f3f19acd90cf6b731e3fa62ff65f382d372e478b8dd75599a34d2565b83`
+and build_resolver.py27,749B SHA
+`ad8182636c7b87a54bfcf41fbf66983a45f8aaf02f00c1010485d6d990651e8e`
+were read, together with BOUNDED-PARSE-GUEST-FAILURE.md. Independent read-only
+inventory confirms160 compiled registry versions and173 extracted package
+directories in the retained successful target caches. The exact13 additional
+resolver-only directories all occur in the new20-archive additions; the remaining
+seven are available locked extras. Independently hashed all20 added archives:
+their pins match the retained seed map and total1,898,069B. Source parses the
+exact TOML locks and enforces their archive checksums, available180, missing40,
+198 sparse entries and379total cache files. This is a justified retained-target
+repair, not proof that all220 locked versions are available or every Cargo
+target/feature combination works.
+
+Fresh controller retains unchanged graph/manifests/Rust sources, same finite
+limits, real native comparison, two-command recipe, sampled inclusive CPU gate
+and finalization. It separately binds frozen failed01 RESULT/command/stderr/
+selection/attempt and preserved costs. It adds the resolver explanation record,
+not a new mathematical relation or execution cap. Source review found no blocker.
+Guest02 selector3,319B SHA
+`f622701f06c2b7802232edcad6838213d55b7dacfd8000ed299d17d2998ff670`
+was read completely and syntax-parsed without execution.
+
+Exact16,129B build02 selection
+`a537fdbc9bf27b9a0832bb14a72aa07aad4d96abe9cc6bb433473a58935c16e2`
+matches all38 current source length/hash pins; all36 inherited pins, every limit
+and native-comparison object equal the frozen failed01 selection. Run and attempt
+destinations are absent at review. The snapshot will have39 files including the
+unchanged lock. Root alone may launch once; this clearance is not graph/compile
+success, new-image adoption, guest execution, certification or v5 completion.
+
+### Thin assembly resolver-schema update source-cleared
+
+Final unused assemble.py12,397B SHA
+`770e97e454ea16bac1b93cb8793a9577adf9f0dbd3d856228a6125ca02719972`
+matches the new resolver result/selection schemas and exact build02 name, while
+retaining successful status, two command labels and artifact layout. It requires
+CACHE-SELECTION.json equal the adopted result's resolver_cache_selection and
+carries its bound predecessor-failure descriptor. Root's prospective assembly
+selector now also pins that newly read record:5,300B SHA
+`6f16d5fe1bdb6905e717e529b8fd8bec627957a4958267a0e2ce4c61ae49471c`.
+This final one-entry selector delta was checked. Actual build adoption and a
+fresh exact assembly selection are still prerequisites; no assembly has run.
+
+### Next distinct source review: resolver successor and thin assembly
+
+Root assigns source/exact review of the forthcoming fresh two-file resolver/
+build successor, against the frozen build01 failure and retained successful
+resolver evidence. No one-crate retry, runtime or old source mutation is assigned.
+Read the complete unused bounded_parse_guest/assemble.py candidate. Its adopted
+success/attempt/no-override checks, exact artifact/graph records, retained driver/
+kernel pins, fresh owner output and pre/final rebinding are coherent. Exact
+clearance remains pending adaptation to the successor's selection/result schema
+and command/artifact contract, followed by an independently adopted actual build.
+No assembly selection or image exists for the bounded-parse successor yet.
+
+Read full10,561B BOUNDED-PARSE-SCREEN-PLAN.md SHA
+`acd5fefa37f45e1b5b6ca195727f29538d5499c342832c053b20a7944d543824`.
+It leaves the old snapshot host/controller, workload, genuine I receipt and
+2^25 cap unchanged; only adopted assembly provenance, A slot and fresh output
+change. It does not repeat the old image or imply a precise cycle-speedup from
+its saturated failed-prefix samples.
+
+Root's future Assembly01 selector5,255B SHA
+`89d5f3df1366b7bd0f636c7a0ef2cffaac5f2c70439140e00b822607801cb150`
+is source-reviewed and PowerShell syntax-parses without execution. It requires
+root-supplied adopted build02 RESULT and reviewed assembler hashes, two closed
+successful build commands and exact artifacts;18 Python and3 retained assembler/
+kernel pins precede operation-specific records. This is prospective preparation,
+not generated selection or runtime qualification.
+
+Initial unused Snapshot01 selector contained duplicated script bodies inside
+ValidatePattern strings; reviewer refused it before execution. Root corrected
+the fresh file by full apply_patch replacement. Current6,773B SHA
+`f2c92c1d3d91704826d19e7ff44aeefaa701a9c13d9c69e04cb50f995224a7c6`
+was reread and independently syntax-parses with zero errors. It additionally
+requires independently adopted inner and clean outer assembly RESULT hashes,
+actual image pin and unchanged host/workload/receipt, with eight unchanged source
+pins and the original180CPU/240wall/3072MiB/three-active envelope. No remaining
+source blocker in these selectors; actual prospective selections must still be
+reviewed after successful dependencies exist. No selector was executed here.
+
+### Aggregate staged-production host source review complete
+
+Read full stage_host.rs and API.md, then the final requested accounting wording
+delta. Final stage_host22,515B SHA
+`5865e6afb30bd81adb79d6fe04e09ac8bb7238b40956284fa3bcd2d4da4fe102`;
+API6,655B SHA
+`d95748f6d008a58170140d09d4a7fd43837386c73f2f5797f34f10e644870ec4`.
+Source review finds no outstanding mathematical/source blocker in this seam;
+this is not compilation, proof-production or deployable-v5 evidence.
+
+Checked the pinned SDK ProverServer signatures, local non-dev server selection,
+SuccinctReceipt.into_unknown digest preservation, exact CompositeReceipt serde
+field order and post-integrity claim semantics. Checked the snapshot host's
+same DMKNAS01 field ABI, session S and capsule B binding domains. Pinned
+bincode1.3.3 SeqAccess supplies an exact declared length and decrements it once
+per element; bounded outer visitors therefore reject excessive counts before
+allocation without changing the Vec encoding. Manual checkpoint framing checks
+actual payload extent before copying. Nested SDK decoding remains bounded by
+external memory/CPU/wall supervision, not a proved total decoded-heap bound.
+
+Exact adopted A/image/192-byte H and native pending I/A claims are checked before
+every stage; each actual parent has full typed application verification before
+claim-type erasure. Checkpoint keys cannot be duplicated or left unused. At
+finish, all segment receipts and genuine ordered assumptions are verified as a
+composite; both its claim and the final succinct claim must independently equal
+ReceiptClaim::ok(A,H), followed by full aggregate application verification on
+the serialized output. Unkeyed checkpoint framing is not authenticated provenance
+and does not bind a controller source profile; owner selection retains that duty.
+
+Requested wording correction is applied: guest_execute_calls=0 counts absence
+of a new whole-session ExecutorImpl acquisition. SDK prove_segment still calls
+segment_preflight/prove_preflight and its witness reconstruction costs must be
+charged. No claim of zero execution-derived proving work follows. API retains
+3s+m explicit stages, fresh output, final-call verification and artifact-only
+(not recipient admission-handle) status. No runtime or source edit by reviewer.
+
+### Bounded-parse guest build01 actual failure audit
+
+Actual4,187B RESULT
+`1f97e4d5c3a6f0c9d704970adcc91a128eb237d541fa71365a99690c1c58d8e8`
+is independently audited as **FAIL**, not compilation success. Its attempt record
+has the same FAIL and exact result hash; no finalization override exists.
+Saved selection matches the reviewed15,677B be47024a original. All75 current/
+snapshot source pins and359 copied cache pins independently match; project has
+exactly38 files and private archive cache exactly160 archives. This audit did not
+repeat the full retained SDK/runtime census.
+
+The sole actual command is the selected offline locked unit-graph query, exact
+argv/cwd and source snapshot. It exited101 after2.3842389001511037 command-wall
+seconds, with empty stdout. Its126B stderr SHA
+`a54f0ca1f3b418c6a04ed5833b4d5f8d9d11daeb525c80fdf4013b8de872767a`
+reports missing `ark-r1cs-std v0.5.0`; Cargo refuses the required download because
+offline was specified. No UNIT-GRAPH, ARTIFACT or build-command directory exists.
+No second compile command, image assembly, guest execution or proof occurred.
+
+Final Job record379B SHA
+`f7d850577ba379a8c91196477575e0c4821928e8f9e025f189a29eba6d09501c`
+is closed with active0/terminated0 and no cleanup errors. Direct child exit is
+recorded; command/job/result stats agree:0.75inclusive workerCPU (0.203125user+
+0.546875kernel),19.375controllerCPU/89.82956409989856totalwall, report/exit tail
+excluded as declared. Failure/spend and all used files remain frozen.
+
+**Review miss:** the160 compiled registry units establish compilation demand,
+not Cargo's manifest-resolution archive closure. Root, author and reviewer
+accepted an insufficient cache-selection premise. Source/selection clearance
+above was therefore not evidence that the offline graph could resolve. The next
+decision must justify the resolver's selected closure; do not silently add the
+first named crate, fetch online, retry used outputs or relabel this failure.
+Root owns any distinct successor selection; reviewer ran no build or rerun.
+
+### Bounded-parse guest builder source and exact selection cleared
+
+Read all five fresh builder/graph/manifests and the retained phase supervisor.
+Final build.py24,272B SHA
+`514b5f743ee7acef21c02719d98aa2b910e67a4966231527a1d4b83ac450f584`
+repairs the review finding that the retained supervisor's600-second wall setting
+also governed its inclusive CPU check. Its local InclusiveJob now refuses
+inclusive worker CPU above480 at every ordinary phase stats poll; finalization
+reads raw accounting for cleanup and separately refuses above480. Windows' native
+Job user-CPU cap remains480. The inclusive check is sampled, not an instantaneous
+hard bound. Used/frozen helpers are unchanged. Absent Cargo configuration guards
+cover fresh workspace ancestors and the fresh private CARGO_HOME.
+
+Exact15,677B selection
+`be47024a42da96b5d33dcbea8e9ffcc4f2d81be50cc30a1f58ff0b2d4da0e41d`
+independently matches all37 current source byte/hash pins. Selector5,065B SHA
+`66f648f46ccae7b6f3ff1f58d3254cd99ae1f925d8bcc3aa4871791dc3542134`
+was read completely. Fresh run/attempt destinations are absent at review.
+Six production source pins bind the adopted native02 source map;26 unchanged
+Rust sources bind the retained guest project map. The source separately verifies
+the saved/native selection serialization hashes and parsed-value equality.
+Adopted native comparison8960B SHAddd41112 is selected, not a rerun.
+
+Unchanged graph.py8,668B SHA
+`090744c1b479474399912c2180e8cca8e1e12afe050689f6c310af4c57136c87`
+compares the whole297-unit graph modulo only four explicit local unit
+relocations, two changed library roots and the private cache path. Manifest
+pins7eaa23cd/0435d18f/56364af4 and all four targets remain inside the exact
+38-file source+lock snapshot. Strict TOML locks choose160 archive versions and
+198 index-name entries plus config:359 cache files. Selected read-only SDK982,
+std2192 and runtime27-file maps replace broad old-history/SDK/cache census.
+Trusted retained build scripts/toolchain and OS dependencies remain a declared
+boundary; offline Cargo and explicit environment do not establish a sandbox.
+
+Source clearance covers one graph and one fresh offline locked build only:
+shared480workerCPU/600phasewall/4096MiB/eight-active;
+90controllerCPU (ordinary70 plus reserved20)/780totalwall;
+3GiB/32768fresh-output entries;32MiB combined logs per command. Final rebinds,
+owned-Job cleanup, exact ELF/map and attempt/override semantics remain required.
+No source/selection blocker remains. Root alone owns launch/adoption. This is
+not actual compilation success, image assembly, guest execution, certification,
+mathematical admission or full v5 qualification. Reviewer ran no tests/builds.
+
+### Mixed-network controls01 actual seven-group PASS
+
+Actual outer2,030B RESULT
+`f026936975bc5c0ae022e2cab95619e5c4182470134edd2ed2849246be6aa831`
+and inner178B RESULT
+`4e490df100b83e20260539f0d333e7f8a04776efc8570d989951e356d0263b09`
+independently pass their selected boundary. All96current/snapshot source
+bindings match; saved12,405B selection is byte-identical to the independently
+cleared3273d116 original. Actual command argv exactly matches its snapshot/output
+substitution. Stderr1,074B SHA
+`45e8a3d66188e2bdefe1636b97188410b7ca25ea3851c05de8f6d0f569f4f69f`
+lists all seven intended groups OK, zero failures/errors; stdout is empty.
+Seven corresponding evidence directories exist.
+
+Actual0.984375inclusive JobCPU plus0.296875wrapperCPU/2.389480199897662wall;
+exit0, direct child reaped, Job closed, active0/terminated0, no cleanup errors
+or termination requested. Adopt structural custody, profile, bounded-loopback
+and explicit mock gate behavior only. No real mathematical admission, genuine
+receipt verification, native kernel, Lean, guest, proof, DHT campaign or
+independently hosted availability is established. No rerun by reviewer.
+
+### Mixed-network controls01 exact selection cleared
+
+Read full selector SHA
+`2ee095ed8be1843b4c025ea2a44ceaadf8dfafa68345d16d6fbb7e979e15dff8`
+and frozen Run-V5-Check.py5,735B SHA
+`44a7bf1bd26ac628c6020aa87116092eb9f03761b9ba67c7ad80e67290340651`.
+Exact12,405B selection
+`3273d116a942916cb3f57b5ad4441f37cbba0edb0950034483f61e11c30bf331`
+passes all48 current source and21 runtime/provenance bindings, with fresh output
+absent. Merged prior network/mixed eager-import closure contains the reused
+fixture dependencies; old network/packet test suites are not executed. Exact
+isolated -I/-S/-B entrypoint selects seven reviewed groups with30CPU/60wall,
+512MiB/two-active and1MiB stdout/stderr. Root alone may launch once. This is
+source/selection clearance, not an actual passing test or mathematical claim.
+
+### Mixed-network corrected source and seven synthetic controls cleared
+
+Fresh transport6,735B SHA
+`fa92fccc3dfec7dcb00c6b5e0d4cc21b5c6c06997026edda93e1efd6cdf836a3`
+resolves the promotion issue: after final structural readback it describes the
+exact handle through the real verifier, then rechecks the original acquisition
+budget before returning. The seam document now distinguishes profile-addressed
+offers from digest/size-only blob requests. Unchanged init86B SHA468040d5 and
+custody7,313B SHAee845648 retain the previously reviewed semantics.
+
+Read complete14,699B test_network.py SHA
+`f59310331c8be7f6a4e4e53d3f22129ef733c72d1d6d9fb6381d14cd95ff9d19`.
+Seven finite synthetic groups cover profile/offer confusion, exact/reopened/
+corrupt custody, transaction rollback/mixed structural refusals, one local HTTP
+loopback and provider-loss readback, no duck/unoffered/changed-owner authority,
+one-claim/two-member reservation and final owner-expiry refusal. The last two
+use explicit test-only exact-class fakes, not cryptographic/native checking.
+Reservation is60CPU for one claim plus one delta; a second admission is refused
+without another fake verifier call. No fake positive mathematical authority is
+returned by the selected tests.
+
+Loopback uses three requests after two explicit test-prepaid grants; the next
+attempt exceeds the five-request budget before dialing. Original provider loss
+and reopened packet bytes demonstrate structural custody only, not autonomous
+repair, independently hosted operation or mathematical acceptance. No DHT
+campaign, actual native/receipt/guest/proof call or test execution by reviewer.
+Root's exact supervised runner/source selection remains a separate gate.
+
+### Mixed-network adapter: inherited-method audit and two review corrections
+
+Read all three fresh mixed_network files, the complete frozen delta custody/
+transport parents, relevant HTTP provider/structural acquisition methods and
+mixed parser/verifier authority paths. The selected subclass reuse does not
+silently invoke old mathematical profile parsing: inherited custody put calls
+self.inspect; get/status/close are exact-byte/quota mechanics. Provider dispatch
+and framing use the unchanged route set and self.packets. from_search calls cls
+with the exact shared one-shot handoff. Structural export/body/packet/custody_ready
+retain semantic-ID/opening/body bindings; mixed construction/offers/admit/report
+replace the old proof-form gates. Store/download reports remain non-authoritative.
+The new reserved CPU = claims*receipt_cap + deltas*native_cap matches the actual
+mixed receiver and charges once per shared receipt claim, not per member path.
+
+Two corrections requested before final source clearance. First, inherited
+acquisition _active checks its budget/origin, not MixedDeltaVerifier liveness.
+After open_group succeeds, final custody readback may consume remaining owner
+lifetime. Recheck verifier liveness/handle at the actual return point before
+claiming a LIVE result; subsequent handle-use checks are not a substitute for
+that stated return contract. Second, only offer requests contain wire_profile_id;
+raw packet requests are exact digest/size. Document profile discrimination at
+offers/local parsing, not a nonexistent blob-request field. No tests, database,
+HTTP calls or native/cryptographic execution occurred in this review.
+
+### Aggregate-production plan: exact final authority and allocator challenge
+
+Read full `AGGREGATE-PRODUCTION-SEAM.md` and retained aggregate snapshot/receipt,
+module stage, SDK Segment/Session and bincode1.3.3/serde1.0.228 decoder sources.
+No conceptual soundness blocker in the proposed stage graph: ssegment + slift +
+(s-1)join + mresolve + finish =3s+m, with genuine I/A premises, capsule-order
+resolution, verified composite and final full application verification against
+independently selected A/exact192B H. Session::claim excluding supplied proven
+parents does not eliminate the final segment's real assumption obligations.
+No actual aggregate capsule/receipt or resolve success is inferred from this.
+
+Two implementation clarifications were sent to root/author before code review.
+Bincode's sequence/map lengths become size_hint without an upfront element-byte
+charge; standard serde Vec limits initial preallocation to1MiB per vector, while
+slice byte/string decoding checks remaining input and byte limit before copying.
+Consequently FILE_LIMIT is not a total decoded-heap or element-count bound.
+Use early bounded visitors for <=8assumptions,1..128segments and the checkpoint
+kind/payload envelope without changing its serialized ABI. Nested SDK structures
+still require selected process memory/time bounds; do not claim graceful refusal
+for every hostile nested allocation solely from the bincode byte limit.
+
+The proposed B commits session/capsule, not the stage-host/controller identity.
+Thus rejecting a checkpoint from another host/controller profile needs explicit
+producer adoption policy, or wording confined to actual supported SDK/verifier
+parameter checks. The framing alone cannot establish a profile field it omits.
+Mathematical safety still requires real payload verification and final A/H
+verification. These source-only challenges neither launch crypto nor change
+the guest, previous host, proof artifacts or any selected runtime budget.
+
+### Concrete bounded-parse guest contract: in-principle source clearance
+
+Read the complete appended five-file/API/input/budget contract in24,659B
+`BOUNDED-PARSE-GUEST-PLAN.md`, SHA
+`9fa2e9dfdfb8021d3ccbc15e23068c34e5eb1aeb5a2dfbe3068c2a567b6a71cf`.
+No material architectural blocker was found for root's fresh source-only
+implementation: exact38-file snapshot,359-file private Cargo seed,297-unit
+whole-graph check, bounded read-only SDK/std/tool inputs, private mutable outputs,
+and recorded verbose commands address the previous closure/reuse mistakes.
+These are proposed map counts, not an independent current-byte census claim.
+
+Concrete review must enforce all actual wrapper targets within the new snapshot,
+explicit pins for cross-subtree include/build inputs, exact graph-used160 archive
+and lock-union198 metadata selection, and no broad inherited census hidden in a
+helper. Ordinary controller work must stop by70CPU to reserve20 within the90CPU
+total; both worker commands share480CPU/600wall without resetting. Final record
+tail and cleanup remain inside the selected whole-operation resource boundary.
+Read retained command/environment evidence for those obligations; no compiler,
+Cargo, cache mutation, graph generation or SDK-wide rehash was performed.
+Implementation/diff review and exact runtime selection remain separate.
+
+### Source-only guest-build and revocation plan challenges
+
+Read full `BOUNDED-PARSE-GUEST-PLAN.md`15,211B SHA
+`9ae754e609af53266f9e7fa2ad21adaf7923426bd663d64c2b94f5ad3c69c1d3`.
+No conceptual blocker found: possible three-unit dependency reuse is not the
+same as a recovered exact rustc recipe or actual Cargo cache reuse. Missing
+historical per-rustc argv justifies a separately reviewed fresh offline fallback,
+not fabricated replay. Its selected input closure, private mutable state, changed
+graph and new command recording need concrete implementation review. New wrapper
+paths must resolve within the fresh snapshot; native serde is not guest serde.
+This is a plan challenge only, not full graph/artifact adoption or runtime clearance.
+
+Read the conservative local-revocation appendix in
+`NEXT-AGGREGATE-COST-DECISION.md`. Stable guarded owners, immutable support
+metadata, potential-authority closure, monotone updates and final authority
+publication checks address hidden sealed ancestry and stale live caches in
+principle. Own native/controller profiles and retained delta lane are included;
+single-controller/concurrent linearization is stated. Distinguish allowed
+same-image self-recursion from forbidden inter-version support cycles. Durable
+monotone policy and rollback defense remain necessary for restart-safe revocation:
+re-verifying a cryptographic receipt alone cannot establish current policy
+freshness. No revocation code, new wire format or proof work is selected here.
+
+### Bounded-parse compare01: actual ten controls and two native differentials PASS
+
+Actual8,960B RESULT
+`ddd411125b809fda24be93280329f6d7b7bd3d4b32ac5cbd71beab46e4948a20`
+independently passes the scoped comparison. Fifteen targeted current/snapshot
+source, selection, adopted build-result, build-output and log bindings match;
+both retained native input hashes also match. Terminal marker binds this exact
+result and status, with no finalization override. Saved selection retains the
+reviewed name/schema/authorization and exact source/build-result bindings.
+
+All ten exact named groups pass;977B test stdout SHA
+`81a961d9c563b2fae720caaed350edfe66e536b4f1a9d9a7e3d1306f816e7f83`.
+Valid native exit0/full4,444B stdout01d7c9cc and invalid exit2/full98B
+stdout42d71010 are independently byte-compared equal to the retained baseline,
+not just accepted from the adapter's equality assertion. Invalid357B stderr
+`41190c9cd9744143b2f825fd945b6d8c55f7e28dadcce34e76ca37114c8867c1`
+contains the actual tc.rs:945 def_eq assertion failure; it is not a setup refusal.
+The baseline stderr has a different retained path/length and was not required
+to be byte-identical. Valid conclusion remains conditional with three members,
+three edges and mathematical_admission:false; invalid output remains refused.
+
+Actual0.0625workerCPU plus0.203125controllerCPU/2.206277900142595wall,
+Jobactive0/terminated0/total6 and no cleanup errors. Child environment matches
+the reviewed minimal profile. No baseline rerun, build, authoring, receipt,
+guest, proof or networking. Adopt native behavior preservation only: neither a
+new guest-cycle bound, successful aggregate certificate nor full v5 follows.
+
+### Bounded-parse compare01 exact selection cleared
+
+Selector source `Select-BoundedParseCompare01.ps1` SHA
+`5a06a8de0ebc37e6a416733274ce3ba04c9a10144fec0accf5da2cd25c885f1d`
+and resulting707B selection
+`c75cdf3e2ef83350eb80e2b2bf741f713d50364526806456f7dfffeeb10b5fc2`
+are independently cleared. Exact five fields, schema, fixed01 name and literal
+true ten-controls/two-native authorization match source-reviewed scope. Current
+15,017B compare source240f8cce and adopted18,078B build02 RESULT026770a3 match
+all selected path/length/hash bindings. Fresh run/attempt paths are absent;
+build02 has no finalization override. Root may launch this one bounded native
+comparison; no runtime was performed by reviewer. Actual success, guest cost,
+certification and mathematical admission remain separate claims.
+
+### Bounded-parse remaining two links: actual build02 PASS
+
+Actual18,078B RESULT
+`026770a3a3f1a74e04b872a13b4572471048362514c52ca2aea2179d7e8ba3b1`
+independently passes the selected two-link boundary. All51 bindings match:
+42current/snapshot source bindings, four logs and five outputs. Actual and saved
+command vectors equal the retained build01 recipes after exact02 relocation;
+only the selected test-root/crate-name/production-extern substitutions occur.
+The copied selection is semantically identical in every field to original
+`15cea3f094621d1d1e8901219db2caa2eb4e9ea2951232008e9e21503895640f`.
+Its serializer changes formatting/order, so copied3,562B selection has distinct
+SHA`c979e61ee56d9a8eed083971df2dde7d2cb6842999e17a2b46545eee487953aa`;
+raw-byte equality is not the selected copied-selection invariant.
+
+Both commands exit0: tests-link48.671875workerCPU and driver-link32.640625,
+total81.3125workerCPU plus3.34375controllerCPU/100.1543467999436wall. Final
+Jobactive0/terminated0/total8, no cleanup errors; two explicitly selected owned
+VCTIP telemetry processes were cleaned up with observed exits. This is not a
+claim that no processes were stopped. Matching attempt/result marker and no
+finalization override. Test compilation reports22 dead-code warnings from the
+test-only duplicate canonical module; no errors. Driver stderr is empty.
+
+Output pins are aggregate_tests.exe2,343,936B
+`c2d1cfe43187b68665cf696f52908dfc8f67fc2115b62c663f677e3933a5bfec`,
+native_aggregate.exe1,801,216B
+`2306e9f32292bdee6e6638a5f9c9cc9f1f9bc288c967a6443ec8862886e942c9`,
+libnanoda_lib.rlib11,339,020B
+`c0c0b10ba18adf5c20496d751cc9cbbc911677fafe64461d963dadc53a37c4a2`,
+libdmkn_module_relation.rlib4,232,130B
+`a20dfa506e70b5d781d8dbb087b151702be019c338c29f6654ebbe2a1b13315f`,
+libdmkn_aggregate_relation.rlib898,764B
+`0d90f603ffdc21c76fbdc2262380d18daa46d66152c5fa5d6bb4ece4c7f99830`.
+Production/checker libraries were retained, not rebuilt. Original build01
+failure and spent costs remain. No controls, native checks, guest execution,
+proofs or networking occurred; actual comparison remains a separate selection.
+
+### Bounded-parse remaining two links: source and exact02 selection cleared
+
+Fresh build_remaining.py15,330B SHA
+`ea6f285cd56f5ff8e59b36640a55a006e2a46549499b9e639c308434c5eadd7c`
+and controls_root.rs249B SHA
+`dfcb4657c70c072fccfb5df98e63f58f9aab685d296ccf6986f44749269dacc6`
+are independently source-cleared against preserved build01. The new test root
+reexports already compiled production relation rather than compiling its nested
+cfg(test) graph_controls; it includes the exact same census.rs and controls.rs.
+Those controls include the frozen old census and same canonical.rs counter seam.
+This actual nested test closure is checked, not inferred from the top-level root.
+Native production aggregate and checker stay linked from unchanged retained rlibs.
+
+The adapter carries all failed01 records, attempt/finalization status, spent costs,
+original19-source map/snapshot and three exact rlibs. It copies/rebinds artifacts,
+changes only the test crate root/name/extern and output/project locations, and
+links tests and driver only. No successful compile is repeated; no old byte edited.
+Remaining150workerCPU+17.234375spent <180 original;25controller+2.03125spent <30.
+Using prior full14.015542wall even for conservative phase accounting gives
+210+14.015542 <240 original phase allowance and330+14.015542 <360 total runtime
+allowance. Prior-plus-new working bytes stay<=1GiB;3072MiB/six-active remain.
+
+Selector SHA
+`9b530e93e079fc35c96347f321ddd015e616a9222b8ee0e841f1bba8f1a06146`
+is source-reviewed. Exact8,070B remaining-build02 selection
+`15cea3f094621d1d1e8901219db2caa2eb4e9ea2951232008e9e21503895640f`
+is cleared after all21 expected source byte/hash bindings matched and fresh
+output/attempt paths were absent. It has the fixed02 name, distinct remaining-
+build schema and compile-only flag. Root alone may run this one two-link operation;
+tests, actual native comparisons, guest execution and proofs remain separate.
+
+### Bounded-parse comparison adapter source cleared, no runtime yet
+
+Full initial compare.py15,001B SHA
+`afe5ccd0064e036631f2574d47728c0c6a0674ad41eb2074cf1d2389aac36c7a`
+was source-reviewed. Its unused successor15,017B SHA
+`240f8cce7d5fdedddb6bdfa7b7dd0375921a6d1fa2566319b808ad1068bc32d6`
+changes only fixed build01 to build02, required remaining-build schema and
+required two-remaining-links PASS status. Independently reversing those three
+literal changes in memory recovered the original reviewed hash exactly.
+
+The adapter requires the adopted successful fixed build result, all five exact
+outputs, matching terminal attempt marker and absence of finalization failure,
+with final rebinds. Exactly ten named small test groups must all pass; then two
+preserved native inputs run against the new driver. Valid full stdout must match
+the retained exact conclusion; invalid exit2/full stdout must match refusal and
+stderr must contain actual tc.rs:945 def_eq assertion, not a setup refusal. No
+old baseline driver is rerun. Recorded baseline files are pinned, not regenerated.
+
+The native child environment contains only explicit SystemRoot/WINDIR, System32
+PATH, private temp/profile/appdata and bounded Rayon setting; no inherited SDK,
+compiler or credential variables. Helpers/Python/build/input hashes are targeted
+and rebound; no full SDK census. One shared Job60CPU/120wall,1536MiB/two-active;
+controller30CPU/180totalwall,16MiB/128entries. No authoring, build, receipt, guest,
+proof or network call is permitted by this adapter. Mathematical outputs remain
+conditional, not admission. Exact runtime selection and actual successful
+build02 are still separate prerequisites; nothing has been run by this reviewer.
+
+### Bounded-parse build01: actual test-packaging FAIL, retained production rlibs
+
+Actual21,164B RESULT
+`4780ae9f43aca7dea221c6f32ede060ea0ab96d42e9750830606f0fff9bd9695`
+is FAIL, not a four-compile pass. First module and aggregate production compiles
+exited0. Third compiler failed before making the tests executable: copied
+aggregate_relation.rs:216 retains a cfg(test) `graph_controls.rs` submodule not
+in this focused snapshot. The native driver compile was never reached; neither
+tests executable nor driver exists. No tests, native checking, guest or proof ran.
+
+**Reviewer correction:** the prelaunch closure review missed this nested retained
+cfg(test) inclusion. It was an actual build/test-packaging review gap, not a
+mathematical-source failure; preserve the unsuccessful operation and costs.
+Do not retrospectively describe the original snapshot as test-closure-complete.
+
+All44 current/snapshot/log bindings matched. The compile recipe is19,424B SHA
+`5a5e7bef3468bc719797e8f08e9326a36b131ea0b6313d019dbf2d66a1df3a94`;
+source-map2,929B SHA
+`2d2e9bcc29c19d84fe8530434eee5f35e937194f3f8e4ab50821092378695c42`.
+Attempt marker exactly binds FAIL/resultSHA; no finalization override. All three
+commands ended with zero active/terminated processes and no cleanup errors.
+Cost17.234375workerCPU plus2.03125controllerCPU,14.015542000066489 totalwall.
+Module warnings are three dead-code warnings, not errors; aggregate production
+stderr is empty. The original fixed allowance remains spent, not renewed.
+
+Retained artifacts separately inspected and pinned for possible fresh reuse:
+
+| Artifact | Bytes | SHA256 |
+|---|---:|---|
+| libnanoda_lib.rlib | 11339020 | `c0c0b10ba18adf5c20496d751cc9cbbc911677fafe64461d963dadc53a37c4a2` |
+| libdmkn_module_relation.rlib | 4232130 | `a20dfa506e70b5d781d8dbb087b151702be019c338c29f6654ebbe2a1b13315f` |
+| libdmkn_aggregate_relation.rlib | 898764 | `0d90f603ffdc21c76fbdc2262380d18daa46d66152c5fa5d6bb4ece4c7f99830` |
+
+Root's proposed fresh controls_root may reexport the linked production relation,
+include the exact selected census source and unchanged independent controls,
+and thereby avoid compiling unrelated old graph tests. That architecture is
+supported in principle. Any successor must preserve failed01, copy/rebind these
+three artifacts, compile only tests/driver within the recorded remaining budget,
+and undergo exact source/selection review before launch. No old passing compile
+or failed test compile is automatically rerun.
+
+### Bounded-parse controls and build controller: source cleared
+
+Independent controls.rs12,143B SHA
+`9ea0a9b0da364b9c05d1eb0535d1becc7e070b09e887a05bd7b0bb9cc65db00a`
+is source-cleared, with author confirming final bytes. Ten finite groups cover
+legal Unicode/escapes, decoded duplicate keys/no normalization, exact u64 grammar,
+UTF-8/surrogates/EOF, known counts/immutable borrowing, actual127-container parser
+boundary, small parameterized scanner recurrence, both record forms, cumulative
+aggregate limits/overflow, and typed/raw/arbitrary-Value early schema refusal.
+Old parse_validated and old aggregate traversal are unchanged differential oracles.
+Test-only same-source scanner returns counts only; production tokens still come
+from linked production crate. Exact typed extraction supports the deliberately
+wrong-schema fixtures and refuses before foundation/kernel work. No million-node
+or giant raw-length experiment is smuggled into these controls; production fixed
+limits and unchanged raw guard are separately source-reviewed.
+
+Root build.py14,075B SHA
+`f068cdaa3f3fe24ddceb6ea8aeb0e56080b07bdabb88625b1d3f107aef92d8df`
+and `Select-BoundedParseBuild01.ps1` are source-cleared for fresh selection
+construction, not launch until the exact artifact is reviewed. The19-source
+snapshot is eight fresh plus11 prior-map-equal retained files, including actual
+foundation_data and test-only old census/scanner closure. Exactly four compiler
+calls produce module/aggregate rlibs, ten-test executable and native driver;
+tests themselves are not invoked. Exact checker rlibc0c0b10b is copied, not rebuilt.
+All four named retained record/artifact hashes were independently rechecked.
+Recipe rewriting replaces each old source/output/project dependency exactly,
+forbids leftover old-project paths, preserves flags and dependency identities,
+adds required serde/RISC0 test externs, and retains fatLTO for final links.
+
+No Cargo, dependency/checker rebuild, guest, proof or network is selected.
+180workerCPU/240phasewall,3072MiB/six-active;30controllerCPU/360totalwall and
+1GiB/4096 output entries. Inputs/snapshots are rebound; finalization override
+remains explicit. Recent unchanged SDK/recipe assurance is reused, not a new
+full toolchain census or hermeticity claim. Exact selection and outcomes pending.
+
+**Exact prelaunch selection:**7,294B
+`cfa3402c76bc7504e36702e0759a1aeadb600001fb0dd381b988dc873e113574`
+is cleared after all19 exact source sizes/hashes matched, compile-only schema/name
+checked and fresh output/attempt paths were absent. Selector SHA is
+`11abda94be2e998e79acf626f0754afbfbd2f6f3a2c3021af95767118084c8fe`.
+This clears root's single four-compile launch within the stated bounds, not
+test/native execution or a successful build outcome.
+
+**Native dependency distinction:** this recipe links serde_json1.0.145 with only
+default/std, whereas the actual guest uses1.0.151. Native target fingerprint and
+source inspected: ser.rs SHA
+`94c189f4586b6eea1fd225c8c25adb6b986e8d3b1fb637fb9b5de249f9ab3e6e`,
+de.rs `db7adf3ef0074e15426d31e1cf4bec78ad92c20e4642c136325f0a78547218c7`;
+read.rs equals the1.0.151 hash already recorded below. Full source diffs show
+serializer differences only in unused float formatting and deserializer
+differences only in disabled arbitrary_precision and unused enum-key paths.
+Relevant strict u64 grammar, UTF-8/escape/string formatting and recursion limit
+are the same. Thus the reviewed length lemma and127-open-container expectation
+also apply to the selected native build, without pretending versions are equal.
+
+### Bounded-parse production successor: source cleared, unbuilt
+
+Six exact fresh files are independently source-cleared after full minimal-diff
+review and explicit-path crate-root inspection:
+
+| File under `software/v5/bounded_parse/` | SHA256 |
+|---|---|
+| canonical.rs | `f8356d9300f5436b3b6fb7a76b7d2d19e0b3dcedae0bfd00e1e10abea54de9c1` |
+| module_relation.rs | `0f78c1663673f291c7b612cc3bdef423124cc6cc47fd649b71e5bc13d4cd808a` |
+| census.rs | `48cad55b54d3cd233d760871308ccfdc54bb50711adb89651f7d2861caa5a1d5` |
+| aggregate_relation.rs | `6a2425aa6d26bf10ab6053d92f498d09b6c7bdde598efe118a5bc7bd2ceb0947` |
+| module_lib.rs | `328692d04054f54bcb79ce316b14df6c472590160b39615942a027202d55be76` |
+| aggregate_lib.rs | `4476115a65c03d5c81250017d4308b2dc8e3d64b8c2190f428c30ac03ed1098a` |
+
+The parser successor only adds the token and structural scanner; retained
+strict parse, arbitrary-Value canonical_size and all formatting remain unchanged.
+The token has private fields, sole parser construction, read-only getters and
+crate-private owned extraction. No mutable borrow, Clone, Default, Deserialize
+or conversion from arbitrary Value exists. Structural nodes and depth increments
+are checked; production supplies fixed1,000,000/256, values not keys, rootdepth0.
+The private parameterized scanner's cfg(test) pub(super) helper returns counts
+only and cannot mint a token. Its explicit test-only same-source inclusion is
+acceptable; genuine tokens must originate from the linked production crate.
+
+Module check(Value) still performs full canonical_size; byte-entry now calls
+parse_bounded then the typed consuming entry. Private check_bound is byte-for-
+byte unchanged. Aggregate charge checks cached current depth<=128, uses checked
+addition against cumulative500,000 nodes and preserves every schema/rows/bodies/
+parent/opening bound. Only immutable access occurs before returning the same
+token; one delta call now consumes it through check_validated. Exact-J graph,
+mathematics, hashes, foundation and external checker remain unchanged. Thinroots
+select all unchanged modules explicitly. Source clearance is not compilation,
+actual domain-equivalence testing, speedup or a new guest image/certificate.
+Independent controls, root build adapter and exact selection remain pending.
+
+### Bounded-parse API/file plan reviewed before implementation
+
+Root separately selected fresh `software/v5/bounded_parse/` source work; base
+owns production, source_loop owns independent controls, root alone owns later
+build/runtime/Git. Read `BOUNDED-PARSE-IMPLEMENTATION.md` and independent
+`BOUNDED-PARSE-CONTROLS.md` before any changed-source review. The six-file plan
+is supported: minimally copied private parser/relation/census/aggregate relation
+and two explicit-path crate roots preserve all used predecessor bytes.
+
+`BoundedValue` has private owned Value/exact node/maxdepth fields, immutable
+getters and crate-private consuming extraction. Only strict parsing plus the
+structural census can construct it; no mutable borrow, Default, Deserialize,
+From<Value>, clone or caller-supplied counts. External aggregate code reads the
+same Value and cached counts, then passes the original token to typed relation
+checking. Arbitrary-Value check, canonical_size and private mathematical
+check_bound remain unchanged. Updating byte-entry to use the token is supported
+by the reviewed domain-equivalence argument, not an additional trust assumption.
+
+The ten proposed control groups use retained validation/census as oracle, test
+successful Values/counts and refusal domain, and distinguish bounded-K partiality
+from the K-infinity length argument. Root permits a private parameterized scanner
+with a `cfg(test)` counter-only seam to avoid giant fixtures. This seam must not
+mint tokens or be exported as a production bypass. Because linked production
+rlibs lack cfg(test), exact control wiring needs explicit test-only same-source
+inclusion or a separate test root; author notified. This is pre-implementation
+API/theory support only. Final source/controls and any exact runtime selection
+remain separately reviewable; no test/build/proof has been run by this reviewer.
+
+### Raw-JSON bound lemma: independent source-backed principle review
+
+Read root's `BOUNDED-PARSE-DECISION.md` and actual serde_json1.0.151 source.
+The actual aggregate compile target fingerprint declares only `default,std`;
+neither arbitrary_precision nor raw_value is enabled. Current compile-cache
+source matches the inspected retained origin: ser.rs SHA
+`f2b8cc0b97e30c49dbc58698fa22c14a7d56ea616cdb57b067835a59af49a75f`,
+de.rs `4998d7e252eb513be85b298e287048b4fb283882e9ba7df905f572f07200f3f3`,
+read.rs `17a2efe49e5a6937c8d7d4a5c0b9eac84453de0f86bf8e7ee421387e82341bb3`.
+This is the actual1.0.151 dependency, not the separately retained SDK1.0.143.
+
+The proposed lexical lemma holds for the unbounded structural encoding K-infinity
+using exactly the current compact formatter: strict syntax parse P(b)=V implies
+length(K-infinity(V)) <= length(b). ser.rs's ESCAPE table covers only quote,
+backslash and U+0000..U+001F; other UTF-8 bytes pass unchanged. Short escapes are
+minimal and remaining controls use six bytes. read.rs validates UTF-8, legal
+escapes and surrogate pairs; Unicode escapes cannot be shorter than resulting
+UTF-8. de.rs rejects leading zeros, routes overflow/fractions/exponents to the
+strictly refused f64 visitor, and routes negative zero to refused f64 too.
+Object reordering changes no lengths; duplicates and trailing nonwhitespace
+refuse. Induction over punctuation, children and string/key encodings establishes
+the inequality without a new experimental campaign.
+
+**Formal wording correction sent to root:** current bounded canonical K is
+partial. Syntax-accepted multi-array values can exceed the total node budget,
+so P(b)=V does not alone imply K(V) exists. State the lemma for K-infinity, then
+separately require exact node/depth constraints for K to succeed. Raw16MiB bounds
+only serialization length. The proposed one structural census, parser recursion
+guard and aggregate stricter cumulative500,000-node/128-depth checks preserve
+these distinct obligations. A private immutable token may cache exact counts;
+no unchecked minting/mutation or arbitrary-Value bypass is justified. The
+unchanged mathematical check_bound consumes the same Value. Refusal ordering,
+partial failed census state and OOM timing need not match; successful conclusions
+must. Principle is supported, not implementation clearance or measured speedup.
+
+### Offline attribution01: actual sample-count PASS, failed guest unchanged
+
+Actual inner4,756,721B RESULT
+`31b29b7a8888fbfa0337fbf3a72b3269d2facbf05513d0e27a23ac4ca91de84b`
+and outer `c7d23d16b20372f718932bf31f2fda6fd7c31eed99f5b99a709781dd8af054a9`
+independently pass the offline scope. Eighteen changed source/snapshot/bound-file
+bindings match. Independent saved-data arithmetic collapsed131,072 cells to
+11,327 PCs and matched every reported sample count. All2,432 reported interval
+names/starts/ends match the exact raw map row; reported PC/range containment and
+outside-user-executable classifications pass. Category and class totals both
+equal131,454 retained samples:118,429 exact-symbol,13,025 outside user executable,
+zero unknown/ambiguous/section-only. Adding23,898 omitted events gives155,352,
+exactly ceiling(39,769,880/256). Nothing attributes omitted samples.
+
+Raw leading symbols include deserialize_any13,496, memcpy11,672,
+canonical_size::Census::visit11,452 and ::string10,772. Mangled trait-owned
+deserialize_any remains conservatively coarse-unclassified; its raw label is
+recognizable without reclassifying every generic-argument substring. Reported
+20.18% module_canonical and other fractions are retained deterministic instruction
+sample fractions only, not proof cycles, elapsed/CPU time or causal savings.
+There is no accepted capsule: execution stays FAIL/FAILED_EXECUTION_PREFIX_ONLY.
+
+Exact selected argv and stdout209B agree; stderr is empty. Exit0/reaped/Jobclosed,
+zero active/terminated processes and no termination/cleanup errors. Cost0.59375
+inclusive JobCPU plus0.265625 disjoint wrapperCPU,0.9375579000916332 totalwall.
+No guest, proof, compiler or SDK call occurred. Used helper/selection/evidence
+freeze. The result motivates source analysis only, not retry or higher caps.
+
+### Mixed imports01: exact selection and actual ten-control PASS
+
+Reviewed selector `Select-MixedImportsControls01.ps1` SHA
+`f91225b22f131d5780cba872660a38e5c585909e02d27b6bd237dd9e09e89051`
+and exact12,285B selection
+`9a45d66fd63615e9bfccd86ec927d385e7474f51dba367cca7760383faeff397`.
+All48 source and21 runtime/provenance bindings matched before clearance; output
+and attempt paths were fresh. The eager context closure adds22 unchanged files
+to the prior mixed closure plus three reviewed phase2 files. Namespace packages
+have no omitted `__init__`; retained SSL/SQLite native-stdlib pins are included.
+Exact installed Python `-I -S -B` runs only the immutable ten-group control file,
+under30CPU/60wall,512MiB/two-active and1MiB per-log bounds. No old network test,
+Lean/native invocation, actual receipt verification or socket/database activity
+is selected. This explicit runtime set is not a hermetic OS/runtime proof.
+
+Actual RESULT1,885B SHA
+`89074bf219d0fb298988da5793b7583a19d5309962f78e106a25919b3dc4fe9c`
+independently passes the selected synthetic scope. All96 current/snapshot source
+bindings and copied selection match. Actual command matches selection; stderr
+1,834B SHA `0a6527e492a601cedc9f71009d074467b72fe082179f4b6309c72fba3a2935a3`
+lists all ten intended tests OK, zero errors/failures/skips, stdout empty.
+Exit0/reaped/Jobclosed, zero active/terminated processes, no cleanup errors or
+termination requested. Cost3.15625 inclusive JobCPU plus0.375 disjoint wrapperCPU,
+4.280710899969563 totalwall. The0.015625 nested supervision CPU is included in
+wrapperCPU, not an additional charge. No actual A authority, Lean extension,
+receipt-backed cut or public deployment follows. Used phase2 sources now freeze.
+
+The API's cut removes outgoing ancestry, but the same live session conservatively
+retains prior sources/nodes/receipts, owner liveness and charges. Long-running
+bounded use needs a fresh authenticated session/owner rollover; this control
+does not prove bounded memory for arbitrarily many edits in one session.
+
+### Offline PC attribution: source and exact selection cleared
+
+Full revised `aggregate_host/attribute.py`25,115B SHA
+`0fc2ca9b35892cf86b3f8fdbf124db8cdb31f6cd20658125e2d6c23967c3a786`
+is independently source-cleared. The small review correction now binds exact
+argv/diagnostic/wrapper cyclecap and po2, actual192B header file and wire length,
+and diagnostic completion/failure to wrapper status. A failure with null stats
+is only an execution prefix; non-null stats can legitimately mean a later
+failure after execution and still do not establish any accepted capsule.
+
+ELF RV32 executable PT_LOAD ranges and link-map columns33/41/49 bind virtual
+byte PCs with no guessed rebase/multiplication. Zero-size symbols acquire no
+invented range; an interval sweep preserves all actual overlapping candidates,
+and disjoint categories conserve retained sample counts. Namespace ownership,
+not a generic argument's substring, controls coarse categories. Map/sample/
+ambiguity/input/report bounds are explicit. No SDK, compiler, guest, prover or
+network is invoked. Deterministic instruction sampling and cell saturation
+preclude interpretation as proof-cycle, time or whole-workflow cost shares.
+
+Root selector `Select-AggregateAttribution01.ps1` SHA
+`f2551dfd4c45a16494d64f6f4f70f54ac877224250c437febe7d244ba74bec28`
+and exact10,356B selection
+`8f5ec7caaca68511490683c1e4749ddcd85a0470d881872c089c6c22bcb644cb`
+are cleared; all two source and37 runtime/data pins freshly match. Exact2,135B
+configuration `fed320d5b8eae0c3baa0081fd6a73f7b860a40350678920ab7f553a9bb8f6fcb`
+binds the saved failed execution diagnostic/command/result to adopted assembly,
+separate artifact validation, exact ELF/map/image and preserved compile-budget
+failure. The original FAIL is not relabeled. Fresh output/attempt paths were
+absent;30CPU/60wall,512MiB/two-active and1MiB per-log bounds apply. This is
+prelaunch source/exact-input clearance only; actual attribution awaits output.
+
+### Aggregate snapshot01: actual bounded-prefix FAIL, no capsule
+
+Actual outcome is FAIL, independently audited. Inner RESULT
+`a873a4b81d36397191ee8e550d6152eb77951f6204bd80406af73994f37820c5`
+records `ACTUAL_AGGREGATE_EXECUTION_FAILED`; stderr is the real session-limit
+refusal `33557665 >= 33554432`. Outer RESULT
+`f91ef77bc4eeb23c0b0945de79d2e4866f173d5a51c285ac3ba4e503f8686d0c`
+confirms exit1/reaped/Jobclosed, zero active/terminated processes, no termination
+or cleanup errors. Cost6.65625 inclusive JobCPU plus0.390625 disjoint wrapperCPU,
+7.831916099879891 totalwall. One host/guest execution, zero proof calls. No
+completed capsule exists; partial segments are not a resumable complete proof.
+
+All145 changed bindings matched (16 current/snapshot sources, diagnostic and
+all128 retained segments). Their total is25,166,009B. Diagnostic2,428,623B SHA
+`ebd87c76cea9c321d1f64f5aee9ac5f1dc0c4aef0659c1937f0af84e4b259388`
+is explicitly `FAILED_NO_ACCEPTED_CAPSULE`, null result/sessionstats, exact
+actual image/header and same genuine I receipt850c33b2... . Its recorded phases
+are150ms bounded read/native preflight,15ms genuine boundary receipt verification,
+5279ms guest execution/segment custody; these are wall, not CPU. COMMAND SHA
+`4c03605b4bb620f0d314b88292f73f36fd0a811bdbb8a25c91ca4bc216254c6f`
+has the exact selected host/args. Independent byte comparison confirmed that
+wire/header differ from retained native inputs only in the32-byte A slot. New
+wire SHA is `5d648e3e92585447911b67a960fffea1ea3ff1971c4784e8a4721b77d1bf680f`.
+Inner host stdout is empty; adapter retains diagnostics and failure normally.
+
+The sample table has131,072 cells, sum of retained sample counts131,454,
+23,898 omitted samples,39,769,880 observed instructions, stride256 and no
+backwards-coordinate event. Its reported maximum coordinate153,044,530,811
+must NOT be called a guest proof-cycle count. Attribution requires the exact
+sampler/get-row-points semantics and separately bound ELF/map, and deterministic
+saturated instruction samples do not estimate proof-cycle shares by themselves.
+This is useful bounded-prefix evidence for source analysis, not completion,
+speedup, proof affordability or mathematical admission. Root explicitly declines
+automatic cap increase or retry. All used screen inputs/source/evidence freeze.
+
+### Aggregate snapshot01: exact prelaunch cost-screen clearance
+
+Exact9,223B selection
+`224ec1f99cb8e9dc59e290eddf526be2bbc7cad7aa13a7146110e31972f08e79`
+cleared after all37 bindings matched (eight sources,29 runtime/data pins), with
+fresh output absent. Exact550B configuration
+`7ba7ae7b407d572b96f84f262c58fdd6ff2e7aef1cff1befee365fc361590c0c`
+binds actual assembly097775f5... and image ID51d51ea0... . The previously reviewed
+snapshot source d99656a1... is unchanged. Only the32-byte A slot in retained
+wire/header is rebound; exact Js, member root, edges, witnesses and genuine I
+receipt remain fixed. Actual host independently computes image identity and
+checks native relation/header/pending receipt before one guest execution.
+
+Single2^25-cycle,po2=18,pc-samples cost screen,120s inner timeout under
+180CPU/240wall,3072MiB/three-active outer bounds; at most144MiB/160 output entries.
+No proof, automatic cycle/budget increase or causal speedup comparison is selected.
+Unchanged host/assembly/runtime audits are reused. Root owns launch and later
+actual adoption; prelaunch clearance is not execution success.
+
+### Aggregate assembly01: actual image-only PASS
+
+Actual inner742B RESULT
+`097775f5318420936b3cce6f16485467ae9fccd68d58947ec76facd210907420`
+passes independent outcome review. Image is1,741,060B with file SHA
+`c19aa3f6e8d27a9c1681bbafd5958b359328520596313c25dd91eba521bc633e`;
+actual retained-assembler image ID is
+`51d51ea0ba1f4e4402615e04e64c739dcd497145aa8ecf8e89ed8d03f8177c49`.
+These are different identifiers and must not be substituted for each other.
+All13 changed current/snapshot/selected-lineage/image bindings match, exact
+inner stdout agrees with image ID/length, both stderr logs are empty, and no
+inner finalization override exists. Previously adopted unchanged driver/runtime
+pins are reused, not a new SDK audit.
+
+Outer RESULT
+`2da4d6fed5c4d3daee7e44f89d254160a2e751692f52af73b4b93e80a3e11fc0`
+confirms exact selected argv, exit0/reaped/Jobclosed, zero active/terminated
+processes, no termination/cleanup errors. Cost0.5625 inclusiveJobCPU plus0.4375
+disjoint wrapperCPU,5.358370800036937 wall. COMMAND
+`22fe99b12e17a6acdd28498dd908bd7144ae39cf09c235b2d2364b33b16f9447`
+binds actual artifact adoption a9d60ab0 and preserved old resource failure,
+same exact ELF/kernel and one retained assembler call. No guest execution or
+proof occurs. Source/selection/assembly evidence are now used/frozen. A local
+read-only audit output mistakenly serialized PowerShell string metadata and
+became oversized; it changed no project file or runtime result.
+
+### Mixed import/session and ordinary authoring: source clearance
+
+Reviewed full fresh sources and ten prospective synthetic groups:
+
+| Source | SHA-256 |
+|---|---|
+| `mixed_claims/imports.py` | `50b09b084b7cb54db2b1196e3570f1b15066e85e9ce55002b8d27bb4460cb1df` |
+| `mixed_claims/authoring.py` | `8b09cb1b8f0466a5049ed53f7b28098b6022234e3681786b2f4a9f542cd83e1b` |
+| `mixed_claims/test_imports.py` | `93ff0a2cd9065bb8ba97fefb9fe9b4e33a0362c28b35156402fa76627e23064a` |
+
+One concrete source gap was corrected before use: a pure A-only session originally
+required only four mixed files, while directly calling `delta_claims.claims` and
+eagerly importing receiver/delta/production dependencies not required by the A
+owner's own nine-file minimum. The final session requires all21 loaded project
+origins and their pins through configured owners. These are source-file requirements,
+not a requirement for any I/native executable or process. Final new-source
+snapshot failure also explicitly closes the session before state publication.
+
+Authority argument: each closed typed entry obtains a live exact I handle,
+A-member handle or mixed closure. Copied facts, unrelated-owner handles and
+receipt bytes alone do not suffice. Source snapshots bind exact profile, statement,
+receipt/packet identity and full member inventory. Chosen records bind complete
+proof form, payload and parent tuple; same-J conflicts require exactly the
+explicit incoming/existing map, never partial edges or a lower-rank substitution.
+All fallible merge construction and final authority checks precede single-owner
+map publication. Refused imports retain input/call charges. Independent M-to-J
+direct selections are immutable; representation changes increment a monotone
+revision and cannot revive old authoring bindings after a reversal.
+
+The onward serializer walks only selected exact-parent ancestry, stopping at
+chosen I/A terminals. Same-J native-to-A replacement can therefore cut witnesses
+without altering descendant journals, ranks or bytes. It does not prune the
+sender's retained authority records or extend their lifetime: all configured
+owners/retained sources remain live conservatively. Receipt data deduplicates
+exactly; same SDK claim with different receipt bytes refuses until explicit
+whole-J resolution. Final new target cannot be substituted by inherited equal-J
+material, and the new packet parser checks the complete emitted closure/caps.
+
+The authoring adaptation keeps I/F/P in frozen data-only `RelationBasis`; the
+private frozen foundation view exposes only the F/P fields actually read by the
+retained pure decoder. It never masquerades as an admission owner or weakens
+an exact owner/session gate. Existing semantic traversal, name relocation,
+relation-row emission and owner-controlled Lean worker are reused; requests,
+exports and returned mixed packets remain untrusted until actual native/receipt
+admission. Transparent-body and opened-group commitments remain semantic-M based.
+
+Ten unrun source-read controls cover pure A-only entry/preparation, copied-fact/
+foreign-handle/receipt refusal, shared receipt storage with submission charges,
+same-J ancestry cut with byte-identical descendant, atomic exact conflict map,
+stale-operation reversal, claim-receipt conflict resolution, closed-origin and
+final-authority refusal, and required eager pins. They deliberately fabricate
+authority, use the frozen mock receiver and mock the pure foundation decoder;
+no actual cryptography, Lean worker, native checking or file operation occurs.
+No remaining source blocker found. Installed source-origin checking, actual
+ordinary authoring and real A-certified ancestry cuts are not established by
+these mocks. Repeated local source hashes/live snapshots and finite owner-call
+allowances remain real costs, not logarithmic total consumer work.
+
+### Aggregate assembly01: exact prelaunch clearance
+
+Exact9,685B selection
+`bfe448433889fe42a3e357317ee59ed7fd3046aecf1ec9045951765bdc69c7fb`
+cleared: all35 bindings match (two sources,33 runtime/data pins), fresh output
+absent. It invokes reviewed61587d9a snapshot source with the actual adopted
+a9d60ab0 validation record, retained assembler/kernel and exact ELF. One assembly
+only,120CPU/120wall,1024MiB/two active processes,1MiB logs. The original resource
+failure remains required; no guest/proof execution belongs to this gate.
+
+### Artifact validation01: actual separate artifact-adoption PASS
+
+The separately selected named-file validation completed and passes independent
+outcome audit. Inner16,788B RESULT
+`a9d60ab02a01f87bed72c0ee9053e56e698a6c8f5dae93d6f1ba9b3cc3b3da6f`
+records `PASS_REVALIDATED_AGGREGATE_GUEST_ARTIFACT_ONLY`; outer RESULT is
+`d01e95e039db45f6a2a638255b90b42d6f2f3659375d67f8ba6149637d818fe0`.
+All60 checked bindings match (56 named retained files and four current/snapshot
+source bindings); saved selection is exactly48856d2e... . Actual isolated
+snapshot argv is correct, no inner finalization marker, exit0/reaped/Jobclosed,
+zero active/terminated processes, no termination/cleanup errors, stderr empty.
+234B stdout names only the artifact pass and zero new compiles.
+
+Cost0.390625 inclusive JobCPU plus0.390625 disjoint wrapperCPU,
+0.8742817000020295 totalwall. Inner0.203125 controllerCPU is already included
+in JobCPU and must not be added again. The original FAIL_FINALIZATION and its
+228worker/195.203125controller/547.537434700178wall cumulative record remain
+explicitly preserved. This gate adopts only the exact retained source-bound
+ELF/map; no image assembly, guest execution, receipt or mathematical admission
+has occurred. Validator/source and evidence are now used/frozen.
+
+### Artifact validation01: exact prelaunch clearance
+
+Exact20,859B selection
+`48856d2e9ba66a7b1de4d2062904d0140cbf94ec63f8d654d5201316d672f212`
+cleared after all78 bindings matched (two sources and76 runtime/data records).
+Fresh output was absent. The unchanged local-check runner invokes the reviewed
+715733a3 immutable source snapshot with installed Python `-I -S -B` and
+`--output {output}/validation`,30CPU/60wall,512MiB/two processes,1MiB logs.
+It selects only the independent named-file artifact gate; no compilation,
+graph/SDK census, image assembly, guest or proof. Root owns the single launch.
+
+### Narrow artifact validator and explicit assembly successor: source clearance
+
+Reviewed `aggregate_guest/validate_artifact.py`,13,843B,
+`715733a37e150d307a99008970ea26fca84f5234beba17e4147577d58ed0f7c4`.
+It binds12 exact preserved records,39 project/lock files, the used controller,
+two compiler logs and ELF/map:56 named files, with a final bounded byte rebind.
+No subprocess, project/SDK import, compilation, graph invocation or tree census
+occurs. It independently checks actual Cargo artifact/finish records, exact
+ELF headers/startup mapping and equality to the preserved records. It requires
+the overriding old resource failure, reports old budget unmet and cumulative
+charged costs, and emits the distinct artifact-only validation result. The
+previous completed SDK rebinding is explicitly reused as provenance. Internal
+24CPU/45wall checks and final override leave margin for the separately proposed
+30CPU/60wall,512MiB/two-process outer operation. No actual pass is assumed.
+
+Reviewed revised still-unused `aggregate_guest/assemble.py`,12,602B,
+`61587d9a15a093c25b89f3e7d76439011c39831cbca8d19d986cd45db5426750`.
+Its API now requires the exact new artifact-validation record/pin, distinct
+artifact-only PASS and no validator finalization override. It explicitly requires
+the preserved original81cce68d compile result AND d0d6d898 resource-failure marker,
+with exact artifact equality; raw build PASS alone is no longer an accepted
+entry. Validation/failure lineage, ELF, old graph, retained assembler and kernel
+rebind before/after the same sole assembly call. Actual image ID remains distinct
+from file SHA. This supersedes the unused9f4de50b source clearance below; exact
+selection and actual outcomes remain separate. Neither source is executed here.
+
+### Aggregate compile01: actual artifact, failed controller envelope
+
+Root reports session72234 terminal/reaped. The effective operation result is
+**FAIL_FINALIZATION**, not PASS. Raw 9,499-byte RESULT
+`81cce68d9b20f22b12d12d5d698084eb8eb101493de71c6e35cd6acb7b44f47a`
+and attempt contain the earlier PASS status; the explicit 202-byte overriding
+`FINALIZATION-FAILED.json`,
+`d0d6d8980c492d43a8927825aa153271543fa18d960305db5bde1e51c323dd54`,
+binds that result and records `REMAINING_TOTAL_ENVELOPE`. Do not ignore it.
+
+The single selected offline compile itself completed exit0 with clean phase
+closure, zero active/terminated processes and no cleanup errors. Worker CPU was
+222.640625 seconds, compile-command wall 197.98855440015905; controller CPU was
+149.640625, above the remaining 134 by 15.640625. Recorded total operation wall
+was 401.11681869998574. With the preserved failed graph prefix, charged totals
+are 228 worker CPU, 195.203125 controller CPU and 547.53743470017798 wall seconds.
+The controller total exceeds the original180 allowance; this is not repaired by
+otherwise spare worker/wall budgets. Final-report/exit tail remains excluded as
+disclosed in the result, not invented zero cost.
+
+Read-only independent checks matched all39 frozen source/lock files, both
+artifacts and two logs (43 actual bindings), plus controller/selection and
+record-to-record equality. The current controller remains the reviewed17,854B
+`d8e4bd4c9df8ac3fc8e8b1a4f5eb62333ce97817e954fcd08f1e3e687fc35c0b`.
+The reused39-file map equals its preserved predecessor. Actual Cargo stdout
+contains one fresh exact intended binary, release opt3/overflow-checks true/test
+false, and one successful build-finished row. The existing runtime/SDK closure
+review is reused, not independently rehashed in this outcome audit.
+
+| Artifact/record | Bytes | SHA-256 |
+|---|---:|---|
+| user ELF | 1,682,292 | `8aa35bf0a3ab57ef1caea04cceaae9659fd6c994009a1abad154df8dcd6d5868` |
+| link map | 2,614,124 | `2292e7fa3340775db8626529e1e0fd7f743504991afc3c494006b78dc1c9f3b7` |
+| SOURCE-MAP | 1,066,113 | `75c710e3ee13f63cb6ef44da8656caa53c300bf649317d2b5669d8b9cde06ce0` |
+| GRAPH-COMPARISON | 2,069 | `a7f5ea2fe059e6a57a6aaad48e616986267afe2b7c8a8c60de3194e2b010d458` |
+| ARTIFACT | 1,338 | `dc3a4f79e1006bf45d8355829486ee0b2bb019bd4fd12cf45fb0aec37cfc5904` |
+| environment profile | 6,049 | `7e1b195a0e075eec9ba8f0d7f8e65c83a9a3cebfc3332e7910d9909be2581ff5` |
+
+Precise source-order finding (`compile_only.py`271-295): finalization first
+closes the phase, completes the full source/runtime `rebind`, checks registry
+archives, calls `budget.refresh`, and then separately censuses the output a
+second time. `refresh` checks controllerCPU/wall at its **entry**, before doing
+its own census. The saved PASS status and final census show these checks completed
+without exception. Therefore full rebinding/archive checks had finished before
+a successful <=134 CPU checkpoint; the later census/report tail produced the
+recorded149.640625, and the final refresh detected the overrun. The precise
+crossing inside that tail is not measured. Do not claim that all finalization
+ran within budget or that the failed allocation passed.
+
+A new finite retained-artifact validation/adoption seam is justified in
+principle: bind the failure/override and original selections, exact frozen
+project/graph/native lineage, actual Cargo artifact row, ELF/map and completed
+rebinding evidence under a fresh explicit bounded read-only operation. No
+compiler, graph, guest or proof rerun is necessary. This is a distinct gate,
+not automatic artifact adoption or a retroactive resource waiver. The existing
+assembly adapter correctly rejects this failed lineage; a separately reviewed
+successor must require the new adoption result, never simply bypass the marker.
+Old bytes/costs/failure stay frozen. No image or aggregate proof exists yet.
+
+### Mixed receiver controls01: actual twelve-group PASS
+
+Actual RESULT
+`c376471ddd74a0352ce21eae8ea4d89f9366eae0a79c303e8b0f672aeceba00a`
+passes independent synthetic-outcome audit. All46 source bindings (23 current
+and23 snapshots) match, saved selection is exact8b0557bc..., and stderr1684B
+`7e518ed67db821906e7f053752fc18da86a8d7a10afda0847b1e019b298c983b`
+enumerates all12 selected groups with `ok`; stdout is empty. Actual argv uses
+the selected installed isolated Python and immutable test snapshot. Exit0,
+direct child reaped, Job closed, no termination/cleanup errors or active/
+terminated processes; no finalization override. Cost0.96875 inclusive JobCPU
+plus0.328125 disjoint wrapperCPU,3.115848399931565 wall seconds. The fake owners,
+native responses and filesystem are intentional; this is not real I/A receipt
+admission, actual native mathematics, installed pin-origin qualification or
+public session/authoring integration. Source files are now used/frozen.
+
+### Mixed receiver controls01: exact prelaunch clearance
+
+The 9,044-byte selection
+`8b0557bca9af01b5db8b23cc5d1a7214cc95eaf849fb84ac343faa49fc5078b4`
+passes exact review: all 44 bindings match (23 selected sources, including
+the fixed eager closure and runner, plus 21 runtime/prior-selection/manifest
+pins). Output was absent. It uses the retained runner and installed Python
+with `-I -S -B` against immutable `mixed_claims/test_receiver.py`, under
+30 CPU/60 wall seconds, 512 MiB/two processes and 1 MiB each log cap.
+The earlier source review covers all twelve groups and explicit mock scope;
+no native, crypto, guest, network or real test-side filesystem operation is
+selected. Root owns the single launch. This is prelaunch clearance, not PASS.
+
+### Mixed I/A packet and receiver: first-phase source clearance
+
+Read the complete fresh `mixed_claims/{__init__,packet,receiver,test_receiver}.py`
+and the used parser, journal, membership, authority and clean-process helpers.
+No test, native process, receipt verification or build was executed by this
+review. Final reviewed SHA-256 identities:
+
+| Source | SHA-256 |
+|---|---|
+| `mixed_claims/__init__.py` | `2371afae23fa43f733cb959557a9451df64ce4181a4a9ec5ef72ec28d9290abf` |
+| `mixed_claims/packet.py` | `8a18e3d35e33210df9b669b3fe8dc3785e13bfb1184bd0bd2fbec683063758b1` |
+| `mixed_claims/receiver.py` | `d292a966469402a24282e40377c8ac9c929504e38de7862aa9a6bd1b3ad3fb00` |
+| `mixed_claims/test_receiver.py` | `a75ce1e30e9328ddbe6f27d79dff38d47412001af8d816743702489788ee96b3` |
+
+Caught one eager source-closure omission before use: `delta/__init__.py`
+imports `delta.receiver`, so pinning only `delta` and `delta.packet` was
+insufficient. The author added its exact loaded-origin and file-pin requirement;
+the receiver identity above includes the correction. Other eager project imports
+(`delta_claims.receiver`, `production.producer`) were already covered. This is
+loaded-source selection under a trusted controller, not Python-memory isolation.
+
+The packet is a new typed wire, not a reinterpretation of the old I-only wire.
+Tag0 binds an exact 184-byte J to an I receipt; tag1 binds exact H to an A receipt
+and each selected J to its exact opening. All adopted I/F/P/A, byte/count/rank,
+duplicate, unused, topological and complete target-backward closure checks occur
+before expensive verification. The reused old decoder only parses witnesses;
+the new parser separately checks full-J graph closure. Its 32 MiB/32-frontier
+limits fit the retained `delta.packet.Envelope` ceilings. Repeated semantic M
+with different exact Js remains possible; duplicate exact claims/Js refuse.
+
+The receiver uses exact optional I/A owner classes, at least one. An A-only
+supervision donor never replaces native relation image I with A. Each claim is
+verified once, its complete statement and live handle are rebound, and the cache
+key includes tag, profile, full statement, receipt digest and receipt length.
+In particular I admission compares full J including rank, not just semantic M;
+A members borrow the same live aggregate owner and exact header/path. Each
+native witness reuses retained `bind_native`, closure and `_clean` rules, with
+original parent tuple, exact rank and actual same-call input/output binding.
+All borrowed origins are checked around native work and again after evidence
+I/O, before a distinct local mixed handle can be minted. No file or copied fact
+is promoted into receipt authority. All packet/call/CPU reservations precede
+cache reuse and survive failure. Mixed-owner failure does not directly close
+separately owned I/A authorities.
+
+The twelve source-read controls include typed wire/path/graph/cap refusals,
+same-M/different-J coexistence, full-I-rank refusal, mocked A-only native-I
+dispatch and one-call receipt sharing, charged cache reuse, pre-worker refusal,
+and five native/final-liveness failure modes. Their fake owners intentionally
+bypass real installation/cryptographic checking, fake supervisor is in-memory,
+and directory creation is patched. They establish no actual receipt, kernel,
+filesystem containment or integration outcome until a separately selected run,
+and even a passing run establishes only these synthetic boundaries.
+
+No remaining source blocker found in this first phase. Repeated local pin
+hashing and member-live calls remain charged implementation costs; this review
+does not claim constant total consumer cost. A-only direct session import,
+same-J certified cut, ordinary authoring and actual A receipt integration are
+separate unfinished seams, not cleared by the packet/receiver review. Root owns
+any exact runtime selection and adoption; the live guest compile is unrelated.
+
+### Assembly successor: compile-only lineage and immutable-snapshot invocation
+
+The unused assembly adapter was revised for the new one-command compile
+lineage. Latest reviewed source is 10,305 bytes,
+`9f4de50bd35d13809eaa7a5340edcd15b7784e6be102cff3e7f7bb577bebe888`.
+It requires the new compile result schema/status, one closed compile and zero
+new graph calls, plus exact predecessor FAIL/raw graph/attempt identities. The
+failed result stays FAIL; its one successful graph is only explicit lineage.
+All these bindings recheck before and after unchanged driver/kernel assembly.
+
+Caught the initial adapter's incompatible canonical-__file__ guard before use:
+the existing outer runner invokes an immutable source snapshot. Latest code now
+requires the resolved six-part path below local-checks exactly
+`<operation>/sources/software/v5/aggregate_guest/assemble.py`, with bounded
+lowercase operation name, canonical working directory and isolated flags.
+This matches the runner and deliberately rejects direct source invocation.
+Outer exact selection must still bind the operation/source/runtime/artifacts.
+No actual compile result/image or assembly invocation is assumed by this review.
+
+### Compile-only successor: four literal path correction and exact clearance
+
+Reviewed `aggregate_guest/compile_only.py`, 17,854 bytes,
+`d8e4bd4c9df8ac3fc8e8b1a4f5eb62333ce97817e954fcd08f1e3e687fc35c0b`.
+The four saved Cargo local target paths retain manifest-relative `..` segments.
+Independent inspection confirms each resolves to its exact pinned intended
+source. The successor corrects exactly those four literal expected fields and
+requires complete 297-unit identity/dependency equality; it does not generically
+normalize arbitrary strings or weaken external package/profile/feature checks.
+Failed RESULT remains FAIL. The saved graph and unchanged 39-file project/lock
+are reused, with a fresh target/private byte-identical registry seed and exactly
+one offline locked compile. No graph command is repeated. New result schema
+explicitly records predecessor result/graph/cost rather than pretending two new
+commands ran. Assembly needs a separate explicit one-command lineage branch.
+
+Exact 661-byte selection
+`19fef22ed3323d963349d67c131cea7a7b1dea8de82321be9ef2c33ffe06b7cd`
+cleared: parsed proposal differs only by true authorization, source pin matches,
+five frozen prefix records plus attempt pin match, fresh output/attempt absent.
+The prior exact runtime closure is reused. Remaining 1794 worker CPU, 134
+controller CPU and 1653 wall seconds give maximum combined actual-prefix plus
+allowance 1799.359375/179.5625/1799.420616 seconds, below original 1800/180/1800.
+The 4096 MiB/eight-process/16 GiB ceilings remain. Root owns one launch;
+no image, guest execution, receipt or proof is selected by this clearance.
+
+### Retained aggregate cost screen and mixed-frontier contract review
+
+Reviewed `aggregate_host/snapshot.py` at
+`d99656a17891983e2ae5ee0afb78fd4695b0ac4746a58aade34977b36fd2f442`
+and `AGGREGATE-COST-SCREEN.md`. Preparation replaces only the 32-byte A slot
+of the exact retained 215540-byte wire and 192-byte header. Exact Js, openings,
+membership root, edges, targets and genuine I receipt remain unchanged. The
+existing host independently computes actual image ID, checks the complete native
+relation/header, genuinely verifies exact pending I, then executes the guest
+once with bounded retained segments/capsule and same-run samples. Adapter binds
+returned header/capsule/diagnostic and final inputs/census. A failure stays a
+failure; diagnostics are available only if the host reaches their durable write.
+Future exact root selection must provide actual adopted assembly pins and an
+outer 180 CPU/240 wall, 3072 MiB/three-process Job. No proof production or
+causal speedup claim follows from this source-only screen.
+
+Reviewed the proposed mixed I/A packet/receiver contract. No semantic blocker
+found. Sent critical invariants: A-only supervision still selects native image
+I; I receipt imports compare full J including rank, not only M; exact claim/
+receipt/owner/profile cache entries retain live-origin checks before/after
+checking and final mint; packet/graph/cap gates precede expensive work and no
+same-claim/different-receipt ambiguity is silently chosen. Explicit whole-J
+selection can resolve such representation conflicts later. Pure A-member
+session entry remains separately possible without a dummy delta/I/native owner.
+First implementation phase is separately owned and remains source-only.
+
+### Aggregate owner controls01: exact selection and actual PASS
+
+Exact 7,299-byte selection
+`4e57759d8aa1f359b996d837bcc00312759e9e9c8a55f99d8fc9bbefe3cf1a95`
+cleared after all 31 bindings matched: 11 eager sources and 20 runtime pins.
+It invokes the adopted installed Python with -I/-S/-B against one immutable
+controls snapshot, under 30 CPU/60 wall, 512 MiB/two processes and 1 MiB each
+stdout/stderr. Fresh output/attempt paths were absent; unchanged runner and
+runtime reviews are reused. Only the outer supervisor writes real evidence.
+
+Actual RESULT
+`cf0faa4a6984675410ba47131b8476b890528aa80d01ec1c6cce67e3481b702d`
+passes independent audit. All 22 current/snapshot source bindings and saved
+selection match. Stderr is 3,004 bytes,
+`8b4f0fd8f2cbe3dbb16a4dc09b3d3b886fdd292d744315409bff48db90d059a4`,
+and enumerates all 17 selected method names with `ok`; stdout is empty.
+Actual argv uses the exact installed Python and snapshot. Child exits zero,
+reaped, Job closed, zero active/terminated processes, no termination or cleanup
+errors. Inclusive Job CPU 0.78125, disjoint wrapper CPU 0.28125, total wall
+3.2813306997995824 seconds. This is synthetic bookkeeping/mocked-receive
+evidence only: no real receipt verification, native checking, guest or proof.
+
+### Aggregate owner controls: final source clearance, not execution
+
+Owner remains `a6a7e8041674de60fff198ed8522b1c28e0662bbf1f8acce8fe3eee60ab03561`.
+Final 17-group `aggregate_admission_controls.py` reviewed at
+`dc6ba079cb9c2bb60b001ea9a25ea9da7eeea83970d7b68123fa0f34d742fa6a`.
+The added in-memory fake supervisor intercepts every write and worker call.
+It checks exact `verify A receipt header` arguments, selected header/receipt
+bytes, request/process/binding ordering, and the original 60-second allowance
+after three seconds of simulated preflight. Six refusal cases reach wrong
+statement, unclean closure, changed receipt/header, final pin and final
+deadline boundaries. They require no minting, owner revocation and retained
+reservations. Prior member/constructor/origin controls remain explicitly
+synthetic. No files, host, kernel, guest or proof run in those test bodies.
+
+Public-admission notes now include full repeated O(L+p) local pin-hashing cost,
+distinct from Merkle work, and exact entered-receipt-revoke versus malformed-
+member-refusal semantics. Source review clears a future root-selected bounded
+synthetic run, not actual A receipt admission or full mixed-frontier reuse.
+
+### Guest build01 actual graph-gate failure: preserved, no ELF
+
+Actual RESULT
+`231c94114e625a59371fdb1208aa7ae2838c9c35c9b8877b80bead4e7ad7e0ac`
+independently audited. All 79 changed file bindings match: 38 current sources,
+39 snapshot files including generated lock and two graph logs. Saved selection
+and terminal/finalization markers match. One selected offline graph command
+exits zero, produces 297 units and empty stderr, then the exact structural
+gate raises `UNSELECTED_FULL_AGGREGATE_GUEST_GRAPH_DELTA`. Raw graph SHA256 is
+`2cc441345c1cf3cc16e9dd21cca1bf2130319dbfa1124ad3ddb1d6507f2f4609`.
+There is no compile command directory or new guest ELF. This is a failed
+graph qualification, not a build success or a reason to weaken equality.
+
+Worker CPU 5.359375, disjoint controller CPU 45.5625, total wall
+146.42061600019224 seconds; graph phase wall 19.535597099922597, peak Job
+private bytes 47210496, eight total processes. Zero active/terminated processes
+and no cleanup/finalization error; root reports outer exit one and reaped.
+Preflight/final hashing and copy costs remain counted in controller/total wall.
+Raw graph diagnosis is separately assigned; no automatic retry is cleared.
+
+The already reviewed assembly adapter remains unchanged at `4b9f0b54...` and
+refuses this failed RESULT at its initial build-PASS predicate, before creating
+its output directory, looking up the ELF or invoking any assembler. No image,
+execution, receipt or admission can follow by that route. All failed bytes stay
+preserved. Full v5 remains ACTIVE and unfinished.
+
+### Aggregate image assembly adapter: source-only clearance
+
+Reviewed fresh `aggregate_guest/assemble.py`, 7,814 bytes,
+`4b9f0b54b44fcd34d239341b9e6e2081510bf9fa2a74b23202a7fa8476f34b0f`.
+It requires an exact successful new aggregate guest build, its two closed
+commands, matching terminal marker, no overriding finalization failure and
+the exact new guest ELF path/pin. One existing pinned driver04/v1compat-kernel
+assembly writes a fresh aggregate image. The actual assembler's image ID is
+parsed separately from the file SHA256; input/artifact pins rebind before and
+after. No guest execution or proving is added. Source review is conditional on
+the explicitly required outer root-selected bounded Job with exact source and
+output controls; the inner subprocess capture is not standalone hostile-input
+resource containment. No actual guest result or image is assumed yet.
+
+### Aggregate public owner: initial implementation source review
+
+Reviewed fresh `aggregate_claims/aggregate_admission.py` at
+`a6a7e8041674de60fff198ed8522b1c28e0662bbf1f8acce8fe3eee60ab03561`.
+Two pre-freeze findings were corrected: supervisor allowance now measures the
+original absolute call deadline without subtracting preflight twice; nine
+actual imported module origins and critical imported symbols bind to required
+source pins rather than merely coexisting with pinned files from another install.
+Constructor virtual-hook fields are initialized before base invocation. Final
+profile is A-specific; all statement-facing inherited methods are overridden.
+Exact A/member registries remain distinct from I handles, and every authority
+use rechecks sources/install/profile/lifetime. Same-call verify/header/stdout
+binding, immutable member records, charged cache hits, owner revocation and
+final output/deadline-before-minting behavior are coherent by source review.
+
+Caller Python/controller state remains trusted; group serialization allocates
+before byte charge, so external decoder/process limits remain necessary. Jobs
+are resource controls, not hostile-code containment. The source does not make
+a synthetic image into an adopted actual aggregate checker.
+
+Read the initial 15 explicitly synthetic owner controls. Their fake registries
+and mocked constructor cover membership/origin/budget/copy/lifetime bookkeeping,
+not real cryptography. Requested one narrow mocked same-call receive control
+with command/report/header/stdout/finalization subcases before the first run:
+the initial tests only exercised `receive` at malformed-header preflight. This
+is to catch an adapter mismatch before real A production, not to simulate
+mathematical qualification or authorize any host/guest/proof operation.
+
+### Aggregate-host actual PASS; guest exact selection cleared
+
+Host build01 actual RESULT
+`4cdb12b5e3aeaebcfef5e0370bd445f24ff6779b196ca69cbab60f9d57002a75`
+passes independent audit. Nine changed source/snapshot/output/log bindings
+match. The actual command equals the retained recipe with exactly the selected
+crate/source/output substitutions and two new externs/dependency paths, modulo
+Windows path-separator spelling. One compiler exits zero. Four unused-field/
+method warnings do not alter its outcome. Permitted pinned owned VCTIP cleanup
+records its exit; there are no cleanup errors, active or terminated processes,
+or overriding finalization marker. Root reports outer process reaped.
+Executable: 6,626,304 bytes,
+`b1605995c957e06b7c4529d28dfc2a49e496cefae7629b3fdddfc4a1bfb6f6d1`.
+Actual worker CPU 65.375, disjoint controller CPU 6.640625, total wall
+72.20371129992418 seconds, peak Job private bytes 987435008. Compile-only:
+no host execution, image, proof or public aggregate admission yet.
+
+Guest exact 15,652-byte selection
+`011ac45c532756eba74a573f66a06e1a2f0e78ba1219aed2bdd6bef8a3d67f70`
+is cleared. Its parsed proposal differs only by true authorization. All 38
+source pins, five retained guest records, eight preparation records, helper,
+native map and actual comparison result pins match. Actual old 296-unit
+metadata supports the predicted local package/profile/target transform, including
+lib/bin doc/doctest/test flags and std edges. New manifest source paths must
+equal canonical targets in actual Cargo output or the precompile graph gate
+refuses. Source/graph review is not a prediction that Cargo necessarily succeeds.
+Outer 1800 wall and 180 controller CPU start before preflight; one shared worker
+allocation covers both Cargo calls. Fresh run/attempt paths were absent. Root
+owns the memory-aware timing; no guest execution/image/proof is selected.
+
+### Aggregate guest overlay: builder/graph source review
+
+Reviewed `aggregate_guest/graph.py` at
+`2bbab886704aaa72ba4c6415b4187a1f5b0e699b6f3d61c512f16ea0d425af31`
+and `aggregate_guest/build.py` at
+`4e986f7d2b6d6560b81e98a5d490d9488795ef64111300d12cf264e036c60038`.
+All 38 source pins in inert proposal
+`e10b3a5d5f32718583e41986d7b46dd6bb514867f31f5c3fc9cfbe0bf3978729`
+match. Exact lock parsing permits one added local aggregate package and no
+other package/checksum change. Graph canonicalization includes full unit
+identity plus dependency metadata, replacing numerical indices by target
+identities. Selected transformation relocates two local libraries, replaces
+the old binary root and adds one aggregate library. Only root/library direct
+nanoda/serde edges disappear; module edges and all build-std edges remain.
+Every external package/version/feature/profile/target/edge must compare equal
+modulo the selected cache relocation. Actual Cargo output is still unobserved.
+
+Builder preserves the retained RV32 compiler/build-std/SDK/startup recipe,
+checks the independently adopted new native comparison, uses fresh target and
+offline cache, and runs exactly graph then build. Graph equality must pass
+before the compile. Snapshot includes the 32 native Rust sources, unchanged
+entry, three overlay manifests and two adapters. Final maps, locks, seed,
+runtime, output and cleanup are checked; the emitted ELF/link map are pinned.
+Envelope is 1800 cumulative worker CPU/total wall, 4096 MiB/eight active
+processes, 180 controller CPU and 16 GiB combined census. Source clearance
+does not select execution, prove graph equality, adopt an image, or authorize
+guest execution/proving. Root owns a later exact selection and resource timing.
+
+### Native compare01 actual PASS and aggregate-host link clearance
+
+Compare01 RESULT
+`f60945682fd510c837a26c6bc1703fe8065e8e1a2a301d675e9f869d44384d33`
+independently passes the actual changed-boundary audit. Exactly two selected
+native commands exit 0/2. All four actual logs, source snapshot/current source,
+parsed selection and finalization bindings match; both stdout byte sequences
+are identical to their retained positive/invalid baselines. The negative stderr
+is the fresh checker snapshot's native `tc.rs:945:71` equality assertion, not
+an input/setup rejection. Jobs close cleanly with zero active or terminated
+processes and no cleanup errors. Worker CPU 0.0625, disjoint controller CPU
+1.90625, wall 3.217172999866307 seconds. Root reports outer exit zero. This
+supports preservation of these mathematical boundaries, not measured speedup,
+guest execution, certificate production or final v5 completion.
+
+Fresh `aggregate_host/build.py` source reviewed at
+`0c6a98237e63b1245e20af1a95fb91cf42231064345ce8d22d160ad1c99e62a2`.
+Exact 962,683-byte selection
+`b8c64994f64c66eaa8a90612d5fa0f3ebcad4ce053e86f4f8fe485408cadbb8b`
+independently matches all three source and 3,142 runtime pins. Enumerated all
+2,962 files under the retained host dependency/native search directories: all
+are pinned. Every Rust rlib/rmeta/dll in the added checker dependency directory
+is pinned; its unused proc-macro import-library/depinfo files are not Rust
+dependency artifacts. The integrated dependency directory contains exactly the
+three pinned fresh project rlibs. Retained host RESULT and LINK-INPUTS pins
+match, and fresh run/attempt paths were absent.
+
+The one command replaces old host crate/source/output exactly once, retains
+five SDK host externs and adds the two selected project externs; fat LTO and
+native search paths remain. Three source snapshots include the relative
+`../aggregate/receipt.rs` at its correct path. Host SDK serde identity remains
+unchanged; the new relation boundary uses primitives and its own Header/J,
+not exchanged cross-version serde traits or Values. Cumulative envelope:
+240 worker CPU/phase wall, 3072 MiB/six active processes, 120 controller CPU,
+600 total wall, 1 GiB/8,192 entries with final pin/map/closure checks. Root
+owns one compile/link launch. No host call, guest, proof or admission follows
+from this clearance; the full installation is not claimed OS-hermetic.
+
 ### Aggregate public-admission principle: source-backed support
 
 Reviewed `AGGREGATE-PUBLIC-ADMISSION.md` against the actual existing admission

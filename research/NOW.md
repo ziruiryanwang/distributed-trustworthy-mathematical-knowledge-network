@@ -1,5 +1,18 @@
 # Current research desk
 
+**2026-10-12 exact-current offline attribution PASS adopted.** The one offline
+read completed with no guest/proof/compiler calls: outer481f5c67, report9f100a3f,
+1.0625 known CPU seconds /1.2728937 wall, clean closure. Independent audit matched
+all3 source/snapshot,39 runtime/data and19 bound-file pins. Used attribution
+source/selector/evidence are frozen. Retained exact symbols support investigation
+of parsing, copying and expression correspondence, not whole-run cost fractions
+or a speedup. Root investigates successful DAG-validation summaries that retain
+the existing unfolded work/depth limits; base evaluates that source argument,
+author separately prices the existing descriptor/body-clone seam. No codec,
+guest retry, larger cap, stage compilation or proof funding is selected. Full
+v5 remains ACTIVE; these checks serve affordable certified-frontier advancement,
+not a new documentation-only goal.
+
 **2026-10-12 optimized screen terminal FAIL; no complete capsule.** Single
 execution exited1 with `Session limit exceeded:33557665 >=33554432`.
 Outera4db15321bc9084ba5db4c7f4dbbb702a391909c8cafe7fd7d82f7ecec6237e9,

@@ -4,6 +4,16 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-12 offline attribution independently PASS/adopted, no runtime lives.
+Root owns one next-investment choice/Git; base evaluates exact-current proof-DAG
+syntax memoization (per-proof fixed context, successful cost/depth summaries)
+in BOUNDED-PARSE-FAILURE-DECISION.md. Author separately prices descriptor/body
+copy removal in AFTER-BOUNDED-PARSE-OPTIONS.md. Assurance completed attribution
+outcome audit and will independently review the selected principle/source.
+Canonical root E:\Distributed Trustworthy Mathematical Knowledge Network;
+checkpoints research/cycles/v5-2026-10-12. No speculative implementation queue,
+guest rerun, cap increase, stage compilation or proof funding selected.
+
 2026-10-12 optimized execution failed its unchanged cap; no runtime lives.
 Root owns next investment choice and Git; assurance audits actual failed screen,
 then minimal attribution source/selection. Base proposes fresh offline adapter
