@@ -2,6 +2,648 @@
 
 ## Explicit implementation resumption after guide delivery
 
+### Actual explicit-warrant/derivation bookkeeping controls: PASS
+
+Selector `Select-DeltaClaimControls01.ps1` was source-cleared at
+`bcd410dca0116881b0be34919b3479211beb2a2545e705c9af0eb5bd9330c20d`.
+Generated 8,319-byte selection
+`d3a85d4401d4a100a00a475299341ac436ceddbf04aaf184ce71e0b2f764a6fb`
+passed exact review: eighteen sources, 21 runtime/provenance pins, isolated
+controls interpreter, only the synthetic `test_claims.py` command, 30 CPU/60
+wall seconds, 512 MiB/two active processes, fresh output/attempt paths.
+
+Root launched once. Actual RESULT
+`97564d017d8cb9eb368ffbf321f4de55287b7f7ad55bbeae42882e00cd72d545`
+passes independent audit with all 57 current-source/snapshot/runtime bindings
+matching. Raw stderr contains all 25 reviewed test names marked `ok`, then
+`Ran 25 tests` and `OK`, with no skipped or failed groups. Actual child exited 0
+and reaped; Job closed with zero active/terminated processes, no cleanup errors
+and no finalization-failure override. Actual inclusive Job CPU is 0.703125
+seconds plus 0.359375 wrapper CPU; recorded wall is 1.8895966 seconds.
+
+This qualifies the scoped synthetic bookkeeping controls for variant identity,
+complete explicit derivation choice, exact ancestry/pruning, operation binding,
+charges and failed-choice atomicity. Test-only patched owners confer no proof
+authority. No native checker, real receipt verification, ordinary-source authoring
+or networking occurred. `authoring.py` and API were exact snapshot context, not
+runtime authoring coverage. Actual mathematical mixed-branch operation and full
+v5 remain separate unfinished endpoints.
+
+The subsequent PROOF-VALIDATION-INTEGRATION.md receives a principle-only review:
+the fresh checker/module/aggregate/driver dependency chain and 32-production-file
+closure are appropriate; old-project rlibs must not leak through search paths.
+Preserving public crate API/stack and rebuilding downstream metadata avoids
+mixing checker instances. Cargo overlays and adoption of a newly built aggregate
+guest/image remain distinct obligations. No new build adapter or runtime is
+cleared by that plan alone.
+
+### Actual remaining claims controls02: independent PASS
+
+Outer RESULT SHA-256
+`a35c88435e1dcb466d3e03218b46c1cf64ca863b6d908efb17669f8f5d0a420b`
+and inner RESULT
+`0ea351dd244c37dd42b94c0dfb915c60602f97022a144fc2034032708d675bd1`
+pass independent actual audit. All 95 source/snapshot/runtime/config bindings
+match. Exactly four workers ran: one corrected differential group, actual
+two-delta v2 relation, wrong exact target and invalid new proof. Their expected
+exit codes are 0/0/2/2. All Jobs and direct children closed/reaped with zero
+active/terminated processes, no cleanup errors and no finalization override.
+Actual outer inclusive Job CPU is 4.25 seconds plus 0.359375 wrapper CPU;
+recorded wall is 6.6072433 seconds. Nested costs are not added again.
+
+The actual 215,540-byte v2 input hashes to
+`7e21d092206b08a9a71231045b8152df4179ee6575cdc5e3afc704ef03c0be58`.
+Its three exact member journals, single pending base assumption and census
+equal retained baseline evidence: 2,364 rows, 22 bodies, 23 openings, three
+edges, 29,858 JSON nodes and depth 28. Header is DMKNA002/version 2, count 3,
+maximum rank 2 and seal height 1. Independent read-only SHA calculation without
+loading product code reproduces its root
+`a1b5e4422275e0fb811abb84234c740faf166a2624292f1d3614a51a0ab33d43`
+and all six returned sibling hashes. Saved cross-language vectors hash to
+`01d7c9cc45a16f520980e80672f90c0a97a69e31e344f748910df5abb24ffd0b`.
+
+Wrong exact target refuses with `aggregate target must be an exact newly checked
+delta warrant`; changed proof refuses with `CHECKER_PANIC_OR_UNRESOLVED_DEMAND`.
+The corrected named/positional extraction/schema group passes all four source
+cases. Earlier controls01 remains FAIL. Its fifteen successful Rust groups
+and fifteen Python groups are carried, not rerun; raw prior Rust stdout SHA is
+`12be9af34589be2d01515ba4e8ab7a493ee2e688472098fd40fb2f6fff42a821`.
+This composes changed-boundary evidence without relabeling the failed operation.
+
+No actual aggregate guest/image/receipt, complete optimizer native integration,
+real public mixed-branch import, useful-growth or worldwide deployment outcome
+is established by these scoped passes. The full v5 goal remains unfinished.
+
+### Two parallel actual outcomes and remaining-controls exact clearance
+
+Both root-launched operations completed and reaped; their independent actual
+audits pass without treating overlapping elapsed times as additive wall time.
+
+- Corrected refusal build RESULT
+  `16858fcd231266750311919b5b4045a4a7a984115a65761bd4def606daccb4c2`:
+  one selected test-only compile, 11 changed source/snapshot/output/log bindings
+  match; output 2,302,976 bytes at
+  `9b80bd5f0d127e23921310566326425df4160bc9a101f34682ab7bfabdadec1c`.
+  Actual cost 29.96875 worker plus 1.953125 controller CPU seconds,
+  37.7164956 seconds recorded wall. No test was executed by this build.
+- Proof-validation RESULT
+  `9855b711053e35438c7b5f8e66662e389e06d366734524297cafde46d84650e2`:
+  one serde-only compile and all twelve exact named syntax groups pass;
+  13 changed source/snapshot/output/log bindings match. Test executable
+  1,052,160 bytes at
+  `6ecb97974cd915beadd80342dec06ded129d69846412e09e057229e67e37116e`.
+  Actual cost 14.046875 worker plus 1.984375 controller CPU seconds,
+  20.516386 seconds recorded wall. Native proof checking was not run.
+
+Both Jobs closed with zero active/terminated processes, no cleanup errors and
+no finalization-failure override. Recent unchanged compiler/runtime audit is
+retained. These are compile/syntax outcomes, not the complete checker successor,
+an optimized guest measurement, or mathematical certification.
+
+Remaining control source
+`00982894c9e0ec30ad458bd5c212ddfb38a2cd13e200ee94278bfee7b2badd4a`
+and `Select-ClaimsRemaining01.ps1` are source-cleared. Exact controls02 selection
+`a573f8d1a6626c338fce01d3c0a2e0a9f851407249a2b9709c0620be6da97389`
+and configuration
+`96ec18d198efc58c576e2772570fc280a9bb22a5dab50a5ea69f308a8bd88f4c`
+pass 78 binding checks, with seventeen sources and 37 unique configuration
+runtime paths. They use the retained exact v2 driver, newly audited one-group
+test executable, retained packet/reference and prior failed operation's exact
+inner RESULT. Output/attempt paths were fresh; controls interpreter and finite
+limits remain correct. Only one corrected group and three previously unreached
+native calls are selected. Prior fifteen Python and fifteen Rust successes are
+carried from independently audited evidence, not rerun. The controller rechecks
+the prior failure and Python count; its Rust retained-count statement additionally
+depends on the prior independently audited raw stdout. No remaining-control
+outcome is inferred before execution.
+
+### Explicit variant/whole-derivation public source clearance
+
+The complete fresh `delta_claims/` implementation, API/theory and 25 synthetic
+controls are independently source-cleared at these reviewed pins:
+
+| File | SHA-256 |
+|---|---|
+| `__init__.py` | `dc919d97068cea9d267b07368d238e4ce7a5689d20439ac5e6d69f7f76bb4987` |
+| `receiver.py` | `7731f712902b5c5e0869a51c913b335428309760df604768293f7ab58c301bfd` |
+| `claims.py` | `c880964241e5b0f492ab332b2c694896b3b6efdc638e014b25148bd6410e6564` |
+| `imports.py` | `216f3ce48543ff4638c7112aa16d6dc430f7bc9a04f6927a7d036b81ddee137f` |
+| `authoring.py` | `cc62ebd697d8137f021dbf79feb4e39e41639a8c5864c041da40838469bbc290` |
+| `test_claims.py` | `f719bfcaf0e658dac8eeb76b7cce8b365a8da5567563cd37b812af062881860c` |
+| `API.md` | `abf2fc482658aad9005fc248aa3fb95540d2c69620f9d9c6b3f352a7d5dd06b2` |
+
+Receiver graph membership and exact lookup retain every checked J, allowing
+different-rank same-M warrants without changing mathematical checking or exact
+rank/ancestry requirements. Semantic declarations/bodies remain M-keyed. New
+direct imports require an explicit immutable established J per M; no duplicate
+semantic declaration is installed and no old child J/witness is rewritten.
+
+Same-J ambiguity is now operable: `use_handle(...,resolutions=...)` requires
+exactly one existing/incoming directive for each actual complete-representation
+conflict, accepts no arbitrary payload or unused directive, and handles repeated
+packets through the same decision path. Each incoming whole record is bound to
+actual same-verifier live facts and payload identity. All demanded chosen parents
+exist. The session commits prepared state maps only after its final live checks;
+failed admission/choice leaves old maps unchanged but retains submission charges.
+All packet alternatives remain retained/charged. Onward emission follows chosen
+exact-J ancestry and prunes unreachable stored records without unioning edges.
+
+Prepared source bindings include every chosen graph record plus a monotone
+representation revision, preventing an ancestor-only A-to-B-to-A switch from
+reviving an old operation even with unchanged direct semantic imports. This is
+a conservative whole-session binding rather than minimal reachable-only binding.
+Actual returned packets remain untrusted and require fresh independent admission.
+
+All 25 controls are explicitly fabricated bookkeeping fixtures with patched
+test-only owners: zero receipts, kernel proofs or mathematical admissions.
+Source clearance does not qualify runtime import closure, native mixed-branch
+admission, authoring integration, aggregate-receipt imports or full v5 release.
+
+### Two finite follow-on selections cleared, not yet outcomes
+
+The proof-validation controller at
+`91e25c3a3244a106c01ce18da63b07a163b0d07e53eddcf5376b399ee22a9ca1`
+is source-cleared: only serde/serde_json test compilation and twelve named
+syntax groups, one cumulative 120 CPU/120 wall-second Job, 1536 MiB/six active
+processes, 60 controller CPU/300 total wall seconds and 256 MiB output. No
+nanoda/module/risc0 extern or native mathematical checking is selected.
+Exact selection
+`ff93202ecc32a3b84449d74d0423535cc1c540bec88b7de7c3e0d6777cda0e02`
+has four matching source pins and fresh output/attempt paths.
+
+The separate corrected-refusal source `586ca944cd74e7b4ed8a3a57bbe8d9afe52397f28dd3c452b3eb918767a42d5f`
+contains one group with four cases: named/positional malformed body records
+must fail extraction; their empty-body counterparts must reach the later schema
+refusal. Both routes' first outcomes and cumulative census are compared.
+Its thin builder `4b2064ceb6a5c1fb7615bee3a7d4ab9b924d844716c13782c768fc310323e1f3`
+selects only the retained test compile command, changing its root/output to the
+one new group. There is no production rebuild or test execution in this build.
+Exact selection
+`d97ae5137559c800c7e4537c4360be2a728c5f5a01bef9bbf51aff0654027e9f`
+has four matching source pins and fresh output/attempt paths. Both operations
+require the independently rehashed `D:\Python314` executable/DLL; recent
+unchanged retained-runtime checks are reused. Root owns parallel launches and
+subsequent outcome adoption.
+
+### Proof-validation allocation refinement: source clearance
+
+The fresh `software/v5/modules/native/proof_validation/` triple is independently
+source-cleared at these exact SHA-256 pins:
+
+- `module_correspondence.rs`:
+  `ee4f33a9d4896bd59b2456cb1712d13010d0838b8ba0be34c89c10ebba18bdf8`.
+- `correspondence_controls.rs`:
+  `2162b252894f6653dcaa31f36454c1bb07763d1155d830a7a5a46cff4e9b6d35`.
+- `control_root.rs`:
+  `74f29dd1ed1a034ad57ec833391dd36a38199429700151a9a1afa3fb6a3d475a`.
+
+Independently removing only the two new private validators and test-module
+declaration, then reversing the sole discarded-proof call replacement,
+reconstructs the frozen original exact SHA-256
+`f37c855666480553ee9b95f59dc3ba7ad19316e8e707aacd47fecfa29f1d12e2`.
+Thus whole-inventory construction, original expression/level/reference/visit
+methods and committed type/body comparisons are unchanged. The fresh validators
+preserve every tag's scalar/shape check and left-to-right recursive call order,
+including constant levels before reference, projection reference before index,
+visit before row lookup, and exact work 250,000/depth 192 limits.
+
+The source refinement argument in PROOF-VALIDATION-PLAN.md is sound under its
+stated observation model: equal success/first semantic refusal and work-state
+prefix by ordered traversal induction, excluding allocation, OOM, stack and
+timing behavior. Original reference allocation remains; native proof checking
+is not removed. All twelve synthetic differential/structural groups were read;
+no source blocker found. They are not mathematical admission tests. No actual
+compiler/control, CPU saving or guest affordability follows from source review.
+The separately drafted controller and exact root runtime selection still need
+their own review.
+
+### Actual claims controls01 failure: expectation defect, not a hidden pass
+
+The selected controls01 operation is terminal FAIL, independently audited.
+Outer RESULT SHA-256:
+`ee38afa9ce5eaa56a183cb24c03d3c3f30c9ca938379d0b878fbbf4fd25479a1`;
+inner RESULT:
+`3ca0555fc9c9f6f71061457051768f949d3bf4f114e57f65f1127ab3e3f5f651`.
+All 94 source/snapshot/runtime/config bindings match. All fifteen inert Python
+groups pass, and fifteen of sixteen Rust groups pass. The sole failed group is
+`public_value_entry_preserves_early_relation_refusals_and_census`, at its final
+hardcoded expected diagnostic. No actual native relation worker was reached.
+
+The first object fixture includes `bodies:[{}]`. The unchanged input extractor
+requires each body record's `universes`, `digest` and `expression`, hence returns
+`exact input record fields` before `check_bound` reaches `relation schema/limits`.
+Both old and new paths returned the same former error; their prior equality and
+census assertions passed. The expected latter error is the test defect. The
+second positional iteration was never reached, so its result cannot be inferred
+as an actual pass. No production acceptance discrepancy was observed.
+
+The single Rust worker exited 101 and closed normally; outer controller exited
+1 and closed, with zero active/terminated processes and no cleanup errors.
+Actual outer inclusive Job CPU is 4.125 seconds plus 0.375 wrapper CPU, and
+recorded wall is 5.794745 seconds. The inner 0.21875 CPU is already included.
+No overriding finalization failure exists. Original used source/evidence stays
+frozen. Root plans a fresh minimal corrected one-group control and the three
+unreached native calls, not a production rebuild or rerun of thirty passing
+Python/Rust groups. Fresh source and exact selection remain separate reviews.
+
+### Actual claims build02 and exact controls01 clearance
+
+Independent actual compile audit passes. RESULT SHA-256 is
+`06fd5deac8e66853daa72e35b819fa4766943e708264c98166a67ff7c8111ba2`.
+All 230 audited bindings match: 12 current sources plus 12 copied sources,
+three outputs, six command logs, four retained artifacts, 174 recipe runtime
+pins and 19 retained predecessor snapshot files. The three selected commands
+compile only the aggregate relation, test executable and driver. Both final
+links use fat LTO; no module/checker recompile occurred. All commands exited 0;
+the cumulative Job closed with zero active/terminated processes and no cleanup
+errors. Selected exact owned telemetry cleanup is recorded. No overriding
+finalization-failure marker exists. Root reports its outer invocation reaped.
+
+Actual costs are 61.1875 inclusive worker CPU seconds plus 2.359375 disjoint
+controller CPU seconds, with 74.8305412 seconds recorded wall time. Report/exit
+tail remains excluded as declared. Executable pins:
+
+- native, 1,797,632 bytes:
+  `004cf6ed58610f30d13738fc4497f97741703b2529c71f51da4fce29a4f8017c`.
+- tests, 2,471,424 bytes:
+  `a01a94a544b095ce5cfeb4ff7d6582e6f1babfa51cd434c7a5c313921782521c`.
+- relation rlib, 916,456 bytes:
+  `06c36d6f1667e919914d619094fbe226bf8c5bdee714557c0f1c062d825a8ed1`.
+
+Exact controls01 selection
+`e11f32038cf3f727e62a0a89189ecdb9b885a4592f450ded5616c3f196610367`
+and configuration
+`c35f7ed1c52d025f71f0d238811f1cc26356ff3da92a5e3581977a5dc2a90cf9`
+are independently cleared for root's four-worker control selection. All 77
+checked source/runtime/config bindings match; seventeen sources and all 37
+configuration runtime paths are covered, with no duplicate runtime paths.
+Native/test path, length and hash fields equal audited build02 outputs. Exact
+retained packet/reference and isolated controls interpreter are preserved;
+output and attempt paths were absent at review. No control success, guest,
+cryptographic aggregate receipt or release result follows from this clearance.
+
+### Whole-derivation choice for identical exact journals: source theorem
+
+The conservative draft session refuses different representations of the same
+exact J. That is safe but is not universal honest-branch merge completeness.
+Root asks whether explicit complete-representation choice repairs this. Yes,
+under the existing live admission and exact-rank premises; no checker weakening
+or child-witness substitution is required.
+
+Let a representation of J be either (a) a genuine resolved receipt for J or
+(b) the complete unchanged native witness W whose checked conclusion is J and
+whose complete exact parent tuple is P(W). Every retained representation must
+be bound to an actual still-live admitting handle and its exact payload bytes.
+Choose one representation r(J) for each reachable J, not an arbitrary union
+or subset of its edges. For a native representation, retain every parent in
+P(W); for a receipt representation, retain no unsealed proof ancestry. Require
+all demanded choices/material, fixed image/foundation/policy, and original
+native rank equation. Every native parent has smaller rank, so a finite chosen
+graph terminates. Receipt nodes are independently established base cases.
+Induction on rank establishes every selected J and hence every selected target.
+
+An old child names its exact parent J, not the complete derivation of that J.
+Replacing the representation establishing that identical J therefore changes
+no old child premise, witness byte, rank, or semantic import. Replacing it with
+another J sharing only ModuleID is a different operation and remains forbidden.
+Unreachable representations and their unused edges can be omitted from the
+onward packet; this is pruning proof witnesses, not revoking any mathematics or
+discarding the resource costs of having acquired/checked them. Shared parents
+still use one complete selected representation; no edge splicing is allowed.
+
+Operability conditions: distinguish representation identity from J and from M;
+enumerate ambiguous representations and demand an explicit choice; cap and
+charge all submitted alternatives before deduplication; bind the operation to
+the chosen reachable graph and live evidence; reject missing choices/material,
+mutated witnesses and expired authority; emit unchanged witnesses in rank order.
+Proof-form tags must be part of representation identity. A digest or copied
+inventory alone grants no authority. Choice can be fixed for a session/operation
+without requiring a global canonical proof. Heuristic cost preference may guide
+the caller, but mathematical acceptance does not depend on that preference.
+
+Aggregate target freshness is an additional protocol condition: if a target
+must be a newly checked delta, choosing its receipt representation cannot satisfy
+that rule even though the same J is valid. Require a native representation for
+that target or issue a typed refusal. Fresh public authoring avoids this issue
+by applying choices only to already established ancestry and checking an entirely
+new child separately. Source theorem only: no extended implementation or test
+is qualified here.
+
+### Claims build02 delta selection and prospective controls selection
+
+Exact claims-build02 selector SHA-256
+`d84d01613ca22939521c7387911271e4151bfbefa0150bd7e5832fb5fc9d6f08`
+is independently cleared for root's three-thin-compile selection only. Its
+schema, compile-only flag and twelve-source map equal cleared build01; only
+the fresh operation name changes. Both output and attempt paths were absent.
+The retained 209-binding review is not rerun without a changed boundary.
+Required interpreter `D:\Python314\python.exe` independently rehashes to
+`03168c01b7b7491423350e82c26fee71f35b43694d1319d3c668bda6903a0c38`,
+and `python314.dll` to
+`fde89cdb5c2d08ae65de7ef4abca1876c93ba3796002f5ac0bf7e4d4f5a94da0`.
+
+Build01's actual wrong-interpreter failure remains preserved separately in
+CLAIMS-BUILD01-PREWORKER-FAILURE.md. `PINNED_PYTHON` precedes output creation,
+Job creation and compiler invocation. Root reported exit 1 and 0.8308567 seconds
+wall; CPU was uninstrumented, not zero. This is an invocation failure, not
+a compiler/source failure. The failed selection is not retried or relabeled.
+
+Prospective `Select-ClaimsControls01.ps1` source review finds no blocker.
+Its retained fourteen-source map loses three old aggregate files and gains six
+fresh aggregate_claims files: seventeen sources total, covering fifteen imported
+product modules, the executing native controller and the outer runner. It
+replaces old snapshot and binary pins; new actual binaries must match build02's
+passing output records, with no finalization-failure override. It retains the
+packet, exact cross-language reference, controls interpreter and outer limits
+(240 CPU seconds, 600 wall seconds, 4096 MiB, four active processes). It creates
+fresh selection/configuration files only. Exact generated files and actual
+results still require independent review; no test/guest/proof result follows.
+
+### Exact-warrant v2 Rust and Python source review
+
+Read all fresh `aggregate_claims` Rust/Python sources and root's
+AGGREGATE-V2-PREPARATION.md. No source-level correctness/binding blocker found.
+The graph keys, parent edges and targets are full184B journals under fixed I/F/P;
+all exact pending claims remain unique and all actual witness conclusions still
+come only from the unchanged module relation. Full-journal byte ordering defines
+Merkle leaves; both languages agree on V2 magic/version/domains, count/index/level
+binding and deterministic odd padding. Member budgets count variants. Missing
+exact parent variants cannot be replaced by same-ModuleID evidence. Every target
+must be a fresh checked delta and all selected graph material must be reached.
+
+Python's early target-equals-frontier refusal rejects an impossible successful
+Rust input: inserting the same exact J as a new delta would itself duplicate an
+existing node, while merely naming that frontier fails the fresh-delta target
+rule. Repeated semantic ModuleIDs with unequal J are accepted structurally.
+Helpers remain inert; they neither predict kernel success nor manufacture receipt
+authority. Legacy packet conversion is lazy but still requires the eager delta
+package import closure whenever called. Core four helpers require eight product
+files total: aggregate_claims four plus admission init/bindings and modules
+init/codec. Legacy conversion adds delta init/packet/receiver, admission/verifier
+and production init/producer; selecting only packet.py is insufficient.
+
+Reviewed Rust pins (all under `software/v5/aggregate_claims`):
+
+| File | SHA-256 |
+|---|---|
+| lib.rs |350d08f5afdd3dbb53277547dd9e3fc5d93dbb138b99790481fcc2a6fca53c71|
+| header.rs |e4a3426b66506559a8ddb8eb9d06195af3d14676199e6f5a9251b7ff3ff550e1|
+| membership.rs |f3671d5305407f11109c5b30ea1f173216c475b2ddc0ba485a4097a266df22ba|
+| wire.rs |b3aa350bc0883a5a958ec67d856fb82183c65c9ff56ca9992f7d8e039c3859d8|
+| relation.rs |698e0e1bfacdad37fe1720881b2034083b357a2fbeef7b233d83e2f7c1eb6a49|
+| tests.rs |55f118ac7cd48c4c6c4ccd8139d8ae47f6eb7b8fa1484b91e917aa2a6fcefbdb|
+| graph_controls.rs |5eb665a22ee1ce7edd2160e6ba728a83c11f4aeb512a82bb52c6dab6fef43c62|
+| Cargo.toml |1e32f4dc5d43f55f0a819acd59d674b708cad9ef94c94e72c786d3470edbca1c|
+
+Reviewed Python pins:
+
+| File | SHA-256 |
+|---|---|
+| __init__.py |c9440183d92c887c4f6bac36f4bd51b7cf935ddf0f3f155aac8b8f1d48ad6540|
+| bindings.py |a6777395353f0421111cc2a2a0b06208dfbe4d60549899a70a42cda0bda9e543|
+| input.py |d40b611e288fd73a060df021809e403f80b1e6c16ca8b81ff2fd528d1f2fe61f|
+| admission_binding.py |2746704a28c180df0f549864a7c96b138110f0f6ff57e0de4aae66f198e059f3|
+
+The guest entry is unchanged source
+`d7b9b93843b683215e0556e585bc5ea241c672fe4c2a89cc07afa41afb81acad`:
+it verifies every returned exact assumption before committing the header.
+The parse-once census is path-reused at88e9796b, not copied/changed. Six new
+profile/wire/commitment/census groups and five graph groups are source-reviewed,
+explicitly synthetic structure rather than mathematical receipt evidence. The
+five earlier parse-once differential groups remain unrun and initially unlinked
+by this lib; root was advised to path-reuse them in this same fresh test binary
+rather than compile another successor later. This is a coverage planning choice,
+not a production defect. No build, control, guest, aggregate receipt or public
+variant-aware import outcome is established by this review.
+
+Root chose the single-binary16-group option. Revised lib
+`91fd74bc5ba9b78b017cb3d20d6a3cedaaaac294027300e87487097e23d6be25`
+adds only test-gated paths to old reference census and the five unchanged
+parse-once differential groups. Production code is unchanged. Fresh build
+controller `5d38b02e640b988eb943004fd0f814f84b8e798db4ed112dd77be13cb1b514b6`
+is source-cleared against the earlier reviewed thin builder. Its12-source
+snapshot contains8fresh files plus frozen native driver, old census, parse-once
+census and five-control source. Those cover all Rust source-relative paths.
+It compiles only aggregate rlib/tests/driver, preserving unchanged module/checker
+rlibs and all old runtime/envelope/finalization checks. Both final links use fat
+LTO; the driver uses the newly produced aggregate rlib. Exact root selection
+and actual outcomes remain separate; no old nine-group suite is selected.
+
+Exact root claims-build01 selection
+`f7a0dc9891a79817fab9bc318e2eaeeaf091413bc192d0dbb664d0ca118e236a`
+is independently cleared:209actual bindings match (12selected sources,
+19retained snapshot files,174recipe runtime pins,4retained artifacts), with
+fresh output/attempt absent at review. Three compile commands remain the sole
+selected work; no automatic test/guest/proof follows.
+
+Root control sources
+`binding_controls.py` at
+`1f41d83c3a7199d8cc189e9a44b1a17be2daecafd8f72481264f1d892aa45e5d`
+and `native_controls.py` at
+`b429d37282e9a1fd8b823b6fe4785ecc436e9bed5db5bffaae27811e404712bb`
+are source-cleared. The pure
+fifteen-group fixture explicitly calls its altered ranks synthetic; its v2
+header/membership/wire/status checks confer no proof authority. Actual controls
+require sixteen new Rust groups and exactly four bounded workers: unit binary,
+actual two-delta v2 relation, absent exact rank-variant target, invalid new proof.
+Positive exact member journals/pending assumptions/census/edge counts are compared
+to retained controls02, while newly changed commitments/paths are independently
+recomputed in Python. No old binary, author, network, receipt or guest call runs.
+The control explicitly pins all fifteen actually loaded product modules, including
+the eager delta/receiver/verifier/production closure. Each worker is30CPU/60wall
+at most, total reservation120CPU plus60ownerCPU/600wall; final files/config/runtime/
+reference/source checks and overriding finalization failure remain enforced.
+Actual compiled binary pins and exact control configuration are not yet reviewed.
+
+### Central merge defect: semantic module identity is not an exact warrant claim
+
+**Confirmed by source, without execution.** The current aggregate relation is
+soundly restrictive but is not closed under merging compatible honest proof
+branches. Root holds the parse-once build and any aggregate guest funding while
+selecting a correction. No current source/evidence is rewritten by this review.
+
+In `modules/receipt/src/commitments.rs::summarize`, the only ModuleSpec fields
+are schema, foundation, policy and groups. The summary contains foundation,
+policy, group count and group root. `journal.rs::summary` omits image and rank;
+the module digest hashes that summary. Theorem descriptors have a null
+`value_hash`, enforced in `native/checker/src/module_correspondence.rs`; the
+local proof syntax is independently checked but explicitly excluded from
+ModuleSpecID. `receipt/src/relation.rs` takes exact parent journals separately
+and computes rank as zero or one plus the largest parent rank. Therefore neither
+rank nor the proof-only parent choices are determined by ModuleID.
+
+A small valid mathematical scenario under the adopted foundation is:
+
+- H exports theorem h of type `forall P : Prop, P -> P`, proved by `fun P p => p`.
+  Its exact warrant J(H,0) has rank zero.
+- M exports theorem m of the same type, with its own distinct relative name.
+  Proof `fun P p => p` gives J(M,0). Alternatively proof `H.h` under the exact
+  H premise gives J(M,1). M's local descriptors and ModuleID are identical:
+  neither its exported type nor any transparent body mentions H.
+- X exports x of that type, using M.m under J(M,0), and has rank one.
+  Y exports y, using M.m under J(M,1), and has rank two. Distinct relative names
+  keep H/M/X/Y module identities distinct, apart from the two intended M claims.
+
+This construction does not rely on unused imports: each imported theorem is
+actually used as the local proof. It is a source/model counterexample, not a
+claim that these concrete serialized rows or receipts were executed/generated.
+Assuming genuine receipts for the two M claims, the intended batch has two
+frontier claim nodes J(M,0),J(M,1), two fresh deltas X,Y and two distinct targets.
+Every exact parent exists, every rank edge decreases, all four claim nodes are
+in target closure, and their mathematical interfaces are compatible. Equally,
+H,M0,M1,X,Y can all be fresh checked deltas, with X,Y as targets. Nevertheless:
+
+1. `aggregate_parse_once/relation.rs::Graph` and its predecessor key nodes by
+   ModuleID, so the second M variant is rejected as a duplicate/conflict.
+2. Delta parent lookup, reached-node accounting and target keys also use that
+   semantic identity rather than the exact parent journal.
+3. Rust `membership::leaves` and Python `bindings::_leaves` require strictly
+   increasing ModuleIDs; neither can commit both valid M variants.
+4. Python `input::encode` rejects duplicate frontier ModuleIDs. Targets are
+   presently only32B ModuleIDs and cannot distinguish fresh variants.
+
+This is not a false-acceptance attack. One can certify X and Y separately and
+then use their distinct module IDs, or reconstruct/recheck a branch against a
+different valid M claim. But these impose new certification or rechecking costs
+and invalidate an unrestricted efficient-merge claim. It is central to a large,
+independently evolving network, not a political/provenance corner case.
+
+**Recommended invariant:** separate semantic identity M from exact admissible
+claim identity W = (adopted relation image, exact184B journal). Under this fixed
+profile the journal already contains the image; full bytes or a domain-separated
+digest with exact-byte equality on lookup suffice. W is an existential warrant
+claim, not proof provenance: two different proofs giving the same exact journal
+need not have different W. Semantic descriptors, bodies and discovery remain
+shared by M. A bounded aggregate graph keys nodes and parent edges by W, retains
+the exact journal/rank checks and counts each selected variant against its finite
+member/edge/input budget. No global canonical/minimal rank or global history is
+needed, and no semantic equality alone may mint an exact warrant.
+
+Use a specified total order such as (ModuleID,exactJournalBytes) for commitment
+leaves, and exact claim targets (or an explicitly unambiguous selected-node
+reference). Exact duplicate claims may be rejected or coalesced by an explicit
+rule; do not silently union two derivation edge sets for one existential claim.
+Each single-module checker invocation may still select only one exact warrant
+per imported ModuleID, as its current namespace permits. Different invocations
+in one batch may select different valid variants. Closure and well-foundedness
+are over claim nodes; their semantic quotient need not be a DAG.
+
+The assurance induction survives unchanged: frontier claims follow genuine
+I/A receipt verification and exact membership; every delta discharges each exact
+established parent with a strictly lower rank and checks all new declarations;
+the aggregate commits the exact resulting claims. Claims with equal M but unequal
+rank cannot discharge each other's obligations. A rank variant cannot be created
+merely by editing J, lowering ranks or projecting an interface. New aggregate
+relation/image and matching encoders/commitments/controls require a separately
+selected successor; the retained controls02 baseline remains valid only for its
+original unique-ModuleID subset. No source-only argument establishes throughput.
+
+Root's adopted design choice refines the recommendation to full184B-journal
+graph keys, edges and targets, and strict lexicographic full-journal member order.
+That order is canonical despite little-endian rank not sorting numerically; no
+ordering proof needs numeric rank order. New header/input magic, versions and
+Merkle domains must be consistent in all implementations. Exact duplicate-claim
+refusal remains safe; preparation must select one derivation and honor a target's
+required fresh-delta role rather than silently replacing it by a frontier.
+
+The public-boundary audit confirms this issue is not isolated to the aggregate:
+`delta/receiver.py` already keys its graph by journal bytes but additionally
+rejects repeated ModuleIDs at frontier and delta insertion; `describe_member`
+selects by ModuleID. `delta/authoring02.py::use_handle` builds its inventories,
+pending nodes and retained `_nodes` by ModuleID and rejects alternate journal/
+payload/parent tuples even across different accepted packets. Legacy
+`authoring/imports.py` selects one receipt/journal per ModuleID; the conditional
+environment likewise keeps one exact claim per ModuleID. The last two can remain
+valid local-operation selection policies, but collective storage and batch
+composition must not confuse them with a global uniqueness theorem. The new
+public aggregate receiver/import interface needs a deliberate warrant selector,
+not a silent change to these frozen APIs. Existing ReceiptVerifier handle identity
+itself can distinguish multiple exact claims for one semantic module.
+
+### Aggregate execution seam: independent plan review
+
+Read the complete AGGREGATE-EXECUTION-SEAM.md and relevant retained SDK/session,
+module-host and receipt-verifier sources. The planned one-execution capsule route
+is coherent: full real I/A application verification precedes assumptions; actual
+session claim must equal the exact resolved A/header claim; complete
+`session.segments()` merges final output; actual assumption order is bound
+bijectively to preverified exact claims. A capsule remains an untrusted proving
+witness and never gives member admission. Fresh v2 relation/image/header binding
+must follow the separate claim-variant redesign; no host build/guest is cleared.
+
+The host author's explicit create-new bounded segment callback is a valid
+single-execution replacement for ambient temporary files: retained SDK `run()`
+delegates to `run_with_callback` with its own file-segment callback. The caller
+must still account for both retained segment files and final capsule bytes, and
+preserve partial files as diagnostics rather than advertise crash resumption.
+
+SDK `Session::claim` drops proven assumptions and specially excludes a pending
+Keccak-root assumption. My initial suggestion to check `session.pending_keccaks`
+directly was not API-valid: the field is `pub(crate)`. Independently reviewed the
+author's correction. SyscallTable initializes that list empty; its only append
+is in `SysKeccak::keccak_prove` when no coprocessor callback is installed. A
+supported `CoprocessorCallback` whose `prove_keccak` always returns an error
+therefore excludes a successful unsupported Keccak request without producing any
+proof or changing the SDK. It fails earlier than a post-run emptiness check, so
+resource/diagnostic equality is not claimed. Preserve the exact actual-assumption
+bijection and MMR/PoVW refusals independently. No native/guest timing prediction
+follows from these source-level findings.
+
+Completed host source review at
+`7548e5b2092f3ece5d9ef93cef6c7ccd7d5e01ad123053f28e836558617857ca`
+and API documentation
+`d53d24a0e111b01c7016a258b9cb23a99cda3d4911c6ce7a57ad35f1de310dfa`:
+no source-level acceptance blocker found. Public SDK callback/reexports are
+present. The host checks actual ELF=A, exact native-derived header, genuine
+preverified I/A receipts, one actual execution, exact resolved session claim,
+all actual assumptions and complete consecutive segments. Its callback keeps
+at most64MiB total raw segment files, final capsule64MiB and diagnostic8MiB,
+not a hard OS quota. New paths are create-new with normalized absolute no-reparse
+ancestry and fsync; partial files survive failure. Optional sampling saturates
+nonfatally. No callback receipt, saved report or segment can grant admission.
+Success requires exact final receipt verification separately. Resource ceilings,
+source/ELF correspondence, trusted-owner isolation and executable selection still
+belong to root; no actual host build, aggregate image or execution is cleared.
+
+Root's inert `aggregate/admission_binding.py`
+`7d60da8bc7b22fe65789f903485f837ee52f4f36c2f75f9d98d09198c39f1b41`
+also matches the host's exact six-field verify contract: bounded strict parsing,
+selected image/exact header, actual receipt bytes/hash and no extra fields.
+It intentionally can accept fabricated success-shaped JSON and grants no
+authority; the future owner must bind this to the same actual supervised verified
+call and selected member opening. No persisted report cache is an alternative.
+
+### Parse-once thin build and controls source clearance
+
+Exact compile selection
+`28625e62a7fc8cb6640c0a5cc52194e0e69360f437998650b6e8f95c25a33a6a`
+and controller
+`7299aacdfbba7f24e79d24a64e597ba8d438349d9a327528e51c67321c950164`
+are independently source-cleared. Read the complete selected controller, retained
+four-command recipe and reused phase/Job implementation. The selected successor
+executes exactly three commands: changed aggregate rlib, test binary, native
+driver. It reuses the successful unchanged module/checker rlibs; restores fat LTO
+on both final links; changes only the selected source/output/aggregate-extern
+bindings. Shared support and old snapshot stay unchanged. All205 checked
+canonical/snapshot/runtime pins match and the selected output did not yet exist.
+Worker limits remain one cumulative240CPU/240wall phase,3072MiB,6active processes;
+controller60CPU/total600wall and1GiB output remain distinct. Owned exact VCTIP
+cleanup is inherited; it is not permission to terminate arbitrary processes.
+
+Controls source
+`4a95fee974a069a1f5d4f3f9fe19eddf521260e4a979086bf14e1e8ed3811274`
+is independently source-cleared, not executed. It loads only stdlib and pinned
+adopted supervisor modules, avoiding the prior eager v5 import-closure error.
+Actual executing `__file__` remains a mandatory runtime pin; removing its canonical
+source-path equality permits the selected immutable controller snapshot without
+weakening that byte binding. Exactly one filtered test call must show5new passes
+and9filtered old groups; two new native calls must match retained controls02
+positive and invalid-proof stdout byte-for-byte. Thus3workers/at most90CPU,
+60ownerCPU/600wall; no old executable, proof, receipt or network call. Inputs,
+copied fixtures, references, selected runtime and supervisor are rechecked at
+finalization. Exact new binary/config selection still requires independent
+review after build. No measured speedup or guest/prover affordability is inferred.
+
 ### Retained-network continuation01 actual PASS
 
 Outer RESULT SHA

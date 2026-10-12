@@ -296,3 +296,64 @@ This memo resolves the reusable execution mechanism, not those empirical or
 deployment obligations. See [affordability analysis](AFFORDABILITY-NEXT.md) for
 the central cost decision; that analysis and parse-once implementation have a
 separate owner and are not duplicated here.
+
+## Root-selected source implementation, pending independent review
+
+Root subsequently selected only a fresh snapshot/verify adapter, not a full
+stage producer or any build/runtime. Source is
+`software/v5/aggregate_host/aggregate_host.rs`, SHA-256
+`b2cbfe362de540ec05cf1c8eed81974c4b332943c03b0fc48ad1faa7ae430742`
+(18,599bytes). Exact CLI/result/capsule and resource semantics are in adjacent
+`API.md`. This implementation refines the earlier plan in three concrete ways:
+
+- Uses the existing SDK `ExecutorImpl::run_with_callback`, which `run()` itself
+  delegates to, with a small private exact-hash SegmentRef. Segment custody is
+  explicit create-new/fsynced files in `<capsule>.segments`, at most128files and
+  64MiB total. It still collects the final `session.segments()` result; no full
+  session replay is added. Partial files are not falsely called resumable sessions.
+- Adds explicitly selected `stats` versus `pc-samples` mode. The default
+  recommendation is exact session/per-segment statistics. Optional partial PC
+  sampling is same-run and saturating, never a second diagnostic execution or
+  reason to abort successful mathematics on sample-storage saturation.
+- Stable verify stdout is the root-agreed six-field
+  `DMKN_AGGREGATE_VERIFY_RESULT_V1` result. It appears only after full real
+  `receipt::verify_aggregate`; it makes no selected-member authority claim.
+
+The retained base snapshot was read without running it:21,274,865bytes,
+110segments, SHA256
+`55eaa583ddfde8ebe827bfa941fcb81b95f9773fd2b2e295df2166501d973980`.
+This supports keeping a bounded64MiB initial capsule ceiling, not predicting
+aggregate size or increasing any old guest allocation. Capsule+segment+diagnostic
+application outputs total at most136MiB, with owner logs/input/runtime separate.
+
+Only exact typed pending claims and actual claim digests are matched by the
+host. It adds no ModuleID uniqueness/rank-equivalence rule. Root's current
+aggregate semantic audit and resulting relation selection remain prerequisites
+to compilation or execution; the stable ConditionalConclusion API is preserved.
+This lane has run no build, test, guest, proof or Git operation.
+
+### Exact-warrant profile and unsupported coprocessor refinement
+
+Root selects version2 exact-warrant graph/target identities via fresh
+`aggregate_claims/`: full184-byte journals,192-byte `DMKNA002` header and
+`DMKNAI02` wire, same ConditionalConclusion/PendingAssumption API. The host
+imports that selected crate API without embedding the old aggregate magic or
+ModuleID uniqueness. Its distinct `DMKNAS01` capsule version1 stays appropriate
+because its binding includes the exact header and actual adopted A.
+
+Fresh host source after this source-only refinement is19,158bytes, SHA256
+`7548e5b2092f3ece5d9ef93cef6c7ccd7d5e01ad123053f28e836558617857ca`.
+The earlier source hash above was never built or executed.
+
+Independent assurance requested explicit exclusion of pending Keccak proof work:
+the SDK's `Session::claim` can specially remove that pending root, so relying
+only on resolved claim equality would describe broader staging support than we
+provide. `Session.pending_keccaks` is private to the SDK crate. The supported
+public `coprocessor_callback` now installs an always-error callback. Assurance
+confirmed from exact SDK source that the pending list starts empty and the sole
+enqueue path is the callback-absent branch of `SysKeccak::keccak_prove`.
+Consequently any requested Keccak proof fails earlier; no successful exported
+capsule carries unhandled pending work. This performs no coprocessor proof and
+changes no SDK. Actual proved-assumption bijection and MMR/PoVW refusals remain
+independent checks. Assurance also confirmed `run()` delegates to the used
+`run_with_callback` mechanism. Full adapter source review remains separate.

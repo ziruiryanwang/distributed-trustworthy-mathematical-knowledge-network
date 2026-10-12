@@ -1,5 +1,115 @@
 # Current research desk
 
+**2026-10-12 proof-validation integration build selected.** Exact independent
+review clears selection948c505ea10547885cf316ff0ecc336df459c625fa671f185f6659ebc298e9f9:
+33source pins, four native compiles, original240workerCPU/phase-wall,
+3072MiB/6active,60controllerCPU/600totalwall. Root launches once using
+D:\Python314; no test/native application/guest/proof is included. Stable
+source checkpoint preserves known trailing blank lines because those bytes
+are already evidence-bound, not a reason to rewrite passing source snapshots.
+
+**2026-10-12 public exact-warrant controls independently adopted.** All25
+synthetic groups passed in delta-claim-controls01 with57 actual bindings checked,
+0.703125 inclusive JobCPU plus0.359375 wrapperCPU,1.8895966wall and clean closure.
+This covers graph/selection/lifetime behavior, not real new-package authoring or
+aggregate receipt admission. Root prepares proof-validation integration build01
+948c505e (33sources,4compiles), after independent source review; exact review
+precedes launch. Root's aggregate_guest three-manifest overlay is source-only,
+not a build/image selection. Public mixed I/A admission contract is in progress.
+
+**2026-10-12 current: exact-warrant native boundary adopted; integration next.**
+Claims-controls02 independently passes the corrected single test group and the
+three previously unrun native calls (actual two-delta acceptance, exact-target
+refusal, invalid-proof refusal). Cost: 4.25 inclusive Job CPU plus 0.359375
+wrapper CPU, 6.6072433 wall seconds; clean closure. Its evidence composes with
+controls01's 15 Python/15 Rust successes; the original overall FAIL is retained.
+Root now selects delta-claim-controls01, SHA d3a85d4401d4a100a00a475299341ac436ceddbf04aaf184ce71e0b2f764a6fb,
+after exact independent review of all39 bindings: 25 synthetic public API
+controls only, 30 CPU/60 wall/512MiB/2 active processes. No native, receipt,
+authoring, guest or network invocation belongs to this operation.
+
+Root also adopts the four-compile proof-validation integration plan. Base owns
+its fresh thin checker root/build adapter, not runtime; author owns the minimal
+aggregate public-admission contract; assurance reviews these changed boundaries.
+No repeated proof production or unchanged network campaign is selected. Both
+central priorities and all six v5 release obligations remain open and ACTIVE.
+
+**2026-10-12 parallel narrow checks independently adopted.** Proof-validation01
+passed12syntax groups:14.046875workerCPU+1.984375controller/20.516386wall;
+no actual kernel/guest/proof run. Refusal-build01 passed its1test-only compile:
+29.96875worker+1.953125controller/37.7164956wall. Both cleanly closed, all changed
+bindings audited, recent unchanged runtime evidence reused. Root now selects
+claims-controls02 a573f8d1/config96ec18d1 after78binding review:1correctedgroup
+and3previously-unrun nativecalls on retained production driver; no repetition
+of the earlier15Python/15Rust passes. Their original overall FAIL is preserved.
+The full-checker optimizer integration plan is source-only; no build selected.
+
+**2026-10-12 focused controls: preserved test defect, two independent checks.**
+Claims-controls01 is terminal FAIL: independently audited94bindings,15Python
+and15Rust groups passed; one Rust fixture wrongly expected the schema error
+after a malformed body had already failed exact-field extraction. Old/new
+outcomes and census matched before that assertion. Zero native calls ran.
+Cost4.125inclusive JobCPU+.375wrapper/5.794745wall; clean closure. No production
+source defect is shown and no passed group will be repeated.
+
+Root adopts independent source/exact review and selects parallel operations:
+refusal-build01 d97ae513 (one test-only compile for the corrected single group,
+retained module rlib; no product rebuild) and proof-validation-controls01
+ff93202e (one serde-only compile plus12syntax differential groups). Correct
+D:\Python314 for both; separate original finite envelopes/outputs. Remaining
+3aggregate native calls await the corrected test binary and separate selection.
+Variant-aware public imports including explicit complete-derivation resolution
+have source clearance,25synthetic controls still unrun. No guest/proof funded.
+
+**2026-10-12 v2 aggregate native build independently adopted; controls selected.**
+Build02 passed all3compiles with230actual bindings, no finalization/closure error,
+61.1875workerCPU+2.359375controller/74.8305412wall. No checker/module rebuild.
+Root now selects controls01 exactlye11f3203/configc35f7ed1 after77binding review:
+15inert Python groups,16new Rust groups and3native calls (retained mathematics
+under v2; incorrect exact target; invalid proof),4workers total. No old binary,
+authoring, network, receipt verification, guest or proof. Public import source
+will add explicit whole-derivation conflict resolution before its first tests;
+validation-only traversal source is complete awaiting separate review/control.
+
+**2026-10-12 build invocation correction, no source retry.** Build01 failed
+before any compiler/output at PINNED_PYTHON because root selected the controls
+interpreter. Its failure is retained in CLAIMS-BUILD01-PREWORKER-FAILURE.md.
+Independent delta review clears fresh build02 selectiond84d0161: identical
+12source pins/budgets, only fresh output name and correct D:\Python314 invocation.
+Root launches its3thin compiles once. Existing209binding review is reused;
+no aggregate guest, proof, network, test or successful recompile is selected.
+
+**2026-10-12 exact-warrant native build selected.** Root adopts independent
+source review of Rust v2/full-J Python bindings and the parse-once refinement,
+then exact selectionf7a0dc98 (209bindings). Launch only claims-build01's3thin
+compiles, reusing retained module/checker libraries with final fatLTO. Its
+original240workerCPU/600wall bounded envelope is unchanged; no test/guest/proof
+or host compilation is included. Sixteen new structural/differential Rust
+groups and15inert Python groups are source-reviewed for a subsequent separate
+selection. Public variant-aware imports and conservative no-proof-tree-allocation
+source work proceed in parallel; neither is runtime-qualified yet.
+
+**2026-10-12 central design correction: exact warrants, not semantic IDs.**
+The reviewed parse-once build selection28625e62 is HELD and has not run.
+Source reasoning exposed a compatible-branch refusal: one semantic ModuleID
+can have valid proofs with different exact journals/ranks. Keying aggregate
+nodes and targets by ModuleID wrongly excludes their joint descendants. Root
+selects fresh aggregate_claims/ v2: full184-byte exact-J nodes/edges/targets,
+lexicographic J membership, DMKNA002/DMKNAI02 and separate V2 hash domains.
+Repeated ModuleIDs are allowed; duplicate exact J is refused. All fixed
+foundation/policy/image, exact-parent, strict-rank and mathematical checks stay.
+The48member cap counts warrants, NOT knowledge growth; semantic identity and
+capability accounting stay separate. No alternative proof-edge union or
+arbitrary rank substitution is allowed. Reuse reviewed parse-once source;
+do not spend a build on the superseded v1 selection.
+
+Root owns Python v2 bindings/preparation and integration. Base owns Rust v2;
+author owns the separate public delta/import variant-aware successor, whose
+existing receiver separately rejects repeated semantic IDs. Assurance reviews
+both independently. Snapshot/verify host source7548e5b2 now has independent
+source clearance, not build/guest/proof authority. No runtime is live. Full v5
+release and both central priorities remain ACTIVE; this is not a guide task.
+
 **2026-10-12 genuine onward-sharing continuation independently adopted.**
 Retained-reader continuation01 passed:229actual bindings, unchanged immutable
 old reader1 databases, exact same packet/13groups/11bodies in new origin,

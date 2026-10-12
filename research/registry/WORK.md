@@ -4,6 +4,39 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-12 current integration slice: root adopts claims-controls02 and owns
+delta-claim-controls01 exact selection/launch, whole-system economics, Git and
+future guest decisions. Base owns fresh proof_validation/lib.rs and integration/
+build adapter plus minimal retained actual comparison, checkpoint
+PROOF-VALIDATION-INTEGRATION.md. Author owns only source/theory
+AGGREGATE-PUBLIC-ADMISSION.md before root implementation adoption. Assurance owns
+exact/actual public controls then source review of the four-compile adapter in
+ASSURANCE.md. All checkpoints research/cycles/v5-2026-10-12; sole canonical root
+E:\Distributed Trustworthy Mathematical Knowledge Network. No subagent runtime
+or Git, guest/proof investment, or duplicate passing-campaign execution.
+
+2026-10-12 current refinement: claims Rust/Python and focused control sources
+independently reviewed. Root's first build invocation hit pinned-interpreter
+refusal before any compiler; preserve CLAIMS-BUILD01-PREWORKER-FAILURE.md.
+Root prepares fresh build02 with same source/budget and required D:\Python314,
+then claims-controls01; root alone owns these launches. Base now implements
+the principle-adopted private validation-only theorem traversal in fresh
+modules/native/proof_validation/, checkpoint PROOF-VALIDATION-PLAN.md (no build).
+Author continues variant-aware public delta/import; assurance reviews exact
+selections and disjoint source changes. No guest or proof operation selected.
+
+2026-10-12 latest source-only correction: root holds parse-once build28625e62
+and owns aggregate_claims Python bindings/input/admission glue, live desk/Git
+and exact future launch decisions. v5_base_actual_audit owns only fresh Rust
+aggregate_claims/ and AGGREGATE-CLAIM-VARIANTS.md: exact-J graph/member/target
+repair reusing parse-once, plus focused control proposal. v5_receipt_source_loop
+completed independently source-reviewed aggregate_host snapshot/verify; now
+owns VARIANT-AWARE-PUBLIC-IMPORT.md and fresh delta_claims/ after sound API
+design. v5_integration_assurance owns independent theory/source reviews in
+ASSURANCE.md. All checkpoints under cycles/v5-2026-10-12, all shells/edit paths
+canonical E:\Distributed Trustworthy Mathematical Knowledge Network. No
+runtime, guest/image/proof or old successful-campaign replay selected.
+
 2026-10-12 latest adoption: root adopted independently audited onward-sharing
 continuation01 PASS; session58433 terminal/reaped and no runtime live. Root owns
 exact upcoming build/control inputs, public integration/affordability and Git.
