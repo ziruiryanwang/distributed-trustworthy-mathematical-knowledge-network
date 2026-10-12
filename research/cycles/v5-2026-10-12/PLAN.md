@@ -1,5 +1,34 @@
 # V5 resumed: genuine modular use and economical reciprocal growth
 
+## Explicit post-guide resumption: real v5 implementation
+
+The user revokes the documentation pause and insists on the full working v5.
+The guide and retained base-production audit are complete; do not repeat them.
+The previous goal turn was progress (delivered documentation and adopted new
+artifact evidence), not release completion. Starting Git checkpoint876df8a;
+only the preserved unrun integration draft is outside that checkpoint.
+
+Current critical path:
+
+1. Close the actual trust-to-authoring seam using the real retained receipt,
+   public live verifier/import APIs and ordinary-source child preparation.
+   Resolve the process envelope from evidence before one finite runtime.
+2. Implement affordable bounded native-delta reuse above certified frontiers,
+   with a distinct authority class and complete uncertified dependency closure.
+   Do not make another expensive certificate the default path for each theorem.
+3. Connect that usable mathematical contribution to unknown-ID discovery,
+   independent custody and fresh return-use. Preserve aggregate budgets and
+   coverage. Locate missing public seams rather than repeating component tests.
+4. Justify full-cost benefit against optimized local and ordinary shared-library
+   comparators using conditional bounds first and targeted implementation costs.
+5. Close the remaining public operability, assurance and reproducible-release
+   obligations; existing license/independent-host constraints remain visible.
+
+Ownership is live in WORK. No runtime is selected by this plan alone. Preserve
+used sources; a justified changed checker/controller requires a fresh successor.
+The earlier pause notice and selections below record history, not current stop
+authority. Full goal remains ACTIVE; no new pause without explicit user direction.
+
 **Superseded for current execution:** the latest explicit user request is a full
 theoretical architecture guide followed by a pause. Finish in-flight read-only
 evidence review, preserve any unrun draft, and select no integration/runtime.

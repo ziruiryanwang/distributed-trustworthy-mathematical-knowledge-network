@@ -1,5 +1,49 @@
 # Current research desk
 
+**2026-10-12 independent receipt/source outcome adopted; bounded delta next.**
+Root read/adopts ASSURANCE's actual integration audit: all107 bindings hold;
+real base admission, proof-level imported binary_congr reuse and retained child
+preparation are supported. The raw snapshot failure remains failure, not child
+admission. No successful stage is repeated. Fresh delta native/packet/receiver
+and181 build-input pins pass independent source review; build_native.py is now
+under review, not launched. Root prepares one retained-dependency compile;
+parallel authors finish actual delta acceptance and ordinary delta authoring.
+The cheap local delta route is justified by induction over a bounded complete
+uncertified DAG above genuine receipt frontiers. Only a real certificate cuts
+transferable proof ancestry. Full v5, scalable discovery and full-cost useful
+growth remain the destination; guide/pause work is superseded and complete.
+
+**2026-10-12 actual receipt/source endpoint reached; snapshot cap refused.**
+Session93713 terminal exit1, outer13.515625CPU/44.03wall, clean closure. Genuine
+base ReceiptVerifier admission and ordinary-source author+actual binary_congr
+reuse succeeded; host prepare retained actual child4adbc049,1group/1theorem,
+1355relation rows. Parent-aware guest snapshot cleanly refused2^25 cycles at
+33557665; no child capsule/certificate. Independent outcome audit is assigned.
+No successful prefix is repeated and no cap increase/proof campaign is selected.
+Root prioritizes real native-delta acceptance of this retained child and fresh
+ordinary delta authoring: bounded complete uncertified closure over real receipts,
+distinct authority and same unchanged relation. The full network/growth/release
+goal stays ACTIVE, not reduced to this endpoint. Guide work is finished.
+
+**2026-10-12 real receipt/source integration selected:** root launches exactly
+selection6efbbc8e with profilecd7a4bfa/config8199b31a, after independent complete
+source/pin review. One real cold base admission, ordinary live imported-context
+Lean authoring, actual reuse inspection and one parent-aware child snapshot;
+zero child proof or network calls. Full v5 remains the goal. Prior small process
+probe raw FAIL is preserved; independent retained records prove launch fits
+unchanged cap2 (report-reader bug is not inherited). No probe rerun/cap widening.
+Affordable native-delta receiver/authoring design proceeds independently.
+
+**2026-10-12 explicit continuation: REAL V5, not guide work.** User revokes pause;
+goal service ACTIVE. Git876df8a records completed guide/audits. Prior turn made
+documentation/evidence progress, but v5 remains unfinished. Retained final base
+receipt is independently audited; do not repeat production. Root selects resumed
+unrun receipt-to-source harness finalization/exact finite integration preparation;
+assurance resolves real process-envelope compatibility and source bindings;
+former base auditor now develops economical bounded-delta reuse feasibility.
+No runtime has yet launched. See PLAN continuation and WORK. No pause or release
+claim follows merely from closing one endpoint. Earlier pause entries are history.
+
 **2026-10-12 guide complete; user-requested PAUSE.** The single full-system
 [guide](../notes/V5-ARCHITECTURE-GUIDE.md) is updated and independently reviewed.
 Root read/adopts the completed BASE-PRODUCTION-AUDIT: recorded final receipt and

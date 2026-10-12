@@ -1,5 +1,12 @@
 # Goal: a usable mathematical commons architecture and software
 
+**Explicit resumption after guide, 2026-10-12:** the user directs continuation
+toward the REAL final v5 software and revokes the pause below. The guide is
+complete, not the active task. Resume implementation, theory-led economical
+reuse, scalable discovery and full reciprocal operation; no narrower component
+pass constitutes release. The goal service is ACTIVE. Do not pause without a
+new explicit request. Preserve completed proofs and all used evidence.
+
 **User-requested pause, 2026-10-12:** the clear, full theoretical candidate
 [architecture guide](notes/V5-ARCHITECTURE-GUIDE.md) is updated and reviewed.
 Work pauses after the documentation checkpoint; the full v5 objective remains

@@ -4,6 +4,37 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-12 continuation: root adopts the independently checked integration prefix
+and retained snapshot failure, owns fresh delta/build_native.py and exact finite
+build selection. v5_base_actual_audit finishes receiver review corrections then
+owns fresh delta/actual.py for genuine retained-child acceptance/refusals;
+v5_receipt_source_loop owns delta/authoring.py+authoring_api.md; assurance owns
+independent source/build/actual reviews. No duplicate base audit, successful
+prefix rerun, guide continuation or automatic cap widening. Canonical root remains
+E:\Distributed Trustworthy Mathematical Knowledge Network; checkpoints October12.
+
+2026-10-12 current consequence: real base admission/source/prepare reached,
+snapshot limit refusal retained; root session93713 terminal. Assurance audits
+actual outcome then reviews new delta source/build. v5_base_actual_audit owns
+delta native/packet/receiver/API+native-free control drafts and fresh build
+proposal; v5_receipt_source_loop now owns ONLY fresh delta/authoring.py and
+delta/authoring_api.md to compose distinct live delta authority into ordinary
+Lean authoring. Coordinate verified-member inventory with receiver owner; no
+forged receipts and no uncertified ancestry cutoff. No subagent runtime/Git.
+Root integrates actual endpoints and selects finite, theory-justified execution.
+
+2026-10-12 explicit user resumption AFTER guide: full v5 ACTIVE, no guide task.
+Root: exact integration/profile/runtime choices, full network/growth direction, Git.
+v5_receipt_source_loop: finish unrun authoring/receipt_integration.py and exact
+finite config/profile proposal; checkpoint RECEIPT-SOURCE-LOOP.md.
+v5_integration_assurance: process-envelope evidence and independent source/exact
+selection review in ASSURANCE.md; no runtime/frozen-source edits.
+v5_base_actual_audit: earlier audit finished; new economical native-delta design
+and implementation feasibility in ECONOMICAL-REUSE-IMPLEMENTATION.md; fresh
+software/v5/delta/ only after root adopts viable design. No duplicated audit.
+All checkpoints under research/cycles/v5-2026-10-12/, canonical root explicit.
+Root alone Git/runtime; all used source/evidence retained. No guide continuation.
+
 2026-10-12 full theoretical architecture guide COMPLETE; user-requested PAUSE.
 Root owns final documentation Git checkpoint and goal pause. Base actual audit,
 authoring/full-cycle guide review, and whole-guide/update assurance review are
