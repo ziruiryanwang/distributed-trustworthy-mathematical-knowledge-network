@@ -1,0 +1,17 @@
+{
+  "schema": "DMKN_V5_AGGREGATE_GUEST_COMPILE_V1",
+  "name": "aggregate-guest-compile-01",
+  "source": {
+    "bytes": 17854,
+    "sha256": "d8e4bd4c9df8ac3fc8e8b1a4f5eb62333ce97817e954fcd08f1e3e687fc35c0b"
+  },
+  "limits": {
+    "worker_cpu_seconds": 1794,
+    "controller_cpu_seconds": 134,
+    "wall_seconds": 1653,
+    "memory_mib": 4096,
+    "active_processes": 8,
+    "combined_working_bytes": 17179869184
+  },
+  "authorizes_compile_and_owned_telemetry_cleanup": false
+}

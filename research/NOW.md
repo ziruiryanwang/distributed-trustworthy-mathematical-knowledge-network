@@ -1,5 +1,43 @@
 # Current research desk
 
+**2026-10-12 independent actual audits adopted; retain compiled work.**
+Mixed12controls PASS is independently adopted (RESULTc376471d,46source bindings);
+no realreceipt/nativeguest was invoked. Compile audit confirms all39frozenproject
+files and selected ELF/map/logs match, one release build-finished:true, cleanzero
+closure. Overall resource operation stays FAIL_FINALIZATION. The original two
+attempts have228workerCPU and195.203125reportedcontrollerCPU, exceeding the180
+combined controller allowance; report/exit tail excluded. Root selects fresh
+small artifact-revalidation SOURCE ONLY:30CPU/60wall/512MiB/2active, no fullSDK
+rehash/census, no compile. Base implements explicit new adoption record and unused
+assembler integration; assurance reviews. Original failure marker is never
+ignored, removed, or converted to a successful resource-envelope result.
+
+
+**2026-10-12 compiled guest retained; resource finalization FAILED, not PASS.**
+Session72234 is terminal/reaped. One offline compile exited0 and closed:
+222.640625workerCPU/197.9885544phasewall; ELF8aa35bf0 (1682292bytes),
+linkmap2292e7fa. Full final rebind/registry checks completed, but final census
+tail exceeded the134controllerCPU allocation:149.640625reported,401.1168187wall.
+RESULT81cce68d's intermediate PASS is overridden by FINALIZATION-FAILED.json
+(REMAINING_TOTAL_ENVELOPE). Do not assemble from that apparent PASS. Root selects
+source-only design of a fresh small retained-artifact validation/adoption record,
+with original failure/cost retained and NO recompile; assurance audits actuals.
+Mixed receiver's12synthetic controls completed exit0/closed, pending actualaudit:
+0.96875JobCPU+0.328125wrapperCPU,3.1158484wall. First-phase sources now usedfrozen;
+author proceeds with selected fresh import/session/authoring source phase.
+
+
+**2026-10-12 compile-only continuation selected after exact independent review.**
+Root adopts selection19fef22ed3323d963349d67c131cea7a7b1dea8de82321be9ef2c33ffe06b7cd
+(661bytes). One offline compile, no graph rerun, immutable old38sources+lock,
+fresh private cache/target; exactly four expected lexical path fields corrected
+before whole-graph comparison. Original unspent1794workerCPU/134controllerCPU/
+1653wall,4096MiB/8active,16GiBcombined envelope; invoke D:\Python314 only.
+This does not include assembly, guest execution or proofs. About2.8GiB physical
+RAM is currently free; do not overlap another large build/execution. Independent
+source/mock-control work can continue. Used predecessor failure is unchanged.
+
+
 **2026-10-12 aggregate admission controls adopted; mixed source underway.**
 All17synthetic groups independently PASS in aggregate-admission-controls01,
 RESULTcf0faa4a6984675410ba47131b8476b890528aa80d01ec1c6cce67e3481b702d:

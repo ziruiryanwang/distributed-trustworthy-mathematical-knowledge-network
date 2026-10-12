@@ -4,6 +4,16 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-12 latest: no runtime live. Guest compile72234 produced the exact ELF but
+failed final controllerCPU envelope; do not recompile or use old assembly gate.
+Base owns minimal retained-artifact validation/adoption source proposal and
+PC-ATTRIBUTION.md. Assurance owns actual compile/finalization audit and12group
+mixedreceiver audit. Author owns only new mixed_claims imports/authoring/session
+controls; first packet/receiver/control files are usedfrozen. Root owns fresh
+finite adoption/assembly/snapshot decisions, fullcost integration and Git.
+All paths/checkpoints remain canonical October12. GoalACTIVE; no guide/pause.
+
+
 2026-10-12 current resumption: root owns finite selections, cost decision and
 Git; source-only aggregate admission controls can proceed independently of the
 guest failure. Base owns saved-graph diagnosis and minimal successor proposal
