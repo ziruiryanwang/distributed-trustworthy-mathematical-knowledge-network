@@ -2,6 +2,212 @@
 
 ## Explicit implementation resumption after guide delivery
 
+### Actual network01 outcome: independently audited FAIL, no math attempted
+
+Root reports session73832 terminal and reaped. Saved outer RESULT
+`09f4ebfc23bec4d773ef7c84b9c35904830ad16d8ba5a4f10a642d73dd2ad279`
+and inner RESULT
+`367be7f9ae7fe13fd2e3ca3af9f734184d9647d2cbbea76a844b5f7021e67706`
+independently establish failure at `NETWORK_NO_LOCATED_INDEX_CONTACT` in reader1.
+All 210 selected actual bindings still match, now including the actual Python
+snapshot files. Copied selection is exactly1718ca6b; config86dbacee remains
+unchanged. No FINALIZATION-FAILED marker exists; the raw outcome is simply FAIL.
+
+Origin built structural custody with13groups/11bodies and no missing committed
+values, then reported ADVERTISED_HINT for rendezvous4ae286d8. Reader1 actually
+joined the neutral bootstrap but its sole route returned an empty peer list.
+There was no descriptor request, HTTP search/acquisition, receipt owner, delta
+owner, mathematical check or admission. Reader2 and replica were never created;
+origin loss and the typed descriptor-recovery seam were never exercised. An
+advertisement status is therefore not evidence of successful distributed lookup.
+The exact underlying DHT/topology cause is not established by these records.
+
+All3Node controllers closed with exit0, unchanged role/source pins, successful
+5896-file runtime pre/post checks, no channel failure or forced termination.
+Their raw stderr reports LOCATION_IPC_CLOSED, zero live transport connections,
+zero descriptor-unavailable events and no exhausted transport allowance. Origin
+HTTP had0requests/0failures/0active; cleanup errors are empty. Outer Job reports
+5total processes,0active,0terminated, direct-child reaped and Job closed, exit1.
+No proof or admitted artifact was produced or relabeled.
+
+Actual cost:21.578125 inclusive Job CPU plus separate0.703125 wrapper CPU,
+90.4038063 outer wall seconds,533635072B peak Job private commitment. Inner
+controller18.015625CPU/88.4697278wall is already inside the outer Job cost.
+Bootstrap's first full runtime hashing used69.6194914wall;405seconds remained
+before reader1 startup, so the failed empty route is not a deadline exhaustion.
+All source/config/evidence stays frozen. No retry, cap renewal or automatic
+successor was selected by this audit.
+
+### Aggregate input encoder: source correspondence cleared
+
+`aggregate/input.py`
+`5c5d51403bb00234f5843a1b6ca4109195285e292bdcdcc08f07ae94c7b0a226`
+matches Rust's DMKNAI01/v1 wire: image/counts, tagged184B-I or192B-A claims,
+frontier claim indices/member openings, raw target ModuleIDs, and u32LE-length
+witness frames. It checks finite list/wire bounds, unique/used claims, exact
+legacy or aggregate frontier binding and duplicate frontier modules. It does
+not claim topological validity, new-target validity or mathematical correctness;
+the actual Rust relation checks those independently.
+
+`from_legacy_packet` correctly compares canonical summary bytes (the existing
+packet parser returns bytes, not a summary dictionary), preserves exact pending
+receipt/journal pairs and canonically encoded mathematical witnesses. It does
+not validate the receipt-to-journal claim. Real host verification and resolved
+guest assumptions remain mandatory. No encoder/test/compile/runtime was run.
+
+### Aggregate host receipt boundary: standalone source clearance
+
+Root's unlinked `aggregate/receipt.rs`
+`41db7677d40af4fd779159e8442724bff7842b7f4e5745411e5846d8e7678254`
+uses the same real-cryptography profile as the retained module host: bounded
+fixed-integer bincode with trailing-byte refusal, genuine Succinct Poseidon2
+only, no RISC0_DEV_MODE variable, explicit verifier dev-mode=false. The retained
+SDK implementation was inspected: verify_with_context performs real integrity
+verification and compares the exact ReceiptClaim::ok(image,journal digest),
+including successful exit and resolved assumptions, not integrity alone.
+
+Pending claims must be the fixed I member statement or the independently
+adopted A aggregate header. Exact pending journal bytes are compared to the
+real verified receipt. Final aggregate verification first binds expected
+header.A to adopted A, then genuinely verifies that image and exact header.
+VerifiedReceipt fields are private and accessors immutable; structural helpers
+or serialized success reports cannot construct it through this module's API.
+This is not a session/expiry implementation. Consumer adoption/lifetime policy,
+hostile-deserialization memory/CPU containment, complete producer resolution,
+linking/build/execution and a public aggregate member receiver remain separate.
+
+### Actual network01 source and exact selection: cleared, not yet executed
+
+Reviewed the complete `delta/network_actual.py` successor SHA256
+`1d3a7802790186a7ceb929fecc2bcdd99bc72a46049ce23f0f0795b379b4ea2c`
+and `network_actual_api.md`
+`c4675e6f61284292e672a51c6704ebb68b8b6ae9053759cc53602a4de982ac57`.
+Before use, review corrected the missing post-report original-deadline check
+and a reader2 local-variable shadowing defect that would have replaced custody
+evidence with the last body response. The final source retains operation error
+separately when cleanup also fails and uses a FINALIZATION-FAILED override.
+
+The source has two fresh genuine receipt/native owners, not transferred live
+handles. Reader2 first obtains the real origin route; only then does the harness
+close origin HTTP/Node/stores and start replica from reader1 custody. Reader2's
+same channel and prepaid grants charge the stale descriptor and route again.
+The first actual returned formal candidate is selected without target/provider
+ID injection. Expected retained identities are checked only afterwards. This is
+trusted same-process orchestration, not adversarial process isolation.
+
+Both readers reconstruct committed selected groups/bodies from acquired packet
+bytes. Reader2 opens its own live DeltaImportSession and reconstructs normal
+authoring context using those bytes plus the independently adopted foundation.
+This adds no Lean authoring or mathematical-verification call. Independent
+read-only inspection of the retained packet found 11 available body hashes and
+16 selected declarations, with no missing demanded definition/recursor hash;
+this inspection is not a successful context reconstruction or admission test.
+
+Root's exact unlaunched selection:
+`1718ca6be75e5971d44f5929f52c00350841352c28bcd6f1251013c92744f636`;
+configuration:
+`86dbaceea85da39233893f3bc300e1bea1f45f34dad1f29ac0bd2d9b64f74865`.
+All 210 independent prelaunch bindings match: 55 canonical sources, 43 outer
+pins, 75 owner-runtime mappings (including 55 future snapshot paths checked
+against their exact canonical bytes), 28 Node snapshot/source checks, 9 inputs.
+Future Python snapshot/output is correctly absent; the 14-file Node snapshot
+exists with only the selected entry alias. No unexpected source borrowing is
+allowed by the loaded-source closure guard.
+
+The enclosing allocation is 300 CPU seconds, 600 wall seconds, 4096 MiB and
+8 active processes. The original workflow is 480 seconds; at most 3 location
+children coexist. Each of two admissions reserves 30 receipt plus 2 times 30
+native CPU seconds under the same app grant, with 32 requests/32 MiB replies;
+18 requests and 1,081,344 reply bytes are prepaid before each reader starts.
+Seven root-selected loopback ports are 43171..43177; root's preparation bound
+and released them, which is not a guarantee against a later bind race.
+The generator and frozen snapshot/supervision runner were read. Clearance is
+only for this one finite operation, with no automatic retries or renewed grant.
+
+### Aggregate source and Python/Rust bindings: source clearance only
+
+Read the stable eleven-file aggregate crate, its source controls and API in
+full. Production delta construction directly calls the unchanged mathematical
+relation; no checker callback can inject a conclusion. Private graph edges are
+the exact returned parent journals, with existing-member equality, strict rank,
+duplicate/conflicting ModuleID refusal and full backward target closure.
+Every claim must support a selected frontier. The guest discharges every exact
+typed I/A assumption via real env::verify before committing the 192-byte header.
+
+The header's exact A binding and overflow-checked increasing seal height support
+induction over prior aggregates independently of mathematical rank; within one
+aggregate, topological checking establishes the new members. This reasoning is
+conditional on genuine recursive-receipt soundness and the adopted checker's
+conditional extension correctness, not an independent proof of either.
+The Merkle construction binds domains, member count/index, exact legacy journal
+bytes, ordered level nodes and explicit duplicate-last padding. One selected
+member needs only its bounded opening, not all sealed proof witnesses.
+
+Wire length is checked before each witness byte-vector allocation. Global
+rows/bodies/openings/edges/nodes are bounded; the JSON tree is nevertheless
+constructed before the global node census, as the API now states explicitly.
+The temporary census tree drops before the unchanged checker parses the frame.
+Outer memory/cycle bounds and actual feasibility remain necessary. Test-only
+synthetic graph conclusions are not production or cryptographic authority.
+
+Exact reviewed crate hashes:
+
+| File | SHA-256 |
+|---|---|
+| Cargo.toml | `58d5d9d2ccfde1c060948c9c2ef5978175c809ac187defb8e8c1573a409b9363` |
+| lib.rs | `ae71c52390fd47fa3b0cb130b289ff19629bbd8cb976f59c0042e1aabb95c340` |
+| header.rs | `642167ddde6a6f134efff58a2ab270916ebe050f7d0f29acf69f8aaa3465a8e8` |
+| membership.rs | `25e6a2fa86f4c095dd9bd76ce83de60c55405bc9d52eeec1c668e51c07e04b6d` |
+| wire.rs | `2368990cb04186b0e01f3b2075cf7e0505ffaa26f4f2aef6680a342b39f7957d` |
+| census.rs | `f6ab62fe777482acb913972a34689eeaec16ed99fedae584cc6b62f6e4ba18df` |
+| relation.rs | `0f4e240727511764ef4b86a8185c55eb310b89396dece2e8f12fca055bc3460b` |
+| main.rs | `d7b9b93843b683215e0556e585bc5ea241c672fe4c2a89cc07afa41afb81acad` |
+| tests.rs | `6a784eb7781284e8560928a5b47089721dadc38ef725f31ba7c3d89d14e089ae` |
+| graph_controls.rs | `7a055e63d1a4420ac8187f592342f4574e3604f5eff0a14510cc9526e924bec4` |
+| API.md | `90b14c1d415a4f01c80ee4237551d2554b2610c71f4c4f233a19e507d824431e` |
+
+Root's Python `aggregate/bindings.py`
+`d749273ef5841afe881407bcb3c2655385dd635bdae12b37e09ca2381a46bcd5`
+matches the Rust header/member layout, LE image-word/integer framing, policy,
+count/height/rank constraints and domain-separated SHA construction. Canonical
+lowercase hex ordering equals Rust digest-byte order. Paths agree for singleton
+and odd-width trees; index/count/depth/duplicate-last rules coincide. Python
+requires an adopted A when decoding, but performs no cryptographic verification.
+No build, test, guest execution, new receipt or public receiver is established
+by this source correspondence review. A distinct fully resolved A producer and
+receiver, typed frontier/import path and network exposure remain required.
+
+### Recoverable descriptor-unavailability seam: narrow source clearance
+
+Reviewed `node_entry_services_available.mjs` SHA256
+`02bbdf1223602aff512ae9cfadcc58f2b5e6efc02e1c1b65b34e3f14ebc75fb2`
+and `available_descriptor.py`
+`d3b215f59c0b4745562fdc76339a53f22d0fa009932dfecbef4fecfff6743fba`.
+No runtime was launched and no outcome is inferred from this source review.
+
+The retained TCP implementation changes an OS connection error's message but
+preserves its `code` and `syscall`; transport-manager forwards it, and dial-queue
+rethrows one exact error or a nonempty AggregateError of per-address failures.
+The locator's `_command` resets busy without aborting the service on such a
+failure. Thus an immediate refused TCP connection can reach this narrow seam.
+Timeout/abort, authentication, protocol and allowance failures do not acquire
+the accepted code/syscall pair; mixed aggregate failures remain terminal.
+
+Recovery requires the original operation, life and locator signals still live,
+the locator not stopped and its service deadline unexpired. It returns only a
+typed local dial-unavailability observation, never authenticated absence or
+nonexistence. Python binds the exact ticket/peer/status, checks the original
+deadline, and abandons the ticket at its full reserved reply charge. The same
+actual ServiceLocationProcess, WorkflowBudget and grant remain in use; positive
+descriptor authentication and validation remain unchanged. All malformed or
+other outcomes close the channel. The existing raw transport counters continue
+charging failed connection attempts.
+
+Root must use a fresh snapshot with these exact successor Node bytes aliased
+as `node_entry_services.mjs` and that successor digest in the original role map;
+the frozen predecessor is not modified. This clears only the source seam, not
+the complete stale-provider lifecycle or any mathematical/network release claim.
+
 ### Actual retained-export repair01: independently audited PASS
 
 Reprepare01 completed exit0. All184 independent bindings match:44 canonical

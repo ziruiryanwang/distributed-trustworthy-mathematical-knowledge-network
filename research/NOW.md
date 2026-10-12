@@ -1,5 +1,30 @@
 # Current research desk
 
+**2026-10-12 actual network01 failed before mathematical work; diagnosis first.**
+Selection1718ca6b/config86dbacee ran once (root73832, now terminal/reaped). All210
+independent actual bindings hold. Origin advertised but reader1's first DHT
+route returned no peers; no descriptor/search/crypto/native operation occurred,
+and reader2/replica were never created. All3Node lifetimes exited0/closed;
+outer21.578125CPU+.703125wrapper,90.4038063wall,0active/terminated/cleanup errors.
+Failure and used source preserved; no retry/cap increase. Routing readiness and
+advertisement semantics are being diagnosed from retained source/evidence.
+Aggregate native source/build preparation continues in parallel; pure Python
+input5c5d5140 now matches the reviewed Rust frame (source review only).
+
+**2026-10-12 active v5 continuation, theory-first and no repeated campaigns.**
+Root restored canonical guard and confirms no prior runtime remains live. Exact
+network-actual01 selection1718ca6b/config86dbacee is prepared, not launched:
+retained corrected packet54c7dac7, genuine unknown-ID formal discovery, first
+receiver custody, origin shutdown, same-channel stale-first/live-next routing
+and second cold admission/import context. Source1d3a7802/helperd3b215f5/Node02bbdf12
+is source-cleared; exact input/envelope review is pending. Original workflow480s,
+outer300CPU/600wall/4096MiB/8processes, at most2receipt+4native calls; no author,
+guest or proof. In parallel the aggregate relation/guest/header/commitment source
+exists and is under independent review, with Python binding source d749273e.
+It addresses the proved limitation of periodic single-module sealing; no
+aggregate image, receipt, native execution or production route exists yet.
+Full v5 and all six release obligations stay ACTIVE; this is not a guide/pause.
+
 **2026-10-12 corrected two-delta contribution actually accepted.** Root adopts
 independent reprepare01 PASS:184 bindings, only final1009-row witness changed;
 actual cold receipt+two native checks admit target52c564f8 at rank2, all3members,

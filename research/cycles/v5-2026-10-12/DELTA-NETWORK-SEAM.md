@@ -170,3 +170,104 @@ The independently source-cleared authoring `bf3f266c` remains unchanged. The fre
 actual authoring endpoint owned elsewhere is intended to retain a real complete
 two-delta packet; the network integration should consume those exact result bytes
 and never repeat a successful source prefix merely to obtain test material.
+
+## Actual two-cold-recipient endpoint: fresh source selection
+
+The five structural/loopback controls subsequently passed under root's selected
+run. Their used source and evidence are frozen. They do not establish the real
+DHT/Noise/semantic-import/native-admission endpoint below.
+
+The first actual onward authoring run retained ordinary-source composition but
+failed cold admission because of source-row correspondence, not because the
+composition was disproved. Root preserved that failure and selected a distinct
+canonical-row repair from the retained export, without reauthoring. Its corrected
+662480-byte packet is independently audited at
+`experiments/v5-local-checks/delta-reprepare-01/evidence/delta-packet.json`, SHA-256
+`54c7dac7f83a9a06c2b23b17a77be20364c1b90e4cd3b1db58b69c62fda2dcf1`.
+It has one actual receipt frontier and two complete native deltas. The network
+harness consumes those exact bytes; previous reports do not confer authority.
+
+Root selected a fresh source-only network endpoint and finite config proposal:
+
+| Fresh file | SHA-256 |
+|---|---|
+| `software/v5/delta/network_actual.py` | `1d3a7802790186a7ceb929fecc2bcdd99bc72a46049ce23f0f0795b379b4ea2c` |
+| `software/v5/delta/network_actual_api.md` | `c4675e6f61284292e672a51c6704ebb68b8b6ae9053759cc53602a4de982ac57` |
+| `software/v5/location/node_entry_services_available.mjs` | `02bbdf1223602aff512ae9cfadcc58f2b5e6efc02e1c1b65b34e3f14ebc75fb2` |
+| `software/v5/location/available_descriptor.py` | `d3b215f59c0b4745562fdc76339a53f22d0fa009932dfecbef4fecfff6743fba` |
+
+The independent reviewer source-cleared these exact boundaries. Read-only packet
+inspection found 11 available semantic body hashes across 16 selected declarations
+and no missing demanded definition/recursor body. Runtime is root's separate
+exact-selection decision; this lane has launched no test, service, native call,
+proof or Git operation. The broad v5 goal is not completed by source clearance.
+
+### Central reliability defect discovered before launch
+
+The frozen Node entry and Python controller made every failed descriptor command
+terminal. Thus catching an unavailable origin at the caller did not permit trying
+the next returned provider: the actual reader process was already dead. This was
+a real availability-path obstacle, not a test-only inconvenience. Private peer-ID
+filtering, a preknown replica endpoint, or a newly created budget would conceal it.
+
+The fresh entry therefore recognizes only a narrow class of actual local TCP
+connect failures: `syscall == connect` and an explicit OS connect-unavailable
+code, or a bounded aggregate consisting entirely of those failures. All original
+owner/service signals must still be live. It returns `DESCRIPTOR_UNAVAILABLE`
+without a remote-authentication claim. The helper abandons the same existing
+WorkflowBudget ticket, charges its entire reserved descriptor allowance, and
+keeps the same channel and absolute deadline. Malformed IPC/descriptors,
+authentication errors, unclassified failures and expiry remain fail-closed.
+
+Root will alias the exact fresh Node entry to `node_entry_services.mjs` in a fresh
+14-file adopted Node snapshot; all other existing role/source names and retained
+runtime bytes stay unchanged. The original controller and mathematical transport
+classes remain exact, not monkeypatched or replaced by fake subclasses.
+
+### Decisive sequence without private holder knowledge
+
+There are five actual location nodes: neutral reader/router, origin index-provider,
+replica index-provider, and two fresh readers. Only three location children are
+live concurrently. The neutral node neither indexes/publishes mathematics nor
+stores/serves packets. Both consumers query theorem/equality/known-base-fold
+features, not the desired result ID, export ID, snapshot ID or private provider ID.
+
+Reader1 locates origin, searches, acquires and cold-admits the complete packet.
+It reconstructs durable selected group/body custody from packet bytes and closes
+all its mathematical/location owners. Replica indexes the exact received export
+and uses reader1's independent retained stores, not origin's state.
+
+Reader2 starts fresh and obtains an actual route result before origin dies. It
+has performed no mathematical acquisition or admission. Root-approved sequencing
+then closes origin HTTP/Node/stores and starts the real replica. Reader2 attempts
+its genuinely returned stale peer, observes a charged typed unavailable result,
+and spends its preallocated second route on the same original channel/deadline.
+Only IDs already observed to fail by that reader may be skipped; no private
+replica identity influences routing or candidate choice. Alternative discovery,
+all acquisition and mathematical admission happen after origin closure.
+
+The second reader opens actual DeltaImportSession authority over its newly
+accepted closure, supplies groups/bodies from its own durable readback, and
+requires a complete ordinary authoring context using only its locally adopted
+foundation plus received semantics. No native frontend/Lean author call is made;
+theorem ancestry remains in the checking packet rather than being expanded into
+the ordinary-source frontend context. This is not a promise that all possible
+future semantic demands are covered.
+
+### Resource and evidence boundary
+
+The config proposal fixes original workflow wall 480 seconds within the existing
+600-second enclosing owner limit, two cold receivers, at most two cryptographic
+receipt verifications and four native relation checks. Each cold receiver has
+one 90-CPU-second admission reservation. Reader2's two routes, stale failure and
+alternative search/acquisition share their original finite grants; no retry
+allocation, deadline renewal or new mathematical proof is selected. These are
+reservations, not observed CPU savings or duplicated resource charges.
+
+The actual source-snapshot import closure is pinned and foreign v5 project
+imports are refused. Provider/controller/Node telemetry and outer Job work remain
+separate from application bytes. Finalization checks the original deadline again
+after writing RESULT; `FINALIZATION-FAILED.json` overrides any earlier PASS text.
+Cleanup attempts each owner independently and retains the original operation error
+even if another closer fails. Same-host success, if observed, will not be reported
+as independent-host availability, global search completeness or final v5 readiness.

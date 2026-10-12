@@ -4,6 +4,16 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-12 latest continuation: root owns exact network-actual01 selection,
+integration adoption, growth/service model and Git. v5_receipt_source_loop
+finishes stable source/selection handoff then examines actual network outcome
+without launching or duplicating assurance. v5_integration_assurance prioritizes
+exact network source/config review then aggregate relation/Python bindings;
+v5_base_actual_audit prepares source-only minimal aggregate native driver and
+retained-dependency build/control proposal, no guest/proof/checker rebuild.
+All use canonical E:\Distributed Trustworthy Mathematical Knowledge Network
+and October12 checkpoints. No old pause applies; goal ACTIVE and unfinished.
+
 2026-10-12 current: root owns fresh delta/authoring02.py,reprepare.py,
 reprepare_actual.py and exact retained-export successor selection; used
 authoring.py/author_actual.py remain frozen with failed author01. Assurance
