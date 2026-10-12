@@ -4,6 +4,81 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-12 optimized execution failed its unchanged cap; no runtime lives.
+Root owns next investment choice and Git; assurance audits actual failed screen,
+then minimal attribution source/selection. Base proposes fresh offline adapter
+in bounded_parse_guest/attribute.py (not yet authorized to implement), checkpoint
+BOUNDED-PARSE-FAILURE-DECISION.md. Author writes decision-focused options under
+AFTER-BOUNDED-PARSE-OPTIONS.md. Stage-host build source is reviewed but compile
+held; corrected aggregate producer plan remains theory-only. Do not fund proof,
+raise cap, run old baseline or duplicate passing build/native tests. Full v5 ACTIVE.
+
+2026-10-12 three-project recovery: root owns exact selection3f92ea98/runtime/Git;
+assurance reviews exact238-pin selection then actual output. Author has completed
+recipes.py/build_projects.py and now independently reviews unused assemble.py +
+root assembly selector, checkpoint GUEST-BUILD02-RECOVERY.md. Base has completed
+reciprocal_actual.py + direct-schema assembler; now source/theory only minimal
+aggregate producer plan in AGGREGATE-PRODUCER-PLAN.md (no implementation/funding).
+All paths canonical E:\Distributed Trustworthy Mathematical Knowledge Network.
+No full-Cargo retry, duplicated passing tests, guest proof or v5 acceptance.
+
+2026-10-12 after build02 terminal controller failure: no runtime lives. Root owns
+recovery choice/Git; author holds unreviewed aggregate_production/build.py draft
+and implements fresh bounded_parse_guest/build_projects.py (optional pure
+recipes.py) under GUEST-BUILD02-RECOVERY.md: only three project compiles over
+retained dependencies. Assurance owns actual failure and recovery source/selection
+review. Base implements only fresh mixed_network/reciprocal_actual.py under
+REAL-A-RECIPROCAL-PLAN.md. All paths canonical; used guest02 sources/evidence
+stay frozen. No compile, proof, assembly or cap increase is selected. Full v5 ACTIVE.
+
+2026-10-12 resumed checkpoint: root owns selections/runtime/Git and whole-v5
+priorities. v5_receipt_source_loop owns only fresh bounded_parse_guest/
+cache_resolver.py and build_resolver.py plus BOUNDED-PARSE-GUEST-FAILURE.md.
+v5_integration_assurance independently reviews successor/cache closure and
+unused assembler, then selected actual outcomes. v5_base_actual_audit aligns
+unused assemble.py with exact successor contract and writes the finite
+IMAGE-LIFETIME-DECISION.md proposal. All use canonical E:\Distributed Trustworthy
+Mathematical Knowledge Network and research/cycles/v5-2026-10-12 checkpoints.
+No runtime is live; no proof, guide or pause is selected. Used files stay frozen.
+
+2026-10-12 latest: mixed_network four-source adapter/test slice independently
+passes seven focused synthetic/loopback controls, used/frozen; no rerun. Root
+owns Git and guest exact selection; author completed bounded_parse_guest source,
+assurance reviews; base completes fresh stage_host.rs/API source only. Checkpoints
+remain canonical research/cycles/v5-2026-10-12. No runtime/proof is live, no guide
+or pause. Real A capsule/receipt and full deployable-v5 obligations remain open.
+
+2026-10-12 current: root adopts concrete bounded_parse_guest SOURCE contract;
+v5_receipt_source_loop implements its five fresh files, checkpoint
+BOUNDED-PARSE-GUEST-PLAN.md. v5_integration_assurance reviews contract then source,
+checkpoint ASSURANCE.md. v5_base_actual_audit maps aggregate production seam in
+AGGREGATE-PRODUCTION-SEAM.md. Root owns A-aware transport/custody design, future
+exact runtime selections and Git. All under canonical E:\Distributed Trustworthy
+Mathematical Knowledge Network, cycle v5-2026-10-12. No runtime or proof is live;
+full v5 goal ACTIVE. Successful prior evidence is reused, not rerun.
+
+2026-10-12 latest: root owns full-v5 decisions/Git and all future selections;
+bounded parse native build/comparison independently adopted (all10+2), no runtime.
+v5_receipt_source_loop owns fresh bounded_parse_guest source/input-closure/build
+plan and BOUNDED-PARSE-GUEST-PLAN.md; no implementation before concrete root review.
+v5_base_actual_audit completed NEXT-AGGREGATE-COST-DECISION.md with fixed-target
+economics and conservative upgrade/revocation source feasibility; source/theory
+only. v5_integration_assurance owns actual audit checkpoint and independent next
+guest contract review in ASSURANCE.md. Canonical E:\Distributed Trustworthy
+Mathematical Knowledge Network; checkpoints research/cycles/v5-2026-10-12.
+Existing I proof/network successes and all failures stay frozen. No proof/cap
+increase or guide/pause is selected. Full v5 remains ACTIVE and incomplete.
+
+2026-10-12 latest bounded-parse implementation: root owns new bounded_parse/build.py,
+exact selection/runtime and Git; base owns six fresh production Rust files and
+BOUNDED-PARSE-IMPLEMENTATION.md; author owns independent controls.rs and fresh
+compare.py plus BOUNDED-PARSE-CONTROLS.md; assurance owns independent final source,
+selection and outcome reviews in ASSURANCE.md. All shells/edits use canonical
+E:\Distributed Trustworthy Mathematical Knowledge Network; all checkpoints in
+research/cycles/v5-2026-10-12. Native build will reuse retained nanoda rlib, never
+recompile checker. No runtime yet; no guest/proof/cap increase. Mixed10 and offline
+attribution actual PASS adopted and used sources frozen. Real v5 remains ACTIVE.
+
 2026-10-12 latest resumed: root owns selections, whole-system cost decision/Git;
 assembly01 independently PASS, snapshot01 terminal cycle-cap FAIL/no capsule.
 Base owns source-only aggregate_host/attribute.py plus PC-ATTRIBUTION.md, using

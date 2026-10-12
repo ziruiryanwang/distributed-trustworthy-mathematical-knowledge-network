@@ -1,5 +1,265 @@
 # Current research desk
 
+**2026-10-12 optimized screen terminal FAIL; no complete capsule.** Single
+execution exited1 with `Session limit exceeded:33557665 >=33554432`.
+Outera4db15321bc9084ba5db4c7f4dbbb702a391909c8cafe7fd7d82f7ecec6237e9,
+innerbc7fae70d1a7cde35a3db76a075ff289d8e082dea90b4ec2f726fb05ed99ba05;
+8.296875JobCPU+.46875wrapperCPU/8.685207wall, clean closure. Diagnosticdca409e0
+is a saturated failed prefix;128partial segments are not a capsule or proof.
+No speedup/full-cost estimate follows from the two capped failures. Independent
+actual failure audit is adopted. Stage-host build and proof funding stay HOLD.
+Root selects a thin exact-current-image offline attribution adapter via frozen
+pure helper functions; source/selector review precedes one bounded offline read.
+Author's AFTER-BOUNDED-PARSE-OPTIONS compares concrete interventions, including
+the coupled128-segment/cycle/po2 constraint and compact-wire native/host costs.
+No guest rerun, cap increase or codec is selected.
+
+**2026-10-12 unchanged-cap optimized screen selected once.** Independent exact
+review clears115c00c1/config19296697. Root launches the one guest execution on
+image17325569 with the retained mathematics and genuine I receipt, unchanged
+2^25cycles/po2=18 and180CPU/240wall/3072MiB/3active. No proof, cap increase,
+new baseline or second screen is selected. Stage-host builder source review
+may proceed concurrently; compilation remains held until the actual outcome.
+
+**2026-10-12 fresh image assembly actual PASS adopted.** Independent audit binds
+outerf92ac44d and inner696774f9, all81 runtime pins/60 inner inputs, correct exact
+ELF/kernel assembly and clean closure. Image173255698c2bc9030e7528297b627c59d6d35a605ec3a16542b2ba73e5107ac2
+is1739692B (fileSHAe3ec2dbb, distinct from image ID). Root prepared one unchanged-
+cap screen selection115c00c10b33e75e72b4427061a1b933cb3b632e0ed70681611cb6d766100719
+with8unchanged sources/29pins, pending exact review. Same2^25cycles/po2=18;
+one guest execution only, no proof. All used build/assembly bytes are frozen.
+
+**2026-10-12 direct build actual PASS adopted; one assembly selected.** Independent
+audit matches329 input pins,238 copied artifacts,39 source pins, all3 commands/
+recipes/logs,5 new outputs and independent ELF parse; clean closure, no override.
+Root adopts RESULT694d205b. Exact assembly selectionf78b388b6b6278ffbae2aa73ab50f5eadfe5f1527a744e2f4cc8799670abcb35
+(2sources/81pins) is independently cleared; launch once120CPU/120wall/1024MiB/
+2active. Used assembler/selector now freeze. No guest execution or proof in it.
+
+**2026-10-12 direct build terminal raw PASS, actual audit pending.** Session6763
+is terminal/reaped exit0. Three commands completed; RESULT694d205b63082ecd02536eb70b16ae08a271f06d66d5df95f296a51a607ce22b,
+29.546875workerCPU +6.78125controllerCPU /40.8754799wall before excluded report
+tail. Complete ELF16b7f1a2 (1680924B) and link mapb200d632 exist; no image or
+proof yet. This new operation does not relabel earlier failures. Reviewer audits
+actual output. Source-only stage-host controller finalization and minimal aggregate
+producer plan proceed in parallel; no compile/funding selected for them.
+
+**2026-10-12 direct three-project compile selected once.** Independent exact
+review cleared selection3f92ea98 and all238 retained current byte pins. Root
+launches that one unchanged finite operation; its two adapters and selection
+are now used/frozen. Git8e2a8bc/bc65dc7 preserve reviewed build and assembly
+source. No assembly, guest execution, receipt production or full v5 adoption
+is implied. Await terminal closure and independent actual output audit.
+
+**2026-10-12 three-project build exact selection prepared.** Theory/source review
+clears the reconstructed rustc recipes with unchanged mathematical roots and
+explicit NEW adoption of 238 retained dependency files; no claim of historical
+intermediate checksums or bit-reproducible Cargo argv. Root prepared selection
+3f92ea98aa873580929a446635e426717f6d0efe1a1b1a91e272e21ab7eb9bc6:
+only three project compiles, zero Cargo/SDK/std/checker rebuilds. One shared
+240workerCPU/300phasewall/4096MiB/6active, 40ordinary/60total controllerCPU,
+420totalwall, 512MiB total fresh output including320499420B copied dependencies.
+Exact independent selection review precedes launch. Used failures stay frozen.
+Assembler is being source-reviewed for this distinct contract. Reciprocal harness
+source is clear but genuine A remains absent; no fake positive or proof selected.
+
+**2026-10-12 direct-project recovery SOURCE selected.** Root adopts three new
+project compiles over exact retained dependencies, pending recipe/provenance
+review:16 compiler-read Rust sources,108 guest library pairs and22 conservative
+macro DLL pins; no Cargo/SDK/std/checker rebuild. Author may implement fresh
+build_projects.py (and pure recipes.py if needed) while assurance reviews the
+contract. Base may implement one reciprocal_actual.py harness using existing
+public APIs, but genuine-A adoption remains a hard runtime prerequisite. No
+runtime is selected. This parallel source work supersedes the earlier wait-for-
+screen restriction on writing that harness, not its mathematical prerequisites.
+
+**2026-10-12 build02 terminal FAIL; no guest ELF or assembly.** Session84782
+is terminal/reaped (exit1). The offline graph succeeded with exact297 units;
+compile stopped on the ordinary controller-CPU envelope, then finalization also
+exceeded its total envelope. RESULT792ed5825ae3110dc3ddc1a85b49636b63469f5e4cb1d662e70d8ddf27d6b4b6
+is overridden by FINALIZATION-FAILED. Worker190.21875CPU; controller88.640625CPU
+is only the report prefix, actual final controller>90CPU with unrecorded tail.
+No image/capsule/proof exists. Both attempts and all used source remain frozen.
+Root reroutes author from unused stage-builder draft to GUEST-BUILD02-RECOVERY:
+reuse retained complete dependency artifacts for only new project compiles if
+their provenance/ABI permits. No297-unit retry or increased allowance selected.
+The supervisor censuses the live tree every10seconds, not every0.1s CPU poll;
+per-entry repeated path resolution is source-visible overhead, not a measured
+profile attribution. Assurance audits the actual failure and reuse proposal;
+base continues the disjoint combined real-A reciprocal plan.
+
+**2026-10-12 resolver build02 launched once.** Independent exact review cleared
+selection a537fdbc; root session84782 is live under its unchanged finite envelope.
+The two new resolver/controller sources are now used/frozen. Git c331c26 preserves
+both the failed predecessor and reviewed successor, without deleting evidence.
+No image, execution screen or proof is selected by this launch.
+
+**2026-10-12 resolver build02 exact selection prepared.** Source review clears
+the two-file correction and retained 173-package resolver evidence. Root prepared
+selection `a537fdbc9bf27b9a0832bb14a72aa07aad4d96abe9cc6bb433473a58935c16e2`
+(16,129B, 38 sources); final exact review precedes one offline graph/build.
+Unchanged 480 inclusive worker CPU / 600 phase wall / 4096MiB / eight processes;
+70 ordinary + 20 final controller CPU, 780 total wall, 3GiB / 32,768 entries.
+No assembly, guest execution or proof is authorized by this build selection.
+
+**2026-10-12 image-support decision adopted in principle.** Follow
+IMAGE-LIFETIME-DECISION: if the optimized image completes the unchanged-cap
+screen, preserve that exact A0 through the first genuine receipt/member/ordinary-
+authoring/public-reacquisition milestone. Do not fund a knowingly disposable
+image or repeat its proof after a performance change. No proof budget is opened
+by this decision. Later cross-image admission needs reviewed semantic inclusion;
+persistent potential-authority revocation remains a public-release obligation.
+Base now plans one combined genuine-A reciprocal operation using existing public
+mixed APIs; root will select scope after the execution outcome, not repeat separate
+passing network and import campaigns.
+
+**2026-10-12 resumed after context checkpoint: real v5 ACTIVE.** Root adopts the
+resolver correction in principle: use all 180 checksum-matching locked archives
+available in the retained seed, including the 173 actually extracted by prior
+successful graph/build runs; do not equate compiled units with resolver inputs.
+Fresh `cache_resolver.py` / `build_resolver.py` source is authorized, with unchanged
+mathematical source, graph rule and finite limits. No unchanged retry, network
+fetch or proof is selected. Author owns this successor and failure diagnosis;
+assurance reviews it and the unused assembly adapter; base aligns that adapter
+and proposes a concrete image-support lifetime. Root owns selection/runtime/Git.
+Mixed-network and bounded-parse native successes are not rerun. Full release,
+genuine A receipt and operational growth benefit remain open.
+
+**2026-10-12 optimized guest build01 terminal FAIL before compilation.**
+Offline Cargo graph refused missing ark-r1cs-std0.5.0; selected compiled-unit
+archives were not the complete manifest-resolution input closure. No graph,
+compile, image or capsule exists. RESULT1f97e4d5c3a6f0c9d704970adcc91a128eb237d541fa71365a99690c1c58d8e8,
+0.75workerCPU+19.375controllerCPU/89.8295641wall, clean closure. Five used build
+files remain frozen. Author diagnoses full retained resolver/cache closure in
+principle before proposing successor; no network fetch, one-crate retry or cap
+renewal. Assurance audits actual failure. Base continues generic fresh assembly
+adapter source only. Mixed-network PASS remains adopted; full v5 stays ACTIVE.
+
+**2026-10-12 one optimized guest graph/build selected.** Independent source and
+exact review clears selectionbe47024a42da96b5d33dcbea8e9ffcc4f2d81be50cc30a1f58ff0b2d4da0e41d,
+37project sources plus fixed lock/selected retained closure. Root launches once:
+shared480workerCPU/600phasewall/4096MiB/8processes,70ordinary+20finalcontrollerCPU,
+780totalwall,3GiB/32768new-output entries. Offline graph then verbose release
+build only; no image assembly, execution, receipt or proof. Used five build
+files freeze. Separate assembler adapter is source-only while the build runs.
+
+**2026-10-12 pending guest exact review and parallel stage-source review.**
+Root read all five bounded_parse_guest files and prepares selectionbe47024a
+(37source pins). Independent review repaired the live inclusive480CPU check,
+distinct from the retained helper's600wall setting; no launch until final
+clearance. New aggregate_production/stage_host.rs/API implement genuine ordered
+resolution plus final composite/exact-A,H verification; root read, author of the
+old snapshot host now independently reviews. Base maps new artifact assembly
+onto the unchanged parameterized snapshot controller. No extra checker/backend
+build or second network campaign is selected. Gitda38805 preserves the adopted
+mixed-network slice; no remote/publication. Full v5 remains ACTIVE.
+
+**2026-10-12 mixed-network actual PASS independently adopted.** Seven targeted
+synthetic/loopback groups pass; outer RESULTf0269369, inner4e490df1. 96 source/
+snapshot bindings audited, clean closure,0.984375JobCPU+0.296875wrapperCPU/
+2.3894802wall. Used mixed_network sources and selection freeze; no rerun. This
+closes bounded mixed-packet transport/custody plumbing, not real A acceptance.
+Guest builder source is ready for review; staged aggregate host source is in
+parallel review/preparation. No runtime or proof is live. Full v5 stays ACTIVE.
+
+**2026-10-12 mixed-network seven controls selected.** Independent source and exact
+review clears selection3273d116a942916cb3f57b5ad4441f37cbba0edb0950034483f61e11c30bf331,
+48 sources/21 runtime-data pins: seven synthetic groups, one bounded loopback
+provider, 30CPU/60wall/512MiB/2processes. Root launches once. No cryptographic
+verification, native/guest/proof, DHT campaign or mathematical acceptance. Mixed
+profile uses unchanged semantic index/routing and one original acquisition budget.
+Final promotion now rechecks live mathematical handle after structural readback.
+
+**2026-10-12 next guest SOURCE contract adopted.** Root read the concrete
+BOUNDED-PARSE-GUEST-PLAN: five fresh controller/manifests, 38-file project
+snapshot, 359-file private registry cache and explicit read-only SDK/std/tool
+closure; same lock, target/profile and 297-unit graph except reviewed relocation
+and two lib targets. Author may implement source; assurance independently reviews
+contract and implementation. No build/runtime/proof is selected yet. Base maps
+the aggregate staged-production seam; root examines variant-aware network custody
+and transport. These are disjoint central paths toward usable reciprocal v5,
+not a guide task or another repetition of passing native tests.
+
+**2026-10-12 bounded-parse native behavior independently PASS.** Root adopts
+RESULTddd411125b809fda24be93280329f6d7b7bd3d4b32ac5cbd71beab46e4948a20:
+all ten finite controls and both complete retained native outputs match;
+invalid proof genuinely refuses in kernel checking.0.0625workerCPU+
+0.203125controllerCPU/2.2062779wall, clean closure; no runtime remains live.
+Used bounded_parse sources/controllers/tests are frozen. This removes redundant
+validation work, not mathematical checking; no measured guest gain or A receipt.
+Next source-only lane: bounded_parse_guest concrete minimal offline build/closure
+plan, then reviewed implementation. No blind old retry or larger execution cap.
+NEXT-AGGREGATE-COST-DECISION separates boundary qualification from full-cost benefit
+and exposes cross-image frontier/revocation obligations before expensive funding.
+
+**2026-10-12 focused comparison selected.** Independent exact review clears
+707Bselectionc75cdf3e2ef83350eb80e2b2bf741f713d50364526806456f7dfffeeb10b5fc2:
+ten small control groups then two retained native comparisons, no baseline rerun.
+One shared60workerCPU/120wall/1536MiB/2active;30controllerCPU/180totalwall.
+Root launches once. No authoring, network, guest, receipt verification or proof.
+
+**2026-10-12 bounded-parse native artifacts independently adopted.** Build02
+RESULT026770a3 passes exact51binding audit and clean two-link closure;
+81.3125workerCPU+3.34375controllerCPU/100.1543468wall. Original build01 FAIL stays
+charged. Test/native binaries are ready, not yet executed. Root constructs the
+reviewed finite ten-control/two-retained-input comparison selection; no baseline
+rerun or authoring/guest/proof. Parallel source/theory examines version-compatible
+frontiers and minimal next guest build, not speculative codec implementation.
+
+**2026-10-12 two remaining native links selected.** Independent source and exact
+review clears selection15cea3f094621d1d1e8901219db2caa2eb4e9ea2951232008e9e21503895640f,
+21sources (19unchanged+2test/controller wiring), all three successful rlibs reused.
+Root launches once:150workerCPU/210phasewall/3072MiB/6active,25controllerCPU/330totalwall.
+Original failure/spend remains; no production rebuild, tests/native/guest/proof.
+
+**2026-10-12 native build01 terminal failure; preserve successful libraries.**
+Independent actual audit confirms RESULT4780ae9f,17.234375workerCPU+
+2.03125controllerCPU/14.015542wall, clean closure. Module/aggregate libraries
+compiled; test compilation refused a missing inherited cfg(test) graph_controls
+file before linking; no controls/native/guest ran. Used source stays frozen.
+Root selects fresh test-root wiring and two-remaining-link controller source
+only, reusing all three exact rlibs. No successful compile is repeated. The
+independent review missed this nested test-source dependency; record the failure,
+not a production or mathematical-regression claim. No runtime is live.
+
+**2026-10-12 bounded-parse native build selected.** Root adopts independent
+source/exact review for selection cfa3402c76bc7504e36702e0759a1aeadb600001fb0dd381b988dc873e113574:
+19 exact sources, retained checker reused byte-for-byte, four thin native
+compiles only.180workerCPU/240phasewall/3072MiB/6active,30controllerCPU/360totalwall.
+One launch; no checker/dependency rebuild, tests, guest, proof or cap increase.
+Production/control source is now held; finite native comparisons follow only
+after actual build adoption. Full v5 remains ACTIVE. Git0c1fcb1 preserves prior
+audited mixed imports and offline attribution; no remote/publication.
+
+**2026-10-12 next central source change: validated parse reuse.** Independent
+actual attribution PASS31b29b7a is adopted; all stored counts/ranges reconcile,
+with saturated omissions and failed-prefix scope retained. Root adopts the
+independently challenged BOUNDED-PARSE-DECISION: canonical formatting cannot
+lengthen strict accepted JSON, but node/depth validation remains necessary.
+One immutable token can replace three tree scans/two string-length scans with
+one structural scan plus cached aggregate counts, without changing mathematical
+checking or wire format. Base owns fresh bounded_parse source/controls only;
+assurance reviews. No build/guest/proof/cap increase yet. Mixed10 actual audit
+PASS89074bf2 is adopted. All used source/evidence remains frozen.
+
+
+**2026-10-12 offline attribution selected; mixed controls terminal.** Root adopts
+source0fc2ca9b and exact selection8f5ec7caaca68511490683c1e4749ddcd85a0470d881872c089c6c22bcb644cb
+(2sources/37runtime-data pins) for one offline reading of the failed prefix,
+30CPU/60wall/512MiB/2active; no guest/compiler/prover. Mixed ten controls exit0
+with clean closure,3.15625JobCPU+0.375wrapperCPU/4.2807109wall; audit pending.
+Base will interpret exact attribution before any new optimization. Author's
+separate source-only compact-witness feasibility tests an alternative in principle,
+not a selected format change/build. No A receipt or completed capsule exists.
+
+
+**2026-10-12 mixed import/session controls selected.** Independent exact review
+clears9a45d66fd63615e9bfccd86ec927d385e7474f51dba367cca7760383faeff397:
+48source/21runtime-provenance pins, ten synthetic groups only,
+30CPU/60wall/512MiB/2active. Root launches once. No genuine receipt, native,
+Lean or network work is included. Attribution source/exact review is separate.
+
+
 **2026-10-12 actual capped failure independently adopted.** Snapshot01 inner
 a873a4b8 and outerf91ef77b are audited:145 changed bindings match including all128
 retained segments; wire/header differ from original in only the selected A slot.
