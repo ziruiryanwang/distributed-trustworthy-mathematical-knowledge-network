@@ -1,5 +1,17 @@
 # Goal: a usable mathematical commons architecture and software
 
+**User-requested pause, 2026-10-12:** the clear, full theoretical candidate
+[architecture guide](notes/V5-ARCHITECTURE-GUIDE.md) is updated and reviewed.
+Work pauses after the documentation checkpoint; the full v5 objective remains
+unfinished. See [current handoff](research/cycles/v5-2026-10-12/GUIDE-PAUSE-HANDOFF.md).
+No pending integration, proof operation or automatic implementation continuation
+is authorized by this guide. The resumption entry below is earlier context.
+
+**Active goal resumed, 2026-10-12:** continue implementation and conceptual work
+toward the full v5 destination. The prior pause below is historical. Follow
+[current resumed plan](research/cycles/v5-2026-10-12/PLAN.md) and NOW; preserve
+all used source/evidence. No old proof attempt is restarted merely by resumption.
+
 **User-requested pause, 2026-10-08 UTC:** current small source tasks and their
 independent control audits are complete. The goal is unfinished and paused;
 only the previously selected finite proof71174 may continue in the background,

@@ -2,21 +2,40 @@
 
 ## What this guide describes
 
-This is the complete **candidate architecture for v5**, written on October 8,
-2026. It explains the system as a whole: what mathematical objects it shares,
+This is the complete **candidate architecture for v5**, first written on October 8
+and updated on October 12, 2026. It explains the system as a whole: what
+mathematical objects it shares,
 how agents find and trust them, how new contributions return to the network,
 what makes the design scalable, and what would justify useful growth.
 
 It is not a claim that the whole architecture is already delivered. The source
-and audited development baseline is Git checkpoint `fdfcd80`. Some mechanisms
+and audited implementation baseline described here is Git checkpoint `fdfcd80`;
+the original guide is preserved at `b4867a6`. Some mechanisms
 have implementations and focused evidence; others remain design obligations.
 [Section 16](#16-what-exists-and-what-is-still-missing) makes that boundary explicit.
-This writing task does not audit or adopt a later background proof result.
+The October 12 update distinguishes a subsequently completed proof artifact
+from the still-unperformed fresh public receiver/authoring integration. It does
+not turn that artifact into a release or restart implementation.
 
 Read sections 1–3 for the overall picture, 4–11 for the mechanisms, and 12–16
 for the theoretical guarantees, limitations and release requirements. An
 undergraduate reader needs only basic ideas about functions, proofs and graphs;
 specialist terms are explained where introduced.
+
+### A short vocabulary
+
+| Term | Plain-language meaning |
+|---|---|
+| Module | An exact package of mathematical declarations, with explicit dependencies |
+| Interface | What a declaration states and how other declarations may refer to it |
+| Witness | The proof or other material needed to establish that a declaration is valid |
+| Receipt | A cryptographic proof about a specified checking computation; not a publisher's signature |
+| Commitment/opening | A binding fingerprint of a collection, and evidence that a selected item belongs to it |
+| Checker | The program that enforces the adopted formal rules; not the agent inventing the proof |
+| Index | A searchable catalogue that suggests objects; its suggestions are not mathematical authority |
+| Custodian | A participant storing and serving exact objects for others |
+| DAG | A directed acyclic graph: dependencies may branch and share earlier work, but cannot circle back |
+| Certified frontier | The already-certified boundary beyond which old theorem proofs need not be replayed |
 
 ## 1. The idea in one page
 
@@ -154,6 +173,29 @@ Local names are represented relative to their module. After commitment they
 can be exposed under a module-qualified namespace. This avoids requiring a
 module's hash to contain that same hash as a literal self-reference. Independent
 authors can both write a declaration named `Tree` without a global name registry.
+
+### What an individual node knows
+
+It is useful to distinguish three local sets, rather than one giant database
+marked "the truth":
+
+- **Known candidates:** object identities or search records the node has heard of.
+- **Stored objects:** exact bytes it currently holds, possibly without accepting
+  their mathematics.
+- **Accepted objects:** conclusions admitted under a particular local checking
+  profile, with the required evidence and a valid local acceptance context.
+
+These sets are not equal. A custodian can store an unverified receipt; an agent
+can verify a receipt without storing all the associated definitions; an index
+can advertise objects it does not hold. The set usable for a particular new
+proof also depends on acquiring the semantics that proof requires.
+
+The abstract network union is a specification device, not an API returning a
+fresh complete inventory. Immutable-object synchronization can use idempotent
+set union: receiving the same object twice need not create two mathematical
+objects. Acceptance policies, storage leases and search coverage do not inherit
+that monotonicity. A node can stop serving bytes, revoke a checking profile or
+search a different snapshot without changing the historical object's identity.
 
 ## 4. What "correct mathematics" means here
 
@@ -404,6 +446,27 @@ A fresh process receives and verifies the certificate again under its own policy
 The import session's exact receipt/profile cache avoids redundant work inside
 that operation; a cache indexed only by theorem name would be unsafe.
 
+### What each step actually permits
+
+The central safety rule is **no authority from the wrong layer**. These are
+logical distinctions, not one implemented enumeration of mutually exclusive
+states: an object may be advertised and stored before anyone at this node has
+accepted it.
+
+| Evidence available to this node | Permitted conclusion | Not yet justified |
+|---|---|---|
+| Search hit and coverage record | This provider returned this candidate in the stated search scope | Its mathematics is valid |
+| Downloaded bytes with matching commitments | These are the selected exact objects | The checking relation succeeded |
+| Fresh successful adopted receipt verification | The precise module conclusion is warranted under the trust assumptions | Every semantic dependency is locally present |
+| Live verified imports plus authenticated needed semantics | These exact declarations may support local checking | An arbitrary new draft theorem is true |
+| Source elaboration and prepared child witness/capsule | There is material for the child validation route | A transferable, resolved child certificate exists |
+| Resolved child certificate, independently accepted by another node | That recipient has a warranted child conclusion | The child is discoverable, permanently available or useful |
+
+Typed demands, unsupported policies, malformed inputs, exhausted budgets and
+unavailable providers must remain distinguishable. None is evidence that a
+mathematical proposition is false. Publication and custody are separate
+operations, so a certificate does not silently complete them.
+
 Ordinary Lean source elaboration is a producer activity. The frontend reconstructs
 the selected environment and exports new kernel-level declarations for independent
 checking. It temporarily represents imported theorem and opaque-value interfaces
@@ -647,6 +710,32 @@ The last step tests decentralization and reciprocal accumulation together.
 It cannot be demonstrated merely by copying a file into C's private state or
 giving C an acceptance flag created by B.
 
+### The mathematical content, stripped of networking details
+
+Here is a small law that makes the example concrete. For functions
+\(f:A\to B\), \(\ell:B\to C\), \(n:C\to C\to C\), and a finite tree \(t\)
+with leaves in \(A\),
+
+\[
+\operatorname{fold}(\ell,n,\operatorname{map}(f,t))
+=\operatorname{fold}(\ell\circ f,n,t).
+\]
+
+`map` changes only leaves, retaining the tree's shape. `fold` replaces each
+leaf by \(\ell\) applied to its value and each binary node by \(n\). No algebraic
+laws for \(n\) are assumed. Prove the displayed equality by induction on \(t\):
+it is definitional at a leaf; at a node the two induction hypotheses give
+equal left and right arguments to the same function \(n\), hence equal results.
+The imported binary-congruence theorem supplies exactly that last step.
+
+This is the shape of the retained `ReceivedFoldMap.lean` source fixture, not
+a claim that its receipt-backed workflow has run. A later agent could combine
+this law with a second mapping, or instantiate it for a particular interpreter.
+Its new obligations would concern that composition or interpreter, not a replay
+of every proof used to build the original library. The resulting specialization
+is mathematically warranted; whether it deserves storage or speeds useful work
+remains a separate resource question.
+
 Publication itself spans separate state changes: retain content, update an
 index, advertise service. It is not a globally atomic transaction. A crash can
 leave accepted-but-unindexed or indexed-but-unavailable objects. Reconciliation
@@ -849,6 +938,15 @@ suffices. The proof is addition of those per-library inequalities. The difficult
 practical work is justifying the inputs and ensuring service capacity, not
 running a planet-sized experiment to demonstrate the algebra.
 
+For an illustrative calculation only, suppose fixed additional sharing costs
+over a stated horizon are 10,000 cost units. Suppose each distinct recipient's
+strong local baseline costs 100 units and network reuse plus its variable
+service costs total 5. The margin is 95 per recipient, so 106 such recipients
+would cover the fixed cost: \(106\cdot95=10{,}070>10{,}000\). Ten recipients
+would not. These are invented explanatory values, not v5 measurements or a
+demand forecast. If the optimized baseline already possesses the method,
+its avoidable cost may instead be near zero and this benefit region disappears.
+
 Peak memory is usually a capacity constraint, not a bill added across sequential
 requests. Payments between peers should not double-count physical resource
 consumption. A warm-cache recipient is not another full cold-validation saving.
@@ -933,6 +1031,17 @@ may require new identities. In either case, acceptance under a revoked profile
 must not be silently inherited. Different policies can coexist, with boundaries
 visible to consumers.
 
+There is a further distinction between **routine reuse** and **future repair of
+the trust basis**. Routine consumers need not download ancestral theorem proofs.
+But if an old checker is found unsound, its receipts alone may not establish
+anything under a corrected checker. Recovery can require archived witnesses,
+source/toolchain information, reconstruction, or entirely new proofs. Witness
+archivists are therefore a useful optional custody role. They preserve a path
+to revalidation without imposing proof-history replay on every ordinary use.
+Archives do not guarantee automatic migration, and source alone may be
+insufficient to reproduce an obsolete environment. The release policy must
+state its retention and revalidation promises explicitly.
+
 Political attribution is secondary. Operational identities remain useful for
 authenticated connections, updates, retention promises and abuse control, but
 mathematical acceptance does not depend on an author's fame or vote count.
@@ -954,15 +1063,15 @@ to a blockchain.
 
 ## 16. What exists and what is still missing
 
-The following is a map of the last audited development checkpoint, not a claim
-that a later background process succeeded. Earlier source-plan documents often
-retain prospective or historical wording; exact evidence and current selections
-take precedence over those old status paragraphs.
+The following combines the audited implementation baseline with the October 12
+read-only audit of retained base-production evidence. Earlier source-plan
+documents often retain prospective or historical wording; exact evidence and
+current selections take precedence over those old status paragraphs.
 
 | Area | Present candidate and evidence | Still required for the full architecture |
 |---|---|---|
 | Module semantics | Immutable module/group/body model; conditional checking and selected native controls; profile2 relation and real prover/receiver sources | Complete scoped checker correspondence/security case and genuine certified modular end-to-end use |
-| Receipt production | Guest/host builds, execution capsule and retained genuine proof-prefix work; bounded staged producer | Final-result audit and fresh positive v5 receipt admission, followed by certified child/return integration |
+| Receipt production | Retained final base receipt and all 325 selected new production stages independently audited on October 12; exact artifact and recorded host verification preserved | Fresh positive public v5 receipt admission, followed by genuine certified child/return integration; original controller final exit was not observed |
 | Ordinary authoring | Imported-context frontend compiled/linked; five conditional native controls; worker20 and preparation9 mock-only groups audited | Real receipt-backed authoring through the public controller, actual worker/native process envelope and genuine parent-aware child path |
 | Discovery | Formal module-export features, committed snapshots, compact summaries, interval pages, positive candidates and bounded public/local controls | Broad useful retrieval, truthful corpus-coverage claims where offered, adaptive/load-aware huge-network operation |
 | Location and acquisition | Bounded maintained index-role location; local location evidence used old-policy metadata, not current-profile mathematical admission | Generic unknown module/receipt custodian discovery; lightweight clients; public bootstrap/connectivity, adversarial routing and sustained maintenance |
@@ -971,6 +1080,35 @@ take precedence over those old status paragraphs.
 | Compact semantics | Canonical semantic-DAG proposal; current tree expansion is bounded/refusable | Implementation, migration and correctness/cost evidence across the full data path |
 | Growth | Parametric fold/fusion workload and full-cost conditional models | Supported positive-benefit region against equally optimized comparators, with usable reciprocal applications and all service/failure costs |
 | Release | Local Git checkpointing and retained evidence; frozen v4 unaffected | Reproducible self-contained supported distribution, secure updates/isolation, independent security review, deployment evidence and license decision |
+
+### October 12 evidence update
+
+The [independent retained-artifact audit](../research/cycles/v5-2026-10-12/BASE-PRODUCTION-AUDIT.md)
+confirms a 223,594-byte base receipt, the complete 325-stage selected production
+record, exact bindings, and clean per-stage process closure. The finish-stage
+evidence records genuine full host verification before writing that receipt.
+This is stronger than merely having an execution capsule or a proof prefix.
+
+It is **not** a new verification by the public `ReceiptVerifier`, a live receiver
+handle, an ordinary-source child, or a complete network loop. The old controller
+session is unavailable and its original PID is absent; its final exit/reap event
+was not recovered. The audit preserves this limitation and does not rerun proof
+production to compensate for a missing session handle.
+
+The new operation records 126,105.625 worker CPU seconds (about 35.03 CPU hours),
+688.375 controller CPU seconds, and 12,767.43 active wall seconds (about 3 hours
+33 minutes). Parallelism explains why CPU time exceeds elapsed time. Earlier
+preparation, builds, failures and prior proof-prefix work are additional, not
+zero. These costs make selective certification and a practical bounded-delta
+route central economic work; receipt creation by itself demonstrates no net
+useful-growth advantage.
+
+A thin receipt-to-source integration harness was drafted but is unreviewed,
+unrun and not adopted. Its existence closes no release gate. In particular,
+the actual worker/native process envelope and complete source pin selection
+must be resolved before selecting that workflow. This guide's completion is
+a documentation checkpoint followed by the requested pause, not a new runtime
+authorization.
 
 These are central unfinished obligations, not peripheral polish. A certificate
 alone would not close discovery or growth. A larger local peer simulation would
@@ -1017,6 +1155,9 @@ and final release. None is waived by a version label.
 - [Independent assurance record](../research/cycles/v5-2026-10-07/ASSURANCE.md),
   [decision ledger](../research/cycles/v5-2026-10-07/DECISIONS.md) and
   [prior pause/background-run handoff](../research/cycles/v5-2026-10-07/PAUSE-HANDOFF.md).
+- October 12 [base-production evidence audit](../research/cycles/v5-2026-10-12/BASE-PRODUCTION-AUDIT.md),
+  [whole-guide assurance review](../research/cycles/v5-2026-10-12/GUIDE-ASSURANCE-REVIEW.md)
+  and [authoring/full-cycle review](../research/cycles/v5-2026-10-12/GUIDE-AUTHORING-REVIEW.md).
 
 ### Related foundations, not substitutes for our assurance work
 

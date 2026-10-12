@@ -1,5 +1,26 @@
 # Current research desk
 
+**2026-10-12 guide complete; user-requested PAUSE.** The single full-system
+[guide](../notes/V5-ARCHITECTURE-GUIDE.md) is updated and independently reviewed.
+Root read/adopts the completed BASE-PRODUCTION-AUDIT: recorded final receipt and
+325 stages pass integrity/closure review; no fresh public admission or child use
+is established, and the original controller exit/reap was not observed. No
+runtime was launched. The unreviewed/unrun receipt_integration.py draft remains
+untracked and not adopted. All agents quiesce after documentation handoff; no
+integration, proof, process probe or deployment is selected. See
+[current handoff](cycles/v5-2026-10-12/GUIDE-PAUSE-HANDOFF.md). The earlier resumed
+selection below is superseded by this explicit user request; full v5 is unfinished.
+
+**2026-10-12 resumed:** Git b4867a6, guard PASS, prior proof71174 handle missing
+and original PID absent. Base-production01 has terminal PASS artifact report:
+325new stages, receipt223594B/850c33b2, no extra guest replay. This is not yet
+adopted mathematical admission. Independent terminal evidence audit is assigned;
+the source author prepares genuine receipt-to-live-import-to-ordinary-Lean-child
+integration over existing public APIs, with independent source/selection review.
+Root owns all runtime choices and Git; no runtime launched. Full six v5 release
+obligations remain. See cycles/v5-2026-10-12/PLAN.md. Earlier pause and live
+paragraphs below are history, not current runtime status or restart authority.
+
 **2026-10-08 documentation-only guide complete:** the user's full
 [candidate architecture guide](../notes/V5-ARCHITECTURE-GUIDE.md) is written,
 source-backed and independently reviewed. Three disjoint review notes are under
