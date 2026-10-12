@@ -4,6 +4,17 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-12 current resumption: root owns finite selections, cost decision and
+Git; source-only aggregate admission controls can proceed independently of the
+guest failure. Base owns saved-graph diagnosis and minimal successor proposal
+in AGGREGATE-GUEST-INTEGRATION.md; no repeated graph/build or used-source edits.
+Author owns aggregate_admission controls and proposed mixed I/A import seam in
+AGGREGATE-PUBLIC-ADMISSION.md. Assurance owns failure/closure audit and independent
+source/selection review in ASSURANCE.md. Canonical root remains E:\Distributed
+Trustworthy Mathematical Knowledge Network; all checkpoints October12 cycle.
+Guest60734 terminal FAIL before compile, not live. No proof campaign selected.
+
+
 2026-10-12 next central implementation: integrated proof-validation build and
 two retained actual comparisons independently PASS; no runtime remains live.
 Root owns host/build.py + Select-AggregateHostBuild01.ps1 exact single-link

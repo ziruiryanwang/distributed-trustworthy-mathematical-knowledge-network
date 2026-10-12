@@ -1,5 +1,52 @@
 # Current research desk
 
+**2026-10-12 aggregate admission controls adopted; mixed source underway.**
+All17synthetic groups independently PASS in aggregate-admission-controls01,
+RESULTcf0faa4a6984675410ba47131b8476b890528aa80d01ec1c6cce67e3481b702d:
+0.78125JobCPU+0.28125wrapperCPU,3.2813307wall and clean closure. This covers
+owner/member bookkeeping and mocked same-call finalization, not real A admission.
+Owner/control sources are now used/frozen. Root adopts the first mixed_claims
+packet/receiver source phase (author), preserving exact claims and all existing
+checking. Guest saved-graph mismatch is exactly four lexical '..' source-path
+spellings, nothing else. Base prepares compile-only successor with saved graph
+and unspent1794CPU/134controllerCPU/1653wall; no graph rerun selected.
+Root's snapshot.py/cost screen is source-only awaiting review and actual image.
+
+
+**2026-10-12 resumption: actual guest graph failure, no blind retry.**
+Goal remains ACTIVE toward the real deployable v5; the guide/pause was revoked.
+Guest60734 is terminal/reaped FAIL before compilation: exact full graph guard
+rejected the saved297-unit graph. Independent actual audit adopts RESULT231c9411,
+5.359375workerCPU+45.5625controllerCPU,146.420616wall, clean closure; no guest
+ELF/image/proof exists. Base diagnoses the exact graph difference from saved
+evidence. No source normalization or budget renewal is implicitly authorized.
+Host-build01 and native integrated comparison remain independently adopted.
+Root prepares one small synthetic aggregate-admission control selection while
+the author advances its same-call controls; no mock evidence is receipt authority.
+Assembly source is reviewed but blocked on a successful actual guest build.
+
+
+**2026-10-12 aggregate host compiled; exact optimized guest build selected.**
+Host49741 is terminal/reaped raw PASS, one link65.375workerCPU;
+72.2037113totalwall, pending independent actual audit. No host invoked.
+Root adopts independent source/exact review of guest selection
+011ac45c532756eba74a573f66a06e1a2f0e78ba1219aed2bdd6bef8a3d67f70:
+38sources, exact retained-lock plus1localpackage, full296-to297-unit graph gate
+before compile, fresh offline target,2Cargo calls. Launch only after host exit,
+using retained D:\Python314; original1800workerCPU/totalwall,4096MiB/8active,
+180controllerCPU/16GiBcombined envelope. No execution/image/proof is included.
+Fresh guest sources select the validated correspondence and exact-J-v2 relation.
+
+**2026-10-12 one aggregate-host link selected.** Root adopts independent full
+closure review of host-build01 b8c64994f64c66eaa8a90612d5fa0f3ebcad4ce053e86f4f8fe485408cadbb8b:
+3sources/3142runtimepins, actual dependency/native search paths checked. Launch
+once with D:\Python314,240workerCPU/phase-wall,3072MiB/6active,
+120controllerCPU/600totalwall. It reuses the audited new project rlibs and the
+retained cryptographic SDK; it does not execute the host/guest or prove anything.
+Only about2GiB physical memory was free at selection, so do not overlap this
+memory-heavy link with the prospective4096MiB guest build. Source/API/review
+work continues in parallel. No unrelated process is stopped to reclaim memory.
+
 **2026-10-12 actual optimized native comparison independently adopted.** Result
 f60945682fd510c837a26c6bc1703fe8065e8e1a2a301d675e9f869d44384d33 passes:
 valid two-delta output is byte-identical to the retained baseline; invalid proof
