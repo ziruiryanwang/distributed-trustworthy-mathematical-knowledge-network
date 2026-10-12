@@ -1,5 +1,111 @@
 # Genuine receipt to ordinary-source child: source checkpoint
 
+## Resumed software work: source complete, runtime not selected
+
+The user explicitly resumes real v5 software and root reassigns this lane;
+the stop entry below is now historical. The unchanged full objective remains
+affordable reciprocal network use, not a guide or this isolated endpoint.
+
+The current harness is 21,755 bytes, SHA256
+`f0d2697fc6e769d93643c2bfd1b1917e324408540aa5a862775fa316e47f4702`.
+Independent assurance read the complete stable source and found no remaining
+source blocker for the intended chain. This is not a runtime pass. No code,
+test, compiler, verifier, host, guest, network or proof operation has been
+launched by this lane. Only read-only inspection/hashing and source/input edits
+were performed. All used predecessor bytes remain unchanged.
+
+Source refinements before runtime:
+
+- Validate all later-stage numeric grants before spending actual receipt work.
+- Construct the existing `OwnerPreparation` before receipt verification, so its
+  source/runtime/profile checks fail before expensive operations. Its lifetime
+  accounting therefore includes subsequent owner work; do not add it again to
+  whole owner-process CPU.
+- Check output nonoverlap against all producer host/Python/runtime/source pins.
+- Capture the actual public `SourceOperation.prepare` request and require exact
+  byte equality after authoring; do not self-pin a possibly changed request.
+- Re-decode actual source export and inspect the root theorem's local proof-value
+  closure for exact imported `binary_congr`; Tree/fold/map occur in the root type.
+- Preserve actual child identity/census/capsule data and failed accounting.
+  Final RESULT I/O overrun/failure creates overriding `FINALIZATION-FAILED.json`;
+  caller exit remains nonzero if even that marker cannot be written.
+
+### Exact unrun profile/configuration proposals
+
+Root owns the enclosing selection and actual launch. These fresh input files
+are proposals, not permission to run:
+
+| File under `experiments/v5-local-checks/` | Bytes | SHA256 |
+|---|---:|---|
+| `receipt-source-integration-01-profile-draft.json` | 19,952 | `cd7a4bfac290a717f20af1a00d8e6f1a87939ea8ba7d3203b38d21bea291e56e` |
+| `receipt-source-integration-01-config-draft.json` | 2,801 | `8199b31aadb0ddce3ca0ba683679b793b3bfac404bd0cdce28a4b58ff552f36e` |
+| `receipt-source-integration-01-selection-draft.json` | 12,187 | `6efbbc8e43a8704b3f8650ec9b21f589180ecd671e6d21c18152109db994b659` |
+
+Expected enclosing output is `receipt-source-integration-01`, with source tree
+`sources/software/v5/` and harness output `evidence/`. The profile pins 34 actual
+Python sources at those anticipated snapshot paths. Nested Producer's two source
+pins and worker path agree with the same actual tree. The root must snapshot
+those 34 files, `workloads/ReceivedFoldMap.lean`, its roots JSON, and the existing
+`tools/Run-V5-Check.py`: 37 required selection-source files. The earlier 38-file
+read-only census also included preparation/API.md, which is not required to run.
+
+The profile retains adopted host03, image04, the successful linked frontend,
+the actual Python executable/DLL plus 16 other explicit Python runtime pins,
+and six Lean runtime pins: five execution DLLs and Init.olean. This is explicitly
+NOT a hermetic OS/olean dependency closure. Existing adoption of the installation
+remains part of the trust basis, as in the frozen public API. The original base
+receipt is exactly 223,594 bytes with SHA256
+`850c33b2a26649bd5d68762b75b4b4618eb5cd837d50507490d02a28db6e5d47`.
+
+| Scope | Proposed fixed limit |
+|---|---|
+| Root enclosing Job | 600 total CPU seconds, 600 wall, 4096 MiB, 6 active processes; 1 MiB each log |
+| Harness whole wall | 540 seconds including preflight; enclosing Job covers startup/final tails |
+| Actual cold receive | One call, 30 CPU, 60 wall, 1024 MiB |
+| Live import session | One module, 4096 calls, 1 MiB receipts, 16 MiB data, 480 wall |
+| Preparation allowance | Two operations, 300 worker CPU, 120 controller CPU, 480 wall, 256 MiB retained output, 512 entries |
+| Author | One native call, 30 CPU, 90 wall, 1024 MiB |
+| Host prepare | One call, 15 CPU, 45 wall |
+| Parent-aware snapshot | One call, 240 CPU, 300 wall including prepare, 2048 MiB, cycles `2^25`, po2 18 |
+
+Allowance ID is
+`28263da7f9454f07b2ed05fdb10a17203ecf3e9d6f9c4ea48780771720a2b12d`.
+It is a finite local operational identity, not cryptographic authority. Stage
+limits and actual settled costs share the existing owner allowance; no retry or
+renewal is performed. The separate receipt reservation is not silently included
+in the owner's worker budget. Whole harness owner CPU plus actual receive Job
+CPU plus preparation worker Job CPU form nonoverlapping observed costs. The
+enclosing Job is inclusive and MUST NOT be added to those again.
+
+The bound is generous relative to retained base snapshot03's 2.671875 inclusive
+Job CPU seconds, but that is a scenario estimate rather than a proof about the
+new child. No actual child ModuleID, row count or segment count is assumed. The
+cycle ceiling may refuse; such refusal is retained rather than automatically
+raising the cap or launching a second operation.
+
+Root/reviewer must still clear the real two-active-process worker/native path
+and exact enclosing selection. Prior `total_processes=2` counters alone neither
+prove a third simultaneous process nor justify increasing the cap. No runtime
+is selected by this checkpoint.
+
+**Later prospective clarification:** root ran a separate tiny process-shape
+discriminator, not this integration. Independent assurance reports that the
+unchanged worker actually launched the retained native frontend, reached its
+intended wrong-schema refusal and reaped cleanly under the unchanged inner
+two-active-process cap. Total processes were three, which is cumulative rather
+than a simultaneous peak. The probe harness's final report failed because it
+used integer-only `supervisor.strict` on floating telemetry; that failure remains
+preserved. Independent retained-output review found all ten prospective launch
+checks true. The integration and existing Owner use `production.parse`, which
+permits telemetry floats. No speculative process-limit increase or duplicate
+probe is required. This is source/review context from root/reviewer, not this
+lane's independent actual audit. See the central ASSURANCE record for evidence.
+
+The completed selection proposal contains37 source/33 runtime pins and the exact
+config SHA argument. It includes the profile/config documents, current receipt,
+semantic files, retained binary/image and runtime pins. The exact enclosing
+selection and root runtime adoption remain separate; this lane has not launched.
+
 ## Stopped before review or runtime selection
 
 Root subsequently instructed this lane to stop feature work, review the existing
@@ -93,3 +199,39 @@ the launch envelope. Flagged to root before coding: do not select actual launch
 until this uncertainty is explained or a fresh explicit successor is selected.
 
 No current source checkpoint is a runtime pass.
+
+## Fresh bounded-delta authoring successor (source only)
+
+Chronology clarification: the inherited guide/pause request predates the user's
+explicit subsequent REAL-v5 resumption. Root confirmed the newer human messages
+and current GOAL/NOW record. This lane continues only its assigned source work;
+it does not repeat the completed guide or pause the active goal.
+
+New `software/v5/delta/authoring.py` and `authoring_api.md` now implement the
+distinct `DeltaImportSession`, `DeltaSourceOperation`, and thin
+`DeltaOwnerPreparation` successor. The existing receipt/source integration and
+all used receipt-only source remain frozen. The actual integration's successful
+receipt/source/host-prepare prefix is retained; the clean original snapshot
+cycle-limit failure is not retried or reinterpreted as a certified child.
+
+The new session takes only the actual DeltaVerifier and genuine live handles.
+It binds exact accepted closure inventory, whole packet bytes, selected group
+openings and committed semantic bodies. Multiple handles may merge only exact
+member identities; alternate witness/receipt/rank selections refuse. Native
+frontend context excludes imported theorem proofs, but onward packets preserve
+the complete needed bounded uncertified ancestry to real receipt frontiers.
+No forged VerifiedModule, delta receipt claim or delta `parent_receipts` exists.
+
+Ordinary source is decoded with the existing canonical SourceRows implementation.
+The untrusted native relation rows are emitted with the existing NativeRows.group
+method over actual owner identities; no ImportClaim or duplicated checker is
+created. The original fixed worker, resource Jobs, aggregate owner controller,
+float-capable telemetry parser and closure checks are reused. The source
+operation revalidates original live selection before/after native return and
+final writes; finalization failure invalidates candidate results. Snapshot is
+explicitly disabled on this distinct preparation API.
+
+The first actual native target remains the already produced receipt-backed
+ReceivedFoldMap child, not a new toy. This lane has launched NO AST diagnostic,
+test, build, native process, proof, Git mutation or network call. Source review
+and root's exact finite launch selection are still required. Full v5 is open.

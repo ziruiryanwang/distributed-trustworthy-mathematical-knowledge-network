@@ -62,6 +62,36 @@ in parallel with this diagnosis: selection
 `delta-packet-controls-01-selection.json`,30CPU/45wall/512MiB/cap2. They test new
 packet/controller boundaries, not genuine positive mathematical admission.
 
+## Selected correction: build the actual current native checker once
+
+Read-only artifact census found no compatible retained native library. Root
+selects native-library02 selection
+`7941f68e3615e7bb1119aa0083ce0cc73525e4b8e978f72ab4e596ba446b2cae`
+after independent95-pin review. All26 checker files match both the actual
+guest05 source snapshot and its recorded source map; current parser7a183a1c
+exposes the required public function. The direct rlib build keeps the prior
+eight external dependencies and overflow/unwind/optimization settings. Limits
+remain90CPU/120wall/2048MiB/cap4. This changes the compiled source selection to
+the actual adopted checker; no relation, foundation or proof policy changes.
+No guest/prover/dependency rebuild or second library attempt is authorized.
+
+The nine structural controls01 passed independently:0.46875 workerCPU plus
+0.265625 wrapperCPU,1.1253214 wall, clean closure and27 matching pins. Used
+receiver/packet/test source is frozen; the passing control run is not repeated.
+
+Library02 actually passed; independent122-pin audit confirms clean closure and
+exact11,303,166-byte rlib `ba6d0db2e614c2bb032ca5d92d97d31a7ebfe87f85fa6cce6fe5549483b7c651`.
+Cost42.53125 workerCPU+1.03125 wrapperCPU,14.1900198 wall. Root adopts this
+artifact for the fresh driver02, not as mathematical admission.
+
+Root selects one driver02 compile after independent183-pin/source review:
+selection `031f526e5b8077652e85d6b7ffbb84ff8e9db1549f40359345f46e03f5545d66`,
+supervisor `500c6b35cfdae246db1b13524dfe846ed5da28efbeca98c65fba0620fef53597`,
+proposal `b0d037459b950c3cbabd1c2554aebf1fe9611820598d370eb40f4d69e700885d`.
+The source successor changes only its allocation/proposal references and
+description. It uses the genuine new native library with the unchanged driver,
+module relation and finite limits. Old build01 evidence is retained unchanged.
+
 ## Parallel useful work
 
 Actual delta acceptance will reuse the retained1355-row child witness and real

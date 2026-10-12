@@ -1,5 +1,55 @@
 # Current research desk
 
+**2026-10-12 corrected two-delta contribution actually accepted.** Root adopts
+independent reprepare01 PASS:184 bindings, only final1009-row witness changed;
+actual cold receipt+two native checks admit target52c564f8 at rank2, all3members,
+opening and complete packet export. New retained packet662480B/54c7dac7 is
+experiments/v5-local-checks/delta-reprepare-01/evidence/delta-packet.json.
+All owners/Jobs closed/reaped;6.625workerCPU+.5625wrapper,8.638137wall. Original
+author01 failure and46.796875CPU remain charged. No reauthor or new proof was
+run. Authoring02's shared corrected emitter has actual evidence; its entire
+ordinary live-owner wrapper is source-reviewed, not separately executed.
+Next central work: real stale-provider discovery/replica return and sound
+aggregate-DAG sealing. Full v5 remains ACTIVE; no guide/pause/release claim.
+
+**2026-10-12 canonical-order defect isolated; retained-export repair selected.**
+Ordinary two-use source author01 produced the exact four-universe theorem and
+two proof references, but its cold second-delta check refused imported group
+order. Frontend topological order was wrongly reused for relation rows; the
+unchanged verifier requires canonical(owner,index) order. No false mathematics
+was admitted. All262 audited bindings/closures hold; raw author01 remains FAIL.
+Root created fresh authoring02 + shared reprepare helper (source-cleared), with
+one retained-export/cold1receipt+2native successor under exact review. No Lean
+reauthoring, native rebuild, guest or proof repetition. Network controls5 pass
+independent88-binding audit. Real stale-provider fallback exposed a separate
+fail-stop descriptor issue; a narrowly typed availability successor is now
+source-selected. Aggregate-DAG certificate source implementation proceeds in
+parallel after root reads its explicit theory; no aggregate build/proof selected.
+
+**2026-10-12 genuine bounded delta accepted; onward reuse next.**
+Root adopts the independent delta-actual01 audit: real frontier receipt plus
+unchanged native relation accepted retained child4adbc049; one altered proof
+was genuinely rejected, earlier handle revoked, all owners closed and Jobs
+reaped. All82 audited bindings hold. Outer8.125workerCPU+.46875wrapperCPU,
+10.73334wall; no new proof/guest/authoring. The full v5 goal remains ACTIVE.
+Fresh delta-author01 exact profile/config/selection is under review for one
+ordinary two-use composition and cold complete two-delta admission; fresh
+network custody/transport controls are source-cleared, not yet executed.
+Theory review found a central limitation: profile2's direct-parent receipt
+rule prevents naive periodic sealing from avoiding intermediate certificates.
+Aggregate-DAG sealing is being specified before any expensive proving work.
+The bounded native route alone does not establish unbounded-chain scalability.
+
+**2026-10-12 current native checker built; genuine delta acceptance selected.**
+Driver01's stale-library API failure remains preserved. Current native-library02
+matches actual guest05 checker sources and passed; driver02 then passed with
+executable37a0af1b. Independent actual audits adopted; no semantic/crypto policy
+was weakened. Root selects exact delta-actual01 f9315f53/config7f5b305b for the
+retained source-derived child: at most1 genuine cold receipt verification+2
+native checks including an invalid-proof refusal. No author/prepare/guest/proof
+repetition. Fresh two-use ordinary authoring and distinct composite delta-network
+transport proceed source-only in parallel. Full v5 remains ACTIVE and uncompleted.
+
 **2026-10-12 independent receipt/source outcome adopted; bounded delta next.**
 Root read/adopts ASSURANCE's actual integration audit: all107 bindings hold;
 real base admission, proof-level imported binary_congr reuse and retained child

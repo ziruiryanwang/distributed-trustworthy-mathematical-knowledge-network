@@ -4,6 +4,27 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-12 current: root owns fresh delta/authoring02.py,reprepare.py,
+reprepare_actual.py and exact retained-export successor selection; used
+authoring.py/author_actual.py remain frozen with failed author01. Assurance
+audits changed rows/source/runtime. v5_base_actual_audit owns new aggregate/
+pure relation/commitment/header/guest source with AGGREGATE-IMPLEMENTATION.md;
+no runtime or expensive proof. v5_receipt_source_loop owns typed descriptor-
+unavailable successor and network_actual.py, preserving original locator budget
+through real stale-origin-to-live-replica fallback. Prior control sources now
+used/frozen. Root alone Git/launch; all full release obligations remain open.
+
+2026-10-12 latest: delta-actual01 terminal and independently adopted; no runtime
+live. Root owns delta-author01 snapshot-bound selection, network-control launch
+and integration/Git. v5_base_actual_audit now owns source/theory-only
+DELTA-SEALING-POLICY.md, including aggregate-DAG certificate feasibility and
+full-cost bounds (no duplicated base audit/experiments). v5_receipt_source_loop
+owns fresh delta/network_actual.py+finite proposal, consuming retained onward
+packet without reauthoring. v5_integration_assurance owns independent exact
+author selection/outcome and network source/outcome reviews. Canonical root
+E:\Distributed Trustworthy Mathematical Knowledge Network; all checkpoints
+research/cycles/v5-2026-10-12/. Root alone Git/runtime, no old campaign renewal.
+
 2026-10-12 continuation: root adopts the independently checked integration prefix
 and retained snapshot failure, owns fresh delta/build_native.py and exact finite
 build selection. v5_base_actual_audit finishes receiver review corrections then
