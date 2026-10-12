@@ -1,5 +1,12 @@
 # Goal: a usable mathematical commons architecture and software
 
+**2026-10-12 goal reaffirmation:** the user retains the full deployable software
+objective and explicitly adds: avoid waste, resolve theoretical problems in
+principle before experiments, and parallelize distinct useful experiments when
+it saves time. Reuse completed evidence; finite changed-boundary tests support
+implementation decisions, not repeated broad campaigns. The goal remains ACTIVE.
+
+
 **Explicit resumption after guide, 2026-10-12:** the user directs continuation
 toward the REAL final v5 software and revokes the pause below. The guide is
 complete, not the active task. Resume implementation, theory-led economical

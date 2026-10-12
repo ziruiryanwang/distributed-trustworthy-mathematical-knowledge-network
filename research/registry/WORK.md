@@ -4,6 +4,18 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-12 latest resumed: root owns selections, whole-system cost decision/Git;
+assembly01 independently PASS, snapshot01 terminal cycle-cap FAIL/no capsule.
+Base owns source-only aggregate_host/attribute.py plus PC-ATTRIBUTION.md, using
+retained exact-image diagnostics without guest rerun. Author owns source-only
+Select-MixedImportsControls01.ps1 and minimal realA integration proposal in
+AGGREGATE-PUBLIC-ADMISSION.md; three phase2 modules are reviewed/held, not used yet.
+Assurance owns snapshot actual audit and upcoming exact/offline/source reviews
+in ASSURANCE.md. Canonical E:\Distributed Trustworthy Mathematical Knowledge
+Network, checkpoints cycles/v5-2026-10-12. No runtime is live. No cap increase,
+proof campaign, base proof repetition or guide/pause is selected. GoalACTIVE.
+
+
 2026-10-12 latest: no runtime live. Guest compile72234 produced the exact ELF but
 failed final controllerCPU envelope; do not recompile or use old assembly gate.
 Base owns minimal retained-artifact validation/adoption source proposal and

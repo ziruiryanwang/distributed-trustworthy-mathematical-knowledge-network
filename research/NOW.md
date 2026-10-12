@@ -1,5 +1,45 @@
 # Current research desk
 
+**2026-10-12 actual capped failure independently adopted.** Snapshot01 inner
+a873a4b8 and outerf91ef77b are audited:145 changed bindings match including all128
+retained segments; wire/header differ from original in only the selected A slot.
+The same genuine I receipt was checked. No capsule exists and no runtime remains
+live. Proof funding/cap increase stays held; offline attribution is the next
+cost discriminator, alongside independent small mixed-import controls.
+
+
+**2026-10-12 aggregate cost screen terminal FAIL; no retry.** One actual guest
+exceeded its2^25 session limit (33557665>=33554432); no completed capsule or
+certificate exists.128 bounded segments are retained, not resumable proof
+evidence. Diagnosticebd87c76 (2428623B) has39,769,880 observed instructions,
+131,454 stored samples and23,898 omitted samples: saturation biases attribution.
+Job6.65625CPU+0.390625wrapperCPU/7.8319161wall, exit1 with clean closure; independent
+actual review pending. Root holds proof production and any cap increase. Use
+the one retained prefix for offline exact-image attribution and a theory-led
+next intervention. The mixed import ten-control route proceeds independently.
+
+
+**2026-10-12 aggregate execution cost screen selected.** Assembly actual audit
+PASS is adopted: image51d51ea0ba1f4e4402615e04e64c739dcd497145aa8ecf8e89ed8d03f8177c49,
+inner097775f5;0.5625JobCPU+0.4375wrapperCPU/5.3583708wall, clean closure.
+Root adopts exact screen selection224ec1f99cb8e9dc59e290eddf526be2bbc7cad7aa13a7146110e31972f08e79
+(8sources/29runtime-data pins). One guest execution,2^25 cap,po2=18, sparse
+instruction samples;180CPU/240wall/3072MiB/3active. Only A's32-byte image slot
+changes in retained mathematical inputs. No proving or automatic cap increase.
+Completion or bounded-prefix diagnostics will determine the next cost decision.
+
+
+**2026-10-12 resumed implementation: one image assembly selected.** Root adopts
+the independent retained-artifact validation PASS (inner RESULT a9d60ab0) without
+changing the original FAIL_FINALIZATION or its charged costs. Exact independent
+review clears assembly selection bfe448433889fe42a3e357317ee59ed7fd3046aecf1ec9045951765bdc69c7fb:
+2 sources/33 runtime-data pins, one existing assembler call,120CPU/120wall,
+1024MiB/2active. No compile, guest execution or proof is selected by this operation.
+Root launches once. Mixed import/authoring phase2 source is independently cleared;
+its ten small synthetic groups need a separate exact selection. PC attribution
+helper is source-only. Goal remains ACTIVE; no guide task or pause is active.
+
+
 **2026-10-12 independent actual audits adopted; retain compiled work.**
 Mixed12controls PASS is independently adopted (RESULTc376471d,46source bindings);
 no realreceipt/nativeguest was invoked. Compile audit confirms all39frozenproject
