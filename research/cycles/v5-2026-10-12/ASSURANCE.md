@@ -2,6 +2,157 @@
 
 ## Explicit implementation resumption after guide delivery
 
+### Retained-network continuation01 actual PASS
+
+Outer RESULT SHA
+`70898a9f36f2540697d2008ee2ce3862e02f5e535c91d251b95e2e6d5aeca995`;
+inner RESULT SHA
+`5f758b0171f1ae9048f0c9660d00996eafce06b93fbff94436bd8f9528918f09`.
+All229actual bindings independently match:58canonical sources,50outer pins,
+78actual-owner runtime pins,28Node canonical/snapshot pins and15inputs. Retained
+reader1 result/packet DB/module DB hashes remain unchanged; no SQLite sidecars
+exist. A separate read-only immutable SQL audit compares actual packet, complete
+group and complete body rows across preserved reader1 and all three new stores:
+transient origin, replica and new reader2 each retain exactly the same1packet,
+13groups and11bodies. No old source, custody or acceptance state was repaired.
+
+The new reader starts with no target IDs/HTTP contacts and actually locates the
+transient origin through the formal key. The first route's peer equals the
+origin's actual freshly generated peer ID. The origin is then stopped/reaped
+and its HTTP/custody closed before any acquisition. Its subsequent descriptor
+returns the real typed TCP_CONNECT_UNAVAILABLE, with no authenticated-peer
+claim and the full reserved4096B charged. The same live child/channel then
+performs its second original-ticket route, returning the real replica plus the
+stale origin. It skips only its already attempted public result and adopts the
+actual replica's authenticated descriptor. That second query has one refused
+connection/query error and is honestly INCOMPLETE_QUERY_ERRORS, yet supplies
+usable hints. Replica publication in this particular run had1localwrite and
+noqueryerrors; the newly allowed zero-write publication branch was not exercised.
+
+Reader2 searches the actual replica index, selects its first actual returned
+formal candidate, acquires exact packet662,480B/54c7dac7, verifies the genuine
+base receipt223,594B/850c33b2, and checks both native deltas. The three actual
+checker processes exit0/clean and return exact prior journals/inputs (base
+rank0,delta4adbc049 rank1,target52c564f8 rank2). Receipt is fully resolved under
+fixed I/foundation/policy. Native inputs remain88b71b82 andea66d3ef. It then
+reconstructs the ordinary authoring context using its newly admitted live handle,
+received groups/bodies and independently adopted foundation:16declarations,
+13groups,64,003frontend bytes,68,707selected input bytes,2,404counted expression
+visits and0frontend theorem-ancestor proof bytes. This is an untrusted authoring
+context, not a newly authored theorem. The complete checking packet still retains
+both unsealed proof witnesses; this endpoint does not eliminate arbitrary
+unsealed ancestry or produce an aggregate certificate.
+
+Origin HTTP handled0requests; replica handled5, nofailures. Actual reader stderr
+reports1descriptor-unavailable event,5commands,0active transport connections,
+noexhaustion. All4Node lifetimes exit0/closed, no channel/forced-stop failure;
+all role pre/post pins agree and runtime inventories each retain5896files/
+130,118,221B. All mathematical owners close with0livehandles. Both route
+allowances and2descriptor requests remain charged (512events/8peer slots;
+4638descriptor reply bytes). Original location deadline still had128685ms and
+acquisition407408ms at their saved live reports; no new grant/session was minted.
+
+Overall exit0/reaped/Jobclosed,12total/0active/0terminated processes, no cleanup
+errors/finalization override;peak464,642,048B. Inclusive outer CPU93.0 plus
+separate wrapper1.0,103.9921983wall. Inner controller84.5 and checker0.109375 are
+included in outer and must not be added again. This is composition of actual02's
+retained reader1 prefix and one fresh continuation, explicitly not one
+uninterrupted operation. Actual02 remains FAIL and all prior costs remain.
+The evidence closes this same-host retained-custody/stale-provider suffix, not
+independent-host deployment, arbitrary semantic search, useful-growth economics,
+aggregate certification or full v5. No passing prefix needs repetition.
+
+### Parse-once aggregate successor: exact minimal source change cleared
+
+Fully read four new files under `software/v5/aggregate_parse_once`:
+
+- `lib.rs`: `6dfb8c28220d074a41492274bcb90fc337b78b354b3b5fdf56ad5d103d43a315`.
+- `census.rs`: `88e9796bbb5493187f541d40e7c777afa8bfd4059929a9a2a1f118cfae815b04`.
+- `relation.rs`: `5f3733fec79c7ed68d5476b8e804dc7c303aea097b7fa6b92eb98e03d1be2103`.
+- `parse_once_controls.rs`:
+  `635b9c234e66c6931838dd131510c7c9d4a548acd965f9b0912f1100f1512c6e`.
+
+Independent line comparison against frozen source confirms only the intended
+production changes: census returns its existing strictly parsed Value after
+identical checks; relation moves that Value into the unchanged public
+module_relation::check, preserving the second canonical_size traversal. Graph,
+headers, exact pending claims, member commitments, limits and EOF are unchanged.
+No public unchecked parse token or alternate checker is introduced. The earlier
+call-sequence acceptance argument applies; resource behavior and speedup are
+not experimentally established by source review.
+
+Unchanged header/membership/wire and original tests are path-reused. Paths resolve
+to the selected frozen aggregate directory; old test calls tolerate charge's
+changed return type because they discard success values. Five new differential
+test groups compare the frozen census against the returned-Value census,
+including successful exact Values, raw duplicate/numeric/UTF8/trailing errors,
+named/positional shape, depth, cumulative limits/overflow, and exact failed-prefix
+counter state. The public Value entry's early relation refusal is compared too.
+Real mathematics is reserved for the separately selected unchanged packet.
+
+Root should select only the five changed-boundary test groups and compare a new
+native result against retained controls02 vectors; there is no need to rerun the
+old positive binary or its nine passing groups. New builds must bind all reused
+paths and the actual module rlib; a future guest still needs a new image adoption.
+No compile/test/guest/proof was launched by this review. Exact build/control
+envelopes and actual outcomes remain separate root selections.
+
+### Controls02 actual PASS and retained-network continuation exact clearance
+
+Actual controls02 outer RESULT SHA
+`492129c6ac5bd23868139125c37756d6ba4165dd4e211636e9d9eff20f37406b`;
+inner RESULT SHA
+`af619d070f7132de416cf422f8daa084e0b0d1a47bdd22a728aa9bfe1ff57125`.
+All70actual source/runtime bindings match. Exactly five workers ran: nine unit
+groups pass; actual two-delta conditional aggregate succeeds; missing premise,
+wrong rank and invalid proof each refuse at exit2 with exact expected reason.
+The invalid proof stderr contains the real checker `tc.rs:945` def_eq assertion,
+not an injected expected flag. Every worker is reaped/Job closed, zero active/
+terminated, no cleanup errors, no forced termination; no finalization override.
+
+Independent read-only frame decoding and JSON census confirm input215,388B/
+`cec1e5fc3e211bd367a9171c2a398e2a1218e627f96d28848d60c9366746c808`;
+2,364rows,22bodies,23openings,3parent edges,29,858JSON Values,maxdepth28. The
+missing-premise frame is exactly the original second witness only; wrong-rank
+changes only second rank2 to3 while preserving the first; invalid proof changes
+first theorem value1200 to770 with the second witness unchanged. All three
+returned member journals are byte-identical to earlier actual base receipt and
+native delta conclusions (ranks0,1,2), with the exact pending base journal.
+
+Independently recomputed the three sorted member leaves, duplicate-last odd
+padding, both tree levels and all six opening siblings using .NET SHA-256,
+without running product/checker code. The root is
+`3ccdf4aad4a9d009be2d644bca03e5b5b889d43b4dbebafe6e8aeeeba897de04`.
+The exact192Bheader has DMKNA001/v1, fixedI/foundation/policy,3members,maxrank2,
+sealheight1 and explicitly synthetic A=`07000000` repeated8. It is structural
+and conditional evidence, not an adopted aggregate image, receipt or authority.
+
+Inclusive outer Job4.03125CPU plus disjoint wrapper0.296875CPU,6.7812959wall,
+12total/0active/0terminated processes,peak163,540,992B. Inner owner3.421875 and
+worker CPU (0.15625,0.046875,0.015625,0.046875,0.03125) are included in the outer
+Job and not additive to it. Original controls01 import failure remains charged.
+
+Fresh retained-network continuation source was revised *before use* to
+`39aae5225fb97cbc9fea6095dc280543e5e0ffe906192642dec5cb7fef5e9d5d`.
+The revised publication gate correctly drops any global minimum-write condition.
+It permits coherent NO_PROVIDER_RECORD_WRITE, partial QUERY_ERRORS, or only
+the exact retained local query-cap/operation-timeout texts, while the original
+process/channel/deadline remain live. Arbitrary failures remain terminal. No
+write count is placement/absence evidence; actual discovery still decides.
+No command, retry, resource grant or mathematical acceptance rule is added.
+
+Exact selection
+`5699ded6dba1a6dc10e674b033248a3532dec2f4ba4650692b685f375097c5a3`
+and config
+`0cfa1763f6177adb0cd1ad196fddbae81b04229837227ced528e7d95697019b2`
+are independently cleared:128existing bindings plus58future snapshot paths
+match; the actual02 executed56-source closure plus two fresh modules covers
+the new inherited imports. Node02 snapshot/aliases, all original limits and
+ports are unchanged. Retained reader1 DBs match exact pins with no sidecars;
+output was absent. This selects only the unreached retained-custody suffix,
+one receipt/two native calls, not repetition of reader1 or new source authoring.
+No reviewer runtime/Git change was performed; root owns launch and outcome.
+
 ### Native-controls01 actual import failure; reviewer closure correction
 
 Controls01 outer RESULT SHA

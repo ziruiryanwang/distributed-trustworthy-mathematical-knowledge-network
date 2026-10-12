@@ -1,5 +1,21 @@
 # Current research desk
 
+**2026-10-12 genuine onward-sharing continuation independently adopted.**
+Retained-reader continuation01 passed:229actual bindings, unchanged immutable
+old reader1 databases, exact same packet/13groups/11bodies in new origin,
+replica and fresh reader. Actual first route hit origin; after real shutdown,
+typed TCP unavailability led through the same live channel's second route to
+the replica. Replica served5requests with0failures; origin served none. One
+genuine base receipt plus2native checks admitted exact modules; fresh received
+context has16declarations/64003bytes and0frontend theorem-ancestor proof bytes.
+The complete native packet still includes its two unsealed proof witnesses.
+All4Nodes/3mathworkers/owners closed normally under original budgets.
+Outer70898a9f/inner5f758b01;93inclusive JobCPU+1wrapper,103.9921983wall.
+Network02 remains overall FAIL; its first-recipient prefix and this continuation
+compose evidence, not one uninterrupted run or independent-host qualification.
+No runtime remains live. Parse-once build/control adapters and fresh aggregate
+snapshot/verify host are source-selected; no guest/proof campaign is funded.
+
 **2026-10-12 aggregate native boundary independently adopted.** Controls02
 passed exactly5workers:9unitgroups,actual two-delta cross-language agreement,
 missing-premise/wrong-rank/invalid-proof refusals. All70 actual bindings hold;

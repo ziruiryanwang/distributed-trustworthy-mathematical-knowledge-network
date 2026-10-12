@@ -490,3 +490,20 @@ This is not making publication itself pass: every original report/error/census
 is retained, actual discovery is still decisive, and every mathematical gate is
 unchanged. No retry, extra request/grant or deadline extension is introduced.
 Root and independent assurance must read the fresh hash before runtime selection.
+
+### Root-reported continuation01 terminal outcome; independent audit pending
+
+Root reports one terminal raw PASS for continuation01: 93 inclusive Job CPU
+seconds plus1 wrapper CPU second, 103.9922wall seconds and clean closure. The
+fresh reader completed one actual receipt verification, two native checks and
+ordinary received import-context reconstruction. Independent assurance is
+auditing the exact saved outcome; this paragraph records root's report, not an
+independent adoption by this source-author lane.
+
+Used `network_continue.py` (`39aae522...`) and `retained_custody.py`
+(`bb94845d...`) are now frozen. The evidence remains actual02's audited reader1
+prefix plus this separate retained-custody continuation, not one uninterrupted
+pass or final v5 release. Controller84.5CPU includes fresh provider/store/index
+construction and all synchronous owner work; it is not an isolated marginal
+network or receipt-verification timing and must not be added again to inclusive
+Job CPU. No repeat operation is selected here.

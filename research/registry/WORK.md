@@ -4,6 +4,16 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-12 latest adoption: root adopted independently audited onward-sharing
+continuation01 PASS; session58433 terminal/reaped and no runtime live. Root owns
+exact upcoming build/control inputs, public integration/affordability and Git.
+v5_base_actual_audit owns source-only parse-once build/changed-boundary controls,
+then validation-only proof-tree plan (no checker change yet).
+v5_receipt_source_loop owns fresh aggregate_host snapshot/verify-only source
+and AGGREGATE-EXECUTION-SEAM.md. v5_integration_assurance owns independent actual
+and source reviews in ASSURANCE.md. All canonical paths/October12 checkpoints
+unchanged. Guest/staged proof and new receiver still require separate selection.
+
 2026-10-12 resumed latest: root owns exact retained-recipient continuation and
 controls02 selection/runtime, integration/growth decisions and Git. Network02,
 link02 and controls01 are terminal; no inherited session is live. Source owner
