@@ -1,5 +1,82 @@
 # Current research desk
 
+**2026-10-16 memo screen terminal FAIL; no complete A capsule.** Independent
+actual audit confirms outer9cec3691 / innere1bf1325 and unchanged session-limit
+refusal33557665>=33554432. One guest/zero proof, clean closure; known5.796875CPU/
+6.1611544wall. The128 partial segments are not resumable proof evidence.
+Memo syntax savings are real but insufficient for the selected feasibility gate.
+No higher cap, new optimization build or proof funding is selected. Root made
+one 0.21875CPU read-only view of saved exact-image samples using frozen pure
+helpers; parsing/copying/canonicalization remain investigation targets, not
+whole-run fractions. See cycles/v5-2026-10-16/MEMO-SCREEN-DECISION.md.
+Next product work is the fixture-free workspace/client contract; actual API
+review found hard-coded experimental location paths and incompatible I-only
+transport assumptions, which must be resolved rather than hidden by a facade.
+
+**2026-10-16 unchanged-cap memo screen selected once.** Exact independent
+review clears selection8c630587ea56bb0a4b6ddf7e014294dfbbbb76395f72e2f6d4d1dc7b53bcff04
+and configuratione0cf7861. Root launches one guest execution on image99b9f1cf,
+same mathematics/I receipt, 2^25 cycles/po2=18, outer180 CPU/240 wall/3072 MiB/
+3 active. No repeated baseline, proof or larger allowance. Actual outcome
+determines the next certification decision; client source-design continues.
+
+**2026-10-16 memo image assembly actual PASS adopted.** Independent audit
+binds outer50de313f and inner8a2174ad, three snapshots/65 inner inputs and exact
+ELF/kernel/driver output. Image99b9f1cf14f922f13790b4949999dd71f3da9143465a0033299cd3a3a960ec60
+is1745920B; file SHA98686ced is distinct from image ID. Known1.125CPU seconds,
+2.8472854wall, clean closure. Root prepares one changed-image screen using the
+same retained mathematics, genuine I receipt, host and 2^25cycle/po2=18 limit.
+No proof funding or higher cap follows; exact screen review precedes execution.
+
+**2026-10-16 memo assembly selected once.** Exact independent review clears
+selection60b1955f8b7f70b9238693ffb9c31018dc19a2089d6aec13b3238d2810f33600:
+3 sources/84 runtime-data pins. Root launches one assembly under unchanged
+120 CPU/120 wall/1024 MiB/2 active limits. Source/build adapters and selectors
+are preserved in Git464e113. No guest execution or proof in this operation.
+
+**2026-10-16 memo four-crate build actual PASS adopted.** Session34605 is
+terminal/reaped exit0. Independent audit binds result993233231a722bcfdb4709def236d452a0bbded935bde2a66022ab1780bd8dac,
+236 copied dependencies, 32 exact compiler-read sources, all four commands,
+seven outputs/eight logs and independent ELF structure. Known CPU36.75sec,
+wall33.6437596sec, clean closure. Earlier wrong-interpreter preflight refusal is
+preserved separately in cycles/v5-2026-10-16/MEMO-BUILD-INVOCATION.md. Root adopts
+the compile result, then prepares one fresh small assembly selection. No proof
+or guest execution yet. Next product source-design is a fixture-free finite
+workspace/client over existing APIs, not a new checking/search stack.
+
+**2026-10-16 four-crate memo build selected once.** Independent exact review
+clears selection16730dce90438a8ee83215af842babfc0def7ef1ef89a6a8bf901c8e05b855b9:
+2 adapters, 32 sources, 236 retained artifacts. Root launches this one compile
+operation under unchanged 240 worker CPU/300 phase wall/420 total wall,
+40 ordinary/60 total controller CPU, 4096 MiB/6 active processes. Used builder,
+recipes and selector now freeze. No assembly, execution or proof is implied.
+
+**2026-10-16 memo guest integration source cleared.** Root adopts the reviewed
+four-crate dependency plan: rebuild only checker/module/aggregate/guest with a
+32-file exact source mirror and 236 retained dependency artifacts. No Cargo,
+SDK/std/native-host rebuild, wider cycle cap or proof funding. Source reviewer
+clears build0331610f/recipes70d0a07f. Root prepares one exact finite build
+selection before independent review/launch. Author implements a small fresh
+assembly adapter in parallel; its later runtime requires successful build
+adoption. Passing controls remain adopted only as functional evidence, with
+their wrapper failure retained. A separate theory review prioritizes the next
+software change for full-cost useful growth. Full deployable v5 remains ACTIVE.
+
+**2026-10-16 memo controls complete; functional evidence adopted, wrapper FAIL
+preserved.** Session96138 is terminal/reaped. The nine differential tests all
+passed, with exact source/snapshot/200runtime/output bindings independently
+audited. Actual retained-proof counts are18796 logical visits/473 expansions/
+404hits and184/93/60; total566 expansions instead of18980 logical visits, still
+charging every original logical visit. This is not a whole-proof cycle saving.
+Innerdc05132db4e8e93c9c1ae686bc5ff90ab08c284516cd9bf3d82c24a4c5ff4802
+and binaryb3d2f976 are separately adopted as completed syntax-control evidence.
+Outere1284bb4 remains DESCENDANTS_REQUIRED_TERMINATION: direct child exited0;
+kill was requested; final0active/0terminated does not establish that cleanup was
+unneeded. Known cost12.5CPU/14.3956636wall, no live matching project process.
+Do not rerun the passed controls or call the entire operation PASS. Root may
+advance source integration using this explicit post-hoc evidence disposition;
+no new guest execution or proof is yet selected.
+
 **2026-10-16 resumed implementation; no duplicate campaign.** The interrupted
 turn made concrete source/diagnostic progress but had not produced the three
 memo Rust files or launched its test. Root verified no matching live project

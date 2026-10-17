@@ -2,6 +2,275 @@
 
 ## Explicit implementation resumption after guide delivery
 
+### Memo unchanged-cap screen: actual FAIL, no complete capsule
+
+Independent audit confirms outer RESULT (2,077 B), SHA
+`9cec369170fdacb649772c7199b483f4c0cc0573b3b02efee4b6e21704ac89b9`,
+and inner RESULT (857 B), SHA
+`e1bf13255a581180ea5a24f35a665e5d5f118bd6493b865c1da5de2d3ecf1126`.
+The one guest execution fails exactly:
+`Session limit exceeded: 33557665 >= 33554432`.
+The outer direct child exited one and was reaped/closed, with no kill request,
+cleanup error or remaining/terminated Job processes. Known CPU is 5.5 worker +
+0.296875 wrapper = 5.796875 seconds; wall 6.161154400091618 seconds, excluding
+reporting/exit tails; peak Job private commitment 154,062,848 B.
+
+All eight current/snapshot source pins and 29 runtime/data pins match. The
+215,540 B wire differs from adopted mathematics only at image slot bytes12..44,
+which equals new image `99b9f1cf...`; its SHA is
+`2aea63ff488a4c012233742306c71526aea37c67d9f8d214e94c0d95d1200cb4`.
+The same genuine I receipt `850c33b2...` is retained. Header is 192 B, SHA
+`2bec7b73408dda33c1490360ea34330a846861283a5a5ee6ec6b7632bc5211e4`;
+command SHA `3eab530614375072523ad127459dbb8aa989f664e2c2acf552a844e233135a97`.
+Command and diagnostics retain 2^25 cycles / po2=18 / one guest / zero proofs.
+
+Diagnostic (2,447,185 B), SHA
+`ccb00f7cf6d7f6c2669f32c4b935d9fde809c163ee269d742cb975b4eb15e3a2`,
+has null result/session_stats and no complete aggregate.snapshot. There are
+128 recorded/on-disk partial segment files, totaling 24,582,405 reported bytes;
+these are not a complete execution capsule or proof. Saturated sampling stores
+131,546 and omits 17,637 events over 38,190,616 observed instruction starts at
+stride256, with zero backwards coordinates. Maximum trace coordinate
+153,051,954,397 is not the session-cap denominator. Host phase wall figures
+are 122 ms preflight, 14 ms parent verification, 4,110 ms guest/segment custody.
+
+No new attribution, rerun or proof was performed in review. Reduced syntax
+operations are real prior control evidence but have not solved this complete-
+execution gate. Neither lower failed-prefix CPU nor changed samples establishes
+completed-workload speedup or total proving cost. Preserve the failure and all
+used bytes; no cap increase, proof funding or release is justified by this run.
+
+### Exact unchanged-cap memo screen CLEAR
+
+Selection (9,259 B), SHA
+`8c630587ea56bb0a4b6ddf7e014294dfbbbb76395f72e2f6d4d1dc7b53bcff04`,
+configuration (562 B), SHA
+`e0cf7861d1a1714e64d54416dfdef726152d9eeefde6df9fce39ffda7b96277f`,
+and selector SHA
+`90231d5a4c3206ae7ae9edd831cf9aad5420ad51262087d8b0817e8a59ae6fce`
+pass independent exact review. All eight sources are unchanged and rebound;
+25 retained pins equal the adopted prior screen and four fresh assembly/image/
+configuration pins match current files. The selected actual image is `99b9f1cf...`.
+The 180 CPU / 240 wall / 3,072 MiB / three-active outer limits are unchanged;
+unchanged source enforces 2^25 guest cycles, po2=18, one guest call and zero
+proof calls. The operation was absent; selector parses with no errors. This
+clears one changed-image completion/cost discriminator, not a cap increase,
+successful guest outcome, proof funding or release.
+
+### Memo image assembly actual PASS
+
+Independent audit confirms outer RESULT (2,282 B), SHA
+`50de313fbc8f20b3f48d971f3183bf66f1079cafe18af460538b414d715a2f4e`,
+and inner RESULT (1,755 B), SHA
+`8a2174ad097333a54f3a314d63f0e646607a639aa5755efdd31c2ee1d08d43ea`.
+Outer child exited zero, reaped and closed; no termination request or cleanup
+error; final Job 0 active / 0 terminated. Known CPU is 0.703125 worker +
+0.421875 wrapper = 1.125 seconds; wall 2.847285400144756 seconds, excluding
+reporting/exit tails. All three snapshots and 65 inner inputs were rebound;
+64 inputs match outer pins and the remaining input is the pinned helper snapshot.
+The build finalization override remains absent.
+
+Exact driver command uses the adopted new ELF and retained kernel. Actual
+stdout binds image ID
+`99b9f1cf14f922f13790b4949999dd71f3da9143465a0033299cd3a3a960ec60`;
+image file is 1,745,920 B, SHA
+`98686ced7979d55685c648f441f7ffbe40712e327a1311f9cb076a0c7250e773`.
+COMMAND SHA `f7c11ad9b676c2d8cdd813960ea99b1dfd8afa03ee2ff201c354f0c2db324712`;
+stdout SHA `b111aba898e37def201e417c75a563367d1e6fa0c62880d91e9f6de5cd06d0bc`;
+stderr is empty. This is one assembly only, zero guest/proof calls and no
+mathematical admission. Fresh unchanged-cap screen selection remains separate.
+
+### Exact memo assembly selection CLEAR
+
+Prepared selection (23,126 B), SHA
+`60b1955f8b7f70b9238693ffb9c31018dc19a2089d6aec13b3238d2810f33600`,
+matches the cleared three-source adapter/helper/supervisor closure and the
+adopted `99323323...` build result. Reviewer rebound three sources and 62 new
+runtime/data records; the other 22 pins equal already-adopted records. All 84
+selected records are accounted for without another compiler-library census.
+Root selector SHA `e92a376b5a2a0bbf2b7f8593ec9fb21aa8f4d08dc86f0f49142ce5f993802f20`
+was read completely and parsed without errors. The fresh operation was absent.
+One assembly is cleared at 120 CPU / 120 wall seconds, 1,024 MiB and two active
+processes. Actual clean outer and inner adoption must precede any screen.
+
+### Four-crate memo build actual PASS
+
+Independent actual audit confirms RESULT (32,952 B) SHA
+`993233231a722bcfdb4709def236d452a0bbded935bde2a66022ab1780bd8dac`
+is `PASS_PROOF_MEMO_FOUR_CRATE_COMPILES_ONLY`, matching the sibling attempt
+and exact selection `16730dce...`, with no finalization override. Four commands
+completed at exit zero, each with 0 active / 0 terminated processes, empty
+cleanup errors and empty telemetry-cleanup lists. Final Job is also 0/0;
+peak private commitment 393,748,480 B. Worker CPU is 32.484375 seconds
+(13.6875 checker, 4.578125 module, 0.828125 aggregate, 13.390625 guest), plus
+4.265625 controller = 36.75 known CPU; wall 33.643759599886835 seconds.
+Reporting/exit tails and the earlier refused invocation remain separate.
+
+Reviewer freshly hashed 283 new-file pins: 236 copied dependencies, 32 mirrored
+sources, seven compiler outputs and eight logs; all match. Fresh dependency and
+source trees have exactly 236/32 files. All four saved command records equal the
+result and recipes; extern counts are 15/11/10/11. Independently parsed dep-info
+paths resolve to exactly the selected 32 production sources, including fresh
+memo and unchanged kernel paths. No old input-runtime hash campaign was repeated;
+the successful builder's before/after binding covers its 321 recorded inputs.
+
+Independent ELF decoding confirms ELF32 little-endian RISC-V executable,
+entry 2,100,484 and all four reported LOAD segments. ELF is 1,687,152 B, SHA
+`136baff2245a5f6af0cfe3e1d523d3b301beec91fbee778c53af80730feabb7c`;
+map is 1,774,221 B, SHA
+`e0e63f6b703508e315f9732eb69a87acff548e1aa378b7fa6f4bacc269ab401e`.
+SOURCE-MAP SHA `3ba8ee6781f249d9a49e9d1befb4d1becb8f899fd6f1a70270a8fa36eed76829`;
+RECIPES SHA `cc146064fdade93da8be5f31aef784bb7c7ffe4df2384fc9fc1c4e99436537db`;
+INPUT-MAP SHA `b06cc20fee54b76689434a13cf341ef7c2757e81f6e1cacd9c5b461062aebc32`;
+ARTIFACT SHA `164c8be3ebe2a1a68a7eeac8439283f3e30a918a0d40f4b37d5087b752c3c683`.
+This adopts compilation only, not an assembled image, guest completion, proof,
+speedup or release. The earlier control-wrapper failure remains unchanged.
+
+### Memo image assembler SOURCE CLEAR
+
+Read complete fresh `proof_memo_guest/assemble.py` (14,525 B), SHA
+`249f647692b3ca9e391f798a1ff6605dbf90aa775ce5cdd1b7b2a98329253a78`.
+It imports only the hash-pinned frozen assembler's utilities/constants from the
+selected source snapshot; old main is not invoked. New provenance requires the
+adopted successful four-crate result, matching terminal attempt and no overriding
+finalization failure, exact selection/limits, 32-source mirror, two used adapters,
+four completed closed command records with eight logs, seven outputs and link
+map. The retained assembler executable and kernel remain separately pinned.
+No compiler/dependency-library reread or old Cargo failure traversal is added.
+
+Generic assembly-only status/image fields match unchanged aggregate_host/
+snapshot.py. The image ID comes from the actual pinned assembler, distinct from
+the image file SHA. Canonical ordinary paths, fresh output, duplicate-key checks,
+pre/post rebinding and 60-second child timeout remain. Image/log bounds are
+64 MiB / 64 KiB, checked after the command; outer supervision provides selected
+resource bounds, not a hard disk sandbox. Inner success cannot authorize use
+without clean outer-completion adoption. No source blocker found. Actual build
+adoption and exact assembly selection remain pending; no assembly ran here.
+
+### Exact four-crate selection CLEAR
+
+Invocation correction: root reported a terminal preflight `PYTHON_PIN` refusal
+from using the installed receiver interpreter (1.1868366 seconds observed wall),
+before any run directory, attempt or compiler. Reviewer confirmed both output
+paths absent and inspected the retained helper: it requires the exact
+`D:\Python314\python.exe` path, not only matching executable bytes. That exe
+and its DLL freshly match `03168c01...` and `fde89cdb...`. The corrected
+`-I -S -B` invocation uses the same untouched exact selection and canonical
+workdir; no prior compile is restarted or source/limit changed. Preserve the
+refusal and its overhead separately.
+
+Reviewed root's `Select-ProofMemoGuest01.ps1`, SHA
+`7e55713bf29a24a773c4381a8789d3702604e3c7a747f226eae1f68a252fc726`;
+PowerShell parse reports zero errors. Exact prepared selection is 264,903 B,
+SHA `16730dce90438a8ee83215af842babfc0def7ef1ef89a6a8bf901c8e05b855b9`.
+Its schema, operation name, explicit four-compile authority and complete limits
+match the cleared builder. Reviewer rebound both adapters and all 32 selected
+source files. The 236 retained artifact records exactly equal the adopted
+238-file map minus `libnanoda_lib-7f1af4fb875deccc.rlib` and `.rmeta`;
+their total is 311,693,039 B. No old runtime rehash campaign was repeated;
+the selector and build driver perform current selected-input binding.
+Operation and sibling attempt paths were absent at this review. Root may
+launch this one selected four-crate compile; no assembly, guest execution,
+proof or whole-v5 qualification follows from prelaunch clearance.
+
+### Four-crate memo builder SOURCE CLEAR
+
+Read complete fresh `proof_memo_guest/build.py` (20,260 B), SHA
+`0331610f5effbeff1b00662104f5072137f2070abc3bd6b61ef8b4b3982fb76f`,
+and `recipes.py` (8,922 B), SHA
+`70d0a07f98855ae38d40c873e31c91beeec8d45d1b6fa01fb27c0eebd5f6445f`.
+No remaining concrete source blocker found. Final review correction derives
+launched compiler/checker counts from command rows containing a process ID;
+a later failure no longer falsely leaves checker_compiles at zero.
+
+The driver binds the adopted direct-build records and the exact failed-outer /
+passing-functional-control pair, requires recorded terminal closure, and keeps
+that post-hoc disposition explicit. It mirrors exactly 32 production sources,
+with the two cleared memo files and 30 retained source pins. Test files and old
+proof_validation wrappers are absent from production. The filtered 236-file
+view must equal the corresponding already-adopted artifact pins and excludes
+old nanoda/module/aggregate libraries. Each downstream compiler edge names the
+fresh predecessor output; only the fresh output/library/macro directories are
+searched. Four fresh metadata identities and ordered 15/11/10/11 extern edges
+retain the checked graph profiles and flags. No SDK/std/Cargo rebuild occurs.
+
+One shared Job bounds four sequential commands to 240 CPU seconds, 300 worker
+wall seconds, 4,096 MiB and six active processes. Controller envelope is 40 CPU
+seconds ordinary / 60 including finalization, 420 total wall, 512 MiB fresh
+output, 4,096 entries and 8 MiB command logs. These retain sampled boundaries,
+not hard disk quotas or hermetic-toolchain claims. Final rebinding, closure and
+finalization overrides prevent a failed tail from becoming PASS. Existing
+explicit post-build cleanup is limited to exact pinned VCTIP process images in
+the owned Job, with separate records; this does not identify the previous
+control-operation descendant. No repeated old pin census or runtime occurred
+in this source review. Exact new selection and actual outcome remain required.
+
+### Memo guest integration contract: source review obligations
+
+Independent review finds no conceptual blocker in the selected four-crate
+integration plan: recompile nanoda, module relation, aggregate relation, then
+guest. The new checker changes crate metadata, so reusing either old descendant
+would not be justified merely by unchanged descendant source. Preserve the
+15/11/10/11 exact extern edges and release flags. A closed retained view excludes
+all old versions of these project libraries, especially both nanoda rlib/rmeta
+files; fresh downstream edges and dependency search paths must resolve only
+the newly compiled counterparts. The production closure is 32 Rust files,
+with two reviewed memo replacements and 30 unchanged retained source files.
+
+The unchanged native host is an extensional acceptance comparator under the
+memo equivalence argument, not evidence that the changed guest was executed.
+The prior syntax controls are separately adopted functional evidence inside
+an unchanged failed outer operation; new build provenance must preserve that
+distinction and bind its recorded terminal closure, not require or manufacture
+an overall PASS. New implementation, finite budget and exact selection remain
+under review. No old runtime pin census, compiler, guest or proof was rerun.
+
+### Memo actual outcome: functional controls reusable, outer FAIL retained
+
+Independent audit of the one `proof-memo-controls-01` execution confirms
+outer RESULT (2,087 B) SHA
+`e1284bb49e3587135a178f923ec78a60f2fdae40c84a02d44cf1729a7393ca5d`:
+overall `DESCENDANTS_REQUIRED_TERMINATION`, not a passing operation. The direct
+adapter exited zero and was reaped; termination was requested, final Job was
+0 active / 0 terminated / 8 total processes, closed, with no cleanup error.
+Known cost is 10.5 inclusive Job CPU + 2.0 wrapper CPU = 12.5 seconds;
+wall 14.39566359994933 seconds, peak Job private commitment 346,533,888 B.
+Reporting/exit tails remain excluded.
+
+Read the manifest-matched frozen supervisor branch. After the direct process
+exits and its settle interval, a remaining active-process observation triggers
+the failure label and job.kill(); later quiescence overwrites final stats.
+Thus final zero active/terminated counters do not prove no cleanup was needed.
+The retained record does not identify a descendant or establish a benign cause;
+do not invent one. Used supervisor, selection, source and evidence stay frozen.
+
+Separate functional evidence is complete and may be adopted by an explicit
+post-hoc owner decision without relabeling the failed operation: inner RESULT
+(6,334 B) SHA
+`dc05132db4e8e93c9c1ae686bc5ff90ab08c284516cd9bf3d82c24a4c5ff4802`
+is `PASS_MEMO_SYNTAX_CONTROLS_ONLY`; all nine exact groups completed with zero
+failures, ignored or filtered tests. The numerous diagnostic panics in the log
+are deliberately caught by the differential controls. No kernel, guest, proof
+or dependency rebuild occurred. Compile argv differs from the adopted recipe
+only at crate name, source root and output; selected test command is unchanged.
+
+Reviewer rebound all five current/snapshot sources and 200 runtime pins, exact
+selection, reports, logs and binary with zero mismatches. Binary is 983,552 B,
+SHA `b3d2f9767fe42b48c9615f68ef1aad72b0d6357e39a07976584df9b94e213ecb`;
+COMMANDS SHA `59b3930073402d36746274c7b4c6392746cfa891c20d12ea5978090d74ab0010`;
+compile log SHA `da4faefdec163a35c8e66f5125a78acafa62c1a99c03464e79e2ff8643ab2d60`;
+controls log SHA `fff96dea73901270a7d9efa7e8c4164fb7a82afbe75e9fb34bf7face387cf72b`.
+The adapter durably recorded the controls and rebound the binary before its
+normal exit; the later supervisor cleanup failure does not negate those local
+observations. It does prevent a clean-process qualification claim.
+
+Retained proof 1: 18,796 logical visits, 459 expression + 14 level expansions,
+404 hits and 18,323 skipped visits. Proof 2: 184 logical visits, 85 expression +
+8 level expansions, 60 hits and 91 skipped visits. Both agree with the unchanged
+oracle and retain original logical charges. These are syntax-operation counts,
+not guest-cycle, kernel, proving or full-workflow savings. No repeat of these
+passing controls is justified; further build/runtime requires a new selection.
+
 ### Memo implementation and exact control selection CLEAR (2026-10-16)
 
 Independently reviewed fresh33,230B `proof_memo/module_correspondence.rs`, SHA

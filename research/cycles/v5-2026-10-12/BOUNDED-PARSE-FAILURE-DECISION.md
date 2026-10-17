@@ -283,3 +283,119 @@ independent controls author owns `proof_memo/correspondence_controls.rs`, and
 assurance owns equivalence/source review. Types, committed bodies, foundation,
 proof checker and predecessor sources remain unchanged. No compile, guest,
 proof or limit increase is authorized by this source selection.
+
+### Memo integration: minimal source-only plan, 2026-10-16
+
+Inspection of retained direct-build01 `RECIPES.json` (SHA-256
+`e6fc21c18e114cc280f7a5fe9bba3beafedae31309e87f940c970ec89ec38510`),
+its source/input maps and the frozen build02 unit graph supports **four** new
+guest-target compiler commands: `nanoda_lib`, `dmkn_module_relation`,
+`dmkn_aggregate_relation`, final guest. Only module directly depends on nanoda
+in this retained graph; every descendant must nevertheless be recompiled so
+its metadata names the new checker. No SDK, standard-library, dependency,
+Cargo, graph-generation or native-host rebuild is needed.
+
+The exact production Rust source closure is 32 files: two new `proof_memo`
+files (`lib.rs`, `module_correspondence.rs`), the 14 unchanged `checker/src`
+files selected by that wrapper, and the unchanged 16 compiler-read project
+files in direct-build01's source map. The kernel files are `debug_printer`,
+`demand`, `env`, `expr`, `inductive`, `level`, `module`, `name`, `parser`,
+`pretty_printer`, `quot`, `tc`, `unique_hasher`, `util` (all `.rs`). Test sources
+are behind `cfg(test)` and are not production inputs. Relative layout must be
+preserved if snapshotting these files. Root must bind the two fresh files at
+their post-control hashes and the other 30 against the retained map; this is
+not a request for a new full-tree census.
+
+Nanoda's retained graph unit is edition 2021, feature-empty, target
+`riscv32im-risc0-zkvm-elf`, with the same release profile as the three existing
+recipes. It needs exactly 15 externs: seven `noprelude` build-std libraries
+(`alloc`, `compiler_builtins`, `core`, `panic_abort`, `panic_unwind`, `proc_macro`,
+`std`) and `indexmap`, `num_bigint`, `num_integer`, `num_traits`, `rustc_hash`,
+`semver`, `serde`, `serde_json`, with graph-pinned features. The other commands
+retain their exact 11/10/11 extern edges; replace module's nanoda edge and all
+fresh descendant edges explicitly. Preserve opt-level 3, abort panics,
+overflow checks, no debug assertions, lower-atomic/custom-getrandom flags,
+linker-plugin LTO on the three libraries and fat LTO on the final guest.
+Give all four new crates fresh metadata identities and fresh paired
+rlib/rmeta outputs; keep the startup address, linker and map behavior.
+
+The retained dependency view can reuse 107 library pairs and 22 host macro
+DLLs (236 files, 311,693,039 bytes), excluding the old nanoda pair of
+6,360,054 + 2,446,327 bytes. These totals are arithmetic over the already
+adopted input map, not a new artifact scan. A filtered fresh view avoids
+exposing an old same-name checker to resolution. Existing compiler/runtime
+and supervision helpers remain reusable. The frozen `build_projects.py` and
+`recipes.py` hardcode three compiles, old checker reuse and old destinations,
+so they need a separately selected thin successor, not an in-place edit or
+unqualified rerun. The existing assembler executable/kernel remain reusable;
+its Python provenance adapter likewise needs a fresh four-command successor
+because its current admission checks intentionally require three commands
+and `checker_compiles == 0`.
+
+The **unchanged** `aggregate_host.exe` and `aggregate_host/snapshot.py` can
+perform the next selected screen. Source inspection confirms the host receives
+adopted A externally, computes the actual image ID, binds the expected header,
+derives the same native conclusion from the wire, and verifies the retained
+genuine I receipt. The memo preserves accepted syntax and logical bounds, so
+the prior native implementation is a valid independent preflight oracle;
+the guest still executes the changed code. The screen already changes only
+the A slot at bytes 12..44 and accepts generic successful assembly records.
+Keep I, foundation, policy, all mathematical member bytes, 2^25 cycle cap,
+po2=18, and 128-segment bound unchanged. This is one changed-guest completion/
+cost discriminator after source qualification, not a repeated proof campaign
+or a guarantee it will fit. No controller implementation, compile, assembly,
+guest, proof, new selection or Git operation was performed by this review.
+
+**Selected source implementation, 2026-10-16:** root adopted the plan and
+assigned only fresh `software/v5/proof_memo_guest/build.py` and `recipes.py`.
+These narrow successors now implement the four-command path above, using the
+existing bounded phase supervisor, 32-file production source mirror, exact
+236-file dependency subset and unchanged finite build envelope. New selection
+schema is `DMKN_V5_PROOF_MEMO_FOUR_CRATE_BUILD_V1`; exact keys are `schema`,
+`name`, `adapters`, `production_sources`, `retained_artifacts`, `limits`,
+`authorizes_four_compiles_and_retained_artifact_adoption`. Name is
+`proof-memo-guest-build-01`; adapters/source/artifact entries are exact byte/hash
+pins and the final flag must be true.
+
+The builder binds the completed nine-control inner report separately from its
+outer `DESCENDANTS_REQUIRED_TERMINATION` report and retains that failure in
+provenance; it does not require or manufacture a wrapper PASS. For future
+compiles it uses the established `allow_build_telemetry=True` path: after
+successful direct-child exit, only remaining owned Job members whose exact
+path/hash is the pinned MSVC telemetry executable may be terminated. Unknown
+descendants still fail. No new process-grace mechanism or limit expansion was
+introduced. Four commands have fresh metadata and only new outputs plus
+filtered dependency directories in their search paths. Success emits seven
+library/metadata/guest pins, ELF/link-map artifacts and explicit command counts.
+Root owns exact selection, assembly adaptation and launches; independent
+source review follows. No compiler, guest, proof or Git action by this lane.
+
+**Fresh assembler source, 2026-10-16:** root separately assigned only
+`software/v5/proof_memo_guest/assemble.py`. The adapter now imports pinned
+frozen assembly utilities from its sibling source snapshot, without calling
+the historical adapter's main function. It requires the independently adopted
+new four-crate build, unchanged selected envelope, exact four command records
+and eight logs, 32 production source files, two used build adapters, seven
+compiler outputs and ELF/link map. It reuses the retained assembly binary and
+kernel and does not reread failed Cargo lineage or compiler/dependency trees.
+The outer selection must include the frozen helper as a third source alongside
+the new adapter and `Run-V5-Check.py`; root owns that selection. CLI remains
+`--guest-result`, `--guest-result-sha256`, `--output`. Success preserves
+`PASS_NEW_AGGREGATE_IMAGE_ASSEMBLY_ONLY`, actual assembler-derived image ID,
+image file pin and zero guest/proof/admission fields, so the unchanged cost
+screen can consume it. The existing 60-second assembler timeout and outer
+120 CPU/120 wall/1024 MiB/two-process envelope remain. Source review, actual
+build adoption and any assembly launch are separate; none was performed here.
+
+**Assembly selector correspondence review:** source-only review clears
+`Select-ProofMemoAssembly01.ps1` at SHA-256
+`e92a376b5a2a0bbf2b7f8593ec9fb21aa8f4d08dc86f0f49142ce5f993802f20`.
+The three source snapshots provide the runner, new adapter and exact sibling
+helper path. Its CLI, fresh output and unchanged finite envelope match the
+adapter. Expected runtime/data closure is 84 distinct pins by source accounting:
+21 Python/driver/kernel, 12 command records/logs, 32 production sources, two
+used build adapters, seven compiler outputs, one link map, six build records,
+and the attempt/prior-selection/supervisor-manifest trio. The frozen runner
+permits zero-byte logs. No required consumed input is missing from this source
+closure. This review did not run the selector, recount artifacts, inspect the
+actual build outcome or replace independent actual/selection audits.

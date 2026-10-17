@@ -4,6 +4,31 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-16 memo build/assembly PASS and unchanged-cap screen FAIL are independently
+adopted; all used sources/evidence frozen, no runtime. Root owns next source
+selection and Git. memo_tests_review owns new cycles/v5-2026-10-16/
+WORKSPACE-CLIENT-CONTRACT.md (actual existing APIs, not implementation yet).
+v5_growth_decision independently challenges that contract's authority/budget/
+economics in its GROWTH-CRITICAL-PATH.md. memo_independent_review completed
+actual audits in ASSURANCE.md and awaits next concrete boundary. No proof,
+higher cap, speculative optimizer or repeat campaign is selected.
+
+2026-10-16 root owns proof-memo four-crate exact selector/runtime/Git.
+memo_tests_review owns only fresh proof_memo_guest/assemble.py and its existing
+BOUNDED-PARSE-FAILURE-DECISION checkpoint; build/recipes are reviewed, unused.
+memo_independent_review owns selection/actual/assembler reviews in ASSURANCE.
+v5_growth_decision owns only cycles/v5-2026-10-16/GROWTH-CRITICAL-PATH.md:
+decision-focused nonduplicative full-cost growth and next-core-software review.
+Canonical root remains E:\Distributed Trustworthy Mathematical Knowledge Network.
+No runtime is live; no cap increase or proof funding is selected.
+
+2026-10-16 memo nine controls functional evidence independently adopted; outer
+cleanup FAIL retained, no repeat. Source/test/driver bytes now used/frozen.
+Root owns source integration choice/Git; memo_tests_review finishes minimal
+guest four-crate integration proposal (no nativehost/SDK/std rebuild);
+memo_independent_review finishes actual outcome checkpoint then reviews next
+selected source. No runtime lives; full v5 ACTIVE and proof funding held.
+
 2026-10-16 root finished missing proof_memo production Rust source and owns
 exact controls selection75291dae, launch/adoption and Git. memo_independent_review
 owns source/exact selection/outcome review in ASSURANCE.md. memo_tests_review
