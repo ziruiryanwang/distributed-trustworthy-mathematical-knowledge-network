@@ -4,6 +4,21 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-16 continued product source: memo_tests_review owns client/__init__.py,
+workspace.py/API.md and WORKSPACE-CLIENT-CONTRACT; memo_independent_review owns
+the three portable location payload changes plus client/launch.py, boot.py and
+CLIENT-LAUNCH.md. v5_growth_decision independently reviews these in
+PRODUCT-SOURCE-REVIEW.md. Root owns frontier test_profile.py, exact selection,
+single bounded launch, cross-seam integration, ledgers and Git. No overlap in
+file ownership; canonical root unchanged. All genuine proof work remains held.
+
+2026-10-16 next source selection PRODUCT-INTEGRATION-SELECTION.md: author
+memo_tests_review owns only fresh frontier_network/__init__.py,custody.py,
+transport.py plus WORKSPACE-CLIENT-CONTRACT.md. v5_growth_decision owns
+independent profile/authority/budget review, checkpoint GROWTH-CRITICAL-PATH.md.
+memo_independent_review owns LOCATION-PORTABILITY-SEAM.md design, no code yet.
+Root owns cross-seam selection, runtime and Git. No live runtime/proof.
+
 2026-10-16 memo build/assembly PASS and unchanged-cap screen FAIL are independently
 adopted; all used sources/evidence frozen, no runtime. Root owns next source
 selection and Git. memo_tests_review owns new cycles/v5-2026-10-16/

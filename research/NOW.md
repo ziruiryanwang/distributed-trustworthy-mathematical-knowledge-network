@@ -1,5 +1,33 @@
 # Current research desk
 
+**2026-10-16 I-only profile controls PASS adopted.** Five controls passed with
+independent exact-source/runtime/output audit (49 sources/22 pins). Outer
+dbf08045/inner31d960c3; clean closure, 1.203125 known CPU/2.693657 wall seconds.
+No native, receipt, DHT or proof calls; no runtime remains. Used frontier source,
+test and selector are frozen. Continue client/portable runtime source integration,
+not a repeated suite. See cycles/v5-2026-10-16/FRONTIER-PROFILE-RESULT.md.
+
+**2026-10-16 product integration in progress.** The explicit I-only network
+profile passed independent source review. Root verified/copies the 21-file
+portable location baseline; its three selected changes are implemented with
+eighteen exact unchanged payloads, under independent review. The fixture-free
+client and minimal pinned enclosing-Job launcher are being implemented in
+parallel. The one five-control profile test is independently cleared at
+selection89558ab6 (49 sources/22 runtime pins, 30 CPU/60 wall/512 MiB/2 active).
+Root selects that single launch now; no native/receipt/proof work is involved.
+All previous evidence remains preserved. Affordable A and full-v5 release
+remain open; this is not a replacement goal or a qualified-v5 label.
+
+**2026-10-16 ordinary network product source selected.** Root adopts
+cycles/v5-2026-10-16/PRODUCT-INTEGRATION-SELECTION.md: fresh frontier_network
+custody/transport with an explicit I-only profile, using unchanged mixed packet
+parsing and native checking, not fake A authority or legacy conversion. Two
+independent source traces confirm tag1 refuses with aggregate_image=None.
+Author implements this narrow seam; independent growth reviewer challenges it.
+Portable location adoption has a concrete three-payload design under review;
+no package copy/runtime selected yet. Destination is a fixture-free reciprocal
+network client. This does not replace the still-open affordable-A obligation.
+
 **2026-10-16 memo screen terminal FAIL; no complete A capsule.** Independent
 actual audit confirms outer9cec3691 / innere1bf1325 and unchanged session-limit
 refusal33557665>=33554432. One guest/zero proof, clean closure; known5.796875CPU/
