@@ -550,3 +550,122 @@ Exact argv uses isolated/no-site/no-bytecode flags and the snapshotted test
 entry under30CPU/90wall/512MiB/two-process limits. **Clear for root to select
 one eight-test pure preparation gate**, with no native/proof call or automatic
 retry. Actual disposition remains separate.
+
+### Actual mixed-preparation control outcome
+
+**PASS for eight pure preparation controls.** All eight named tests finish OK,
+zero failures/errors, no skipped test shown. All42 original/snapshot source
+bindings,21runtime pins and20reported loaded-source origins match the exact
+selection and saved files. The actual retained FIRST wire/H/witness/receipt
+comparison passes without invoking a native checker or cryptographic verifier.
+Synthetic openings/receipt bytes remain synthetic. No production certificate,
+network operation or economic advantage is established.
+
+Outer result1,909bytes/SHA-256
+`21807bcbc2bfe09192fe4f313c2a0657c93c514104a0eff3d781ad0d49cb2257`;
+stdout6,291bytes/SHA-256
+`1565ceb77b5798681bee5252f9855b1502df6fbe7281712d95020cf8733b970c`;
+stderr test log1,219bytes/SHA-256
+`0b420c4b7a678b1a354e30a98f446fcc641a1550e6cebe673563269ad991e5e1`.
+Exact plan1e730111/argv/limits, exit0/reaped/closed, zero active/terminated
+processes, no cleanup error/termination request or sentinel. Inclusive JobCPU
+0.734375 plus disjoint wrapper0.3125 gives1.046875knownCPU seconds; outer wall
+1.2815069s; peak Job commit29,827,072bytes. Reviewer did not rerun the gate.
+
+## Selective-certification model challenge
+
+Read complete SELECTIVE-CERTIFICATION-POLICY after the actual controls. The
+finite fully-cold-chain advantage inequality, batch minimizer and simple
+arrival-plus-latency sufficient bound are algebraically sound under their stated
+conditions. No counterexample to those conditional statements was found.
+Two narrow refinements are necessary before treating them as a general-DAG
+deployment advisor; they require no new experimental campaign or demand ledger.
+
+### Exact certified cuts, not arbitrary single-target promotion
+
+Let the dependency graph use exact J keys and edges child-to-premise. Promoting
+a verified member J replaces that representation's serialized native parents
+by a certified leaf; it does not remove other paths to old native nodes. In
+particular, if T depends on certified X and old native Y outside the promoted
+set, T's Y ancestry remains. Therefore one certified target alone does not
+justify a bounded native tail for an arbitrary branching graph.
+
+For a promoted set S of available exact members, remove outgoing parent edges
+of S and compute the remaining target closure. Every eliminated old ancestor
+must be separated from the target by S: every path to it encounters a promoted
+member first. This graph-cut condition is sufficient directly by reachability,
+and absent it the uncovered path is a counterexample. Count/price the actual
+remaining native nodes and needed semantics, not nominal block length. All
+demanded cut members require actual receipt/member openings and semantic custody.
+The existing helper returns the full member-J list and existing B.opening can
+derive their openings; no new certificate format or global coordination is needed.
+
+### Independent cost bounds and explicit finite horizon
+
+The shared d bound is mathematically legitimate but stronger than an owner is
+likely to justify. Let d_L>0 lower-bound ordinary missing-node cost and d_S>=0
+upper-bound sealed-tail node cost under the fixed matched workload, with q
+fully otherwise-cold admissions per target. Then the same summation proves:
+
+`D >= q*d_L*mb*(mb+1)/2 - q*d_S*m*b*(b+1)/2 - q*c*mb - m*K(b,H)`.
+
+The original theorem is the special case d_L=d_S. H is the stated service
+horizon; certification/failed attempts/retention/repair costs must be bounded
+over H. Feasible m,b must satisfy actual count/byte/semantic/latency and funding
+constraints. An interval-based advisor can use conservative lower/upper inputs;
+unknown bounds give no guaranteed economic recommendation. Historical estimates
+may instead guide a separately labelled heuristic. This is an implementable
+local comparison, not a claim that current demand or proof cost meets it.
+
+Root's subsequent precision correction is adopted in the policy appendix:
+preexisting certified leaves outside newly promoted S are not native work.
+The exact selected native set is Reach(G_S,t) intersect (V_native minus S),
+where V_native denotes the pre-promotion native-evidence vertices. This leaves
+the old-ancestor cut condition unchanged and avoids charging certified I/A
+leaves as native nodes. The policy appendix was edited only under root's fresh
+assignment; all used sources/tests/evidence remain unchanged.
+
+## Independent allocation-refinement review
+
+Source-only review of SMALL-LAYOUT-FEASIBILITY appendix, SHA-256
+`c9073b6571a594ced151312ea35ca634cab1edd88570196e1396707aa3d39989`,
+and fresh `software/v5/prover_memory/preflight.patch`, 1,093 bytes/SHA-256
+`a53940b67580e215c55c2eae1e33e12f93a410193dde5f6414f533e4517fdc6c`.
+The retained SDK, libraries, inputs and executable remain unchanged; no import,
+build, native/proof operation, capacity poll or Git mutation was performed.
+
+**PASS for the local source refinement; not a runtime fit qualification.**
+The retained witness census establishes a maximum 612 bytes per reserved row.
+`Trace::new` inserts Globals through the same `add_block` path as other blocks.
+Each fresh row reserves at most 153 u32 words; its row-buffer index is accessed
+before its witness write. Thus any successful old trace reserves at most N rows
+and accesses only its first 153N words. `get_block[_mut]` uses recorded witness
+indices/sizes, not vector capacity. `finalize` fills and sorts row metadata;
+it adds no auxiliary reservation. Both versions zero the same reachable prefix
+and make identical writes, offsets, metadata and final length. The patch checks
+byte divisibility and multiplication before allocation; `is_multiple_of` is
+already used by the retained trace source and introduces no new API dependency.
+
+The synchronous Rust/C++ boundary passes auxiliary pointer and length, not
+capacity; the Rust owner lives through the call and C++ copies that length.
+Changing the allocation address is harmless, while alignment, lifetime, length
+and contents must remain invariant. The selected po18 source change therefore
+does not require a new guest, circuit, statement, capsule or receipt format.
+It does require fresh host/library/profile identities. Proof-byte identity is
+not claimed. The exact requested-vector reduction is 481,296,384 bytes, or
+459 MiB; it is not a guaranteed reduction in OS working set or commit peak.
+
+The revised persistent lower bounds, 2,790.8466796875 MiB before correction
+and 2,331.8466796875 MiB after correction, do not establish po18 impossibility
+or 4 GiB sufficiency. Exact circuit maxima, verification/transcript scratch,
+decoded capsule, allocator and thread peaks remain relevant. The independently
+established po19 C++-only lower bound still exceeds 4 GiB. Physical headroom is
+not commit headroom and neither should be conflated with a proved upper bound.
+
+The retained dependency records support the conservative frontier of circuit
+rlib, zkVM rlib, module-relation rlib, aggregate-relation rlib and one final
+stage-host compile/link. This is not a promise that arbitrary Cargo invocation
+does exactly five commands. A fresh recipe must pin generated sources, compiler
+environment/features, native archives and explicit compatible crate identities.
+The author is deriving that exact recipe separately; no recipe or build launch
+is cleared by this source-refinement pass. Root owns selection and adoption.

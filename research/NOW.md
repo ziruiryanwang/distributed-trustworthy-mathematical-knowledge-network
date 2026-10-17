@@ -1,5 +1,14 @@
 # Current research desk
 
+**2026-10-17 central continuation: generic lifecycle and memory refinement.**
+Root selects source-only aggregate_lifecycle implementation and the source-only
+459MiB/po18 Rust allocation correction plus exact offline build recipe under
+PROVER-ALLOCATION-SELECTION. Independent access/FFI/build review proceeds.
+No retained SDK/source/artifact mutation or build/proof selection. Same A/I,
+circuit/verifier and actual capsule remain the target; new host/profile identity
+must be adopted honestly. Git9ed8751 preserves the completed producer-entry,
+native-refusal and generic-preparation work; unrelated drafts remain untouched.
+
 **2026-10-17 generic mixed seal preparation adopted.** All eight focused tests
 pass independent actual audit:42original/snapshot source bindings,21runtime
 pins,20loaded-source origins;1.046875knownCPU/1.2815069wall, clean closure.

@@ -4,6 +4,14 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-17 generic seal preparation is implemented/tested/committed in9ed8751.
+memo_tests_review now owns fresh aggregate_lifecycle package under the selected
+GENERIC-SEAL-LIFECYCLE contract. memo_independent_review owns source-only exact
+prover allocation/build analysis in SMALL-LAYOUT-FEASIBILITY; v5_growth_decision
+independently reviews lifecycle and memory proposals. Root owns integration,
+focused controls, subsequent exact runtime selection and Git. All paths remain
+under the canonical root; no large proof or native build currently selected.
+
 2026-10-17 continuation: root owns fresh production launcher and finite
 selection, preserving one actual source installation across all continuation
 attempts. memo_independent_review owns source-only Select-ManifestControls01.ps1

@@ -201,3 +201,228 @@ another narrow component pass as the deployable-v5 outcome.
 - [PRODUCER-NEXT-DECISION](PRODUCER-NEXT-DECISION.md): original finite N256
   design; its actual completion uncertainty is now resolved negatively for the
   old full witness, without rewriting its historical selection.
+
+## Appendix: po18 producer memory and the smallest useful correction
+
+2026-10-17, `memo_independent_review`; source/data review only. This appendix
+preserves the original layout conclusions above. The selected BASE+FIRST layout
+has since completed with 167 po18 segments, one genuine I premise and a
+32,965,324-byte capsule. Execution success is not a certificate or proof-memory
+qualification. No SDK edit, build, proof, experiment or Git mutation was made
+for this analysis. `SDK` is the retained source root identified above; `CXX`
+means `SDK/risc0/circuit/rv32im-sys/cxx`.
+
+### Decision at the observed capacity
+
+**Do not select an unchanged 4 GiB proof worker on the strength of the old
+2,729 MiB lower bound.** At root's observed approximately 2,780 MiB physical and
+4,797 MiB system-commit headroom, already identified simultaneous payloads
+exceed free physical memory before the capsule, runtime and thread stacks.
+This does not prove allocation failure: virtual memory can page, and available
+commit differs from free physical memory. It does rule out a justified promise
+of resident, efficient execution at that observation. Neither a larger CPU
+allowance nor repeated attempts creates memory headroom.
+
+The high-payoff next candidate is a **host-side Rust witness-allocation unit
+correction**, not another guest or layout redesign. It removes exactly 459 MiB
+of requested vector payload at po18 while retaining the same trace prefix,
+guest image, circuit, verifier and statement. It needs a fresh reviewed SDK
+artifact and downstream relinks; it is not a flag on the frozen executable.
+Alternatively, use a genuinely provisioned producer with adequate headroom.
+Neither route is selected by this appendix, and neither yet proves a 4 GiB
+upper bound or full-operation affordability.
+
+### Accounted persistent payload, including the previously omitted FRI
+
+Let N = 262,144, D = `computeMaxDataPerRow()` and A = `computeTotalAccum()`.
+The prior source argument establishes D >= 198 and A >= 84, not equalities.
+`CXX/zkp/taps.cpp::TapManager::done` groups columns by their exact back-offset
+vectors. `prove/rv32im.cpp` supplies only `{0}` and `{0,1}`. Thus there are two
+ordinary combos and one additional check combo: exactly three, not a quantity
+that grows with the theorem or segment count.
+
+The following are distinct simultaneously retained requested payloads, not
+allocator-inclusive process memory:
+
+| Persistent item | Bytes |
+|---|---:|
+| Data and accumulation table/coefficient/expanded matrices | 24(D+A)N |
+| Current Rust auxiliary vector | 2,448N |
+| C++ auxiliary array | 612N |
+| Check raw array and separate expanded matrix | (64+256)N |
+| Three data/accum/check Merkle trees | 768N |
+| Lookup tables | 80N + 263,168 |
+| Three combo columns | 48N |
+| Initial FRI coefficients | 16N |
+| All FRI round matrices/trees/outputs, plus final copy | 81(N+N/16+N/256) + 1,024 |
+| C++ and Rust row metadata | N times their two `RowInfo` sizes; 16N on the selected ABI |
+
+For a FRI round of input degree r, `prove/fri.cpp` allocates 64r bytes of
+evaluations, 16r bytes of Merkle nodes and r bytes of output coefficients.
+The next round aliases that output; do not count it twice. The retained
+parameters are expansion 4, extension 4, fold 16 and minimum degree 256.
+Po18 therefore has exactly the three degrees N, N/16, N/256, terminating at
+64. All rounds are built and retained together. Their combined payload,
+including the final copy, is 22,644,736 bytes (21.595703125 MiB).
+
+Excluding row metadata and small arrays, the table sums to
+
+`[24(D+A)+4,292]N + 81(N+N/16+N/256) + 264,192`.
+
+Using only the proved D/A minima gives **2,922,220,544 bytes =
+2,786.8466796875 MiB**. The two 8-byte row-metadata arrays add 4 MiB, giving
+**2,790.8466796875 MiB**, still before small arrays and host state. CPU pinning
+is a view, and the inspected NTT/expansion routines work in place: no additional
+full matrix copy should be invented for those operations. The CPU witness and
+check dispatchers use row-local contexts and `parallel_map`; their large
+`RegImpl` array types are views into the existing matrix through casts, not
+fresh per-thread copies of the entire matrix.
+
+### What still prevents a useful whole-process upper bound
+
+This is a concrete remaining accounting list, not an assertion that FRI is
+unknown or that all omitted work is an arbitrary extra matrix:
+
+1. **Exact circuit maxima D/A.** `rv32im/emu/blocks.cpp:86-129` computes D from
+   all 43 instantiated block layouts and A from their recursively visited
+   argument counts. Their definitions are finite and independent of the guest,
+   but this review has not completed that layout/argument census. Replacing
+   the existing minima by equalities would understate memory.
+2. **Small circuit objects and transcript/verification lifetime.** The exact
+   tap total including the check group is E = D+A+44: the extra 28 come from
+   four back-tapped ordinary accumulation columns and the 24 top columns.
+   `poly_group.cpp` retains 36E bytes of tap arrays and 4(D+A+16) bytes of
+   combo selectors; `prove.cpp` retains 32E bytes of eval arrays and four
+   `DivideInfo` records, plus globals/mixes. Merkle query scratch is fixed by
+   `4*(8*steps+columns)` per tree. In addition there are vectors/maps/object
+   overhead, two E-element temporary vectors, interpolation scratch, and
+   transcript capacity/copies. `rv32im/ffi.cpp` verifies while its C++ prover
+   remains live; `rv32im/src/prove.rs` copies the transcript into Rust and
+   verifies before that prover is destroyed. Those verifier allocations and
+   all transcript capacities still need a bound.
+3. **Host capsule and parent state.** `aggregate_small/stage_host.rs:449-468`
+   decodes the entire capsule into 167 segment objects and retains them across
+   `prove_segment`; it drops raw capsule bytes, not those objects. Encoded
+   32,965,324 bytes is not a proved decoded-memory bound. Header/wire, verified
+   parent receipt copies, ordered assumptions and the manifest/cache also
+   contribute. The earlier raw-plus-decoded acquisition peak is a separate
+   phase, not automatically additive to the proof peak.
+4. **Preflight-phase state.** `SegmentContext::new` clones selected partial
+   image/read/write records. `preflight/emu.rs` creates its `PagedMemory`, a
+   `Vec<Option<PageDetails>>`, instruction cache and page state; `paging.rs`
+   allocates boxed per-page `MemoryInfo` arrays. These coexist with Rust
+   row/aux buffers during preflight. The context/emulator are dropped before
+   the C++ constructor (`zkvm/.../prove/prover_impl.rs:218-246`), so the
+   correct expression is a maximum of phase peaks, not a sum of all live
+   objects ever seen. Heap retention can nevertheless keep committed memory.
+5. **System/allocator and threads.** `core/util.h::parallel_map` creates up to
+   `hardware_concurrency()` threads, then joins them. The worker process-count
+   cap does not cap thread stacks. Stack commitment, loaded image/runtime,
+   allocation rounding/fragmentation and freed-block retention depend on the
+   exact build/runtime/OS. Other applications' changing headroom is separate.
+
+Thus a schematic bound is `host + max(decode, preflight,
+prover-persistent + proof/verification scratch) + allocator/runtime`, with the
+terms above still to be instantiated. The existing observed base-I po18 peak
+3,534,692,352 bytes (about 3,371 MiB) is useful feasibility context, **not an
+upper bound for this aggregate or a reason to infer fit at today's headroom**.
+No memory-limited probe is needed to rediscover the already known obstruction.
+
+### Exact unit correction and ownership argument
+
+The affected source is `SDK/risc0/circuit/rv32im/src/prove/preflight.rs`:
+`compute_max_wit_per_row` at lines 36-58 computes the maximum of witness
+**byte** sizes times row multiplicities; `MAX_WIT_PER_ROW` at line 60 is 612.
+Line 159 uses `rows * MAX_WIT_PER_ROW` as a count of **u32 elements**.
+Line 179 truncates the vector length but leaves its allocation capacity live.
+A fresh successor can instead express the maximum in u32 words, with explicit
+divisibility/overflow conditions, allocating 153N zeroed words rather than
+612N. Do not edit the retained file in place or use unsafe layout access.
+
+The refinement argument is local: `preflight/trace.rs:105-134::add_block`
+asserts witness-size divisibility by `sizeof(u32)`. Each new row reserves
+`count_per_row * witness_bytes / 4 <= 153` words, including the Globals row;
+the row buffer has N entries. Consequently every successful old trace accesses
+only the first 153N words. Both allocations zero that entire accessible prefix;
+the same writes, row metadata, offsets, truncated length and witness values
+follow. An oversized row count already refuses through the row indexing; no
+new out-of-bounds trace is admitted by the reduction.
+
+FFI uses `preflight.aux.as_ptr()` and **length**, not capacity, in
+`rv32im/src/prove.rs:63-75`. The vector remains owned and immobile through the
+synchronous call. `CXX/prove/rv32im.cpp:120-130` copies exactly that supplied
+length into its independently allocated 153N-word array. The pointer can change
+between implementations; its lifetime, alignment, length and contents may not.
+The corrected allocation therefore changes no accepted trace bytes, C++ circuit
+constraints, verifier parameters, guest ELF/image A, statement, geometry or
+existing capsule. Its host-library/executable hashes and producer profile do
+change. Identical accepted mathematical claims are required; byte-identical
+proof files are not assumed without establishing the prover's determinism.
+
+Requested-payload saving is `4*(612-153)N = 1836N = 459 MiB` at po18. The
+identified-payload lower bound above becomes **2,331.8466796875 MiB** after
+including row metadata. This is not a prediction of actual peak, and a 459 MiB
+reduction in requested payload is not a guarantee of the same decrease in OS
+peak working set. It is a structural saving on every po18 segment, not just
+the selected theorem. The same correction does not make po19 fit under 4 GiB;
+the prior C++-only impossibility remains.
+
+There is no supported zero-rebuild shortcut: public `PreflightResults.inner`
+is `pub(crate)` (`zkvm/src/host/server/session.rs:147`), and its public methods
+only return index/po2/counts. `shrink_to_fit` is allocator-best-effort, not a
+hard upper bound, even if exposed. Switching to private `preflight_cxx` is a
+different emulator path; CUDA/Metal selection is compile-time and unavailable
+in the retained Windows CPU artifact. Those alternatives have larger assurance
+cost than correcting this one allocation unit.
+
+### Minimal fresh rebuild frontier and decision-changing follow-up
+
+Retained target fingerprints and
+`experiments/v5-local-checks/proof-validation-integration-build-01/compile-commands.json`
+show the conservative dependency frontier:
+
+`risc0_circuit_rv32im -> risc0_zkvm -> dmkn_module_relation -> dmkn_aggregate_relation -> small stage host`.
+
+For the selected stage host this means **four Rust rlib rebuilds and one final
+executable compile/link**, not one host-only relink. Only the first crate's
+allocation source changes; dependent sources remain byte-pinned. The module
+relation directly names `risc0_zkvm`, so mixing its old crate identity with a
+new zkVM dependency is not an admissible shortcut. Reuse the unchanged nanoda
+checker rlib, C++ rv32im/recursion/keccak native archives, other pinned Rust
+dependencies/proc macros, exact toolchain/target/feature/link settings, and
+retained generated `preflight_opt_gen.rs`/build-script output where the new
+recipe supports it. No C++ circuit rebuild, guest rebuild, capsule reexecution,
+new image or old receipt regeneration is logically required. The existing
+snapshot executable can remain frozen and continue to identify the retained
+capsule. Rebuilding the old `commons-local-prover` executable is unnecessary
+unless separately selected.
+
+This is a dependency-frontier count, not a promise that moving a Cargo target
+directory will perform exactly five commands. Paths/fingerprints/build-script
+environment can trigger more work. A fresh explicit build recipe must bind the
+retained Cargo.lock, source snapshot, generated inputs, library closure and
+compiler environment without mutating the old target; ordinary crate metadata
+and direct-dependency compatibility must be checked before launching. The used
+`aggregate_small/build_stage.py` specifically requires unchanged old libraries,
+so it cannot be silently reused as authority for this new chain.
+
+Generic independently funded proof renewal remains architecturally practical:
+bounded po18 segment stages limit peak dependence on selected execution size,
+while the staged DAG charges total work and retained checkpoints. It does not
+make arbitrary useful contributions affordable, and 502 quoted stages for this
+actual frontier are not funded work or positive full-cost growth. Prefer the
+allocation refinement plus a justified producer envelope over repeated
+memory-bound attempts or another smaller-geometry/cap ladder. Once separately
+selected, the narrow discriminator is old/new trace-prefix equality and one
+genuine segment accepted by the unchanged verifier, with actual memory/time
+accounting; no broad already-passing campaign needs repetition. Full recursive
+completion, public reciprocal use and a full-cost benefit region remain open.
+
+Additional reproducibility pins (prior pins remain in PROVER-MEMORY-REVIEW):
+
+| Source | SHA-256 |
+|---|---|
+| `CXX/prove/fri.cpp` | `0ed0036c1497c5958cf5b7a33c1f20082d177f9666120030018e3fb519f6cb5e` |
+| `CXX/zkp/taps.cpp` | `1057d69e8e9069ef14bb6417f91f453d835cfe403a02e311e3c47686d1b83a8a` |
+| `SDK/risc0/zkvm/src/host/server/session.rs` | `804d7b7ea33b76a4a7e2e107ff28646e69bca232dae9a2e8f66361666fdb5a8d` |
+| `software/v5/aggregate_small/stage_host.rs` | `975e68dfbc8d091733cee72a18d81fb45617886585f1806fe9425cf4aa847955` |

@@ -1,5 +1,19 @@
 # Smallest genuine terminal-to-extension integration
 
+**Current selected input supersession (2026-10-17):** the BASE+FIRST frontier
+replaces the historical three-member H/wire below. Actual selected H is
+`selected-frontier-layout-01/evidence/header.bin`,192bytes/SHA-256
+`49dd845edaec83f5b0cba5af38653f768e51ed95a4bb6ea7824c10bdd1c3169e`;
+wire is113849bytes/SHA-256
+`898660ddeea92cefccbf793e35b1ee49ef4867c9daec24b5344f37a1ed375500`.
+Use members/openings in that directory's `selection-derivation.json`. H has
+two members, maximum rank1, seal height1; exact J_FIRST is unchanged. SECOND
+is now absent from H, not merely an unselected certified member. It remains
+retained mathematics for the substantive downstream authoring integration.
+The old H3 paths/bytes and claims about SECOND's membership below are historical,
+not current runtime inputs. The two-A-check/one-author/one-native-check flow is
+unchanged. No final A receipt or runtime is selected by this correction.
+
 Status: **SOURCE/DATA PLAN; NO RUNTIME OR PROOF SELECTED.**
 
 Owner: `memo_independent_review`; root owns adoption, exact source selection and
