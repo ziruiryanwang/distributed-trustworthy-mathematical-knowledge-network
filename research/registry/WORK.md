@@ -4,6 +4,14 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-17 after actual Build02 success and native-layout memory deferral:
+v5_growth_decision owns fresh aggregate_geometry/preflight_layout.py,
+Select-GeometryPreflight01.ps1 and GEOMETRY-PREFLIGHT.md at canonical root's
+research/cycles/v5-2026-10-17. Minimal actualowner/prepare/close only, zero
+snapshot/native/proof. Root owns exact selection/launch and independent review
+assignment. Current reviewed layout01 remains unexecuted/unchanged; no new
+proofhost/fullcontroller work or runtime has been selected by this entry.
+
 2026-10-17 geometry integration source extension: v5_growth_decision owns
 aggregate_geometry/run_layout.py, Select-GeometryLayout01.ps1 and
 GEOMETRY-LAYOUT-PLAN.md at the canonical root/checkpoint directory. Minimal

@@ -115,3 +115,47 @@ actual build02 and actual RESULT a44a521b. This writes only fresh packet,
 profile, configuration and outer selection under experiments/v5-local-checks.
 No Python import, native host, execution layout or proof runs in this step.
 Exact generated-map review and a separate launch decision remain required.
+
+## Layout01: exact one execution-only selection
+
+Root read/adopts GEOMETRY-LAYOUT-EXACT-REVIEW
+`6b0a7dfed35334304177ff29e7e327d3944a93e09670850b3a106abf49ea4a10`.
+The actual28 sources/255,710B and88 runtime pins/67,816,579B match. The exact
+profile, domain, configuration, packet, genuine I and built host agree. Fixed
+session reserve17,701,000B is below20MiB; native output reserve214,247,139B and
+533entries fit208MiB/544. These are bounds, not measured costs or proof validity.
+
+Select one conditional invocation of the unchanged tools/Run-V5-Check.py with
+selection `a717a88af4df86338888582ad48dbaad7dccdce7c307d471d51828c0bc071aa4`
+and its selected installed Python. Immediate admission must see >=2,147,483,648B
+available physical **and** true commit and no competing heavy process. This is
+the selected1GiB inclusive outer Job plus1GiB margin, not a reservation.
+
+The native snapshot is512MiB/60CPU/120wall/two processes; inner controller30CPU.
+The inclusive outer Job is1024MiB/120CPU/180wall/three processes, with1MiB logs.
+Its CPU includes native work; only the separate outer-wrapper charge is added.
+Keep all previous output/failure/cleanup/source-binding checks. No automatic
+retry, proof, stage-host/controller build or cap increase follows success/failure.
+The one actual operation is to obtain a complete untrusted po17 H2 capsule.
+
+### Layout01 immediate gate deferred
+
+At2026-10-17T23:42:09.6329865Z the launch preflight found available physical
+1,040,154,624B and true commit3,759,792,128B. It refused before starting Python,
+the native host or creating the run directory. The reviewed layout selection
+and four prepared input files remain unused by execution and unchanged. This is
+not a failed layout or a reason to alter its selected guard/caps.
+
+A read-only diagnostic found ordinary desktop applications and Windows memory
+compression using RAM, with physical availability later1,536,745,472B. It did
+not establish one cause, reclaim memory, change settings or terminate anything.
+No resource poll or automatic retry is scheduled.
+
+Root selects a minimal source-only **actual data-preflight** adapter while the
+native gate is unavailable: construct the real LayoutOwner from the real new
+build/profile and perform exact prepare through ordinary APIs, then close.
+This validates the new strict build-adoption/profile/preparation integration;
+it does not repeat the eight old pure-H2 controls or call snapshot/native/proof.
+Prospective256MiB/30CPU/60wall/two-process outer boundary requires review and
+a separate exact selection. Geometry source and prepared layout inputs stay
+unchanged. See GEOMETRY-PREFLIGHT.md for implementation and actual disposition.

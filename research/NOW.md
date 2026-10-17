@@ -1,5 +1,14 @@
 # Current research desk
 
+**2026-10-17 exact layout prepared/reviewed; immediate RAM gate deferred.**
+Build02actualaudit68af5390 adopted and committed5c10253. Layout01exacta717a88a
+passes6b0a7dfe review:28sources/88runtimepins, actualprofile/H2/newhost,17.7MB
+fixedreserve. At23:42UTC physical1,040,154,624B fell below2GiB guard despite
+3.76GBcommit, so no Python/native/guest ran and no output exists. Keep its
+caps/inputs unchanged. Select minimal real LayoutOwner data-preflight source
+under256MiB prospective envelope to validate new profile/build adoption and
+ordinary preparation without native execution; no old pure tests repeat.
+
 **2026-10-17 fixed-po17 snapshot host actually linked once.** Exact fresh
 f245889a build02 completed exit0 under evidence-backed1536MiB compiler cap.
 Raw RESULT a44a521b: peak983,511,040B,133.734375JobCPU,clean0active/terminated.
