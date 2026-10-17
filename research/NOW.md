@@ -1,5 +1,23 @@
 # Current research desk
 
+**2026-10-17 smaller-layout source review and exact compile plan ready.**
+Independent review clears snapshot host and one-link builder; exact new plan
+9c3f00c2 binds three sources and unchanged1,071 compiler pins plus separately
+derived corrected libraries. No compiler launched: latest physical3,801,157,632B
+but true commit3,065,565,184B is below the unchanged3GiB launch gate. Root's
+bounded launcher is under review. Layout owner/adopter/H2 sources are complete
+pending review; growth author now owns minimal layout run/selector integration
+under the same geometry scope. No proof/controller expansion or duplicate test.
+
+**2026-10-17 fixed-po17 layout source increment selected.** Read complete
+LOCAL-PROOF-NEXT aacf5a17; SDK supports17 with unchanged mathematical/receipt
+policy. Root selects GEOMETRY-SELECTION source only in aggregate_geometry while
+independent challenge proceeds: snapshot host, one-link recipe, generic layout
+owner/adopter/adapter and actual H2 data preparation. No compiler/layout/proof
+runtime yet; stage-host/full-controller work waits a useful complete new layout.
+No cap ladder or duplicate allocation build. Completed terminal integration is
+committed cba2e78 and staging controls e366c5b; genuine A remains absent.
+
 **2026-10-17 terminal staging integration source adopted.** Root read/adopts
 independent4ec3db28 review: assetsd1642932 and strategya29a0a73 stage demand-only
 data before the first real A admission, then one unchanged live import. No

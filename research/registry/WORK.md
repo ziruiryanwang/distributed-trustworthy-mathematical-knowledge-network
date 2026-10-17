@@ -4,6 +4,22 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-17 geometry integration source extension: v5_growth_decision owns
+aggregate_geometry/run_layout.py, Select-GeometryLayout01.ps1 and
+GEOMETRY-LAYOUT-PLAN.md at the canonical root/checkpoint directory. Minimal
+generic LayoutOwner plus retained local-check supervisor only; no proof dispatch,
+new large experiment or native invocation by author. Root owns one-link launch
+script and exact future launch; reviewer checks both and completed layout source.
+Exact build plan9c3f00c2 is unexecuted below immediate3GiB true-commit gate.
+
+2026-10-17 GEOMETRY-SELECTION, source-only under canonical root: root owns
+aggregate_geometry/aggregate_host.rs and integration; v5_growth_decision owns
+build_snapshot.py/GEOMETRY-BUILD.md; memo_tests_review owns snapshot.py,
+adoption.py,layout_owner.py,__init__.py,prepare_h2.py as required; independent
+reviewer owns concept/source challenge. Checkpoints research/cycles/v5-2026-10-17.
+Snapshot link/layout first; no stagehost/controller/proof implementation or
+runtime currently selected. Previous terminal source integration is finished.
+
 2026-10-17 staging02 exact986fcd62 selected by root once after final review.
 memo_independent_review owns saved actual-result review in STAGING-REVIEW.md.
 Terminal source-only integration is selected per TERMINAL-STAGING-INTEGRATION:
