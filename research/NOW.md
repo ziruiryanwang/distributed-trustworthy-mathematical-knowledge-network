@@ -1,5 +1,28 @@
 # Current research desk
 
+**2026-10-16 genuine preflight02 PASS adopted; next public-client seam.**
+Independent audit confirms real constructor/request adoption of the retained
+stage host, memo image and complete capsule, source/input rebinding and clean
+closure. New known cost1.46875CPU/1.7554457wall; installation88,803,499bytes,
+request inputs46,014,379bytes, maximum planned argv17,962UTF16 units. Zero
+host/guest/proof calls, no production output, no certificate/funding. Static
+bounds are conditional on proposed stage caps, not cost/memory sufficiency.
+Reuse this completed preflight. No full proof is selected. Next highest-payoff
+software seam is an explicit ordinary A-capable client over the existing mixed
+verifier/network/atomic-import APIs, preserving the working I-only client.
+Public A design is selected; code still awaits its narrow source contract.
+
+**2026-10-16 genuine no-host preflight02 selected once.** Root adopts independent
+full-path non-memory analysis and changed-boundary selection review for
+0e6cbd6e160ad1a0753b9b013ad73c2387b6d00fa234f04d7d187a89c0986b3a:
+actual retained constructor plus one private request validation and close,
+six sources/51runtime pins,30CPU/90wall/512MiB/two processes. Source4720822d
+corrects an unused quote's per-kind wall caps:81930 sum,4470 raw wall headroom,
+not completion guarantee. Prepared01 is preserved and must not run. All launched
+source/selection bytes freeze. No host/guest/proof call, production directory,
+larger-memory allocation or funding is authorized. Public A-client source design
+proceeds separately; no additional I-only demonstration is selected.
+
 **2026-10-16 resource-policy outcome adopted.** Independent saved-result audit
 confirms seven controls, exact selected sources/runtime/import origins and clean
 closure. Root adopts only this synthetic changed-policy boundary; its captured

@@ -4,6 +4,16 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-16 preflight source-only wall-quote correction: memo_tests_review changes
+only the still-unexecuted adapter's per-kind wall quote to420/150/150/600/120,
+reports81930 sum and4470 raw remaining wall allowance; no completion prediction.
+Prepared selection01 and its used selector remain unchanged; root owns fresh02.
+v5_growth_decision owns exact changed-source/selection and actual-result review.
+memo_independent_review now owns concise PUBLIC-A-CLIENT-SEAM.md design of the
+ordinary A-capable client extension, not implementation. This is the next
+high-payoff public-software gap while prover resources are unavailable. Same
+canonical root/checkpoint cycle; no proof/native operation or source replay.
+
 2026-10-16 after seven policy controls: v5_growth_decision audits actual result
 in PRODUCER-RESOURCE-REVIEW.md, then independently reviews genuine preflight.
 memo_tests_review owns new aggregate_resources/preflight_actual.py (optional

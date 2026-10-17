@@ -37,8 +37,10 @@ This bounded-frontier mode is permanent useful functionality, not a substitute
 for scalable certification. A complete 113-segment aggregate execution capsule
 and a one-link stage host now exist; neither is a certificate. Source analysis
 proves the retained po19 CPU prover cannot fit 4 GiB. A minimal explicit producer
-resource-profile successor is under focused qualification; no larger-memory
-proof is funded and no genuine A receipt exists. This keeps specialized producer
+resource-profile successor passes seven focused controls and genuine retained
+constructor/request preflight. No larger-memory proof is funded and no genuine
+A receipt exists. The next ordinary-client seam is explicit aggregate support,
+using existing verifier/import/network components. This keeps specialized producer
 cost separate from light receiver verification. Affordable frontier advancement,
 useful growth against both optimized local and ordinary shared-library baselines,
 sustainable availability and full release assurance remain open. See the

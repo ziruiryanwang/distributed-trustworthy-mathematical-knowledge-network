@@ -212,3 +212,216 @@ same-history boundaries behave as selected in synthetic controls. Genuine
 retained-loader/build/image/snapshot integration and real proof affordability
 remain untested here. Reuse this outcome; no repeat of these controls or the
 ten unchanged predecessor controls is recommended.
+
+## Genuine constructor/request preflight: design review
+
+The complete `REAL-PRODUCER-PREFLIGHT-DESIGN.md` was read at SHA-256
+`ff3a118effb912c5ccbbe25dc694fec8b29fb8e0cf3946b0e4532476c0af71b4`.
+The proposed shortest integration seam is appropriate: construct the actual
+owner using the selected retained adoption records, call its actual private
+`_request` once, and close it. It must neither call `run` nor invoke a host,
+reserve a proof stage or create the prospective production output directory.
+The root has separately selected source authoring, not execution.
+
+The source review will check actual imported snapshot origins for both producer
+packages; distinct roles for the retained snapshot host and new stage host;
+explicit preselected profile/build/image/snapshot pins; real constructor and
+request validation without mocks; final identity checks overriding a provisional
+pass; and an explicitly unfunded quote whose output path remains absent.
+This is an evidence-schema/installation boundary, not fresh cryptographic
+verification of the parent receipt or the execution capsule.
+
+The other independent reviewer owns the full-path arithmetic, serialization and
+Windows command-line challenge; this review does not duplicate that work.
+The proposed 1700 CPU-second segment cap, 8192 MiB memory ceiling and 512 KiB
+artifact cap remain planning choices, not proved sufficient limits. Root's
+retained historical 325-stage evidence is for the prior po18/I operation, not a
+prediction for the present po19/A operation. In particular, syntactically valid
+full-path caps establish neither available machine capacity nor an affordable
+actual proof. No historical experiment is repeated here.
+
+**Design review supports source authoring only.** Exact adapter source, finite
+selection and actual saved outcome still require their respective reviews.
+
+### Marginal-payoff decision before full A production
+
+A successful genuine preflight would close the remaining **known constructor,
+adoption-record and request-data integration seam**, not prove actual dispatch,
+po19 memory/CPU/artifact feasibility or receipt correctness. Available capacity
+and full-path price still govern a separate funding decision; a large syntactic
+allowance and a source lower bound are not an adequate machine reservation.
+
+One concrete product blocker can advance while that decision remains open:
+the actual ordinary `client/workspace_atomic.py` is deliberately I-only. Its
+imports select `frontier_network` (lines29–30), its live-owner checks require
+`(receipt, None)` (344/401), and packet parsing supplies `aggregate_image=None`
+(490/679). Existing mixed receiver, atomic import and mixed network components
+already support explicit A owners; the existing actual-A reciprocal adapter is
+a fixture-specific integration instrument, not this ordinary public client.
+Consequently a separately selected **explicit A-capable public-client seam**,
+preserving fixed I-only mode and exact concrete owner/profile checks, has higher
+immediate value than an unfunded full proof or another passing I-client replay.
+It needs no new checker, generic plugin registry or fabricated authority.
+
+Recommendation: finish the cheap genuine preflight, then progress that bounded
+source integration while resolving producer capacity and complete-path economics.
+Reuse the existing actual I import/publication/cold-admission evidence and the
+planned genuine-A boundary instead of creating duplicate campaigns. Eliminating
+an optional composite finish check may simplify a workflow contract under the
+existing recursive assumptions; it neither removes the dominant segment/lift/
+join cost nor establishes proof-backend correctness. Full v5 remains open.
+
+## Genuine preflight: exact source and finite-selection clearance
+
+Complete source read: `software/v5/aggregate_resources/preflight_actual.py`,
+21982 bytes, SHA-256
+`07b8fc63269f8033885747554c99a60e0682cacd54c040f1d7f3c26605eb6a15`.
+The adapter constructs the actual retained owner, invokes its real `_request`
+exactly once, and closes it. No `run`, host, proof or guest call occurs. The
+only subprocess-library use is pure Windows command-line quoting.
+
+Both producer package pairs are pinned to actual imported source snapshots,
+including package markers and `R.P is P`. The stage host and snapshot host stay
+distinct. All nineteen hard-coded record hashes and seven asset hashes/sizes
+match retained files independently. The explicit runtime-selection gate covers
+every existing-input binding before the genuine constructor; returned owner
+installation/request maps must be subsets of those exact pins plus the selected
+package sources. The retained support manifest supplies exactly three pinned
+helper imports. Constructor/image/build/snapshot checks are neither mocked nor
+replaced by this adapter.
+
+The saved profile/request are a private **unfunded quote**. Its identifier is
+derived with `NOT_A_PROOF_ALLOWANCE`; the designated production directory must
+remain absent, no stage reservation is created, and results explicitly deny
+mathematical admission/proof funding/memory sufficiency. Existing base-I cost
+includes its carried prefix and adds the selected build/capsule costs only;
+the report explicitly preserves excluded earlier work and nonexhaustive tails.
+Initial/final/post-result identity checks include inputs, sources, selection
+and generated controls. Final failure overrides provisional PASS; a late failure
+is retained in `FINALIZATION-FAILED.json`. The adopted outer runner separately
+checks its selected source/runtime/selection closure and physical Job result.
+
+Exact selector `Select-RealProducerPreflight01.ps1` SHA-256:
+`858881ec9dbab8a0ca3329458c06861cfe9b9650a7bd7b04eab267e9999e24ab`.
+Exact selected JSON `real-producer-preflight-01-selection.json` SHA-256:
+`fdea3df7cacef0dd38abc578fd3b21672a2f4fae8648729a92fc0f742945b70c`.
+Independent checks match all **six sources /100864 bytes** and **51 runtime
+pins /133174462 bytes**. The runtime closure is nineteen records, seven assets,
+nineteen retained template pins, three manifest helpers and three build source
+snapshots. The expensive compiler/link inventory is not rehashed by this run.
+The run root and prospective production root were both absent at review.
+
+The finite outer allowance is30 CPU/90 wall seconds,512 MiB, two processes and
+1 MiB each log. Two processes accommodate the retained embedded-Python launcher;
+no inner native work is allowed. Adapter evidence is separately bounded by
+12 MiB/64 entries. These are unrelated to the hypothetical8192 MiB proof ceiling.
+
+**Source and exact finite-selection review PASS.** This supports root selecting
+the one private preflight, not a proof run. The other reviewer independently
+owns the full-path serializer/argv reasoning; actual saved-outcome audit follows.
+
+### Prelaunch wall-quote correction: selection01 remains unrun
+
+Root identified a real omission after the above binding review: assigning every
+stage600 wall seconds quotes204000 worker-wall seconds against86400 whole-wall
+seconds. The actual `_envelope` does not test cumulative wall. Its current true
+field must not be represented as guaranteeing that all quoted stage maxima fit.
+**Do not launch selection01.** Root is selecting one small correction to the
+still-unused adapter and a fresh exact selection, preserving selection01.
+
+The independently proposed per-kind wall caps420/150/150/600/120 sum81930
+seconds, leaving4470 seconds for controller, transitions and finalization.
+Those residual seconds are available planning headroom, not a proved upper
+bound on that overhead or actual proving time. The corrected report should
+state the worker-wall sum and headroom separately. My clearance above covers
+the source binding/no-launch seam; launch clearance awaits this narrow diff
+and the renewed exact selection.
+The reviewer's initial message incorrectly said2070; root corrected the
+subtraction to86400-81930=4470 before execution. No separate reserve was chosen,
+and the3600 CPU-second controller cap must not be treated as a wall-time bound.
+
+### Corrected source and exact selection02 clearance
+
+Corrected adapter:22623 bytes, SHA-256
+`4720822d4174c2808db57972046cd23b16189fd6769981d36811540e9f918f27`.
+Reversing only its new wall-cap map/use, cap-sum assertion and three reporting
+fields reproduces the exact previous21982-byte source hash `07b8fc63...`.
+The independently calculated worker-wall sum is81930 seconds; the raw remaining
+allowance is4470. The report explicitly denies that this proves overhead fits
+or that the operation completes. All genuine-adoption/no-launch paths remain
+identical to the reviewed predecessor.
+
+Fresh exact selection02 SHA-256:
+`0e6cbd6e160ad1a0753b9b013ad73c2387b6d00fa234f04d7d187a89c0986b3a`.
+Selector02 SHA-256:
+`612bc9ca0effa391717fa98d04677dfeee875d44b003f87f8bc20e11a3c15edb`.
+Mechanical comparison shows that both selector and selection differ from01
+only in the operation name and adapter hash. The51 runtime pins, argv and
+limits are unchanged; the earlier133174462-byte input verification is reused,
+not repeated. The six-source size becomes101505 bytes. Run02 was absent.
+
+**Corrected exact source/selection02 review PASS.** Root may select this one
+genuine no-launch preflight. Selection01 remains unrun and preserved. Actual
+saved outcome still requires review; no proof allocation follows this clearance.
+
+## Genuine preflight02: actual saved-outcome audit
+
+Run: `experiments/v5-local-checks/real-producer-preflight-02` under selected
+`0e6cbd6e...`. This review inspected saved data and source bytes only; it did
+not repeat the operation or import/execute product code.
+
+| Saved output | SHA-256 |
+|---|---|
+| Outer `RESULT.json` | `df9bbc12b877f5f8cb75fa2a7993bfa6d9d2c5228be77275400eaac403b189da` |
+| `evidence/RESULT.json` | `281a8915bcb2e3655237a25071c23cc3812418edc04d28e1655220ec1fcbb716` |
+| `evidence/profile.json` | `fde140246ce4dac7be3cc12b01a0e614c4066e43304a36c806a7f3dc4589763e` |
+| `evidence/prospective-request.json` | `31ea5c042a4f465c8fca06f196cd862539cf6b8bbe6b436b094c310837b3a57a` |
+| `evidence/input-map.json` | `ca7a2568d76a3fdcf388736b73ffa71ac343f29a42b87fdaec5de5efe20e06a5` |
+| `evidence/argv-envelope.json` | `f4be5c23d1457fa764ba77c57c0cdabc21d6b8db67e649442ad57cf5a977d00b` |
+
+All six originals and six source snapshots match the selection. The saved51
+existing-input map has exactly the selected paths, hashes and current lengths;
+the reviewed runtime checks and final checks reused those same identities.
+Both package source-pin pairs name actual snapshots. Independently reconstructed
+installation-pin total is **88803499 bytes** and request-input total is
+**46014379 bytes**, exactly the reported values and independently below512 MiB.
+The saved profile's file hash equals the owner's reported profile identity.
+Parsed stdout and the saved inner result are equal.
+
+The reviewed actual path reached genuine constructor, genuine private request
+and `preflight_complete`; no adoption boundary was mocked. It reports
+`PASS_REAL_ADOPTION_AND_REQUEST_PREFLIGHT_ONLY`, final binding true, null errors
+and no finalization sentinel. The prospective production directory remains
+absent. The request has zero retained checkpoints/prior attempts, a quote-only
+identifier and the corrected finite planning caps. No native stage, host,
+guest, receipt or mathematical admission was produced, and proof funding is false.
+
+The actual quote contains113 segments,113 lifts,112 joins, one resolve and one
+finish:340 host calls/339 proving stages **if separately funded in future**.
+The saved340 argv rows have maximum17962 UTF-16 units including NUL at finish,
+with128 arguments. Worker-wall cap sum81930 and raw slack4470 are independently
+recomputed. Other static quote values agree with the reviewed source, including
+249250 worker CPU seconds,940048384 output bytes,2724 entries,99141167 maximum
+host-read bytes and conditional59468186-byte complete-composite bound.
+None of these is an actual proof-size, memory, runtime or completion guarantee.
+
+The retained carried subtotal independently recomputes to128034.046875 worker
+CPU seconds,696.609375 controller CPU seconds and13045.632040200057 summed
+active-wall seconds using the original floating-point arithmetic. It includes
+base-I production/prefix, the selected stage-host build and retained capsule
+operation only; earlier excluded work stays preserved, not free. It is not a
+fresh charge or a full-project cost result.
+
+The outer Job exited zero, direct child reaped, Job closed, zero active or
+terminated processes, no cleanup errors and no termination request. Stderr is
+empty. Actual peak private commit is31846400 bytes. New observed cost is
+**1.0625 inclusive Job +0.40625 wrapper =1.46875 known CPU seconds**, with
+**1.7554457001388073 wall seconds**. The inner0.765625 controller CPU observation
+is nested and is not added again. Final run census is184767 bytes,24 entries,
+16 files; no production output directory exists.
+
+**Actual outcome PASS for genuine no-launch producer adoption/request
+integration.** Reuse this evidence. It removes the known record/schema/path
+obstruction cheaply; actual proof capacity, proof economics, public A-client
+integration and full v5 remain open. No repeat preflight or proof allowance is
+selected by this review.
