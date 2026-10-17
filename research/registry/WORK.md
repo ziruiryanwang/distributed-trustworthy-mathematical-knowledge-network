@@ -4,6 +4,32 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-17 selective frontier source: memo_independent_review owns only fresh
+aggregate_small/frontier_snapshot.py and V5-NEXT-PRIORITY; v5_growth_decision
+independently reviews in SELECTIVE-FRONTIER-REVIEW; root owns selector/decisions.
+memo_tests_review additionally owns fresh aggregate_small/operator.py and concise
+SMALL-OPERATOR.md under the source-only SELECTIVE-FRONTIER-SELECTION. Exact
+BASE+FIRST selection preserves J_FIRST, not old H. No cap increase/proof/runtime
+selected. All source/checkpoint paths remain under the sole canonical root.
+
+2026-10-17 recovered layout02 terminal failure: v5_growth_decision audits its
+saved source/runtime/segment/closure evidence in SMALL-REVIEW.md;
+memo_tests_review owns source-only SMALL-LAYOUT-FEASIBILITY.md (SDK cycle/split
+semantics and possible remedies); memo_independent_review owns source-only
+V5-NEXT-PRIORITY.md (full-goal critical path and BASE+FIRST exact-target frontier
+alternative). Root integrates and selects any implementation/runtime. All paths
+under E:\Distributed Trustworthy Mathematical Knowledge Network; checkpoints
+under research/cycles/v5-2026-10-17. No runtime or previous-suite replay selected.
+
+2026-10-17 SMALL-PRODUCER-SELECTION: memo_tests_review owns fresh
+aggregate_small/producer.py and __init__.py, checkpoint SMALL-CONTROLLER.md;
+memo_independent_review owns aggregate_host.rs and stage_host.rs, checkpoint
+SMALL-HOSTS.md; v5_growth_decision owns independent SMALL-REVIEW.md. Root owns
+build_snapshot.py/build_stage.py/capability_snapshot.py/test_small.py/API.md,
+selection, adoption and Git. All source paths under canonical
+E:\Distributed Trustworthy Mathematical Knowledge Network\software\v5;
+checkpoints under its research/cycles/v5-2026-10-17. Source only, no runtime.
+
 2026-10-17 next central work while terminal actual audit completes:
 memo_tests_review owns source-only PRODUCER-NEXT-DECISION.md (concrete po18
 successor/resource and manifest design reusing prior memory/count analyses);

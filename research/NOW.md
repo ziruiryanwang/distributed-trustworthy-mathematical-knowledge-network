@@ -1,5 +1,75 @@
 # Current research desk
 
+**2026-10-17 complete selected frontier adopted; actual producer setup next.**
+Independent SELECTIVE-FRONTIER-REVIEW confirms the exact BASE+FIRST target,
+fresh two-member H/openings and all167 saved po18 segments. Complete capsule
+32,965,324bytes/6e41621e, clean closure,3.828125knownCPU/3.1815756wall; no proof.
+This resolves the selected capability's execution envelope without a cap or
+checker change, not the old three-member run or full v5. Source work now closes
+the ordinary preflight/run CLI and ten native finish-only manifest refusals.
+Root's real preflight selector is unrun; no proof allowance has been funded.
+
+**2026-10-17 selected frontier layout01 approved once.** Root read/adopts the
+exact source/plan clearance for05888ba9/config02cccc1c. Select one BASE+FIRST
+guest execution with the retained actual host/image/I premise and exact J_FIRST;
+new H and member openings are explicit. Same180CPU/240wall/3072MiB and po18/
+N256/2^26 limits, no rebuild/proof/cap increase. New frontier_snapshot e734200f
+and its selected helper/encoder freeze on use. All prior failures remain.
+Parallel reusable producer CLI source is selected, not proof funding.
+
+**2026-10-17 resumed: layout02 failure recovered, not repeated.** The previously
+launched exact86aaa7ca operation is terminal: one guest execution stopped at
+67,112,097 >= 67,108,864 session cycles after256 po18 segments. No capsule or
+proof exists. Independent saved-evidence audit confirms all source/runtime and
+segment pins, clean closure,4.71875knownCPU/4.9536366wall. Preserve both failed
+layouts. Full v5 stays ACTIVE. Root selects source-only geometry diagnosis and
+target-preserving certification selection: the public gate needs exact J_FIRST,
+not necessarily certification of the already retained SECOND descendant. Compare
+a BASE+FIRST frontier against another count-cap increase before implementation.
+No additional runtime, cap change, manifest test or proof is selected here.
+Checkpoints: SMALL-REVIEW, SMALL-LAYOUT-FEASIBILITY and V5-NEXT-PRIORITY in
+cycles/v5-2026-10-17. Canonical workspace guard passes; retired root untouched.
+
+**2026-10-17 layout01 adapter refusal preserved; narrow02 selected.** Layout01
+failed before any native/guest call because owner build timing floats reached
+the integer-only mathematical JSON decoder. Independent audit confirms clean
+closure,0.59375knownCPU and no evidence-directory/native launch. Root selects
+fresh capability_snapshot02 (strict finite owner-record decoder only), exact
+plan86aaa7ca/configf7e057b0 after independent clearance. Same actual hosts,
+mathematics and180CPU/240wall/3072MiB limits; no rebuild or proof. See
+SMALL-LAYOUT-RECOVERY. Original source/failure stays frozen and charged.
+
+**2026-10-17 one real po18 layout selected.** Root adopts snapshot build
+operational audit5e7ace37 and independent exact-layout clearance9c3518ef.
+Select only plan153736d1/configd01ce633, same A/I/F/P/H and genuine I premise,
+new po18/N256 geometry and fresh output. One guest execution under180CPU/
+240wall/3072MiB/three-process outer bounds,96MiB capsule/208MiB288-entry
+custody. No proof, automatic retry, cap increase or smaller-geometry fallback.
+Both one-link builds are terminal PASS; stage actual audit continues separately.
+Twelve focused Python controls independently pass,0.890625knownCPU; no repeats.
+
+**2026-10-17 small snapshot host built; focused controller controls selected.**
+First one-link operation exits zero, reports PASS and78.22997wall; independent
+actual audit pending. Select exactly controls plan672a484b after independent
+source/plan clearance089e68d1: twelve changed-boundary synthetic controls,
+20CPU/60wall/512MiB/two-process, no native/proof calls. Used controller/tests
+freeze on this run. Stage-host link remains the separately selected next link.
+
+**2026-10-17 small-host links selected, sequential.** Independent exact native/
+plan clearance adopts snapshot plan e4493418 and stage plan049129da under
+SMALL-BUILD-SELECTION. One link each against unchanged retained libraries;
+240workerCPU/300workerwall/3072MiB per link, no overlapping large Jobs.
+Source-review work continues in parallel. Selected native/build bytes freeze
+on use; no guest/layout/proof funding follows automatically. Full v5 active.
+
+**2026-10-17 smaller-segment producer source selected.** Root adopts the
+corrected po18/N256 design33e4be91 and independent architectural refinements.
+SMALL-PRODUCER-SELECTION assigns fresh aggregate_small controller, native hosts,
+build/layout adapters and focused controls with independent review in parallel.
+Same A/I/F/P/H and SDK; new geometry/session/capsule and pinned manifests.
+No runtime/proof/funding selected. Proven po19 memory obstruction is not
+retested; used source/evidence stay frozen. Full deployable v5 remains active.
+
 **2026-10-17 certified-terminal software checkpoint adopted.**
 Independent actual audit b92252a7 confirms all ten controls,95source/snapshot
 bindings and74import origins, clean closure,2.875knownCPU/4.2322765wall. Full
