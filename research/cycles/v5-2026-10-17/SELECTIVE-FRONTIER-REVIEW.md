@@ -669,3 +669,192 @@ does exactly five commands. A fresh recipe must pin generated sources, compiler
 environment/features, native archives and explicit compatible crate identities.
 The author is deriving that exact recipe separately; no recipe or build launch
 is cleared by this source-refinement pass. Root owns selection and adoption.
+
+## Generic lifecycle independent source review
+
+**PASS for source, not execution or proof qualification.** Reviewed the complete
+GENERIC-SEAL-LIFECYCLE contract, fresh producer/snapshot/API, their actual inherited
+constructor/build/image/request/lineage machinery and the native snapshot branch.
+Exact reviewed producer: 8,724 bytes/SHA-256
+`a249bc3505a28aadff20d81e4ce30b43e03fbf5d9d6de45277c81a4c340833f4`;
+snapshot: 22,628 bytes/SHA-256
+`8c65e623419f846c2b7607716ce7fdec8a611ae2bb340e9a9cab18af3c741546`;
+initializer: 152 bytes/SHA-256
+`a159ba3ed681f7b8da374af2ce8698be68a67a5d7e4a92a3190c2a228a2f7833`;
+API: 8,165 bytes/SHA-256
+`5559ec52f09d38d9a19ab26c06fad900e805d656c56c29464dbfeeabaeb0bbc0`.
+
+The constructor preserves the immutable inherited base profile and introduces a
+domain-separated lifecycle identity only after actual source/image/build adoption.
+Its complete imported module closure, including initializer imports, is checked
+against loaded origins. Existing allowance adoption requires the new profile ID;
+old lineages cannot silently acquire a different helper or host. The lifecycle
+reuses the actual old snapshot-build grammar, not fictional zero-rebuild records
+for the resource-refined stage host.
+
+Snapshot rederives the complete preparation from selected original packet/exact J/
+envelope, compares the immutable value and uses the derived value thereafter.
+Generated wire/header and indexed receipts preserve the exact ordered I/A claims;
+they are bound as generated staging inputs, not invented prior outer runtime pins.
+The native argv, actual stdout, saved invocation, exact capsule path and digests,
+completed session and new-schema report are bound again during adoption. Native
+verification and exact halted-A execution remain unchanged; no saved JSON becomes
+a mathematical warrant. Finalization sentinels and unknown closure refuse adoption.
+
+One concrete review correction was applied before this pass: measured worker CPU
+must not exceed the selected cap before execute reports PASS, rather than being
+refused only by later adoption. Source checks now agree at both boundaries.
+The 14 MiB reserve plus original/derived inputs conservatively covers the inherited
+20 MiB fixed-input bound; oversize valid mathematics may refuse operationally.
+Output census is explicitly sampled, not a filesystem quota; the enclosing owner
+must bound construction, import, refusal and finalization. Failed attempts retain
+costs/files, and new proof funding remains an explicit separate decision.
+
+Only focused source controls remain to review: exact synthetic lifecycle adoption,
+forged preparation/target/ordered premises, changed binding/profile, partial or
+overridden completion, cap/closure refusal and I/A renewal plumbing. Synthetic
+records cannot establish cryptographic completion. Root relayed the user's pause
+after current tasks; finish this at-hand source checkpoint only, no runtime.
+
+## Exact allocation build recipe: independent static review
+
+SOURCE.json, 100,153 bytes/SHA-256
+`c93a45a6a558718c931c39b121e9bcffa7d464ecaa1d5b0e80185efd6cace710`,
+is supported as a fresh explicit recipe, not a claim to replay unavailable
+per-crate Cargo argv. Independently checked all 132 original record/source length
+and hash pins: 113 SDK source files plus 19 retained records. All 72 direct SDK
+extern references match the retained 1,071-entry runtime manifest; their names and
+features match retained fingerprints. All 85 externs across the five steps resolve
+to retained pinned inputs or a declared preceding fresh artifact. New metadata and
+explicit dependency paths propagate through both relation rlibs to the host.
+
+A strict in-memory application of the two patch hunks, without writing the SDK,
+reconstructs 6,003 bytes with SHA-256
+`88fbf84e1e4b5247d6df5d4206d9335442362dd5a3772d5c4930bd9197b67396`,
+exactly the descriptor's derived source. The active external source inclusion is
+the pinned generated preflight file through OUT_DIR; VERSION uses explicitly set
+CARGO_PKG_VERSION. Other include sites are within inventoried source or disabled
+test/guest paths. Retained generated code and native archives are reused, not rebuilt.
+
+No remaining source objection to the five-step dependency recipe was found. This
+does not establish compiler success, runtime memory fit or acceptance of a proof.
+A concrete finite build runner must still pin expanded paths, actual environment,
+source/runtime closure, produced dependency hashes and clean command completion.
+A new producer-adoption grammar is required; the old one-link/zero-backend-build
+grammar must not be impersonated. No compiler/proof campaign is selected by review.
+
+## Focused lifecycle controls: source only
+
+**PASS for the source of ten controls; NOT RUN.** Complete reviewed file:
+`software/v5/aggregate_lifecycle/test_lifecycle.py`, 21,877 bytes/SHA-256
+`c4d28107924ea5189a59857fd6c4df04738c3abcadc117934d1bc6c15b575bf1`.
+The real new lifecycle constructor, preparation, configuration, staging, adoption
+and inherited request path are exercised in the proposed tests. Retained loader/
+build adoption and native execution are explicitly synthetic; Popen is globally
+denied during tests. No predecessor suite is imported or repeated. Output is fresh
+and all synthetic artifacts are labelled as nonproofs.
+
+The ten controls cover immutable composite profile and closed-before-read entry;
+two-I then A-premise snapshot/request plumbing with distinct sessions and stable
+profile; forged wire or reversed prepared premises; absent target or changed input
+pin; decoded-manifest premise reordering; geometry/output caps; missing capsule;
+clean measured-CPU overshoot; finalization override; and changed-profile allowance
+lineage. The decoded-manifest injection preserves actual saved evidence. The
+positive asserts A seal-height advancement and no production directory/host call
+from preflight. It is not a native, cryptographic or economic result. Unknown
+closure is source-reviewed but not separately sampled by these ten controls.
+No test execution is selected by this review or by the pause-after-current-tasks
+request; root owns any later fresh finite selection.
+
+## Focused lifecycle controls: selected actual outcome
+
+Root subsequently selected the already-planned cheap ten-control operation before
+the user-requested pause; no compiler/proof campaign followed. Exact plan 8,821
+bytes/SHA-256 `7beca8c61c0ef66abd82eeae092f5d054d5ee9a89b657a2a409b8ea14f1a21b7`
+and selector `ec4413f95488162300cd2e0faca9d8dc5261cda4bf4093d1b19e4266c8c1b540`
+received independent prelaunch clearance. The seven argv entries select isolated
+Python with -I/-S/-B, the snapshotted test and fresh controls output, under
+30 CPU seconds / 90 wall seconds / 512 MiB / two processes. No native branch.
+
+**Actual PASS in the scoped synthetic owner-control lane.** Independently rebound
+all 52 original/snapshot source identities, 18 runtime hashes and 25 loaded source
+origins. Saved selection matches the exact prelaunch plan. Actual log reports ten
+tests, no failures/errors/skips. Seven inert supervisor dispatches comprise five
+synthetic completions, one missing capsule and one CPU overshoot. Their use is
+explicitly synthetic; Popen denial and reviewed control flow support no native or
+proof execution, not a cryptographic-completion claim. The finalization test's
+intentional inner sentinel remains preserved; there is no enclosing sentinel.
+
+Outer process exited zero, direct child reaped, Job closed, zero active/terminated
+processes, no cleanup errors or termination request. Inclusive worker CPU 4.921875
+plus disjoint wrapper CPU 0.28125 gives **5.203125 known CPU seconds**; wall
+7.323706399882212 seconds; peak Job private commit 60,547,072 bytes. No rerun.
+All used lifecycle/test/selector inputs and actual outputs remain frozen.
+
+Actual run: `experiments/v5-local-checks/generic-seal-lifecycle-controls-01`.
+Outer RESULT: 2,058 bytes/SHA-256
+`13517183d1abb18b182b806006432dffeafa6cbdb3b48d7ec19c55ff9197f418`.
+Inner RESULT: 18,652 bytes/SHA-256
+`412b832c7d8a9b618439c7612fa45ff3df8896eb77a058190e37cea492573c69`.
+Stdout: 18,653 bytes/SHA-256
+`670d0d8c2a5a46384b49bd73b3073805129afe4fc7a45ca55b558af92e8f18a3`;
+it equals the inner result after Windows newline normalization only. Stderr:
+1,534 bytes/SHA-256
+`dc22565852decff14c78a27162c9ffd9c4a8e5af9104bfe2394e27d26899a4e7`.
+This qualifies changed owner plumbing, not genuine I/A proofs, useful-growth
+advantage, a real renewal or deployable v5.
+
+## Allocation-refined builder and owner: final at-hand source review
+
+**PASS for source correspondence; NOT BUILT OR EXECUTED.** The completed fresh
+source-only artifacts reviewed before the requested pause are:
+
+| Artifact under `software/v5/prover_memory` | Bytes | SHA-256 |
+|---|---:|---|
+| `build.py` | 25,126 | `8ca39b2dc68fdab7ebe96eef2bf53ce212c3a5196acb626f7bc7b99263c91781` |
+| `adoption.py` | 15,611 | `56b633aa0a528cb383f47cf5b1e73bd9a8b18387382c23d4c8114348b2cc6459` |
+| `producer.py` | 2,714 | `7eed73c709499902bbbc4beff612234cdce1ac8171918f195f4dde9704105e1a` |
+| `__init__.py` | 81 | `f442b572d094a1efb5eaa31bee2a54dbd384cd1bbabdc9b513fceed7ea4a03e2` |
+| `BUILD-RECIPE.md` | 14,784 | `4973a42b582c635a32810e121005ccbae149b188594da446c904e82ad957ab1d` |
+
+The builder implements the reviewed descriptor, not Cargo discovery: strict exact
+two-hunk transformation in memory, fresh copied SDK/integration/stage/adapter and
+generated source, explicit five compiler argv and newly produced dependency pins.
+The immutable original SDK and previous artifacts are never edited. Full retained
+1,071-entry runtime rebinding occurs before/after; smaller source/helper/new-output
+rebinding occurs before each phase. The complete output source census is checked
+against the derived map. It runs neither a build script nor the produced host,
+guest or prover. All execution remains contingent on root's future finite selection.
+
+Read the retained environment constructor, phase invocation and close routines to
+check actual control flow. There are five separate serial worker Jobs, each capped
+at 240 CPU seconds / 300 wall seconds / 3,072 MiB / six processes; the aggregate
+CPU bound is 1,200 seconds. No concurrent large Job is introduced. Closing-phase
+accounting is retained even on refusal; failures stop the chain and remain charged.
+Source/runtime/final-record checks and a finalization override prevent an apparent
+PASS from hiding failed final checks. This is local trusted build tooling, not a
+hostile-source sandbox or hard output-disk quota; final report/exit tails are stated.
+
+The adopter recognizes the new honest five-command schema and exact rebuild counts,
+not the old zero-rebuild grammar. It independently derives the copied file map from
+the pinned descriptor and retained maps, including the single SDK allocation delta,
+generated preflight, integration/stage sources and evidence. The one zero-byte
+build-script output is separately checked as nonexecutable evidence and rebound on
+later owner checks. Base and per-step environment maps match the retained constructor
+after exact run-root relocation and declared overlays. Five closed Job records and
+their sums/max peak agree with per-command/whole-operation limits; fresh dependency
+edges and executable identity are explicit. Full compiler/runtime tree rehashing
+belongs to the build operation, not every subsequent proof-owner construction.
+
+The narrow owner mixin changes stage-host adoption only. Both the retained-layout
+owner and generic-lifecycle owner preserve their actual snapshot rules and image/
+statement policy. All 27 imported source paths are required in the immutable support
+runtime map, binding the new implementation into the inherited profile identity;
+no internal profile rewrite or old-allowance migration occurs. Ordinary cryptographic
+verification is unchanged and remains necessary. No compiler success, measured
+memory fit, produced A receipt, full-cost growth advantage or v5 release follows.
+
+All assigned at-hand independent work is now complete. Reviewer stops for the
+user-requested pause. No build/proof campaign, retry or new workstream is selected.
+The recipe's final documentation update was read after code review; it accurately
+describes the implemented source-only builder/adopter and changes no reviewed code.

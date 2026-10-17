@@ -1,5 +1,12 @@
 # Goal: a usable mathematical commons architecture and software
 
+**2026-10-17 temporary pause requested by the user:** finish current tasks, then
+pause, leaving existing experiments running if any. The current lifecycle checks
+and allocation-build/adoption source reviews are complete; no runtime remains.
+See research/cycles/v5-2026-10-17/PAUSE-CHECKPOINT.md. The full v5 objective below
+is unfinished and unchanged. Do not begin another workstream or campaign until
+the user resumes. This explicit later pause supersedes earlier nonstop requests.
+
 **2026-10-12 goal reaffirmation:** the user retains the full deployable software
 objective and explicitly adds: avoid waste, resolve theoretical problems in
 principle before experiments, and parallelize distinct useful experiments when

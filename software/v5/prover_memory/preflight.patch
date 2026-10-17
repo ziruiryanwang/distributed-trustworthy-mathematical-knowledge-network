@@ -1,0 +1,29 @@
+--- a/risc0/circuit/rv32im/src/prove/preflight.rs
++++ b/risc0/circuit/rv32im/src/prove/preflight.rs
+@@ -57,7 +57,7 @@
+     max
+ }
+ 
+-const MAX_WIT_PER_ROW: usize = compute_max_wit_per_row();
++const MAX_WIT_BYTES_PER_ROW: usize = compute_max_wit_per_row();
+ 
+ struct ReplayHostIo<'a> {
+     reads: &'a [Vec<u8>],
+@@ -156,7 +156,16 @@
+ 
+         let rows = 1usize << po2;
+         let mut row_info = vec![RowInfo::zeroed(); rows];
+-        let mut aux = vec![0u32; rows * MAX_WIT_PER_ROW];
++        let word_bytes = std::mem::size_of::<u32>();
++        ensure!(
++            MAX_WIT_BYTES_PER_ROW.is_multiple_of(word_bytes),
++            "preflight witness byte bound is not word aligned"
++        );
++        let aux_words_per_row = MAX_WIT_BYTES_PER_ROW / word_bytes;
++        let aux_words = rows
++            .checked_mul(aux_words_per_row)
++            .ok_or_else(|| anyhow!("preflight auxiliary word count overflow"))?;
++        let mut aux = vec![0u32; aux_words];
+         let mut trace = Trace::new(&mut row_info, &mut aux);
+         trace.globals_mut().povwNonce = self.povw_nonce;
+ 

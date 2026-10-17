@@ -1,0 +1,1742 @@
+{
+  "schema": "DMKN_V5_PROVER_ALLOCATION_SOURCE_V1",
+  "authority": "SOURCE_ONLY_NO_BUILD_OR_PROOF_AUTHORIZATION",
+  "canonical_root": "E:\\Distributed Trustworthy Mathematical Knowledge Network",
+  "scope": "One Rust preflight allocation-unit correction; unchanged guest and C++ circuit.",
+  "source": {
+    "path": "experiments/general-checker-host-05/build-01/source/risc0-3bbcd44d6459b9ef6ac0df3846dc9215514934e8/risc0/circuit/rv32im/src/prove/preflight.rs",
+    "bytes": 5582,
+    "sha256": "bf427f0e3964756d66024bb66e7952bd6544d52d0c6f68b008e85aa1ad228bde",
+    "encoding": "UTF-8 without BOM; LF; final LF"
+  },
+  "patch": {
+    "path": "software/v5/prover_memory/preflight.patch",
+    "bytes": 1093,
+    "sha256": "a53940b67580e215c55c2eae1e33e12f93a410193dde5f6414f533e4517fdc6c",
+    "format": "unified diff; exact context only; no offset/fuzz/normalization"
+  },
+  "expected_patched": {
+    "bytes": 6003,
+    "sha256": "88fbf84e1e4b5247d6df5d4206d9335442362dd5a3772d5c4930bd9197b67396",
+    "encoding": "UTF-8 without BOM; LF; final LF"
+  },
+  "allocation": {
+    "witness_bytes_per_row": 612,
+    "u32_bytes": 4,
+    "old_words_per_row": 612,
+    "new_words_per_row": 153,
+    "po18_rows": 262144,
+    "requested_payload_reduction_bytes": 481296384,
+    "peak_memory_upper_bound_established": false
+  },
+  "preserved": {
+    "aggregate_image": "99b9f1cf14f922f13790b4949999dd71f3da9143465a0033299cd3a3a960ec60",
+    "individual_image": "9dfd589213a3245cf88e0d28096356aae4d2666bf0e85a7c3302b92e21d2c69e",
+    "foundation": "d931d114155cf3cf0dc0b868aa88c6d38b8ada8ecafe267a5934934075782481",
+    "policy": "5edfd0ee15b141b7304e26c1a39cd11f7f7e721713cf099813ae4f4442fad377",
+    "capsule_sha256": "6e41621e2595c252328eaf5f34862c6d6f913caecb68117406bcd616a61b44a5",
+    "native_circuit_rebuilds": 0,
+    "guest_rebuilds": 0,
+    "checker_rebuilds": 0
+  },
+  "retained_records": [
+    {
+      "path": "experiments/general-checker-host-05/build-01/source/risc0-3bbcd44d6459b9ef6ac0df3846dc9215514934e8/Cargo.toml",
+      "bytes": 4190,
+      "sha256": "bce42c602334727f2896aa0efb2f3c66aaf4d45cb033335d65be476afdd08669"
+    },
+    {
+      "path": "experiments/general-checker-host-05/build-01/source/risc0-3bbcd44d6459b9ef6ac0df3846dc9215514934e8/Cargo.lock",
+      "bytes": 249915,
+      "sha256": "8bba3edd7d68d1d6e6509bf8abedb35b410662653b81afd3f0c8941c2951f6b5"
+    },
+    {
+      "path": "experiments/general-checker-host-05/build-01/source/risc0-3bbcd44d6459b9ef6ac0df3846dc9215514934e8/.cargo/config.toml",
+      "bytes": 306,
+      "sha256": "4557f92f300510fcf7f3c508e5aa5451d36315e9bc33c80b3b5be0aeab475c6e"
+    },
+    {
+      "path": "experiments/general-checker-host-05/build-01/source/risc0-3bbcd44d6459b9ef6ac0df3846dc9215514934e8/risc0/circuit/rv32im/Cargo.toml",
+      "bytes": 3424,
+      "sha256": "0a3a78bfd759194173227aa91551bbd026de5a79a8b4a08a952dcdf27c55082c"
+    },
+    {
+      "path": "experiments/general-checker-host-05/build-01/source/risc0-3bbcd44d6459b9ef6ac0df3846dc9215514934e8/risc0/circuit/rv32im/build.rs",
+      "bytes": 975,
+      "sha256": "8dbacb6624e94f3d77511dfcb98c828eeeb7344659d18f8291d01533f4d78f25"
+    },
+    {
+      "path": "experiments/general-checker-host-05/build-01/source/risc0-3bbcd44d6459b9ef6ac0df3846dc9215514934e8/risc0/zkvm/Cargo.toml",
+      "bytes": 7344,
+      "sha256": "3154874ee73c58e6fd67c4409058ea3d0618725b054cd56d8c87a88879ff9609"
+    },
+    {
+      "path": "experiments/general-checker-host-05/build-01/source/risc0-3bbcd44d6459b9ef6ac0df3846dc9215514934e8/risc0/zkvm/build.rs",
+      "bytes": 1233,
+      "sha256": "39643e9abc4df339c5c02c28046aadce50c6b25db74cfb696bbae691048c6c69"
+    },
+    {
+      "path": "experiments/general-checker-host-05/build-01/commands/build-host/stdout.txt",
+      "bytes": 671667,
+      "sha256": "5563fce251f5f5f35a446a0f629a73fc55f253f2a93a427cc8856eb82f0a2c85"
+    },
+    {
+      "path": "experiments/general-checker-host-05/build-01/target/x86_64-pc-windows-msvc/release/.fingerprint/risc0-circuit-rv32im-5583c41cc4b1f748/lib-risc0_circuit_rv32im.json",
+      "bytes": 2464,
+      "sha256": "1be9951c2068edb57834aefff635efed203eadab5acba10ed4f2aa31bbe05b06"
+    },
+    {
+      "path": "experiments/general-checker-host-05/build-01/target/x86_64-pc-windows-msvc/release/.fingerprint/risc0-zkvm-e4b4822463e0ff62/lib-risc0_zkvm.json",
+      "bytes": 3422,
+      "sha256": "74e3f8070851f0d7941fbcbf530443ffa5e7d8516aa11364d7156c57700866a4"
+    },
+    {
+      "path": "experiments/general-checker-host-05/build-01/target/x86_64-pc-windows-msvc/release/build/risc0-circuit-rv32im-f246d4fb08ece44b/out/preflight_opt_gen.rs",
+      "bytes": 51023,
+      "sha256": "a6108f74bec134ad1f87a42242513a83e28694ed22b9ae3099b7658b046e590f"
+    },
+    {
+      "path": "experiments/general-checker-host-05/build-01/target/x86_64-pc-windows-msvc/release/build/risc0-circuit-rv32im-f246d4fb08ece44b/output",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/general-checker-host-05/build-01/target/x86_64-pc-windows-msvc/release/build/risc0-zkvm-aa101455ce85233c/output",
+      "bytes": 38,
+      "sha256": "684d24bf0ec38efb67e918af50bf7c88d438b39e3a3e3b68d6549a62ed861d03"
+    },
+    {
+      "path": "experiments/v5-local-checks/small-aggregate-stage-host-build-01/selection.json",
+      "bytes": 292265,
+      "sha256": "049129dacf8b43ea3e4a1796a26098dfb207ddbc80d5c1b49cbfde94fc71fa38"
+    },
+    {
+      "path": "experiments/v5-local-checks/small-aggregate-stage-host-build-01/compile-command.json",
+      "bytes": 5117,
+      "sha256": "e0f68d07312d8cf6934667e44494c8ce69cedf335c806bdac018ef9d796e40c9"
+    },
+    {
+      "path": "experiments/v5-local-checks/small-aggregate-stage-host-build-01/environment-profile.json",
+      "bytes": 5497,
+      "sha256": "03591330ec0a67f86c731ea6b7ce80ba936185ad1924af2392d0fef81a8c6e79"
+    },
+    {
+      "path": "experiments/v5-local-checks/proof-validation-integration-build-01/compile-commands.json",
+      "bytes": 17062,
+      "sha256": "b779d874b2b766730b8854dae6fe8fa70ed609cbc8d8392307819123f9d52f7d"
+    },
+    {
+      "path": "experiments/v5-local-checks/proof-validation-integration-build-01/source-map.json",
+      "bytes": 5266,
+      "sha256": "a5693f19236bb8051e476d9f61d8d2449cbcd023054a1e9c8606607049957f2a"
+    },
+    {
+      "path": "experiments/v5-local-checks/small-aggregate-stage-host-build-01/source-map.json",
+      "bytes": 459,
+      "sha256": "a61cbbb6c566df46ccdbcfd1f52ea1e12fc2d7e5ade4fe3988ca5485e17e82b8"
+    }
+  ],
+  "sdk_source_inventories": [
+    {
+      "directory": "risc0/circuit/rv32im/src",
+      "files": [
+        {
+          "path": "risc0/circuit/rv32im/src/bin/bigint2-analyze.rs",
+          "bytes": 1087,
+          "sha256": "c90bd0e38d48bcd7a0d76363f772382382483670279b2549b1186a7cf5e6e72e"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/bibc.rs",
+          "bytes": 7794,
+          "sha256": "fa340150679c8197de1eee1dc258ea0a4f87282cbddbe50e4056d5d0db8f5d49"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/bigint.rs",
+          "bytes": 17869,
+          "sha256": "3b2796d38cb261c3a30e625326759b9635884215057fe3f83f8aca761400da34"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/bigint/analyze.rs",
+          "bytes": 5583,
+          "sha256": "d73e7ddb4979c831b377b30aa0a8f15b576704ca5fa78e1b32690c8360577aba"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/block_tracker.rs",
+          "bytes": 12267,
+          "sha256": "355d470728660d2e8e9113182363240ce615a037ce1b0e5377264f3ee8b19e7e"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/executor.rs",
+          "bytes": 33618,
+          "sha256": "d557a537e2b009977a13abf8313f2a0969ff691f02fc7c624078b2e3b6fad004"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/gdb.rs",
+          "bytes": 8741,
+          "sha256": "4bb993645d018d8793bd8221953c4332a29a54d1c46c6c6c787f1e936914900b"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/mod.rs",
+          "bytes": 1689,
+          "sha256": "4d60824a2ab03c6cfc7a32436242dacc7f0fe4dcb252235bb6f7895c4d7f9098"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/pager.rs",
+          "bytes": 21907,
+          "sha256": "fcd641e7173c753dc9f63782da97df19a58f91eddb4a6fb83226badeb88e200e"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/platform.rs",
+          "bytes": 7362,
+          "sha256": "6525901b5788309a84bdc5735f511167cd8b296483a52d5954e30bf7fb44713b"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/poseidon2.rs",
+          "bytes": 8430,
+          "sha256": "ab34d3da2f83b0a91370a4f2f37f8cabf159c9157c111bb6d523734d7635d2d8"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/r0vm.rs",
+          "bytes": 25533,
+          "sha256": "e32f6a3a3ea14b3446ad5f6985900857aed1ad629b57e7c67b5cf4dad87e08c6"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/rv32im.rs",
+          "bytes": 25825,
+          "sha256": "7d5054d51c7b3fa482fed60da9837b1a087328a9f58adae61ba4d5b131b64041"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/segment.rs",
+          "bytes": 4494,
+          "sha256": "fdde26ec613895ea3327d5a4d7dfcc76ed6d62870bcc8b9493417c976ccd3f80"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/sha2.rs",
+          "bytes": 7153,
+          "sha256": "d8c8494ad163a0edb79a84f9ccbdbe00f267dee89d14e18036c7507ba576b6d0"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/syscall.rs",
+          "bytes": 2331,
+          "sha256": "bbe2532fc2a7c5e063a9be0d00bbda5f008d05d3fde8585facee93bc995e8960"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/tests.rs",
+          "bytes": 3794,
+          "sha256": "ad64042fb32975a75ccf6d0cf24108c80b9a989c755f8e238f16246ab76f6822"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/execute/testutil.rs",
+          "bytes": 10360,
+          "sha256": "99f7abcd0a650bad087bbcd22928aa99366f5f4e1777ae9a8600d902fcbd58be"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/lib.rs",
+          "bytes": 7027,
+          "sha256": "c187e1fea2bedc5ba7e5220133328a9599b2dae995286f82a7c7546935f82f38"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/prove.rs",
+          "bytes": 8733,
+          "sha256": "9fa9e9658a9d0242b7db771598a5ce48ac24a6c4894781bd97d80368680fe02e"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/prove/preflight.rs",
+          "bytes": 5582,
+          "sha256": "bf427f0e3964756d66024bb66e7952bd6544d52d0c6f68b008e85aa1ad228bde"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/prove/preflight/bigint.rs",
+          "bytes": 56536,
+          "sha256": "7868beec1f4f34a425d0e5e1309a69b2217cc7083e2d6531412f6cae59ef2cdf"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/prove/preflight/constants.rs",
+          "bytes": 3575,
+          "sha256": "2c0b8d295b77106853de02852a4e3c365a8e728a3d1a79bc80acfe86cb8cecba"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/prove/preflight/decode.rs",
+          "bytes": 5009,
+          "sha256": "2363e08a4dba3c09f6f67fff4b407620bc2cb54920f33336f06858449d099472"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/prove/preflight/emu.rs",
+          "bytes": 50761,
+          "sha256": "7274e7a7d7ed2f3e4baf45067c9ded20435c658790c756665383c506053deb5e"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/prove/preflight/opt.rs",
+          "bytes": 5835,
+          "sha256": "5a368cd24e7f4893d81162fa01ab9601ab2b175c075e40bbde8ef691a40e9cfd"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/prove/preflight/paging.rs",
+          "bytes": 14244,
+          "sha256": "caaf3c62d422d62280fef5e8feda1f363c1d4e86b3de7f6577a0fa6d1ccd5c81"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/prove/preflight/poseidon2.rs",
+          "bytes": 10231,
+          "sha256": "c338eff78e07a7d0b409a053e8cd01d9706fff8dae82b1aaf9acc78b3a3d00ba"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/prove/preflight/trace.rs",
+          "bytes": 9891,
+          "sha256": "3d7b6c4271f8526ffd83d8107b267731855b89fdcf521b3cbf8ce96b004fbbb7"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/prove/preflight_cxx.rs",
+          "bytes": 5259,
+          "sha256": "35c294c9f393d8314643548342d42bf01094eb8dde8d3c7da3719193f55ee3b1"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/prove/preflight_dual.rs",
+          "bytes": 3633,
+          "sha256": "51a936955ab677e58e7ec7e6b6edd0ca3e4c75b2f085c1fb7f2db7615fe35e1c"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/testdata/riscv-tests.tgz",
+          "bytes": 3639867,
+          "sha256": "2e0f332d6b5bebec550ef1efce71b60c99b96b53b0524f294dd596599fc9a6a4"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/trace.rs",
+          "bytes": 2308,
+          "sha256": "f24728f61bf4e794529daf6337bef32b191bbe0c5371924bf3d33376f752fc68"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/verify.rs",
+          "bytes": 2578,
+          "sha256": "0524151b929778317e126af95410ad449b7be31924490b95ea341d5054080369"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/zirgen/info.rs",
+          "bytes": 1171,
+          "sha256": "0a8941c3fa6519a43a54cf7c91476a0276c6b254f2a98b176a320a4326e1e6cd"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/zirgen/mod.rs",
+          "bytes": 772,
+          "sha256": "04a5fbfa29fa946cd90565b2a8f1265f207fc92b0a8bdc536dd65fdc3ee5f8f6"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/zirgen/poly_ext.rs",
+          "bytes": 1072299,
+          "sha256": "55abf8ce315053ece5dcd4ec2b84cb9a0eec5ded9cb106ecb17c44feb1ae19a5"
+        },
+        {
+          "path": "risc0/circuit/rv32im/src/zirgen/taps.rs",
+          "bytes": 56270,
+          "sha256": "d2734dd5a676bbff7162f7e61ea056a228d3f010b50e3232364e7cb756184a74"
+        }
+      ]
+    },
+    {
+      "directory": "risc0/zkvm/src",
+      "files": [
+        {
+          "path": "risc0/zkvm/src/bin/commons-local-prover.rs",
+          "bytes": 3970,
+          "sha256": "87d09467a0cb55d701a7442ee6c630815f417a5cabfe49c4fe6068d7df198616"
+        },
+        {
+          "path": "risc0/zkvm/src/claim/maybe_pruned.rs",
+          "bytes": 5689,
+          "sha256": "edbdc3bd5487eba49598db8bf3b18ef8eb74814cf341b298ed6328510872cd91"
+        },
+        {
+          "path": "risc0/zkvm/src/claim/merge.rs",
+          "bytes": 10569,
+          "sha256": "ed6d6af676f589b1f58c13dbf58aa276fc4514d498680c58f2730637559942e2"
+        },
+        {
+          "path": "risc0/zkvm/src/claim/mod.rs",
+          "bytes": 2256,
+          "sha256": "b768ab2b8186eb9d9d8725fe03695eed858fbecc5067874357dd8c71bec1f499"
+        },
+        {
+          "path": "risc0/zkvm/src/claim/receipt.rs",
+          "bytes": 22383,
+          "sha256": "70ebdbdfa991872e0ce2d3b406e4217a1d2c1181275843e1a1bbd881a07c7fd8"
+        },
+        {
+          "path": "risc0/zkvm/src/claim/work.rs",
+          "bytes": 10632,
+          "sha256": "75d80c0e2c2a37e66dad770ba5803b3ccfcef413af198823f4ab2c712f92438f"
+        },
+        {
+          "path": "risc0/zkvm/src/guest/env/batcher.rs",
+          "bytes": 4147,
+          "sha256": "a11bdca6441306fdb78b88be485b55a129f901b4f2df68e8618b31c479f8e5f5"
+        },
+        {
+          "path": "risc0/zkvm/src/guest/env/mod.rs",
+          "bytes": 15975,
+          "sha256": "2af757a52c1db0c335e82957d992c3234ac047807f8d533701e36d6d8959d745"
+        },
+        {
+          "path": "risc0/zkvm/src/guest/env/read.rs",
+          "bytes": 5167,
+          "sha256": "0beb5784bd69b97479b3035d76551f2c80cfe87dc9a442607317eb9617ff9d3f"
+        },
+        {
+          "path": "risc0/zkvm/src/guest/env/verify.rs",
+          "bytes": 8621,
+          "sha256": "b4539d9a23f8e0d7a3723000b3cad5e1cab8d3ef58a52d7aa446e03620aa3bc3"
+        },
+        {
+          "path": "risc0/zkvm/src/guest/env/write.rs",
+          "bytes": 2823,
+          "sha256": "ea437cd6dc7f9b5421e8f42ae582e5df36cf068dcbe39b270ff7daa10ccf536f"
+        },
+        {
+          "path": "risc0/zkvm/src/guest/memcpy.s",
+          "bytes": 11842,
+          "sha256": "14912407df84e63f2e3a83e80f97bf685dac47c5c6bca6d4de38763a3a7bdc19"
+        },
+        {
+          "path": "risc0/zkvm/src/guest/memset.s",
+          "bytes": 8437,
+          "sha256": "381b51e8030234748fb76052af49b3fd8c611e5807fd09ab884ff88a0eba03e2"
+        },
+        {
+          "path": "risc0/zkvm/src/guest/mod.rs",
+          "bytes": 6812,
+          "sha256": "c149e205515d214b48e54313c163ff17c15e0bda275122df4c63205573ed3656"
+        },
+        {
+          "path": "risc0/zkvm/src/host/client/env.rs",
+          "bytes": 15438,
+          "sha256": "566ccdd44a986599c08d86e6036f0c29a8897585bd9f1c512b6215388bae3ed6"
+        },
+        {
+          "path": "risc0/zkvm/src/host/client/mod.rs",
+          "bytes": 772,
+          "sha256": "e3f6c7343fa9e3784967c498517705c870d8dfb17861a259382efd28d04d825e"
+        },
+        {
+          "path": "risc0/zkvm/src/host/client/posix_io.rs",
+          "bytes": 2775,
+          "sha256": "38cc139e6dcf2d55985d625710e8a01a195afcdd84d27ca99052500e85964281"
+        },
+        {
+          "path": "risc0/zkvm/src/host/client/prove/bonsai.rs",
+          "bytes": 10225,
+          "sha256": "b6b38795181268f30abc70181dfa3a02f5dfa364f34e194036a3607c72c48a30"
+        },
+        {
+          "path": "risc0/zkvm/src/host/client/prove/default.rs",
+          "bytes": 7959,
+          "sha256": "d212f55be11763dd7f39d7538fa3b5f710e274bb6fa151f6e1ea3d642829da58"
+        },
+        {
+          "path": "risc0/zkvm/src/host/client/prove/local.rs",
+          "bytes": 2684,
+          "sha256": "1dff1e710e7684bc9c552c43d4a162d6b3669a7df762bda651e859460755205d"
+        },
+        {
+          "path": "risc0/zkvm/src/host/client/prove/mod.rs",
+          "bytes": 13131,
+          "sha256": "2bbd0ef2e298a99107b16ce11bfb5b2c55d2e4d2d27193adfad410dae1d9099d"
+        },
+        {
+          "path": "risc0/zkvm/src/host/client/prove/opts.rs",
+          "bytes": 9053,
+          "sha256": "09b51fdb5991d7aa173385f0b7e3f7cadef2156ed1c4f1f39eae17ed2d6ab609"
+        },
+        {
+          "path": "risc0/zkvm/src/host/mod.rs",
+          "bytes": 897,
+          "sha256": "21c3a3f49a6823bbbfe031860c53c8f1cc478e4bbba3bad0065c01913a8645ea"
+        },
+        {
+          "path": "risc0/zkvm/src/host/prove_info.rs",
+          "bytes": 5717,
+          "sha256": "9e4f472b917085b1a916b205e4d4ec47e89513d01b318b4aa8e1d253412c8495"
+        },
+        {
+          "path": "risc0/zkvm/src/host/recursion/mod.rs",
+          "bytes": 1731,
+          "sha256": "80f855c776b25ef7a0b09e56a51345e4aa3ed81777404acb2496a8dc98e24119"
+        },
+        {
+          "path": "risc0/zkvm/src/host/recursion/prove/mod.rs",
+          "bytes": 39818,
+          "sha256": "d0eee5f77cec4d69df46891dc6826a5965ec009aa34a8f0b3a33c0e8a4b3b53d"
+        },
+        {
+          "path": "risc0/zkvm/src/host/recursion/prove/zkr.rs",
+          "bytes": 3423,
+          "sha256": "8e68c42ce8d620e33e690a21a29b0b85c6e73688c5f5ee0e7e755152e4e25334"
+        },
+        {
+          "path": "risc0/zkvm/src/host/recursion/tests.rs",
+          "bytes": 24607,
+          "sha256": "270e3fca3fb81ce44f6878e3c15c44f5f683b28d9f7681b0b45f9000dc67f3a8"
+        },
+        {
+          "path": "risc0/zkvm/src/host/rpc.rs",
+          "bytes": 5814,
+          "sha256": "5b0b0da339b96b194bf3d4034422fea2e9d5a42ad722730514b6f2d92b7f1892"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/executor.rs",
+          "bytes": 24284,
+          "sha256": "60554365b54e84957877040296f5825770adad0560b12ad2cff4e1c0d492ff3a"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/gdb.rs",
+          "bytes": 6076,
+          "sha256": "259870d7712589ae65fee6ae7f60cbc95573b4c4485d88319d72a1995e27a8b3"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/mod.rs",
+          "bytes": 2505,
+          "sha256": "017f591be9329a9f63936aec2c07456499ccae5fb6541422564aa5736beeff01"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/profile.proto",
+          "bytes": 8817,
+          "sha256": "1a05bc9f7d1383a1114cfb79581e2421ee38553a1ffcf0c11f28e30f9f1aec17"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/profiler.rs",
+          "bytes": 27455,
+          "sha256": "c1e9b01151fc1515eb9a807d63631555a11fad20eaaf19802c364dc8cecb1bdc"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/profiler/inline.rs",
+          "bytes": 12847,
+          "sha256": "29f66272ec2e4ef8f7ceb1ac9af892555b3af1a47baefbfe4f7e89836648b7a9"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/proto.rs",
+          "bytes": 10448,
+          "sha256": "c1bcb8ae465ec7631d4f180079805fb84cb96cd77494c8f4717a89509db00505"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/syscall/args.rs",
+          "bytes": 2895,
+          "sha256": "6debb313c02374455e9225796961206903a52f8411867156ebcee7123515ad98"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/syscall/cycle_count.rs",
+          "bytes": 1406,
+          "sha256": "d8a6434d0c292d7c56e41e4b2f9cd35d325d41c30124f1a3aef432778136d10d"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/syscall/fork.rs",
+          "bytes": 11640,
+          "sha256": "b9c0ae7addd5426d71bcd880a77192fe909c26c60602bbfd017bc4c2f2b9a5dc"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/syscall/getenv.rs",
+          "bytes": 2730,
+          "sha256": "961316124a9df803b8a915079dc2d56389a067cd79be32f7477932bf5daf0ffd"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/syscall/keccak.rs",
+          "bytes": 4550,
+          "sha256": "2bbc6a20d6112e9dc0241912bfadc07fea97e0ac26148ce0e1a3e55ffc243665"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/syscall/log.rs",
+          "bytes": 1741,
+          "sha256": "275be79d99b2444e85ec318b77982ebdf72a7315f162d65206737d77c3501106"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/syscall/mod.rs",
+          "bytes": 8750,
+          "sha256": "303eb780f329c8569dad07d8afce5f267537ee70202e3435ef66cf7763f60448"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/syscall/panic.rs",
+          "bytes": 1624,
+          "sha256": "7f893fcbde0e4e511260b488a973adab24e67bd85292fbf4a6c9cd095ae7dd30"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/syscall/pipe.rs",
+          "bytes": 2398,
+          "sha256": "b582d05714a96845ecebbfed2be7b9156892633b51fee53be51e49245fbb8e7f"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/syscall/posix_io.rs",
+          "bytes": 2973,
+          "sha256": "51784d53aec9b8b52d33c543ab618f1788ddf1af4e68b49b822b46fa8dea4acd"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/syscall/random.rs",
+          "bytes": 1099,
+          "sha256": "b0abe860ebe13b37c6a2d3c993b1de15c7723ff501c9b8e334ae08da1f738fb9"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/syscall/verify.rs",
+          "bytes": 2732,
+          "sha256": "0348ccc2517ed8fb4e29948b38e1c8466ed0df818264fc7d5096db31b0a0b29b"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/syscall/verify2.rs",
+          "bytes": 2712,
+          "sha256": "4e0c898c59dae04e69d41f7f29dc26e6bd4c19a8818946dab337ef0999094933"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/exec/tests.rs",
+          "bytes": 45641,
+          "sha256": "c2d8fea782723db4cc983dfdf5a31b45289c54f49b7192380e7d66c3e3948a09"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/mod.rs",
+          "bytes": 826,
+          "sha256": "1d8263dc792ffc8936d10472100854c1f173419504a51ca059af38a90bb84cbb"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/prove/dev_mode.rs",
+          "bytes": 12933,
+          "sha256": "e6007ef216a3e014a232cab7aab00f019ac9b458dd712009a1cd08146ce6f40b"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/prove/keccak.rs",
+          "bytes": 2688,
+          "sha256": "907c541bd37be88bf9b9735ba9d4961af735616ca0ebd148f29197efa591faa4"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/prove/mod.rs",
+          "bytes": 15717,
+          "sha256": "ab591498199da027edff1a714b681a852229bf95d2a846d6d6f8f4ab7e8cecd1"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/prove/prover_impl.rs",
+          "bytes": 13544,
+          "sha256": "f0d76ebe18a69798158ac475e3ce0357f8d96448fe9dcf9bb5fe9649f64613e2"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/prove/tests.rs",
+          "bytes": 41399,
+          "sha256": "7e912fd159a822e25e842a82b44129f0497ad57c6a94c775e968e2628f2e1d47"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/prove/union_peak.rs",
+          "bytes": 1452,
+          "sha256": "e5cc5f4351edae4c4c346b42d4294d7f97cf972fec6fa5b6dcbe5333cd9ad3ee"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/session.rs",
+          "bytes": 15523,
+          "sha256": "804d7b7ea33b76a4a7e2e107ff28646e69bca232dae9a2e8f66361666fdb5a8d"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/testdata/jalr_addr_lowest_bit.bin",
+          "bytes": 1028,
+          "sha256": "925d9b4fc5879f0ca63a414036a7a07e89f0e1b09298da430172d824bbaed3ed"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/testdata/jalr_addr_lowest_bit.s",
+          "bytes": 1559,
+          "sha256": "8190b3a89167a0d7402286224418f3030cb5e310c3e445bcce097225d826f944"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/testdata/riscv-tests.zip",
+          "bytes": 130,
+          "sha256": "4df93d21e0e48916c84d59e5fbecd18ca7fbc97fb07d207c0dec74b76b43f661"
+        },
+        {
+          "path": "risc0/zkvm/src/host/server/testutils.rs",
+          "bytes": 4395,
+          "sha256": "42f013b13e527ced00ca195ed00efa3bbecc33d54b6d36a80e5eb63e3e3f35fe"
+        },
+        {
+          "path": "risc0/zkvm/src/lib.rs",
+          "bytes": 10278,
+          "sha256": "703790e00aabdce0edd69f405518bcfca5892571d3d08b1563149dde11f7d8cb"
+        },
+        {
+          "path": "risc0/zkvm/src/mmr.rs",
+          "bytes": 3940,
+          "sha256": "5a9d073f2c1474c5043862395271d5ab8787d7484248b63061c22d985924e0a8"
+        },
+        {
+          "path": "risc0/zkvm/src/receipt.rs",
+          "bytes": 44447,
+          "sha256": "703943ca22b382fcaae0f62e1f3a4c461e6e503164532d3fe4ec557d491c1e11"
+        },
+        {
+          "path": "risc0/zkvm/src/receipt/composite.rs",
+          "bytes": 13427,
+          "sha256": "3a5915e0e805adc5cd39e24991cdb4d9bd4544d9517cd54ee050a4a873b73bd8"
+        },
+        {
+          "path": "risc0/zkvm/src/receipt/groth16.rs",
+          "bytes": 7624,
+          "sha256": "d5bb6392613fbb51080d2820493214ad77a41b32f9a60fa0c4e57889653e7fda"
+        },
+        {
+          "path": "risc0/zkvm/src/receipt/merkle.rs",
+          "bytes": 7841,
+          "sha256": "e3f3ee67003a22b1da7e1325473d8a228bc2cd8171c2562a5166ad0c9bbbef9e"
+        },
+        {
+          "path": "risc0/zkvm/src/receipt/segment.rs",
+          "bytes": 8385,
+          "sha256": "e2ef4c8bf2588e646e12920e861109abda1e29cf6b779ee9b1ed52a81432aaf3"
+        },
+        {
+          "path": "risc0/zkvm/src/receipt/succinct.rs",
+          "bytes": 17415,
+          "sha256": "34bd25361a5474664b8a7543f4a3712d4f61b073641ff137908f0ac3793bd334"
+        },
+        {
+          "path": "risc0/zkvm/src/serde/deserializer.rs",
+          "bytes": 16432,
+          "sha256": "f3bd5f036774b250727c04e29075e06b19cc594a2b2789faaa3dd0c19b191c8b"
+        },
+        {
+          "path": "risc0/zkvm/src/serde/err.rs",
+          "bytes": 2565,
+          "sha256": "8ed668a968634faa286a9986dc8f7f1b90b2bbac6aaf4ed11cf81d073efdfe9c"
+        },
+        {
+          "path": "risc0/zkvm/src/serde/mod.rs",
+          "bytes": 3292,
+          "sha256": "14d7ddfb7b5696c1381606369e5f02a4f9f2b1855e0f60730320fd4a47526b99"
+        },
+        {
+          "path": "risc0/zkvm/src/serde/serializer.rs",
+          "bytes": 13404,
+          "sha256": "b29210481335724770992fca50fd27d6d9e35a11fcf26f039c4dd2bf4279c547"
+        },
+        {
+          "path": "risc0/zkvm/src/sha.rs",
+          "bytes": 4515,
+          "sha256": "f2068db2a3a3076a97d49fd83f538035cfffadc761a4f685992f16cf0d4fbf25"
+        }
+      ]
+    }
+  ],
+  "direct_extern_inputs": [
+    {
+      "crate": "risc0_circuit_rv32im",
+      "fingerprint": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\.fingerprint\\risc0-circuit-rv32im-5583c41cc4b1f748\\lib-risc0_circuit_rv32im.json",
+      "features": [
+        "execute",
+        "prove",
+        "std"
+      ],
+      "externs": [
+        {
+          "name": "risc0_binfmt",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_binfmt-2cc6c1087913fe4a.rlib",
+          "bytes": 1174362,
+          "sha256": "4aeda45dff392a83dd38cfb4a4c5466d1237a3560c489c26f9da0349885f61f0"
+        },
+        {
+          "name": "risc0_sys",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_sys-8e6b57d0b6dc2ab6.rlib",
+          "bytes": 14486,
+          "sha256": "d87646fdedb7b2d97cd35e285ece4aa4118104e732e183826569d39ec00da9b8"
+        },
+        {
+          "name": "smallvec",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libsmallvec-c618a0d6d424096f.rlib",
+          "bytes": 310278,
+          "sha256": "a1289319b64dab89dfcad46c013c937b4fe5c530f289049e76e5cd825803800f"
+        },
+        {
+          "name": "byteorder",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libbyteorder-7dc48f52e80ce4fb.rlib",
+          "bytes": 331434,
+          "sha256": "7cb5599be3f881ebb70cc187908cafeaba51dd9211701b9a8fe97c75fcfa7b3b"
+        },
+        {
+          "name": "thiserror",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libthiserror-9d1f6e31777d10f7.rlib",
+          "bytes": 38316,
+          "sha256": "c79fd0e88fde0d0be93e3f158d9454b40ed7660023d1c0f3a285725e56312274"
+        },
+        {
+          "name": "num_traits",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libnum_traits-00a1780e5ad68e79.rlib",
+          "bytes": 1867134,
+          "sha256": "4705aef054f9810bdb72550a242b0fdb22303ba2fb2f368e18ab1534c66f02f5"
+        },
+        {
+          "name": "risc0_circuit_rv32im_sys",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_circuit_rv32im_sys-f53cb91133411b30.rlib",
+          "bytes": 34508342,
+          "sha256": "46fd1d6fceb4a2bd7b831068962f9af27bb41adc1cf1d516fce0add6d5bb1fb2"
+        },
+        {
+          "name": "bit_vec",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libbit_vec-d13354e1dba99ed0.rlib",
+          "bytes": 256538,
+          "sha256": "7179ab5c261052fb0796b58eca2ce58305a3d6751ce7d4f3bb00903664f27d86"
+        },
+        {
+          "name": "strum",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libstrum-d989b43eaaed6cba.rlib",
+          "bytes": 32844,
+          "sha256": "b9cda94684d4fb4bb236144f6db1d693806725e4dbb2ee3a45fe60edbadc925a"
+        },
+        {
+          "name": "cfg_if",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libcfg_if-14a4326532cf85d8.rlib",
+          "bytes": 7918,
+          "sha256": "deb25f49e21c5f766dd56263e3a5706e5fc6ad9298a86c62af56e2bbc4b192b3"
+        },
+        {
+          "name": "risc0_zkvm_platform",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_zkvm_platform-95666c475b0c2d9b.rlib",
+          "bytes": 153724,
+          "sha256": "666c916dfa58fbbbd20b5dfd711838e1888555651dba347cd3e7c9dee029f58c"
+        },
+        {
+          "name": "tracing",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libtracing-f2c05f61094c16e8.rlib",
+          "bytes": 657682,
+          "sha256": "20dbdb552f6d0a64feaab197234cc3e24fff6bfa333bf64af6a5ebb691f5814f"
+        },
+        {
+          "name": "malachite",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libmalachite-e5d8850f613d4483.rlib",
+          "bytes": 9096,
+          "sha256": "fd962ae0ed5543cc2b819a2bea1a05c606a83b343162f2025b2182b5f94eb10f"
+        },
+        {
+          "name": "enum_map",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libenum_map-751b462190c179dd.rlib",
+          "bytes": 213728,
+          "sha256": "d34eac782c483849e82ba044cae305d1036c2458fe1c8cd0298bd4bdce24aab2"
+        },
+        {
+          "name": "anyhow",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libanyhow-696464f4b2560bb1.rlib",
+          "bytes": 633352,
+          "sha256": "d60ad9251b31138bb6506c42adf062e5c37d6e9728d626a47c047a7173a10b30"
+        },
+        {
+          "name": "wide",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libwide-bf8640963f225551.rlib",
+          "bytes": 4306298,
+          "sha256": "c7ad7e8f5a7e71611d13be263fd550dd92244695cc548d001496d4725fbc0bba"
+        },
+        {
+          "name": "num_derive",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\deps\\num_derive-0bb3dbbe9f20a2ba.dll",
+          "bytes": 1868800,
+          "sha256": "37c8bfdd0e42bc542da55da2963240b3830fe9d009e76562fca2c31df2cdd858"
+        },
+        {
+          "name": "derive_more",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libderive_more-923adcb72eb303ef.rlib",
+          "bytes": 66854,
+          "sha256": "66c27a37a483761e5cc247978181eedd05bc4e6712d804aab3f8ff798834a8c1"
+        },
+        {
+          "name": "rand",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librand-21d37048174c7ba6.rlib",
+          "bytes": 1160664,
+          "sha256": "f7aade0adee51f979e5da67d648893d39e6e4272e8bf8e5a99a53bc5b0413e87"
+        },
+        {
+          "name": "serde",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libserde-c8458b918a5c64a0.rlib",
+          "bytes": 944484,
+          "sha256": "c2bdec00d6bc0942b77e31495ca7d3aec7df7370e42cf65335b232ff35e32044"
+        },
+        {
+          "name": "risc0_zkp",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_zkp-aeba76772574ca56.rlib",
+          "bytes": 3128086,
+          "sha256": "8f8d318c6f71d31d5ccb50ce4ad0fccc59f1cafc19a7c6dee0c9941bc099251f"
+        },
+        {
+          "name": "bytemuck",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libbytemuck-23baa6122debf6d3.rlib",
+          "bytes": 634518,
+          "sha256": "8357f76d925ddc5f572189939a2168f1c520c7a78f0047bca1819643966480f3"
+        },
+        {
+          "name": "gdbstub",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libgdbstub-7ad66ec4e48e5ceb.rlib",
+          "bytes": 2910528,
+          "sha256": "c791cab5abd995e0c92032d9bd9b087c3cf6ce9fcff1e4cb29939789117a1545"
+        },
+        {
+          "name": "rayon",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librayon-ecfcf5a77e0f4c05.rlib",
+          "bytes": 4380806,
+          "sha256": "6b3a8a9587330e7da45f25d8701a28f206198248a8070fe8e8f36615cc5e4ca2"
+        },
+        {
+          "name": "ringbuffer",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libringbuffer-cdbfd47bb0a5dc43.rlib",
+          "bytes": 289156,
+          "sha256": "904c34126dbf0a641a7fd3707b09e5e37aca044cf27ca37d38643b5d91199cc8"
+        },
+        {
+          "name": "gdbstub_arch",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libgdbstub_arch-737ef03bcfe889a3.rlib",
+          "bytes": 1136126,
+          "sha256": "c08756ac0f1e3ef406bff0f10930f7515a915e2184f324b1220cf2ad4d1b894a"
+        },
+        {
+          "name": "postcard",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libpostcard-05af7bd60358420e.rlib",
+          "bytes": 600192,
+          "sha256": "f1aa408dcf2bf644e052e0cdb597a4b3f8808844ec11de5bf7631f363a810f77"
+        },
+        {
+          "name": "risc0_core",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_core-214715ca6e2397a6.rlib",
+          "bytes": 231676,
+          "sha256": "36eb344ae66e91885018c2d94b211cfb1e4c83238b59fb1da35417d3f62adc76"
+        },
+        {
+          "name": "num_enum",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libnum_enum-92d3eb7d16e571f4.rlib",
+          "bytes": 18620,
+          "sha256": "c24874e56e37a82a2d04fd05ce713bb308dbe2ce7ba97a9722981fca07e163d1"
+        },
+        {
+          "name": "paste",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\deps\\paste-c3d8fc015fe7b795.dll",
+          "bytes": 358400,
+          "sha256": "a478b47700b660e8f2cd7378dbd48bf61948a2a555a64fe1ce6d04ed8dcc27d5"
+        }
+      ]
+    },
+    {
+      "crate": "risc0_zkvm",
+      "fingerprint": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\.fingerprint\\risc0-zkvm-e4b4822463e0ff62\\lib-risc0_zkvm.json",
+      "features": [
+        "client",
+        "commons-inprocess-only",
+        "disable-dev-mode",
+        "prove",
+        "std"
+      ],
+      "externs": [
+        {
+          "name": "bincode",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libbincode-c374a8dbb9e79ad3.rlib",
+          "bytes": 674634,
+          "sha256": "c9dc6a56e36315e813f1f02aeb8a67edd1c5fdc287347fb7810f94c9e310ddfa"
+        },
+        {
+          "name": "risc0_binfmt",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_binfmt-2cc6c1087913fe4a.rlib",
+          "bytes": 1174362,
+          "sha256": "4aeda45dff392a83dd38cfb4a4c5466d1237a3560c489c26f9da0349885f61f0"
+        },
+        {
+          "name": "hex",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libhex-ee1b0d5174519db5.rlib",
+          "bytes": 413280,
+          "sha256": "0dcd528de9d8ea9f4266dac6fec3ada5fea35dfc76d2837671f38c8ddcd1b46f"
+        },
+        {
+          "name": "gimli",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libgimli-8455c727dcf76f5c.rlib",
+          "bytes": 7546458,
+          "sha256": "30ac4898dfe7aa4aca4baa50a50a5367c4c86cff176a8e768e0ac804aee59616"
+        },
+        {
+          "name": "risc0_circuit_recursion",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_circuit_recursion-4bf141966895b5f7.rlib",
+          "bytes": 4519460,
+          "sha256": "c66746d5f5b56b0900fd2f75df7d9fb260e41d520694240712f256902dccbe77"
+        },
+        {
+          "name": "typetag",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libtypetag-979faa3df1d32b6b.rlib",
+          "bytes": 873650,
+          "sha256": "b1ea96f863d71aaf3da82b12bc3fa6e26c357c39c45f119d4453e180e4eb5990"
+        },
+        {
+          "name": "rrs_lib",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librrs_lib-d80fecb5233a2e1c.rlib",
+          "bytes": 298766,
+          "sha256": "498abdac2381f1299b3dff31fd10d129bedefe9d89a38c866d943ed06062dd94"
+        },
+        {
+          "name": "object",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libobject-8e9ebfecfbe7bf5a.rlib",
+          "bytes": 8242546,
+          "sha256": "3fbf4398a7ecaa6e3dfe5a1031626f5d310185a59b51f471ed049ae1c417cbc2"
+        },
+        {
+          "name": "semver",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libsemver-a3a4dbac0458221d.rlib",
+          "bytes": 260444,
+          "sha256": "9022430437e86ab7251d3cdc846c662ec78774db0fe231c27ae1c81ad2e561d5"
+        },
+        {
+          "name": "num_traits",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libnum_traits-00a1780e5ad68e79.rlib",
+          "bytes": 1867134,
+          "sha256": "4705aef054f9810bdb72550a242b0fdb22303ba2fb2f368e18ab1534c66f02f5"
+        },
+        {
+          "name": "borsh",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libborsh-d2af8f24aacf16c1.rlib",
+          "bytes": 984812,
+          "sha256": "c79cf96e20be12b793131bce5bdf43c32d0d5a94b5d8ecea83e7ea242b9212c0"
+        },
+        {
+          "name": "cfg_if",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libcfg_if-14a4326532cf85d8.rlib",
+          "bytes": 7918,
+          "sha256": "deb25f49e21c5f766dd56263e3a5706e5fc6ad9298a86c62af56e2bbc4b192b3"
+        },
+        {
+          "name": "risc0_zkvm_platform",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_zkvm_platform-95666c475b0c2d9b.rlib",
+          "bytes": 153724,
+          "sha256": "666c916dfa58fbbbd20b5dfd711838e1888555651dba347cd3e7c9dee029f58c"
+        },
+        {
+          "name": "risc0_circuit_keccak",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_circuit_keccak-c208b21526139117.rlib",
+          "bytes": 19093584,
+          "sha256": "8edfbd8a30b9e83cf223dc282d114c5feca311d4b77498278b27664c5be54989"
+        },
+        {
+          "name": "tracing",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libtracing-f2c05f61094c16e8.rlib",
+          "bytes": 657682,
+          "sha256": "20dbdb552f6d0a64feaab197234cc3e24fff6bfa333bf64af6a5ebb691f5814f"
+        },
+        {
+          "name": "prost",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libprost-5549e3bd6d0602ff.rlib",
+          "bytes": 731498,
+          "sha256": "c8cfffd480b5d12961540dbdda38a6dc59b13f16690dbac7adfbf7abbcd39016"
+        },
+        {
+          "name": "rzup",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librzup-44c491682d8d8b0f.rlib",
+          "bytes": 1721762,
+          "sha256": "85cf721dbc93dfddc15ab66d2ac453227642127f40ba50305d902d2778b52caa"
+        },
+        {
+          "name": "tempfile",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libtempfile-862a439e2614fece.rlib",
+          "bytes": 447072,
+          "sha256": "e7d1dff4b4cadff3142a0ff11e1d0161bba7ebe14198ed73a5e683d49d6d33c7"
+        },
+        {
+          "name": "sha2",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libsha2-81720b207b2cf254.rlib",
+          "bytes": 729310,
+          "sha256": "285ba857c85d9c6cdd1f86d0f970cfbdc35b112686318dd9d9776c997e4eb8ac"
+        },
+        {
+          "name": "lazy_regex",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\liblazy_regex-a59d064b718695c8.rlib",
+          "bytes": 15182,
+          "sha256": "435bbd74bb7d7a4bbc3fbe62e39d6575126e70d3551e6387c42fbc765fec51d3"
+        },
+        {
+          "name": "enum_map",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libenum_map-751b462190c179dd.rlib",
+          "bytes": 213728,
+          "sha256": "d34eac782c483849e82ba044cae305d1036c2458fe1c8cd0298bd4bdce24aab2"
+        },
+        {
+          "name": "risc0_groth16",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_groth16-3dcb5cc391e30de9.rlib",
+          "bytes": 1802018,
+          "sha256": "c3db0d3bab9fbe2dad1fea85379e88f8e759df5b92ff5f91c06183d7411fdaae"
+        },
+        {
+          "name": "stability",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\deps\\stability-69979dc542a9e363.dll",
+          "bytes": 1722880,
+          "sha256": "fc50828d4c543fdea8a720107f247a465a939cc0ff6c90b530f48542e93f83b7"
+        },
+        {
+          "name": "risc0_build",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_build-430e5ff5a360f47f.rlib",
+          "bytes": 2661418,
+          "sha256": "8542f04ee88d9f0b384e1976921e8d14df3520c28ac672ab666050bdf3c8e9d4"
+        },
+        {
+          "name": "anyhow",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libanyhow-696464f4b2560bb1.rlib",
+          "bytes": 633352,
+          "sha256": "d60ad9251b31138bb6506c42adf062e5c37d6e9728d626a47c047a7173a10b30"
+        },
+        {
+          "name": "derive_more",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libderive_more-923adcb72eb303ef.rlib",
+          "bytes": 66854,
+          "sha256": "66c27a37a483761e5cc247978181eedd05bc4e6712d804aab3f8ff798834a8c1"
+        },
+        {
+          "name": "rand",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librand-21d37048174c7ba6.rlib",
+          "bytes": 1160664,
+          "sha256": "f7aade0adee51f979e5da67d648893d39e6e4272e8bf8e5a99a53bc5b0413e87"
+        },
+        {
+          "name": "num_bigint",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libnum_bigint-3a0f132fad138296.rlib",
+          "bytes": 2845650,
+          "sha256": "d6135edc393ad23681d1840d8d554b397fab35d05afabe34ae1513f257d2f143"
+        },
+        {
+          "name": "rustc_demangle",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librustc_demangle-5ff7f4f40e02e284.rlib",
+          "bytes": 241044,
+          "sha256": "613674f00f9349a45aaa2770af20bbd75912bda691729476f586e784b805b70a"
+        },
+        {
+          "name": "keccak",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libkeccak-f01484557edc8c0b.rlib",
+          "bytes": 102638,
+          "sha256": "a22c698b2e6c8d3c86de60469068886262cac9a1f6c6089414beb3448daa415c"
+        },
+        {
+          "name": "serde",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libserde-c8458b918a5c64a0.rlib",
+          "bytes": 944484,
+          "sha256": "c2bdec00d6bc0942b77e31495ca7d3aec7df7370e42cf65335b232ff35e32044"
+        },
+        {
+          "name": "elf",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libelf-e06f447f7c2088b8.rlib",
+          "bytes": 1405672,
+          "sha256": "4ac27e835a762510ff6692a9d200b59377579e797d1a6eb1a4b78b12570ba2d5"
+        },
+        {
+          "name": "risc0_zkp",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_zkp-aeba76772574ca56.rlib",
+          "bytes": 3128086,
+          "sha256": "8f8d318c6f71d31d5ccb50ce4ad0fccc59f1cafc19a7c6dee0c9941bc099251f"
+        },
+        {
+          "name": "risc0_zkos_v1compat",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_zkos_v1compat-2fe6a85e98e42027.rlib",
+          "bytes": 243108,
+          "sha256": "a97f4890a3c7730c70bea76de8ad0805afca65db4648371d98644a4ef1527d59"
+        },
+        {
+          "name": "bytemuck",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libbytemuck-23baa6122debf6d3.rlib",
+          "bytes": 634518,
+          "sha256": "8357f76d925ddc5f572189939a2168f1c520c7a78f0047bca1819643966480f3"
+        },
+        {
+          "name": "gdbstub",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libgdbstub-7ad66ec4e48e5ceb.rlib",
+          "bytes": 2910528,
+          "sha256": "c791cab5abd995e0c92032d9bd9b087c3cf6ce9fcff1e4cb29939789117a1545"
+        },
+        {
+          "name": "rayon",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librayon-ecfcf5a77e0f4c05.rlib",
+          "bytes": 4380806,
+          "sha256": "6b3a8a9587330e7da45f25d8701a28f206198248a8070fe8e8f36615cc5e4ca2"
+        },
+        {
+          "name": "gdbstub_arch",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libgdbstub_arch-737ef03bcfe889a3.rlib",
+          "bytes": 1136126,
+          "sha256": "c08756ac0f1e3ef406bff0f10930f7515a915e2184f324b1220cf2ad4d1b894a"
+        },
+        {
+          "name": "bytes",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libbytes-7e270bf29ccb5cb5.rlib",
+          "bytes": 1143112,
+          "sha256": "762a3f7f2636a0989fb689f8e9a046b782e22d0e9002665b44dd32249cbd3392"
+        },
+        {
+          "name": "risc0_core",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_core-214715ca6e2397a6.rlib",
+          "bytes": 231676,
+          "sha256": "36eb344ae66e91885018c2d94b211cfb1e4c83238b59fb1da35417d3f62adc76"
+        },
+        {
+          "name": "addr2line",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libaddr2line-0605639db0b9adc9.rlib",
+          "bytes": 2535270,
+          "sha256": "428da15df14b69d875c10a3fddfd321e21a742b833ed96fdaab8eb4db5ace4e0"
+        },
+        {
+          "name": "risc0_circuit_rv32im",
+          "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_circuit_rv32im-5583c41cc4b1f748.rlib",
+          "bytes": 10789592,
+          "sha256": "28f24d89ee01363b75eeca50d313236f9d2175e5f9f86058a5472b51bd33d539"
+        }
+      ]
+    }
+  ],
+  "compiler_recipe": {
+    "kind": "explicit_direct_rustc_five_step_successor_not_original_Cargo_replay",
+    "run_token": "${RUN}",
+    "token_rule": "Root must replace this literal token with one fresh canonical absolute build root, pin the expanded selection, and authorize finite execution separately.",
+    "ordered_steps": [
+      {
+        "name": "risc0_circuit_rv32im",
+        "argv_template": [
+          "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\scale-crypto-01\\runs\\run-01\\rust\\bin\\rustc.exe",
+          "--edition=2024",
+          "--target",
+          "x86_64-pc-windows-msvc",
+          "--crate-type",
+          "rlib",
+          "--emit=link",
+          "--crate-name",
+          "risc0_circuit_rv32im",
+          "-C",
+          "opt-level=3",
+          "-C",
+          "embed-bitcode=yes",
+          "-C",
+          "panic=unwind",
+          "-C",
+          "overflow-checks=no",
+          "-C",
+          "debug-assertions=no",
+          "-C",
+          "metadata=dmkn_auxwords_a53940b67580e215_risc0_circuit_rv32im",
+          "-Dclippy::all",
+          "-Dwarnings",
+          "-L",
+          "dependency=${RUN}\\lib",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-01\\build-01\\target\\release\\deps",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\deps",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\cargo-home\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows_x86_64_msvc-0.52.6\\lib",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\cargo-home\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows_x86_64_msvc-0.53.0\\lib",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\liblzma-sys-76b5f6b8279bab98\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\ring-ade64c972b83979a\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\risc0-circuit-rv32im-sys-cbdbf23d0effdbcc\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\liblzma-sys-e552d5b634380b08\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\nvtx-99cbfa973cbc5c13\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-keccak-sys-f3d39cee2b37b022\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-recursion-sys-4b821ba4727bf495\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-rv32im-sys-93d06bb7698b10ee\\out",
+          "-L",
+          "native=C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\lib\\x64",
+          "-L",
+          "native=C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.26100.0\\ucrt\\x64",
+          "-L",
+          "native=C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.26100.0\\um\\x64",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\proof-validation-integration-build-01",
+          "--cfg",
+          "feature=\"execute\"",
+          "--cfg",
+          "feature=\"prove\"",
+          "--cfg",
+          "feature=\"std\"",
+          "--extern",
+          "risc0_binfmt=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_binfmt-2cc6c1087913fe4a.rlib",
+          "--extern",
+          "risc0_sys=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_sys-8e6b57d0b6dc2ab6.rlib",
+          "--extern",
+          "smallvec=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libsmallvec-c618a0d6d424096f.rlib",
+          "--extern",
+          "byteorder=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libbyteorder-7dc48f52e80ce4fb.rlib",
+          "--extern",
+          "thiserror=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libthiserror-9d1f6e31777d10f7.rlib",
+          "--extern",
+          "num_traits=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libnum_traits-00a1780e5ad68e79.rlib",
+          "--extern",
+          "risc0_circuit_rv32im_sys=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_circuit_rv32im_sys-f53cb91133411b30.rlib",
+          "--extern",
+          "bit_vec=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libbit_vec-d13354e1dba99ed0.rlib",
+          "--extern",
+          "strum=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libstrum-d989b43eaaed6cba.rlib",
+          "--extern",
+          "cfg_if=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libcfg_if-14a4326532cf85d8.rlib",
+          "--extern",
+          "risc0_zkvm_platform=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_zkvm_platform-95666c475b0c2d9b.rlib",
+          "--extern",
+          "tracing=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libtracing-f2c05f61094c16e8.rlib",
+          "--extern",
+          "malachite=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libmalachite-e5d8850f613d4483.rlib",
+          "--extern",
+          "enum_map=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libenum_map-751b462190c179dd.rlib",
+          "--extern",
+          "anyhow=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libanyhow-696464f4b2560bb1.rlib",
+          "--extern",
+          "wide=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libwide-bf8640963f225551.rlib",
+          "--extern",
+          "num_derive=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\deps\\num_derive-0bb3dbbe9f20a2ba.dll",
+          "--extern",
+          "derive_more=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libderive_more-923adcb72eb303ef.rlib",
+          "--extern",
+          "rand=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librand-21d37048174c7ba6.rlib",
+          "--extern",
+          "serde=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libserde-c8458b918a5c64a0.rlib",
+          "--extern",
+          "risc0_zkp=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_zkp-aeba76772574ca56.rlib",
+          "--extern",
+          "bytemuck=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libbytemuck-23baa6122debf6d3.rlib",
+          "--extern",
+          "gdbstub=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libgdbstub-7ad66ec4e48e5ceb.rlib",
+          "--extern",
+          "rayon=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librayon-ecfcf5a77e0f4c05.rlib",
+          "--extern",
+          "ringbuffer=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libringbuffer-cdbfd47bb0a5dc43.rlib",
+          "--extern",
+          "gdbstub_arch=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libgdbstub_arch-737ef03bcfe889a3.rlib",
+          "--extern",
+          "postcard=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libpostcard-05af7bd60358420e.rlib",
+          "--extern",
+          "risc0_core=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_core-214715ca6e2397a6.rlib",
+          "--extern",
+          "num_enum=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libnum_enum-92d3eb7d16e571f4.rlib",
+          "--extern",
+          "paste=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\deps\\paste-c3d8fc015fe7b795.dll",
+          "${RUN}\\source\\sdk\\risc0\\circuit\\rv32im\\src\\lib.rs",
+          "-o",
+          "${RUN}\\lib\\librisc0_circuit_rv32im-a53940b67580e215.rlib"
+        ],
+        "environment_overlay": {
+          "CARGO_PKG_VERSION": "5.0.0",
+          "CARGO_MANIFEST_DIR": "${RUN}\\source\\sdk\\risc0\\circuit\\rv32im",
+          "OUT_DIR": "${RUN}\\generated\\rv32im"
+        },
+        "depends_on": [],
+        "output_template": "${RUN}\\lib\\librisc0_circuit_rv32im-a53940b67580e215.rlib"
+      },
+      {
+        "name": "risc0_zkvm",
+        "argv_template": [
+          "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\scale-crypto-01\\runs\\run-01\\rust\\bin\\rustc.exe",
+          "--edition=2024",
+          "--target",
+          "x86_64-pc-windows-msvc",
+          "--crate-type",
+          "rlib",
+          "--emit=link",
+          "--crate-name",
+          "risc0_zkvm",
+          "-C",
+          "opt-level=3",
+          "-C",
+          "embed-bitcode=yes",
+          "-C",
+          "panic=unwind",
+          "-C",
+          "overflow-checks=no",
+          "-C",
+          "debug-assertions=no",
+          "-C",
+          "metadata=dmkn_auxwords_a53940b67580e215_risc0_zkvm",
+          "-Dclippy::all",
+          "-Dwarnings",
+          "-L",
+          "dependency=${RUN}\\lib",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-01\\build-01\\target\\release\\deps",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\deps",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\cargo-home\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows_x86_64_msvc-0.52.6\\lib",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\cargo-home\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows_x86_64_msvc-0.53.0\\lib",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\liblzma-sys-76b5f6b8279bab98\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\ring-ade64c972b83979a\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\risc0-circuit-rv32im-sys-cbdbf23d0effdbcc\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\liblzma-sys-e552d5b634380b08\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\nvtx-99cbfa973cbc5c13\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-keccak-sys-f3d39cee2b37b022\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-recursion-sys-4b821ba4727bf495\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-rv32im-sys-93d06bb7698b10ee\\out",
+          "-L",
+          "native=C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\lib\\x64",
+          "-L",
+          "native=C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.26100.0\\ucrt\\x64",
+          "-L",
+          "native=C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.26100.0\\um\\x64",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\proof-validation-integration-build-01",
+          "--cfg",
+          "feature=\"client\"",
+          "--cfg",
+          "feature=\"commons-inprocess-only\"",
+          "--cfg",
+          "feature=\"disable-dev-mode\"",
+          "--cfg",
+          "feature=\"prove\"",
+          "--cfg",
+          "feature=\"std\"",
+          "--extern",
+          "bincode=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libbincode-c374a8dbb9e79ad3.rlib",
+          "--extern",
+          "risc0_binfmt=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_binfmt-2cc6c1087913fe4a.rlib",
+          "--extern",
+          "hex=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libhex-ee1b0d5174519db5.rlib",
+          "--extern",
+          "gimli=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libgimli-8455c727dcf76f5c.rlib",
+          "--extern",
+          "risc0_circuit_recursion=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_circuit_recursion-4bf141966895b5f7.rlib",
+          "--extern",
+          "typetag=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libtypetag-979faa3df1d32b6b.rlib",
+          "--extern",
+          "rrs_lib=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librrs_lib-d80fecb5233a2e1c.rlib",
+          "--extern",
+          "object=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libobject-8e9ebfecfbe7bf5a.rlib",
+          "--extern",
+          "semver=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libsemver-a3a4dbac0458221d.rlib",
+          "--extern",
+          "num_traits=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libnum_traits-00a1780e5ad68e79.rlib",
+          "--extern",
+          "borsh=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libborsh-d2af8f24aacf16c1.rlib",
+          "--extern",
+          "cfg_if=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libcfg_if-14a4326532cf85d8.rlib",
+          "--extern",
+          "risc0_zkvm_platform=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_zkvm_platform-95666c475b0c2d9b.rlib",
+          "--extern",
+          "risc0_circuit_keccak=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_circuit_keccak-c208b21526139117.rlib",
+          "--extern",
+          "tracing=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libtracing-f2c05f61094c16e8.rlib",
+          "--extern",
+          "prost=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libprost-5549e3bd6d0602ff.rlib",
+          "--extern",
+          "rzup=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librzup-44c491682d8d8b0f.rlib",
+          "--extern",
+          "tempfile=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libtempfile-862a439e2614fece.rlib",
+          "--extern",
+          "sha2=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libsha2-81720b207b2cf254.rlib",
+          "--extern",
+          "lazy_regex=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\liblazy_regex-a59d064b718695c8.rlib",
+          "--extern",
+          "enum_map=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libenum_map-751b462190c179dd.rlib",
+          "--extern",
+          "risc0_groth16=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_groth16-3dcb5cc391e30de9.rlib",
+          "--extern",
+          "stability=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\deps\\stability-69979dc542a9e363.dll",
+          "--extern",
+          "risc0_build=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_build-430e5ff5a360f47f.rlib",
+          "--extern",
+          "anyhow=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libanyhow-696464f4b2560bb1.rlib",
+          "--extern",
+          "derive_more=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libderive_more-923adcb72eb303ef.rlib",
+          "--extern",
+          "rand=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librand-21d37048174c7ba6.rlib",
+          "--extern",
+          "num_bigint=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libnum_bigint-3a0f132fad138296.rlib",
+          "--extern",
+          "rustc_demangle=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librustc_demangle-5ff7f4f40e02e284.rlib",
+          "--extern",
+          "keccak=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libkeccak-f01484557edc8c0b.rlib",
+          "--extern",
+          "serde=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libserde-c8458b918a5c64a0.rlib",
+          "--extern",
+          "elf=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libelf-e06f447f7c2088b8.rlib",
+          "--extern",
+          "risc0_zkp=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_zkp-aeba76772574ca56.rlib",
+          "--extern",
+          "risc0_zkos_v1compat=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_zkos_v1compat-2fe6a85e98e42027.rlib",
+          "--extern",
+          "bytemuck=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libbytemuck-23baa6122debf6d3.rlib",
+          "--extern",
+          "gdbstub=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libgdbstub-7ad66ec4e48e5ceb.rlib",
+          "--extern",
+          "rayon=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librayon-ecfcf5a77e0f4c05.rlib",
+          "--extern",
+          "gdbstub_arch=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libgdbstub_arch-737ef03bcfe889a3.rlib",
+          "--extern",
+          "bytes=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libbytes-7e270bf29ccb5cb5.rlib",
+          "--extern",
+          "risc0_core=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\librisc0_core-214715ca6e2397a6.rlib",
+          "--extern",
+          "addr2line=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libaddr2line-0605639db0b9adc9.rlib",
+          "--extern",
+          "risc0_circuit_rv32im=${RUN}\\lib\\librisc0_circuit_rv32im-a53940b67580e215.rlib",
+          "${RUN}\\source\\sdk\\risc0\\zkvm\\src\\lib.rs",
+          "-o",
+          "${RUN}\\lib\\librisc0_zkvm-a53940b67580e215.rlib"
+        ],
+        "environment_overlay": {
+          "CARGO_PKG_VERSION": "5.0.0",
+          "CARGO_MANIFEST_DIR": "${RUN}\\source\\sdk\\risc0\\zkvm"
+        },
+        "depends_on": [
+          "risc0_circuit_rv32im"
+        ],
+        "output_template": "${RUN}\\lib\\librisc0_zkvm-a53940b67580e215.rlib"
+      },
+      {
+        "name": "dmkn_module_relation",
+        "argv_template": [
+          "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\scale-crypto-01\\runs\\run-01\\rust\\bin\\rustc.exe",
+          "-L",
+          "dependency=${RUN}\\lib",
+          "-C",
+          "metadata=dmkn_auxwords_a53940b67580e215_dmkn_module_relation",
+          "--edition=2021",
+          "--target",
+          "x86_64-pc-windows-msvc",
+          "-C",
+          "overflow-checks=yes",
+          "-C",
+          "panic=unwind",
+          "-C",
+          "opt-level=2",
+          "-C",
+          "embed-bitcode=yes",
+          "-C",
+          "linker=C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe",
+          "-C",
+          "link-arg=/DEBUG:NONE",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-01\\build-01\\target\\release\\deps",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\deps",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\cargo-home\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows_x86_64_msvc-0.52.6\\lib",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\cargo-home\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows_x86_64_msvc-0.53.0\\lib",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\liblzma-sys-76b5f6b8279bab98\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\ring-ade64c972b83979a\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\risc0-circuit-rv32im-sys-cbdbf23d0effdbcc\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\liblzma-sys-e552d5b634380b08\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\nvtx-99cbfa973cbc5c13\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-keccak-sys-f3d39cee2b37b022\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-recursion-sys-4b821ba4727bf495\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-rv32im-sys-93d06bb7698b10ee\\out",
+          "-L",
+          "native=C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\lib\\x64",
+          "-L",
+          "native=C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.26100.0\\ucrt\\x64",
+          "-L",
+          "native=C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.26100.0\\um\\x64",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\proof-validation-integration-build-01",
+          "--crate-name",
+          "dmkn_module_relation",
+          "--crate-type",
+          "rlib",
+          "${RUN}\\source\\integration\\software\\v5\\modules\\receipt\\src\\lib.rs",
+          "-o",
+          "${RUN}\\lib\\libdmkn_module_relation-a53940b67580e215.rlib",
+          "--extern",
+          "nanoda_lib=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\proof-validation-integration-build-01\\libnanoda_lib.rlib",
+          "--extern",
+          "serde=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-01\\build-01\\target\\release\\deps\\libserde-d2875ea8be5e26d6.rlib",
+          "--extern",
+          "serde_json=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-01\\build-01\\target\\release\\deps\\libserde_json-d8d8d972d853b6e4.rlib",
+          "--extern",
+          "risc0_zkvm=${RUN}\\lib\\librisc0_zkvm-a53940b67580e215.rlib"
+        ],
+        "environment_overlay": {},
+        "depends_on": [
+          "risc0_zkvm"
+        ],
+        "output_template": "${RUN}\\lib\\libdmkn_module_relation-a53940b67580e215.rlib"
+      },
+      {
+        "name": "dmkn_aggregate_relation",
+        "argv_template": [
+          "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\scale-crypto-01\\runs\\run-01\\rust\\bin\\rustc.exe",
+          "-L",
+          "dependency=${RUN}\\lib",
+          "-C",
+          "metadata=dmkn_auxwords_a53940b67580e215_dmkn_aggregate_relation",
+          "--edition=2021",
+          "--target",
+          "x86_64-pc-windows-msvc",
+          "-C",
+          "overflow-checks=yes",
+          "-C",
+          "panic=unwind",
+          "-C",
+          "opt-level=2",
+          "-C",
+          "embed-bitcode=yes",
+          "-C",
+          "linker=C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe",
+          "-C",
+          "link-arg=/DEBUG:NONE",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-01\\build-01\\target\\release\\deps",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\deps",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\cargo-home\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows_x86_64_msvc-0.52.6\\lib",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\cargo-home\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows_x86_64_msvc-0.53.0\\lib",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\liblzma-sys-76b5f6b8279bab98\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\ring-ade64c972b83979a\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\risc0-circuit-rv32im-sys-cbdbf23d0effdbcc\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\liblzma-sys-e552d5b634380b08\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\nvtx-99cbfa973cbc5c13\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-keccak-sys-f3d39cee2b37b022\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-recursion-sys-4b821ba4727bf495\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-rv32im-sys-93d06bb7698b10ee\\out",
+          "-L",
+          "native=C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\lib\\x64",
+          "-L",
+          "native=C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.26100.0\\ucrt\\x64",
+          "-L",
+          "native=C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.26100.0\\um\\x64",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\proof-validation-integration-build-01",
+          "--crate-name",
+          "dmkn_aggregate_relation",
+          "--crate-type",
+          "rlib",
+          "${RUN}\\source\\integration\\software\\v5\\aggregate_claims\\lib.rs",
+          "-o",
+          "${RUN}\\lib\\libdmkn_aggregate_relation-a53940b67580e215.rlib",
+          "--extern",
+          "dmkn_module_relation=${RUN}\\lib\\libdmkn_module_relation-a53940b67580e215.rlib",
+          "--extern",
+          "serde_json=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-01\\build-01\\target\\release\\deps\\libserde_json-d8d8d972d853b6e4.rlib"
+        ],
+        "environment_overlay": {},
+        "depends_on": [
+          "dmkn_module_relation"
+        ],
+        "output_template": "${RUN}\\lib\\libdmkn_aggregate_relation-a53940b67580e215.rlib"
+      },
+      {
+        "name": "small_aggregate_stage_host",
+        "argv_template": [
+          "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\scale-crypto-01\\runs\\run-01\\rust\\bin\\rustc.exe",
+          "-L",
+          "dependency=${RUN}\\lib",
+          "-C",
+          "metadata=dmkn_auxwords_a53940b67580e215_small_aggregate_stage_host",
+          "--edition=2021",
+          "--crate-name",
+          "small_aggregate_stage_host",
+          "--target",
+          "x86_64-pc-windows-msvc",
+          "--crate-type",
+          "bin",
+          "-C",
+          "opt-level=3",
+          "-C",
+          "lto=fat",
+          "-C",
+          "embed-bitcode=yes",
+          "-C",
+          "overflow-checks=yes",
+          "-C",
+          "panic=unwind",
+          "-C",
+          "linker=C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\link.exe",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\deps",
+          "${RUN}\\source\\stage\\software\\v5\\aggregate_small\\stage_host.rs",
+          "-o",
+          "${RUN}\\small_aggregate_stage_host.exe",
+          "--extern",
+          "anyhow=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libanyhow-696464f4b2560bb1.rlib",
+          "--extern",
+          "bincode=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libbincode-c374a8dbb9e79ad3.rlib",
+          "--extern",
+          "risc0_zkvm=${RUN}\\lib\\librisc0_zkvm-a53940b67580e215.rlib",
+          "--extern",
+          "serde=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libserde-c8458b918a5c64a0.rlib",
+          "--extern",
+          "serde_json=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\deps\\libserde_json-9fcbc8f7ff06ebf5.rlib",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\cargo-home\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows_x86_64_msvc-0.52.6\\lib",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\cargo-home\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows_x86_64_msvc-0.53.0\\lib",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\liblzma-sys-76b5f6b8279bab98\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\ring-ade64c972b83979a\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\release\\build\\risc0-circuit-rv32im-sys-cbdbf23d0effdbcc\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\liblzma-sys-e552d5b634380b08\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\nvtx-99cbfa973cbc5c13\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-keccak-sys-f3d39cee2b37b022\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-recursion-sys-4b821ba4727bf495\\out",
+          "-L",
+          "native=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-host-05\\build-01\\target\\x86_64-pc-windows-msvc\\release\\build\\risc0-circuit-rv32im-sys-93d06bb7698b10ee\\out",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\proof-validation-integration-build-01",
+          "-L",
+          "dependency=E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\general-checker-01\\build-01\\target\\release\\deps",
+          "--extern",
+          "dmkn_module_relation=${RUN}\\lib\\libdmkn_module_relation-a53940b67580e215.rlib",
+          "--extern",
+          "dmkn_aggregate_relation=${RUN}\\lib\\libdmkn_aggregate_relation-a53940b67580e215.rlib"
+        ],
+        "environment_overlay": {},
+        "depends_on": [
+          "risc0_zkvm",
+          "dmkn_module_relation",
+          "dmkn_aggregate_relation"
+        ],
+        "output_template": "${RUN}\\small_aggregate_stage_host.exe"
+      }
+    ],
+    "borrowed_runtime_manifest": "experiments/v5-local-checks/small-aggregate-stage-host-build-01/selection.json",
+    "borrowed_runtime_pin_count": 1071,
+    "borrowed_runtime_field": "runtime_pins",
+    "fresh_output_publication": "Each output is hashed after successful clean command closure and bound to subsequent dependencies before the next compile.",
+    "no_build_scripts": true,
+    "no_cargo": true,
+    "no_network": true,
+    "no_automatic_retry": true
+  },
+  "adoption": {
+    "status": "REQUIRES_NEW_PRODUCER_ADAPTER_BEFORE_BUILD_SELECTION",
+    "schema_proposal": "DMKN_V5_PROVER_ALLOCATION_BUILD_RESULT_V1",
+    "backend_rust_crate_rebuilds": 2,
+    "relation_rust_crate_rebuilds": 2,
+    "stage_host_links": 1,
+    "old_one_link_result_grammar_compatible": false,
+    "source_refinement_replaces_duplicate_preflight_execution": true
+  }
+}

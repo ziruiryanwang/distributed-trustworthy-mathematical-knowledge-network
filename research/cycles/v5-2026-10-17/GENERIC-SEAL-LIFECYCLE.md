@@ -105,3 +105,67 @@ reordering, changed target/build/helper, limits, partial snapshot and cross-prof
 continuation; one synthetic repeated-I/A lifecycle checks owner plumbing, not proofs.
 Then reuse the first genuine A and public reciprocal gate already being prepared.
 A later A→tail→A renewal needs fresh selection, not repeated I-only campaigns; v5 stays open.
+
+## Implementation checkpoint, 2026-10-17
+
+Root additionally assigns source-only `aggregate_lifecycle/test_lifecycle.py` to
+`memo_tests_review`: about ten changed-boundary synthetic controls, with real new
+configuration/staging/adoption paths and a fake supervisor only. Root retains
+review/exact-launch authority; no old suite or native/proof execution is selected.
+
+The selected fresh package is implemented. Independent source review accepts the
+producer/snapshot boundary after the generation-time actual-worker-CPU limit repair;
+ten focused synthetic controls also independently pass source review at the pins
+below. Exact runtime selection and actual outcome remain separate and unperformed
+by this author.
+No source import, test, native call, build, proof or Git operation was performed by
+the author. All predecessor bytes remain unchanged. The user's pause-after-current-
+tasks direction permits only finishing these current controls/review fixes, not new work.
+
+| File under `software/v5/aggregate_lifecycle` | Bytes | SHA-256 |
+|---|---:|---|
+| `__init__.py` | 152 | `a159ba3ed681f7b8da374af2ce8698be68a67a5d7e4a92a3190c2a228a2f7833` |
+| `producer.py` | 8724 | `a249bc3505a28aadff20d81e4ce30b43e03fbf5d9d6de45277c81a4c340833f4` |
+| `snapshot.py` | 22628 | `8c65e623419f846c2b7607716ce7fdec8a611ae2bb340e9a9cab18af3c741546` |
+| `API.md` | 8165 | `5559ec52f09d38d9a19ab26c06fad900e805d656c56c29464dbfeeabaeb0bbc0` |
+| `test_lifecycle.py` | 21877 | `c4d28107924ea5189a59857fd6c4df04738c3abcadc117934d1bc6c15b575bf1` |
+
+Concrete API: `LifecycleProducer(profile)`, `profile_document()`,
+`prepare(packet_bytes, exact_journal, envelope=...)`,
+`snapshot(prepared, configuration=pin, selection=pin)`,
+`production_request(snapshot_evidence, allowance_id=..., budget=..., checkpoints=...,
+prior_attempts=..., output_directory=..., stage_limit=..., carried_external_costs=...)`,
+`preflight(request)` and inherited `run/close/report`. Production-request construction
+includes no-runtime preflight. There is no CLI yet. `source_paths()` exposes the exact
+24 imported project-source identities, including initializer side-effect imports.
+
+The new snapshot configuration, staging, command and result have distinct schemas.
+Fresh parent files bind exact ordered original receipts internally; they are not
+claimed as prior outer runtime pins. Actual original packet/profile/configuration and
+all stable installation inputs must be in the real enclosing selection. Adoption
+validates completed outer state, rederived preparation, saved native stdout/invocation,
+capsule/session and exact source/data pins. Existing scheduler/allowance grammar is
+unchanged; the composite profile ID separates this owner and all changed installations.
+
+Before layout, a conservative 14MiB fixed-input reserve covers diagnostics and remaining
+adoption records inside the unchanged20MiB ceiling; both96MiB native custody ceilings
+also fit with logs/staging/report reservations inside208MiB. This intentionally refuses
+some otherwise-valid large packets rather than discovering the same profile mismatch
+after expensive work. Counts/censuses are finite sampled checks, not disk quotas.
+Only the existing host-build grammar is supported. The separately investigated
+resource-refined prover host needs a fresh explicit adoption schema, not forged old
+`backend_rebuilds=0` records. Nothing here claims positive growth or completed v5.
+
+Controls use the real new configuration/staging/adoption and inherited request logic,
+with explicitly synthetic installation/build adoption and a fake supervisor only;
+`subprocess.Popen` is denied throughout. They cover unchanged base/composite profile,
+closed entry before reads, a two-I-to-A renewal, forged prepared bytes/order, wrong
+target/original pin, changed decoded manifest order, geometry/output bounds, missing
+capsule, worker-CPU overshoot, finalization override and old-profile continuation.
+No predecessor suite is imported or rerun; no synthetic output counts as a proof.
+Root owns exact source selection, any cheap control execution and its outcome review.
+Independent reviewer `v5_growth_decision` confirms all ten current control sources;
+the unknown-closure path is source-reviewed but not directly sampled. No extra test
+or workstream is added for that residual observation at this pause checkpoint.
+All author tasks are complete; source edits stop unless a concrete review correction
+is requested. This is a reviewed source checkpoint, not an executed lifecycle result.

@@ -4,6 +4,21 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-17 USER-REQUESTED PAUSE after completing at-hand tasks. Lifecycle author,
+allocation-build author, root adopter and independent reviewer have finished.
+Ten synthetic lifecycle controls passed once and were actually audited. The
+allocation build/adopter remains reviewed unexecuted source. No pending runtime
+or proof/build allocation exists; no new agent work is assigned. Resume from
+cycles/v5-2026-10-17/PAUSE-CHECKPOINT.md after explicit user continuation.
+
+2026-10-17 resumed continuous work: memo_tests_review owns lifecycle source and
+fresh test_lifecycle.py controls; root reviews/selects their one eventual run.
+memo_independent_review owns the allocation patch/manifest/exact offline build
+adapter; root owns its fresh build-adoption producer adapter. v5_growth_decision
+independently reviews both seams and actual results. No compiler/proof runtime
+is selected; existing passed campaigns are not repeated. Checkpoints remain in
+research/cycles/v5-2026-10-17; every shell uses the canonical root explicitly.
+
 2026-10-17 generic seal preparation is implemented/tested/committed in9ed8751.
 memo_tests_review now owns fresh aggregate_lifecycle package under the selected
 GENERIC-SEAL-LIFECYCLE contract. memo_independent_review owns source-only exact

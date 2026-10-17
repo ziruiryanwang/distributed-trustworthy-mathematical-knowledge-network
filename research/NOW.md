@@ -1,5 +1,29 @@
 # Current research desk
 
+**2026-10-17 temporary user-requested pause after current tasks.** Current
+implementation/review tasks are finished. The ten lifecycle controls passed
+independent actual audit (5.203125knownCPU/7.3237064wall, clean closure).
+Allocation patch, exact offline builder and explicit producer-adoption successor
+passed source review only; no compiler/proof run was selected. No experiment or
+background job remains. Resume from cycles/v5-2026-10-17/PAUSE-CHECKPOINT.md only
+after the user resumes; do not repeat passing campaigns. Full v5 is unfinished.
+
+**2026-10-17 user requests pause after current tasks.** Finish only the already
+selected lifecycle controls and allocation build/adoption source review, then
+pause. No compiler/proof launch or new workstream. Root read/adopts exact
+7beca8c6 plan clearance: ten synthetic lifecycle controls,26sources/18runtime
+pins,30CPU/90wall/512MiB/two-process limits. Select that one short run under the
+unchanged local-check owner; source/test/selector freeze on use. The memory
+refinement remains source-only. Full v5 is not complete.
+
+**2026-10-17 uninterrupted continuation: two central integration seams.**
+Root adopts source-only exact offline allocation build/producer-adoption work
+under PROVER-ALLOCATION-SELECTION; the patch changes allocation only, not A/I
+or the verifier. Generic lifecycle source is now complete and independently
+reviewed while focused changed-boundary controls are authored. Root owns exact
+launch selection and Git. No build/proof/test is currently running; no prior
+passed campaign is repeated and v5 remains ACTIVE.
+
 **2026-10-17 central continuation: generic lifecycle and memory refinement.**
 Root selects source-only aggregate_lifecycle implementation and the source-only
 459MiB/po18 Rust allocation correction plus exact offline build recipe under

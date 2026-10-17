@@ -42,3 +42,25 @@ identify an explicit successor adoption seam, preferably compatible with the
 generic lifecycle owner now being implemented, before any build investment.
 Hardware capacity remains a separate operational prerequisite. A user has been
 asked optionally to free memory; useful source work continues meanwhile.
+
+## Continued source selection: concrete build and adoption
+
+Root has read the complete patch and BUILD-RECIPE. Select source implementation
+only of `software/v5/prover_memory/build.py` by memo_independent_review and
+`software/v5/prover_memory/adoption.py`, `producer.py`, `__init__.py` by root.
+The independent reviewer checks both before any compiler selection. No runtime
+is authorized by this paragraph. The author keeps the exact five-step dependency
+graph, fresh snapshots, same bounded build memory, and no Cargo/build scripts.
+
+The producer successor must accept a distinct honest five-step build chain and
+preserve ordinary retained snapshot adoption. A narrow subclass may reuse the
+existing profile grammar: new host/build/source pins necessarily change its
+identity. New adapter source files must be in the immutable support runtime map
+and rebound, with actual loaded-source origins checked. Existing classes and
+used profiles stay unchanged. The lifecycle successor uses the same mechanism;
+no mutation of its internal profile identity or old allowance migration.
+
+Do not make proof consumers recompile libraries or recheck compiler runtime
+trees. Build records are local-owner provenance, not mathematical authority;
+only the unchanged verifier can authenticate a resulting proof. Full source,
+runtime and generated input rebinding belongs to the selected build operation.
