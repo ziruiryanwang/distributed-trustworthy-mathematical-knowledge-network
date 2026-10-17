@@ -29,7 +29,7 @@ NAMES = ("risc0_circuit_rv32im", "risc0_zkvm", "dmkn_module_relation",
 SOURCE_SET = {"software/v5/prover_memory/" + name for name in
               ("build.py", "SOURCE.json", "preflight.patch", "BUILD-RECIPE.md")}
 LIMITS = {
-    "worker_cpu_seconds": 240, "worker_wall_seconds": 300, "memory_mib": 3072,
+    "worker_cpu_seconds": 240, "worker_wall_seconds": 300, "memory_mib": 2048,
     "active_processes": 6, "total_worker_cpu_seconds": 1200,
     "ordinary_controller_cpu_seconds": 120, "controller_cpu_seconds": 180,
     "total_wall_seconds": 1800, "fresh_output_bytes": 1073741824,
@@ -412,7 +412,7 @@ def main():
 
         def exact_job(seconds, memory, active_processes):
             need((seconds, memory, active_processes) == (300, 4096, 8), "RETAINED_PHASE_CONSTRUCTOR")
-            return InclusiveJob(240, 3072, active_processes=6)
+            return InclusiveJob(240, 2048, active_processes=6)
 
         phase_type = r.phase_class(p, a)
         for row in commands:

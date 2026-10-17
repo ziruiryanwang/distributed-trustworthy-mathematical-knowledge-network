@@ -1,5 +1,30 @@
 # Current research desk
 
+**2026-10-17 allocation-adopter controls adopted.** Independent saved-result
+audit confirms seven passes,60original/snapshot bindings,18runtime hashes,
+28copied-source origins and clean closure. KnownCPU3.859375seconds including
+wrapper;wall8.1462889seconds;peakJob30,871,552bytes. This is synthetic control
+evidence, not a native build/proof. Compiler plan7a548b3f remains unlaunched
+because observed physical headroom is below3GiB. No rerun/cap ladder. Active
+source work is bounded failed-provider continuation through the ordinary client.
+
+**2026-10-17 one new allocation-adopter control run selected.** Root read/adopts
+ADOPTION-REVIEW exact cfff2cdb plan: seven inert controls,30sources/18runtime,
+30CPU/90wall/512MiB/two-process limit. No compiler/native proof. Used test,
+adopter and selector freeze at execution. The separate2GiB compiler plan has
+source clearance but is not launched: latest physical headroom is below the
+selected3GiB threshold. Core bounded-search-continuation source work proceeds
+in parallel; no old tests repeat and the full v5 goal remains active.
+
+**2026-10-17 local-PC work resumed by the user; full v5 unchanged.** Select the
+unexecuted allocation-adopter boundary, source-led local memory feasibility,
+and a deduplicated next central discovery/growth integration decision in
+cycles/v5-2026-10-17/LOCAL-RESUMPTION.md. Existing cloud/upgrade possibilities
+are deferred. No prior passing run repeats, and no compiler or proof is yet
+selected. Current available physical/commit headroom is approximately
+3.38/3.19GiB; that does not justify a 4GiB proof worker. Root owns finite launch
+selection, integration and Git. The historical pause below is superseded.
+
 **2026-10-17 temporary user-requested pause after current tasks.** Current
 implementation/review tasks are finished. The ten lifecycle controls passed
 independent actual audit (5.203125knownCPU/7.3237064wall, clean closure).

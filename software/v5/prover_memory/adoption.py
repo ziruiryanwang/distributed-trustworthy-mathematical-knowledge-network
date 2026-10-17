@@ -18,7 +18,7 @@ COUNTS = {"backend_rust_crate_rebuilds": 2, "relation_rust_crate_rebuilds": 2,
           "stage_host_links": 1, "checker_rebuilds": 0, "native_circuit_rebuilds": 0,
           "guest_rebuilds": 0, "host_calls": 0, "guest_calls": 0,
           "proof_calls": 0, "network_calls": 0}
-LIMITS = {"worker_cpu_seconds": 240, "worker_wall_seconds": 300, "memory_mib": 3072,
+LIMITS = {"worker_cpu_seconds": 240, "worker_wall_seconds": 300, "memory_mib": 2048,
           "active_processes": 6, "total_worker_cpu_seconds": 1200,
           "ordinary_controller_cpu_seconds": 120, "controller_cpu_seconds": 180,
           "total_wall_seconds": 1800, "fresh_output_bytes": 1073741824,

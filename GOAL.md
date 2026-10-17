@@ -1,5 +1,13 @@
 # Goal: a usable mathematical commons architecture and software
 
+**2026-10-17 local-PC resumption:** the user resumes the unchanged final v5
+objective on the current PC, reserving hardware upgrades and cloud computing
+for later. The pause below is superseded. Prioritize decision-changing source
+arguments and small integration work; do not repeat passed campaigns or launch
+memory-heavy jobs without a justified local envelope. No purchases, external
+provisioning, application termination or system memory-setting changes are
+selected. See research/cycles/v5-2026-10-17/LOCAL-RESUMPTION.md.
+
 **2026-10-17 temporary pause requested by the user:** finish current tasks, then
 pause, leaving existing experiments running if any. The current lifecycle checks
 and allocation-build/adoption source reviews are complete; no runtime remains.

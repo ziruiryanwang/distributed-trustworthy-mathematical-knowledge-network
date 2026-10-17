@@ -4,6 +4,25 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-17 bounded search continuation selected in LOCAL-RESUMPTION:
+v5_growth_decision owns fresh transport/search_resilience.py; root owns fresh
+client/workspace_resilient.py; memo_tests_review owns fresh
+transport/test_search_resilience.py and SEARCH-RESILIENCE-CONTROLS.md;
+memo_independent_review reviews after the small allocation-adopter outcome.
+No previous client/source/state is edited; checkpoint folder remains the same.
+Only pre-admission, cleanly closed, exactly settled peer failures are recoverable.
+No runtime/retry/proof/cap expansion follows this source assignment.
+
+2026-10-17 LOCAL-PC RESUMPTION: memo_tests_review owns fresh source-only
+software/v5/prover_memory/test_adoption.py and its concise ADOPTION-CONTROLS.md;
+memo_independent_review owns source-only completion of local memory/build
+feasibility in LOCAL-MEMORY-DECISION.md; v5_growth_decision owns source-only
+deduplicated central integration choice in LOCAL-NEXT-CENTRAL.md. All notes
+under research/cycles/v5-2026-10-17 at the canonical root. Root owns adopter
+integration, exact runtime selections, ledgers and Git. No build/proof or tests
+are launched by these assignments. Do not repeat passed controls or research
+cloud/upgrades. Selection and stop conditions: LOCAL-RESUMPTION.md.
+
 2026-10-17 USER-REQUESTED PAUSE after completing at-hand tasks. Lifecycle author,
 allocation-build author, root adopter and independent reviewer have finished.
 Ten synthetic lifecycle controls passed once and were actually audited. The

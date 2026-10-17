@@ -185,7 +185,7 @@ the patch is applied only in memory and checked against the complete derived
 source hash before that new file is written.
 
 Five separate serial Windows Jobs each contain one compiler command. Each has
-240 CPU seconds, 300 wall seconds, 3,072 MiB private commit and six active
+240 CPU seconds, 300 wall seconds, 2,048 MiB private commit and six active
 processes. Total worker allowance is 1,200 CPU seconds; the controller has
 120 ordinary / 180 finalization CPU seconds and 1,800 total wall seconds.
 Fresh output is limited to 1 GiB / 8,192 entries, with 1 MiB combined stdout/
@@ -215,6 +215,16 @@ both even if a preceding result reported success.
 The source implementation and its independent review do not authorize compiler
 execution. A fresh root selection, successful actual outcome and outcome review
 remain necessary before adopting a host or selecting a genuine proof stage.
+
+Local-PC resumption prospectively reduces the unexecuted compiler Job limit
+from 3,072 to 2,048 MiB. Retained full SDK and same-host-link builds observed
+approximately 1,407 and 1,176 MiB respectively; these support one bounded trial,
+not an upper bound or guaranteed fit. See LOCAL-MEMORY-DECISION.md in the
+2026-10-17 research cycle. No used build/profile is rewritten, and the 4 GiB
+proof-worker cap is unchanged. Require at least 3 GiB of both available physical
+memory and remaining system commit immediately before this one serial build,
+leaving at least 1 GiB beyond the worker cap. This observation is not a memory
+reservation; a resource refusal is preserved, not automatically retried.
 
 ## 5. Stop conditions and next useful evidence
 
