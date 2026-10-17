@@ -100,6 +100,32 @@ reusing the old runtime and unchanged dependency hashes but not its tests.
 The intended single allocation is 30 CPU seconds, 60 wall seconds, 512 MiB,
 two active processes and 1 MiB per log. Launch requires source/selection review.
 
+### Public launcher and combined client controls
+
+Root selects the fresh `client/launch.py` and `client/boot.py` source owned by
+memo_independent_review. They reuse the fixed-manifest Windows supervisor;
+all client-specific setup runs inside its attached Job. Small outer bootstrap
+cost is measured separately, not falsely described as Job-contained. See
+`CLIENT-LAUNCH.md` for the exact chosen trust, source and output boundaries.
+
+Root owns fresh `client/test_paths.py`, `client/test_workspace.py` and
+`client/control_owner.py`. The unused path test was moved from portable_runtime
+to client so the ordinary launcher can load tests without a second location
+package. One future fourteen-control operation through the public launcher will
+exercise its changed boot path along with native-free workspace/path/lifetime
+controls. Tests preserve canonical import order and require fourteen passes
+without skips; synthetic cache/publication stubs create no mathematical authority.
+No old tests, native checker, Node service, receipt verification or prover run.
+Exact source review and a separate finite owner plan precede that one launch.
+
+For persistent use, the owner selects a commons directory disjoint from the
+fresh launch run and source/installation roots (for example sibling `commons`
+and `client-operation-01`). Location adopts that persistent commons root; its
+state/evidence remain fresh children of the client grant directory. The launch
+run census covers only the run, while commons stores/per-grant evidence retain
+their own explicit quotas. No whole persistent-tree scan is introduced and no
+hard filesystem sandbox or global disk-cap guarantee is implied.
+
 After the above seams are resolved, one workspace/client should compose real
 formal search, acquisition, local verification, ordinary Lean authoring,
 publication and custody. One query handoff per finite client; several candidates
@@ -112,3 +138,24 @@ failed/unknown costs and test the newly introduced path/restart boundaries.
 No repeat proof production, old fixture campaign or growth claim by counting
 theorems. Full-cost comparison remains against both optimized local development
 and ordinary shared libraries. Root owns exact runtime decisions and Git.
+
+### Actual ordinary-client strategy: source-only selection
+
+After the fourteen combined controls passed, root selects fresh owner strategy
+`software/v5/client/actual_owner.py` and, if useful to keep ownership/pin logic
+separate, `software/v5/client/actual_assets.py`. Owner: memo_independent_review;
+independent reviewer: v5_growth_decision. Implement CLIENT-ACTUAL-NEXT.md with
+only public client/product methods, one enclosing public launch, and three
+sequential grants: genuine-I fusion author/publication, fresh unknown-ID formal
+discovery and acquired-fusion projection, cold retained-successor admission after
+services stop. No saved authority, fixture export, private database modification,
+legacy wire conversion, proof/guest call or aggregate certificate.
+
+This strategy is an integration instrument and ordinary API example, not the
+fixture-free client implementation itself or evidence of comparative growth.
+Root owns fresh exact owner-plan selection and later launch. Used client,
+portable runtime, tests and launcher remain frozen; do not repair them in place.
+Source review precedes any runtime. The source map must include the real worker
+and rebase every owner source pin to the actual launch snapshot. All assets and
+original deadlines remain explicitly bound; no runtime allocation is selected
+by this source authorization.

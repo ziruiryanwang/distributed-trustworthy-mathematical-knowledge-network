@@ -1,6 +1,6 @@
 # Current design: decentralized Lean mathematical commons
 
-Updated: 2026-10-08. This is a mutable navigation page, excluded from frozen checkpoint manifests.
+Updated: 2026-10-16. This is a mutable navigation page, excluded from frozen checkpoint manifests.
 
 ## Current candidate architecture: v5
 
@@ -10,11 +10,31 @@ federated search, location, custody, resource limits, useful growth and release
 obligations. It distinguishes implemented components from proposed mechanisms
 and missing end-to-end evidence, using development checkpoint `fdfcd80`.
 
-The October 8 writing task is documentation-only and ends in a pause. It neither
-changes product source nor adopts a later background proof result. V5 remains
-unfinished. Consult [NOW](research/NOW.md) and the
-[prior pause handoff](research/cycles/v5-2026-10-07/PAUSE-HANDOFF.md) for exact
-runtime/resumption boundaries. The frozen v4 release remains unchanged.
+The writing-task pause is historical and has been explicitly revoked. Current
+work advances the real v5 implementation; the guide is not the active goal.
+The frozen v4 release remains unchanged. Consult [NOW](research/NOW.md) for exact
+current source and execution decisions.
+
+The active integration is a persistent commons workspace plus one finite client:
+formal discovery -> acquisition -> local admission -> certified-interface reuse
+-> ordinary Lean extension -> untrusted publication and downstream admission.
+On-disk custody never stores mathematical authority; only a live exact verifier
+can issue it. A single operation budget spans the phases without hidden renewal.
+An independently reviewed I-only mixed-delta profile now passes its five focused
+controls at commit `8b0fbdf`; it reuses the existing checker and rejects aggregate
+claims before verification. The portable-location/client/enclosing-Job integration
+now passes fourteen focused structural controls in one audited run; see
+[client result](research/cycles/v5-2026-10-16/CLIENT-CONTROLS-RESULT.md).
+Real mathematical use through this ordinary client is the next selected source
+increment, not yet a passed operation or an adopted installed v5 product.
+
+This bounded-frontier mode is permanent useful functionality, not a substitute
+for scalable certification. The latest aggregate execution still exceeded the
+unchanged cycle cap; no genuine A receipt exists. Affordable frontier advancement,
+useful growth against both optimized local and ordinary shared-library baselines,
+sustainable availability and full release assurance remain open. See the
+[current source selection](research/cycles/v5-2026-10-16/PRODUCT-INTEGRATION-SELECTION.md)
+and [growth critical path](research/cycles/v5-2026-10-16/GROWTH-CRITICAL-PATH.md).
 
 ## Preserved v4 release boundary
 

@@ -1,0 +1,201 @@
+{
+  "schema": "DMKN_V5_LOCATION_PORTABLE_BASELINE_MAP_V1",
+  "destination_root": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\portable_runtime",
+  "scope": "BASELINE_COPY_MAPPING_NOT_RUNTIME_AUTHORIZATION",
+  "adopted_operation": "delta-network-continuation-01",
+  "selection_sha256": "5699ded6dba1a6dc10e674b033248a3532dec2f4ba4650692b685f375097c5a3",
+  "config_sha256": "0cfa1763f6177adb0cd1ad196fddbae81b04229837227ced528e7d95697019b2",
+  "result_sha256": "70898a9f36f2540697d2008ee2ce3862e02f5e535c91d251b95e2e6d5aeca995",
+  "runtime_manifest_sha256": "a93714ecd267984d2bdc7830fc28027151d650d5b0aeea13fac850b52ba5beed",
+  "files": [
+    {
+      "target": "location/__init__.py",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\__init__.py",
+      "bytes": 64,
+      "sha256": "815d635d1924ce31a805ddd84fb4f1f4e5619c6b8d0290d22ec89e3a90c3abad",
+      "adopted_snapshot": null,
+      "adoption_scope": "CANONICAL_DOCSTRING_INITIALIZER_SOURCE_ONLY_NOT_IN_ACTUAL_SNAPSHOT",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/controller.py",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\controller.py",
+      "bytes": 16341,
+      "sha256": "6d745b4acf31d5642b2cc137b8f9d75fc6d9a0cf94a40474011ae9a39b8433bd",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-continuation-01\\sources\\software\\v5\\location\\controller.py",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": true
+    },
+    {
+      "target": "location/controller_services.py",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\controller_services.py",
+      "bytes": 4914,
+      "sha256": "3cc26aa062720fbcc43de9244b1158463fa31f4539f34ae8ebfba0ddccea2fd0",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-continuation-01\\sources\\software\\v5\\location\\controller_services.py",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": true
+    },
+    {
+      "target": "location/protocol.py",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\protocol.py",
+      "bytes": 8559,
+      "sha256": "cb336e51339b31db9510e93576b9a4fea368396a95dee11cdf4b839be00c22a1",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-continuation-01\\sources\\software\\v5\\location\\protocol.py",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/workflow.py",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\workflow.py",
+      "bytes": 12295,
+      "sha256": "0e0eafd11ff601ac069aa95e5b9de3608f3d77c7f9864cf5709d900d4c25c57e",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-continuation-01\\sources\\software\\v5\\location\\workflow.py",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/available_descriptor.py",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\available_descriptor.py",
+      "bytes": 3224,
+      "sha256": "d3b215f59c0b4745562fdc76339a53f22d0fa009932dfecbef4fecfff6743fba",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-continuation-01\\sources\\software\\v5\\location\\available_descriptor.py",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/observed_route.py",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\observed_route.py",
+      "bytes": 3591,
+      "sha256": "9800b5fd3a1f922dcc2e59818916b2333f79004b7f4b6ed42eb89d40891740f1",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-continuation-01\\sources\\software\\v5\\location\\observed_route.py",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/protocol.mjs",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\protocol.mjs",
+      "bytes": 10378,
+      "sha256": "6c9b0742d0ab72f7490c4c128b4d3636a098ddc99150407a78090dbd2502934c",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-node-02\\software\\v5\\location\\protocol.mjs",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/framing.mjs",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\framing.mjs",
+      "bytes": 2954,
+      "sha256": "689d1336d8d5aadd3f7068208605dc0abb6d1e01ea72e8d3b9b2b1592ed929a5",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-node-02\\software\\v5\\location\\framing.mjs",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/intent.mjs",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\intent.mjs",
+      "bytes": 3102,
+      "sha256": "c366ec0854d20f4a1e5f1dd0f0e1e9464967f5d7f7d87be49d1d54271c91e58c",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-node-02\\software\\v5\\location\\intent.mjs",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/runtime.mjs",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\runtime.mjs",
+      "bytes": 2458,
+      "sha256": "8beb9f5d5fa2714572da060626fb54fd0d949216bddd6fd6ce610a639ffb8841",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-node-02\\software\\v5\\location\\runtime.mjs",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/maintained.mjs",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\maintained.mjs",
+      "bytes": 22542,
+      "sha256": "47813a43d0b1f2030fe616462852c819454562fa393e57affd31e0d2188d655d",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-node-02\\software\\v5\\location\\maintained.mjs",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/transport.mjs",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\transport.mjs",
+      "bytes": 6121,
+      "sha256": "df2ce9a11c453ae9f94a58577fd1d01dcd80fd8326b42682cd5dd1f3688d4e33",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-node-02\\software\\v5\\location\\transport.mjs",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/composition.mjs",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\composition.mjs",
+      "bytes": 1000,
+      "sha256": "1fc573c6233b4edafbcedb1b3d64553d7ec59f9289318f85b582a54457e2a176",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-node-02\\software\\v5\\location\\composition.mjs",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/ipc_wire.mjs",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\ipc_wire.mjs",
+      "bytes": 2759,
+      "sha256": "ecb1678df8f770279ce8050774e57e0509b44cc3cd6ad63df7d641ee131acb22",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-node-02\\software\\v5\\location\\ipc_wire.mjs",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/node_entry.mjs",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\node_entry.mjs",
+      "bytes": 6681,
+      "sha256": "52c7505343193c7287d4ee2db31895c69ede9eafa2cf65527d204d51a7a3fa27",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-node-02\\software\\v5\\location\\node_entry.mjs",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/maintained_roles.mjs",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\maintained_roles_ready.mjs",
+      "bytes": 25668,
+      "sha256": "9824559f55eca9b1e56786c14cbe090b74904d1786a915f124dc4101b0aa9683",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-node-02\\software\\v5\\location\\maintained_roles.mjs",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/role_composition.mjs",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\role_composition.mjs",
+      "bytes": 1006,
+      "sha256": "5502bd2ed81295e2b2b70cec0bd8abe13a8a4d930ec3619243ff9bb267d503ca",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-node-02\\software\\v5\\location\\role_composition.mjs",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/node_entry_roles.mjs",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\node_entry_roles.mjs",
+      "bytes": 6767,
+      "sha256": "9a5c38708e0785db19fdbdaabfa9ad92894e68caed58fdf6d477ce24ad3826ac",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-node-02\\software\\v5\\location\\node_entry_roles.mjs",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/services_composition.mjs",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\services_composition.mjs",
+      "bytes": 1990,
+      "sha256": "94341e6e01c62a3b6d2d587a5ed8f12e99fbe491d7960582282fc4c0ef02d51f",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-node-02\\software\\v5\\location\\services_composition.mjs",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": false
+    },
+    {
+      "target": "location/node_entry_services.mjs",
+      "source": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\location\\node_entry_services_available.mjs",
+      "bytes": 7921,
+      "sha256": "02bbdf1223602aff512ae9cfadcc58f2b5e6efc02e1c1b65b34e3f14ebc75fb2",
+      "adopted_snapshot": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\delta-network-node-02\\software\\v5\\location\\node_entry_services.mjs",
+      "adoption_scope": "EXACT_ADOPTED_CONTINUATION_SOURCE_MATCH",
+      "allowed_successor_edit": true
+    }
+  ]
+}

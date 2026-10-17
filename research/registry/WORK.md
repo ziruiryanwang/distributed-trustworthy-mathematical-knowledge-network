@@ -4,6 +4,22 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-16 after client14 controls: memo_independent_review implements only fresh
+client/actual_owner.py and optional actual_assets.py under CLIENT-ACTUAL-NEXT.md;
+v5_growth_decision reviews outcome then actual strategy; memo_tests_review finishes
+the source-only affordable-frontier payoff decision. Root owns runtime selection,
+ledgers and Git. Used client/portable source and controls remain frozen.
+
+2026-10-16 resumed final-design continuation: root owns exact client-controls-01
+plan, single public-launcher operation, result adoption and Git. Reviewer
+v5_growth_decision owns exact plan/outcome review in PRODUCT-SOURCE-REVIEW.md.
+memo_independent_review owns source-only CLIENT-ACTUAL-NEXT.md (real-I assets,
+ordinary API integration and meaningful extension). memo_tests_review owns
+source-only AFFORDABLE-FRONTIER-DECISION.md (one next theory-led intervention).
+All checkpoints are under research/cycles/v5-2026-10-16 in the canonical root
+E:\Distributed Trustworthy Mathematical Knowledge Network. Stable client
+sources are held for the selected test; no agent runtime or Git mutations.
+
 2026-10-16 continued product source: memo_tests_review owns client/__init__.py,
 workspace.py/API.md and WORKSPACE-CLIENT-CONTRACT; memo_independent_review owns
 the three portable location payload changes plus client/launch.py, boot.py and

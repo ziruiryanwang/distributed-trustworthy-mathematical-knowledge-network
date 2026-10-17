@@ -1,5 +1,29 @@
 # Current research desk
 
+**2026-10-16 public client controls PASS adopted.** Root read/adopts independent
+PRODUCT-SOURCE-REVIEW actual audit: fourteen controls, exact 85 sources and
+snapshots, fixed runtime, clean closure. Outer cbbbda80 / boot7405b10a /
+inner1600f9ee; 2.109375 known CPU seconds / 3.4303935 wall. No mathematical or
+network execution. Used sources/selectors/evidence are frozen; no repeat.
+Next selected source is actual_owner.py/actual_assets.py for one real-I ordinary
+client loop in CLIENT-ACTUAL-NEXT.md; no actual runtime selected yet. Rank future
+work by expected marginal contribution to full v5, cost and uncertainty, per the
+user's latest reaffirmation. Affordable-frontier theory proceeds in parallel,
+not an automatic sequence of guest optimizations.
+
+**2026-10-16 resumed final-design work: one combined client control selected.**
+Root adopts final source clearance for client workspace dbf6004d, launcher
+523a3031/76cdcd42, and three portable location changes. Generate one exact
+client-controls-01 owner plan, independently review its bindings, then launch
+the fourteen changed-boundary structural controls through the public launcher.
+Limits are 30 CPU/90 wall seconds, 512 MiB/2 active processes; no native, Node,
+receipt-verification or proof call. This is not mathematical integration.
+Parallel source-only work maps one actual-I reciprocal client operation and
+decides the next affordable-frontier intervention from preserved evidence.
+The broad v5 objective remains unfinished and resumed by the user; the goal
+service still returns blocked and cannot be set active by the status tool.
+No old allocation is renewed and no repeated passing campaign is selected.
+
 **2026-10-16 I-only profile controls PASS adopted.** Five controls passed with
 independent exact-source/runtime/output audit (49 sources/22 pins). Outer
 dbf08045/inner31d960c3; clean closure, 1.203125 known CPU/2.693657 wall seconds.
