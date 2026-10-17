@@ -25,12 +25,21 @@ controls at commit `8b0fbdf`; it reuses the existing checker and rejects aggrega
 claims before verification. The portable-location/client/enclosing-Job integration
 now passes fourteen focused structural controls in one audited run; see
 [client result](research/cycles/v5-2026-10-16/CLIENT-CONTROLS-RESULT.md).
-Real mathematical use through this ordinary client is the next selected source
-increment, not yet a passed operation or an adopted installed v5 product.
+Real mathematical use now passes its retained-method continuation: a fresh
+client imports the actual fusion theorem, authors a projection with a checked
+external proof edge, publishes, and admits the successor with new owners after
+custody reopen. The atomic import boundary avoids repeated per-group installation
+scans. See [actual reuse](research/cycles/v5-2026-10-16/ATOMIC-REUSE-OUTCOME.md).
+This is same-host evidence, not an adopted installed v5 release or a speedup
+comparison against an equally optimized library.
 
 This bounded-frontier mode is permanent useful functionality, not a substitute
-for scalable certification. The latest aggregate execution still exceeded the
-unchanged cycle cap; no genuine A receipt exists. Affordable frontier advancement,
+for scalable certification. A complete 113-segment aggregate execution capsule
+and a one-link stage host now exist; neither is a certificate. Source analysis
+proves the retained po19 CPU prover cannot fit 4 GiB. A minimal explicit producer
+resource-profile successor is under focused qualification; no larger-memory
+proof is funded and no genuine A receipt exists. This keeps specialized producer
+cost separate from light receiver verification. Affordable frontier advancement,
 useful growth against both optimized local and ordinary shared-library baselines,
 sustainable availability and full release assurance remain open. See the
 [current source selection](research/cycles/v5-2026-10-16/PRODUCT-INTEGRATION-SELECTION.md)

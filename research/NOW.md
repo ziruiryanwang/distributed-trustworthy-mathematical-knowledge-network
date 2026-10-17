@@ -1,5 +1,76 @@
 # Current research desk
 
+**2026-10-16 resource-policy outcome adopted.** Independent saved-result audit
+confirms seven controls, exact selected sources/runtime/import origins and clean
+closure. Root adopts only this synthetic changed-policy boundary; its captured
+dispatch remains an intentional FAIL, with no proof or receipt. Known cost is
+1.125CPU/1.5650672wall seconds. Reuse all passing evidence. Genuine retained
+constructor/request preflight is the next selected source work; full proof
+production and full v5 remain open, not relabelled as completed.
+
+**2026-10-16 resource controls terminal; genuine preflight source selected.**
+All seven new policy controls report PASS and the enclosing Job exits zero
+with clean closure:0.859375Job+0.265625wrapper=1.125knownCPU seconds,
+1.5650672wall. Independent actual audit follows. No native process or large
+allocation occurred. Root selects only new aggregate_resources/preflight_actual.py
+(and a small assets helper if necessary): actual retained constructor and private
+request validation, never run/host/proof, no mocks. This checks real adoption
+records and quotes complete-path bounds before spending proof time. A hypothetical
+512KiB artifact/64KiB-log profile addresses the existing64MiB final composite
+constraint; it is not funding or a prediction of sufficiency. Source review and
+separate exact finite selection must precede any execution of this adapter.
+
+**2026-10-16 seven resource-policy controls selected once.** Root adopts exact
+source/selection clearance in PRODUCER-RESOURCE-REVIEW for
+9a814b486eed15452732293ec7e76a8c2bc1d43ef0a7712972076a8a7f31ef9e:
+six94,949-byte sources,18runtime pins,20CPU/60wall/512MiB/two processes.
+The seven tests include one synthetic failed dispatch capturing6144MiB as an
+inert limit value; no native call, proof or large-memory allocation occurs.
+All used source/test/selection bytes freeze. No old control suite repeats.
+Parallel source-only real-adoption preflight and full-path feasibility work
+targets actual build/image/capsule bindings, final serialization and argv size.
+No actual producer proof or higher-memory operation is selected.
+
+**2026-10-16 explicit resource-profile source selected, not larger runtime.**
+Root adopts the narrow ten-control and actual one-link build outcomes. Source
+comparison favors a required owner-selected memory ceiling (at most the existing
+supervisor8192MiB) over an SDK rewrite or segment-bound redesign. Select only
+fresh aggregate_resources package under PRODUCER-RESOURCE-PROFILE.md, preserving
+the tested producer/image/capsule and all old allowance identities. No old cap
+is renewed, no8192MiB sufficiency is asserted, and no proof launch is selected.
+
+**2026-10-16 proving feasibility takes precedence over a pilot.** Aggregate
+controller controls pass independent actual audit (ten tests,1.59375knownCPU).
+The one-link host is terminal PASS (71.1875worker+5.15625controllerCPU,
+97.4485612wall); actual independent build audit is pending. No runtime remains
+live. Source-led funding analysis identifies a prospective simultaneous-live
+allocation lower bound above4GiB for po19 on the retained CPU prover; independent
+memory review is selected before adopting that claim. No proof pilot or full
+campaign has been funded or launched. Compare smaller-segment geometry and
+semantics-preserving allocation/lifetime changes in principle first; do not
+raise caps, rerun the retained guest, or spend a doomed stage merely to confirm
+a source-provable limit. Full v5 remains unfinished.
+
+**2026-10-16 aggregate controller controls selected once.** Root's complete
+test-source read and independent AGGREGATE-CONTROLS-REVIEW clear exact selection
+40a4d0082169575d028dbeeed637fd500e8053a735e98433078331c02bf713f9:
+six101,354-byte sources,20runtime/data pins, ten native-free controls under
+20CPU/60wall/512MiB/two-process limits. Constructor/build/image/snapshot adoption
+and supervisor are explicitly synthetic; no actual certificate is tested or
+produced. Run once while the separately bounded one-link build continues.
+Used controller/test/selection bytes freeze. Actual saved-result audit follows.
+
+**2026-10-16 aggregate one-link build selected once.** Root adopts independent
+AGGREGATE-BUILD-REVIEW and exact selection
+fde4496bea48c5682116c5f2bf7e37bf7834fb422a4abef04b43867dee709326:
+three43,974-byte sources,1071 unchanged retained compile/link pins. One compiler
+link only, worker240CPU/300wall/3072MiB/six-process, controller40ordinary/60total
+CPU and420totalwall; no SDK/checker/relation rebuild, guest or proof. Used inputs
+and builder freeze. Focused synthetic controller selection40a4d008 is prepared
+and under independent review; not yet launched. These tasks have disjoint output
+roots. No actual prover funding is selected; po19 memory feasibility is being
+checked from retained SDK/evidence before any costly stage.
+
 **2026-10-16 actual atomic reuse adopted.** Independent ATOMIC-REUSE-OUTCOME
 checks all90 originals/snapshots, actual exported and native proof graphs,
 two genuine I checks/three native deltas, publication-byte equality, fresh

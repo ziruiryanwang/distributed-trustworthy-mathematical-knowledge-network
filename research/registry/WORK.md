@@ -4,6 +4,37 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-16 after seven policy controls: v5_growth_decision audits actual result
+in PRODUCER-RESOURCE-REVIEW.md, then independently reviews genuine preflight.
+memo_tests_review owns new aggregate_resources/preflight_actual.py (optional
+small actual_assets.py only) and REAL-PRODUCER-PREFLIGHT-DESIGN.md, source only.
+memo_independent_review independently challenges full-path static feasibility
+and the necessity of final full-composite validation in
+FULL-PATH-FEASIBILITY-REVIEW.md. Root owns selection, adoption, runtime and Git.
+Every path is canonical under E:\Distributed Trustworthy Mathematical Knowledge Network;
+all checkpoints are in research/cycles/v5-2026-10-16. No proof funding/native call.
+
+2026-10-16 resumed resource-policy completion: memo_tests_review owns only fresh
+aggregate_resources/producer.py and __init__.py plus
+cycles/v5-2026-10-16/PRODUCER-RESOURCE-IMPLEMENTATION.md.
+memo_independent_review owns only fresh aggregate_resources/test_resources.py
+and PRODUCER-RESOURCE-CONTROLS.md. v5_growth_decision independently reviews exact
+delta, controls and later selection in PRODUCER-RESOURCE-REVIEW.md. Root owns
+selection, one small native-free run if cleared, outcome adoption and exact Git.
+All paths are under E:\Distributed Trustworthy Mathematical Knowledge Network.
+No old tests/proofs repeat; no actual larger memory allocation is selected.
+Next priority is genuine producer integration and a viable full-path decision,
+not additional policy machinery or another passing client demonstration.
+
+2026-10-16 proof feasibility priority: v5_growth_decision owns source-level
+AGGREGATE-FUNDING-DECISION.md, now dominated by po19/4GiB impossibility and
+alternative geometry economics. memo_independent_review independently challenges
+the retained SDK simultaneous-live allocation bound and minimal unit/lifetime
+repair feasibility in PROVER-MEMORY-REVIEW.md (source only; no SDK edits).
+memo_tests_review finishes actual build audit in AGGREGATE-BUILD-OUTCOME.md.
+Root owns adoption, exact Git and next source decision. All runtime is terminal;
+no proof allowance, cap increase, guest rerun or experiment is selected.
+
 2026-10-16 after retained reuse terminal: v5_growth_decision audits actual saved
 outcome in ATOMIC-REUSE-OUTCOME.md. memo_tests_review owns only fresh
 software/v5/aggregate_production/test_producer.py and AGGREGATE-CONTROLS.md;
