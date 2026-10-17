@@ -149,3 +149,195 @@ Do not force another image change merely to preserve the same failed cap, and
 do not claim all options have been exhausted from symbol samples. The next
 selection should minimize uncertainty about completing a genuinely reusable
 certificate at justified total cost. None selects new experiments by this memo.
+
+## Exact explicit-clone census and decision
+
+The narrow copying seam is now quantified from the current retained input,
+not estimated from `memcpy` samples. Read-only PowerShell decoded the exact
+`DMKNAI02` frames from
+`experiments/v5-local-checks/bounded-parse-aggregate-snapshot-01/evidence/wire.bin`
+(215,540 B; SHA-256
+`aeddcc517ac61bc14d93e66abe099b73d4167a2ef26f1ef0363d44ddb39aed1e`).
+The wire has one assumption, one frontier, two deltas and one target; frame
+lengths are 113,220 and 101,687 B, with exact EOF. The independently retained
+native report concerns the same mathematics with the earlier aggregate-image
+slot; this read neither executes the relation nor establishes a certificate.
+
+Count one abstract Value node per JSON value, including arrays/objects; count
+UTF-8 payload bytes in string values and object keys, without punctuation,
+capacity, allocation headers or implementation-dependent Value layout. The
+walk totals 15,576 + 14,282 = 29,858 nodes, matching the retained native census.
+It uses decoded contents, not PowerShell reserialization as canonical bytes.
+
+| Subtrees copied once | Delta 0 | Delta 1 | Both: Value nodes | Both: UTF-8 payload bytes |
+|---|---:|---:|---:|---:|
+| Imported group descriptors | 11 groups / 2,150 nodes | 12 groups / 2,424 nodes | 4,574 | 13,618 |
+| Local group descriptors | 1 group / 274 nodes | 1 group / 337 nodes | 611 | 1,951 |
+| Used body expressions | 11 bodies / 4,755 nodes | 11 bodies / 4,755 nodes | 9,510 | 18,200 |
+
+Imported totals comprise 1,790 arrays, 89 objects, 2,159 string values,
+316 object keys, 11,471 string bytes and 2,147 key bytes. Body expressions
+comprise 4,030 arrays, no objects and 4,366 string values. Cloning the 22
+`BodyOpening` structures additionally copies 22 digest strings = 1,408 B;
+their integer fields and wrapper storage are not included in Value-node counts.
+
+The exact source seams are different investments:
+
+- `commitments::verify_opening` currently clones each authenticated imported
+  descriptor, and `module_relation::check_bound` clones it again into bindings.
+  Consuming `imports` in its existing BTreeMap order can remove **only the
+  second** copy: 4,574 node clones / 13,618 payload B for a completed input.
+  The map is not used afterward; `parents` remains separate. All duplicate,
+  count, commitment, order and derived-role checks must remain unchanged.
+- The selected `modules/native/proof_validation/module_correspondence.rs`
+  clones each used body into returned `body_hash_obligations`; this relation
+  subsequently reads only the vector length after authenticating original
+  bodies. A distinct checked-used-count or borrowed-result path can remove
+  9,510 expression-node clones / 19,608 payload B including digests. It must
+  preserve the exact used-key set, missing/duplicate-body checks and unused-body
+  refusal. Existing public consumers may still need owned obligations. This
+  is a correspondence API/checker-crate change, not just a one-line relation
+  move; the existing retained checker artifact cannot be reused unchanged.
+- Removing the first imported copy or local-descriptor copies needs additional
+  borrowing/ownership changes. These are not counted in the narrow recommendation.
+
+Together the two stated removals eliminate 14,084 abstract node clones and
+33,226 UTF-8 payload B, plus their container storage, in a **completed**
+two-delta relation evaluation. This is an exact source-operation count, not
+a RISC-V heap, instruction, cycle or wall-time estimate. The old explicit
+sites collectively copy 19,269 Value nodes (two imported copies, one local
+copy, one body copy); other constructions are deliberately outside this census.
+
+Root's exact-current-image attribution
+`bounded-parse-pc-attribution-01/attribution/RESULT.json` (SHA-256
+`9f100a3f56f7645938fae6eb46803d6d742ddbb7cccfdc1070a58c0ae37f893f`)
+contains 14,620 stored `memcpy` labels, but provides no caller attribution to
+these clones. Body-obligation clones occur only **after** correspondence;
+they need not have been reached in the capped prefix. Neither the operation
+counts nor sampled labels establish that their removal permits completion.
+
+**Decision:** do not select another image/build solely for these clones. They
+are genuine avoidable work, but the larger repeated proof-DAG syntax traversal
+is the better next discrimination target. This is a rejection of the cloning
+seam as the immediate investment, not a claim that copying is costless. No clone
+implementation, benchmark, host rebuild or renewed execution is selected here.
+
+## Focused independent controls for the proposed proof-syntax memo
+
+Source-only control design, following root's next candidate: memoize successful
+syntax validation within **one** theorem-proof invocation. This does not
+memoize mathematical truth, committed expressions, body correspondence or
+native checking. The unchanged validator is the differential oracle. No test
+file, compiler, guest execution or test campaign is selected by this section.
+
+For immutable context `K = (Inventory, owner, ordered universe parameters)`,
+a successful entry for an expression or universe-level index records exact
+unfolded visit cost `c >= 1` and maximum relative visit depth `h >= 0`.
+Expression and level keys are separate; level 0 is a visited zero-level node,
+not a missing entry. A hit can skip traversal only if checked arithmetic proves
+`work + c <= MAX_NODES` and `depth + h <= MAX_DEPTH`; then it charges exactly
+`c`. If either bound does not fit, follow the original visit/check order until
+the original first failure. Insert an entry only after successful validation.
+The memo must die before owner, universe parameters or Inventory can change.
+
+The observation to preserve is either success with identical final `work`,
+or the same first failure diagnostic and same logical visit count at failure.
+Physical parser/string/reference work may decrease; logical resource work may
+not. Tests must not compare native instruction count or allocation timing as
+though they were part of that equivalence.
+
+| Changed boundary | Small targeted control and expected observation |
+|---|---|
+| Shared DAG compression | Let `E0 = bvar(0)` and `E(j+1) = app(Ej, Ej)`. Baseline visits are `2^(j+1)-1` although only `j+1` expression nodes exist. For an accepted bounded instance, memo success must have the identical logical work while successful syntax evaluation is reused. Include sharing of levels through repeated `sort`/constant arguments, with expression index 0 and level index 0 both reachable, to detect mixed-domain keys. |
+| Work-bound fallback | Warm a valid shared sub-DAG within the same proof. Arrange entry states where its exact cost reaches `MAX_NODES` and where it exceeds the remainder by one. The first must succeed exactly at the limit; the second must take fallback and fail at the original visit with `CORRESPONDENCE_EXPANSION_LIMIT` and `work = MAX_NODES + 1`, not charge the entire subtree before failing. |
+| Depth at another occurrence | Reach the same valid subtree shallowly, then through a deeper path. Choose a depth where `depth + h = MAX_DEPTH` and a separate case exceeding it by one. A cache hit must not conceal the latter failure; shallow validity does not certify all calling depths. Include a level descendant so height is not computed over expression edges alone. |
+| Context reset | First validate a proof containing a bound universe parameter, then validate the same numeric expression/level indices under different ordered parameters where that name is absent. The second must still refuse with `CORRESPONDENCE_UNBOUND_UNIVERSE`. A separate fresh Inventory reusing numeric indices with an invalid reference must not inherit success. Owner/context changes require a fresh memo even where both owner-relative references happen to be syntactically valid. |
+| Unreachable malformed syntax | Add a structurally enumerable expression row with invalid expression payload that is unreachable from this proof, and compare old/new syntax-helper outcomes. Do not eagerly prevalidate all expression/level payloads to populate the memo. Separately making that row reachable must recover its original failure. This does not waive later parser/kernel rejection of unused rows or Inventory's existing eager row/name checks. |
+| First diagnostic and prefix | Use an `app`/`letE` whose earlier child exhausts the logical visit budget and whose later child is malformed: limit failure must remain first. Reverse their order to make malformed syntax first. Also exercise `const`, where universes are checked before the reference, and `proj`, where reference checks precede its child. A cached completed sibling must charge its full old work before the unchanged remaining prefix. |
+
+These six boundary groups are not six new full proof campaigns. Minimal
+in-module differential fixtures can cover them together, followed by only the
+actual changed native relation input if separately selected. Do not repeat all
+12 historical groups solely to inflate counts. Under first-failure fallback,
+an invalid input may still require substantial old traversal; the optimization
+must not claim linear worst-case rejection cost. Any retained-input reuse count
+from the base lane must distinguish logical visits from newly avoided physical
+revalidation and from untouched committed-expression/native checking work.
+
+## 2026-10-16 resumed independent memo-control source checkpoint
+
+The interrupted source assignment left
+`software/v5/modules/native/proof_memo/correspondence_controls.rs` written,
+but no compiler/control execution or outcome. Its exact 18,660 B SHA-256 is
+`94907f917ae2d59542f492de8fc08fbc291023dac1de4a34bda67e03fe6c7917`.
+Read-only review on resumption retains this source unchanged. The source
+author must supply the separate correspondence implementation and wrapper;
+this checkpoint is not a compilation or test PASS.
+
+Tests call unchanged-signature private wrappers
+`Inventory::validate_expression(owner, index, parameters, depth)` and
+`validate_level(index, parameters, depth)`, each with a fresh per-proof memo.
+They compare against unchanged `expression()`/`level()` for semantic panic
+payload and final logical `Inventory.work`. Required test-only cumulative
+`usize` Inventory counters are `syntax_expression_expansions`,
+`syntax_level_expansions`, `syntax_cache_hits`, `syntax_skipped_visits`;
+initialize them to zero and omit them from production builds. Expansions count
+uncached/fallback bodies in the respective domain; skipped visits charge the
+entire successfully skipped logical subtree, not just saved child visits.
+The memo lifetime resets between proofs, while work and test counters do not.
+
+Exactly nine `#[test]` names, all under
+`module_correspondence::correspondence_controls::`:
+
+1. `all_constructors_and_separate_index_domains_match`
+2. `shared_dags_reduce_revalidation_without_discounting_work`
+3. `cache_hit_work_bound_falls_back_at_original_visit`
+4. `deeper_cache_occurrence_preserves_failed_descendant_and_mixed_height`
+5. `malformed_shared_children_do_not_become_successful_memo_entries`
+6. `fresh_proof_context_and_inventory_preserve_cumulative_work`
+7. `cached_sibling_preserves_first_error_and_logical_prefix`
+8. `unreachable_payload_scope_and_eager_inventory_checks_are_unchanged`
+9. `retained_two_delta_proofs_match_and_reduce_syntax_work`
+
+The retained-data control requires environment `DMKN_PROOF_MEMO_WIRE` set to
+the immutable current wire named above; root's outer selection must pin its
+full SHA-256. The test bounds reading to 215,541 B and requires exact 215,540 B,
+the selected fixed framing/counts, both expected frame lengths and exact EOF.
+It uses serde-only test-local extraction, not project/native/receipt imports.
+It finds each new theorem after the 413-row foundation prefix, derives its
+owner from the native structured name and parameters from `levelParams`.
+Expected root/name pairs are `(1200, 101)` and `(852, 105)`. The source assertion
+targets are 18,796/184 unchanged logical visits and 459+14/85+8 actual expression
+plus level expansions, respectively. The two structured stdout records will
+explicitly deny mathematical admission, kernel execution and a cycle-cost claim.
+
+Synthetic controls first populate successful entries **within the same proof**,
+then make an occurrence fail its work/depth guard. Mixed `sort -> succ -> zero`
+paths check expression-to-level height as well as same-domain depth. Shared
+subtrees at the exact resource boundary must succeed; exceeding it by one must
+fall back to the original first failed visit, not reject at the cached root.
+Malformed shared nodes, reordered failures, changed universe/owner contexts,
+new Inventories with reused numeric indices and cumulative work after caught
+failures are covered without rerunning the old twelve unrelated control groups.
+
+No new runtime, compile, guest, proof, larger envelope or Git action was taken
+by this lane. Root still owns source adoption, finite selection and execution.
+
+### Independent pre-selection control review, 2026-10-16
+
+The nine-test source above was read against the frozen `proof_validation`
+`expression`/`level` oracle and current `bounded_parse/aggregate_relation.rs`
+plus `aggregate_claims/wire.rs`. No concrete test defect was found, so its
+18,660 B hash `94907f91...` remains unchanged. The fixed wire extraction follows
+the real v2 field order: 625 fixed-prefix bytes plus two 4-byte frame lengths
+and 113,220/101,687-byte frames equals exactly 215,540 B. It does not interpret
+the skipped journal/image fields as authenticated authority.
+
+Source reasoning confirms the synthetic exact-boundary and first-failure visit
+counts, including mixed expression/level depth, malformed constant levels
+before name lookup, and projection name lookup before its index/child. The
+counter contract is unchanged: successful skipped subtrees charge their entire
+logical cost, fresh top-level calls discard memo entries, and Inventory work
+and test-only counters remain cumulative. Review is ready for root's exact
+source selection, not a claim that compilation or the nine controls passed.
+No test, inventory recount, compiler, guest, proof or Git operation was run.

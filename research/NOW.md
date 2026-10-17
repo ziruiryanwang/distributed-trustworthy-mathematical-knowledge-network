@@ -1,5 +1,28 @@
 # Current research desk
 
+**2026-10-16 resumed implementation; no duplicate campaign.** The interrupted
+turn made concrete source/diagnostic progress but had not produced the three
+memo Rust files or launched its test. Root verified no matching live project
+process and no memo operation/selection, then implemented the missing files.
+Independent source review clears the per-proof memo; original materializing
+type/body routines and kernel are unchanged. One exact nine-group serde-only
+selection is prepared:75291daea284ec42c991186667011bfbd10338a96432ec095c9f3a2ce37937f6,
+5sources/200pins,60CPU/120wall/1024MiB/6active. Await exact review before launch.
+Parallel integration work identifies only the required guest-crate rebuilds;
+unchanged native preflight may remain an independent comparator. No larger
+execution cap, SDK rebuild, proof funding or v5 release claim is selected.
+
+**2026-10-12 proof-DAG syntax memo SOURCE selected.** Exact retained first proof
+has18,796 unfolded expression/level visits over473 distinct nodes; second has
+184 over93. This is a structural operation opportunity, not a cycle saving.
+Independent theory review clears a per-theorem fixed-context cache of successful
+unfolded visit count and relative height: skip only when both original limits
+fit; otherwise perform the original traversal, preserving first failure/work
+prefix. Base owns fresh proof_memo correspondence/wrappers; author owns focused
+independent differential controls; root owns thin retained-recipe compiler driver;
+assurance reviews. No kernel/type/body check or wire-format change. No compiler,
+guest, increased-cap execution or proof is selected yet. Stage build stays HOLD.
+
 **2026-10-12 exact-current offline attribution PASS adopted.** The one offline
 read completed with no guest/proof/compiler calls: outer481f5c67, report9f100a3f,
 1.0625 known CPU seconds /1.2728937 wall, clean closure. Independent audit matched

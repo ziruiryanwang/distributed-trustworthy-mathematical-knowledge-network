@@ -4,6 +4,25 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-16 root finished missing proof_memo production Rust source and owns
+exact controls selection75291dae, launch/adoption and Git. memo_independent_review
+owns source/exact selection/outcome review in ASSURANCE.md. memo_tests_review
+completed9test review without changes and now maps minimal four-crate guest
+integration in BOUNDED-PARSE-FAILURE-DECISION.md; no runtime/implementation there
+yet. Canonical root unchanged. Predecessor agents/assignments below are history,
+not concurrent writers. Full v5 ACTIVE, no guide/pause or broad campaign.
+
+2026-10-12 selected source implementation: base owns fresh
+software/v5/modules/native/proof_memo/module_correspondence.rs, lib.rs and
+control_root.rs, with BOUNDED-PARSE-FAILURE-DECISION.md. Author owns only fresh
+proof_memo/correspondence_controls.rs and AFTER-BOUNDED-PARSE-OPTIONS.md.
+Root owns proof_memo/control.py, Select-ProofMemoControls01.ps1, exact selections
+and Git; assurance reviews theory/source/selection in ASSURANCE.md. Selected
+seam is per-theorem successful proof-syntax DAG summaries with unchanged
+unfolded work/depth refusal semantics. No clone/codec implementation, native
+kernel build, guest rerun or proof funding. One serde-only changed-boundary
+test selection will follow source review, not a repeated full campaign.
+
 2026-10-12 offline attribution independently PASS/adopted, no runtime lives.
 Root owns one next-investment choice/Git; base evaluates exact-current proof-DAG
 syntax memoization (per-proof fixed context, successful cost/depth summaries)

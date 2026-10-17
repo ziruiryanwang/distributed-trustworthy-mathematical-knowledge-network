@@ -2,6 +2,156 @@
 
 ## Explicit implementation resumption after guide delivery
 
+### Memo implementation and exact control selection CLEAR (2026-10-16)
+
+Independently reviewed fresh33,230B `proof_memo/module_correspondence.rs`, SHA
+`7877ee22c7e1d4350858e67c8cebbedf057dee1820cd9f61940e37cf51f6508e`;
+1,138B lib SHA `51a83c7820bcbd0750fac54e6f95b8e5992911ce023d139c4cbb28afcf9416eb`;
+64B control root SHA `78e3bc1d708d86e33414050e598d09667321daa64904adde4f5dc3d3947d7a20`;
+and18,660B controls SHA `94907f917ae2d59542f492de8fc08fbc291023dac1de4a34bda67e03fe6c7917`.
+Exact diff against frozen proof_validation confines semantic changes to the
+selected successful-syntax memo; expression(), level(), reference, all
+declaration/body checks and native-kernel source paths are unchanged. New
+counters are cfg(test) only.
+
+Each top-level validation creates separate expression/level maps. Only completed
+successes are inserted; child summaries include repeated edges and mixed-domain
+depth. Checked incoming work/count and depth/height guards run before visit;
+failed guards leave work untouched and fall through the original ordered
+checks. Summary addition cannot introduce an overflow refusal on a successful
+old trace: successful subtree count is bounded by250000 and height by192.
+The earlier fixed-context induction applies. Allocation/resource-exhaustion
+behavior and total speed remain outside its equivalence claim.
+
+Exact49,406B selection SHA
+`75291daea284ec42c991186667011bfbd10338a96432ec095c9f3a2ce37937f6`
+and973B configuration SHA
+`a74cfb456e0e8cf2f02d8e8f1a808d822cf6f5bab001c11294638f7d5a202c5c`
+match the cleared adapter/selector. Reviewer rehashed all5source and200runtime
+pins (921,813,400B), with zero mismatches, and confirmed all174retained recipe
+pins and exact9test list/order. The fresh operation directory was absent.
+Root may execute this one60CPU/120wall/1024MiB/six-active serde-only build and
+control allocation. No guest, kernel, proof, larger cap or release is cleared.
+This entry records prelaunch review, not execution or a passing outcome.
+
+### Memo control proof-obligation review (2026-10-16 continuation)
+
+Independent reviewer read all nine fresh `proof_memo/correspondence_controls.rs`
+groups against the unchanged tree-producing visitor and cleared theory above.
+They compare complete caught semantic panic payload and cumulative work, check
+actual hit/skip counters, and cover distinct domains, shared-DAG success,
+resource-bound fallback, mixed expression/level height, malformed shared nodes,
+fresh proof contexts, sibling/reference ordering, and eager inventory checks.
+The retained two-delta group separately checks exact structural visit counts;
+it does not claim kernel admission or guest-cycle/proving improvement. No
+decision-changing coverage gap was found. New implementation and concrete
+selection/result review remain required; no test or compiler ran in this review.
+
+### Selected memo control adapter and selector source review
+
+Root subsequently selected fresh memo source and a serde-only differential
+control, not guest execution. Read complete7,141B `proof_memo/control.py`, SHA
+`0656fe3988571d05b542c03592f0cb511965c94f6b4d3080fbe3a3b7fe4b6502`,
+and5,763B `Select-ProofMemoControls01.ps1`, SHA
+`0a5c372a0e6d9d3a6af8e5249f810d844cdf366464c43388d4243aefb5b669ab`.
+Independent selector PowerShell parse has zero errors; reviewer executed neither.
+No concrete blocker found in these two sources.
+
+The adapter substitutes only crate name, test root and fresh output in the
+exact adopted serde-only rustc recipe, then runs that new test binary once.
+No Cargo/checker/dependency rebuild, native mathematical check, guest or proof
+is added. Explicit allowlisted environment uses pinned retained linker/profile
+data and the exact retained wire. Descendants remain in the selected outer Job
+without breakaway; no second controller hierarchy is introduced. Actual group
+names plus full all-passed count must match the unique explicit test list,
+and the produced binary hash is rebound after controls. Failed child/timeout
+cannot produce the passing inner status.
+
+The selector merges174retained recipe pins with current Python/profile/host
+tool/wire/configuration records and selects five test source files; unused
+production lib.rs is correctly outside this compile closure. Planned outer
+60CPU/120wall/1024MiB/six-active envelope remains finite.2MiB log and64MiB binary
+size checks occur after each child, **not hard in-flight disk quotas**; implicit
+OS/runtime facilities remain trusted. Final Rust/control source review and
+actual exact selection/pin checks are still required before root execution.
+
+### Per-proof successful-syntax memo: independent theory clearance with obligations
+
+This is theory/source review, not implementation or execution authorization.
+Read the complete current `modules/native/proof_validation/module_correspondence.rs`
+(SHA `ee4f33a9d4896bd59b2456cb1712d13010d0838b8ba0be34c89c10ebba18bdf8`)
+and its complete differential controls. The proposed optimization is sound in
+principle **only under the invariant below**. Current frozen source is unchanged.
+
+Fix one immutable Inventory, owner string and ordered universe-parameter slice
+for a single top-level local-theorem proof validation. Rows, names, foundation
+membership and reference interpretation do not change during this call. The
+existing syntax routines mutate only the cumulative `Inventory.work`; they do
+not inspect binder context or perform kernel proof checking. Private expression
+and level maps must be separate: expression0 and level0 are different objects.
+Create and discard these maps inside that top-level call, not across declarations,
+Inventories or externally supplied state. Keep cumulative work across proofs.
+
+For each successfully cached node x, store exactly `(c(x), h(x))`, where c is
+the number of original unfolded `visit` events, including this node, every
+repeated edge and every expression-to-level descendant; h is the maximum
+relative visit depth. A leaf, including level0, has `(1,0)`. A parent with
+children has `c=1+sum(c_child)` and `h=max(0,1+h_child)` over actual visited
+children, preserving edge multiplicity. A const with no universe arguments
+is a leaf for this count. Successful-child summaries may be composed; a global
+maximum-depth accumulator without a properly scoped subtree summary is unsafe.
+Do not cache partial, failed or in-progress traversals. Work-before/after
+differences give exact counts only if every nested hit charges its full count.
+
+At incoming depth d and cumulative work w, a hit may replace the complete
+traversal iff both `w+c<=250000` and `d+h<=192`; then set `work=w+c` and return
+the same summary. Evaluate this before charging the root visit, or compensate
+exactly: charging root plus c would double count. Use checked arithmetic (or
+explicit validated subtraction); saturating depth subtraction alone would
+wrongly admit a height0 leaf already beyond the depth cap. A failed hit guard
+must fall through the original visitor and diagnostic order, **not reject
+early, truncate c or reset work**. It may still use guarded child hits.
+
+Proof sketch: cached success establishes that every nonresource check in the
+fixed subtree succeeds. Work is monotone, so the count guard makes every old
+work check succeed; the height guard makes every old depth check succeed. The
+hit therefore contracts a finite successful trace segment with identical
+ending work. On a miss or failed guard, retain the old entry visit and local
+checks, then replace only recursively successful segments by the induction
+hypothesis. The first failing check remains at the same logical work prefix.
+This proves equal acceptance, equal total work on success and equal first
+semantic diagnostic/work prefix on refusal. It does not prove identical
+allocation failures, wall time, stack traces or compiler source locations.
+
+Important source obligations: retain incoming child `uint`/backreference checks,
+the const levels-before-reference order, projection reference/index/child order,
+and each existing constructor's precise sibling/field order. Do not eagerly
+parse all child indices before the old code would reach them. Heights must mix
+expression and level recursion, not bound those domains independently. The
+unchanged `expression()` and `level()` still construct committed types/bodies;
+the real kernel still validates the new proof. Syntax memo success is neither
+a mathematical certificate nor a mechanism for skipping proof checking.
+
+Cache memory has a finite structural bound: at most one entry per reached
+expression row, one per reached level row, plus implicit level0; hence no more
+than250000entries under the existing inventory row limit. Map allocator
+overhead and initialization/drop cost are real costs; do not assert a byte
+budget without the selected representation. On a successful proof, physical
+syntax work can scale with distinct reachable nodes/edges (plus lookup cost)
+rather than unfolded multiplicity. Logical charge remains unchanged. This
+cannot rescue an input refused by the existing logical250000/depth192 policy,
+does not eliminate kernel or codec work and does not guarantee guest speedup.
+Near refusal, fallthrough may retain old repeated work intentionally.
+
+Decision-changing controls for any later selected source: same shared subtree
+at different depths; cached reuse crossing work/depth thresholds; level0 vs
+expression0; repeated universe levels; malformed sibling after a successful
+cached sibling; and separate proofs with changed parameters/Inventory while
+global work continues. Compare first semantic panic payload and work, not only
+pass/fail. Existing unchanged tree-producing routines remain the differential
+oracle, but targeted shared-DAG/threshold cases must actually trigger hits.
+Root/base own workload benefit and source selection; no build/test was run here.
+
 ### Offline attribution actual PASS adopted in its diagnostic-only scope
 
 Independent actual audit confirms outer2,115B RESULT SHA
