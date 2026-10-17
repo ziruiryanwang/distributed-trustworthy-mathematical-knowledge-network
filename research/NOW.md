@@ -1,5 +1,26 @@
 # Current research desk
 
+**2026-10-16 client02 exact recovery launch selected.** Independent review clears
+plan d0b801146563c6302f6bdb5120fb53cc29e6e3f4d37fab8db4ddd4d3da495ab3,
+85 sources/872107 bytes with only the two recorded minimal successor changes.
+All retained data/limits are unchanged; actual01 is terminal with clean closure,
+1.375 known CPU seconds and no mathematical stage reached. Root launches one
+fresh client-actual-02 under the original 600 CPU/900 wall/2048 MiB/8-process
+envelope. No passing test, proof production, guest work or cap increase selected.
+
+**2026-10-16 resumed actual-client recovery.** The handoff summary preceded the
+actual saved terminal run: client-actual-01 already exists and failed before
+owner/grant construction with `EXACT_RECORD_FIELDS`. Root's fresh-path guard
+prevented duplicate execution. Traceback identifies `C.fields(assets, RETAINED)`
+where RETAINED is a dict but the schema helper requires a set. Preserve all used
+source and evidence. Root selects only fresh actual_assets02.py/actual_owner02.py:
+exact predecessor copies with set(RETAINED) and the corresponding owner import.
+No checker, schema, mathematics, budget or service change. Separate exact plan02
+and independent changed-boundary review precede one new operation; no launch is
+yet authorized. The first run's lifecycle and no-mathematics outcome are under
+independent audit. Full v5 remains open; prioritize the usable workflow and its
+cost evidence before speculative certificate optimizations.
+
 **2026-10-16 actual-client plan prepared; one operation selected after binding
 clearance.** Source and mathematical reviews clear actual_owner2f2f07aa and
 actual_assets0cef5f4e. Plan dad9f1d436c71f836d467fe14713d38e975563bd067836996eb292ec0d9b60d2

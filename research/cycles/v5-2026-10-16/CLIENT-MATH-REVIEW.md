@@ -179,3 +179,45 @@ correctly states. Native delta ancestry above I is still checked at reception;
 zero ancestor theorem-proof bytes in ordinary frontend import does not imply
 constant cold verification cost for arbitrarily long unaggregated chains.
 Affordable frontier advancement and full-v5 release remain open.
+
+## Actual operation 01: preparation failure, no mathematics reached
+
+Root requested a terminal-only inspection of the existing
+`product-local/v5-client-owner-runs/client-actual-01` output. Its plan identity is
+`dad9f1d436c71f836d467fe14713d38e975563bd067836996eb292ec0d9b60d2`.
+The saved owner/assets snapshots exactly match the two source identities above.
+No launch or rerun was performed by this reviewer.
+
+**Disposition: FAIL before any mathematical operation.** `RESULT.json` records
+`COMMAND_FAILED`, child exit 1. `BOOT-FAILED.json` records
+`CLIENT_BOOT_OR_OWNER_FAILED` with `StructureError: EXACT_RECORD_FIELDS`.
+The actual traceback reaches `Strategy.__init__ -> Assets.__init__` at
+`C.fields(params["assets"], RETAINED)`. The selected codec requires its second
+argument to be a set of field names; the supplied `RETAINED` object is a dict.
+Thus `set(value) == names` is false even though the plan's asset names are the
+expected eight names. This is an adapter schema-validation defect, not a
+mathematical rejection or evidence of bad input mathematics.
+
+The failure precedes asset receipt/bundle loading, `Strategy.run`, seed workspace
+creation, finite-grant construction, owner construction, receipt verification,
+source authoring and native delta admission. The output's `work` directory is
+empty. There is no source-request, exported Lean proof, owner actual-result or
+fresh mathematical acceptance evidence to audit. Consequently **zero client
+receipt/native/author calls were reached**, and neither proposed theorem has
+executed evidence from this operation. The earlier mathematical argument is
+unchanged; its source-only disposition did not establish executable adapter
+correctness.
+
+Exact retained outcome identities:
+
+| Relative to `client-actual-01` | Bytes | SHA-256 |
+|---|---:|---|
+| `RESULT.json` | 2253 | `342303c66d75ac3d7987d7ad72eae74b4640417d498f12a742d3ecf8b8bf448c` |
+| `BOOT-FAILED.json` | 87 | `c99ab7e76b9858a8a895eec36c74935906186f7044aff90a1f227da8ecf44bc9` |
+| `command/stderr.txt` | 1830 | `3ac74b9eee0d5e714f89879ab0c441f771d204f9d4593a718ecf4c180834aaa4` |
+
+The operational result reports direct child reaped, final active processes zero,
+no termination requested, and no cleanup errors. Lifecycle adoption and any
+fresh successor selection remain root's/separate reviewer's responsibility.
+No actual proof-reference check passed; do not relabel this operation as a
+mathematics or reciprocal-use pass.

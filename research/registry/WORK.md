@@ -4,6 +4,14 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-16 actual01 recovery: root owns fresh plan02, selection, launch and Git;
+memo_independent_review owns only fresh client/actual_assets02.py and
+actual_owner02.py plus CLIENT-ACTUAL-RECOVERY.md. Exact predecessor copies,
+set(RETAINED) and updated import only. v5_growth_decision owns retained actual01
+lifecycle audit and changed-boundary source/plan02 review in PRODUCT-SOURCE-REVIEW.
+memo_tests_review owns actual01 mathematics extent then later actual02 outputs
+in CLIENT-MATH-REVIEW. All paths canonical; no agent runtime or Git mutations.
+
 2026-10-16 actual-client source and math reviews clear. Root owns prepared
 plan dad9f1d4 and its single launch after independent binding review. Reviewer
 v5_growth_decision owns exact selection and actual lifecycle/output audit;

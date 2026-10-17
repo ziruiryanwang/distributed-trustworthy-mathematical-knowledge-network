@@ -485,3 +485,118 @@ clients and empty HTTP task sets; the enclosing parent must still establish
 actual whole-tree closure. Same-process cold-client scope and unfinished full
 v5 status are explicit in the result. Exact emitted selection review and actual
 outcome audit remain separate; no source was executed by this reviewer.
+
+### Actual-client emitted selection: CLEAR for one root launch
+
+Independently inspected the emitted
+`experiments/v5-local-checks/client-actual-01-plan.json`: **33,381 bytes**,
+SHA-256 `dad9f1d436c71f836d467fe14713d38e975563bd067836996eb292ec0d9b60d2`.
+The fresh operation path was absent at inspection. This is one selection for
+the reviewed strategy, not permission to restart a failed operation or renew
+its allowance.
+
+All **85 source files / 872,100 bytes** independently match current exact pins;
+the 82 retained files match the adopted prior selection. The two new source
+hashes match the completed review above, and the worker matches its retained
+profile pin. The source roots retain the one canonical portable `location`
+package and snapshot-based owner closure; no test owner or old location package
+remains selected.
+
+The seven retained receipt/semantic/native/image assets and profile template
+all independently match size and SHA-256. All six template Lean payloads match
+their pins (**212,510,976 bytes**). The fixed manifest still has SHA-256
+`a93714ecd267984d2bdc7830fc28027151d650d5b0aeea13fac850b52ba5beed`.
+Independently rehashed its **584 Python files / 30,459,330 bytes**,
+**5,896 Node/overlay files / 130,118,221 bytes** and three retained helper files,
+with zero mismatches and exact actual runtime file censuses.
+
+Selected loopback ports are router 46171, provider 46172, reader 46173 and HTTP
+46174. Limits remain 600 child Job CPU / 900 original wall seconds / 2,048 MiB /
+eight active processes, 1 MiB per outer log, and 512 MiB / 16,384 entries of
+sampled run output. Grant and service details remain those in the reviewed
+source; the parent Job covers their actual composition. No product code was
+imported or run by this reviewer, and no native/Node/verifier/proof operation
+was started. Actual successful mathematical use and terminal closure still
+require the selected run and its independent outcome review.
+
+### Actual client01: FAIL before grant issuance; clean closure
+
+The saved selected operation exists at
+`product-local/v5-client-owner-runs/client-actual-01`; the resumed root's
+freshness guard refused to launch it again. Independent review confirms its
+terminal **COMMAND_FAILED**, not an unfinished/live operation or integration
+pass. The preceding source clearance did not catch the concrete API mismatch
+below and is superseded for execution of these used bytes.
+
+`actual_assets.py:105` calls `C.fields(params["assets"], RETAINED)` with a
+dictionary as the second argument. Unlike the separately imported
+`formal_features.fields`, `modules.codec.fields` compares `set(value) == names`
+directly and therefore requires a set of expected names. A dictionary is never
+equal to that set. The exact traceback ends in `StructureError:
+EXACT_RECORD_FIELDS` during `Strategy` construction, before semantic input
+reads, workspace creation, grant issuance, receipt/native checking, authoring
+or Node/HTTP startup. The entire `work` directory is empty. This was a source
+review miss, not a mathematical, cryptographic or resource-cap failure.
+
+| Saved file relative to the run | Bytes | SHA-256 |
+|---|---:|---|
+| `RESULT.json` | 2,253 | `342303c66d75ac3d7987d7ad72eae74b4640417d498f12a742d3ecf8b8bf448c` |
+| `BOOT-FAILED.json` | 87 | `c99ab7e76b9858a8a895eec36c74935906186f7044aff90a1f227da8ecf44bc9` |
+| `command/command.json` | 750 | `c0b46ef6dcf85d75e6bf3f0e67a51311fae4384b6925d1e73253433a4a1c8c55` |
+| `command/stderr.txt` | 1,830 | `3ac74b9eee0d5e714f89879ab0c441f771d204f9d4593a718ecf4c180834aaa4` |
+| `command/stdout.txt` | 0 | `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855` |
+
+The plan copy retains selection `dad9f1d4...`, 33,381 bytes. All 85 source
+originals and snapshots independently match every selected size/hash, totaling
+872,100 bytes, with an exact snapshot census. Actual command/outer report bind
+that plan and the original monotonic arguments differ by exactly 900 seconds.
+There is no successful boot or inner strategy result. No receipt, native, Lean,
+Node, guest or proof work is implied by this failed initialization.
+
+The direct child exited one and was reaped. Job closure passed with zero final
+active processes, zero terminated processes, no requested termination and no
+cleanup errors. Job CPU **1.046875 seconds** plus separately measured wrapper
+CPU **0.328125 seconds** is **1.375 known CPU seconds**; the 0.296875-second
+bootstrap component is already within wrapper CPU. Overall wall was
+**1.4552277 seconds**, peak Job private commit 35,295,232 bytes. Pre-clock
+interpreter startup remains unmeasured. Final independent census is
+**910,401 bytes / 114 entries**, exactly the parent pre-report census plus its
+2,253-byte report. All failure bytes and their costs stay preserved.
+
+Root selects only a fresh two-file strategy successor: `set(RETAINED)` at this
+call and the corresponding new asset-module import, with unchanged functional
+path/caps. The mathematical codec must not be weakened, and the used files,
+plan and operation must not be patched/retried in place. No repeat of passing
+client controls or unchanged complete runtime census is warranted by this
+source-level correction. Fresh exact selection and actual outcome remain needed.
+
+### Actual client02 minimal successor and selection: CLEAR
+
+Independent exact-text comparison confirms precisely two source changes in fresh
+files; both used predecessors still match their frozen hashes:
+
+| Fresh file under `software/v5/client` | Only change | Bytes | SHA-256 |
+|---|---|---:|---|
+| `actual_assets02.py` | Pass `set(RETAINED)` to the existing strict `C.fields` call | 10,743 | `4ec62954467e9c2a62a66ffeb4f1ec945b6d33cbe1ae7b484cc1a2869c0b2c69` |
+| `actual_owner02.py` | Import `client.actual_assets02` | 22,523 | `6fa4f0253c0f23bbc3b6d5b4005c40d6f8b40d02251bb4b78e03e3a37f65e12c` |
+
+The correction preserves exactly the intended asset-key equality; it changes no
+validator, mathematical rule, proof, source strategy or resource allowance.
+`Select-ClientActual02.ps1`, SHA-256
+`22cec177d4f526dea56ec1d6057e03635da04bcab4b0050d018cf3c5cb73a73f`,
+was reviewed as a fresh create-only plan generator. It verifies predecessor
+sources before changing the two selected names/pins and fresh operation identity.
+
+The emitted `experiments/v5-local-checks/client-actual-02-plan.json` is
+**33,399 bytes**, SHA-256
+`d0b801146563c6302f6bdb5120fb53cc29e6e3f4d37fab8db4ddd4d3da495ab3`.
+All **85 sources / 872,107 bytes** match current originals, with 83 exact retained
+pins and precisely the two replacements above. All seven assets plus template
+still match. All other plan fields, installation/source roots, parameters,
+ports and limits equal plan01. The new operation directory was absent.
+
+**Clear for one root-selected fresh launch**, not a repaired old outcome or
+runtime success prediction. Reuse the preceding independent unchanged-runtime
+review; this correction does not justify hashing the whole installation again
+or repeating passing controls. No code was run by this reviewer. Actual01's
+failure, exact evidence and costs remain unchanged and charged.
