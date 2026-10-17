@@ -12,7 +12,7 @@ from aggregate_claims import bindings as B
 from aggregate_claims.aggregate_admission import AggregateReceiptVerifier
 from client.actual_assets_atomic import need, ordinary, read_pin, sha
 from client.workspace_evidence import SCHEMA
-from client.workspace_resilient import Workspace
+from client.workspace_staged import Workspace
 from custody.module_store import BODY_SCHEMA, permitted_hashes
 from evidence_network.custody import public_profile
 from evidence_network.packet import pack_terminal
@@ -208,7 +208,8 @@ class Assets:
             read_pin(row, 2*MIB)  # Authority is the selected digest, not a new hash.
             sources[key[3:]] = row
         need(len(sources) <= 120 and {"authoring/worker.py", "client/terminal_assets.py",
-            "client/workspace_resilient.py", "transport/search_resilience.py"} <= set(sources),
+            "client/workspace_resilient.py", "transport/search_resilience.py",
+            "client/workspace_staged.py", "transport/semantic_staging.py"} <= set(sources),
             "TERMINAL_SOURCE_MAP")
         producer.update(supervisor_manifest=deepcopy(self._manifest),
             host=deepcopy(self._pins["preparation_host"]), python=installed(producer["python"]),

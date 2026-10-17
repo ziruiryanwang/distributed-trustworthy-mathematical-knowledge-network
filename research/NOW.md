@@ -1,5 +1,14 @@
 # Current research desk
 
+**2026-10-17 terminal staging integration source adopted.** Root read/adopts
+independent4ec3db28 review: assetsd1642932 and strategya29a0a73 stage demand-only
+data before the first real A admission, then one unchanged live import. No
+authority shortcut/contact renewal/grant increase. Root's read-only map check
+confirms100sources(78v5/21portable/1owner), unchanged92predecessor pins, A/native
+issuer maps97/79. Source-only; no real A or terminal run. Next decision is a
+single justified low-memory geometry successor, not a speculative cap ladder;
+growth author derives it and reviewer challenges the complete pipeline first.
+
 **2026-10-17 structural staging actual PASS adopted.** Independent saved-outcome
 review a7b543ba confirms nine controls,160source bindings,19runtime/data pins,
 79actual loaded origins, clean closure; known3.046875CPU/4.9822375wall seconds,

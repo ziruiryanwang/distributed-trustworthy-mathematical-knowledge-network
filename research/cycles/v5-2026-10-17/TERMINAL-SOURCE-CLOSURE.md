@@ -1,5 +1,30 @@
 # Genuine terminal adapter: prospective source closure
 
+## Current staging integration (supersedes the counts below)
+
+2026-10-17 root read-only closure check after independent source review
+TERMINAL-STAGING-REVIEW4ec3db28. Apply the predecessor removals/additions below,
+then additionally include `v5/client/workspace_staged.py` and
+`v5/transport/semantic_staging.py`. The result is100distinct entries:
+78v5,21portable and one owner. All92retained predecessor entries still match
+their original length/hash; no competing location namespace was introduced.
+
+Current sources: assets19,634B/d16429325e109492b5d28173219e0328842080aa9f65ca30b8e078c24ca8efd3;
+strategy35,673B/a29a0a73c162afdcafe8c99dc6f46634c5e67941a76b5f202d5379402d032157;
+staged facade12,836B/bdd539d5f3fbc48d18215e25811178c5991e8475068156353e3cce7c1a97cf1a;
+helper10,598B/1b58f247a4f03c393fe6e52fb22037d56449b183bbb63b2767ab1b344c523be2.
+Inspector remains unchanged at8b779763. The78v5files total959,128bytes;
+A issuer97pins/24,744,888bytes; native issuer79pins/2,672,280bytes.
+The unchanged runtime counts/lengths below supply those sums. This check read
+source metadata/hashes only, not imported/executed code or a launch selection.
+
+The full100-entry launch map must still bind final actual sources, real receipt,
+ports and finite resources. No receipt exists and no dummy is selected. Read
+TERMINAL-STAGING-INTEGRATION for current stage-before-admit ordering and exact
+packet-size preflight; the older source list/counts below are retained history.
+
+## Earlier non-staging closure record
+
 2026-10-17. Source-only analysis under TERMINAL-ADAPTER-SELECTION. This is an
 explicit allowlist for a future root-selected genuine-receipt launch, not an
 executable plan or execution clearance. No imports, tests, builds, proof work,

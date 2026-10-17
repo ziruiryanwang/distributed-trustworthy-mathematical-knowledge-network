@@ -14,7 +14,7 @@ import time
 from aggregate_claims import bindings as B
 from client.terminal_assets import Assets, BASE
 from client.terminal_inspection import inspect_author
-from client.workspace_resilient import Workspace
+from client.workspace_staged import Workspace
 from discovery.module_export_adapter import compile_query
 from evidence_network.transport import CompositeProvider
 from location.controller import AdoptedLocationRuntime, SOURCE_NAMES
@@ -34,7 +34,8 @@ PAGE = dict(scanned=32, matches=8, bytes=131072, timeout_ms=1000,
             record_probes=256, node_reads=32768, hash_calls=200000, sql_vm_steps=1000000)
 OFFER_BYTES, SEMANTIC_BYTES = 16384, 2*MIB
 MAX_STEPS, MAX_NAMES, MAX_GROUPS, MAX_BODIES = 32, 64, 12, 11
-READY, NEED = "UNTRUSTED_AUTHORING_CONTEXT_READY", "NEED_AUTHORING_CONTEXT_DATA"
+READY = "UNTRUSTED_AUTHORING_CONTEXT_READY"
+STAGED_READY, STAGED_NEED = "STRUCTURAL_CLOSURE_STAGED", "NEED_STRUCTURAL_CONTEXT_DATA"
 REFUSED = "REFUSED_PROVIDER_ATTEMPT"
 
 
@@ -109,25 +110,45 @@ async def discover(client, reader, specs, features, policy, record):
     raise ValueError("TERMINAL_NO_CANDIDATE_IN_FINITE_QUERY_NOT_GLOBAL_ABSENCE")
 
 
-async def demand_context(client, origin, original, warrant, description, expected_base_journal, call, record):
-    """Obey actual typed demands, retaining only monotonically new public data.
+async def demand_context(client, origin, original, entry, record):
+    """Acquire bounded structural closure before either mathematical admission.
 
-    FIRST was already discovered/admitted before this resolver receives its
-    description. BASE is the sole permitted additional certified member here.
-    Definition/recursor closure is required; theorem proof bodies are not fetched.
+    Only the returned candidate and common BASE vocabulary identify modules.
+    No evaluator journals, assets, author source or live warrant enter here.
+    Preview predicts data needs; it never supplies an authoring context.
     """
-    first = description["live"]["module"]
+    first = original["locator"]["module_id"]
+    need(first != BASE, "TERMINAL_DISTINCT_DISCOVERED_MODULE")
     allowed = {BASE, first}
     candidates = {(first, C.name_key(original["locator"]["relative_name"])): (origin, original)}
-    groups, bodies = {}, {}
-    selected = {first: description["live"]["journal"]}
-    handles = {first: warrant}
-    record.update(steps=[], groups=[], bodies=[], exact_name_requests=0,
-                  ancestor_theorem_proof_requests=0, acquisition="ACTUAL_TYPED_DEMANDS_ONLY")
+    groups, bodies, selected, tokens = {}, {}, {}, {}
+    record.update(steps=[], groups=[], bodies=[], staged=[], exact_name_requests=0,
+                  ancestor_theorem_proof_requests=0, mathematical_acceptance=False,
+                  acquisition="ACTUAL_STRUCTURAL_DEMANDS_BEFORE_ADMISSION")
 
-    def group(data, batch):
+    async def stage(candidate, data, offered):
+        module = data["locator"]["module_id"]
+        need(module in allowed and module not in tokens, "TERMINAL_STAGED_MODULE_SELECTION")
+        token = await client.stage_packet(candidate, offered)
+        snapshot = client.describe_staged(token); choice = snapshot["selection"]
+        need(snapshot["status"] == "STAGED_UNTRUSTED_EVIDENCE"
+             and snapshot["mathematical_acceptance"] is False and snapshot["admission_consumed"] is False
+             and snapshot["provider"] == data["provider"]
+             and all(snapshot["candidate"][key] == data[key] for key in ("locator", "opening", "descriptor"))
+             and choice["module"] == module == C.summary_id(choice["summary"])
+             and choice["summary"] == data["opening"]["summary"]
+             and choice["packet_sha256"] == offered["packet_sha256"]
+             and choice["packet_bytes"] == offered["packet_bytes"], "TERMINAL_EXACT_STAGED_CANDIDATE")
+        parsed = B.member_journal(bytes(choice["journal"]))
+        need(parsed["module"] == module and parsed["summary"] == choice["summary"],
+             "TERMINAL_STAGED_JOURNAL_BINDING")
+        selected[module] = deepcopy(choice); tokens[module] = token
+        record["staged"].append(deepcopy(choice))
+
+    def group(data):
         module, opening = data["locator"]["module_id"], data["opening"]
-        need(module in allowed, "TERMINAL_UNSELECTED_SEMANTIC_MODULE")
+        need(module in allowed and module in selected
+             and opening["summary"] == selected[module]["summary"], "TERMINAL_UNSELECTED_SEMANTIC_MODULE")
         C.verify_group_opening(module, opening)
         key, encoded = (module, opening["index"]), C.canonical(opening)
         if key in groups:
@@ -137,7 +158,7 @@ async def demand_context(client, origin, original, warrant, description, expecte
              "TERMINAL_GROUP_LIMIT")
         need(module == BASE or not any(owner == first for owner, unused in groups),
              "TERMINAL_FIRST_SINGLE_GROUP")
-        groups[key] = encoded; batch.append({"module": module, "opening": opening})
+        groups[key] = encoded
         record["groups"].append({"module": module, "index": opening["index"], "sha256": sha(encoded)})
 
     async def candidate(module, name):
@@ -151,47 +172,57 @@ async def demand_context(client, origin, original, warrant, description, expecte
             candidates[key] = token, data; record["exact_name_requests"] += 1
         return candidates[key]
 
-    first_groups = []; group(original, first_groups)
-    ready = client.import_context([{"warrant": warrant, "resolutions": None}],
-                                   [selected[first]], first_groups, [])
+    def arrays():
+        # The preview is stateless: every call receives the complete selected
+        # closure accumulated so far, not only the previous round's delta.
+        openings = [{"module": module, "opening": C.parse_json(raw)}
+                    for (module, unused_index), raw in sorted(groups.items())]
+        values = [{"module": module, "universes": arity, "expression": C.parse_json(raw)}
+                  for (module, arity, unused_digest), raw in sorted(bodies.items())]
+        return openings, values
+
+    await stage(origin, original, entry); group(original)
     for step in range(MAX_STEPS+1):
+        openings, values = arrays()
+        ready = client.preview_context([tokens[module] for module in sorted(tokens)], openings, values)
+        need(ready["mathematical_acceptance"] is False, "TERMINAL_PREVIEW_IS_NOT_ACCEPTANCE")
         record["steps"].append({"step": step, "status": ready["status"],
                                 "demands": deepcopy(ready["demands"]), "cost": deepcopy(ready["cost"])})
-        if ready["status"] == READY:
+        if ready["status"] == STAGED_READY:
             need(not ready["demands"] and ready["cost"]["frontend_theorem_ancestor_proof_bytes"] == 0
                  and set(selected) == allowed, "TERMINAL_DEMAND_CONTEXT_READY")
-            record.update(status=READY, selected_journals=deepcopy(selected), cost=deepcopy(ready["cost"]))
-            return ready
-        need(step < MAX_STEPS and ready["status"] == NEED and 0 < len(ready["demands"]) <= 64,
+            record.update(status=STAGED_READY,
+                selected_journals={module: deepcopy(row["journal"]) for module, row in selected.items()},
+                cost=deepcopy(ready["cost"]))
+            return {"first_module": first, "tokens": tokens, "selected": selected,
+                    "openings": openings, "bodies": values}
+        need(step < MAX_STEPS and ready["status"] == STAGED_NEED and 0 < len(ready["demands"]) <= 64,
              "TERMINAL_FINITE_CONTEXT_PROGRESS")
         before = len(groups)+len(bodies)+len(selected)
-        prior_bodies = set(bodies)
-        new_warrants, new_selected, new_groups, new_bodies = [], [], [], []
+        prior_bodies, prior_groups, prior_modules = set(bodies), set(groups), set(selected)
         unique = set()
         for demand in ready["demands"]:
             encoded = C.canonical(demand)
             need(encoded not in unique, "TERMINAL_DUPLICATE_CONTEXT_DEMAND"); unique.add(encoded)
             kind, module, name = demand["kind"], demand["module"], demand["name"]
-            need(module in allowed and kind in ("NeedVerifiedMixedMember", "NeedDeclaration", "NeedBody"),
+            need(module in allowed and kind in ("NeedModuleEvidence", "NeedDeclaration", "NeedBody"),
                  "TERMINAL_UNSELECTED_CONTEXT_DEMAND")
+            if kind == "NeedModuleEvidence":
+                need(module == BASE and module not in prior_modules,
+                     "TERMINAL_ALREADY_STAGED_MODULE_DEMAND")
+            else:
+                need(module in prior_modules, "TERMINAL_DEMAND_WITHOUT_STAGED_MODULE")
             token, data = await candidate(module, name)
             if module not in selected:
-                need(kind == "NeedVerifiedMixedMember" and module == BASE,
-                     "TERMINAL_DEMAND_REQUIRES_BASE_WARRANT")
+                need(kind == "NeedModuleEvidence" and module == BASE, "TERMINAL_DEMAND_REQUIRES_BASE_EVIDENCE")
                 offers = await client.packet_offers(token, max_offers=2, max_bytes=4096)
                 need(offers["packets"], "TERMINAL_BASE_EVIDENCE_OFFER")
-                base = await client.acquire(token, offers["packets"][0],
-                                            expected_exact_journal=expected_base_journal, **call)
-                exact = client.describe(base)
-                need(exact["kind"] == "A-member" and exact["live"]["module"] == BASE
-                     and exact["live"]["journal"] == expected_base_journal
-                     and all(exact["live"][key] == description["live"][key]
-                             for key in ("aggregate_header", "receipt_sha256", "receipt_bytes")),
-                     "TERMINAL_BASE_ACTUAL_WARRANT")
-                selected[module] = exact["live"]["journal"]; handles[module] = base
-                new_selected.append(selected[module]); new_warrants.append({"warrant": base, "resolutions": None})
-                record["base_packet_offer"] = offers["packets"][0]
-            group(data, new_groups)
+                await stage(token, data, offers["packets"][0])
+                record["base_packet_offer"] = deepcopy(offers["packets"][0])
+            if kind == "NeedDeclaration":
+                need((module, data["opening"]["index"]) not in prior_groups,
+                     "TERMINAL_ALREADY_SATISFIED_DECLARATION_DEMAND")
+            group(data)
             if kind == "NeedBody":
                 arity, digest = demand["universes"], demand["body_hash"]
                 key = module, arity, digest
@@ -208,12 +239,9 @@ async def demand_context(client, origin, original, warrant, description, expecte
                      and body["universes"] == arity and body["body_hash"] == digest
                      and C.body_id(body["expression"], arity) == digest, "TERMINAL_EXACT_DEMANDED_BODY")
                 bodies[key] = C.canonical(body["expression"])
-                new_bodies.append({"module": module, "universes": arity, "expression": body["expression"]})
                 record["bodies"].append({"module": module, "universes": arity, "digest": digest,
                                           "response_sha256": sha(C.canonical(body))})
         need(len(groups)+len(bodies)+len(selected) > before, "TERMINAL_CONTEXT_NO_NEW_DATA")
-        ready = client.extend_context(ready["context"], warrants=new_warrants, selected=new_selected,
-                                      openings=new_groups, bodies=new_bodies)
     raise AssertionError("TERMINAL_UNREACHABLE_PROGRESS_EXIT")
 
 
@@ -350,8 +378,17 @@ class Strategy:
         workspace = self.open("B"); grant, client = self.client(workspace, "B"); phase = self.report["phases"]["B"]
         reader = self.node("readerB", "reader", workspace, grant.directory, grant.deadline, bootstrap=[self.bootstrap])
         candidate, data, entry = await discover(client, reader, self.specs, self.features, P.OwnerEgressPolicy(self.egress), phase)
-        # No expected ID/J is supplied to this first unknown-ID admission.
-        warrant = await client.acquire(candidate, entry, **self.assets.calls["admit"])
+        phase["demand_context"] = {}
+        staged = await demand_context(client, candidate, data, entry, phase["demand_context"])
+        structural = client.report()["structural_staging"]
+        need(structural["packets_staged"] == structural["tokens"] == structural["unconsumed"] == 2
+             and structural["admission_transitions"] == 0
+             and structural["previews"] == len(phase["demand_context"]["steps"]),
+             "TERMINAL_COMPLETE_UNCONSUMED_STRUCTURAL_CLOSURE")
+        before = traffic(client)
+        # No evaluator expected ID/J reached the chooser or structural resolver.
+        # All semantic acquisition is complete before this first actual A check.
+        warrant = client.admit_staged(staged["tokens"][staged["first_module"]], **self.assets.calls["admit"])
         description = client.describe(warrant); expected = self.assets.expected_journals()
         need(description["kind"] == "A-member" and description["live"]["module"] == first
              and description["live"]["journal"] == expected["FIRST"]
@@ -359,9 +396,25 @@ class Strategy:
              and {"bytes": description["live"]["receipt_bytes"], "sha256": description["live"]["receipt_sha256"]}
                  == self.assets.receipt_identity
              and data["locator"]["relative_name"] == first_name, "TERMINAL_B_POST_ADMISSION_EXPECTATION")
-        phase["demand_context"] = {}
-        ready = await demand_context(client, candidate, data, warrant, description, expected["BASE"],
-                                      self.assets.calls["admit"], phase["demand_context"])
+        base_warrant = client.admit_staged(staged["tokens"][BASE], expected_exact_journal=expected["BASE"],
+                                            **self.assets.calls["admit"])
+        base = client.describe(base_warrant)
+        need(base["kind"] == "A-member" and base["live"]["module"] == BASE
+             and base["live"]["journal"] == expected["BASE"]
+             and all(base["live"][key] == description["live"][key]
+                     for key in ("aggregate_header", "receipt_sha256", "receipt_bytes")),
+             "TERMINAL_BASE_ACTUAL_WARRANT")
+        ready = client.import_context(
+            [{"warrant": warrant, "resolutions": None}, {"warrant": base_warrant, "resolutions": None}],
+            [description["live"]["journal"], base["live"]["journal"]], staged["openings"], staged["bodies"])
+        after = traffic(client)
+        need(ready["status"] == READY and not ready["demands"]
+             and ready["cost"]["frontend_theorem_ancestor_proof_bytes"] == 0
+             and all(before[key] == after[key] for key in ("search_http", "delta_http", "structural_http")),
+             "TERMINAL_STAGED_CLOSURE_REAL_IMPORT_WITHOUT_LATER_DIAL")
+        phase.update(structural_before_admission=deepcopy(structural), base_admitted=base,
+            local_admission_http_before=before, local_admission_http_after=after,
+            preview_authorized_authoring=False, actual_import_status=ready["status"])
         # Trusted evaluator releases the fixed ordinary-source task only now.
         source, roots = self.assets.author_input()
         prepared = client.author(ready["context"], source, roots, **self.assets.calls["author"])
@@ -468,6 +521,12 @@ class Strategy:
                  and br["counts"]["admission_submissions"] == cr["counts"]["admission_submissions"] == 1
                  and br["acquisition"]["used"]["verify_attempts"] == cr["acquisition"]["used"]["verify_attempts"] == 1
                  and br["receipt"] is None and cr["receipt"] is None, "TERMINAL_EXACT_REAL_OPERATION_COUNTS")
+            need(br["structural_staging"]["packets_staged"] == br["structural_staging"]["admission_transitions"] == 2
+                 and 1 <= br["structural_staging"]["previews"] <= 24
+                 and all(cr["structural_staging"][key] == 0
+                         for key in ("packets_staged", "admission_transitions", "previews"))
+                 and br["counts"]["new_import_sessions"] == cr["counts"]["new_import_sessions"] == 1,
+                 "TERMINAL_EXACT_STAGING_AND_LIVE_IMPORT_COUNTS")
             self.context.remaining_seconds()
             self.report.update(status="PASS_GENUINE_A_DEMAND_IMPORT_AUTHOR_PUBLICATION_FRESH_C_OFFLINE_REUSE",
                 actual_operations={"aggregate_checks": 2, "ordinary_author_calls": 1,
