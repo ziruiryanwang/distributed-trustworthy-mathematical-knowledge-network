@@ -230,3 +230,32 @@ Full v5 still requires scalable trustworthy discovery/proof reuse, genuine
 recurring certificates, useful full-cost growth, availability/repair, ordinary
 portable operation, security/update assurance and deployment/release decisions.
 This one choice advances reliability without declaring any of those solved.
+
+## Selected implementation checkpoint
+
+Root selected the fresh helper and companion facade in LOCAL-RESUMPTION. The
+helper `software/v5/transport/search_resilience.py` is now source-complete:
+13,454 bytes; SHA-256
+`e3cf6a06ab59ac28e04411de62ae225a719c6d7d21a7ec17ae3004e735a707b1`.
+Public `offer` and `page` keep successful `SearchSession.accept` results intact
+and return `DMKN_SEARCH_SETTLED_REFUSAL_V1` only after exact conservative ticket
+settlement. Every call uses the original located client, query, endpoint policy,
+session, clock, deadline and finite allowance. The owner serializes operations;
+concurrent/pending raw-helper calls are refused. No metadata acceptance error is
+softened, mathematical authority changed, or custody written by this helper.
+
+The implemented recovery scope is deliberately narrower than generic network
+timeouts: connect/handshake timeout or reset **before a writer is returned**
+remains fatal, since this helper has no acquired stream whose closure it can
+observe. Explicit connection refusal uses asyncio's failed-connect cleanup
+contract. Recoverable errors after acquiring a writer require successful
+`close`/bounded `wait_closed`; uncertain closure and cancellation remain fatal.
+Cleanup has a separate one-second bound and does not renew the original session
+deadline; post-I/O liveness failure still closes the owner. Partial physical
+traffic is not retrospectively measured; reservation charges remain conservative.
+
+This is an unexecuted source checkpoint, not a passing control, deployment or
+growth result. No import, compile, test, build, proof or Git mutation was performed
+by this author. Root owns the companion facade and launch selection; separate
+agents own focused controls and independent review. Used predecessors remain
+unchanged.

@@ -14,6 +14,16 @@ The old H3 paths/bytes and claims about SECOND's membership below are historical
 not current runtime inputs. The two-A-check/one-author/one-native-check flow is
 unchanged. No final A receipt or runtime is selected by this correction.
 
+**Root's adapter clarification (2026-10-17):** use demand-only semantic
+acquisition, not unused BASE declarations merely to reproduce historical proof
+bytes. Exact J_SECOND, canonical local interface, rank and actual FIRST proof
+use remain mandatory. References below requiring complete witness equality or
+1009 rows are superseded for this new integration: the retained reference used
+all11 BASE groups and legitimately differs from a smaller sufficient context.
+Do not alter it. The implementation-ready split and identity argument are in
+[GENUINE-TERMINAL-ADAPTER-PLAN](GENUINE-TERMINAL-ADAPTER-PLAN.md). This changes
+neither mathematics nor the existing real-verification/receipt prerequisite.
+
 Status: **SOURCE/DATA PLAN; NO RUNTIME OR PROOF SELECTED.**
 
 Owner: `memo_independent_review`; root owns adoption, exact source selection and

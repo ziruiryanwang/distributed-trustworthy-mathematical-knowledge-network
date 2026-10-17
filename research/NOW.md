@@ -1,5 +1,24 @@
 # Current research desk
 
+**2026-10-17 search-resilience controls adopted; real integration source next.**
+Eight controls passed once, independently audited:154original/snapshot source
+bindings,18runtime pins,76actual import origins and clean3connection loopback.
+KnownCPU2.140625seconds;wall3.205786seconds;peakJob32,038,912bytes. This is
+synthetic-owner protocol evidence, not full owner/mathematical qualification.
+Select missing terminal_assets/terminal_strategy/terminal_inspection source
+under TERMINAL-ADAPTER-SELECTION. Demand-only semantics retain exact J and real
+proof-edge checks, not needless byte equality to the old full-context witness.
+No final A receipt exists, no proof/build/gate runtime is selected; v5 stays open.
+
+**2026-10-17 bounded search-resilience controls selected.** Root adopts the
+independent source/plan clearance for exact6615ff9b selection:77sources,
+18runtime pins, eight focused controls,30CPU/90wall/512MiB/two-process cap.
+One three-connection IPv4 loopback sequence; other failures/owners are inert.
+No native checker, proof, compiler or external endpoint. Source/test/selector
+freeze on execution; preserve any failure, with no automatic retry. The2GiB
+compiler plan remains unlaunched below its3GiB headroom gate. In parallel map
+the concrete genuine terminal-to-extension adapter; do not repeat old campaigns.
+
 **2026-10-17 allocation-adopter controls adopted.** Independent saved-result
 audit confirms seven passes,60original/snapshot bindings,18runtime hashes,
 28copied-source origins and clean closure. KnownCPU3.859375seconds including

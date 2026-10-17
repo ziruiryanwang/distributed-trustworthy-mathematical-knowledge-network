@@ -4,6 +4,20 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-17 terminal adapter source-only selection: v5_growth_decision owns new
+client/terminal_assets.py and TERMINAL-ASSETS.md; memo_tests_review owns new
+client/terminal_strategy.py and TERMINAL-STRATEGY.md; root owns new
+client/terminal_inspection.py and integration. memo_independent_review owns
+TERMINAL-ADAPTER-REVIEW.md after the completed search outcome audit. Checkpoints
+under research/cycles/v5-2026-10-17. Follow TERMINAL-ADAPTER-SELECTION; no actual
+A exists yet, no gate/proof/build runtime is selected. Demand-only semantics and
+exact J replace the overstrict reference-witness equality, not real admission.
+
+2026-10-17 search resilience controls passed once and independent actual audit
+confirms8tests,154source bindings,18runtime pins,76import origins,3loopback
+connections and clean closure. KnownCPU2.140625s;wall3.205786s;peak32,038,912B.
+Helper/facade/test/selector are now used/frozen. No replay or mathematical proof.
+
 2026-10-17 bounded search continuation selected in LOCAL-RESUMPTION:
 v5_growth_decision owns fresh transport/search_resilience.py; root owns fresh
 client/workspace_resilient.py; memo_tests_review owns fresh

@@ -114,3 +114,25 @@ It has not run. A subsequent observation showed2,878,136KiB physical and
 3,445,988KiB commit headroom: physical below the selected3GiB threshold.
 Do not lower that margin merely to make a launch pass. Continue core software
 work; a later genuine launch still needs a fresh sufficient observation.
+
+## One search-resilience allocation
+
+Root read/adopts independent exact source/test/selection clearance for
+`search-resilience-controls-01-selection.json`, SHA-256
+`6615ff9b994a2deca02556936b7a272b74beecb8796829642945eafa970f30af`.
+The77selected sources include the runner and76conservative import dependencies;
+18explicit native-runtime pins are not a hermetic whole-stdlib proof. The only
+new suite has eight tests with inert mathematical owners and one three-connection
+IPv4 loopback sequence. Limits:30CPU/90wall seconds,512MiB,two processes,
+1MiB per log. No compiler, native checker, proof or external networking.
+Run once, preserve the actual outcome, then independently audit it. Used helper,
+facade, test and selector become frozen. The full v5 remains unfinished.
+
+The selected run completed once and its saved actual outcome passed independent
+audit: eight tests, no failure/error/skip,154original/snapshot bindings,
+18runtime pins and76copied-source import origins. Exactly three real loopback
+connections closed cleanly. KnownCPU2.140625seconds,wall3.205786seconds,
+peakJob32,038,912bytes. See SEARCH-RESILIENCE-REVIEW for exact output identities.
+Real-owner construction and mathematical acceptance were not part of this
+synthetic-owner suite. No repeat is needed. The next selected source work is
+TERMINAL-ADAPTER-SELECTION, retaining the original full v5 goal.
