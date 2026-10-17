@@ -42,9 +42,12 @@ This is trusted phase separation within one process, not hostile-code isolation.
 Root's proposed inspector contract is
 `inspect_author(prepared, source, roots, grant, *, envelope, aggregate_image,
 expected_header, expected_target_journal, expected_frontier_journals,
-required_proof_module, required_proof_name)`. It checks actual output/source
+required_proof_module, required_proof_name, foundation_bytes)`. It checks actual output/source
 binding, exact local interface/J and FIRST proof use, returns inert audit facts,
-and performs no native admission or fixed-row-count comparison.
+and performs no native admission or fixed-row-count comparison. Root adopts
+independent review's additional pure current-export-to-witness re-emission
+comparison, using the unchanged emitter and exact foundation/context bindings;
+this does not compare to historical witness bytes or replay parent proofs.
 
 ## Reuse map; do not launch historical harnesses
 

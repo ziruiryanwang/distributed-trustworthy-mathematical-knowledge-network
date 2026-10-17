@@ -52,9 +52,16 @@ of this gate, not source implementation or other useful work on this PC.
 
 `inspect_author(prepared, source, roots, grant, *, envelope, aggregate_image,
 expected_header, expected_target_journal, expected_frontier_journals,
-required_proof_module, required_proof_name)` returns an inert audit dictionary.
+required_proof_module, required_proof_name, foundation_bytes)` returns an inert audit dictionary.
 It binds actual source-request/export/packet files under the original grant,
 decodes the actual exported local declarations, checks one A claim/two exact
 frontiers/one new delta and expected target J, and inspects the root's local
 proof closure for FIRST. It neither accepts A nor checks Lean derivability.
 Only C's unchanged real A/mixed admission establishes downstream authority.
+
+Independent review additionally selects a bounded pure re-emission comparison:
+bind the actual context selection/foundation/import groups, reconstruct rows
+from the newly exported proof and supplied semantics with the existing emitter,
+and compare to the actual witness C will receive. This closes the export-proof
+versus witness-proof evidence gap without requiring historical witness equality,
+another Lean call, or any ancestral theorem proof.
