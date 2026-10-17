@@ -136,3 +136,25 @@ peakJob32,038,912bytes. See SEARCH-RESILIENCE-REVIEW for exact output identities
 Real-owner construction and mathematical acceptance were not part of this
 synthetic-owner suite. No repeat is needed. The next selected source work is
 TERMINAL-ADAPTER-SELECTION, retaining the original full v5 goal.
+
+## Conditional first compiler launch
+
+The new observation is3,242,940KiB available physical and3,489,192KiB system
+commit headroom; no named compiler/prover/Python project process was observed.
+Root adopts BUILD-LOCAL-REVIEW and completed ADOPTION-REVIEW, and selects the
+unchanged exact7a548b3f compile-only plan once. Immediately before invoking its
+pinned isolated Python entry, recheck both headrooms >=3,145,728KiB and exclude
+project-heavy overlap. Refuse launch if either check fails. Five disjoint serial
+2GiB compiler Jobs retain all reviewed finite CPU/wall/output limits. No
+application closure, system-setting change, repeat attempt or proof follows.
+Used sources freeze on actual execution; outcome requires independent review.
+
+The immediate launch check passed at3,155,916KiB physical/3,484,216KiB commit
+with no matching heavy process. Session51290 completed once with exit0 and
+PASS_PROVER_ALLOCATION_FIVE_STEP_COMPILE_ONLY. RESULT SHA-256:
+`ac259e9db55275a0a8404e9cf881fd3779f2e7259ccfe134c8e93e3b180b4102`.
+Reported workerCPU327.28125s, controllerCPU21.59375s, wall277.4021032s;
+peakJob1,240,559,616B. Five serial commands, twelve total processes, zero
+remaining/terminated. This is a raw build outcome pending independent audit,
+not proof-memory feasibility, actual certificate or public integration. Do not
+rerun or mutate used build/recipe/selection bytes. No job remains running.

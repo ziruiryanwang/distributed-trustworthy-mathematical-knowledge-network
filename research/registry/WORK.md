@@ -4,6 +4,29 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-17 staging02 exact986fcd62 selected by root once after final review.
+memo_independent_review owns saved actual-result review in STAGING-REVIEW.md.
+Terminal source-only integration is selected per TERMINAL-STAGING-INTEGRATION:
+root owns terminal_assets.py; memo_tests_review owns terminal_strategy.py and
+TERMINAL-STAGING-IMPLEMENTATION.md; v5_growth_decision owns source-only
+LOCAL-PROOF-NEXT.md, a decision-changing analysis after successful allocation
+build, not a repeated layout census or experiment. All checkpoints live under
+research/cycles/v5-2026-10-17 at the canonical root. No proof launch authorized.
+
+2026-10-17 STRUCTURAL-STAGING-SELECTION: root owns workspace_staged.py;
+v5_growth_decision owns transport/semantic_staging.py and STRUCTURAL-STAGING.md;
+memo_tests_review owns client/test_workspace_staged.py and STAGING-CONTROLS.md;
+memo_independent_review owns STAGING-REVIEW.md after saved compiler audit.
+Source-only under canonical root, checkpoints research/cycles/v5-2026-10-17.
+No new runtime, authority bypass, contact renewal or allowance expansion.
+
+2026-10-17 terminal adapter source review complete; root owns adoption/Git and
+one conditional7a548b3f local compile-only launch. memo_tests_review owns
+source-only PORTABLE-DISCOVERY-CHECK.md; v5_growth_decision owns source-only
+CONTACT-LIFETIME-DECISION.md, both under research/cycles/v5-2026-10-17 at the
+canonical root. No runtime by either agent. memo_independent_review is available
+for saved compiler outcome review. No real A or terminal integration exists yet.
+
 2026-10-17 terminal adapter source-only selection: v5_growth_decision owns new
 client/terminal_assets.py and TERMINAL-ASSETS.md; memo_tests_review owns new
 client/terminal_strategy.py and TERMINAL-STRATEGY.md; root owns new

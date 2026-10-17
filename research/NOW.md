@@ -1,5 +1,58 @@
 # Current research desk
 
+**2026-10-17 structural staging actual PASS adopted.** Independent saved-outcome
+review a7b543ba confirms nine controls,160source bindings,19runtime/data pins,
+79actual loaded origins, clean closure; known3.046875CPU/4.9822375wall seconds,
+31,727,616B peakJob private commit. Pure planner/store/grant/facade behavior is
+tested with inert providers/issuers, not genuine mathematical admission. Used
+staging sources/test/selection/evidence freeze; no rerun. Terminal assets now
+select staged Workspace and the two source pins, d1642932, unexecuted; strategy
+integration and its separate review continue. Genuine A/H2 is still absent.
+
+**2026-10-17 structural staging controls02 selected once.** Root adopts final
+STAGING-REVIEW d3f0397e and exact986fcd62 plan: nine focused controls,80source
+pins,19runtime/data pins;30CPU/90wall seconds,512MiB,two processes. Only the
+new data-staging/admission boundary runs; no native verifier, proof, socket or
+old passing campaign. Sources freeze on use. Preserve failure without retry.
+The reviewed terminal staging integration is now selected source-only under
+TERMINAL-STAGING-INTEGRATION: root owns assets, memo_tests_review strategy;
+v5_growth_decision investigates the next decision-changing local proof envelope
+from retained source/evidence, no run. Full v5 remains unfinished and resumed
+by the user; the goal service still reports blocked and has no assistant resume
+operation, so that stale service state is not authority to stop authorized work.
+
+**2026-10-17 compiler actual audit adopted; no proof funding.**
+Root read/adopts BUILD-LOCAL-REVIEW4a0f9c81: exact five-step build,1,071runtime
+pins,180snapshot files,172inputs,15helpers,5outputs and closed disjoint Jobs.
+Known348.875CPU/277.4021032wall, peak1,183.08984375MiB. Selected owned VCTIP
+cleanup is recorded, not hidden. Host263841ae is retained, not yet invoked or
+adopted into a producer profile. FourGiB proof hold remains unchanged. No job
+is running. Source implementation/review of bounded structural staging continues.
+
+**2026-10-17 local allocation build completed; staging source in progress.**
+The exact7a548b3f compile-only run completed once, exit0, five serial stages.
+Raw RESULT ac259e9d reports327.28125JobCPU+21.59375controllerCPU,
+277.4021032wall seconds, peakJob1,240,559,616bytes, zero active/terminated
+processes. Independent saved-outcome audit is pending. New host263841ae is
+not yet adopted or run; no proof or retry follows. Builder/recipe/input/output
+bytes are now used/frozen. Terminal adapter is reviewed/committed cc89796.
+Root adopts contact-staging theory review218d98fc and selects fresh source
+under STRUCTURAL-STAGING-SELECTION: acquire exact bounded semantics first,
+then unchanged real admission/import; no contact renewal or fake warrants.
+Full v5 remains active; genuine A and reciprocal runtime remain unfinished.
+
+**2026-10-17 terminal source reviewed; one conditional local compile selected.**
+Root adopts TERMINAL-ADAPTER-REVIEW c29ba855: all three new adapter sources
+are reviewed but unexecuted; actual A/H2 remains absent. Source closure is98
+entries, not a launch plan. The actual portable descriptor path is being
+checked to avoid changing unused predecessors. CONTACT-LIFETIME-DECISION
+investigates explicit within-budget reacquisition, not a silent lease extension.
+Fresh memory observation reached3,242,940KiB physical/3,489,192KiB commit
+headroom. Root selects the already reviewed7a548b3f compile-only plan ONCE,
+conditional on immediate >=3GiB physical and commit plus no heavy overlap.
+Five serial2GiB Jobs; no proof/automatic retry follows. Preserve any failure.
+The full v5 goal is unchanged and active.
+
 **2026-10-17 search-resilience controls adopted; real integration source next.**
 Eight controls passed once, independently audited:154original/snapshot source
 bindings,18runtime pins,76actual import origins and clean3connection loopback.

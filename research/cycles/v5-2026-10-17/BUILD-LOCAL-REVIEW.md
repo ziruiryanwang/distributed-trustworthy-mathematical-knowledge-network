@@ -68,3 +68,110 @@ The4GiB proof-worker envelope is unchanged and not cleared by this review.
 Actual result/closure/output/source-map review and the adoption boundary remain
 necessary. A successful compiler operation establishes neither observed proof
 memory fit, a genuine A receipt, useful-growth advantage nor final v5 readiness.
+
+## Actual saved outcome audit — 2026-10-17
+
+Reviewer: `memo_independent_review`. **PASS for the exact five-step compile-only
+outcome.** The NOT RUN statement above is retained as the prelaunch assessment;
+this section records the subsequent actual result, not a changed gate. Root
+reports that its immediate physical/commit observations were 3,155,916 /
+3,484,216 KiB with zero matching heavy processes before its one session51290
+launch. This reviewer audited saved records and current bytes only, without
+rerunning the builder, invoking the adopter, importing Python, executing the
+produced host, or starting any native/proof operation.
+
+Exact evidence:
+
+- Selection remains `7a548b3f74c0c5bbe8bc2ba68e408a3dfdf22addefb9410b1a25f5d8be5d13ff`;
+  the external selection and saved copy both rehash to that identity.
+- `prover-allocation-build-01/RESULT.json`: 57,441 bytes, SHA-256
+  `ac259e9db55275a0a8404e9cf881fd3779f2e7259ccfe134c8e93e3b180b4102`.
+- External `prover-allocation-build-01-attempt.json`: SHA-256
+  `2c61fd2ca46d86fe2d179f8728483bb5c1c207f248ab83f4bc4db4f273afb1e6`;
+  binds that result hash and `PASS_PROVER_ALLOCATION_FIVE_STEP_COMPILE_ONLY`.
+- No finalization-failure, cleanup-failure or override file was present.
+
+### Exact inputs, transformation and dependency closure
+
+Independently rehashed all four selected original sources, 180 snapshot/source
+files, 172 original source inputs, 15 helper pins, all 1,071 runtime pins,
+five result outputs and ten command logs, plus seven record/selection pins.
+These checks covered 1,459 unique paths; all selected sizes/digests matched.
+The runtime pins total exactly 2,320,491,997 bytes and agree with both INPUT-MAP
+and the retained predecessor runtime map. No runtime dependency was silently
+replaced by an unselected toolchain identity.
+
+Independently reconstructed the expected 180-file source map from the selected
+four adapters, descriptor SDK inventories, retained evidence records,
+integration/stage source maps and generated preflight file. It exactly matches
+the saved map. Actual source/generated trees have exactly those 180 files and
+no reparse entries. The only SDK transformation is the descriptor-selected
+preflight file: original 5,582 bytes / `bf427f0e...228bde`, patched 6,003 bytes /
+`88fbf84e...b67396`, with exact patch `a53940b6...7fdc6c` and unchanged
+descriptor `c93a45a6...ace710`. The patch is the reviewed byte-to-u32 allocation
+correction with checked multiplication/alignment, not a relation/checker change.
+
+Reconstructed all five argv arrays from descriptor templates and verified exact
+equality to compile-commands.json, RESULT commands and separate command.json
+records. Every declared new-library dependency edge occurs exactly once at its
+selected fresh path. Reconstructed the base environment from the retained
+environment with the new root and the two selected offline/telemetry settings;
+all five step overlays also match. No inherited environment is enabled. There
+is no Cargo, build-script, produced-host, checker or guest invocation in these
+five actual commands.
+
+### Five serial, closed Jobs
+
+| Command | Worker CPU seconds | Command wall seconds | Peak Job private commit bytes |
+|---|---:|---:|---:|
+| `risc0_circuit_rv32im` | 50.156250 | 23.817590 | 617,472,000 |
+| `risc0_zkvm` | 101.484375 | 32.097021 | 969,547,776 |
+| `dmkn_module_relation` | 14.406250 | 3.276187 | 607,383,552 |
+| `dmkn_aggregate_relation` | 2.890625 | 1.655404 | 510,058,496 |
+| `small_aggregate_stage_host` | 158.343750 | 169.134295 | 1,240,559,616 |
+
+Each command completed with exit0, zero starting Job CPU, no cleanup errors,
+and a separately saved closed Job record. Each final active-process count is0;
+Job-termination count is0. Five command intervals are disjoint and ordered;
+each stays below 240 CPU / 300 wall seconds / 2,048 MiB. Job files, command
+after-stats and RESULT phase-stats agree exactly. Four Jobs report two total
+processes each; the final link reports four, giving12 across the serial Jobs.
+
+The final link includes one explicitly selected owned VCTIP telemetry cleanup
+with observed exit and the pinned executable identity. This is recorded, not
+misrepresented as absence of cleanup. It is not a new broad user-application
+termination or a hidden Job failure. Relation and host stderr contain only
+three and four dead-code warnings respectively; the other logs are empty.
+
+The actual rebuild counts are two backend Rust crates, two relation Rust
+crates and one host link. Native C++ circuits, the independent checker and
+guest images were not rebuilt. Host calls, guest calls, proof calls and network
+calls are all0 in the reviewed compile path.
+
+### Outputs and measured costs
+
+The new stage host is 68,039,168 bytes, SHA-256
+`263841ae256af217de2c00452c7f0688a2e9e58e6aa6d95457d5118aef04ff3c`.
+All four fresh rlibs and the final executable rehash to their saved output
+identities. A matching PDB is retained as an auxiliary build output, not an
+extra execution or adopted runtime requirement.
+
+Worker Job CPU sums exactly to **327.28125 seconds**. Disjoint measured
+controller CPU is21.59375 seconds, so known total is **348.875 seconds**.
+Overall reported wall is277.4021032000892 seconds. The serial maximum Job
+peak is1,240,559,616 bytes (**1,183.08984375 MiB**), not the sum of the peaks.
+The recorded final pre-report output census is122,688,176 working bytes /
+309 entries, under the1GiB/8,192 caps. Its single disclosed INetCache alias
+targets the same fresh run tree and was pruned by the census, not traversed.
+Final report/exit tail is explicitly excluded from the measured CPU/wall
+accounting; it is not asserted zero. No failure override was found after it.
+
+### Scope of the pass
+
+This establishes that the reviewed allocation-refined producer host and its
+four selected Rust dependencies compiled within the selected local envelope.
+It does **not** demonstrate reduced proof-time memory, executable semantic
+correctness, a genuine A/H2 receipt, final integration, useful growth or v5
+release readiness. The new executable has not been invoked or adopted as an
+alias by this review. The existing4GiB proof-worker hold remains unchanged;
+no cap ladder, automatic proof, retry or new budget follows from this pass.
