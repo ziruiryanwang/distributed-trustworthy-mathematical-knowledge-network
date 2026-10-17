@@ -4,6 +4,39 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-16 after retained reuse terminal: v5_growth_decision audits actual saved
+outcome in ATOMIC-REUSE-OUTCOME.md. memo_tests_review owns only fresh
+software/v5/aggregate_production/test_producer.py and AGGREGATE-CONTROLS.md;
+source-only focused controller controls, not a fake receipt acceptance campaign.
+memo_independent_review finishes repaired producer recheck then reviews the
+existing one-link builder/retained prerequisites in AGGREGATE-PRODUCER-REVIEW.md.
+Root owns new control launcher/selection, independent test review, build decision
+and exact Git. No source import, tests, compiler or prover launch by agents.
+
+2026-10-16 retained reuse: root adopts the two narrow reviews and owns the single
+ad119b77 launch, actual evidence and Git. v5_growth_decision owns its independent
+operational/cost audit in cycles/v5-2026-10-16/ATOMIC-REUSE-OUTCOME.md;
+memo_tests_review owns only the unused aggregate producer placeholder repair
+and its existing implementation checkpoint. memo_independent_review completes
+independent producer review in AGGREGATE-PRODUCER-REVIEW.md. No agent launches,
+proving/build funding, used-source edits or shared Git changes are authorized.
+
+2026-10-16 atomic source ready: v5_growth_decision independently reviews all
+atomic product/control/selector seams. memo_tests_review cleared control-source
+shape then owns narrow projection mathematics preflight in CLIENT-MATH-REVIEW.
+memo_independent_review now owns fresh actual_assets_atomic.py and
+actual_resume_owner.py under the retained-seed continuation selection, checkpoint
+ATOMIC-REUSE-CONTINUATION.md. Root retains test/plan/runtime/Git ownership.
+Aggregate producer source is drafted, not independently adopted or run.
+
+2026-10-16 atomic successor: memo_independent_review owns only new
+mixed_claims/imports_atomic.py and authoring_atomic.py plus
+cycles/v5-2026-10-16/ATOMIC-IMPORT-IMPLEMENTATION.md. v5_growth_decision owns
+ATOMIC-IMPORT-REVIEW.md, independent source review. Root owns new
+client/workspace_atomic.py, focused controls and selections/Git. Source only;
+no runtime, native/checker change, proof or cap renewal. Separate aggregate
+producer author remains memo_tests_review. See ATOMIC-IMPORT-SELECTION.md.
+
 2026-10-16 after actual capsule PASS: memo_tests_review owns fresh
 software/v5/aggregate_production/__init__.py and producer.py implementing the
 existing corrected AGGREGATE-PRODUCER-PLAN, checkpoint

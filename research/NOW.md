@@ -1,5 +1,74 @@
 # Current research desk
 
+**2026-10-16 actual atomic reuse adopted.** Independent ATOMIC-REUSE-OUTCOME
+checks all90 originals/snapshots, actual exported and native proof graphs,
+two genuine I checks/three native deltas, publication-byte equality, fresh
+cold-owner admission and all nested/outer closure. The new project_summary
+module6ea8fa60 genuinely depends on acquired fusion b4295706; bootstrap final
+guard passes. Same-host/same-process owner replacement is the demonstrated
+cold scope, not independent hosting. Reuse this evidence; no matched speedup,
+positive full-cost growth or full-v5 claim follows. Next central work is the
+reviewed aggregate controller and one-link host, not another client campaign.
+
+**2026-10-16 retained reuse01 terminal PASS, independent adoption pending.**
+The public launcher exits zero and closes cleanly; no final-binding error,
+forced termination or live child. Inner retained-seed author/publication and
+fresh-owner cold admission reports PASS. Known new cost is38.40625Job plus
+0.453125wrapperCPU =38.859375seconds, wall42.3058857. Original prior costs and
+both synthetic enclosing failures remain separate. Do not rerun discovery or
+seed generation. Root selects focused source-only aggregate producer controls
+after exact placeholder repair796eb246; no proof or stage funding. In parallel
+review the existing one-link stage-host build prerequisites, reusing retained
+SDK/native libraries. A build requires its own exact finite selection.
+
+**2026-10-16 retained reuse selected once.** Root adopts the narrow independent
+ATOMIC-IMPORT-REVIEW: all 13 semantic/logical controls and cold synthetic closure
+are observed across controls01/02; both enclosing operations remain FAIL.
+Controls02's final import-path refusal comes from selected test helpers, absent
+from the reviewed actual closure. Do not repeat the passing controls or weaken
+the bootstrap guard. Root adopts ATOMIC-REUSE-REVIEW and selects exactly plan
+ad119b77bd672583521e0449ce0454deae163b09d13a444ddd5161f959720d25 once:
+fresh retained-seed reuse/publication/cold-owner admission, unchanged limits,
+no seed/discovery repeat or proof production. Used sources/plan freeze at launch.
+In parallel, aggregate producer's unused draft may receive only the independent
+review's concrete placeholder-reconstruction repair before renewed source review.
+This is central implementation work, not final-v5 acceptance.
+
+**2026-10-16 controls02 launch selected.** Independent exact review clears
+e92a408dbd99d6893a7588d8f8151e879a18b62bbcc4439be37694a5ac2f4233,
+92sources/1,023,999bytes and same finite limits. Only three previously errored
+test methods run; definition metadata is the sole fixture change. All product
+sources remain unchanged. The call-cap subcase inside the combined errored
+method had run previously; no whole passing test or cold gate is repeated.
+Retained-reuse planad119b77 is prepared but not selected for execution yet.
+
+**2026-10-16 atomic controls01 terminal.** Cold-import gate and10/13 tests pass;
+three errors occur while building the synthetic definition fixture because its
+metadata omitted required hint/safety fields. No changed product path reached
+in those three cases. Preserve FAIL and all used source; clean closure,
+2.234375Job+0.375wrapperCPU,2.6851847wall seconds. Root selects only fresh
+test_atomic02.py with definition metadata corrected and atomic_control_owner02.py
+running the three errored controls. No product change, no repeat of ten passing
+controls/cold gate, and no real continuation yet. Exact review/plan precedes run.
+
+**2026-10-16 atomic controls selected once.** Root adopts independent source and
+exact-plan clearance for2548e019bb45c24f09a03fe609cd8328c22b1be4ae2862c0575658d603225cb3:
+92sources/1,024,610bytes, one cold product-import gate then13 synthetic controls.
+Run atomic-import-controls-01 under30CPU/90wall/512MiB/two-process limits.
+No native/checker/proof/network execution. Used source/plan now freeze. Actual
+outcome audit follows; no source or logical-count pass is full v5 acceptance.
+Retained-seed continuation source proceeds separately with no runtime selected.
+
+**2026-10-16 atomic import source selected.** Independent design review clears
+READY-only sealed batch materialization with full entry/exit and native checks,
+immutable owner-bound selection and all semantic writes refused after sealing.
+Root selects only fresh imports_atomic.py/authoring_atomic.py/workspace_atomic.py
+under ATOMIC-IMPORT-SELECTION. Old used source stays frozen. This targets the
+source-derived per-group installation-scan multiplier, not a CPU-cap increase.
+No runtime or proof funding yet. Reuse actual03's retained seed in a later fresh
+continuation; no duplicate seed authoring/discovery. Aggregate producer source
+work proceeds separately; complete capsule is not a certificate or price claim.
+
 **2026-10-16 complete frontier capsule actual PASS adopted.** Independent audit
 matches all8 source/snapshots/29pins, exact wire/header/image/genuine-I bindings,
 113 consecutive segment files and complete37,187,089-byte capsule79963069.

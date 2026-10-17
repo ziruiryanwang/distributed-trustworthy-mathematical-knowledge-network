@@ -860,3 +860,68 @@ is **4,650,658 bytes /215 entries**, exactly the outer pre-report census plus
 its2,263-byte report. All prior failures and the full cost of this failed
 operation remain charged. This is evidence of a functioning partial public
 path and a material local-efficiency blocker, not full-v5 or net-growth evidence.
+
+### Atomic materialization / READY seal design: CLEAR in principle
+
+Independent review reads all of `CLIENT-CONTROLLER-COST.md`, SHA-256
+`e3a2759aad335a4968d7217655f5b2956c49b5b4cf38ab6578170009430474cb`.
+Its source-derived counts agree with the current imports/receiver/authoring
+call graph: one stored mixed source gives5 mixed/6 I scans per session `_live`;
+new opening14/16, new body10/12, selection10+4G/12+4G and ready context30+8G/
+36+8G. Hence the stated hypothetical12-group/11-body/two-selection successful
+tail requires414 mixed/468 I scans. This is not an observed profile of the
+failed run. Removing a whole multiplicative scan factor is a principled central
+intervention; merely increasing the CPU cap is not necessary to select it.
+
+The acceptance-preservation argument is conditional and explicit:
+
+1. Full entry liveness obtains exact source journals, summaries, proof-form
+   bindings and immutable selected state from the original real owners.
+2. Within a serialized synchronous section, strict built-in bytes are decoded
+   and the same journal/summary/Merkle/group/body/closure validators operate on
+   detached staged data. No new code load, native call, await, caller callback
+   or external authority transition occurs inside that section.
+3. All fallible semantic, CPU/deadline and full exit owner/origin checks precede
+   publication. Failed staging cannot expose a ready context or partially
+   committed semantic maps, and cannot refund incurred calls/bytes/CPU.
+4. A successful READY result seals **all** semantic mutation sites and binds
+   immutable canonical items/context/binding to the exact same live session
+   and owners. Subsequent source/finish/onward use revalidates those owners at
+   its boundaries and never substitutes serialized data for authority.
+5. The resulting source/witness/packet remains untrusted until actual downstream
+   admission; the unchanged receipt/native relation checks remain mandatory.
+
+Under that model, batching changes repeated installation sampling, not which
+mathematical statements the semantic validators or final receiver accept.
+It does **not** preserve every old refusal trace against concurrent transient
+filesystem edits. The note correctly exposes that distinction instead of
+claiming an OS lease or hostile-local-code guarantee. Runtime/source changes
+persisting to an exit or native boundary must still refuse. A return after
+owner close/revocation/expiry or CPU exhaustion is not allowed.
+
+The one-way seal resolves the identified revision-only-cache defect:
+`representation_revision` currently does not cover every source/selection/
+opening/body insertion. Once READY, reject all those mutations, including
+internal merge/commit paths, rather than trying to infer validity from that
+counter. NEED is intentionally different: validated staged material may commit
+after exit checks, but no sealed/ready view is issued; demanded material can
+still be added with the existing checked pre-ready binding. Further work after
+READY uses a new finite session, not reopened old state or a renewed grant.
+
+Minimal coherent source seam is imports + authoring + client plumbing. Merely
+optimizing initial materialization is insufficient because old later
+`require_selection` reopens every group. The view path must cover context,
+source preparation, post-native finishing and onward construction; each keeps
+fresh relevant boundary checks. With retained-source count S, installation
+work F, semantic bytes V and necessary pure traversal D, the proposed boundary
+cost is O(S*F+V+D), not constant mathematical work or a measured speedup.
+
+Clear **for fresh root-selected implementation**, not source/runtime approval.
+Review implementation specifically for all mutator guards; strict byte input
+and detached outputs; no callback/reentrant pure path; READY/NEED behavior;
+opaque-view ownership; entry/exit/native liveness; irreversible charge counters;
+and pure-helper output equivalence. Focused invocation counters can validate
+factor removal without a timing campaign. Reuse actual03's retained seed packet
+as untrusted input with fresh real readmission; do not repeat its successful
+seed proof/publication or DHT discovery for this local seam. No product source,
+test, native process or proof was executed by this reviewer.

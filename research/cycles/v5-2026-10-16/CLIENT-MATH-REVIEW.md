@@ -394,3 +394,70 @@ receiver must still obtain authority through its appropriate actual admission
 path; persistent packet bytes and this audit do not restore a closed warrant.
 Root and the lifecycle reviewer own aggregate costs, termination adoption and
 any next source/runtime selection. Operation 03 remains failed.
+
+## Focused projection preflight before retained-seed continuation
+
+2026-10-16. **FEASIBLE_SOURCE: no predictable mathematical/frontend blocker
+found for the unchanged `actual_owner03.projection_source`.** This is a
+source/data-only preflight, not executed successor elaboration or launch
+clearance. No project import, test, native invocation, proof or Git operation
+was performed; the successful seed is not repeated.
+
+The current `actual_owner03.py` is 22,854 bytes, SHA-256
+`5342d9e1b0f79e1a2530ecc82ef9493167996fee3bcadea535a812c86ac5912a`.
+Its prefix no longer opens the unregistered relocated namespace; both base
+symbols and the acquired fusion symbol are fully qualified. The earlier
+historical paragraph describing `open` is superseded by actual03.
+
+The original foundation JSON and the actual03 seed's saved source-request
+foundation view independently contain `Prod`, `Prod.mk`, `Prod.rec`, `Prod.fst`
+and `Prod.snd`. Raw foundation rows identify `Prod` at name 71/type 271,
+`Prod.mk` at name 72/type 278, and the two projections at names 74/76 with
+type roots 301/308 and body roots 305/312. Product and constructor take two
+universe parameters and two type parameters; the constructor has two fields.
+Both projections are safe abbreviations with two universe parameters, whose
+bodies reduce to expression projections of field indices 0 and 1. The saved
+context binds their exact body hashes
+`5e7b6c325e42b6b8400aaeed8524665d993ec021f9b3cee88b16f4a23e4b602f`
+and `82d824cdc19265a5c6b9fb18aca9acedad4d132b4d41895a751903eb8a947d91`.
+Thus neither pair construction nor either projection needs a new foundation
+symbol or a synthesized imported theorem.
+
+The possible metadata failure differs materially from actual02's failed
+namespace `open`. `AuthorLean.lean:840` imports pinned `Init` with
+`loadExts := true`, validates every retained foundation declaration against
+that frontend, and only then installs relocated module declarations. It does
+not recreate `Prod` in a metadata-empty environment. The local Lean 4.34.0
+sources trace this syntax explicitly: `Init/Prelude.lean:554` declares the
+`Prod` structure with `fst/snd`; `Init/Notation.lean:273` expands `×` to `Prod`;
+`Lean/Elab/BuiltinNotation.lean:246,414` expands pairs through `Prod.mk`;
+`Lean/Elab/App.lean:1517` resolves numbered structure fields through their
+registered projection names (with expression-projection fallback for plain
+one-constructor inductives). These observations explain the selected frontend
+mechanism, not an additional independently rebuilt runtime qualification.
+
+The actual retained seed source has explicit argument order
+`leafB, nodeB, leafC, nodeC, h, hleaf, hnode, e`. Its verified generic theorem
+supports the instantiation
+
+\[
+(A,B,C;u,v,w)\mapsto(A,B\times C,B;u,\max(v,w),v).
+\]
+
+The proposed application supplies that exact order. Its paired leaf/node
+functions first constrain the intermediate carrier to `B × C`; later
+`leafB/nodeB` constrain the target carrier to `B`; the annotated projection
+lambda supplies `h`. Both preservation obligations then beta-reduce and
+project a constructor, yielding reflexive equality. The final tree argument
+has the unchanged base `Tree A` type, and the resulting equality is precisely
+the stated paired-fold projection. No simplifier, function extensionality,
+classical axiom, numeric literal, extra namespace registration or replay of
+the seed theorem's proof is needed for this application.
+
+The unchanged exporter handles `.proj` explicitly; `source_rows.py:149`
+decodes it with its structure reference and field index. Named `Prod.fst/snd`
+references are also in the retained foundation partition. `AuthorLean.lean`
+and `source_rows.py` still match the hashes in the first review table.
+The later genuine receiver must nevertheless check the new delta; frontend
+success alone is not acceptance. Root owns that finite continuation and its
+cost/closure checks. This preflight makes no growth or full-v5 claim.

@@ -5,6 +5,56 @@ Canonical root: `E:\Distributed Trustworthy Mathematical Knowledge Network`.
 This checkpoint creates no product source, proof, test, Git or deployment change.
 The full deployable v5 goal remains active.
 
+## Latest decision: after atomic reuse, prioritize the scalable frontier
+
+The source-led atomic import correction now has a real passing continuation,
+independently audited in `ATOMIC-REUSE-OUTCOME.md`. It uses the retained fusion
+result from actual03 instead of repeating seed authoring/discovery. A fresh
+client checks/imports it, authors a projection with an actual external fusion
+proof edge, publishes, closes, and freshly rechecks the successor with new
+owners after reopening custody. Both the mathematical endpoint and enclosing
+bootstrap/Job close successfully under unchanged limits.
+
+New measured cost is 38.859375 known CPU seconds (38.40625 inclusive Job plus
+0.453125 outer wrapper), 42.3058857 wall seconds. The consumer's31.875 and cold
+owner's3.09375 controller observations are nested, not additive to that total.
+Earlier actual attempts remain162.0625 CPU seconds; the two failed synthetic
+operations remain4.703125 CPU seconds. These three categories total205.625
+known CPU seconds, not the whole project bill. The earlier failures, upstream
+receipt production and unmeasured interpreter/exit tails are not erased.
+
+This is a completed missing tail, not a matched timing experiment or a new
+network-discovery campaign. The atomic boundary removes the source-identified
+group/body-multiplied installation scans while retaining semantic validation,
+entry/exit checks, native acceptance and unchanged caps. It does not establish
+positive net benefit against an equally optimized ordinary shared library.
+
+Estimated marginal-payoff ordering at this decision point:
+
+1. Close the repeatable aggregate-certification prerequisite: focused controls
+   for the new controller and one exact stage-host link using retained SDK and
+   native libraries. They address a still-missing scalable-frontier path.
+2. Quote the complete113-segment/one-premise production graph and decide an
+   explicitly bounded capability investment, including retention, controller,
+   failed attempts and stage-history feasibility. Complete guest execution is
+   available and must not be repeated. No proof funding follows automatically.
+3. Use the existing genuine-A reciprocal integration once real A exists, then
+   ordinary product integration/release and end-to-end growth accounting.
+
+Do not spend the next cycle on another successful client replay, larger mock
+peer counts, discretionary controller micro-optimizations or a new checker
+representation before comparing their cost with these remaining central gaps.
+There is no quantified success probability for this ranking: it is a source-
+and evidence-based dependency/payoff judgment, revisable on concrete findings.
+
+The one-link selection preparation's first PowerShell selector failed before
+creating any plan or run because its JSON array was wrapped in an extra array.
+`Select-AggregateStageBuild02.ps1` preserves the first source and corrects only
+that preparation expression. It creates exact selectionfde4496b (1071 retained
+runtime pins,2320491997 bytes); build execution remains separately reviewed.
+No compiler or proof ran during either preparation. Preparation controller cost
+was not separately metered and is not claimed zero.
+
 ## Decision in brief
 
 1. Complete the already selected memo-guest integration and unchanged-cap screen.
