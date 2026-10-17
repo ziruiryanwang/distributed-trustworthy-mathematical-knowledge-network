@@ -100,3 +100,27 @@ limits; no mocks, new mathematical claims or automatic retry. Root owns separate
 plan/launch. Independent source/plan review precedes any ten-case execution.
 Record implementation concisely in SMALL-MANIFEST-CONTROLS.md. Full proof funding
 and terminal-to-extension integration remain separate next decisions.
+
+## Production-only enclosing owner
+
+After the ordinary no-host preflight passes, root selects fresh
+`tools/Run-V5-Production.py`: the same preserved input-snapshot/runtime-rebinding
+launcher pattern as Run-V5-Check, with a distinct production selection/result
+schema and exactly the snapshotted aggregate-small operator's `run` command.
+Use unchanged adopted supervisor limits rather than the small-test-only600CPU
+ceiling; every operation still supplies its own finite limits. This is needed to
+enclose a possible1200CPU segment including its controller, not to increase any
+native stage's4096MiB memory or1200CPU cap. No budget is funded by writing this
+entry point. Preserve Run-V5-Check and all existing selections unchanged.
+Root owns source and exact selection; independent reviewer audits the narrow
+delta. Only after actual manifest/capacity and budget checks may a separate
+finite first-segment run be selected; no automatic full campaign follows it.
+
+Before first use, root corrects the launcher design: execute from a retained
+ordinary source installation, with all five operator/module files independently
+runtime-pinned and byte-equal to the new evidence snapshot. Fresh per-attempt
+installation paths would change the producer's exact profile identity and make
+successful checkpoints impossible to continue in the same allowance. Reuse the
+already-adopted preflight installation/profile instead. Exact command/limits,
+fresh evidence directories and final binding remain. This is a source change,
+not proof funding; independent delta review is required before use.

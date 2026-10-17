@@ -261,3 +261,292 @@ native manifest behavior and an actual full-po18 segment remain separate.
 No A receipt, cold terminal acquisition, net growth, previous three-member-H
 completion or v5 release follows. Downstream plans must explicitly adopt this
 new H and openings before their future exact selections; old claims stay frozen.
+
+## Ordinary operator and preflight-selector source review
+
+Independently reread complete `aggregate_small/operator.py`, its selected source
+contract and `SMALL-OPERATOR.md`; traced the actual retained constructors,
+`_request`, snapshot/build adoption, close and run boundaries. Exact operator:
+11,480bytes, SHA-256
+`8a4876c28b1da2fbf80b3e425aa0f05486aa760a9b77cfe6d2d6c0a66dcffac6`.
+**No blocking source finding for this explicit local-owner contract.**
+
+Preflight constructs the real owner and calls `_request` once, with no native
+dispatch; all host dispatch remains inside the uncalled run branch. Actual
+retained `P.Producer` enforces Windows, isolated/no-site/no-bytecode and no
+optimization. Run invokes one finite attempt, checks the exact durable result,
+and does not treat a successful prefix as a certificate. The wrapper closes a
+constructed owner, checks loaded module origins, bounds and pins documents,
+separates fresh report/sentinel paths from inputs/output/installation, rebinds
+sources and derived preflight inputs, and marks late failure with a distinct
+sentinel. Startup/imports, failed construction and output tails remain the
+enclosing owner's resource responsibility; this is not a hostile filesystem
+or hostile-source security sandbox.
+
+Also read the complete fresh `Select-FrontierPreflight01.ps1`. It selects six
+source files, canonical future snapshot source pins, actual new stage/snapshot
+builds, original adopted image and genuine I parent, and exactly the successful
+167-segment BASE+FIRST capsule/new H. Its argv is `preflight`, not `run`, with
+`--owner-report`; the selected outer limits are30CPU/90wall/512MiB/two processes.
+502stage entries are only a full-path quote, with no checkpoints or prior
+production attempts. No production output or proof operation is selected.
+
+The quoted cap sum is284,550workerCPU seconds and90,750workerwall seconds,
+not an expected cost. The carried subtotal includes retained BASE and both
+host links, both failed layouts and the successful selected layout, explicitly
+excluding other preserved development/search/service costs rather than setting
+them to zero. This is not a full-cost growth comparison. Selector source is
+clear to generate one exact selection; generated plan/profile/request and
+source pins must still be checked before root chooses any actual preflight.
+No execution, project import, test/build/proof, capacity poll or Git operation
+was performed for this review.
+
+### Exact preflight selection clearance
+
+Selector source is11,955bytes/SHA-256
+`4db4bfb673996d6d60384bd575e0762459b90c1d5a8e8499dc63dab02c6ee08d`.
+Independently checked the generated documents and all six original source pins
+(98,271bytes), all63 selected runtime pins (129,298,894bytes), and four future
+producer-source paths/lengths against the source map. No mismatch. Both run
+directory and planned production directory are absent at review time.
+
+| Document under `experiments/v5-local-checks/` | Bytes | SHA-256 |
+|---|---:|---|
+| `selected-frontier-preflight-01-selection.json` | 17,789 | `ec1f61b7632e368196cb93d89e40c036c6fd7a71656a9aaefd343bf3da2b6b16` |
+| `selected-frontier-preflight-01-profile.json` | 18,899 | `d561265970d67ac888909c9edd93578a4dd5298b2ec810b1fe382cab1eaced6c` |
+| `selected-frontier-preflight-01-request.json` | 9,989 | `1d8a7a03c7ac0c8f14c3a67e594e70fef9cd69300de4150a2af480397d937d9f` |
+
+**Clear for root to select this exact one preflight only**, under the stated
+30CPU/90wall/512MiB/two-process outer limits. No proof funding or cap sufficiency
+follows. Prior base/layout/build operational evidence is reused, not rerun.
+
+### Actual ordinary preflight01 outcome
+
+**PASS for this exact constructor/request preflight and clean closure.** No
+rerun or project import. All12 original/snapshot source bindings and all63
+runtime pins match. Independently reconstructed the full ordered502-stage DAG,
+canonical profile ID
+`d6a8d91d6f2f068cb13b938c7439b94893f64f81376d3f2fee48d2bdd04a2dc5`
+and session ID
+`fb1ada11057248e82cc204c95ad676e2d7b35701264a8bb1a251461703b907b9`
+using read-only PowerShell/.NET, without calling product code. All agree.
+
+The exact graph has167segments,167lifts,166joins,one resolve andone finish.
+Its reconstructed requested cap quote is284,550workerCPU seconds,
+90,750workerwall seconds,1,517,551,616output bytes,4,522entries and
+123,391,407maximum host-read bytes. All fit the request's corresponding
+envelopes. Independently rebuilt installation43-pin map totals88,865,789bytes;
+derived request19-pin map totals42,051,359bytes. No retained checkpoints or
+prior same-allowance charges exist. These are caps/accounting, not empirical
+proof price, memory sufficiency or authorization to run the502-stage path.
+
+Owner report29,079bytes/SHA-256
+`34abb4af6979db0fe84f7edb1c3eb0ddffa60d412c3bf63239ef7beecbcba3c4`
+records one `_request`, zero run/host/proof calls, owner closed/nonbusy, final
+binding validated, and no errors. Captured stdout equals it after the sole
+Windows LF-to-CRLF translation; stderr is empty. No production directory or
+finalization sentinel exists. Outer result2,537bytes/SHA-256
+`5fda4c06f9f4e9fec2b8c96ceb16f5fd585ab0b560605d4b7698cac816e84dba`
+binds exact planec1f61b7 and selected argv/limits, exit0/reaped/closed, zero
+active/terminated processes and no cleanup error or termination request.
+Inclusive JobCPU1.125 plus disjoint wrapper0.4375 gives1.5625knownCPU seconds;
+outer wall1.7041693s. Inner observations are not added again. Peak Job commit
+26,554,368bytes is preflight memory only. No certification or growth claim follows.
+
+## Native manifest-control source review
+
+Complete fresh `manifest_controls.py` source17,605bytes/SHA-256
+`ab897b28fbbdc930e9f775ac8461e07aaf5b6d284da4c329930f6997df5589eb`
+and `SMALL-MANIFEST-CONTROLS.md` read independently. **No blocking source
+finding for the selected ten-control contract.** Traced exact built native
+source975e68df: every argv has `finish 0`; `get_prover_server` and all proving
+calls are in the opposite branch. Unexpected manifest acceptance therefore
+cannot invoke a prover through these commands. This is source/build-based
+assurance, not dynamic instrumentation or a certificate for the binary.
+
+M1–M10 mutate separate boundaries and recompute manifest extents/hashes except
+the deliberate outer-hash mismatch. M8's257row fixture has the frozen
+s167-dependent count refusal; M9's258rows reaches the parser bound; M10's exact
+manifest reaches deterministic magic/version refusal on the shared72zero bytes.
+All case oracles agree with native validation order. Correct parser behavior
+does not admit a cryptographic artifact. Per-case ordinary failures require
+closed/reaped Jobs, known accounting, selected diagnostics, empty stdout and
+no artifact/crypto progress. First failure stops; source/config/inputs/generated
+fixtures are rebound, aggregate allowances/census include finalization reserves.
+The root's enclosing operation must still contain startup/pre-output failures
+and finalization. Exact configuration/plan remain to be reviewed; no execution,
+project import or proof was performed for this source review.
+
+## Finite production launcher source review
+
+Guard rerun passes. Read complete fresh `tools/Run-V5-Production.py`, SHA-256
+`660a93e72e424e3ce355321961e43f8fad6fe0fa494e23c6cf8d76d167023dc9`,
+against frozen `Run-V5-Check.py` and the pinned supervisor's limit, process,
+cleanup and report paths. **No blocking changed-boundary source finding.**
+
+New schema is explicitly production-only. Exactly16 argv require isolated
+Python flags, the literal escaped snapshot operator path, `run` and five ordered
+document/report flags. Replacement retains ordinary list argv; the unchanged
+supervisor calls `Popen` without a shell, creates its child suspended, assigns
+the Job and resumes it, and retains kill/reap/closure failure evidence. Runtime,
+selection and snapshot rebinding remain; final binding failure overrides outer
+success. Owner reports alone are never sufficient after an outer failure.
+
+All six limits remain explicit integers under unchanged supervisor ceilings:
+200,000CPU seconds,86,400wall seconds,8,192MiB/eight processes and8MiB each log.
+Thus this is finite, not an unbounded bypass of the smaller test launcher. It
+can enclose a separately selected first stage/prefix; it does not make the
+284,550CPU502-stage quote fit a single maximum outer call. The exact forthcoming
+prefix plan must select actual smaller bounds and remain below them. No runtime
+or proof is selected by this source review.
+
+Inherited launcher boundaries stay explicit: startup/pre-output refusal may
+terminate without a durable outer RESULT; post-run rebind failure gets a failed
+outer record; report-write failure exits unsuccessfully. The enclosing human/
+root must retain stderr and failure rather than infer success from an inner
+artifact. The cooperative owner filesystem and exact adopted sources remain
+assumptions; no new hostile-source or concurrent-hostile-filesystem sandbox is
+claimed. No frozen launcher/supervisor/source was modified for this review.
+
+### Pre-use continuation correction
+
+Root identified a real integration obstacle before any use: per-attempt source
+snapshot execution changes the path-containing producer profile ID, preventing
+same-profile checkpoint continuation. The preceding launcher source review was
+limited to new dispatch/containment boundaries and did not establish that
+integration property. Retain its review as history, not final source clearance.
+
+The still-unused successor runs from one ordinary, immutable, runtime-pinned
+installation and uses fresh snapshots only as evidence. All five actually loaded
+operator/producer/package files must match the selected source bytes and runtime
+pins; the original profile remains stable across finite attempts. This preserves
+existing strict allowance lineage rather than weakening profile identity.
+Reviewer supports that design. A further narrow pre-use finding in798e33ac:
+literal placeholder tokens in a valid installed pathname could be expanded
+after validation. Require the expanded operator path to remain the checked path
+(or disallow the tokens there). Exact final successor review remains pending.
+
+### Manifest selector source review
+
+Read complete `Select-ManifestControls01.ps1`,10,236bytes/SHA-256
+`ac711c719045b547724551df9c6dcd10533808af8e574eac3f6ce1b0ddbce13d`.
+No blocker to generating one exact selection/configuration. Four sources are
+explicitly pinned;25inner runtime pins include the three future source paths
+only in child configuration, not the outer existing-file runtime map. Actual
+s167/m1 host/image/new H/capsule/parent and layout evidence remain pinned. Inner
+case/total limits and outer210CPU/300wall/1536MiB/three-process envelope align
+with the reviewed finite controls. This selector launches no host or proof.
+
+### Final launcher delta and exact manifest selection
+
+Final still-unused production launcher7,269bytes/SHA-256
+`676bb859d8379851092241e86855c0369e13d3d16364ea6f9bead2c530e4afa9`
+requires expanded argv[4] to equal the exact ordinary operator path already
+checked. The placeholder-origin finding is closed. Stable installation source
+binding covers all five files and post-run runtime rebinding. **Source-only
+clearance;** any proof/prefix still needs its separate exact plan and capacity
+selection. No existing successful prefix or producer profile was rewritten.
+
+Exact manifest-control selection12,233bytes/SHA-256
+`846e5c8d3dee0655cc8e3d87c0d9cf3c255cccd472bf5a6c0e7f4d9620201a71`
+and configuration15,515bytes/SHA-256
+`33e3d21ac2a79c9686141d194e893042ecc789fdbd551a38da4a69ed4a20087d`
+match the reviewed selector. Independently checked all four actual sources
+(51,615bytes) and43outer runtime pins (121,791,943bytes), all25inner pins
+including three future source paths against source-map lengths/hashes, and
+all nine input pins against actual extents and outer hashes. No mismatch; run
+root absent. Exact argv dispatches only the reviewed control entry; explicit
+case/total/outer limits match the preceding review. **Clear for root to select
+this one ten-case finish-only gate**, not a proof or any automatic retry.
+
+### Actual ten native manifest controls
+
+**PASS for the ten selected changed native input boundaries.** Read saved
+outcome/command/log/fixture evidence without rerun. All eight original/snapshot
+source bindings,43outer runtime pins and25actual inner runtime pins match.
+All ten manifest sizes/hashes match saved pins; actual commands have17 argv,
+explicit `finish 0`, selected manifest operands and distinct absent artifacts.
+The shared invalid checkpoint is exactly72zero bytes. M8/M9 have257/258rows;
+M2 has two schema keys; normal ordered finish manifest has168rows.
+
+All cases exit1 with ordinary `COMMAND_FAILED`, clean reaped/closed Jobs,
+zero active/terminated processes, no cleanup error or termination request and
+empty stdout. Actual stderr gives the prospectively required diagnostic for
+each case: outer hash, duplicate schema, positional object type, bool/u64,
+session/capsule/stage binding, ordered keys, file hash, exact count, row bound,
+and checkpoint magic/version respectively. No crypto/written progress or output
+artifact appears. In particular M8 does not use the parser-bound oracle and M10
+reaches the intended positive-parser/invalid-checkpoint boundary.
+
+Inner report31,977bytes/SHA-256
+`f2fdab6bcb77448994bb7f2f60fbe7490c232b3a891a75f6d7128520ad23ab61`
+matches captured stdout after Windows newline translation. Saved configuration
+matches33e3d21a. Outer result2,140bytes/SHA-256
+`592ae832e2d04415203c44db4470522ae65a30434d469977398e14b938401873`
+matches exact plan846e5c8d/argv/limits and clean exit0/reaped/closed. No sentinel
+exists. Final inner evidence is63entries/628,187bytes; its pre-result census is
+62entries/596,210bytes. Both are within the selected16MiB/128entry envelope.
+
+Inclusive outer JobCPU6.1875 plus disjoint wrapper0.484375 gives6.671875knownCPU
+seconds; outer wall12.1013172s. Nested ten-hostCPU2.265625 and inner controller
+3.75 are already included, not added again. Peak Job commit102,023,168bytes is
+verification/refusal memory, not proof-memory sufficiency. Zero prover/guest
+calls follows the exact finish-only source/build control flow and observed
+early refusals, not dynamic instrumentation. No A receipt, full segment proof,
+net growth or full v5 qualification follows from this passing gate.
+
+## Generic mixed-evidence seal-preparation review
+
+Read full selected `MIXED-SEAL-PREPARATION.md`d41af28e and actual existing
+mixed parser, delta parser/closure helpers, exact-J derivation, aggregate encoder,
+membership bindings and Rust Graph/check_reader. No substantive model gap found.
+Backward selection preserves every retained exact premise and topological order;
+certified frontiers are leaves only conditionally on separate genuine receipt
+and member verification. Parsing the full packet before selection prevents
+salvaging structurally malformed omitted material. Native relation confirmation
+of every selected witness and expected H remains indispensable.
+
+Complete helper `aggregate_claims/prepare_mixed.py`,7,502bytes/SHA-256
+`2d03b635553eaffa406fba57011bf3bd346ec23fd59e0092b29d9442a95802ff`,
+has no blocking source finding. It calls the existing bounded parser once,
+requires an exact native target, traverses its full closure, preserves original
+relative frontier/delta/claim order and remaps selected claims without copying
+one A receipt per frontier. Parser-returned canonical witness bytes are passed
+unchanged to the existing encoder. Members are full-J byte sorted; retained A
+parent heights determine height+1 with explicit u64 overflow refusal. Exact
+header/membership functions validate the generated opening. Frozen slotted
+records contain only immutable records, tuples, bytes and scalar fields, and
+explicitly state untrusted preparation/no admission. No I/O or verifier is added.
+
+Complete root test file `aggregate_claims/test_prepare_mixed.py`,11,315bytes/
+SHA-256`f9b3a92ef14ec24c9c4d7c7d06598e405d8cf0ca017ee777efd65594ef68f33c`,
+has eight source-reviewed pure controls. Synthetic fixtures cover direct existing
+encoding, earlier-branch pruning/nonzero claim remap, omitted versus retained
+maximum parent height, shared A receipt plus I ordering, exact-target refusal,
+malformed omitted descendants, resource and total-wire one-byte boundaries,
+and frozen/untrusted output. The wire-limit patch affects the actual encoder's
+module global, not a substitute encoder. A separate saved-real-byte comparison
+uses exact113,849byte FIRST wire/H/parent receipt; framing offsets and original
+113,220byte witness SHA match the previously audited layout. No new native
+checking or cryptographic verification is performed by these tests.
+
+Parser negatives are sampled/reused, not exhaustive. Source review does not
+claim the forthcoming eight tests exercise every profile/grammar/duplicate/
+unused-material refusal. The helper derives structural candidate plans, never
+proof acceptance or net benefit. Exact finite control plan remains pending;
+reviewer performed no project import or execution.
+
+### Exact mixed-preparation control selection
+
+Read complete selector `Select-MixedSealControls01.ps1`,3,530bytes/SHA-256
+`d311fc6710af5833c5f4338f72d718d1d3841e7e99d57ab903b9436a6b86d3b4`.
+It prepares only an exact selection, reusing retained Python/runtime identity
+and pinning the three actual byte-comparison inputs, without executing Python.
+Exact generated plan8,787bytes/SHA-256
+`1e730111ecab39dd2001599c41a695f99f049de8efa376edd1f443549242cf6d`
+has21source pins (159,880bytes) and21runtime pins (17,492,995bytes), all checked
+with no mismatch. Package import closure is included. Run directory is absent.
+Exact argv uses isolated/no-site/no-bytecode flags and the snapshotted test
+entry under30CPU/90wall/512MiB/two-process limits. **Clear for root to select
+one eight-test pure preparation gate**, with no native/proof call or automatic
+retry. Actual disposition remains separate.

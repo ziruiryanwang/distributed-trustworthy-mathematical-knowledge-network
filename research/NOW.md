@@ -1,5 +1,52 @@
 # Current research desk
 
+**2026-10-17 generic mixed seal preparation adopted.** All eight focused tests
+pass independent actual audit:42original/snapshot source bindings,21runtime
+pins,20loaded-source origins;1.046875knownCPU/1.2815069wall, clean closure.
+The ordinary pure helper selects any supported native exact target's backward
+closure from mixed I/A evidence and reproduces retained FIRST wire/H exactly.
+No receipt or admission is minted. Next central source work: a genuinely generic
+snapshot/adoption lifecycle (not fixture-schema impersonation) and exact native
+prover allocation analysis. Known po18 persistent buffers already exceed observed
+physical headroom; investigate the source-identified byte/word allocation excess
+before a large job. No old passing tests/proofs are repeated; v5 remains ACTIVE.
+
+**2026-10-17 native manifest gate adopted; pure generic sealing controls next.**
+All ten finish-only controls independently pass, exact source/input bindings,
+clean closure and no proof/artifact. Known6.671875CPU/12.1013172wall seconds.
+Root adopts helper2d03b635 and testf9b3a92e source review, exact1e730111 plan:
+one eight-test pure conversion run,21sources/21runtime pins,30CPU/90wall/512MiB.
+Includes preserved real FIRST wire/header/witness equality without a native or
+cryptographic call. No large proof funding; source-led memory and generic
+renewal-lifecycle analysis continue in parallel. Used bytes freeze on use.
+
+**2026-10-17 ten native manifest controls selected once.** Root adopts exact
+846e5c8d selection/config33e3d21a clearance:4sources,43outer/25inner runtime
+pins, actual167-segment capsule and real I parent. Run only ten finish-only
+refusals under210CPU/300wall/1536MiB/three-process enclosing limits; no guest
+execution or prover construction. Source/selector/inputs freeze on use.
+Parallel source selection: implement pure prepare_mixed_seal from reviewed
+MIXED-SEAL-PREPARATION; root owns focused tests, independent review follows.
+No genuine proof is selected while memory headroom remains insufficient.
+
+**2026-10-17 preflight actual PASS adopted; no proof yet.** Independent audit
+confirms the exact502-stage quote,63runtime pins and source bindings, zero
+host/proof calls, absent production directory, clean1.5625knownCPU/1.7041693wall.
+Root selects ten finish-only native manifest controls and source-only generic
+mixed-packet sealing design in parallel. Before a genuine one-segment attempt,
+fix the unused production launcher to reuse a pinned installation: per-attempt
+source paths would otherwise change profile identity and prevent continuation.
+Read-only capacity is currently~2780MiB physical/~4797MiB commit headroom; do not
+launch the4096MiB worker under that narrow margin. No user application changes.
+No proof funding or old-operation restart; full v5 remains ACTIVE.
+
+**2026-10-17 ordinary producer preflight selected once.** Root adopts independent
+operator/source and exact ec1f61b7 plan clearance (profile d5612659,request
+1d8a7a03,6sources/63runtime pins). Select only the real CLI `preflight` under
+30CPU/90wall/512MiB/two-process bounds: real constructor/request validation,
+zero host/proof calls and no production directory. Operator8a4876c2 and selected
+documents freeze on use. The502-call quote is not a funded proof allowance.
+
 **2026-10-17 complete selected frontier adopted; actual producer setup next.**
 Independent SELECTIVE-FRONTIER-REVIEW confirms the exact BASE+FIRST target,
 fresh two-member H/openings and all167 saved po18 segments. Complete capsule

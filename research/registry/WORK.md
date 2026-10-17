@@ -4,6 +4,14 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-17 continuation: root owns fresh production launcher and finite
+selection, preserving one actual source installation across all continuation
+attempts. memo_independent_review owns source-only Select-ManifestControls01.ps1
+and SMALL-MANIFEST-CONTROLS; v5_growth_decision independently reviews exact
+source/selection/outcome in SELECTIVE-FRONTIER-REVIEW; memo_tests_review owns
+source-only generic MIXED-SEAL-PREPARATION.md. All checkpoints are under
+research/cycles/v5-2026-10-17 at the canonical root. No proof currently running.
+
 2026-10-17 selective frontier source: memo_independent_review owns only fresh
 aggregate_small/frontier_snapshot.py and V5-NEXT-PRIORITY; v5_growth_decision
 independently reviews in SELECTIVE-FRONTIER-REVIEW; root owns selector/decisions.
