@@ -374,3 +374,114 @@ finite closure hold. This supplies economical evidence for the newly composed
 client/runtime mechanics only: no real mathematical acceptance, network
 service, receipt acquisition or proof-generation claim follows. No rerun was
 performed by this reviewer; used sources, plans and evidence remain frozen.
+
+### Next actual client operation: design review
+
+The independent review of [CLIENT-ACTUAL-NEXT](CLIENT-ACTUAL-NEXT.md) finds no
+principle-level blocker to implementing its one integrated trusted-owner entry.
+The chosen boundary is consequential: real I admission, fresh ordinary-source
+fusion, unknown-new-ID formal discovery/acquisition, actual use in paired-fold
+projection, publication and fresh-owner readmission from retained local bytes.
+The I-only packet schema requires a delta, so authoring the seed is necessary;
+a fabricated empty delta or legacy conversion is not an equivalent shortcut.
+
+This is an implementation gate, not a usefulness, novel-mathematics, net-growth
+or full-v5 acceptance argument. The consumer may know the base vocabulary but
+must not receive the new seed ModuleID/export ID as its search input. Its actual
+selected candidate must drive the relocated fusion constant; the exported proof
+must reference that module, and consumer semantics must come from the acquired
+packet. The seed's old bundle, native export and live authority are not substitutes.
+
+Three nominal I checks, two Lean authoring calls and three native delta checks
+are sufficient; an extra seed readmission would duplicate the later acquisition.
+The proposed 600 CPU / 900 wall seconds / 2,048 MiB / eight-active-process outer
+envelope is defensible finite engineering headroom, not a derived minimum or a
+completion guarantee. Exact selection must partition worker reservations,
+owner/controller allowances, three Node-service lifetimes and cleanup under one
+original outer deadline; overlapping CPU observations are not additive costs.
+Snapshot-origin pins, preparation worker origin, full fixed runtime identities
+and real terminal closure remain source/actual-review obligations.
+
+Phase three is **cold client re-admission**: old owners and services are closed,
+and new mathematical owners are constructed inside the same trusted strategy
+process. Do not call it cold-process, independently operated or offline global
+discovery evidence. The scalable A frontier and honest full-cost comparisons
+remain open. This review authorizes no execution and edits no used product.
+
+### Actual-client selector source review
+
+`Select-ClientActual01.ps1`, SHA-256
+`bf519cece2fbbcf7496c75d7ad236a40962d230efcb8b9cf95861188511fd9aa`,
+is clear as a **plan generator only**, subject to stable reviewed owner/asset
+source and independent inspection of its exact emitted plan before execution.
+At review both the proposed plan and operation directory were absent.
+
+It pins the adopted prior plan, preserves its 82 non-test/non-owner sources
+exactly, and adds the retained independently executed worker plus the two fresh
+owner/asset payloads: 85 proposed sources. It pins the unchanged profile template
+and the seven retained semantic/native assets, without running or rebuilding
+them. Output is one create-new plan; no executable source, state or prior
+evidence is overwritten. Four explicit loopback ports are checked for observed
+listeners; this advisory check does not reserve the ports against a later race.
+
+The proposed 600 CPU / 900 wall / 2,048 MiB / eight-process limits and 512 MiB /
+16,384-entry output census are valid in the unchanged launch schema. File hash
+selection proves identities, not successful source composition, mathematics,
+network startup or runtime outcome. This reviewer did not run the selector.
+
+### Actual owner and asset source: CLEAR for exact finite selection
+
+The two new files were read completely and checked against the actual retained
+workspace, mixed packet/import/author/receiver, receipt, preparation, discovery,
+HTTP provider and portable Node APIs. No concrete source blocker was found.
+
+| File under `software/v5/client` | Bytes | SHA-256 |
+|---|---:|---|
+| `actual_owner.py` | 22,521 | `2f2f07aa6ac91618120b210abec99ddbef4818332bd2d7915e6b0c837efc1016` |
+| `actual_assets.py` | 10,738 | `0cef5f4e8ff7590d52f51d73f3fa42ca23ab4ace4a75eeff16dd0df49f68ef87` |
+
+The assets layer accepts only the selected retained identities, rebases the
+installed Python roles through the fixed release manifest, and obtains Python
+source digests from the launch selection. The producer's exact two source roles,
+preparation worker, mixed import origins and complete selected product Python
+closure point to the new snapshot. No research harness is imported, no class
+identity is substituted, and no saved handle becomes authority. Profile-template
+and native/Lean inputs retain their own checks; this is not a hermetic loader or
+hostile-owner sandbox claim.
+
+Three grants precede owner construction. Their worker suballocations are
+90 + 120 + 90 = **300 CPU seconds**: three 30-second I verification reservations,
+three 30-second native-delta reservations, and two 60-second author reservations.
+The per-grant admission/preparation budgets are disjoint; receipt and mixed
+observations overlap nested workers and must not be added again. The 90-second
+per-grant controller caps are inclusive process observations, not separate hard
+reservations. Original 180/480/180-second grant windows are clipped by the one
+outer deadline. Three Node lifetimes and remaining owner/setup/cleanup work
+are still charged to the outer 600 CPU / 900 wall-second Job.
+
+The seed genuinely admits I before importing exact base semantics and authoring
+fusion. Source export is explicitly untrusted; structural publication does not
+admit it. A different client discovers a formal query candidate without the new
+ModuleID in its algorithm inputs, acquires the actual packet through the I-only
+provider and checks it through the genuine mixed receiver. The consumer imports
+the selected base/fusion journals and only packet-derived semantic material.
+It then authors and publishes paired-fold projection. The final fresh-owner
+local readmission occurs only after the original provider/Node services close.
+The historical publication record supplies a byte locator, not acceptance.
+
+The source inspector reads the newly returned actual native export/request and
+packet, requires matching source/root/spec bindings, checks a three-universe
+theorem and exact base Tree/fold references, and traverses its local proof-body
+closure for the required external theorem edge. Seed requires base binary_congr;
+the successor requires the actually discovered fusion module. This is stronger
+than string matching but remains a source/export observation, with mathematics
+established only by genuine admission. A post-hoc equality check outside the
+consumer ties its discovered module to the seed publication.
+
+Search/provider/page/report schemas align with the concrete APIs. There is one
+bounded route/offer/page, no hidden retry or seed readmission. Normal closure
+checks each Node's zero exit, no forced termination/channel failure, closed
+clients and empty HTTP task sets; the enclosing parent must still establish
+actual whole-tree closure. Same-process cold-client scope and unfinished full
+v5 status are explicit in the result. Exact emitted selection review and actual
+outcome audit remain separate; no source was executed by this reviewer.

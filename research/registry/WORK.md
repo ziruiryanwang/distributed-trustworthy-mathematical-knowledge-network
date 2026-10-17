@@ -4,6 +4,13 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-16 actual-client source and math reviews clear. Root owns prepared
+plan dad9f1d4 and its single launch after independent binding review. Reviewer
+v5_growth_decision owns exact selection and actual lifecycle/output audit;
+memo_tests_review owns actual mathematical-export audit when outputs exist;
+memo_independent_review completed source and awaits any concrete issue. All
+canonical paths/checkpoints unchanged; no agent launches or Git mutations.
+
 2026-10-16 after client14 controls: memo_independent_review implements only fresh
 client/actual_owner.py and optional actual_assets.py under CLIENT-ACTUAL-NEXT.md;
 v5_growth_decision reviews outcome then actual strategy; memo_tests_review finishes

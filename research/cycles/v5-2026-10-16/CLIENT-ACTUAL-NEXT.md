@@ -230,9 +230,11 @@ theorem project_summary {A : Type u} {B : Type v} {C : Type w}
 ```
 
 Here `receivedFusion` stands for the actual relocated imported constant, not an
-axiom or a copied proof. Foundation rows contain Eq/Eq.trans/Prod. They do not
-contain `congrArg`; do not casually introduce it as an unselected extra
-dependency. The lambda projection avoids requiring a named `Prod.fst` definition.
+axiom or a copied proof. Foundation rows contain Eq/Eq.trans/Prod and named
+`Prod.fst`/`Prod.snd`, independently confirmed by the mathematics reviewer.
+They do not contain `congrArg`; do not casually introduce it as an unselected
+extra dependency. Lambda projection is a valid source spelling choice, not a
+workaround for a missing named projection.
 Require actual exported proof references to the new fusion module and actual
 type references to base Tree/fold; text occurrence alone is insufficient.
 
@@ -274,3 +276,42 @@ selection; no source repair in place, reset, automatic retry or enlargement.
 On success the result advances ordinary software usability; affordable A,
 full-cost useful growth, hostile-input isolation and public release remain
 separate unfinished v5 obligations.
+
+## Root-selected source implementation
+
+Root subsequently selected fresh `software/v5/client/actual_owner.py` and
+`actual_assets.py`. Both are implemented; independent source and mathematics
+reviews are in progress. No runtime, imports, compilation, test or Git mutation
+was performed by this author. Used workspace/launcher/portable sources are
+unchanged. The root-owned selector supplies the exact asset/port schema above.
+
+The actual implementation uses fresh `context.location_workspace/origin` and
+`consumer` roots. All three service processes live under the consumer grant;
+HTTP exposes the reopened origin's public stores. Each client is closed before
+workspace reopening. Phase three is explicitly **cold client re-admission in
+the same Python process and host**, not cold-process or independent-host evidence.
+
+Exact worker reservations are 90 CPU seconds for seed (30 I + 60 author),
+120 for consumer (30 I + 30 native + 60 author), and 90 for cold client (30 I +
+two 30-native checks): total 300, nested within the prospective root-selected
+600-CPU outer Job. Each phase's controller cap is an inclusive observation, not
+another independently enforceable aggregate Job. The outer remaining capacity
+covers controllers, services and cleanup; no part is an automatic refill.
+Phase wall caps are 180/480/180 seconds, each clamped to the unchanged original
+900-second outer deadline. Author calls use 60 CPU / 120 wall; admission uses
+30 CPU per verifier worker / 60 wall per receive. These are limits, not measured
+costs or an assurance that the operation succeeds.
+
+The source audit starts at the actual exported root theorem's proof body and
+follows local proof/value dependencies, requiring the exact acquired fusion
+constant. It does not count theorem-name strings or unused export rows as reuse.
+The consumer receives neither the seed ID nor old bundle as an argument; returned
+candidate data supplies the module identity. Trusted same-process strategy code
+is not adversarial isolation from its own earlier seed phase.
+
+Initial stable source review pins:
+
+| Source | Bytes | SHA-256 |
+|---|---:|---|
+| `client/actual_owner.py` | 22521 | `2f2f07aa6ac91618120b210abec99ddbef4818332bd2d7915e6b0c837efc1016` |
+| `client/actual_assets.py` | 10738 | `0cef5f4e8ff7590d52f51d73f3fa42ca23ab4ace4a75eeff16dd0df49f68ef87` |

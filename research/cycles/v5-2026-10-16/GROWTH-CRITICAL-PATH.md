@@ -403,3 +403,26 @@ ordinary enclosing launcher, integration, recovery and actual public operation
 remain unfinished. This I-only mode bounds unsealed ancestry; it does not
 replace affordable genuine A frontier advancement or establish either of the
 two full-cost benefit margins.
+
+## Post-screen/product decision, independently challenged
+
+The memo screen has now failed its unchanged cap; the preceding conditional
+screen-success route was not activated. The combined public-launcher controls
+pass only their native-free scope. [CLIENT-ACTUAL-NEXT](CLIENT-ACTUAL-NEXT.md)
+selects a consequential next *design*: real I-frontier fusion, unknown-ID
+acquisition, substantive paired-fold projection and cold-client readmission.
+Its independent design review is in [PRODUCT-SOURCE-REVIEW](PRODUCT-SOURCE-REVIEW.md).
+
+A focused challenge supports [AFFORDABLE-FRONTIER-DECISION](AFFORDABLE-FRONTIER-DECISION.md):
+shared typed JSON proof rows are a coherent possible refinement with unchanged
+mathematics and virtual old census. They are not yet selected source, a known
+whole-run saving, or a prediction of crossing the cycle cap. A failed prefix
+provides only a lower bound on required old execution; it supplies neither its
+complete cost nor the saving percentage required for a successful screen.
+
+After the actual client gate, make one explicit certified-frontier investment
+decision: finite constructor/projection audit, a fully priced one-off complete
+capability investment, or documented deferral with consequences. Do not silently
+select another optimizer or indefinitely substitute I-only client polishing for
+the still-required scalable certified frontier. No new experiment follows from
+this review; root owns any fresh finite source/runtime selection.

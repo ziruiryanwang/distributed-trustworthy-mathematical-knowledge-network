@@ -1,5 +1,16 @@
 # Current research desk
 
+**2026-10-16 actual-client plan prepared; one operation selected after binding
+clearance.** Source and mathematical reviews clear actual_owner2f2f07aa and
+actual_assets0cef5f4e. Plan dad9f1d436c71f836d467fe14713d38e975563bd067836996eb292ec0d9b60d2
+binds 85 sources and retained genuine-I/Lean/native assets. Root selects its one
+integrated operation only after independent exact-plan review: 600 Job CPU /
+900 wall seconds, 2,048 MiB / eight active, 512 MiB / 16,384-entry run census.
+Three sequential grants reserve 300 worker CPU total. No proof production,
+guest execution, A claim, old fixture campaign or hidden retry. This tests real
+ordinary-client reciprocal use and cold-client (same-process) readmission, not
+net growth or independent deployment. All prior used bytes remain frozen.
+
 **2026-10-16 public client controls PASS adopted.** Root read/adopts independent
 PRODUCT-SOURCE-REVIEW actual audit: fourteen controls, exact 85 sources and
 snapshots, fixed runtime, clean closure. Outer cbbbda80 / boot7405b10a /
