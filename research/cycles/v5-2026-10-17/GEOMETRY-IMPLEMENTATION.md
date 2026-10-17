@@ -1,5 +1,13 @@
 # Fixed-po17 layout owner and exact H2 preparation
 
+**Build02 cap amendment:** the unused adopter's memory-limit literal changes
+from2048 to1536MiB to match the prospectively refined compiler-only plan.
+Current adoption.py SHA is
+`51f969bd356358f9045108f580c8ab7875de7b8405e8a0cd77ba2d2fa3eafedc`;
+all other adapter sources and semantics below are unchanged. The old pin table
+records the first reviewed source checkpoint, not the later build02 contract.
+See GEOMETRY-COMPILE-ENVELOPE / GEOMETRY-RUNTIME for reasoning and disposition.
+
 2026-10-17. Owner: `memo_tests_review`. Canonical workspace guard PASS.
 Selected by GEOMETRY-SELECTION; source-only. Independent final source and
 builder/adopter cross-contract review PASS is recorded in GEOMETRY-REVIEW

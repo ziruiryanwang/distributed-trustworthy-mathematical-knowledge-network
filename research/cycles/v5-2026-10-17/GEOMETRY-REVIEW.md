@@ -8,6 +8,12 @@ proof, Git mutation or new runtime census is performed by this review.
 
 ## Current disposition
 
+**Latest: Build02 changed-source/selector/launcher PASS**, at the exact pins in
+the final section. This supersedes the unused2 GiB compile envelope with the
+separately justified1,536 MiB compiler cap plus1 GiB fresh physical/commit
+margin. Build01's original selector and used deferred launcher are preserved.
+There is no compiler, layout or proof outcome in this review.
+
 **Source PASS: Rust host, one-link builder, adopter, layout-only owner, generic
 snapshot adapter and selected H2 preparation. Exact one-link selector/map PASS.**
 Root may select that one build subject to its immediate physical/true-commit
@@ -274,3 +280,45 @@ binds exact snapshot-relative paths and bytes through the outer source map.
 Neither fabricated future pins nor a silent import-origin switch is acceptable.
 Root's run-layout/selector integration remains a separate unused-source decision;
 the earlier source PASS does not prequalify its eventual exact launch map.
+
+## Build02 compiler-envelope refinement: PASS
+
+Workspace guard passed again. Read-only diffs against root's committedc83345f
+confirm **exactly three source literal changes**: builder `LIMITS.memory_mib`
+2048->1536; actual `InclusiveJob` memory argument2048->1536; adopter matching
+`LIMITS.memory_mib`2048->1536. Nothing else in either source changed. The compiler
+recipe, Rust host, refined libraries, default verifier, proof/layout semantics
+and all other resource limits remain unchanged. The rationale is independently
+recorded in [GEOMETRY-COMPILE-ENVELOPE](GEOMETRY-COMPILE-ENVELOPE.md).
+
+| Exact Build02 artifact | Bytes | SHA-256 |
+|---|---:|---|
+| `software/v5/aggregate_geometry/build_snapshot.py` |21,908|`46be079429687e7ada877859111cf5b58d2bab1c6c0c6665146b487f3f8df1c7`|
+| `software/v5/aggregate_geometry/adoption.py` |13,541|`51f969bd356358f9045108f580c8ab7875de7b8405e8a0cd77ba2d2fa3eafedc`|
+| `Select-GeometryBuild02.ps1` |2,880|`237412b48ab24b4a108df08b43b24846b54f75a9761c82c8cf9108056e115d57`|
+| `Launch-GeometryBuild02.ps1` |6,493|`cf63602e5d4a85b80905d56aacedd7df4bc95b6d9a01b64c564a4cde500e84db`|
+| `experiments/v5-local-checks/geometry17-snapshot-host-build-02-selection.json` |292,313|`f245889a729ff61726347cfad7673af1801a5e8104cd71f6d8c112af185d2b7c`|
+
+The selector diff changes only the fresh build02 name, reviewed builder hash
+and compiler memory1536. The generated selection's three current source
+lengths/hashes match independent readback, its1,071-entry runtime map is exactly
+equal to both Build01's and the retained corrected-build selection's map, and
+its schema/compile-only flag/all limits agree with the revised builder/adopter.
+The unchanged Rust host7f3fefab and receipt41db7677 remain pinned.
+
+The launcher diff changes only the fresh name, exact selection/builder hashes
+and physical/commit threshold to **2,684,354,560 bytes**. The previously reviewed
+valid-counter checks, hidden process, exact invocation, controller/log/time
+terminal checks, own-child cleanup and accounting exclusions are intact.
+Run02, attempt02 and launch02 paths were absent during review. Root may record
+and invoke this exact conditional operation once; the launcher must still see
+the required immediate headroom and no heavy overlap. It may defer without
+starting a process. Source clearance is not that contemporaneous measurement.
+
+Original Build01 selection9c3f00c2 and used launcher02f6cb19 hashes independently
+remain unchanged. Build02 is not a rerun of a failed compiler: Build01 was
+preflight-deferred and no compiler started. There is no automatic further cap
+change or retry. Any actual failure preserves its cost/evidence and stops;
+successful execution requires independent build-outcome adoption before a
+separate layout selection. No runtime, new memory observation or Git mutation
+was performed by this reviewer.

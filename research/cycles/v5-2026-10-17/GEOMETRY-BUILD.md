@@ -1,5 +1,16 @@
 # Fixed-po17 snapshot: one-link build contract
 
+**Current prospective build02 amendment:** after build01 deferred before any
+process started, root selects the evidence-backed compiler-only1,536MiB cap in
+GEOMETRY-COMPILE-ENVELOPE. Builder SHA is now
+`46be079429687e7ada877859111cf5b58d2bab1c6c0c6665146b487f3f8df1c7`;
+only its declared memory limit and actual Job constructor change. All other
+fields, inputs, code and240CPU/300wall limits below remain. The matching
+adopter changes its memory-limit literal only. Fresh selection is
+`f245889a729ff61726347cfad7673af1801a5e8104cd71f6d8c112af185d2b7c`.
+The original2GiB plan below is preserved history, not current launch authority.
+GEOMETRY-RUNTIME records exact selection/outcomes. No proof limit changes.
+
 2026-10-17, `v5_growth_decision`. Source implementation only, selected by
 GEOMETRY-SELECTION. Canonical root guard passed. No imports, tests, compilation,
 host/guest/proof execution or Git operations were performed.

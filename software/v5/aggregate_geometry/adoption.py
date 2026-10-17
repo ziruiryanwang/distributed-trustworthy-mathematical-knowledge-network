@@ -31,7 +31,7 @@ COUNTS = {"backend_rust_crate_rebuilds": 0, "relation_rust_crate_rebuilds": 0,
     "snapshot_host_links": 1, "stage_host_links": 0, "checker_rebuilds": 0,
     "native_circuit_rebuilds": 0, "guest_rebuilds": 0, "host_calls": 0,
     "guest_calls": 0, "proof_calls": 0, "network_calls": 0}
-LIMITS = {"worker_cpu_seconds": 240, "worker_wall_seconds": 300, "memory_mib": 2048,
+LIMITS = {"worker_cpu_seconds": 240, "worker_wall_seconds": 300, "memory_mib": 1536,
     "active_processes": 6, "ordinary_controller_cpu_seconds": 40, "controller_cpu_seconds": 60,
     "total_wall_seconds": 420, "fresh_output_bytes": 536870912, "fresh_output_entries": 8192,
     "command_log_bytes": 1048576}

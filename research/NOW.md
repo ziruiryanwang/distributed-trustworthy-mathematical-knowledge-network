@@ -1,5 +1,22 @@
 # Current research desk
 
+**2026-10-17 fixed-po17 snapshot host actually linked once.** Exact fresh
+f245889a build02 completed exit0 under evidence-backed1536MiB compiler cap.
+Raw RESULT a44a521b: peak983,511,040B,133.734375JobCPU,clean0active/terminated.
+Pythonincludingtails7.078125 and launcher7.375 give148.1875knownCPU;outer153.7786wall.
+Newhost46062589 is6,631,424B and uninvoked. Independent saved-outcome review is
+pending. Used builder/input/selector/launcher freeze; no rerun or proof follows.
+Layout integration has fresh wrapper/selector source under review with512MiB
+native/1024MiB inclusive outer envelope; exact actual plan still ungenerated.
+
+**2026-10-17 compile launcher deferred before execution.** Source checkpoint
+is c83345f. Reviewed launcher02f6cb19 returned DEFERRED at23:27:08UTC: physical
+3,804,200,960B; true commit2,961,518,592B below unchanged3GiB gate. No launch,
+build or attempt directory and no Python/compiler/host/proof started. Root asks
+independent reviewer whether retained execution-only link measurements justify
+a smaller compiler-only allowance; no proof cap change or experiment selected.
+Layout wrapper/selector source integration continues. Full v5 stays unfinished.
+
 **2026-10-17 smaller-layout source review and exact compile plan ready.**
 Independent review clears snapshot host and one-link builder; exact new plan
 9c3f00c2 binds three sources and unchanged1,071 compiler pins plus separately
