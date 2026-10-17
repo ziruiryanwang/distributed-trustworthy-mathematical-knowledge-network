@@ -1,5 +1,31 @@
 # Current research desk
 
+**2026-10-16 ordinary A client and16 focused controls adopted.** New mixed
+workspace/API is implemented; all16 synthetic controls pass independent actual
+audit with exact89-source/68-import bindings and clean closure. Known new cost
+2.921875CPU/3.9273728wall seconds. No genuine receipt/proof/native/network call;
+all used bytes freeze. No runtime or agent assignment remains from this step.
+PUBLIC-A-CLIENT-RESULTS.md is the compact resume checkpoint. Root adopts the
+target-preservation gap: lastdelta-only transport cannot serve a bare certified
+target, so its hypothetical cost cannot support the full fixed-target growth
+claim. Next central decision is minimal selected-terminal evidence dissemination
+before the eventual genuine-A campaign; no new implementation/runtime is yet
+selected. Producer feasibility and full deployable v5 remain open.
+
+**2026-10-16 public A controls selected once.** Corrected new client/API and16
+focused controls pass source review. Root selects exact plan97ccdfe7 (89sources,
+1,011,606bytes),30CPU/90wall/512MiB/two-process enclosing limits, unchanged public
+launcher. Explicitly synthetic issuers; no native/proof/network calls. Used
+bytes freeze. Independent actual audit follows; actual A reuse remains open.
+
+**2026-10-16 public A client implementation selected.** Root adopts the completed
+PUBLIC-A-CLIENT-SEAM design and records PUBLIC-A-CLIENT-SELECTION. Fresh ordinary
+A-required/I-optional workspace/API, focused controls and independent review have
+disjoint owners. Existing mixed/atomic/receiver/network and I-only sources stay
+unchanged. This removes a concrete public-software gap without rerunning passed
+I-only work or funding infeasible proofs. Source/static work only; actual A proof
+and public reciprocal integration remain open. Full v5 is not completed.
+
 **2026-10-16 genuine preflight02 PASS adopted; next public-client seam.**
 Independent audit confirms real constructor/request adoption of the retained
 stage host, memo image and complete capsule, source/input rebinding and clean

@@ -4,6 +4,22 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-16 public A assignment complete: author/source/API,16 focused controls,
+independent source/exact-plan/actual audit and root adoption are terminal.
+No agent or runtime remains active from this selection; do not repeat controls.
+See cycles/v5-2026-10-16/PUBLIC-A-CLIENT-RESULTS.md for exact evidence and next
+central target-preserving terminal transport decision. All used source frozen.
+The full v5 objective is not completed or paused by this checkpoint.
+
+2026-10-16 public A client: memo_tests_review owns fresh client/workspace_mixed.py
+and API-MIXED.md plus PUBLIC-A-CLIENT-IMPLEMENTATION.md; memo_independent_review
+owns fresh test_workspace_mixed.py/optional mixed_control_owner.py plus
+PUBLIC-A-CLIENT-CONTROLS.md; v5_growth_decision owns PUBLIC-A-CLIENT-REVIEW.md.
+Root owns selection/integration/Git. Canonical root is
+E:\Distributed Trustworthy Mathematical Knowledge Network; checkpoints are in
+research/cycles/v5-2026-10-16. Source/static only, no launches/proofs, old-byte
+edits, passing-test repetition or shared Git mutations. See exact selection.
+
 2026-10-16 preflight source-only wall-quote correction: memo_tests_review changes
 only the still-unexecuted adapter's per-kind wall quote to420/150/150/600/120,
 reports81930 sum and4470 raw remaining wall allowance; no completion prediction.
