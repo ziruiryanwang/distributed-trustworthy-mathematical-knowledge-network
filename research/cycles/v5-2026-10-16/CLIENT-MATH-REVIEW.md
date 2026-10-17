@@ -221,3 +221,176 @@ no termination requested, and no cleanup errors. Lifecycle adoption and any
 fresh successor selection remain root's/separate reviewer's responsibility.
 No actual proof-reference check passed; do not relabel this operation as a
 mathematics or reciprocal-use pass.
+
+## Actual operation 02: genuine I admission, source namespace refusal
+
+Root requested a terminal-only mathematical inspection of
+`product-local/v5-client-owner-runs/client-actual-02`, with seed operation
+`32e6ddf7d813b557cc208294db3a4725d0a08a4da149c6c6fd1713d3252c273b`.
+This reviewer ran no software/test and changed no product or failed evidence.
+
+**Disposition: seed I admission reached; no new theorem export or reciprocal
+use.** The saved receipt stdout records `REAL_MODULE_RECEIPT_VERIFIED`,
+`fully_resolved=true`, the exact base ModuleID and selected receipt SHA-256
+`850c33b2...6e5d47`. Its binding record is
+`SAME_CALL_BINDINGS_VALIDATED_BEFORE_HANDLE`. The client report records one
+admission submission, one import session, one author call, zero publication
+attempts and zero mixed-delta admission attempts. This narrow actual I result
+does not make the overall failed operation pass.
+
+The source worker invoked the selected native frontend, which returned 1 without
+timeout. Its result is `WORKER_NATIVE_REFUSED`, `export_bytes=null`,
+`export_sha256=null`, with direct child reaped. Native stderr is
+`OWNER_AUTHORING_FAILED AUTHOR_OWNER_SOURCE_REJECTED`. The source diagnostics
+explicitly include the unknown namespace
+`DMKN.Mod.«2b54d3be0ee27667c864ede130980f3fdeef963141296989b60113ba90e5be9e».CommonsV5`
+at the `open` command, followed by unknown `Tree`, `fold`, and `Tree.rec` uses.
+No actual proof dependency could be inspected because there was no export.
+
+The actual request contains all fourteen expected base declarations, owned by
+the exact base ModuleID, and the intended seed source. It includes `Tree`,
+`Tree.rec`, `fold`, `binary_congr` and their auxiliary definitions; this is not
+an empty/missing semantic context. The native source installs and checks
+frontend-visible exact constants before elaborating this source. These facts
+support the separate author's namespace-registration diagnosis; they do not
+constitute an executed test of an alternative source spelling.
+
+Replacing the failed `open`/short-name references with their exact fully
+qualified relocated constants is mathematically conservative: it changes name
+resolution, not the imported declaration, theorem statement, homomorphism
+assumptions, structural-induction argument or universe parameters. In
+particular, `Tree`, `Tree.rec`, `fold` and `binary_congr` must all select this
+same base owner; acquired fusion must still select the discovered owner.
+The declaration names `ClientV5.fusion`/`ClientV5.project_summary` and the
+actual exported-proof dependency checks should remain unchanged. This is
+source-level justification of that proposed repair, not runtime selection or
+a prediction that later boundaries will pass.
+
+Exact retained mathematical outcome identities, relative to the seed operation:
+
+| File | Bytes | SHA-256 |
+|---|---:|---|
+| `receipt-1/command/stdout.txt` | 1535 | `1b6236bda564c7b0a7ce8bc124d2a2be4cc8b9712f5e98a7061bdf8f18636515` |
+| `receipt-1/binding.json` | 412 | `59302332508bb840f72a3366b8a6fa20c91c8800c8200a0010c7de24f855bb2d` |
+| `preparation/author-1/source-request.json` | 61239 | `64aa3d0a5efde807d2bf4736524426f566cd8665027b4203c2164464cb2ce065` |
+| `preparation/author-1/worker-result.json` | 787 | `8ad8fb1e027a8960a6b08da026968e0a5a8bc50f1452839a29c413c663e84f21` |
+| `preparation/author-1/author-command/stdout.txt` | 7003 | `277cc9575000904a70ce6dc521dce9acd813a4b35c755e827ebcbfb7094f0ecc` |
+| `preparation/author-1/author-command/stderr.txt` | 52 | `071d1528425682b874c8779a24ea375a0c73a726de4fcb0c8a3f5d38718eca28` |
+
+No consumer, cold re-admission, publication or new mathematical result follows.
+Preserve the failed authoring call and its charges. Root and the lifecycle
+reviewer own total accounting, source-successor selection and any next launch.
+
+## Actual operation 03: seed and acquired native result verified; loop fails later
+
+Root requested a terminal-only audit of
+`product-local/v5-client-owner-runs/client-actual-03`. Seed operation is
+`4898246455cde36d15d11631b263a7a4fe9bb8d6c18d920504e72f038ca8490b`; consumer operation is
+`a92a87348962d44907fc9853005485dba2bf097f76dd9697c434b254f5dcf0e9`.
+Only read-only saved-data/source inspection was performed. No project module was
+imported and no theorem, test, native check or receipt verification was rerun.
+
+**Disposition: scoped positive mathematical evidence for the newly authored
+fusion seed and its checked acquisition; overall reciprocal operation FAIL.**
+The overall error is `DeltaError:MIXED_CONTROLLER_CPU`. Consumer author calls
+and publication attempts are both zero. There is no paired-fold projection,
+cold successor admission or completed two-way loop from this operation.
+
+### Actual seed theorem, not a text-only use claim
+
+The successful source uses fully qualified exact base names, without the failed
+namespace `open`. Its UTF-8 source SHA-256 independently recomputes to
+`e75d0679c8e7a882543bc1baf60e8148483e8cc86dd225c3c4737f768ae95ebf`, matching
+the actual export. The worker reports native return 0, no timeout,
+`PASS_NATIVE_EXPORT_ONLY`, and a 14,224-byte export with hash
+`240512aa4eb5a77c9aa95efc20e93a15b8a082a5a032384c3adb3d861b09a6dc`.
+
+Independent PowerShell data-only inspection reconstructed the export's name
+and expression index maps and traversed the selected declaration's actual
+type/value roots, checking referenced expression indices point backward. The
+330 rows contain exactly one local theorem `ClientV5.fusion`, with universe
+parameters `u`, `v`, `w`; no local helper theorem substitutes for it.
+
+- Statement expression root 67 reaches 68 distinct expression nodes. Its
+  constants are precisely foundation `Eq` and exact base `CommonsV5.Tree/fold`.
+- Proof expression root 295 reaches 272 distinct expression nodes. Its reached
+  constants include exact base `binary_congr`, `Tree.rec`, `fold`, `fold._f`,
+  `Tree.below`, `Tree.leaf/node`, and foundation `Eq`, `Eq.trans`, `PProd`,
+  `PProd.mk`, `PUnit`, `PUnit.unit`.
+
+The imported `binary_congr` reference is therefore in the actual proof reachable
+from this theorem's value, not merely in source text or an unrelated export row.
+The reviewed structural-induction argument now has successful source-export
+evidence under the selected frontend. The source is the full generic fusion
+statement already analyzed above; this is not a closed example or reflexivity
+wrapper. Frontend success remains untrusted preparation until the receiver's
+actual mathematical boundary is satisfied.
+
+### Exact publication and acquired mathematical check
+
+The seed reports local publication of module
+`b42957064314b6667bf05cd3eec27ce39b925491c756a69f23a739d39ebb9f94`, export
+`ClientV5.fusion`, publication ID
+`1573252331936645f052074a5506189fbbd2162160d93d7617d208d4af8d3a75`.
+The seed's saved `mixed-packet.json` and consumer's acquired `delta/1/packet.json`
+have independently equal length 554,165 and SHA-256
+`92bbe15b0c8cfcba805efe86939009a9c0c53148e1c9fbd708d48fc6e0fe507f`.
+The packet has one I claim, one frontier, one delta and one edge. Local publication
+and indexing alone do not establish its truth.
+
+At the consumer, the actual native checker exits 0 with clean child closure and
+`CHECKED_CONDITIONAL_RELATION_NOT_ADMISSION` for the 105,541-byte delta input,
+hash `2cdef224538a722c56674a5e89387c8aac3dcea8caeb1cc9d1142ab28b2f0858`.
+Independent byte comparisons establish:
+
+1. Its sole required parent journal equals the freshly verified base I journal.
+   Consumer receipt stdout is `REAL_MODULE_RECEIPT_VERIFIED`, fully resolved,
+   for the exact base module and retained receipt hash `850c33b2...6e5d47`.
+2. Its target journal equals the saved mixed binding's exact target journal.
+   Decoded target ModuleID is `b4295706...ebb9f94`, with rank 1.
+3. The mixed result binds the same packet hash and records
+   `MIXED_BOUND_BEFORE_LIVE_PROMOTION`. The client proceeds through acquisition
+   to its subsequent import-context request before the controller refusal.
+
+Thus the genuine premise and actual native delta conclusion were combined on
+the consumer path; a saved frontend or publication report was not substituted
+for them. All handles are closed by terminal cleanup. The saved binding/result
+is evidence of that execution, not a transferable acceptance credential.
+
+The seed context reports zero frontend ancestor theorem-proof bytes. This does
+not erase the new native delta witness checked at acquisition, nor prove
+bounded cold cost for arbitrary unsealed ancestry. This one discovered result
+also supplies no broad-search recall or useful-growth measurement.
+
+### Exact outcome files and stopping point
+
+Within the seed's `preparation/author-1` directory:
+
+| File | Bytes | SHA-256 |
+|---|---:|---|
+| `source-request.json` | 61778 | `a5440640e3657fe7d817f2f76d6d295828cbf43ea65236130c9299ebf90ed9d9` |
+| `worker-result.json` | 838 | `9bcd0794f2ee4032388997edf981d473dbea5bcff0b67d85b5e4a8bcefc261d0` |
+| `frontend/EXPORT.json` | 14224 | `240512aa4eb5a77c9aa95efc20e93a15b8a082a5a032384c3adb3d861b09a6dc` |
+
+Within the consumer's `delta/1` directory:
+
+| File | Bytes | SHA-256 |
+|---|---:|---|
+| `packet.json` | 554165 | `92bbe15b0c8cfcba805efe86939009a9c0c53148e1c9fbd708d48fc6e0fe507f` |
+| `native-0/stdout.txt` | 1520 | `06cfbfe9265c2a6b0d84d6c501816c2be63f1794a59973eb21e2648c6213e203` |
+| `RESULT.json` | 1090 | `ddfecd90c13dfc9b298e1967b781ac321462489be2cf56bf05a097024cd72284` |
+
+The run's `work/actual-result.json` is 106,892 bytes, hash
+`f06d047dc44354bd1cedc98a86f9104a2b94323ed9cb9c952ba512c1d7184e58`.
+It records consumer controller observation 97.875 seconds against a 90-second
+controller allowance, one acquired native check and one newly begun import
+session, but zero consumer author/publication calls. That counter does not by
+itself identify which internal operation consumed the excess; separate source
+analysis should locate the consequential work before any budget change.
+
+Preserve and reuse this seed's successful artifacts if a fresh continuation is
+selected. Do not author it again merely to get a whole-loop PASS. Any later live
+receiver must still obtain authority through its appropriate actual admission
+path; persistent packet bytes and this audit do not restore a closed warrant.
+Root and the lifecycle reviewer own aggregate costs, termination adoption and
+any next source/runtime selection. Operation 03 remains failed.

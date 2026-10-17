@@ -600,3 +600,263 @@ runtime success prediction. Reuse the preceding independent unchanged-runtime
 review; this correction does not justify hashing the whole installation again
 or repeating passing controls. No code was run by this reviewer. Actual01's
 failure, exact evidence and costs remain unchanged and charged.
+
+### Actual client02: genuine I verified; author source refused; FAIL retained
+
+The one selected operation at
+`product-local/v5-client-owner-runs/client-actual-02` completed with **FAIL** and
+clean closure. It passed the repaired asset-record boundary and actually verified
+the genuine retained I receipt, then failed during the first Lean authoring call.
+No fusion packet was produced/published, no mixed native-delta admission ran,
+and no consumer, Node/HTTP service, projection or cold readmission began.
+
+| Saved file relative to the run | Bytes | SHA-256 |
+|---|---:|---|
+| `RESULT.json` | 2,257 | `f1f0de3f7043b0bf973f973861f17cde46594d16d194c0f2096583a8af38ecc6` |
+| `BOOT-FAILED.json` | 102 | `00698c5e9f27b0c3c240a3b1c42af6b079975ee9f789fea5066adbe0e2023ddd` |
+| `work/actual-result.json` | 3,835 | `5f9b4045cbf01d7b81ce604a610634331e4a8fe0a1461b13e3b6e84bb359259e` |
+| `command/command.json` | 750 | `dcdc4cdd17ff9b5e9a75c76d45f98788d414d8a873d1eaaea8d980875f92eaa6` |
+| `command/stderr.txt` | 746 | `859a39f42f03c210e19a6791b3f2335620af8d9356e1db3a704e5a4a3ce2f65e` |
+
+All 85 source originals and snapshots independently match the exact plan02
+pins, totaling 872,107 bytes, with no snapshot extras. The copied plan remains
+33,399 bytes / `d0b80114...`; actual argv binds that hash and the 900-second
+original clock interval. Prior complete unchanged-runtime binding reviews are
+reused; no repeat installation census or execution was needed here.
+
+The sole grant is
+`32e6ddf7d813b557cc208294db3a4725d0a08a4da149c6c6fd1713d3252c273b`
+under `work/origin/operations`. Relative to that grant:
+
+| Actual evidence | SHA-256 |
+|---|---|
+| `receipt-1/receipt.bin` (223,594 bytes) | `850c33b2a26649bd5d68762b75b4b4618eb5cd837d50507490d02a28db6e5d47` |
+| `receipt-1/process.json` | `c4a76d674f17842273c4bd0436e990b89361f930d1ba6492bce7269d79548c17` |
+| `receipt-1/binding.json` | `59302332508bb840f72a3366b8a6fa20c91c8800c8200a0010c7de24f855bb2d` |
+| `receipt-1/command/stdout.txt` | `1b6236bda564c7b0a7ce8bc124d2a2be4cc8b9712f5e98a7061bdf8f18636515` |
+| `preparation/author-1/author-process.json` | `356334c4c78a9b48cfd749b395e25c41f9ea1b57cefc4de9eb3bb2f340784c31` |
+| `preparation/author-1/worker-result.json` | `8ad8fb1e027a8960a6b08da026968e0a5a8bc50f1452839a29c413c663e84f21` |
+| `preparation/author-1/author-command/stdout.txt` | `277cc9575000904a70ce6dc521dce9acd813a4b35c755e827ebcbfb7094f0ecc` |
+| `preparation/author-1/source-request.json` | `64aa3d0a5efde807d2bf4736524426f566cd8665027b4203c2164464cb2ce065` |
+| `preparation/author-1/worker-config.json` | `7483bd527909c8ba803aa6d3e6143ca18c793c345e571bd8ab0c93ec9daf4ec1` |
+
+The I subprocess reports `REAL_MODULE_RECEIPT_VERIFIED`, `fully_resolved:true`,
+the exact adopted image/F/P, rank-zero base module `2b54d3be...` and its 11-group
+summary. Receipt bytes, request, argv, returned statement and same-call binding
+agree. It exited zero, was reaped and closed cleanly. This establishes that
+substep, not the uncompleted reciprocal operation; its live handles were later
+revoked on client failure/close.
+
+The author worker used the selected snapshot worker, exact retained frontend,
+six Lean pins and exact saved request/config. It reports
+`WORKER_NATIVE_REFUSED`, native exit one, no timeout, child reaped and no export.
+Saved Lean diagnostics report an unknown imported namespace and then unknown
+Tree/fold/Tree.rec identifiers. The enclosing preparation records
+`PREPARATION_COMMAND_FAILED_OR_DIRTY`; that generic code does **not** imply dirty
+closure here: its actual command exited one and all cleanup checks passed.
+Source/namespace diagnosis is assigned separately; it does not authorize a
+correction in used source or another run by this reviewer.
+
+The client records one receipt attempt, one author attempt, zero mixed receives,
+zero publication attempts and one import session. Cleanup reports no errors;
+all client/receipt/mixed/preparation owners are closed and have no live handles.
+The outer child exited one and was reaped, Job closed, zero final active or
+terminated processes, no termination requested and no cleanup errors.
+
+Known whole-operation cost is **24.609375 CPU seconds** = 24.09375 inclusive Job
+CPU + 0.515625 separately measured wrapper CPU, and **55.3076882 wall seconds**.
+Peak Job private commit was 527,392,768 bytes. The nested receipt's 0.046875 CPU
+seconds and author Job's 2.90625 seconds are already included, as are owner
+controller observations; none is added again. The original reservations and
+failed costs remain visible. Pre-clock interpreter startup is still unmeasured.
+Final independent census is **1,347,073 bytes / 154 entries**, exactly the
+parent's pre-report census plus its 2,257-byte report. No partial success is
+promoted into completed integration or v5 release.
+
+### Actual client03 qualified-name successor and selection: CLEAR
+
+The existing `software/v5/authoring/API.md` explicitly distinguishes imported
+constant descriptors from namespace/notation/attribute registries and requires
+qualified names and explicit recursors when those registries are absent. The
+failure in02 does not require a different mathematical checker or restored
+namespace mechanism.
+
+Fresh `actual_owner03.py` is **22,854 bytes**, SHA-256
+`5342d9e1b0f79e1a2530ecc82ef9493167996fee3bcadea535a812c86ac5912a`.
+Independent whole-text comparison confirms unchanged prefix bytes before
+`prefix()` and unchanged suffix from `inspect_author()` onward. Only the three
+source generators change: omit the unsupported `open`; use exact qualified base
+Tree/fold/Tree.rec/binary_congr identifiers; retain exact discovered-module fusion
+application. These names agree with `C.relocated_name` and the source API's Lean
+quoting rule. The polymorphic statements/proof strategy and actual dependency
+inspection remain unchanged. Used owner02 and assets02 remain exact.
+
+`Select-ClientActual03.ps1`, SHA-256
+`368fcfb640747b06d368afcaf826d9e2d296f0a42ec9ed4fe3e016b85e229a26`,
+was reviewed as the same create-only selection pattern. It pins predecessor02,
+all retained source/assets and changes only the owner source and fresh operation
+identity. The emitted `client-actual-03-plan.json` is **33,399 bytes**, SHA-256
+`75d36efe15ad634c8e98c49938a647e602d4c3a789dbaef5fab6fe1da9b49b66`.
+All **85 source originals / 872,438 bytes** match, with 84 exact retained pins and
+only owner03 replacing owner02. Seven assets plus profile still match; all other
+plan fields, roots, parameters, ports and limits equal02. Run03 was absent.
+
+Clear for **one fresh root launch** under the unchanged finite envelope; no new
+runtime installation audit, broad control suite, compiler build or proof campaign
+is warranted by this correction. A new real receipt check is required because
+old client authority was closed and saved reports do not recreate handles. It
+does not erase either prior failure or predict that later integration stages
+will pass. No source was executed by this reviewer.
+
+### One capability snapshot source/selector: CLEAR, emission pending
+
+Fresh `aggregate_host/capability_snapshot.py` is 9,657 bytes, SHA-256
+`9f914e2c5c5c86d3bd1f4efbdc45a16fadec67f14df082b82a2d506e98d506b5`.
+An independent whole-text substitution check against frozen `snapshot.py`
+`d99656a17891983e2ae5ee0afb78fd4695b0ac4746a58aade34977b36fd2f442`
+confirms **only** the stated docstring/scope/authority changes, 2^26 SDK row
+limit, po2=19 and stats mode/report field. Inputs, host, mathematics, image
+binding, genuine-I receipt verification, result checks and refusal bounds are
+unchanged. Disabling instruction sampling is not a speedup comparison.
+
+Independent source trace reconfirms the retained host's 128 consecutive
+segments, 64 MiB combined retained-segment bytes, separate 64 MiB capsule and
+8 MiB diagnostic bounds. Successful execution must halt zero, commit the exact
+expected header, produce the exact resolved session claim and verified
+assumption order, and materialize the complete consecutive segment census.
+These are capability checks, not mathematical admission or a proof. Geometry
+permits nominal 128 x 2^19 rows but does not ensure completion, bounded heap
+within the 3 GiB refusal envelope, affordable proof production or growth.
+
+`Select-FrontierCapability01.ps1` SHA-256
+`b505d5f1de63b63d1e22edc1b26eb2040bcf099f18472690243c42c4c27c5234`
+is create-only, pins predecessor selection8c630587/configuratione0cf7861,
+checks retained sources/runtime and changes only adapter, configuration output,
+operation identity and corresponding argv/pins. It retains eight sources,
+29 runtime/data pins and 180 CPU/240 wall/3072 MiB/three-process limits.
+Inner timeout120 seconds, logs1 MiB each and evidence144 MiB/160 entries are
+unchanged. Source review clears emission, subject to exact emitted-plan binding
+audit before one root launch. No guest/proof/test was executed by this reviewer.
+
+### Capability01 exact selection and actual outcome: PASS execution capsule only
+
+Before launch, selection `85555faa0313c26919800a8974c81f55e3add29f7d8892cd095314b0b94c02ef`
+(9,281 bytes) and configuration
+`d4d9751b155bc4b04e9d110ca23bfe31a8adc34e267d86fd00003da6c64004bd`
+(562 bytes) independently matched their declared exact maps. All eight sources
+(44,217 bytes) and 29 runtime/data pins matched. Seven old source pins and 28
+old runtime pins were unchanged; the configuration differed only in output,
+and other selection fields/limits were identical. Run and attempt were absent.
+Root subsequently launched exactly once after client03's closure.
+
+Saved run: `experiments/v5-local-checks/frontier-capability-execution-01`.
+
+| Evidence | SHA-256 |
+|---|---|
+| Outer `RESULT.json` | `4a08f6eb3a711105aaee1409c84c43260288ece99929cee7a978b541a55a4382` |
+| `evidence/RESULT.json` | `5d21cb1966dc4dee52d59faf8e68f92aad92907522bb041faf078c53a39f44c6` |
+| `evidence/diagnostic.json` | `241e109547b5a23c1ddd4c0eece335d4b053d83ce284f19fc139541f1b7132a4` |
+| `evidence/aggregate.snapshot` | `7996306944a51e0eec597266819871115f4bdea1f799c944442e472869465ffd` |
+| `evidence/wire.bin` | `2aea63ff488a4c012233742306c71526aea37c67d9f8d214e94c0d95d1200cb4` |
+| `evidence/header.bin` | `2bec7b73408dda33c1490360ea34330a846861283a5a5ee6ec6b7632bc5211e4` |
+
+Post-run independent review confirms all eight original/snapshot source pins,
+29 runtime/data pins, copied configuration and selection. Exact byte comparison
+of the 215,540-byte wire and 192-byte header against their retained predecessors
+finds no changes outside the aggregate-image slot. Header bytes agree across
+file, actual host result and diagnostic. The host records the genuine retained
+I premise (223,594 bytes; receipt850c33b2; image9dfd5892) and exact ELF98686ced.
+The unchanged host's previously reviewed terminal checks establish a successful
+halt, exact committed header/resolved claim, verified assumption order and
+complete consecutive execution segments; this audit does not rerun the host.
+
+All **113** saved segment indices/lengths/hashes independently match the
+diagnostic and exact directory census. They total **37,186,652 bytes**;
+the complete capsule is **37,187,089 bytes** with the hash above. Segment sums
+equal session totals: **59,244,544 rows**, **2,837,968 padding rows** and
+**81,348,253 instructions**. The SDK row limit is not an instruction limit.
+Sampling is explicitly disabled; zero sample counters do not mean zero work.
+The capsule is still untrusted execution evidence, not an A receipt, admission,
+cryptographic soundness proof, speedup or full-cost useful-growth result.
+
+Both adapter and host exit zero; outer child reaped, Job closed, zero final active
+or terminated processes, no termination request or cleanup errors. Known total
+cost is **5.078125 CPU seconds** = 4.78125 inclusive Job + 0.296875 separately
+measured wrapper CPU, with **4.5920526 wall seconds**. Peak Job private commit is
+153,661,440 bytes. Nested phase wall times and wrapper observations are included,
+not additive costs. Full evidence census is **74,618,507 bytes / 123 entries**,
+exactly pre-result census plus the 2,542-byte inner report. Entire run census is
+74,677,713 bytes / 146 entries. No output bound was exceeded.
+
+This answers the selected complete-layout feasibility question positively.
+For 113 segments and one premise, the reviewed stage graph implies **340 total
+stage calls, 339 prover operations** if later selected. It does not price them
+or select proof funding. Root must make an explicit next investment decision;
+no further screen, cap ladder, new image or old-run resumption follows.
+
+### Client03 actual outcome: retained FAIL at controller CPU bound
+
+Run `product-local/v5-client-owner-runs/client-actual-03` is terminal, not a
+completed reciprocal operation. All **85 original and snapshot sources /
+872,438 bytes** independently match the selected plan75d36efe. The retained
+unchanged installation audit is reused, not repeated.
+
+| Evidence | SHA-256 |
+|---|---|
+| Outer `RESULT.json` | `9692606b3e530d78aa86b18e04512ae3df14912e11139a7a3fe9a0cb623b6267` |
+| `work/actual-result.json` | `f06d047dc44354bd1cedc98a86f9104a2b94323ed9cb9c952ba512c1d7184e58` |
+| `BOOT-FAILED.json` | `00698c5e9f27b0c3c240a3b1c42af6b079975ee9f789fea5066adbe0e2023ddd` |
+| `command/stderr.txt` | `859a39f42f03c210e19a6791b3f2335620af8d9356e1db3a704e5a4a3ce2f65e` |
+
+Origin grant is4898246455cde36d15d11631b263a7a4fe9bb8d6c18d920504e72f038ca8490b;
+consumer granta92a87348962d44907fc9853005485dba2bf097f76dd9697c434b254f5dcf0e9.
+Under the origin grant, genuine I verification, Lean authoring/export and local
+publication completed. Source request is61,778 bytes/a5440640; actual14,224-byte
+export240512aa matches worker result9bcd0794, configuration899b89b0 and selected
+workeraeaad858. The packet is554,165 bytes,
+`92bbe15b0c8cfcba805efe86939009a9c0c53148e1c9fbd708d48fc6e0fe507f`,
+moduleb42957064314b6667bf05cd3eec27ce39b925491c756a69f23a739d39ebb9f94.
+Saved seed inspection records actual external binary_congr proof use; the
+separate mathematical reviewer owns its substantive proof audit.
+
+The consumer performed actual unknown-new-ID discovery through one provider,
+one page, one verified candidate and32 charged examination slots. Search HTTP
+cost is6,108 response/1,012 request bytes over two requests. It acquired the
+same exact packet, verified the genuine I premise and checked the native delta.
+Native stdout binds105,541-byte delta2cdef224, the returned module journal and
+the exact base parent; receipt stdout/binding bind actual receipt850c33b2 and
+I/F/P. These are real checks, not merely a provider assertion. The selected
+consumer source then successfully describes its live received warrant and
+obtains packet semantics before entering `import_context`.
+
+That new import session fails with **DeltaError:MIXED_CONTROLLER_CPU**. The
+consumer reports97.875 process CPU seconds since grant, above the unchanged90
+controller cap; preparation lifetime reports97.4375. It records one admission,
+one import session, **zero consumer author calls and zero consumer publication
+attempts**. No projection proof was attempted and no cold-client stage ran.
+The enclosing bootstrap's generic owner-nonzero failure is the consequence,
+not a distinct Lean/compiler failure. This audit establishes the boundary,
+not a measured distribution of time among all Python controller methods.
+Source diagnosis is separate; neither a limit increase nor a retry is selected.
+
+All four nested worker reports exit zero/reaped/closed with no errors: origin
+receipt7f367a31, author90c98ecf, consumer receipt a5047272 and native08373d3c.
+Their Job CPU values are respectively0.015625,1.84375,0.03125,0.015625 seconds;
+all are already included in the outer total. Router/provider/reader Node roles
+each closed with return code zero and no forced termination; HTTP provider has
+zero active tasks/failures. Both clients and their mathematical/preparation
+owners closed, revoked handles and reported no cleanup errors. Outer child
+exit one was reaped; final active/terminated processes are zero, Job closed,
+no termination requested or cleanup errors. The controller's protective refusal
+must not be relabeled dirty cleanup.
+
+Known whole-operation cost is **136.078125 CPU seconds** =135.203125 inclusive
+Job +0.875 wrapper CPU, and **141.6011761 wall seconds**. Peak Job private commit
+is545,341,440 bytes. Owner-lifetime/controller reports overlap; do not add them
+to each other or to these totals. Provider work executed in this same process
+and therefore is included here, although the general API cannot account for
+independent remote provider cost. DHT wire bytes remain unmeasured. Final census
+is **4,650,658 bytes /215 entries**, exactly the outer pre-report census plus
+its2,263-byte report. All prior failures and the full cost of this failed
+operation remain charged. This is evidence of a functioning partial public
+path and a material local-efficiency blocker, not full-v5 or net-growth evidence.

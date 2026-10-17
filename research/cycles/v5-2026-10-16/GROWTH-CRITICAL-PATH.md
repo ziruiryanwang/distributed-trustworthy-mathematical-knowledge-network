@@ -426,3 +426,53 @@ capability investment, or documented deferral with consequences. Do not silently
 select another optimizer or indefinitely substitute I-only client polishing for
 the still-required scalable certified frontier. No new experiment follows from
 this review; root owns any fresh finite source/runtime selection.
+
+## Decision update after the complete capability screen and client03
+
+Independent saved-output audits are in PRODUCT-SOURCE-REVIEW. The new evidence
+changes two priorities, without completing either central goal:
+
+1. The exact current memo A image now has a complete113-segment execution
+   capsule for the retained two-delta/one-I-premise mathematics. Its selected
+   execution cost is5.078125 known CPU seconds, not proof-production cost. The
+   reviewed stage graph is340 calls/339 prover operations. A typed-row rewrite
+   is therefore no longer justified solely as necessary to obtain a complete
+   capsule; any such investment now needs a plausible full-cost saving versus
+   the priced current graph, including rebuild/assurance/image-transition costs.
+2. Client03 reaches genuine publication, unknown-new-ID discovery and real
+   receipt/native receiving, then fails before successor authoring at its
+   unchanged90-second controller cap. Its136.078125 whole-operation CPU cost
+   greatly exceeds the nested native mathematical calls in this workload. This
+   is a concrete local-implementation blocker, not evidence that the fold proof
+   is hard or that the network needs a different mathematical foundation.
+   Source-led identification of repeated controller/setup work has higher
+   immediate value than a larger replay campaign or unexplained cap increase.
+
+Keep the investment questions separate. A working affordable client is needed
+whether or not contributions are certified. An A receipt allows cold reuse
+without replaying bounded deltas, but its fixed creation cost must still be
+amortized. For a fixed module and service horizon, compare the same semantics
+and equal local optimizations under the two routes:
+
+\[
+N\,(c_{\mathrm{native}}-c_{\mathrm{certified}})
+>
+C_{\mathrm{proof}}+C_{\mathrm{distribution}}+C_{\mathrm{retention}}
++C_{\mathrm{failed\ attempts}}+C_{\mathrm{transition}}.
+\]
+
+Here all costs use an explicit common resource measure (or remain a vector);
+N is actual or defensibly forecast eligible cold uses, not theorem count.
+The right-hand side includes unsuccessful producer work and any new verifier
+image's fixed deployment/assurance costs. If the marginal difference is not
+positive, no use count amortizes that route under this model. If it is positive,
+the inequality gives a conditional threshold, not guaranteed demand. A complete
+capsule supplies neither its proof price nor evidence for N.
+
+Do not conflate this certification comparison with the separate question whether
+network sharing beats an equally optimized ordinary shared library and local
+development. The local-controller correction should benefit all applicable
+comparators equally; handicapping the baseline with the observed redundant
+work would manufacture a growth advantage. None of these decisions selects a
+new runtime by itself, and neither saved partial client success nor execution
+capsule may be relabeled final v5.

@@ -111,3 +111,87 @@ bootstrap is not a repeat of receipt or theorem work; those calls never began.
 If a new operation reaches a later failure, its actual reached extent must be
 used before choosing another successor. The full v5 goal and affordable-frontier
 obligations remain open.
+
+## Actual02: real admission followed by an author-source namespace refusal
+
+The next operation, `product-local/v5-client-owner-runs/client-actual-02`,
+reached genuine receipt verification and constructed its import context. Its
+saved author stdout then refused the imported `open` namespace, followed by
+unknown `Tree`, `fold` and `Tree.rec`. This is not the earlier zero-stage
+failure. Its exact seed operation is
+`32e6ddf7d813b557cc208294db3a4725d0a08a4da149c6c6fd1713d3252c273b`.
+
+The saved `source-request.json` actually contains the selected base-owned
+declarations `CommonsV5.Tree`, its constructors and `Tree.rec`,
+`CommonsV5.fold`, and `CommonsV5.binary_congr`. The absent convenience is a
+registered namespace for `open`, not missing mathematical declarations.
+The existing `software/v5/authoring/API.md`, under **Names and compatibility
+envelope**, already explicitly requires qualified names and explicit recursors
+when namespace, notation, instance and attribute registries are not restored.
+The strategy violated that existing contract; the importer need not change.
+
+The selected frontend source is `authoring/native02/AuthorLean.lean`, not its
+failed-build predecessor. Its `structuredName` restores exact string/numeric
+name components, and `absoluteName` prefixes the module's exact string identity
+with `DMKN.Mod`. `addChecked` uses `addDeclCore` with `doCheck := true`.
+`installGroup` verifies both kernel and frontend constant presence with exact
+names. That constant visibility is distinct from namespace registration.
+The retained `workloads/ReceivedFoldMap.lean` uses the qualified spelling
+throughout and supplies a directly relevant established source pattern.
+
+Actual02's preserved report records one 223,594-byte I receipt attempt, one
+import session and one author call; zero publication attempts, mixed native
+admissions, search or network services. `receipt-1/binding.json` records
+`SAME_CALL_BINDINGS_VALIDATED_BEFORE_HANDLE` for the exact base and retained
+receipt hash. The subsequent successful import-context step used that live
+authority. Author preparation charged 2.90625 worker CPU seconds against its
+60-second reservation, with known closure. Controller CPU since grant is
+20.03125 seconds, inclusive of preparation controller work, not an additional
+independent total. Seed-grant elapsed time is 52.9288467 seconds. Cleanup errors
+are empty and owners are closed. The empty `phases` map means no phase reached
+its post-publication recording point, not that no mathematical work occurred.
+Outer process costs and lifecycle are independently audited by the root's
+separate reviewer; these component numbers must not be double counted.
+
+## Fresh03: naming-only correction selected and implemented
+
+Root selected exactly one new source, `software/v5/client/actual_owner03.py`,
+with unchanged `actual_assets02.py`. `Copy-Item` first made an exact fresh copy
+of02; its initial SHA-256 matched02. `apply_patch` then changed only the three
+source generators (`prefix`, `seed_source`, `projection_source`):
+
+- Remove `open DMKN.Mod.«BASE».CommonsV5` from the emitted prelude.
+- Spell each imported `Tree`, `fold`, `Tree.rec` and `binary_congr` with its
+  full `DMKN.Mod.«BASE».CommonsV5` prefix. The fixed `@BASE@` template marker is
+  replaced by the existing exact `BASE` constant, not a caller-selected name.
+- Preserve the already fully qualified discovered-module `ClientV5.fusion`
+  reference and its existing `C.digest_string` validation. Digest strings cannot
+  contain the `@BASE@` marker, so the fixed replacement cannot rewrite the
+  discovered identity.
+
+No theorem, definition, notation, instance, axiom, helper lemma or imported
+constant is added. The two mathematical declarations remain generic fusion and
+paired-fold projection with exactly the same proof strategy and obligations.
+Formatting wraps the now-long qualified expressions only. There is no namespace
+registration workaround or trusted importer/checker change.
+
+A read-only complete UTF-8 comparison confirmed identical text before
+`def prefix()` and from `def inspect_author(` to EOF. The exact `git diff
+--no-index` contains only the described generator region. All grants, evidence
+inspection, actual exported-proof-edge requirements, owner/worker limits,
+search/publication logic, and cleanup remain unchanged. No Git index/config or
+branch operation was performed. Used02 and helper02 hashes were rechecked.
+
+| Source under `software/v5/client/` | Bytes | SHA-256 |
+|---|---:|---|
+| New `actual_owner03.py` | 22854 | `5342d9e1b0f79e1a2530ecc82ef9493167996fee3bcadea535a812c86ac5912a` |
+| Preserved `actual_owner02.py` | 22523 | `6fa4f0253c0f23bbc3b6d5b4005c40d6f8b40d02251bb4b78e03e3a37f65e12c` |
+| Reused `actual_assets02.py` | 10743 | `4ec62954467e9c2a62a66ffeb4f1ec945b6d33cbe1ae7b484cc1a2869c0b2c69` |
+
+This assignment executed/imported/compiled no product or test code. Root owns
+the fresh03 selection and launch after independent changed-boundary review.
+Do not rerun actual02 or erase its successful receipt/failed-author evidence.
+A fresh operation still requires a genuine new live admission of the retained
+I receipt because actual02's owners are closed: a saved report cannot recreate
+mathematical authority. This is receipt verification, not new receipt production,
+and the failed author work remains charged and visible.

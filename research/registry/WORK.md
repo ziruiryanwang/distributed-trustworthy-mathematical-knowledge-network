@@ -4,6 +4,28 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-16 after actual capsule PASS: memo_tests_review owns fresh
+software/v5/aggregate_production/__init__.py and producer.py implementing the
+existing corrected AGGREGATE-PRODUCER-PLAN, checkpoint
+cycles/v5-2026-10-16/AGGREGATE-PRODUCER-IMPLEMENTATION.md. Source only, no tests,
+build/proofs/funding. memo_independent_review owns CLIENT-CONTROLLER-COST design;
+v5_growth_decision finishes actual03/capsule audits then challenges atomic-import
+boundary. Root owns source selection/integration/controls/launch decisions/Git.
+
+2026-10-16 parallel frontier source: memo_independent_review owns only fresh
+aggregate_host/capability_snapshot.py plus a short implementation appendix in
+FRONTIER-CAPABILITY-CHOICE.md. v5_growth_decision independently reviews its exact
+delta and future selector while owning client03 actual audit. Root owns new
+Select-FrontierCapability01.ps1/configuration and any launch/Git. No proof or
+build authorized. memo_tests_review owns client03 math outcome when terminal.
+
+2026-10-16 actual03 source: memo_independent_review owns only fresh
+client/actual_owner03.py source-name correction and CLIENT-ACTUAL-RECOVERY;
+v5_growth_decision owns actual02 audit and03 source/plan review; memo_tests_review
+owns actual mathematics extent/qualification and FRONTIER-CAPABILITY-CHOICE
+source decision (no runtime). Root owns fresh selector, finite launch and Git.
+Keep actual_assets02 and every used predecessor immutable.
+
 2026-10-16 actual01 recovery: root owns fresh plan02, selection, launch and Git;
 memo_independent_review owns only fresh client/actual_assets02.py and
 actual_owner02.py plus CLIENT-ACTUAL-RECOVERY.md. Exact predecessor copies,

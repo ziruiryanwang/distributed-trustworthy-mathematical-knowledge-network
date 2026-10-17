@@ -1,5 +1,75 @@
 # Current research desk
 
+**2026-10-16 complete frontier capsule actual PASS adopted.** Independent audit
+matches all8 source/snapshots/29pins, exact wire/header/image/genuine-I bindings,
+113 consecutive segment files and complete37,187,089-byte capsule79963069.
+Observed rows59,244,544/padding2,837,968/instructions81,348,253. Clean closure,
+5.078125 known CPU/4.5920526 wall seconds; zero proofs. This removes the missing
+complete-execution-layout obstacle, not certificate production/affordability.
+Reuse this capsule; no guest rerun or further optimizer selected. Root selects
+SOURCE implementation of the already-reviewed aggregate producer contract in
+AGGREGATE-PRODUCER-PLAN, with actual s113/m1 (340 host stages if funded). No build,
+proving, stage funding or release acceptance follows. Client atomic import
+design remains the immediate software bottleneck, investigated in parallel.
+
+**2026-10-16 capability execution selected once.** Independent exact review
+clears85555faa0313c26919800a8974c81f55e3add29f7d8892cd095314b0b94c02ef,
+8sources/44217bytes and29runtime/data pins; configd4d9751b. Client03 is terminal,
+so root now launches the separately bounded2^26/po219/stats execution. No proof,
+guest rebuild or automatic continuation. Same adopted memo image and mathematics.
+In parallel, source diagnosis found per-group repeated owner/install scans in
+client imports; compare one atomic data-only import boundary before new runtime.
+
+**2026-10-16 client03 terminal: seed contribution progressed, controller limit
+blocked reuse.** Session65536 is reaped/closed with no forced termination;
+135.203125 Job +0.875 wrapper CPU,141.6011761 wall seconds. Seed source/export/
+publication progressed; consumer acquired it and reached import-context work
+before `MIXED_CONTROLLER_CPU`. No successor author or cold phase. Independent
+mathematical/operational extent audits remain in progress. Preserve the seed
+packet and use it in any later fresh continuation; do not reauthor it merely
+to rerun the loop. Root selects source-only repeated-controller-work diagnosis,
+not a cap increase. Affordable frontier capability selection is independent and
+will launch only after exact review, now that this Job is closed.
+
+**2026-10-16 frontier capability source selected in parallel.** Root adopts
+FRONTIER-CAPABILITY-CHOICE's value-of-information argument: one complete-layout
+opportunity has higher immediate decision value than an unpriced typed-row
+rewrite. Select fresh aggregate_host/capability_snapshot.py as exact snapshot.py
+successor with 2^26 rows/po2=19/stats and honest capability-only report scope;
+same memo image, mathematics, I receipt, 128 segments/64 MiB segments and capsule,
+144 MiB/160 evidence entries, inner120 seconds, outer180 CPU/240 wall/3072 MiB/
+three processes. No guest/checker build, proof allowance, cap ladder, speedup or
+profit claim. Root owns exact fresh configuration/selector; independent source/
+selection review precedes one launch. Client03 continues in its separate finite
+Job. This is not a relaxation of mathematical acceptance or final-v5 criteria.
+
+**2026-10-16 client03 exact launch selected.** Root adopts independent source/
+selection clearance: plan75d36efe15ad634c8e98c49938a647e602d4c3a789dbaef5fab6fe1da9b49b66,
+85 sources/872438 bytes, only owner source-name generators changed. Same
+600 CPU/900 wall/2048 MiB/eight-process limits; one fresh operation, no proof
+production or guest execution. Actual01/02 failures remain preserved/charged.
+
+**2026-10-16 client03 source correction selected.** Existing authoring/API.md
+already states that namespace/notation registries are not reconstructed module
+descriptors. Source request contains exact imported constants, but strategy02
+incorrectly used `open` on their unregistered namespace. Select only fresh
+actual_owner03.py: remove that open and explicitly qualify the same Tree/fold/
+Tree.rec/binary_congr constants; retain exact discovered fusion reference,
+actual_assets02, checking rules, grants and all other workflow code. No frontend
+or mathematical change. Independent changed-boundary review then a fresh plan
+precede runtime. Actual02's verified base receipt and failed author costs stay
+preserved; a new owner must still obtain fresh authority, not deserialize a
+saved handle. No component suite or old proof campaign is selected again.
+
+**2026-10-16 client02 terminal authoring refusal.** Session38201 is reaped,
+COMMAND_FAILED with clean closure: 24.09375 Job CPU + 0.515625 wrapper CPU,
+55.3076882 wall seconds. The base receipt path ran, but first Lean authoring
+refused unknown imported namespace/Tree/fold, leaving no export/publication.
+No network or successor phase ran. Source-only diagnosis checks exact restored
+constant names versus Lean namespace metadata; root has selected no retry or
+trusted-import change. Used02 source/plan/evidence stay frozen. Independent
+lifecycle/math reviews and the separate frontier-capability decision continue.
+
 **2026-10-16 client02 exact recovery launch selected.** Independent review clears
 plan d0b801146563c6302f6bdb5120fb53cc29e6e3f4d37fab8db4ddd4d3da495ab3,
 85 sources/872107 bytes with only the two recorded minimal successor changes.
