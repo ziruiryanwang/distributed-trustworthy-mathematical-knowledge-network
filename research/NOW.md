@@ -1,5 +1,36 @@
 # Current research desk
 
+**2026-10-17 certified-terminal software checkpoint adopted.**
+Independent actual audit b92252a7 confirms all ten controls,95source/snapshot
+bindings and74import origins, clean closure,2.875knownCPU/4.2322765wall. Full
+checkpoint TERMINAL-RESULTS.md; used bytes frozen, no runtime. Same-target
+terminal dissemination now exists in the ordinary client; synthetic controls
+do not establish real A or growth benefit. Continue source-led po18 producer
+decision and one genuine public reuse gate, not another control-suite replay.
+
+**2026-10-17 terminal controls completed once, actual audit pending.**
+Exact ae272299 plan reports ten PASS/no errors/skips, clean exit and zero
+active/terminated processes. Known2.875CPU/4.2322765wall seconds. Synthetic
+issuers and inert exchange/search: not genuine A or network evidence. Used
+source/plan/selector/results freeze. Next source-only decisions run in parallel:
+feasible po18 producer successor and the eventual genuine same-target terminal
+discovery/import/extension/offline-custody gate. No proof/native launch selected.
+
+**2026-10-17 two-form source implementation selected and under review.**
+TERMINAL-IMPLEMENTATION-SELECTION.md assigns fresh evidence_network packet/
+custody/transport, workspace_evidence/API, root ten focused controls and an
+independent review. One query/budget accepts unchanged mixed evidence or an
+exact certified terminal; detached semantics are retained before publication.
+No runtime is selected yet. Frozen mixed/I-only sources and all used evidence
+remain unchanged. The full deployable v5 objective remains active.
+
+**2026-10-17 uninterrupted v5 continuation: certified-target dissemination.**
+Guard passes; full goal active. Root selects concrete terminal evidence/custody/
+client design and independent target-preservation/budget/growth review under
+cycles/v5-2026-10-17/TERMINAL-SELECTION.md. Three disjoint agents; root source
+mapping/integration. No new runtime/proof or old-test repeat. This addresses the
+documented lastdelta-only transport gap; implementation follows exact contract.
+
 **2026-10-16 ordinary A client and16 focused controls adopted.** New mixed
 workspace/API is implemented; all16 synthetic controls pass independent actual
 audit with exact89-source/68-import bindings and clean closure. Known new cost

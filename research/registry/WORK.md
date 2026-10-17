@@ -4,6 +4,28 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-17 next central work while terminal actual audit completes:
+memo_tests_review owns source-only PRODUCER-NEXT-DECISION.md (concrete po18
+successor/resource and manifest design reusing prior memory/count analyses);
+memo_independent_review owns source/data-only GENUINE-TERMINAL-GATE.md (one
+actual fixed-target public reuse gate over retained mathematics, no duplicate
+network campaign); v5_growth_decision audits saved ten-control result in
+TERMINAL-REVIEW.md. No proof/build/native call selected. Root owns adoption/Git.
+All checkpoints under research/cycles/v5-2026-10-17 at canonical root.
+
+2026-10-17 implementation: memo_tests_review authors fresh evidence_network
+package; memo_independent_review authors workspace_evidence/API; root authors
+ten focused controls/selector; v5_growth_decision independently reviews sources
+and later finite selection. Exact scope in TERMINAL-IMPLEMENTATION-SELECTION.md.
+Canonical root/checkpoints unchanged. Source-only; no runtime or old-suite replay.
+
+2026-10-17 terminal route: memo_tests_review owns TERMINAL-DESIGN.md;
+memo_independent_review owns TERMINAL-CLIENT.md; v5_growth_decision owns
+TERMINAL-REVIEW.md, all in research/cycles/v5-2026-10-17 under canonical root
+E:\Distributed Trustworthy Mathematical Knowledge Network. Source design only;
+root owns implementation selection, launch decisions and Git. No prior tests,
+guest/proof or native calls repeat. See TERMINAL-SELECTION.md for concrete gate.
+
 2026-10-16 public A assignment complete: author/source/API,16 focused controls,
 independent source/exact-plan/actual audit and root adoption are terminal.
 No agent or runtime remains active from this selection; do not repeat controls.
