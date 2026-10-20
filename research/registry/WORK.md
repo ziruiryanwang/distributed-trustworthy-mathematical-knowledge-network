@@ -4,6 +4,20 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 conjunction outcome16383e56 adopted; all prior pair assignments
+complete, no runtime. CONSOLIDATION-SELECTION: core_search fresh builder/example/
+docs under software/v5/distribution_coherent; core_release disjoint installed
+integration adapter and review there; core_growth BENEFIT-WORKLOAD-DECISION.md
+source/theory only. Root owns selection, ledgers, launcher and explicit Git.
+No replay of passing mathematical/proof campaigns or RAM work.
+
+2026-10-20 CONJUNCTION-SELECTION: core_search owns four discovery successors;
+core_growth three client successors and CONJUNCTION-INDEX.md; core_release
+independent review/controls.py. Fresh root software/v5/conjunction_index only.
+Explicit finite pair profile, schema/namespace, first eligible pair contraction;
+preserve default exact identity. Root owns selector/launch/adoption/Git. Source
+work only; no old test, native/proof/network/RAM or distribution campaign.
+
 2026-10-20 withdrawal actual outcome79a87291 adopted, 11 controls and six genuine
 denials complete; no runtime lives. Root owns explicit reviewed Git checkpoint.
 core_growth: research/cycles/v5-2026-10-20/GROWTH-OPERATING-REGION.md;

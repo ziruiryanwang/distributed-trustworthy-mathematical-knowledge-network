@@ -18,6 +18,38 @@ declaration continuation. Do not overwrite those with predecessor overlays.
 
 ## Current work
 
+**2026-10-20 pair-index outcome adopted; coherent integration selected.**
+Root read/adopts CONJUNCTION-OUTCOME16383e56: nine controls pass, same-corpus
+atomic scans5/8 versus pair1, 1.671875 known CPU/3.7862475 wall seconds, clean
+closure. Structural/inert evidence only, not mathematical growth. No rerun.
+The preceding user-requested status turn made no implementation progress;
+resume actual integration, not another readiness assessment. Source-only
+CONSOLIDATION-SELECTION adopts the existing-builder seam c75187c8: eleven SDK
+replacements plus trust helper, explicit adoption/reopen, compatible example.
+Root owns Git/build selector; core_search integration source; core_release
+disjoint installed-boundary adapter/review; core_growth analytical workload
+selection for positive full-cost benefit. No proof/RAM/network campaign.
+
+**2026-10-20 one focused pair-index control run selected.**
+Root reads all changed source diffs and controls29ad0794; independent product,
+adjacent-client and control reviews pass. Exact selectionc0942a61 binds125
+sources and19 unchanged runtime pins, nine tests, 60 CPU/90 wall seconds.
+Only real structural Store/query/workspace data and inert client call seams;
+no native verification, proof production or external network. Hot-posting
+fixture has synthetic IDs, same corpus and explicit extra storage; it is not
+mathematical growth evidence. Used sources/selector/inputs freeze on execution.
+No rerun or expanded allowance is selected. core_search audits saved results.
+
+**2026-10-20 materialized-pair discovery implementation selected.**
+CONJUNCTION-SELECTION adopts finite-capacity growth reasoning and the actual
+hot-atomic-list obstruction. Fresh software/v5/conjunction_index successors:
+core_search adapter/schema/store allowlists; core_growth evidence workspace
+and both ordinary query callers; core_release independent review/controls.
+At most eight explicit atomic pairs, new bound namespace/schema, deterministic
+first eligible pair contraction, old defaults unchanged. No generic planner,
+global demand ledger, proof production, RAM work or runtime is selected yet.
+Trust-withdrawal work is preserved at commit9ee491f. Full v5 remains open.
+
 **2026-10-20 withdrawal integration complete; central growth/search decision.**
 Root reads/adopts saved outcome `79a87291`: exact 110 source pins, one genuine
 BASE receipt admission plus a cache hit, six intended withdrawal denials,
