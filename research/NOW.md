@@ -1,5 +1,30 @@
 # Current research desk
 
+**2026-10-20 actual demanded-semantics reuse adopted; split custody selected.**
+Root read/adopts independent final audit `8f26851b`: the one retained-packet
+operation reached live READY, with real I and two native checks, two selected
+modules / nine groups / twelve declarations / nine bodies. It made 23 HTTP
+requests (25 charged including prepaid search), with no request added during
+local admission/import. Whole known CPU 34.578125 seconds, wall 78.7354733,
+clean closure; no repeat is needed. Used sources/results stay frozen.
+The next source-only increment removes the single-provider semantic-closure
+assumption through explicit already-authorized supplier choice. See current
+cycle SPLIT-CUSTODY-SELECTION.md. No RAM investigation, new proof, broad
+campaign or complete installation rebuild is selected. Genuine aggregate
+certification, full-cost growth and final release remain unfinished.
+
+**2026-10-20 one actual demanded-semantics operation selected.**
+Root and independent reviewer clear adapter `5b8eba79` (exact `...86fdcf...`),
+selector `09268d91` and generated plan `768c80f3`: 105 source files,
+1,177,925 bytes, exact source census. Reuse installed runtime/assets and retained
+packet `6998ba92`; only staging replacement/helper/new owner change. Original
+contributor DB is never opened. Select this operation once under its prospective
+32-request / 90-controller-CPU / 120-grant-wall envelope, outer 105 CPU /
+150 wall / 512 MiB, one I plus two native checks reserved. Source selection's
+mistyped prose hash was refused before any output and corrected without source
+change; no mathematical retry occurred. Require actual demands, one packet
+admission and live READY; no new proof or authoring is selected.
+
 **2026-10-20 semantic controls independently adopted.**
 Root read/adopts review `f03e356b`: all 88 source/snapshot identities and 19
 runtime pins match, sixteen controls pass, clean closure; unexecuted01 differs

@@ -14,6 +14,10 @@ are in `../../research/cycles/v5-2026-10-07/PLAN.md` and `DECISIONS.md`.
 - [Evidence client API](client/API-EVIDENCE.md) and
   [demand-only staging](client/STAGING.md): acquire, verify and reuse selected
   mathematics through the existing exact owners.
+- [Caller-directed semantic reader](client/SEMANTIC-READER.md): acquire only
+  demanded declarations and computation bodies, select members already carried
+  by a packet, then admit that packet once through unchanged verification.
+  Requires the explicitly selected staging-member source overlay.
 
 - `modules/`: new certified declaration/import/demand relation.
 - `discovery/`: formal-feature index, committed snapshots and bounded queries.

@@ -4,6 +4,14 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 source-only split-custody increment selected in the current cycle's
+SPLIT-CUSTODY-SELECTION.md. core_search owns fresh supplier-selected client/
+helper successors and implementation note; core_growth owns disjoint controls
+and minimal retained-data actual adapter/plan; core_release completes the
+semantic actual audit then reviews the new boundary. Root owns integration,
+finite launches/adoption and Git. No RAM investigation, new proof, whole
+installation rebuild or passing-workflow replay. Used predecessors are frozen.
+
 2026-10-20 controls02 passed once; helper/staging/test bytes now freeze.
 core_release owns actual control audit then new-adapter review. core_search
 owns source-only client/semantic_check.py and SEMANTIC-ACTUAL-ADAPTER.md;
