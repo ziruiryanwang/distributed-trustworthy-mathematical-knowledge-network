@@ -1,5 +1,59 @@
 # Current research desk
 
+**2026-10-20 native complete-closure option independently adopted.**
+Actual02 `b0454a20` passes final independent source/output audit: one real native
+call, zero assumptions, three exact member journals including the unchanged
+projection target, then token revocation and clean closure. Known whole CPU
+1.3125 seconds, wall 1.5337696 seconds. Nineteen controls passed separately;
+failed actual01 remains failed and charged. No run remains live or is repeated.
+The ordinary verification component is usable, but it is not semantic READY,
+ancestry-independent certification or a net-growth comparison. Next source-only
+decision assesses a thin native semantic-view seam using the existing pure
+builder; do not expand mixed authority types or start a new benchmark framework.
+
+**2026-10-20 image-only preparation successor cleared and selected.**
+Root adopts source/map review of adapter `94ab3444` and plan `b0454a20`.
+Select actual02 once under unchanged limits. It binds only the known rank-zero
+base image placeholder to the adopted relation, preserves all mathematical
+values and exact descendant journals, and requires fresh checking of all three
+members. This follows the existing preparation convention; no checker, owner,
+binder or receipt changes. Failure01 remains failed and charged. No control
+suite, build, proof or memory campaign is repeated.
+
+**2026-10-20 native actual01 refused safely; resolve preparation, not memory.**
+The adopted native driver refused `member fixed relation profile`: retained
+rank-zero V2 preparation input has an all-zero image field, whereas the selected
+parents and current relation use `9dfd5892`. No handles or binding were produced.
+Outer closure is clean; known CPU 0.796875 seconds, wall 1.7306754 seconds.
+Keep actual01 and every used source/input frozen. Source reasoning now checks
+whether a fresh adapter may bind only this uninitialized metadata to the adopted
+relation while preserving all mathematical values and the exact target. No
+checker change, repeated controls, proof production or RAM work is selected.
+
+**2026-10-20 nineteen native-owner controls pass; select one actual check.**
+All nineteen tests passed, with clean outer closure and unchanged snapshots.
+Known CPU is 1.578125 seconds, wall 1.9838807 seconds. Root selects prepared
+`caa49ae4` once: unchanged retained base plus two deltas through the adopted
+native executable, no receipts, same exact final target journal. Outer ceiling
+55 CPU / 75 wall / 384 MiB; inner 30 CPU / 45 wall / 256 MiB. Used owner,
+binder and control sources freeze. Independent outcome audit proceeds in parallel.
+This is a verification-component check, not full semantic READY or net growth.
+
+**2026-10-20 native-owner source cleared; one small control run selected.**
+Root adopts NATIVE-CLOSURE-SOURCE-REVIEW for owner `dad77542`, binder `c550d57d`
+and nineteen controls `b6fd7103`. Select `d91575b7` once: twelve sources,
+eighteen retained runtime pins, 20 CPU / 60 wall seconds / 128 MiB. No native,
+network or proof call occurs in these explicitly inert controls. Actual plan
+`caa49ae4` is prepared but awaits this outcome; no RAM probe or rebuild.
+
+**2026-10-20 economical native closure selected, no RAM investigation.**
+The empty-assumption DAG argument passes independent principle review. Root
+selects only a distinct native owner/binder and focused controls under current
+cycle NATIVE-CLOSURE-SELECTION.md. Reuse the adopted checker and supervision;
+no new proof, guest, rebuild or broad test campaign. Ordinary checking is an
+optional small-DAG route and honest comparator, not a replacement for certified
+ancestry cutoff. Full v5 remains active.
+
 **2026-10-20 one layout go/no-go deferred; switch immediately to comparator.**
 The unchanged A-layout guard returned DEFER_NO_POLLING at 19:05:17 UTC.
 No runner, layout, proof or build ran and no output was created. No repeated

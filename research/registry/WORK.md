@@ -4,6 +4,21 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 native closure implementation and nineteen controls plus actual02
+have independent passing audits; failed actual01 remains preserved. Root owns
+adoption/Git; no runtime lives. core_growth now owns only a concise native
+semantic-context feasibility decision appended to OPTIMIZED-COMPARATOR-DECISION,
+not implementation. core_search completed actual outcome audit. core_release
+finished controls. No RAM investigation, build, proof or repeated test selected.
+
+2026-10-20 split-supplier increment is complete and committed. The current
+selection is NATIVE-CLOSURE-SELECTION.md: core_growth owns the new native
+closure binder/owner, core_release its disjoint focused controls, core_search
+independent changed-boundary review; root owns integration and finite launches.
+No memory investigation or cryptographic production is selected. Adopted
+checker/supervisor/graph evidence is reused, not rerun. Source paths and
+checkpoint destinations are explicit in the selection.
+
 2026-10-20 source-only split-custody increment selected in the current cycle's
 SPLIT-CUSTODY-SELECTION.md. core_search owns fresh supplier-selected client/
 helper successors and implementation note; core_growth owns disjoint controls
