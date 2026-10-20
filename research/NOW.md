@@ -18,6 +18,47 @@ declaration continuation. Do not overwrite those with predecessor overlays.
 
 ## Current work
 
+**2026-10-20 withdrawal integration complete; central growth/search decision.**
+Root reads/adopts saved outcome `79a87291`: exact 110 source pins, one genuine
+BASE receipt admission plus a cache hit, six intended withdrawal denials,
+preserved charges, cleared caches and clean closure. Known CPU 5.203125 seconds;
+wall 6.9224605 seconds. No rerun or live experiment. The fresh withdrawal SDK
+successor is tested, not yet incorporated into the installed distribution.
+The preceding status-only turn added no implementation; resume the available
+core work rather than repeat the status assessment. core_growth owns
+GROWTH-OPERATING-REGION (capacity, failure, retention and full-cost conditions);
+core_search owns GROWTH-DISCOVERY-SEAM (actual missing useful-query selectivity).
+Both are source/theory-only; existing rare-anchor conjunction planning is already
+implemented. No new calculator, RAM inquiry, proof funding or repeated demo.
+Root selects consequential implementation only after this cross-lane decision.
+Full final-v5 obligations remain active and incomplete.
+
+**2026-10-20 genuine receipt-withdrawal integration selected once.**
+Root reads/adopts controls outcome4bf0859c (11 passes, 1.515625 known CPU /
+5.3703374 wall seconds) and actual source review0e08d3e8. Fresh plan84c054ad
+selects110 sources and unchanged binary assets; 120 CPU/180 wall seconds,
+one genuine BASE receipt with10 CPU reserved, a cache hit and six expected
+withdrawal refusals. No new theorem/proof/author/network call or full binary
+copy. Explicit initial adoption is separate from ordinary reopen. Used source,
+selector and plan freeze; actual result is pending, not a full-v5 release.
+
+**2026-10-20 eleven withdrawal controls selected once.**
+Root adopts independent product review7a8a03ea and reads final controls748bd8bd,
+including exact-negative errors and the added unregistered-binding refusal.
+Run the existing small-check supervisor once: 30 CPU/60 wall seconds/256 MiB,
+117 source pins and unchanged runtime pins; no subprocess/native/proof call.
+The first selector refused a stale controls hash before creating any output;
+it was not a test run. Final used inputs freeze now. Actual one-receipt adapter
+and selector are source-only pending these controls and independent review.
+
+**2026-10-20 persistent withdrawal implementation selected.**
+Root adopts DESIGN3132ddc7/SOURCEb37a7675 and records TRUST-WITHDRAWAL-SELECTION.
+Four fresh core overlays under software/v5/trust_withdrawal: core_growth owns
+persisted domain and I/A issuer gates; core_search owns runtime/adoption flow;
+core_release independent source review and targeted controls. Existing live
+cache/session/postworker propagation is reused. No execution or proof selected.
+Keep the full v5 goal active; no RAM investigation or repeated passing campaign.
+
 **2026-10-20 execution capsule adopted; switch to live trust withdrawal.**
 Root read/adopts snapshot audit `e0861ba9`: complete exact-J child capsule,
 51 segments / one genuine parent assumption, 2.1875 known CPU / 2.1157676 wall

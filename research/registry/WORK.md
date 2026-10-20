@@ -4,6 +4,19 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 withdrawal actual outcome79a87291 adopted, 11 controls and six genuine
+denials complete; no runtime lives. Root owns explicit reviewed Git checkpoint.
+core_growth: research/cycles/v5-2026-10-20/GROWTH-OPERATING-REGION.md;
+core_search: research/cycles/v5-2026-10-20/GROWTH-DISCOVERY-SEAM.md.
+Source/theory only, coordinate one actual missing seam, not duplicate planner,
+cost ledger, certification or passing pipeline. core_release available for
+independent challenge after these recommendations; no new audit campaign yet.
+
+2026-10-20 TRUST-WITHDRAWAL-SELECTION: core_growth fresh trust helper/I+A owners;
+core_search runtime/adoption flow; core_release independent review/controls;
+root source-map/launch/adoption/Git. Design/source agreement adopted. Source
+only until review and finite launch selection; no RAM/proof/old-run work.
+
 2026-10-20 snapshot audit e0861ba9 adopted; no runtime or proving selected.
 TRUST-WITHDRAWAL source/design: core_growth concise invariant/API/persistence
 boundary; core_search exact current-source minimal scope. No source edits
