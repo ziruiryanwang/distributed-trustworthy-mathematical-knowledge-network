@@ -4,6 +4,22 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 actual repaired-install audit is adopted and stable (`4e2b20af`).
+core_search owns the fresh staging_members/workspace_staged.py overlay and
+unused semantic_reader helper/docs; core_growth owns only their targeted inert
+controls; core_release independently reviews the exposed-member boundary in
+SEMANTIC-READER-REVIEW. Root owns design selection, future exact runtime
+selection, integration and Git. No runtime, proof, RAM study or reinstall is
+currently selected. All paths are under the sole canonical root.
+
+2026-10-20 repaired installed reader and contributor terminal PASS, no live
+runtime. core_release audits actual current I/native/output/dependency/
+publication evidence, then owns SEMANTIC-READER-REVIEW.md. Fresh selected
+source work: core_search owns client/semantic_reader.py and its API docs;
+core_growth owns helper-specific inert controls after coordinating the API.
+Root owns final adoption, exact future test/integration selections and Git.
+Full v5 and scalable aggregate certification/growth/release gates remain open.
+
 2026-10-20 two repair control suites terminal PASS with independent audits.
 Source authors core_search/core_growth finished their disjoint source/test
 assignments. Root owns exact input03/build03 and fresh installed-call selection,

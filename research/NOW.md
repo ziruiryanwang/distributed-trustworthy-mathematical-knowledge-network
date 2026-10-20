@@ -1,5 +1,55 @@
 # Current research desk
 
+**2026-10-20 installed outcomes adopted; semantic-member gap selected in source.**
+Root adopts the stable independent repair audit `4e2b20af`: full installation,
+ordinary reader READY and checked contributor publication pass within unchanged
+budgets. Their inputs/evidence remain frozen; no runtime is live. No further
+RAM study or unchanged replay is selected. Source review of the next bounded
+semantic reader found that packet-internal I/delta members are invisible to
+old preview; demanding a separate packet for them can dead-end ordinary reuse.
+Select only a fresh staging-member overlay plus the unused explicit helper and
+targeted inert controls; see SEMANTIC-READER-SELECTION. Preserve unchanged real
+admission/import and single admission per packet. Full v5 is unfinished.
+
+**2026-10-20 both repaired installed workflows pass; outcome audit underway.**
+Reader `9e0f1e7e` returned COMPLETED/READY with actual I/native checks,
+12 groups / 15 declarations and zero frontend ancestral theorem-proof bytes.
+Controller CPU 14.890625 seconds is within the original 30-second cap;
+known whole-attempt CPU 19.609375, wall 35.2549433 seconds. Contributor
+`4bec7a14` returned COMPLETED/CONTRIBUTED: actual input admission, relocated
+Lean authoring, output admission and local publication of module `6ea8fa60`.
+Known CPU 36.96875, wall 40.4323397 seconds, peak private commit 532,041,728
+bytes. Both outer Jobs/owners/workspaces closed cleanly. No A check or new
+cryptographic proof was produced; full v5 remains unfinished. core_release
+audits the actual mathematical bindings and substantive dependency/publication.
+No run remains live and neither passing workflow is to be repeated.
+
+**2026-10-20 repaired installation adopted; fresh ordinary calls selected.**
+Root adopts the full independent build03 audit: every selected payload hash,
+exact census, 587-file base role, 3,245 Lean support artifacts and all SDK/
+preparation roles match. Fresh requests `9e0f1e7e` and `4bec7a14` independently
+match their predecessor requests after allocation-path substitution only;
+all five caller pins match, workspaces/runs are fresh. Select both calls once
+concurrently through the installed public entry under their unchanged outer/
+inner limits. Require actual reader READY and output-checked CONTRIBUTED,
+not merely process exit zero. No new certificate production or RAM study.
+
+**2026-10-20 build03 terminal PASS; installation outcome audit pending.**
+Plan `6153ba4c` completed file construction and exact verification once:
+3,951 payloads / 712,019,419 bytes; release digest `3b7a8f8f`.
+Known CPU 14.015625 seconds, wall 60.9143643 seconds, peak Job private commit
+41,078,784 bytes, clean nonforced closure. This is not a controlled speedup
+ratio against a different package. No runtime remains live. core_release
+checks the new installed map/closure; root will stage the unchanged-mathematics
+reader and contributor against this successor only after adoption.
+
+**2026-10-20 build03 live after exact-map clearance.** Root adopted the compact
+input/plan audit and launched the one selected file build `6153ba4c`,
+session 77314, with its original limits. No other runtime is live. Root and
+core_release will inspect its actual outcome; no automatic retry or larger
+allowance follows failure. core_search separately checks the next concrete
+public reciprocal-use seam in source, without another campaign or cost model.
+
 **2026-10-20 both repair control suites pass; exact build03 prepared.**
 Eleven pin-phase controls (`64648903`) and seven complete-runtime/projection
 controls (`4da48bf2`) passed once and are independently audited. Known total

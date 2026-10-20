@@ -7,9 +7,11 @@ Reviewer: `core_release`. Canonical project root:
 
 This is the new review for `INSTALLED-REPAIR-SELECTION.md`. The predecessor
 `DISTRIBUTION-REVIEW.md` and `CONTRIBUTOR-REVIEW.md`, the failed installed
-operations, and the used installation remain unchanged. This reviewer has
-performed source inspection only: no execution, proof, broad test campaign,
-installation rehash, budget increase or retry.
+operations, and the predecessor installation remain unchanged. This reviewer
+performed source and saved-output inspection, one new-installation hash/census
+audit, and read-only inspection of the closed publication databases. The
+reviewer launched no mathematical workflow, test, build, proof, budget
+increase or retry, and did not rehash a predecessor installation.
 
 The selected boundaries are:
 
@@ -19,11 +21,10 @@ The selected boundaries are:
 - A separately selected synchronous runtime-pin deduplication successor, owned
   by `core_search`, scoped to `MixedImportSession._live`.
 
-Current disposition: **source review permits narrow controls, not runtime or
-release acceptance**. No source blocker has been found in the distribution
-projection/support-map, retained-source selector, or scoped pin-phase
-implementation. Final control source/map review and actual results remain
-separate gates.
+Final disposition: **PASS for the exact repaired installation and both
+selected installed workflows under unchanged limits; not full-v5 release
+acceptance**. The sections below preserve the progression from source review
+through narrow controls, exact build adoption and actual mathematical use.
 
 ## Why these are consequential repairs
 
@@ -322,10 +323,264 @@ authorized by this pass. The two changed-boundary suites together consumed
 1.765625 known CPU seconds; an installed successor and actual mathematical
 loop remain separate evidence obligations.
 
-## Pending checks
+## Generated input03 and prospective build: PASS for selection
 
-- Review the new selected input/source-closure record and a separately
-  selected file-only build when root provides their exact identities.
-- Record build and installed outcomes only after root selects them and the
-  saved outputs exist. No repaired-install acceptance follows from these
-  source and pure-control passes.
+Root generated the new inputs without compiling, proving or building.
+The reviewer independently hashed the four small records:
+
+| Record | SHA-256 |
+|---|---|
+| `distribution-03-input.json` (1,278,297 bytes) | `d71ab60ff1be199e86278fa10fe9a84a6161b822343ad90a35594d0e98a40042` |
+| `distribution-03-source-closure.json` | `e42072880912909f4863cc5d7d310c03dc235bbcec992c5d262f872d5dc32d01` |
+| `distribution-03-sdk-overrides.json` | `743b1870093dcd24a5dd488a5f6085d3cf3a8e9d6066b09a36ffcff31f0312b3` |
+| `distribution-build-03-selection.json` | `6153ba4c5a63cd612445693877192f59d3332d88bd585297696627b82e16623d` |
+
+Compact parsed-record comparison with input02 confirms:
+
+- Base root, base manifest, preparation template, all six external assets,
+  aggregate image and the six minimum Lean runtime pins are unchanged.
+- Of the old 102 SDK rows, exactly three change to the reviewed successors;
+  the other 99 remain unchanged. The exact reviewed `admission/pin_phase.py`
+  is the only added row, yielding 103 SDK sources. All four override paths,
+  byte lengths and digests agree with the explicit override record.
+- The new support graph has 649 reachable Init nodes and no absent edge
+  target. Its exact 3,245 file names are the five artifact classes per node.
+  Every graph row agrees with the sidecar's header imports after
+  flag-independent deduplication.
+- The sidecar binds the exact new input and reviewed selector; its retained
+  source-graph fingerprint matches `ecbece96...`.
+- The selected base projection contains 587 payloads/30,536,285 bytes.
+  The complete support map totals 389,437,304 bytes.
+
+The build selection snapshots only the reviewed builder and retained bounded
+runner, pins input03, targets the fresh
+`product-local/v5-distribution-03/Mathematical Commons v5` directory, and
+retains 60 CPU seconds/180 wall seconds/128 MiB/two processes. The target
+was absent at review. No independent build was launched.
+
+This review deliberately did not rehash all 3,245 retained support inputs:
+the selector already pinned them and the actual builder must verify them
+while copying. This is prospective map/adoption clearance only, not evidence
+that an installation exists or that the authoring path works.
+
+## Actual build03: PASS for exact installation
+
+Root executed the selected file-only build once. The reviewer inspected its
+terminal report, exact command and stdout, verified both original/snapshot
+source pairs, and independently checked the new installation:
+
+`product-local/v5-distribution-03/Mathematical Commons v5`.
+
+The release manifest SHA-256 is
+`3b7a8f8f0d6379f7df0e33c50f08e8118face909f6b878b40af3a28c187cec31`.
+Its exact V2 schema, base role and build-input digest agree with the selected
+input03. The actual map agrees with:
+
+- All 587 base-projection payloads, plus the unchanged fixed manifest.
+- All 103 selected SDK sources and their exact installed keys.
+- All six unchanged external asset roles.
+- All 3,245 selected Lean support artifacts and the identical support graph.
+- Six minimum Lean worker pins and 82 preparation source pins.
+
+The reviewer streamed/hash-checked each of the 3,951 installed payloads
+**once**, totaling 712,019,419 bytes, with zero size/hash failures. The
+independent census found exactly 3,952 files including the release manifest,
+181 descendant directories and no reparse entries. No predecessor package
+or retained support tree was rehashed.
+
+The build child exited 0 with no forced termination. Its direct child was
+reaped, the Job closed, final active processes were zero, and cleanup errors
+were empty. Known CPU was 14.015625 seconds = 13.640625 Job + 0.375 wrapper;
+wall was 60.9143643 seconds; peak Job private commit was 41,078,784 bytes.
+All are within the original 60 CPU/180 wall/128 MiB selection. The nested
+supervision CPU counter is included in wrapper accounting, not added again.
+
+Result SHA-256:
+`4c4f90ba8c0c1671d4cd2690f3ad04b9a0e788e652399065bce0afe934d8a571`.
+
+This accepts the exact directory installation only. It does not claim that
+the installed reader or contributor succeeded. The source-fixed failures
+still require separately selected fresh ordinary calls under their unchanged
+limits; no old failed call or install is overwritten.
+
+## Fresh installed requests: PASS for selection
+
+Root staged the two requests beneath the new distribution03 allocation:
+
+| Call | Exact request SHA-256 |
+|---|---|
+| Reader, `controls/relocated-remote-01-request.json` | `9e0f1e7e3dc69e6dfd168e089e12de4213cac6e57563dd6f9275dad74b2a068e` |
+| Contributor, `contributor-controls/installed-contribution-01-request.json` | `4bec7a144f38bc6834abf059a8952e2cc84c59ea24c50633a2eff40d1e0ade02` |
+
+Independent complete parsed-request comparison confirms exact equality to
+the respective old request after replacing only the old allocation-path
+prefix with the new one. Thus mathematics, packet choice, strategies, inner
+grants, outer limits and refusal behavior are unchanged.
+
+All five staged caller-input pins were independently checked: reader owner
+and packet; contributor owner, packet and Lean source. All matched. Both
+run directories, request-output directories and mathematical workspaces
+were absent at review.
+
+The reader retains 45 CPU seconds/120 wall seconds/512 MiB, and the
+contributor retains 150 CPU seconds/240 wall seconds/1,024 MiB, with four
+processes per outer Job. These are fresh source-repaired operations, not
+renewed allocations for failed calls. Root alone selects and launches them;
+the reviewer launched neither.
+
+## Actual installed reader: PASS
+
+The fresh reader's generated plan SHA-256 is
+`1d583332afc9ba01610196ec59cbcf301348cc99cc8917f6070d5380358a80d7`.
+Its operation ID is
+`7e8168063b597579bc571d49b12a33fd5ec70eda8b89597a524580e0295da8cb`.
+The wrapper completed, the reader returned `COMPLETED`/`READY`, and the
+service returned `PASS`.
+
+Independent saved-output checks confirm:
+
+- All 104 original/snapshot source pairs match the plan. The successful
+  final boot report binds that plan, reports `OWNER_EXITED_ZERO`, and
+  includes the adopted `admission.pin_phase` import origin. All reported
+  source origins belong to the selected map.
+- The actual I verifier reports `REAL_MODULE_RECEIPT_VERIFIED`,
+  `fully_resolved: true`, for the exact 223,594-byte retained receipt. Its
+  journal equals the native delta's sole parent journal. The native
+  conclusion equals the saved mixed-admission journal and returned
+  `b4295706...` input module. The packet hash is exact.
+- The native child is not itself unconditional admission: its conditional
+  result is combined with the current live I verification by the unchanged
+  mixed-admission owner. No saved report substitutes for that owner.
+- The returned semantic context has 12 groups, 15 declarations, no demands,
+  and zero frontend ancestral theorem-proof bytes. This field does not
+  assert zero certificate, witness or fixed-foundation cost.
+- The local HTTP service handled five requests, 561,628 reply bytes,
+  1,189 request-body bytes and 1,141 header bytes, with no failure/refusal.
+  Its HTTP/workspace cleanup and the reader/client/workspace cleanup closed
+  without errors.
+
+The reader's controller used 14.890625 CPU seconds within its unchanged
+30-second grant. Whole known cost was 19.609375 CPU seconds =
+16.90625 Job + 2.703125 wrapper; wall 35.2549433 seconds; peak Job private
+commit 113,831,936 bytes. Both nested verifier/native processes and the
+outer Job exited successfully, nonforced, reaped and closed with zero final
+active processes. No A verification, authoring or publication occurred.
+
+This is an installed, source-repaired success under the original budgets.
+The change includes the reviewed count reduction; these separate runs do
+not isolate the full observed timing difference to one cause. It is local
+direct-contact discovery with declared coverage, not public networking or
+global completeness.
+
+## Actual installed contributor: PASS
+
+The fresh contributor's generated plan SHA-256 is
+`3659317a3ef97e0a121e3c3eb47467a019369a5c0179b5b07588564a4dab4c8d`.
+Its operation ID is
+`e045a52cdcb18dec0bcea6ae9a79a899565f2024522b099b6c067e1e4562bf5a`.
+The wrapper completed and the example returned
+`COMPLETED`/`CONTRIBUTED`, not merely exit zero.
+
+### Source and actual admission chain
+
+All 104 original/snapshot source pairs match the plan; final boot succeeds
+with selected import origins, including the new helper. The actual worker
+configuration points to installed `assets/frontend/AuthorLean.exe` and
+installed `assets/lean`, with the unchanged six minimum runtime pins. The
+worker exports successfully with no timeout; its export hash matches the
+actual saved 6,667-byte export. The worker's result remains explicitly
+`PASS_NATIVE_EXPORT_ONLY`, not mathematical admission.
+
+The export is the one local theorem `ClientV5.project_summary`, with three
+universe parameters. Independent traversal of its exported proof expression
+finds the exact external constant
+`DMKN.Mod.b42957064314b6667bf05cd3eec27ce39b925491c756a69f23a739d39ebb9f94.ClientV5.fusion`.
+Thus the output uses the intended imported method, rather than just carrying
+an unused dependency label.
+
+The current I verification and input native journal chain agree exactly.
+For output admission, native delta 0 rechecks the input extension and native
+delta 1 has exactly the current I journal and that extension journal as
+parents. Each native output's input hash/length matches its actual saved
+witness, and each command uses the installed native executable. The final
+native journal equals both the fresh mixed-admission result and the
+contributor's checked-output journal.
+
+The resulting module is
+`6ea8fa600c3ec9eb64992466c2c897d6455b53a6d0461a2b655fcb3f2c86d55f`.
+Its 658,554-byte packet hash is
+`6998ba92d064c8ce790192a434655d4b99bf0e7018f422ec24be757de55db2eb`,
+identical in preparation, fresh output admission, the final report, and
+published local custody.
+
+### Persistent publication, independently inspected
+
+Read-only immutable SQLite inspection was performed only after confirming
+no corresponding WAL files remained. It did not open the SDK workspace or
+mutate its state.
+
+- The operation row is `CLOSED`.
+- Publication
+  `5960b490e88eebfbd6f34989897952a85aa87c6efa9996782791d572e9ad0fe9`
+  records the exact report intent and outcome, with
+  `phase: LOCALLY_PUBLISHED`.
+- The custody packet exists with the exact bytes, digest and output module,
+  and an offer exists for the selected wire profile.
+- The output module and its single local group/name exist in module storage.
+- The discovery database contains the indexed locator for
+  `ClientV5.project_summary` in that exact module. Its latest snapshot is
+  the reported
+  `944736d1c042a0ca6aa0a5ef1e2258791e29c9fc46db2e285acfc0948638be59`,
+  and the snapshot row exists.
+
+The client records two admission submissions, one author call and one
+publication attempt. There is one actual I verification, one input native
+check and two output native checks, not a new aggregate proof campaign.
+The publication report's 13 groups includes reused stored groups; it is
+not thirteen newly discovered mathematical results. Remote placement is
+unconfirmed, all-future-body coverage is false and cross-database atomicity
+is not claimed.
+
+### Costs and closure
+
+Controller cost was 30.34375 CPU seconds within its unchanged 90-second
+grant. Whole known CPU was 36.96875 seconds = 34.15625 Job + 2.8125 wrapper;
+wall 40.4323397 seconds; peak Job private commit 532,041,728 bytes.
+The author worker consumed 1.84375 Job CPU seconds with clean closure.
+Preparation's 29.046875 controller lifetime and nested worker costs are
+included/overlapping accounting, not amounts to add to whole-operation CPU.
+
+All inspected actual I/native/author children and the outer Job exited
+successfully, nonforced, reaped and closed with zero final active processes
+and no cleanup errors. Preparation, client and workspace closed without
+failure. Both installed operations therefore succeeded without enlarging
+their original allocations or modifying predecessor evidence.
+
+## Actual outcome record hashes
+
+Paths are relative to `product-local/v5-distribution-03/`.
+
+| Record | SHA-256 |
+|---|---|
+| Reader outer `RESULT.json` | `df36e8ff0f583627d9cd051537646f91bf4be55d0d70d9d85ef2d58e1e3b9575` |
+| Reader `BOOT-RESULT.json` | `2cc66150b2687e7c052cd7d76b24bbe6a70122e25becab25e1ecd519559793df` |
+| Reader `work/remote-check-result.json` | `f62553d72fd107949159856f2bf765239d8ccfb712ddce00d053ea836838bd3e` |
+| Reader `work/reader/remote-reader-result.json` | `13e7be7496f8fc7a2c841781d3e2dffe99ddba2fcc638a50423ab8a2c9c8fdee` |
+| Reader `work/service/service-result.json` | `83990d53e93b0de0ffe215e644bcc43cf0ac55cd6085c13ae6a469fedcba3909` |
+| Contributor outer `RESULT.json` | `45972f43d709fdd709d7d5de393e014ab6cb7e9d8e4db83b8672ff95a791d990` |
+| Contributor `BOOT-RESULT.json` | `bf22e3214779d5172fd6d6b79eb04615c4850b5b79def23a7596c01845076b36` |
+| Contributor `work/contribution-result.json` | `889cfda718678395acf672b43151b1128ec041c859f967c094cbfda675c3cd50` |
+| Contributor operation `preparation/author-1/worker-result.json` | `ac77b2375154c9ac8b386e13844c1ad7d641610ae0fa449ce223091d87a27744` |
+
+## Final disposition for this repair
+
+**PASS: exact installation, installed direct-contact reader and installed
+local-input contribution/publication under unchanged budgets.**
+
+This closes the two specific installed failures. The retained theorem was
+already produced in earlier source-mode work; replaying it through the
+installed path demonstrates operability, not newly measured useful growth.
+There is no independently hosted pilot, public-deployment acceptance,
+complete semantic discovery, aggregate-certification economics result or
+completed-v5 claim here. All used sources, requests, installation and
+outcomes remain frozen; no repetition is selected.
