@@ -1,5 +1,33 @@
 # Current research desk
 
+**2026-10-20 ordinary remote integration passed and independently audited.**
+Plan68af5327 ran once through actual serving and reader entries. Five HTTP
+requests delivered the selected 554,165-byte retained packet; real same-call
+I/native admission and a 12-group/15-declaration semantic context reached READY
+with no demands. A checks, new proofs, authoring and publication were zero.
+Frontend ancestral theorem-proof bytes were zero; foundation and demanded
+semantics remain included. Known CPU19.515625s; wall38.559626s; all live owners,
+stores, server and process tree closed. Preserve exact used sources/evidence.
+Root read/adopts REMOTE-REVIEW: actual I journal is the native conditional
+parent, and native conclusion equals the reader's final admission journal;
+103 source pairs, runtime/assets and both process closures are checked.
+Root selects source-only ordinary distribution next: core_search owns
+`software/v5/distribution`, core_growth exact input/relative-role selection,
+core_release reviews distribution after completing the remote outcome audit.
+Reuse existing launcher, exact nested support installation and owner-selected
+role/source maps; no new supervisor, proof/build, archive publication or license.
+This improves operability, not completion of aggregate/growth/release gates.
+
+**2026-10-20 ordinary reader implementation source-reviewed.** New
+`client/remote_reader.py` composes direct formal search, exact acquisition,
+actual admission and semantic import, with explicit bounded misses/demands.
+Root read/adopts REMOTE-REVIEW for reader4858be22 and integration adapter
+e2405b7c. Select one changed-boundary real integration using retained I plus
+one native extension; no new proof production, A verification or authoring.
+Fresh provider/reader workspaces only. core_growth owns exact input/source
+selector, core_release its independent review, root launch/adoption.
+Runtime remains unselected until the exact finite plan is reviewed.
+
 **2026-10-20 direct-contact client passed and independently audited.**
 Exact plan120597af ran once: nine focused controls, three actual loopback
 requests and one unknown-ID structural candidate retrieved through the ordinary

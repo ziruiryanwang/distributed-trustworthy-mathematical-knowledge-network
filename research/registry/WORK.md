@@ -4,6 +4,19 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 remote01 is terminal/audited PASS with genuine I/native checks and READY;
+root read/adopts core_release's saved-outcome audit. Source-only next: core_search owns new
+software/v5/distribution and DISTRIBUTION.md; core_growth owns exact input
+contract/select_distribution.py and DISTRIBUTION-INPUTS.md. They coordinate
+directly; root owns adoption, exact install/runtime decisions and Git. No old
+suite/proof/RAM work or external distribution is renewed.
+
+2026-10-20 remote reader source complete/reviewed: core_search authored entry/docs;
+root authored remote_check.py (retained-data service→ordinary-reader integration).
+core_growth owns select_remote_check.py and REMOTE-INTEGRATION; core_release
+owns REMOTE-REVIEW and exact selection/outcome review. Root alone may generate
+the reviewed plan, launch once and commit. No new proof or RAM work.
+
 2026-10-20 direct-contact controls01 terminal/adopted: all nine pass, no active
 runtime. Root read/adopts core_release DIRECT-REVIEW. Helper/test/selector now
 frozen. core_search has authored remote_reader entry; core_release reviews it.
