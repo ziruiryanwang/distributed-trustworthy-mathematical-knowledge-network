@@ -1,5 +1,38 @@
 # Current research desk
 
+**2026-10-20 exact declaration continuation selected.**
+`DECLARATION-CONTINUATION-SELECTION.md` completes the actual acquisition gap:
+an ordinary supplier disappearance must not discard a live reader before an
+explicit attempt at another original contact. Preserve original budgets,
+strict successful-opening validation and fatal cleanup/custody failures.
+core_search owns fresh transport/helper overlays; core_release focused controls;
+core_growth independent review. No runtime, RAM, proof or installation selected.
+
+**2026-10-20 genuine contribution adopted; duplicate planner cancelled.**
+Root read/adopts `CONTEXT-ACTUAL-OUTCOME.md` (`8b6b32ca`): actual four-universe
+`summary_independence`, two independently inspected uses of `project_summary`,
+fresh output admission and exact durable publication/index entry; clean closure,
+42.28125 known CPU / 79.3818659 wall seconds. No rerun or new receipt.
+Source inspection found the proposed frontier compiler already implemented in
+`aggregate_claims/prepare_mixed.py` and used by lifecycle/geometry preparation;
+cancel its duplicate assignment before coding. No runtime lives. Select next
+work from actual source gaps, not outdated missing-capability notes.
+
+**2026-10-20 high-payoff local continuation; no RAM campaign.**
+The genuine context continuation returned success and awaits saved-outcome
+audit; it will not be repeated. Root selects `FRONTIER-SELECTION.md`: inspect
+existing APIs, then implement a general exact-J frontier preparation function
+only if the gap is real, with cheap independent closure/resource controls.
+No guest/proof/network/install experiment is selected. Full v5 remains active.
+
+**2026-10-20 one genuine existing-context continuation selected.**
+Root read/adopts source review `8b338311` and exact public installed request
+`8b272967`: unchanged installation, retained project_summary input, selected
+9-group/9-body live context, new summary_independence theorem via two imported
+uses, actual new-output check and publication. One finite 240 CPU / 300 wall
+second request, no network, guest, proof generation or RAM investigation.
+Used sources/inputs freeze; outcome is pending and no retry is selected.
+
 **2026-10-20 existing-context contribution controls independently adopted.**
 Root read/adopts `CONTEXT-CONTRIBUTION-REVIEW.md` outcome `82d868fd`:
 eight mandatory controls, actual inherited context-identity refusals and inert

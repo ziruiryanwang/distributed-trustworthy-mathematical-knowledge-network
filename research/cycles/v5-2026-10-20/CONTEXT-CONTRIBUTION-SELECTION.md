@@ -95,3 +95,18 @@ runtime/launch conventions, one finite cumulative operation, exact retained
 input pins and fresh disjoint outputs. Fund both input and output admission
 and authoring before execution; no optimistic reliance on cache hits. No launch,
 installation rebuild or allowance renewal is authorized by this source step.
+
+## One installed execution selected
+
+Root read/adopts independent source review `8b338311` and read final adapter
+`f60a0148`, selector `9481497e`, and generated request. Select once the public
+installed `launch ... run` request
+`product-local/v5-distribution-connected-01/context-controls/installed-context-contribution-01-request.json`,
+5,549 bytes, SHA-256
+`8b2729670613978a15846300ee9a81130cd6f9003d5da88be85e40b203c724e7`.
+It binds unchanged release `69d9456e`, helper `ce82e170`, adapter and retained
+packet `6998ba92`. Outer 240 CPU / 300 wall seconds / 1,024 MiB / four processes;
+one original grant, 70 checking plus 45 author CPU reserved without cache
+assumptions. Fresh workspace allows the one additional delta/its two edges.
+No retry, proof production, network service or further run is selected.
+All used request/adapter/selector bytes freeze at this attempt.

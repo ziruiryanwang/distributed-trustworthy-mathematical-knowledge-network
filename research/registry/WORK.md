@@ -4,6 +4,25 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 fresh `DECLARATION-CONTINUATION-SELECTION.md`: core_search owns
+transport/declaration_resilience.py and client/supplier_complete facade/helper;
+core_release disjoint declaration controls; core_growth independent review.
+Root source integration/selection/Git. No runtime yet, no new frontier planner.
+
+2026-10-20 actual continuation audit `8b6b32ca` adopted; no runtime remains.
+Duplicate frontier planner/control assignment cancelled before code or tests:
+existing prepare_mixed_seal and lifecycle callers suffice. core_growth checks
+only actual production integration gaps; core_release independently identifies
+a highest-payoff remaining source issue. core_search available for a genuine
+changed-boundary assignment. No broad reaudit, RAM or proof campaign.
+
+2026-10-20 retained genuine continuation outcome audit: core_release.
+Next source selection `FRONTIER-SELECTION.md`: core_growth general exact-J
+planner/design, core_search disjoint focused controls, then core_release
+independent review. Root owns integration, runtime and Git. Inspect existing
+APIs before adding code; no RAM work, proof, guest, network or installation
+campaign selected. No rerun of the completed continuation.
+
 2026-10-20 helper eight-controls adopted (`82d868fd`), no live runtime.
 Source-only actual continuation: core_search examples/context_actual.py;
 core_release current-cycle select_context_actual.py; core_growth independent
