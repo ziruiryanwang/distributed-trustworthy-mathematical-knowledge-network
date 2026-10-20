@@ -45,7 +45,7 @@ a duplicate API if it does.
 Use cheap distinct controls for supplier-independent exact content, immutable
 candidate origin, same-provider compatibility, contact authorization/expiry
 and one aggregate budget. The decisive later integration is a single retained-
-mathematics run: P's actual inventory lacks a demanded body, Q supplies it,
+mathematics run: P's public semantic store lacks a demanded body, Q supplies it,
 and unchanged live admission/import reaches READY. Source review precedes
 that run; this selection itself launches nothing.
 
@@ -53,3 +53,36 @@ Stop expanding this increment once the split-custody boundary is established.
 It is not automatic source discovery, adversarial availability, aggregate-A
 certification, net growth evidence or full v5 release. Genuine scalable A
 production and full-cost growth remain central unresolved obligations.
+
+## Why this removes a real large-network restriction
+
+Let D be the finite set of committed semantic objects demanded by a selected
+context, and S(h) the objects actually supplied by authorized contact h during
+the original operation. The previous helper requires D to be contained in S(p),
+where p supplied the initial target. Explicit supplier selection instead permits
+a caller-chosen function s on D with d in S(s(d)) for each d, subject to the
+same finite resource and lifetime constraints. It does not discover s for free.
+The former case embeds in the latter by choosing s(d)=p throughout; the converse
+fails whenever one required body is held only at q. That strict feasibility
+improvement is the purpose of the selected integration.
+
+Acceptance is unchanged provided fetched objects pass the same exact
+module/name/group/body commitments and the same final live verification/import.
+The supplier is a route to evidence, not an axiom. Distinct suppliers do not
+justify different bodies for an identical commitment. Hash and checker
+assumptions remain explicit and unchanged.
+
+For a fixed selected closure, this change adds work for selected suppliers and
+attempts, not a scan of all peers or all mathematics. Finite helper caps bound
+retained candidate variants, groups and bodies. Repeated previews still cost
+work and are not claimed linear-time overall. Nor is uncertified native proof
+ancestry eliminated by routing semantics between providers. This increment
+establishes a useful structural capability, not a measured whole-network speedup
+or a substitute for the outstanding aggregate-certificate and growth gates.
+
+The retained test packet still contains native delta witnesses, potentially
+including reconstructable semantic bodies. Thus the test establishes missing
+body **service** at P and actual acquisition from Q, not erasure of every copy
+or unique physical custody at Q. Do not remove required witness data to fake
+that stronger case. Certified frontier advancement remains the separate route
+to eliminating mandatory native ancestry/witness retention.

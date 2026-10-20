@@ -1,5 +1,48 @@
 # Current research desk
 
+**2026-10-20 one layout go/no-go deferred; switch immediately to comparator.**
+The unchanged A-layout guard returned DEFER_NO_POLLING at 19:05:17 UTC.
+No runner, layout, proof or build ran and no output was created. No repeated
+RAM observation or threshold adjustment is selected. Next highest-payoff work
+is the optimized ordinary shared-library comparator: source inspection finds
+the existing native aggregate relation accepts a zero-cryptographic-assumption
+complete witness closure. Establish its exact target/semantic endpoint before
+implementing a thin ordinary adapter; no new cost calculator or weak baseline.
+Full v5 and genuine aggregate certification remain open.
+
+**2026-10-20 split-provider semantic reuse passes; return to core certification.**
+Root adopts the independent actual `099d8c14` audit: P's selected body row is
+absent, Q and the reader hold the exact committed body, P serves 21 requests
+and Q two, and unchanged genuine I plus two native checks reach READY.
+All 106 original/snapshot source bindings and closure checks pass. Known CPU
+19.34375 seconds, wall 77.8967513; not a controlled speedup comparison. No
+runtime remains and no repeat is selected. Source-only comparator O investigation
+now targets the equally optimized shared-library baseline. Per A-LAYOUT-DECISION,
+select the already-reviewed, unexecuted `a717a88a` execution-only layout once
+only if its unchanged single immediate launch guard passes; otherwise defer
+without polling or more memory research. No new proof/build is selected.
+
+**2026-10-20 split-supplier controls adopted; retained-data integration prepared.**
+Root read/adopts independent outcome review: all eight controls pass, 1.3125
+known CPU / 2.7738039 wall seconds, clean closure. Used source/test bytes freeze.
+The actual two-provider adapter `386d6db2` and selector `446a77f1` are reviewed;
+generated plan `099d8c14` stages only 1,205,336 source bytes (106 files) and reuses
+the installed runtime and same mathematics. After exact-map clearance select
+it once under unchanged 105 CPU / 150 wall / 512 MiB outer and original shared
+32-request grant. Only the authorized contact-count bound changes from one to
+two. Require P's public body store to lack the selected body, real retrieval
+from Q, and unchanged live READY. This is not absence of that information
+inside P's native witness packet. No new proof or installation rebuild.
+
+**2026-10-20 split-supplier source cleared; one focused control run selected.**
+Root and independent reviewer clear evidence facade `0b4c9f19`, semantic helper
+`c71feed3` and final eight-control suite `d997519b`. Select `76e8de0f` once:
+92 source files, 19 retained runtime pins, unchanged 20 CPU / 60 wall seconds /
+128 MiB. This exercises contact, commitment, shared-budget and cache composition
+with inert issuers and mocked HTTP; no native/proof/network run. The actual
+two-provider adapter is being finished separately. Existing proof/runtime
+evidence is reused, and no full installation rebuild or memory study is selected.
+
 **2026-10-20 actual demanded-semantics reuse adopted; split custody selected.**
 Root read/adopts independent final audit `8f26851b`: the one retained-packet
 operation reached live READY, with real I and two native checks, two selected

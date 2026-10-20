@@ -18,6 +18,11 @@ are in `../../research/cycles/v5-2026-10-07/PLAN.md` and `DECISIONS.md`.
   demanded declarations and computation bodies, select members already carried
   by a packet, then admit that packet once through unchanged verification.
   Requires the explicitly selected staging-member source overlay.
+- [Explicit semantic suppliers](../../research/cycles/v5-2026-10-20/SPLIT-CUSTODY-IMPLEMENTATION.md):
+  choose an already authorized provider separately for an exact declaration
+  or committed body, sharing the original grant and unchanged verification.
+  The two fresh supplier-selected logical overlays are required; they do not
+  modify the frozen installed distribution automatically.
 
 - `modules/`: new certified declaration/import/demand relation.
 - `discovery/`: formal-feature index, committed snapshots and bounded queries.
