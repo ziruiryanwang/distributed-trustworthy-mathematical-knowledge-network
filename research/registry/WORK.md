@@ -4,6 +4,17 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 EVALUATOR-METHOD-SELECTION: source-only concrete Tree evaluator
+uniqueness. core_search owns fresh Lean workload/actual adapter; core_growth
+constructive theory and mathematical review; core_release finishes startup
+audit then reviews exact public execution boundary. Root selection/Git.
+No RAM work, duplicate client/producer, cryptographic production or old rerun.
+
+2026-10-20 in parallel with the selected consolidation build, core_growth owns
+one short source/evidence GO/NO-GO under INTERFACE-FRONTIER-DECISION.md: whether
+the now-working interface boundary enables a substantive smaller direct-I child.
+No producer implementation, runtime or proof is authorized by that question.
+
 2026-10-20 actual interface audit8463f0f6 and consolidation source review0edbd02f
 adopted. Root launches one file-only build91cd374c. core_release owns concise
 saved-build/exact-map outcome audit, then installed startup outcome review.

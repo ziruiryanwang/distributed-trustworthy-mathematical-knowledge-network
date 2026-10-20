@@ -3,18 +3,41 @@
 ## Current source navigation (read before proposing a missing capability)
 
 The installed SDK map is `sdk_sources` in
-`experiments/v5-local-checks/distribution-connected-01-input.json`
-(SHA-256 `557269158f76933177eae962cb97c2862a8512709dbee9842051649552573309`).
+`experiments/v5-local-checks/distribution-interface-01-input.json`
+(SHA-256 `a0d5fad85893bdda55ae10530cd59bc513d4fe90654a2b0661aad624793159b2`).
 Resolve logical module names through that map before inspecting implementation.
 For example, the installed mixed receiver is
 `software/v5/runtime_efficient/mixed_claims/receiver.py`, not its old logical-path
 predecessor. Runtime pin-phase deduplication and general exact-J seal preparation
 already exist. Historical "missing" recommendations are not current evidence.
-Today's tested `supplier_complete` overlays are a separate pending integration,
-not changes to that immutable installation. Use their explicit map in
-`cycles/v5-2026-10-20/DECLARATION-CONTINUATION-IMPLEMENTATION.md`.
+The installed candidate is
+`product-local/v5-distribution-interface-01/Mathematical Commons v5`, release
+`c249d086928e62a00ec194f1b556c6cffa918c1106159102e32a8617c9fbadf0`.
+Its 108-source map includes interface-only authoring and supplier-complete
+declaration continuation. Do not overwrite those with predecessor overlays.
 
 ## Current work
+
+**2026-10-20 installed consolidation adopted; reusable method selected.**
+Root read/adopts saved startup audit `ca298ea8`: exact SDK/origin/owner pins,
+zero mathematical/network work, clean closure, 9 known CPU / 11.204368 wall
+seconds. Build and startup are complete; no full installation readback repeats.
+EVALUATOR-METHOD-SELECTION now selects source/theory for one parametric Tree
+evaluator-uniqueness theorem through existing ordinary client APIs, genuine
+BASE I receipt, groups 0/10 and two recursor bodies. No new producer/client,
+RAM investigation or cryptographic production. Actual checking requires fresh
+reviewed finite selection. Full v5 remains active and incomplete.
+
+**2026-10-20 consolidation build adopted; installed startup selected once.**
+Root read/adopts build audit `8416a46c`: release `c249d086`, exactly eight
+replaced/two added payloads, unchanged assets/policies, 108 SDK entries equal
+the actual interface integration; clean closure. Build cost 34.140625 known
+CPU / 203.5331 wall seconds. The builder's full readback is not repeated.
+Select public installed request `b046a7ce` once using reviewed startup owner
+`3c7249be`: genuine owner creation/source-origin checks and closure, zero
+mathematical/native/proof/network work. Same original finite outer envelope.
+Interface implementation/evidence is committed at `12693a2`; full v5 remains
+active. Parallel frontier feasibility is source-only, not a proof launch.
 
 **2026-10-20 real interface reuse adopted; one consolidation build selected.**
 Root read/adopts actual audit `8463f0f6`: real Lean authoring, native acceptance
