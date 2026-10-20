@@ -16,6 +16,57 @@ not changes to that immutable installation. Use their explicit map in
 
 ## Current work
 
+**2026-10-20 real interface reuse adopted; one consolidation build selected.**
+Root read/adopts actual audit `8463f0f6`: real Lean authoring, native acceptance
+and durable publication with original fold semantics, three groups/six
+declarations/two bodies; clean closure, 37.21875 known CPU / 40.4265 wall seconds.
+Request bytes fall 38.05% and the new witness 41.38% for the same theorem;
+this is not a timing or full-cost growth result. Retained native-negative
+applicability `5286ebf9` avoids a duplicate missing-body experiment.
+Root adopts consolidation source review `0edbd02f` and selects file-only build
+`91cd374c` once, 120 CPU / 300 wall seconds / 128 MiB. The 108-source SDK map
+must equal the successful actual map; binaries and mathematical policies stay.
+No prover/guest/compiler/network/RAM work or repeated mathematical campaign.
+Fresh candidate is `product-local/v5-distribution-interface-01/Mathematical Commons v5`.
+Full v5 remains active and unfinished. Public installed startup follows only
+after saved-build/map adoption. Used sources and evidence stay frozen.
+
+**2026-10-20 genuine interface-only integration selected once.**
+Root read/adopts controls outcome `8fb561f6` (ten passes, 1.25 known CPU / 2.909
+wall seconds, clean closure) and actual source review `bfb29873`. Fresh plan
+`99492605` selects 110 pinned sources through existing public client.launch,
+unchanged installed binaries, and one 240 CPU / 300 wall second operation.
+It checks real authoring/admission/publication with three selected groups,
+six declarations and two recursor bodies, omitting fold's body and six
+body-only groups. No new proof, guest, network, RAM work or old-run retry.
+All used adapters/source/input bytes freeze; actual outcome remains pending.
+core_release is checking whether retained exact native missing-body evidence
+already closes the unchanged negative boundary, to avoid a duplicate test.
+
+**2026-10-20 interface-only controls selected once.**
+Root read/adopts the independent source and control reviews. Exact plan
+`4c16cbfa` selects ten new native-free checks over 111 pinned sources and
+19 runtime/input pins, within 30 CPU / 60 wall seconds / 256 MiB. No proof,
+native executable, RAM investigation or previous campaign is selected.
+The test's inert group-opening fixture is already corrected in `fa98cea5`;
+no stale draft is being run. Used source/test bytes freeze on this execution.
+Actual public Lean/native integration remains separately reviewed and selected.
+
+**2026-10-20 higher-payoff interface-only authoring selected.**
+Three source reviews confirm eager ordinary-definition bodies can force
+unnecessary semantic dependency acquisition. `INTERFACE-VIEW-SELECTION.md`
+selects an opt-in untrusted frontend view with original descriptors retained
+for unchanged final native checking. Default eager and recursor behavior stay.
+No cryptographic proof, guest build or RAM investigation is selected. Fresh
+source successors only; the installed release and used evidence remain frozen.
+
+**2026-10-20 efficient local certification decision selected.**
+The user's instruction is to stop spending effort on RAM and choose higher-payoff
+routes. `COLD-CERTIFICATION-SELECTION.md` assigns disjoint source/evidence
+reviews of existing I/A production, growth economics and acceptance assurance.
+No runtime, compiler, proof, RAM scan or old campaign is selected. Root will
+choose one consequential next step; all used sources/evidence remain frozen.
+
 **2026-10-20 marginal-payoff decision: defer native memoization.**
 Root read/adopts `INCREMENTAL-ADMISSION-DECISION.md` and checked the two saved
 repeated native process reports. Their combined recorded CPU is only 0.0625

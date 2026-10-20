@@ -4,6 +4,29 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 actual interface audit8463f0f6 and consolidation source review0edbd02f
+adopted. Root launches one file-only build91cd374c. core_release owns concise
+saved-build/exact-map outcome audit, then installed startup outcome review.
+core_search source work complete; core_growth actual audit complete. No repeated
+mathematical test, new mechanism, proof or RAM work selected.
+
+2026-10-20 interface controls independently pass; root selects one genuine
+actual plan99492605. core_growth owns saved actual-outcome review; core_release
+checks applicability of existing missing-body native refusal/recovery evidence;
+core_search owns source-only consolidation plan for the already existing
+distribution builder. No duplicate tests, new mechanisms, RAM/proof campaign.
+
+2026-10-20 INTERFACE-VIEW-SELECTION: core_growth context/session plus pure
+frontend projection; core_search ordinary client/reader/source plumbing;
+core_release independent review and disjoint controls. All fresh files under
+software/v5/interface_views; agree API before edits. Root integration/Git.
+No runtime or proof launch. Cold-production notes close without new campaign.
+
+2026-10-20 COLD-CERTIFICATION-SELECTION: core_search owns ROUTES;
+core_growth ECONOMICS; core_release ASSURANCE, all new current-cycle notes.
+Source/saved-evidence only; root reconciles and selects consequential work.
+No RAM, proof, build, repeated campaign, source rewrite or duplicate planner.
+
 2026-10-20 incremental-admission payoff decision complete: DEFER code/tests;
 two repeated native calls represent only 0.0625 recorded CPU seconds.
 All assigned declaration/code/control/outcome work is complete and committed.
