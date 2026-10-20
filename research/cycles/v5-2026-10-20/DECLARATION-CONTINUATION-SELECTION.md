@@ -60,3 +60,36 @@ is useful only for this changed failure boundary, with mathematical issuers
 explicitly inert. Runtime selection follows source review. Stop after this
 declaration boundary is complete; do not automatically enumerate additional
 transport variants or create another framework.
+
+## Exact small control run selected
+
+Root read the new transport, both successor diffs, all ten explicit controls
+and the reused fixture constructors. Independent source/protocol review passes.
+Before execution, independent review corrected the test's locator assertion
+to account for the adapter's existing schema/descriptor fields; product code
+did not change and no failed run was incurred.
+
+Select once `declaration-continuation-controls-01-selection.json`, SHA-256
+`eee5ea43dc626df9754a9e695a24b51334e45ccf5066ab67b65b8540e22f1cda`:
+100 small source bindings, 19 retained runtime pins, transport `d8ee2daf`,
+facade `2a674d31`, reader `7d8c93dd`, controls `7101aaf5`.
+The retained supervisor uses 20 CPU / 60 wall seconds, 128 MiB and two
+processes. Exactly ten explicit controls, one two-request loopback scenario,
+inert mathematical issuers and no native/proof calls. No old suite is selected.
+Used input/source bytes freeze at this run; actual outcome adoption is separate.
+
+## Adopted outcome
+
+Root read/adopts the independent saved-outcome audit appended to
+`DECLARATION-CONTINUATION-REVIEW.md`, SHA-256
+`9437a13bedba2da6b2b61b062190dbfa166a5ad7e0514d3619516eba7bb8f410`.
+Exactly ten controls passed without skips/errors/failures. The enclosing run
+closed cleanly in 3.9947246 wall seconds and 2.03125 known CPU seconds.
+The two actual loopback requests cover settled absence at P followed by
+validated exact opening custody at Q; all original charges remain.
+
+This completes the selected source-level acquisition change, not final v5 or
+an update to the frozen installed distribution. No rerun is useful. Preserve
+the source map for the next justified integration. The next central decision
+must address actual proof/admission economics or assurance, not automatically
+add more transport variants.

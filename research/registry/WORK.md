@@ -4,6 +4,13 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 declaration source/ten controls/outcome independently adopted
+(`9437a13b`); no runtime. Root Git checkpoint. core_search owns only source/
+saved-evidence payoff decision `INCREMENTAL-ADMISSION-DECISION.md`, contrasting
+same-live exact-witness reuse with existing packet caching and real costs.
+No persistent cache, checker change, implementation, benchmark or proof selected.
+core_growth/core_release completed assigned declaration review/controls.
+
 2026-10-20 fresh `DECLARATION-CONTINUATION-SELECTION.md`: core_search owns
 transport/declaration_resilience.py and client/supplier_complete facade/helper;
 core_release disjoint declaration controls; core_growth independent review.

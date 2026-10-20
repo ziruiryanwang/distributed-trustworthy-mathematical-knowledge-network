@@ -1,5 +1,24 @@
 # Current research desk
 
+**2026-10-20 declaration continuation implemented and independently adopted.**
+Root read/adopts actual audit `9437a13b`: all ten focused controls pass,
+including exact declaration custody from Q after P is unavailable, unchanged
+original accounting and fatal invalid-data controls. 2.03125 known CPU seconds,
+3.9947246 wall seconds, clean closure. No native/proof call, rerun or RAM work.
+Fresh `supplier_complete` sources are tested successors; the existing installed
+release remains unchanged until a separately selected integration. All used
+sources/evidence freeze. Full v5 remains active, not achieved.
+Next source-only payoff decision checks whether repeated exact native witnesses
+within one live operation merit an incremental-admission optimization; no
+implementation/test or persistent trust cache is selected by that question.
+
+**2026-10-20 ten focused declaration controls selected once.**
+Root read/adopts independent source/controls review and exact selection
+`eee5ea43`: 100 sources, 19 runtime pins, ten explicit tests, one tiny loopback
+supplier-loss/alternate scenario. 20 CPU / 60 wall seconds / 128 MiB; inert
+mathematical issuers, no proof/native calls or repeated campaigns. Used sources
+freeze; actual result remains pending. Full v5 remains active and unfinished.
+
 **2026-10-20 exact declaration continuation selected.**
 `DECLARATION-CONTINUATION-SELECTION.md` completes the actual acquisition gap:
 an ordinary supplier disappearance must not discard a live reader before an
