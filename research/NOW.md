@@ -1,5 +1,32 @@
 # Current research desk
 
+## Current source navigation (read before proposing a missing capability)
+
+The installed SDK map is `sdk_sources` in
+`experiments/v5-local-checks/distribution-connected-01-input.json`
+(SHA-256 `557269158f76933177eae962cb97c2862a8512709dbee9842051649552573309`).
+Resolve logical module names through that map before inspecting implementation.
+For example, the installed mixed receiver is
+`software/v5/runtime_efficient/mixed_claims/receiver.py`, not its old logical-path
+predecessor. Runtime pin-phase deduplication and general exact-J seal preparation
+already exist. Historical "missing" recommendations are not current evidence.
+Today's tested `supplier_complete` overlays are a separate pending integration,
+not changes to that immutable installation. Use their explicit map in
+`cycles/v5-2026-10-20/DECLARATION-CONTINUATION-IMPLEMENTATION.md`.
+
+## Current work
+
+**2026-10-20 marginal-payoff decision: defer native memoization.**
+Root read/adopts `INCREMENTAL-ADMISSION-DECISION.md` and checked the two saved
+repeated native process reports. Their combined recorded CPU is only 0.0625
+seconds of 42.28125 known CPU seconds, and wall time 0.1692674 seconds of
+79.3818659. No cache implementation or new timing test is justified now.
+The ordinary declaration continuation is committed at `a0d6513`; the genuine
+theorem continuation is at `ec770bf`. No runtime lives. The next central work
+is affordable cold frontier certification/renewal and its assurance, using
+existing theory/source/evidence before any new expensive operation. The full
+v5 goal is active; no pause, completion or old campaign restart is implied.
+
 **2026-10-20 declaration continuation implemented and independently adopted.**
 Root read/adopts actual audit `9437a13b`: all ten focused controls pass,
 including exact declaration custody from Q after P is unavailable, unchanged

@@ -4,6 +4,13 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 incremental-admission payoff decision complete: DEFER code/tests;
+two repeated native calls represent only 0.0625 recorded CPU seconds.
+All assigned declaration/code/control/outcome work is complete and committed.
+No runtime lives. Root next selection must address cold certified-frontier
+production/renewal or assurance, not another small transport/cache variant.
+Full v5 remains active; use the current installed SDK map at NOW's top.
+
 2026-10-20 declaration source/ten controls/outcome independently adopted
 (`9437a13b`); no runtime. Root Git checkpoint. core_search owns only source/
 saved-evidence payoff decision `INCREMENTAL-ADMISSION-DECISION.md`, contrasting
