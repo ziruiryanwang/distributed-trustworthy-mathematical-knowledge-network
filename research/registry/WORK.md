@@ -4,6 +4,13 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 evaluator method actual audit6533ff33 adopted; no runtime lives.
+EVALUATOR-SNAPSHOT-SELECTION source-only: core_search minimal existing-host
+snapshot adapter; core_growth exact mathematical binding; core_release finite
+launch/closure review; root selector and later bounded launch. No new producer
+lane or cryptographic campaign. Native demand continuation is DEFER, existing
+selective pre-READY acquisition remains available. No duplicate mechanism.
+
 2026-10-20 EVALUATOR-METHOD-SELECTION: source-only concrete Tree evaluator
 uniqueness. core_search owns fresh Lean workload/actual adapter; core_growth
 constructive theory and mathematical review; core_release finishes startup

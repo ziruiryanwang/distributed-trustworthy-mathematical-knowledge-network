@@ -18,6 +18,29 @@ declaration continuation. Do not overwrite those with predecessor overlays.
 
 ## Current work
 
+**2026-10-20 reusable evaluator method independently adopted.**
+Root read/adopts actual audit `6533ff33`: genuine BASE receipt and original
+groups 0/10, real Lean export, exact fresh native admission and local custody;
+50,017-byte/697-row witness, clean closure, 28.25 known CPU / 31.187148 wall
+seconds. No publication or new succinct receipt. Native checking alone costs
+0.03125 Job CPU seconds, so new certification has no established payback.
+EVALUATOR-SNAPSHOT-SELECTION permits source preparation/review for one cheap
+old-I execution capsule as a frontier-capability/cost discriminator, not proof
+production. DEMAND-CONTINUATION-DECISION defers speculative automatic native
+body-demand continuation: current frontend/closed-owner boundaries make it a
+larger change than reusing existing typed diagnostics. No RAM investigation,
+new production lane or repeated method/application campaign. Full v5 is active.
+
+**2026-10-20 one installed evaluator-method check selected.**
+Root read/adopts mathematical source review `5c4605ae` and adapter/selector
+review `253ba945`. Exact public request `fbf542ba` selects new source
+`e9beebfd` and owner `0d8c2d0d` on unchanged installed release `c249d086`.
+One genuine I import, one Lean author call and one fresh native admission;
+75 reserved worker CPU, 180 outer CPU / 240 wall seconds. No proof production,
+network, RAM investigation or old campaign. Used sources/inputs freeze on
+execution. The complete witness is the decision-changing output; an actual
+result and audit remain pending, with no automatic retry or certification.
+
 **2026-10-20 installed consolidation adopted; reusable method selected.**
 Root read/adopts saved startup audit `ca298ea8`: exact SDK/origin/owner pins,
 zero mathematical/network work, clean closure, 9 known CPU / 11.204368 wall
