@@ -4,6 +4,22 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 direct-contact controls01 terminal/adopted: all nine pass, no active
+runtime. Root read/adopts core_release DIRECT-REVIEW. Helper/test/selector now
+frozen. core_search has authored remote_reader entry; core_release reviews it.
+Root owns subsequent economical integration selection and Git. No old campaign
+or RAM/proof work is renewed.
+
+2026-10-20 direct-contact integration: root owns new client/direct_contacts.py,
+documentation and targeted test/selection; core_release owns DIRECT-REVIEW,
+core_growth DIRECT-CONTROLS, core_search USER-PATH. Explicit configured endpoint
+search through existing exact validated client and structural acquisition only;
+no new crypto, DHT, real proving or memory experiment. Root alone launches and
+commits. Frozen passing serving/runtime/search code remains unchanged.
+After USER-PATH source review, core_search owns new client/remote_reader.py,
+client/REMOTE-READER.md and this cycle's REMOTE-READER.md checkpoint. Compact
+ordinary callable/launcher composition only; no runtime, proof or new resolver.
+
 2026-10-20 serving work is implemented and terminal. Root authored two tiny
 test-only correction adapters, preserving used source/failures. core_growth
 derived the feasible summary bound; core_release's final03 saved-outcome

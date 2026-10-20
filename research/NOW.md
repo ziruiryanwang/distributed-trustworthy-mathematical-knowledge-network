@@ -1,5 +1,32 @@
 # Current research desk
 
+**2026-10-20 direct-contact client passed and independently audited.**
+Exact plan120597af ran once: nine focused controls, three actual loopback
+requests and one unknown-ID structural candidate retrieved through the ordinary
+validated facade. Known CPU1.6875s; wall5.07854s; clean process/socket/storage
+closure. Issuers were explicitly inert, so no new mathematical acceptance is
+claimed. Root read/adopts DIRECT-REVIEW; used helper/test/selector freeze.
+No proof, compiler, Node, cloud or memory study ran. Remaining source work is
+the compact remote-reader entry; do not repeat passed direct/serving/runtime
+campaigns. Full v5 release and aggregate certification remain unfinished.
+
+**2026-10-20 direct-contact ordinary workflow selected.** The serving endpoint
+cannot yet enter the public client without a separate Node/location setup.
+Root selects `client/direct_contacts.py`: one explicit owner-configured contact
+set and formal query, composing the existing guarded search and exact evidence
+acquisition with the original grant, prepaid search capacity, policy and deadline.
+No new wire protocol, fabricated location handoff, verifier or trust downgrade.
+This precedes packaging because an archive alone would not close that user path.
+Root owns implementation, tiny changed-boundary checks and Git; core_release
+reviews, core_growth proposes minimal controls, core_search checks the next
+ordinary reciprocal-workflow seam. Checkpoints remain in this cycle. Existing
+passing campaigns and all proof/RAM tuning stay deferred; final v5 is unfinished.
+Following source review, root also selects core_search's compact
+`client/remote_reader.py` ordinary entry: explicit formal query/page choices,
+direct search, unchanged actual acquisition and semantic import or returned
+demands. No implicit research strategy, automatic demand resolver or fixture ID.
+Source only until separate review/finite runtime selection.
+
 **2026-10-20 ordinary serving implementation tested and independently audited.**
 `client/serve_workspace.py` exposes existing exact-mode workspace stores through
 the unchanged bounded HTTP provider, without math owners or workload IDs.
