@@ -1,5 +1,48 @@
 # Current research desk
 
+**2026-10-20 installed actual01 failed at caller output-budget validation.**
+The public launcher rejected `CLIENT_OUTPUT_LIMITS`: the test adapter supplied
+32 MiB, below its existing 64 MiB `SOURCE_TOTAL` minimum. No provider boot,
+advertisement or HTTP query occurred. The reader and enclosing Job closed
+cleanly; known CPU 11.15625 seconds, wall 19.257929. No memory-limit failure.
+Retain the used adapter/plan and failed evidence unchanged. No installation
+rebuild or repeat is selected. core_search checks all request constraints in
+source; core_release independently audits the failure. A corrected fresh caller
+adapter needs a cause-supported selection, not weakened public checks.
+
+**2026-10-20 connected installation adopted; public installed service selected.**
+Root adopts build audit `1b30ec59`: 9,851 payloads / 842,219,712 bytes verified,
+release `69d9456e`; 32.59375 known CPU / 177.6106053 wall seconds. No rebuild.
+Source `93ceb7e1` and selector `0684e783` independently clear. Select actual
+`0e77f953` once: installed Python and public serve-advertised, two selected
+sources, 39 runtime/input pins, 120 CPU / 600 wall seconds / 512 MiB / six
+processes. Its original 570-second inner envelope funds cold adoption, active
+service and cleanup. Synthetic structural index only; no proof or math READY.
+Earlier actual01 remains failed and frozen. In parallel, source-only frontier
+alternatives/refinement work replaces RAM investigations and repeated campaigns.
+
+**2026-10-20 controls adopted; one file-only connected installation selected.**
+Independent controls audit `98d2b750` passes eight tests, exact 106-file SDK
+imports and all selected bindings (3.296875 known CPU / 6.5335139 wall seconds).
+Root adopts independent input/build-selector clearance and selects `9484fda5`
+once: runner+builder, 22 runtime/input pins, 120 CPU / 300 wall seconds / 128 MiB.
+Fresh destination is product-local/v5-distribution-connected-01/Mathematical
+Commons v5. Copy existing assets and full readback only; no compiler, proof,
+Node service or old campaign restart. The installed service adapter is separate
+source work with no launch yet. Central theory now inspects direct I frontiers
+as an alternative to mandatory A aggregation; no new proof operation.
+
+**2026-10-20 connected ordinary-source controls selected once.**
+Root adopts final independent review `1c5d4418`. Exact builder `8e34df2a`,
+controls `588460e0`, and selectors are cleared. Select `544cf07e` once:
+114 small sources, 21 runtime/input pins; 20 CPU / 60 wall seconds / 128 MiB /
+two processes. Eight changed-boundary controls include the actual ordinary SDK
+import view, not installation, Node, mathematical verification or networking.
+No repeated campaign or RAM work. In parallel, core_search prepares the single
+relocated optional-role/live-service boundary; core_growth resolves the next
+decision-changing full-cost benefit question from existing theory/evidence;
+core_release audits saved controls. Full v5 remains active and incomplete.
+
 **2026-10-20 actual hosting attempt failed before readiness; no repeat.**
 Root read/adopts independent failure audit `9773f4fb`. The reader's mandatory
 runtime precheck took 59.864571 wall seconds, leaving the provider only 1.6548

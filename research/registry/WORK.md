@@ -4,6 +4,21 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 connected build independently adopted; root selects installed public
+service `0e77f953` once with original finite600wall envelope. core_release owns
+saved actual-outcome audit; core_search independently audits direct-I frontier
+argument in GROWTH-ALTERNATIVES-REVIEW.md; core_growth owns source-only
+TYPED-ROW-NEXT-DECISION.md to resolve representation-refinement feasibility.
+No proof, guest rewrite, compiler, RAM investigation or repeated test selected.
+
+2026-10-20 connected source review complete. Root selects finite controls
+`544cf07e` once and owns exact input preparation/Git. core_release owns
+ORDINARY-SUCCESSOR-CONTROLS-OUTCOME.md; core_search owns source-only
+CONNECTED-INSTALLATION-PLAN.md, combining fresh relocation and missing real
+advertised hosting; core_growth owns GROWTH-NEXT-DECISION.md, a theory-led
+decision using existing evidence, not a new benchmark framework. No install,
+proof, RAM investigation or rerun of predecessor campaigns is selected.
+
 2026-10-20 actual01 is terminal failed, independently audited; no live runtime.
 Root adopts failure9773f4fb without rerun. Current connected-distribution source
 author/core_search and controls/core_growth continue; core_release switches
