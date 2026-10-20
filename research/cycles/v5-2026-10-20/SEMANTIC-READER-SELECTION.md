@@ -104,3 +104,26 @@ through existing public services, without another authoring or proof campaign.
 That later call needs its own changed-boundary selection. Genuine aggregate A
 certification, full-cost useful-growth advantage and final deployment/security
 obligations are not discharged by an inert helper test.
+
+## After controls: one actual composition boundary, source work first
+
+Controls02 (`92f8d727`) completed once with zero exit and clean closure. The
+16 controls use inert authorities; their actual audit is separate. Used
+helper, overlay and test bytes now freeze. Unexecuted controls01 is preserved.
+
+Select source-only `client/semantic_check.py` under core_search ownership.
+core_growth derives the finite retained-data plan in SEMANTIC-ACTUAL-PLAN;
+core_release reviews the adapter/plan and eventual saved outcome. Root owns
+exact source staging, runtime selection and Git. Reuse the already published
+`project_summary` result, existing public service, direct-contact discovery,
+runtime factory and genuine I/native checking. No new authoring, proof,
+installation rebuild, hardware work or repeated full campaign is selected.
+
+The intended changed boundary is actual demanded semantics acquisition:
+start the consumer with only the returned target group; use real preview
+demands and exact declaration/body fetches, selecting any packet-internal
+journal explicitly. Check the original packet once and reach unchanged live
+import. Provider preparation handles only untrusted structural data in fresh
+custody; it must not mutate the original contributor workspace or mint a
+mathematical handle. The existing packet's graph and semantic commitments
+bound this work. Review coverage and cost in source before selecting a run.

@@ -1,5 +1,42 @@
 # Current research desk
 
+**2026-10-20 semantic controls independently adopted.**
+Root read/adopts review `f03e356b`: all 88 source/snapshot identities and 19
+runtime pins match, sixteen controls pass, clean closure; unexecuted01 differs
+only by name/test pin. Source-only actual integration now has an economical
+route: a retained plain packet supplies fresh untrusted provider custody,
+without reopening the original publication DB. Expected consumer closure is
+two selected modules / nine groups / twelve declarations / nine bodies, although
+one full packet admission checks all three inventory members. Root's small
+source-map selector and the adapter are under review; nothing is running.
+
+**2026-10-20 semantic member/helper controls02 terminal PASS; actual seam in source.**
+All 16 targeted controls passed once; zero native/proof/network work.
+Known CPU 1.1875 seconds, wall 2.4193386 seconds, clean nonforced Job closure.
+Used helper/overlay/tests freeze; core_release audits saved evidence. Root
+selects source-only semantic_check adapter (core_search) and retained-result
+plan (core_growth): actual demand-directed retrieval then unchanged I/native
+admission/import, using existing published mathematics, no new authoring or
+certificate production. No actual run or installation rebuild is selected yet.
+
+**2026-10-20 final inert selection02 replaces unexecuted01.**
+A concurrent, pre-execution test addition directly covers the I-frontier
+inventory branch. Root caught the changed hash before snapshot/runtime and
+preserved plan01 unexecuted. Independent review clears controls `f194dc91`.
+Select successor plan `92f8d727` once: only run name and test pin change; all
+other 87 source pins, 19 runtime pins and limits are identical. No test has
+been repeated and no mathematical operation is selected.
+
+**2026-10-20 semantic reader/member source reviewed; one inert check selected.**
+Root and independent reviewer clear helper `175de65f`, staging overlay
+`1a0922c3` and 16 targeted controls `1d5618b2`. Select the exact 88-source,
+19-runtime-pin check `4e83615c` once under 20 CPU seconds / 60 wall / 128 MiB.
+It explicitly loads the new overlay, tests structural inventory/subset/readback
+and helper composition with inert authorities; no native, proof, real semantic
+import or network runs. Passing it will not establish actual mathematical use.
+core_growth derives the cheapest retained-result actual integration in source;
+no installation rebuild or actual integration is selected by this entry.
+
 **2026-10-20 installed outcomes adopted; semantic-member gap selected in source.**
 Root adopts the stable independent repair audit `4e2b20af`: full installation,
 ordinary reader READY and checked contributor publication pass within unchanged

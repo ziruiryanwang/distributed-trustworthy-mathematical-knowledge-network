@@ -4,6 +4,20 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 controls02 passed once; helper/staging/test bytes now freeze.
+core_release owns actual control audit then new-adapter review. core_search
+owns source-only client/semantic_check.py and SEMANTIC-ACTUAL-ADAPTER.md;
+core_growth owns source-only SEMANTIC-ACTUAL-PLAN.md, coordinating directly.
+Root owns exact source staging, finite runtime selection and Git. No proof,
+re-authoring, installation rebuild or actual integration is yet selected.
+
+2026-10-20 helper/overlay source and 16 inert controls are independently cleared.
+Root selects exact controls `4e83615c` once and owns execution/adoption/Git;
+core_release audits saved outcome. core_growth owns source-only
+SEMANTIC-ACTUAL-PLAN.md for retained-result integration; core_search has finished
+the current source/docs and awaits a concrete follow-up. No actual integration,
+proof, installation rebuild or memory investigation is selected.
+
 2026-10-20 actual repaired-install audit is adopted and stable (`4e2b20af`).
 core_search owns the fresh staging_members/workspace_staged.py overlay and
 unused semantic_reader helper/docs; core_growth owns only their targeted inert
