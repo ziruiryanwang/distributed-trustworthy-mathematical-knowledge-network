@@ -4,6 +4,19 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 build01 wall-limited and independently audited, partial tree retained.
+Root rejects unchanged retry. core_search owns efficient-path successor plus
+completed examples/contribute.py/docs; core_release owns failed-build audit,
+efficient-source and contributor review; core_growth owns unused relocation/
+contributor selectors targeting fresh candidate distribution02. Root owns exact
+finite selections and Git. No RAM/proof work, no budget renewal.
+
+2026-10-20 distribution source now under parallel root/core_release review.
+Root owns seven small distribution controls and their exact selection; core_search
+owns utility/docs, core_growth completed exact build/relocation selectors,
+core_release reviews sources and later saved outcomes. No runtime or proof
+selected yet; all shell work remains explicitly at the canonical root.
+
 2026-10-20 remote01 is terminal/audited PASS with genuine I/native checks and READY;
 root read/adopts core_release's saved-outcome audit. Source-only next: core_search owns new
 software/v5/distribution and DISTRIBUTION.md; core_growth owns exact input

@@ -1,5 +1,41 @@
 # Current research desk
 
+**2026-10-20 file-install bottleneck identified; unchanged retry rejected.**
+Build01 closed at its original 180-second wall limit with 43.46875 known CPU
+seconds and 38,666,240-byte peak Job commit. It copied 6,537 files/134,253,805
+bytes but wrote no release manifest. Root adopts the independent failure audit;
+preserve the incomplete directory as unaccepted evidence. This is filesystem
+work, not RAM or proving. Original utility and used selectors now freeze.
+Root selects only a source-led efficient-path successor: core_search owns
+`software/v5/distribution_efficient/distribution.py`, core_release challenges
+operation-local validated-directory reuse while retaining per-file type, hash,
+fresh-write/readback and final census. No unchanged retry or larger allowance.
+In parallel the ordinary caller-owned contributor example is source-reviewed;
+core_growth prepares its one installed local-input check, without repeating
+remote discovery or seed certification. Candidate new install path is
+`product-local/v5-distribution-02/Mathematical Commons v5`, not yet selected.
+
+**2026-10-20 exact distribution controls selected once.** Independent source
+review clears utility `b6d49984` (original and executing snapshot byte identity),
+seven controls `fd2b5746` and the exact input/relocation selectors. Root generated
+controls selection `b8828e68` and file-only build input `cf32059d`: 102 SDK
+sources, unchanged 6,652-file base, six external assets and six Lean files.
+Run only the seven controls first. One file-only installation under the existing
+bounded runner may follow a pass, with 60 CPU seconds/180 wall/128 MiB and a fresh
+`product-local/v5-distribution-01/Mathematical Commons v5` directory.
+No new proof, compiler, Node, public endpoint or memory study is selected.
+
+**2026-10-20 distribution changed-boundary validation selected in source.**
+Root has reviewed the relative-role/public-launch design and selects seven tiny
+stdlib-only controls under `distribution/test_distribution.py`, with the existing
+local-check runner, 20 CPU seconds/60 wall/128 MiB. Only parsing, path/map
+rejection, role binding/materialization, explicit marker substitution and tiny
+streamed-copy/no-overwrite are exercised. No SDK/native/proof or RAM tuning.
+core_release reviews this source with the new utility; exact generation/install/
+relocation execution still follows final reviewed identities. core_growth's
+relocation selector reuses frozen remote_check and retained mathematics as caller
+data, not a new experiment framework. Full v5 obligations are unchanged.
+
 **2026-10-20 ordinary remote integration passed and independently audited.**
 Plan68af5327 ran once through actual serving and reader entries. Five HTTP
 requests delivered the selected 554,165-byte retained packet; real same-call
