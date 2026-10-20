@@ -18,6 +18,28 @@ declaration continuation. Do not overwrite those with predecessor overlays.
 
 ## Current work
 
+**2026-10-20 execution capsule adopted; switch to live trust withdrawal.**
+Root read/adopts snapshot audit `e0861ba9`: complete exact-J child capsule,
+51 segments / one genuine parent assumption, 2.1875 known CPU / 2.1157676 wall
+seconds, clean closure. Preserve capsule `bda2fcf6`; do not repeat execution.
+Its 154-stage full production graph remains DEFER: cheap native reuse is the
+current useful alternative, with no justified certification demand yet.
+Next source/design resolves the already known operator trust-withdrawal gap:
+mandatory whole-adoption guard, propagation through real owner/cache/worker
+boundaries, persistent local denial across ordinary restarts. No global
+revocation authority/taint graph, new cryptography, memory investigation or
+large test campaign. core_growth design; core_search current-source scope;
+root selects implementation after their API/invariant agreement.
+
+**2026-10-20 one execution-only capsule selected.**
+Root adopts snapshot binding review `e0cd88bc` and launch review `b0f6a7f3`.
+Selection `1bafa8de` pins eight sources/24 runtime inputs: unchanged exact
+evaluator witness, accepted J, old-I image and genuine BASE receipt. One
+prepare/snapshot, 2^25 cycles/po18, 120 CPU/240 wall seconds; no proof stages,
+retry, cap renewal, new producer or RAM inquiry. Successful execution will
+settle a capability/cost question, not reverse the production DEFER. Used
+sources/inputs freeze now; full v5 remains active and unfinished.
+
 **2026-10-20 reusable evaluator method independently adopted.**
 Root read/adopts actual audit `6533ff33`: genuine BASE receipt and original
 groups 0/10, real Lean export, exact fresh native admission and local custody;

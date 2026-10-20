@@ -4,6 +4,12 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 snapshot audit e0861ba9 adopted; no runtime or proving selected.
+TRUST-WITHDRAWAL source/design: core_growth concise invariant/API/persistence
+boundary; core_search exact current-source minimal scope. No source edits
+before root API selection. core_release available for disjoint controls/review.
+Use existing assurance appendix; no repeated economics/mathematical demos.
+
 2026-10-20 evaluator method actual audit6533ff33 adopted; no runtime lives.
 EVALUATOR-SNAPSHOT-SELECTION source-only: core_search minimal existing-host
 snapshot adapter; core_growth exact mathematical binding; core_release finite
