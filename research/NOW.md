@@ -22,6 +22,17 @@ a reusable live owner policy. Do not overwrite earlier installations or state.
 
 ## Current work
 
+**2026-10-20 speculative SAT case rejected before implementation.**
+Root adopts BENEFIT-CASE6cb956b1 and independent CHALLENGE5b0a11f6: optimized
+local solver exists, but constructive reconstruction, bounded types, independent
+selective query and positive full-cost margin are not established. No solver,
+benchmark or proof campaign will be built to manufacture benefit. Distinction
+between native sharing and certification premium remains. Next concrete source
+obstacle: source_rows rejects native literals; current receipt policy forbids
+Nat literal extension. Select NAT-LITERAL-SELECTION source/theory only to decide
+whether exact bounded constructor lowering preserves the unchanged relation.
+No new checker/image/policy/build is selected. Current candidate committedb7ace77.
+
 **2026-10-20 coherent installed integration adopted.**
 Root reads/adopts saved integration audit8327ad2f and actual five reports:
 separate adoption/reopen, real13-source owner binding, same-config paired

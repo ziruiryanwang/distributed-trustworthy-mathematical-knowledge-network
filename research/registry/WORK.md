@@ -4,6 +4,13 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 benefit case/independent challenge complete: NO-GO SAT construction,
+not a failed runtime. NAT-LITERAL-SELECTION: core_growth semantic/foundation
+decision NAT-LITERAL-SEMANTICS.md; core_search selected actual frontend/source
+map NAT-LITERAL-SOURCE-SEAM.md; core_release independent challenge after these.
+All source/theory only under current cycle; no code/solver/proof/build/runtime.
+Root resolves exact bounded lowering vs actual changed-policy requirement.
+
 2026-10-20 core_release integration audit8327ad2f adopted by root; all coherent
 build/source/installed assignments complete, no runtime. Current installed
 candidate0fbbbc59 has109 SDK sources. Root Git checkpoint; core_growth and
