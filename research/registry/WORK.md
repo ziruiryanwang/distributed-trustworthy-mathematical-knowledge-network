@@ -4,6 +4,13 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 two repair control suites terminal PASS with independent audits.
+Source authors core_search/core_growth finished their disjoint source/test
+assignments. Root owns exact input03/build03 and fresh installed-call selection,
+plus Git. core_release reviews generated maps then actual saved outcomes in
+INSTALLED-REPAIR-REVIEW.md. No RAM study, new crypto proof, budget increase,
+old request renewal or repeated passing test is selected.
+
 2026-10-20 installed reader/contributor both failed and closed. core_search
 owns source-only INSTALLED-COST-DECISION.md; core_growth owns source-only
 INSTALLED-AUTHOR-DECISION.md and Lean runtime dependency diagnosis; core_release

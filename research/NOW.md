@@ -1,5 +1,29 @@
 # Current research desk
 
+**2026-10-20 both repair control suites pass; exact build03 prepared.**
+Eleven pin-phase controls (`64648903`) and seven complete-runtime/projection
+controls (`4da48bf2`) passed once and are independently audited. Known total
+CPU is 1.765625 seconds; no mathematical owner/native/prover was invoked.
+Used sources/tests now freeze. Pure selection generated input `d71ab60f`,
+source-closure evidence `e4207288`: 649 Init modules / 3,245 support artifacts,
+587 projected base payloads, 103 SDK files (three replacements plus one helper).
+All other prior SDK/assets/minimum-runtime pins are unchanged. Plan `6153ba4c`
+targets fresh distribution03 under unchanged 60 CPU / 180 wall / 128 MiB.
+Root selects this one file-only build after the exact-map review. The failed
+02 installed reader/contributor are not restarted; any subsequent calls use
+fresh requests/state and the repaired installation. Full v5 is not complete.
+
+**2026-10-20 source-led installed repair; narrow controls selected.**
+Root and independent reviewer read the pin-phase successor: only synchronous
+import validation shares identical immutable-file checks, with fresh first
+and final sweeps; authority, deadlines, quotas and external-call checks remain.
+Select eleven inert/AST controls once with plan `64648903`, 20 CPU seconds /
+60 wall / 128 MiB. This tests the 17-to-2 shared-pin mechanism, not a full
+workflow speedup. In parallel, root's distribution_complete successor supplies
+the complete retained Init import closure and a precisely named mathematical-
+client base projection. Its pure graph/projection tests and source-derived
+selector are under review. No installed repeat, proof or RAM campaign is live.
+
 **2026-10-20 both installed operations terminal; source fixes selected first.**
 Reader `dce01a83` failed during semantic import with
 `AGGREGATE_CONTROLLER_CPU` (30.515625 observed against 30 seconds), after five
