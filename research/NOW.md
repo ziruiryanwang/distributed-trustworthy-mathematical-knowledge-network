@@ -1,5 +1,22 @@
 # Current research desk
 
+**2026-10-20 ordinary serving implementation tested and independently audited.**
+`client/serve_workspace.py` exposes existing exact-mode workspace stores through
+the unchanged bounded HTTP provider, without math owners or workload IDs.
+Ten lifecycle/configuration/refusal/cleanup controls passed in serving02; the
+remaining two-lifetime retrieval/reopen control passed in serving03. Preserve
+failed01's missing fixture source-directory error and failed02's impossible
+64 KiB expanded-summary expectation; only test adapters changed. The product
+remained exact throughout, and the ten passing controls were not repeated.
+Known total serving-check CPU4.9375s, including both failed runs. No prover,
+compiler, Lean, Node, public endpoint or memory study ran. This is structural
+service evidence, not new theorem acceptance or unknown-ID discovery.
+Root's next decision should connect these ordinary product entries into a
+usable installation/workflow, not another cost calculator or test framework.
+Full v5 remains active; real aggregate certification and release obligations
+are still open. Root read/adopts final SERVING-REVIEW: all eleven changed
+boundaries have passing evidence across02/03; no repeated test is needed.
+
 **2026-10-20 ordinary real-client integration passed and audited.** Root
 read/adopts ORDINARY-REVIEW: plan8eea1d8f executed once; the new non-fixture
 constructor obtained genuine same-call I verification and a semantic context

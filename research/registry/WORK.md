@@ -4,6 +4,12 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 serving work is implemented and terminal. Root authored two tiny
+test-only correction adapters, preserving used source/failures. core_growth
+derived the feasible summary bound; core_release's final03 saved-outcome
+audit is read/adopted. Ten cases passed02 plus the corrected case passed03;
+no runtime remains. Root owns final adoption/Git. No new proof or RAM work.
+
 2026-10-20 actual ordinary runtime integration is independently audited/adopted;
 no runtime lives. Fresh selected service work: core_search owns
 client/serve_workspace.py and client/SERVING.md; core_growth owns

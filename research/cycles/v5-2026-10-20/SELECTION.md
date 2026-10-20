@@ -168,3 +168,49 @@ Reuse pure stores/loopback and existing location doubles; no cryptographic,
 Lean, native, compiler, cloud or public network run is selected by this entry.
 Do not rerun old protocol suites. Keep this a small usable product entry, not
 another experimental orchestration framework.
+
+Root read/adopts SERVING-REVIEW and the final eleven-control source. Select
+one invocation of `ordinary-serving-controls-01-selection.json`, SHA-256
+`448e4b56c4d94ab9fb454e5e2ec2568b56d229758837bfc01fde5f01674949bc`:
+87 sources / 19 retained runtime/data pins; 30 CPU seconds / 90 wall seconds /
+256 MiB / two processes. Only the new serving lifecycle suite runs, with
+actual loopback offers and known-ID group retrieval over fresh synthetic
+structural stores. This is not unknown-ID discovery, theorem acceptance,
+proof production or a repeated protocol campaign. Source/test/selector/plan
+bytes freeze on use; any failure remains preserved under this exact run.
+
+Serving01 failed: three refusal controls passed; eight cases stopped at the
+same missing fixture `sources_portable` directory before any service startup.
+The local-check snapshot uses `v5/location`, not the actual launcher's separate
+portable tree. Preserve the original suite, product, plan and failure; known
+cost is 1.59375 CPU seconds and 3.1739715 wall seconds, with clean Job closure.
+Root selects the test-only `test_serve_workspace02.py` subclass adapter, which
+corrects only that contextual directory and inherits all original assertions.
+`Select-ServingChecks02.ps1` prepares a fresh same-limit selection adding that
+one source. No product fix, proof, broadened allowance or old-run rewrite.
+After root and independent correction review, select exactly one run of
+`ordinary-serving-controls-02-selection.json`, SHA-256
+`5d3a3581e68341d8a98dffc588bc73b5b63672350dc2e59f75c10ed7ff10f25d`.
+The 88-source/19-pin selection keeps the original 30 CPU / 90 wall second /
+256 MiB / two-process limits. Preserve the actual result without automatic retry.
+
+Serving02: ten controls passed; only the offer/reopen case failed. Its two
+present features require 89,086 expanded row bytes before the <2 KiB header;
+the fixture's 65,536-byte expansion ceiling therefore correctly caused refusal.
+Known cost1.953125 CPU / 6.3298381 wall seconds, clean closure. Product bytes
+are unchanged. Both independent source reviewers justify 131,072 expanded
+bytes, with the original 65,536 wire bytes and all service/outer limits unchanged.
+Select source-only `test_serve_workspace03.py` and Select-ServingChecks03.ps1
+for that ONE unresolved case. Inherit its original assertions and corrected
+context; do not repeat the ten passing cases or erase either failed run.
+Root read/adopts the source-derived correction review and selects one execution
+of exact03 SHA-256
+`64b269af83ea802f8437f69225b9e22000ad906e4f3a10691e5020fe64d6ae64`
+(89 sources / 19 pins). One unresolved control, no product or outer-limit change.
+
+Root read/adopts final SERVING-REVIEW. Controls03 passed its one selected case,
+with two real service lifetimes/four offer-and-known-ID-group exchanges and
+clean reopen/closure. Together with ten passes02, all eleven changed serving
+boundaries have passing evidence. Both earlier failed runs retain their status.
+Known serving-check CPU including failures is4.9375 seconds. No further run
+on this boundary is selected. The full deployable v5 goal remains active.

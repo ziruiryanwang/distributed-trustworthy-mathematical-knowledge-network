@@ -6,6 +6,9 @@ are in `../../research/cycles/v5-2026-10-07/PLAN.md` and `DECISIONS.md`.
 
 - [Ordinary runtime construction](client/RUNTIME.md): owner-adopted runtime
   configuration without fixed theorem/receipt/experiment inputs.
+- [Serve a retained workspace](client/SERVING.md): ordinary finite HTTP service
+  over existing index, semantic and packet stores, with explicit ownership and
+  shutdown. No fixture-specific server driver or mathematical issuer is needed.
 - [Discovery rejection isolation](client/SEARCH-VALIDATION.md): keep existing
   live work after a classified invalid index reply, within the original budget.
 - [Evidence client API](client/API-EVIDENCE.md) and
