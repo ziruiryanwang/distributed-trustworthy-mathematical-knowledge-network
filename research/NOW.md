@@ -1,5 +1,33 @@
 # Current research desk
 
+**2026-10-20 body-supplier continuation independently adopted; no rerun.**
+All fourteen selected tests pass with two actual local provider requests:
+P lacks the body and returns EOF; Q supplies the exact committed body. The
+original client/grant and full failed-attempt charge remain; real custody checks
+pass and all sockets/outer processes close. Owners are explicitly inert, so no
+new genuine mathematical-admission claim. Known CPU 2.09375 seconds, wall
+3.8775428 seconds. Root read/adopts independent outcome review `0d1964bf`,
+including all 96 original/snapshot source bindings and 19 runtime pins.
+core_search inspects only ordinary HTTP-service/maintained-location composition
+as the next core seam.
+No RAM work, proof, native run or repeated test is selected.
+
+**2026-10-20 body-refusal source cleared; one focused suite selected.**
+Root read/adopts independent source review `895f00bd`: transport `43fa1acd`,
+facade `a7c4979c`, helper `9b82de53`, fourteen controls `c19a5b13`.
+Select plan `5eff81de` once: 96 source bindings, 19 retained runtime pins,
+20 CPU / 60 wall seconds / 128 MiB. It includes real local provider EOF then
+alternative exact-body custody, with explicitly inert mathematical owners.
+No native/proof/READY run or RAM investigation. Used sources freeze at execution.
+
+**2026-10-20 prioritize useful continuation, not more RAM/comparator machinery.**
+Root adopts deferral of the standalone native context, second authoring lane
+and durable authority cache. Select the body-read resilience increment in
+ACQUISITION-RESILIENCE-SELECTION.md: a settled unavailable supplier must not
+destroy unrelated live mathematical work; the agent may choose an authorized
+alternative within its unchanged grant. Source and focused controls only;
+no runtime is yet selected. Existing native evidence is reused, not repeated.
+
 **2026-10-20 native complete-closure option independently adopted.**
 Actual02 `b0454a20` passes final independent source/output audit: one real native
 call, zero assumptions, three exact member journals including the unchanged

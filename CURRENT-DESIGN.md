@@ -1,8 +1,28 @@
 # Current design: decentralized Lean mathematical commons
 
-Updated: 2026-10-16. This is a mutable navigation page, excluded from frozen checkpoint manifests.
+Updated: 2026-10-20. This is a mutable navigation page, excluded from frozen checkpoint manifests.
 
 ## Current candidate architecture: v5
+
+The current ordinary installed reader and contributor have passed their scoped
+checks; see [installed outcome review](research/cycles/v5-2026-10-20/INSTALLED-REPAIR-REVIEW.md).
+Demand-directed semantic retrieval and explicit split-provider body retrieval
+also have retained actual evidence. The next development successor adds
+[settled body-supplier failure](research/cycles/v5-2026-10-20/ACQUISITION-RESILIENCE-IMPLEMENTATION.md):
+the agent can try another authorized supplier without discarding prior work.
+Its fourteen new controls pass, including real local EOF-to-alternative-body
+custody; mathematical owners in that suite are explicitly inert. These fresh
+source overlays do not silently change a frozen installation.
+
+The inexpensive [native complete-closure option](software/v5/native_closure/README.md)
+is also checked and independently reviewed. It is suitable for selected small
+DAGs, not a replacement for ancestry-independent certification. Standalone
+native semantic views, a second authoring pipeline and durable authority caching
+are deferred because they do not presently justify their integration cost.
+No memory polling, heavy proof campaign or repeated passing test is selected.
+Genuine aggregate certification, justified full-cost growth and final public
+release remain open. The live next selection is always [NOW](research/NOW.md);
+the paragraphs below preserve earlier architectural context.
 
 Read the [complete theoretical architecture guide](notes/V5-ARCHITECTURE-GUIDE.md)
 for the whole system: formal modules, certified/lazy reuse, local Lean authoring,

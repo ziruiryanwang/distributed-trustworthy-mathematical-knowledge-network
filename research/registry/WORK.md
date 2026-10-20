@@ -4,6 +4,19 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 body-resilience fourteen-control run independently adopted, no live
+runtime. All used new sources/controls freeze. core_release completed the saved
+outcome audit in ACQUISITION-RESILIENCE-REVIEW; core_search owns source-only
+SERVE-AND-ADVERTISE-DECISION, reusing existing location/HTTP components.
+core_growth completed controls. Root owns adoption, navigation and Git.
+No extra architecture branch, RAM work, proof or repeated test is selected.
+
+2026-10-20 source selection ACQUISITION-RESILIENCE-SELECTION.md: core_search
+owns body-only clean transport/refusal plus fresh supplier_resilient facade/helper;
+core_growth owns disjoint focused controls; core_release owns independent
+boundary review. Root owns finite selection/adoption/Git. No live runtime,
+RAM investigation, proof, native-semantic lane or durable authority cache.
+
 2026-10-20 native closure implementation and nineteen controls plus actual02
 have independent passing audits; failed actual01 remains preserved. Root owns
 adoption/Git; no runtime lives. core_growth now owns only a concise native
