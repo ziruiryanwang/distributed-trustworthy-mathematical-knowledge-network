@@ -4,6 +4,19 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 core_release integration audit8327ad2f adopted by root; all coherent
+build/source/installed assignments complete, no runtime. Current installed
+candidate0fbbbc59 has109 SDK sources. Root Git checkpoint; core_growth and
+core_search retain only their disjoint exact benefit-case/critique assignments.
+
+2026-10-20 installed adoption/startup/withdraw and two intended entry denials
+complete once; core_release saved integration audit only, root Git/adoption.
+core_growth BENEFIT-CASE.md; core_search BENEFIT-CASE-CHALLENGE.md, both under
+research/cycles/v5-2026-10-20, source/theory only. Choose exact supported workload
+and existing optimized comparator before authorizing a bespoke solver or run.
+Separate commons discovery savings from incremental certificate economics;
+charge type/interface/semantic acquisition and paid service, not only proofs.
+
 2026-10-20 conjunction outcome16383e56 adopted; all prior pair assignments
 complete, no runtime. CONSOLIDATION-SELECTION: core_search fresh builder/example/
 docs under software/v5/distribution_coherent; core_release disjoint installed

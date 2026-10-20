@@ -3,20 +3,67 @@
 ## Current source navigation (read before proposing a missing capability)
 
 The installed SDK map is `sdk_sources` in
-`experiments/v5-local-checks/distribution-interface-01-input.json`
-(SHA-256 `a0d5fad85893bdda55ae10530cd59bc513d4fe90654a2b0661aad624793159b2`).
+`experiments/v5-local-checks/distribution-coherent-01-input.json`
+(SHA-256 `1903bb44b6176dae5d43142f11cd90ddde6d494d51d5b5c1c377f3ebf5182528`).
 Resolve logical module names through that map before inspecting implementation.
 For example, the installed mixed receiver is
 `software/v5/runtime_efficient/mixed_claims/receiver.py`, not its old logical-path
 predecessor. Runtime pin-phase deduplication and general exact-J seal preparation
 already exist. Historical "missing" recommendations are not current evidence.
 The installed candidate is
-`product-local/v5-distribution-interface-01/Mathematical Commons v5`, release
-`c249d086928e62a00ec194f1b556c6cffa918c1106159102e32a8617c9fbadf0`.
-Its 108-source map includes interface-only authoring and supplier-complete
-declaration continuation. Do not overwrite those with predecessor overlays.
+`product-local/v5-distribution-coherent-01/Mathematical Commons v5`, release
+`0fbbbc59c6bd020f820bc458f13350d976116f94290404e8ff84b939e3b107bf`.
+Its 109-source map preserves interface-only authoring and supplier-complete
+declaration continuation and adds tested withdrawal/optional pair discovery.
+Ordinary mathematical startup requires an existing explicit trust adoption;
+use the matching distribution_coherent examples, not predecessor callers.
+The integration-test domain was deliberately withdrawn: it is evidence, not
+a reusable live owner policy. Do not overwrite earlier installations or state.
 
 ## Current work
+
+**2026-10-20 coherent installed integration adopted.**
+Root reads/adopts saved integration audit8327ad2f and actual five reports:
+separate adoption/reopen, real13-source owner binding, same-config paired
+workspace reopen, explicit withdrawal, exact reader/contributor denials before
+client/workspace/math/network work. All Jobs closed. Known CPU41.859375;
+summed operation wall50.0673013 includes the overlapping negative pair.
+Together with build audit38b785e5 this adopts release0fbbbc59 as the current
+installed candidate, NOT final v5. No runtime remains or rerun is selected.
+Root preserves source/selectors/outcomes in Git; source-only concrete growth
+case and independent challenge continue. No new proof or RAM investigation.
+
+**2026-10-20 installed actions complete; growth case construction selected.**
+Root reads actual adopt/startup/withdraw success and reader/contributor exact
+TRUST_WITHDRAWN denials; all five enclosing Jobs closed with no live process.
+Saved integration audit remains with core_release; no rerun. Build audit
+38b785e5 adopted, exact109-source release0fbbbc59. BENEFIT-WORKLOAD-DECISION
+53f82a45 separates sharing a new discovery from optional certification premium.
+Root selects concrete source/theory case construction, not a new solver/proof:
+core_growth BENEFIT-CASE.md exact supported family/constructive endpoint and
+existing optimized comparator; core_search BENEFIT-CASE-CHALLENGE.md checks
+fairness, semantic acquisition/search cost and whether this advances the core.
+No implementation/experiment before that decision; root rejects weak baseline,
+assumed expensive rediscovery or omitted type/interface costs as evidence.
+
+**2026-10-20 coherent build complete; changed installed boundaries selected.**
+Existing builder terminated cleanly with exact release0fbbbc59 and109 SDK
+sources; 33.90625 known CPU/211.6955203 wall seconds. core_search independently
+audits saved build/map while root runs only the reviewed changed public-entry
+checks. CONSOLIDATION-REVIEW22b218c6 covers action selectore6b63b7d and denial
+selectorea41ecb9. First explicit adoption request37244537; each later action
+requires the prior completed saved result and clean closure. No proof/native/
+author/network work or repeated mathematical campaign is selected. Installed
+candidate adoption waits for saved build and boundary outcomes; full v5 open.
+
+**2026-10-20 one coherent distribution build selected.**
+Root reads builder6d6f5411/contributorb6bcf87c exact predecessor diffs and
+independent CONSOLIDATION-REVIEW3fb56627. Select-CoherentDistributione40befa1
+retains current108-source baseline with eleven replacements and one addition;
+all used withdrawal/pair code stays unchanged. One existing-builder run:
+120 CPU/300 wall seconds,128 MiB. No new prover/checker/math/network or extra
+whole-install readback. Installed boundary selectors remain under review.
+Conjunction source/evidence is preserved at commitc1810a5. Full v5 stays open.
 
 **2026-10-20 pair-index outcome adopted; coherent integration selected.**
 Root read/adopts CONJUNCTION-OUTCOME16383e56: nine controls pass, same-corpus
