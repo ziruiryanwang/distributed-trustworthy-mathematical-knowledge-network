@@ -1,5 +1,93 @@
 # Current research desk
 
+**2026-10-20 typed-row correctness adopted; next work selected by payoff.**
+Root read/adopts saved-outcome audit `505ef2a5`: eight mandatory comparisons,
+including both real old/new module conclusions and the exact aggregate oracle,
+PASS with clean closure. Known CPU 0.703125 seconds; wall 1.6626333. Preserve
+used sources/build/fixtures/results; no rerun. This removes generic suffix
+representation work for 1,513 rows, not a measured producer speedup or receipt.
+No runtime lives. Root records the coherent Git checkpoint while core_growth
+assesses whether a guest measurement would change a near-term production
+decision and core_release identifies the highest-payoff remaining core-loop
+seam. No RAM inspection, new proof campaign or distribution rebuild selected.
+Full v5 remains active and incomplete; avoid further bookkeeping without a
+decision-changing question.
+
+**2026-10-20 typed-row build adopted; eight focused comparisons selected.**
+Root read/adopts build outcome `7d562a6b`: four compiles, clean closure,
+91.859375 known CPU / 55.2371657 wall seconds, no tests/proofs. Select controls
+plan `4c648a97` once after reviews `04436e71` / `d5e7c67e`: exact binary
+`83c27079`, two sources, 24 input/runtime pins, eight mandatory tests including
+retained real conditional checker positives; 40 CPU / 90 wall / 512 MiB.
+This tests unchanged mathematics and accounting, not proof production or speed.
+No repeated passing campaign, RAM investigation or product rebuild.
+
+**2026-10-20 compile invocation preflight correction; no compiler ran on01.**
+Root invoked the compiler controller with installed receiver Python rather than
+its explicitly pinned D:\Python314 runtime; `PINNED_PYTHON` refused before any
+output/Job/compiler. Preserve plan01 and the failure checkpoint. Exact existing
+interpreter/DLL hashes verified. Select name-only fresh compile02 `0eaf0bd5`
+once with the required runtime and unchanged sources/budgets; see
+TYPED-BUILD-PREFLIGHT-CORRECTION.md. No implementation or resource-policy change.
+
+**2026-10-20 typed-row compile selected once.**
+Root adopts actual source reviews `c114abfe`, `72689896`, `ea39fbcc` and selects
+39-source compile plan `a2e088f8` once under TYPED-ROW-RUNTIME-SELECTION.md:
+checker/module/aggregate/test executable, retained dependencies, one cumulative
+180 CPU / 240 wall seconds / 1,536 MiB worker envelope. No tests, guest, proof,
+RAM scan or old campaign runs in this compile. Exact control execution requires
+the successful build and independent final control-adapter review.
+
+**2026-10-20 installed public discovery independently adopted.**
+Root read/adopts `CONNECTED-INSTALLED-SERVICE03-OUTCOME.md` (`7c2a96c6`):
+installed launch, both Node roles, formal route/descriptor/offer/verified page,
+service maintenance, orderly closure and workspace reopen pass. Known CPU
+21.890625 seconds; wall 139.057891. Synthetic descriptor, no mathematical
+admission or global-completeness claim. Keep successful03 and failed01/02
+unchanged; no rerun. Typed-row source implementation is now written with
+parallel independent boundary reviews and focused controls in preparation.
+Compilation/execution remains unselected; full v5 is active and unfinished.
+
+**2026-10-20 typed-DAG implementation selected; installed03 returned success.**
+Fresh source scope is TYPED-ROW-IMPLEMENTATION-SELECTION.md. Decoder/types,
+borrowed correspondence/native mapper and root relation/census adapters are
+separate owned files under software/v5/typed_rows; independent review follows
+the actual changes. No compiler/prover or timing run is selected. The installed03
+check exited zero with clean closure (21.0625 worker CPU + 0.828125 wrapper CPU,
+139.057891 wall seconds); exact outcome adoption awaits its independent audit.
+No live runtime, RAM investigation or repeated passing campaign.
+
+**2026-10-20 installed03 exact caller correction selected once.**
+Root adopts independent review `e31669d7`: adapter `126f2081`, selector
+`bcdbd728`. Select prepared plan `302a92d7` once on unchanged release
+`69d9456e`, with 120 CPU / 600 wall seconds / 512 MiB / six processes.
+Only caller reply provision and incremental evidence change; failed01/02
+remain failed. No rebuild, RAM investigation or repeated passing campaign.
+In parallel, final typed-row table `8360a87e` and independent review
+`f76eac1f` are ready for root's smallest source implementation decision.
+The full v5 goal remains active, not achieved.
+
+**2026-10-20 actual02 hosted correctly but failed its page-quota provision.**
+Root adopts independent audit `4f72eb91`. Both roles READY, public/boot PASS,
+13 health observations and clean closure are observed; overall search FAIL.
+Legacy page reserves 1 MiB after the offer charged 1,973 bytes, exceeding the
+caller's 1 MiB provider total before page dispatch. Source-derived cause, not a
+logged exception. Known CPU 21.5625 seconds, wall 139.1319642. Preserve02.
+Only the exact fresh03 caller correction in CONNECTED-PAGE-SELECTION.md is
+selected as source work: offer+page total, fresh names, incremental evidence.
+No product rebuild, memory/proof experiment or runtime launch is selected yet.
+Typed-DAG field/refinement work continues separately.
+
+**2026-10-20 exact installed-request correction selected once.**
+Root adopts correction review `0abd9b60`: fresh adapter `8467a2c9`, selector
+`701cdf8c`. Select `f7f080a1` once against unchanged installation `69d9456e`.
+Only caller output allowance meets the existing 64 MiB minimum; fresh names
+and observed READY-role reporting change. All time/CPU/memory/process limits
+remain unchanged. No rebuild or weakening of product checks. Preserve failed
+actual01 and its known cost. Parallel source-only `TYPED-ROW-SELECTION.md`
+targets shared suffix DAG rows, retaining declaration metadata and foundation
+as original Values; implementation/proof work is not yet selected.
+
 **2026-10-20 installed actual01 failed at caller output-budget validation.**
 The public launcher rejected `CLIENT_OUTPUT_LIMITS`: the test adapter supplied
 32 MiB, below its existing 64 MiB `SOURCE_TOTAL` minimum. No provider boot,

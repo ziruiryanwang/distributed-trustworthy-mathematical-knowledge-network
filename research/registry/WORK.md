@@ -4,6 +4,33 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 typed implementation/build/eight controls are independently adopted;
+all used bytes frozen, no runtime. core_search completed saved-outcome audit
+TYPED-CONTROLS-OUTCOME.md. core_growth owns source/evidence-only
+TYPED-PRODUCER-NEXT-DECISION.md; core_release owns V5-NEXT-CORE-SEAM.md.
+Root owns adoption/Git and chooses one next high-payoff implementation step.
+No RAM work, repeated campaign, guest or proof launch selected.
+
+2026-10-20 installed03 terminal child0 and clean closure, independent actual
+audit assigned to core_release; no rerun. Root selects fresh typed_rows source
+implementation only: core_growth strict decoder/row types, core_search borrowed
+correspondence/native syntax mapper, root relation/census integration,
+core_release changed-boundary review. See TYPED-ROW-IMPLEMENTATION-SELECTION.
+No compiler, proof, RAM investigation, second I lane or product rebuild selected.
+
+2026-10-20 root selects corrected actual02 `f7f080a1` once; core_release owns
+saved actual audit, core_search finishes request-contract checkpoint then
+independently reviews typed-row refinement, core_growth writes exact DAG-row
+table/local simulations. No installation/product change or proof campaign.
+
+2026-10-20 installed actual01 terminal failed at caller output minimum, no live
+runtime. Root adopted `c05b690a`; corrected source selection is
+CONNECTED-CORRECTION-SELECTION.md. core_search owns exact adapter02 and request
+contract note; core_release owns narrow source/selector review; root owns
+selector02 and any one finite launch. core_growth owns actual fast-subset table
+and refinement argument in TYPED-ROW-FAST-SUBSET.md. No product rebuild, RAM
+work, guest rewrite, prover or repeated passing campaign is selected.
+
 2026-10-20 connected build independently adopted; root selects installed public
 service `0e77f953` once with original finite600wall envelope. core_release owns
 saved actual-outcome audit; core_search independently audits direct-I frontier
