@@ -4,6 +4,20 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 installed reader/contributor both failed and closed. core_search
+owns source-only INSTALLED-COST-DECISION.md; core_growth owns source-only
+INSTALLED-AUTHOR-DECISION.md and Lean runtime dependency diagnosis; core_release
+owns actual-outcome audits in DISTRIBUTION-REVIEW/CONTRIBUTOR-REVIEW.
+Root owns next repair selection, status and Git. No retry, RAM campaign,
+budget increase or used-source mutation is authorized by these assignments.
+
+2026-10-20 build02 exact installation adopted after full independent map audit.
+Root owns selected concurrent installed reader/local-contributor operations and
+Git; core_release checks exact staged requests then saved outcomes; core_search
+has a brief read-only optional-role packaging note (no new implementation);
+core_growth's source/input/control tasks are finished. No proof/RAM work or
+old campaign renewal. Full v5 is not yet complete.
+
 2026-10-20 build01 wall-limited and independently audited, partial tree retained.
 Root rejects unchanged retry. core_search owns efficient-path successor plus
 completed examples/contribute.py/docs; core_release owns failed-build audit,

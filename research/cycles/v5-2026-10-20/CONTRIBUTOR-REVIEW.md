@@ -118,3 +118,87 @@ its explicit parent is `product-local/v5-distribution-02`. The corrected
 integration document hashes to
 `ed9dc37ac66766d19c55edeaa06552cd12a93272a5483283dee9cf815ad48320`.
 These are the current source/data review identities; no staging was run.
+
+## Exact staged installed request clearance
+
+Reviewed the actual 6,117-byte request at
+`product-local/v5-distribution-02/contributor-controls/installed-contribution-01-request.json`,
+SHA-256 `49c8817e41e585143954f45b0871e0b0cee0caffcdd5d55742e842c511ea65fb`.
+The staged owner, retained packet and 916-byte Lean source all match their
+reviewed exact pins. Its workspace configuration equals the retained
+remote-reader configuration; root/export names correctly select the polymorphic
+`ClientV5.project_summary` workload. The reviewed original grant, admission/
+author allocations, outer limits and installed-role markers are unchanged.
+
+The mathematical workspace, run and request-control targets were fresh at
+review and disjoint from the selected remote-read run/reader/custody paths.
+Both share only the independently accepted immutable installation
+`9648f06f...`, whose public source is `17932cb0...`. Cleared for root's one
+ordinary installed contributor invocation, alongside the independently bounded
+read if desired. Actual COMPLETED+CONTRIBUTED, mathematical correspondence and
+closure remain pending; no execution was performed by this reviewer.
+
+## Actual installed contribution failure audit
+
+Request `49c8817e...` ran once and failed in `stage="author"` with
+`ProductionError: PREPARATION_COMMAND_FAILED_OR_DIRTY`. The underlying
+worker reports `WORKER_NATIVE_REFUSED`: native return code 1, not timed out,
+no export bytes/hash. Its inherited stderr identifies the exact first missing
+file:
+
+```text
+assets/lean/lib/lean/Init.olean.server
+```
+
+This is an incomplete relocated Lean runtime closure, not RAM exhaustion or
+a rejected mathematical theorem. The six-file selected runtime included five
+DLLs and `Init.olean`, but no `Init.olean.server`. The original runtime also
+contains `Init.olean.server` and `Init.olean.private` (96 bytes each), explaining
+why the original-root workflow did not expose this missing pin. Those two
+files alone are **not** established as the complete dependency closure:
+derive the frontend's actual transitive Init/import-mode requirements before
+selecting any successor, rather than patching missing files one at a time.
+
+The input had already reached READY with 12 groups / 15 declarations, no
+demands, and zero frontend theorem-ancestor proof bytes. Actual current I/native
+input checking completed under the installed executables. The saved I journal
+exactly equals the native parent; the native conclusion equals the mixed
+journal. The retained packet, receipt and native-input identities match the
+selected workload. Fixed foundation and unsealed onward ancestry remain
+included. No new output packet was admitted and no publication was attempted;
+`checked_output`, `preparation` and `publication` are null.
+
+Generated plan SHA-256
+`d6beb2208502cd70462229c051d52916a226775518406f3e3ce26b239727e69b`
+matches the outer report. Independently rehashed all 103 selected installed/
+caller originals and 103 run snapshots: no mismatch. The current worker config
+points to installed AuthorLean/Lean assets and the selected worker snapshot;
+the failure is missing dependency data, not fallback to the old runtime.
+No successful BOOT-RESULT or executed complete-authoring claim is made.
+
+The author subtree exited 1 cleanly: 0.59375 inclusive CPU seconds,
+1.1823971 wall seconds, peak private commit 31,076,352 bytes, reaped child,
+closed Job, zero active processes and no cleanup errors. The worker itself
+recorded 0.8202449 wall seconds and no native timeout. The preparation owner
+reported 58.453125 lifetime controller CPU seconds; that is not additional
+to the enclosing Job. Input client/workspace and all selected owners closed.
+
+Outer known CPU is 65.171875 seconds = 62.71875 inclusive Job + 2.453125
+wrapper; wall 74.0220452 seconds; peak private commit 112,959,488 bytes.
+Outer closure is clean, nonforced, with exit 1 and no remaining active process.
+The cheap failing author child versus substantial controller observation is
+additional motivation to inspect repeated installation/pin/path checks, not
+evidence for more RAM or a precise profiling attribution.
+
+Result identities:
+
+- Outer RESULT: `a6dc05229947c63d67194629342fe61becd101da5b2d001df673da09e2d30311`.
+- Contribution: `a678dc1f446cbcc8928f11982afdece3505d05ecaf2c30b99bba0e1a23bcc84d`.
+- Worker: `e50636fe7fd77291a22914bfca811c7f879ba4a129f51a41b778dfba4625d385`.
+- Author stderr: `06aafe1c2b2ed9982c0c9812dda757bf2f245ac5f423d9e0550900b168fe259a`.
+
+Preserve the complete failed request, source, installation and evidence.
+No contributor retry, in-place dependency addition or budget renewal is
+selected by this audit. The immediate source-led repairs are complete
+installed Lean dependency selection and nonduplicative runtime validation;
+mathematical authority and live-output admission must remain unchanged.

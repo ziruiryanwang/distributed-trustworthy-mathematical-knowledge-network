@@ -1,5 +1,61 @@
 # Current research desk
 
+**2026-10-20 both installed operations terminal; source fixes selected first.**
+Reader `dce01a83` failed during semantic import with
+`AGGREGATE_CONTROLLER_CPU` (30.515625 observed against 30 seconds), after five
+HTTP requests and genuine I/native admission. Contributor `49c8817e` reached
+READY input and authoring, then failed because the relocated Lean runtime lacks
+`lib/lean/Init.olean.server`. No output admission or publication occurred.
+Both outer Jobs closed cleanly; neither failure is a RAM diagnosis. Preserve
+all used requests, installation, sources and failed evidence. No retries or
+budget increases are selected. core_search investigates repeated controller
+filesystem work; core_growth derives the complete Lean authoring runtime
+closure; core_release independently audits both actual failures. Root owns
+integration decisions and Git. Choose a small source-supported repair, not a
+new proof/memory campaign; full v5 remains unfinished.
+
+**2026-10-20 installed operations now running, not yet adopted.** After exact
+staged-request review, root invoked the installed public entry for reader
+`dce01a83` (session 55372) and contributor `49c8817e` (session 71157) concurrently.
+Their original independent deadlines/budgets remain unchanged. No other
+experiment is selected; do not infer success from live processes or restart a
+finished operation. Used examples, requests, caller inputs and install freeze.
+
+**2026-10-20 complete installation adopted; two ordinary checks selected.**
+Root read/adopts the independent build02 audit: exact release `9648f06f`,
+6,771 payload files/527,704,611 bytes, all hashes and 112 relative preparation
+pins match. Build closed cleanly in 148.759825 wall/39.828125 known CPU seconds.
+The failed01 directory remains unaccepted. Reviewed staging now produced
+relocated-reader request `dce01a83` and local-contributor request `49c8817e`.
+Select these two disjoint ordinary operations once, concurrently after exact
+request review: unchanged 45 CPU/120 wall/512 MiB reader and 150 CPU/240 wall/
+1024 MiB contributor. Reuse retained I/mathematics; no new cryptographic proof,
+seed construction, Node or public networking. Require READY for the reader
+and actual checked CONTRIBUTED for the author, not merely exit zero. All runtime
+dependencies must resolve to the installed selection; original source assets
+and earlier result reports confer no new authority.
+
+**2026-10-20 path mechanism controls pass; fresh build02 selected.** Exact
+selection `8178eb99` passed six controls once, 0.734375 known CPU seconds and
+0.805957 wall with clean closure. Additional files under an already checked
+directory triggered zero directory resolutions; one new directory triggered
+one. File checks and scope resets passed. Root selects build02 `773f4296`,
+input `fcfbbc75`, to the fresh candidate02 path under the unchanged
+60 CPU/180 wall/128 MiB envelope. Only the reviewed builder input pin changes;
+the base, 102 SDK sources, assets and Lean runtime are unchanged. This is a
+changed method supported by source/count evidence, not an unchanged retry.
+
+**2026-10-20 efficient-path source ready; mechanism check selected.** Root and
+independent reviewer clear successor `17932cb0`: a fresh operation-scoped cache
+for validated directories, never file contents, file types, freshness or hashes.
+Final verification uses a separate fresh scope. This assumes stable
+owner-controlled local directories and is not a hostile-filesystem sandbox.
+Select only six changed-boundary controls (`5c8b20cd`) to count directory
+resolutions and check fresh/type/hash/scope behavior; the seven original
+passing controls are not repeated. Same 20 CPU/60 wall/128 MiB small envelope.
+If mechanism evidence passes, root may select build02 with unchanged input map
+except this reviewed utility, and unchanged 60 CPU/180 wall/128 MiB.
+
 **2026-10-20 file-install bottleneck identified; unchanged retry rejected.**
 Build01 closed at its original 180-second wall limit with 43.46875 known CPU
 seconds and 38,666,240-byte peak Job commit. It copied 6,537 files/134,253,805
