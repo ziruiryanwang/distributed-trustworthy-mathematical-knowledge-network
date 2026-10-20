@@ -1,5 +1,24 @@
 # Current research desk
 
+**2026-10-20 existing-context contribution controls independently adopted.**
+Root read/adopts `CONTEXT-CONTRIBUTION-REVIEW.md` outcome `82d868fd`:
+eight mandatory controls, actual inherited context-identity refusals and inert
+composition checks pass; clean closure, 1.03125 known CPU / 3.570197 wall seconds.
+Helper `ce82e170` and used tests are frozen; no rerun. Root selects only source
+preparation for one real selected-context `summary_independence` continuation:
+core_search adapter, core_release installed request selector, core_growth
+independent review after code is ready. Reuse existing installation and data;
+no network/discovery replay, new certificate, guest build or RAM investigation.
+No runtime lives; actual Lean contribution remains unexecuted.
+
+**2026-10-20 demand-directed contribution continuation selected.**
+Typed-row correctness is preserved at Git `ca53d2f`; no guest/proof run selected.
+CONTEXT-CONTRIBUTION-SELECTION.md selects a small optional helper from an
+existing live selected-semantic context to author/check/publish, without input
+reacquisition or another bulk import. core_search owns helper/docs, core_release
+focused controls, core_growth independent review. Root owns finite execution
+and Git. Existing owners/checkers and installed distribution remain unchanged.
+
 **2026-10-20 typed-row correctness adopted; next work selected by payoff.**
 Root read/adopts saved-outcome audit `505ef2a5`: eight mandatory comparisons,
 including both real old/new module conclusions and the exact aggregate oracle,

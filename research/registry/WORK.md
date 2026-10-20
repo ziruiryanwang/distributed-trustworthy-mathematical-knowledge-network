@@ -4,6 +4,17 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 helper eight-controls adopted (`82d868fd`), no live runtime.
+Source-only actual continuation: core_search examples/context_actual.py;
+core_release current-cycle select_context_actual.py; core_growth independent
+review once written. Root exact-input/runtime selection and Git. No old test,
+network demonstration, installation rebuild or proof campaign repeats.
+
+2026-10-20 CONTEXT-CONTRIBUTION-SELECTION.md is the new source selection:
+core_search helper/docs, core_release disjoint controls, core_growth source
+review after producer decision, root integration/runtime/Git. No runtime yet.
+Do not expand into another framework, verifier, installation or RAM campaign.
+
 2026-10-20 typed implementation/build/eight controls are independently adopted;
 all used bytes frozen, no runtime. core_search completed saved-outcome audit
 TYPED-CONTROLS-OUTCOME.md. core_growth owns source/evidence-only
