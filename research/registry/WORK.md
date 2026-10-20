@@ -4,6 +4,39 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 actual ordinary runtime integration is independently audited/adopted;
+no runtime lives. Fresh selected service work: core_search owns
+client/serve_workspace.py and client/SERVING.md; core_growth owns
+client/test_serve_workspace.py; core_release owns independent SERVING-REVIEW.
+Checkpoints remain in cycles/v5-2026-10-20. Root owns runtime selection and Git.
+Only small existing-provider composition is selected, no proof or new protocol.
+
+2026-10-20 continuation: core_search owns completed source-only runtime_check
+and ORDINARY-INTEGRATION; core_release owns its independent ORDINARY-REVIEW and
+eventual actual outcome review. Root owns exact selector, launch and Git.
+core_growth owns NEXT-CORE: ordinary persisted-workspace service lifecycle,
+reusing existing provider/location APIs; no implementation until selected.
+No proof campaign, RAM census, repeated broad tests or cloud/hardware work.
+
+2026-10-20 implemented core increments: root authored workspace_validated and
+reviewed integration; core_search authored search_validation/eight controls;
+core_release authored runtime factory/docs; core_growth authored eleven
+constructor controls. Search03 and runtime01 pass raw terminal results, after
+preserved search01/02 fixture-selection failures. No tests remain live.
+core_release owns saved outcome audits, core_search owns source-only next
+ORDINARY-INTEGRATION decision (retained actual I receipt through new factory),
+root owns adoption/Git and prospective finite integration selection. No source
+edits to used increments, no repeated tests, RAM polling or new proof campaign.
+
+2026-10-20 root supersedes the old geometry/preflight assignments with a brief
+core-payoff triage. core_search owns SEARCH-DECISION.md (transactional rejection
+of invalid discovery metadata); core_growth owns GROWTH-DECISION.md (existing
+growth capability to a concrete software step); core_release owns
+RELEASE-DECISION.md (ordinary client operability and independent challenge).
+All checkpoints are under canonical research/cycles/v5-2026-10-20. Source-only
+inspection, no runtime or Git mutation; root owns concrete implementation
+selection, small tests, adoption and Git. Preserve all prior evidence/builds.
+
 2026-10-17 after actual Build02 success and native-layout memory deferral:
 v5_growth_decision owns fresh aggregate_geometry/preflight_layout.py,
 Select-GeometryPreflight01.ps1 and GEOMETRY-PREFLIGHT.md at canonical root's

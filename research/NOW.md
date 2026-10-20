@@ -1,5 +1,55 @@
 # Current research desk
 
+**2026-10-20 ordinary real-client integration passed and audited.** Root
+read/adopts ORDINARY-REVIEW: plan8eea1d8f executed once; the new non-fixture
+constructor obtained genuine same-call I verification and a semantic context
+with 11 groups/14 declarations, zero frontend ancestor theorem-proof bytes.
+Fixed foundation/needed semantics remain included. Client/workspace and process
+trees closed cleanly. Known CPU5.140625s; wall15.64936s. No proof production,
+native delta, authoring, network operation or passing-campaign repetition.
+Next selected source is a small ordinary retained-workspace service entry,
+reusing existing typed HTTP providers and optional existing location composition.
+core_search owns product entry/docs, core_growth controls, core_release review;
+root selects exact finite runs. Full v5 remains active; the expensive aggregate
+proof work is deferred, not waived or promoted into release evidence.
+
+**2026-10-20 low-cost real integration selected in source.** Root read/adopts
+SEARCH-REVIEW and RUNTIME-REVIEW: the eight search and eleven construction
+controls pass with their stated inert-owner limits. New `client/runtime_check.py`
+uses the ordinary constructor, a retained genuine I certificate and exact
+semantic data; no proof generation, native delta, authoring or networking.
+The independent source/plan review precedes one finite invocation. RAM/layout
+work remains deferred. In parallel, identify the smallest ordinary service
+lifecycle that lets locally published contributions become remotely discoverable
+using existing provider/location components, without another protocol or fixture
+factory. Full deployable v5 remains active and unfinished.
+
+**2026-10-20 two core software seams tested, actual audit pending.** New
+`client/workspace_validated.py` preserves staged/evidence authority while pure
+prevalidation rejects invalid discovery metadata before state commit. Eight
+new controls pass in search-validation-controls-03, including invalid-then-
+honest loopback discovery; 1.9375 known CPU seconds, 33,869,824-byte peak Job.
+The first two selections failed before tests on omitted fixture imports; both
+remain retained, totaling 2.21875 known CPU seconds. New `client/runtime.py`
+constructs the exact existing owners without fixture theorem IDs/receipts or
+phase names. Eleven constructor controls pass in ordinary-runtime-controls-01;
+1.53125 known CPU seconds, 30,322,688-byte peak Job. These tests use inert
+mathematical owners and establish no new mathematical certification. Used
+source/test bytes freeze. Independent saved-outcome audit and a source-led
+real-owner/retained-I integration decision follow; no new proof/build is chosen.
+
+**2026-10-20 user-directed efficiency pivot.** The interrupted prior turn
+did not change software or authoritative research state. Revalidated: tracked
+tree clean, four unrelated drafts preserved, no Python/Rust/Lean project worker
+observed and no live inherited agent. The completed snapshot build is retained;
+unexecuted geometry/layout/preflight work is deferred, not the final v5 goal.
+Do not poll RAM or launch another proof/build as the default continuation.
+Root selects a short source-led core triage: search rejection isolation,
+existing growth-to-software gaps, and ordinary non-fixture client operability.
+Checkpoints: cycles/v5-2026-10-20. Implement the best concrete central gap with
+focused cheap changed-boundary tests; no repeated broad campaign or new trust
+shortcut. Prior dated launch plans below are not renewed by this continuation.
+
 **2026-10-17 exact layout prepared/reviewed; immediate RAM gate deferred.**
 Build02actualaudit68af5390 adopted and committed5c10253. Layout01exacta717a88a
 passes6b0a7dfe review:28sources/88runtimepins, actualprofile/H2/newhost,17.7MB
