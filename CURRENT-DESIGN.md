@@ -14,6 +14,17 @@ Its fourteen new controls pass, including real local EOF-to-alternative-body
 custody; mathematical owners in that suite are explicitly inert. These fresh
 source overlays do not silently change a frozen installation.
 
+The new [discovery-enabled hosting entry](research/cycles/v5-2026-10-20/SERVE-AND-ADVERTISE-IMPLEMENTATION.md)
+composes existing HTTP hosting and maintained location with bounded health
+checks and ordered cleanup. Its nine inert lifecycle controls pass. The one
+actual attempt failed before provider readiness because runtime adoption
+consumed the available startup interval; see the preserved
+[failure audit](research/cycles/v5-2026-10-20/SERVE-AND-ADVERTISE-ACTUAL-OUTCOME.md).
+It is not a passed discovery integration. The next selected source work is
+[ordinary distribution integration](research/cycles/v5-2026-10-20/ORDINARY-SUCCESSOR-SELECTION.md)
+of the completed SDK aliases and optional retained Node role, with no immediate
+repetition of that failed operation.
+
 The inexpensive [native complete-closure option](software/v5/native_closure/README.md)
 is also checked and independently reviewed. It is suitable for selected small
 DAGs, not a replacement for ancestry-independent certification. Standalone

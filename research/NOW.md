@@ -1,5 +1,38 @@
 # Current research desk
 
+**2026-10-20 actual hosting attempt failed before readiness; no repeat.**
+Root read/adopts independent failure audit `9773f4fb`. The reader's mandatory
+runtime precheck took 59.864571 wall seconds, leaving the provider only 1.6548
+active seconds after the unchanged cleanup reserve; its own precheck needed
+2.4752 seconds. No provider READY, advertisement or HTTP search occurred.
+Provider shutdown was forced; enclosing containment closed cleanly. Known
+whole CPU 14.734375 seconds, wall 73.5140174. No resource-limit termination,
+RAM investigation or repeat is selected. Preserve all failed inputs/evidence.
+Continue the fresh connected-distribution source selection: exact completed
+SDK aliases and optional existing location role. The missing live-service check
+belongs with its eventual relocated-installation boundary, under a separately
+reviewed envelope that accounts for cold runtime adoption. No installation
+or new runtime is selected yet; full v5 remains incomplete.
+
+**2026-10-20 discovery-enabled hosting controls independently adopted.**
+All nine new lifecycle controls pass with no failures/errors/skips; independent
+review `659bd651` verifies 112 source/snapshot bindings and 19 runtime pins.
+Known CPU 1.921875 seconds, wall 9.1645855; no actual service/Node/network,
+native or proof calls in these explicitly inert controls. Used sources freeze.
+One tiny two-role location-to-HTTP adapter is source-reviewed and its exact
+plan `54ab4bf6` is prepared, pending final map clearance before selection.
+No broad campaign, installation rebuild or RAM work is selected.
+
+**2026-10-20 ordinary discovery-enabled hosting selected; no RAM work.**
+Root adopts the serving/location source decision and independent seam review.
+Select only fresh `client/serve_advertised.py`, focused lifecycle controls and
+source review under current-cycle SERVE-AND-ADVERTISE-SELECTION.md. Reuse the
+already implemented maintained location provider; derive its endpoint from the
+actual HTTP service and preserve one deadline and coupled cleanup. Optional
+location uses an explicitly selected retained full runtime, not the minimal
+distribution's Node-free base. No runtime, rebuild, proof or repeated campaign
+is selected. Full scalable certification and useful-growth obligations remain.
+
 **2026-10-20 body-supplier continuation independently adopted; no rerun.**
 All fourteen selected tests pass with two actual local provider requests:
 P lacks the body and returns EOF; Q supplies the exact committed body. The

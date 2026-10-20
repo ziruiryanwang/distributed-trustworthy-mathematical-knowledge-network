@@ -4,6 +4,28 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 actual01 is terminal failed, independently audited; no live runtime.
+Root adopts failure9773f4fb without rerun. Current connected-distribution source
+author/core_search and controls/core_growth continue; core_release switches
+from completed failure audit to changed-source review. Root owns exact input
+delta and bounded integration selection. Used serving code/tests/actual01
+remain frozen; no RAM work or new proof is selected.
+
+2026-10-20 ordinary successor source integration is selected in
+ORDINARY-SUCCESSOR-SELECTION.md. core_search owns fresh connected-distribution
+builder/launcher; core_growth owns disjoint narrow controls/API documentation;
+core_release owns independent source review after the single live serving
+actual audit. Root owns selectors, adoption, Git and runtime decisions.
+No new install/proof/RAM operation is selected. Actual service01 retains its
+original separate finite allowance; no repeat is authorized.
+
+2026-10-20 SERVE-AND-ADVERTISE-SELECTION.md is the active fresh-source
+selection: core_search implements the ordinary composed entry, core_growth owns
+its focused lifecycle controls and completed optional runtime mapping,
+core_release independently reviews source. Root owns exact test selection,
+integration decisions and Git. No RAM work, proof or runtime is selected yet.
+Used predecessors and unrelated drafts remain unchanged.
+
 2026-10-20 body-resilience fourteen-control run independently adopted, no live
 runtime. All used new sources/controls freeze. core_release completed the saved
 outcome audit in ACQUISITION-RESILIENCE-REVIEW; core_search owns source-only
