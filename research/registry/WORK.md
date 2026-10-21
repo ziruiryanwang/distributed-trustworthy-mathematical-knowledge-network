@@ -4,6 +4,25 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 iterative outcomeaf49d968 adopted, no runtime remains; root Git.
+core_search minimum ADAPTIVE-LOCATED-DESIGN source contract; core_growth
+independent ADAPTIVE-LOCATED-REVIEW after contract; core_release controls/audit
+complete and available. Existing combined import requires no added mechanism;
+cross-packet native cache deferred. No installed rebuild or new proof selected.
+
+2026-10-20 resumed root closes iterative-query source review and one finite
+control selection, without restarting any completed operation. core_release
+finishes nine groups and exact clearance, then audits saved output. In parallel,
+core_search ADAPTIVE-LOCATED-COMPOSITION traces current located/direct APIs;
+core_growth MULTIQUERY-IMPORT-COMPOSITION traces genuine warrant/import reuse.
+These are narrow source decisions, not duplicate demos or broad status audits.
+No new installed build, mathematical proof, cloud or memory investigation.
+
+2026-10-20 ITERATIVE-DISCOVERY-SELECTION: core_search fresh direct_contacts and
+workspace_validated; core_growth fresh EvidenceAcquisition retirement and
+semantic_reader generation guard plus README; core_release focused controls and
+independent source review. Root finite selector/review/Git. No runtime yet.
+
 2026-10-20 integration outcome86279013 adopted; distribution76950699 is current.
 No runtime remains. Root preserves explicit Git checkpoint. Search maps bounded
 iterative-query seam; growth supplies nonrenewal contract; release available for

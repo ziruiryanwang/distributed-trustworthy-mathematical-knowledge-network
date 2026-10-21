@@ -24,6 +24,37 @@ a reusable live owner policy. Do not overwrite earlier installations or state.
 
 ## Current work
 
+**2026-10-20 bounded iterative direct-query outcome adopted.**
+Root reads/adopts independent outcome af49d968: nine groups, exact138 snapshots,
+clean closure,2.71875 knownCPU/7.2671437 wall seconds. No mathematical authority
+or network qualification claimed. The four successors and used inputs freeze;
+current installed release76950699 remains unchanged. No rerun or rebuild.
+MULTIQUERY-IMPORT-COMPOSITION confirms existing genuine-warrant combined import;
+do not add another import API/demo. Defer cross-packet native-witness caching.
+ADAPTIVE-LOCATED-COMPOSITION identifies the next concrete global-path seam:
+same-client adaptive unknown-provider queries. Select source/theory design of
+one prepaid located envelope on the existing channel; search authors minimum
+contract, growth independently challenges. No DHT/verifier change or runtime yet.
+
+**2026-10-20 one focused iterative-query control run selected.**
+Root reads the four successors, nine-group controls0fa597ba and independent
+IMPLEMENTATION-REVIEW; selector db8538cb fixes138 sources/19 runtime pins.
+Select only iterative-queries-controls-01 under45CPU/75wall/384MiB/2processes.
+Real structural acquisition/in-memory dispatch, explicitly inert issuers;
+no mathematical admission, network, proof or installation rebuild. Used inputs
+freeze at execution; no automatic retry. Parallel source decisions inspect
+located-query composition and multiquery single-import composition, not broad
+status checks or duplicate growth demonstrations. Full v5 remains active.
+
+**2026-10-20 bounded iterative direct-query implementation selected.**
+Root adopts seam a056a883/contract989e70f6 and independent provisional GO.
+ITERATIVE-DISCOVERY-SELECTION assigns four fresh iterative_queries successors:
+search direct_contacts/validated facade; growth structural retirement/helper
+generation guard; release focused controls/independent review; root selector/Git.
+One prepaid finite envelope, at most8 generations, unchanged owners/budget/deadline.
+Stale scopes expire; verified warrants survive. No READY-view extension, located
+reset, new verifier, runtime or installation rebuild selected. Full v5 active.
+
 **2026-10-20 discovery-enabled installed candidate adopted.**
 Root reads/adopts independent outcome8627901370d14c44f1a710491cd65d5d0f3209bcb0fed5ff233ae76a11c21c2a:
 build exact110 map, installed02 exact origins/local query/empty workspace reopen,
