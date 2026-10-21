@@ -4,6 +4,24 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 root adopts conditional preparation selector reviewc85ec6ac.
+Release authors managed_owner; guest reviews exact composition; screen authors
+the selected installed_lifecycle.py adapter and PUBLIC-CHECK-SOURCE checkpoint.
+Root owns subsequent finite selector, adoption, launch and Git. No runtime,
+deletion, old-test retry or broad payload sweep.
+
+2026-10-21 root read/adopts actual crashcb796110 (factual quiescence only,
+wholeFAIL/unretired) and controls669a747b (exact5/clean). Release authors new
+managed_operator/client/managed_owner.py + README/checkpoint; root exact map/
+later integration; screen source-reviews root126-entry selector; guest reviews
+owner when stable. No test retry/build/runtime/deletion. Installed121 unchanged.
+
+2026-10-21 controls exact5 rawPASS d754cd30/236ed768/840cd9bc; crash01
+failed unsupported cumulative-count equality (4 vs2), despite reported live
+QUIESCED. Guest actual evidence audit for both, no rerun/retirement/deletion.
+Release completed ordinary operator design303c8b84; root selects concrete
+owner module. Screen held exact used tests; no repeated campaigns. No runtime.
+
 2026-10-21 supervised source bec62143/b4cfab61 passes independent f5e82cd5,
 root read/adopted. Root owns small real crash adapter and adoption/Git;
 guest separate adapter/selector and later actual review; screen five narrow

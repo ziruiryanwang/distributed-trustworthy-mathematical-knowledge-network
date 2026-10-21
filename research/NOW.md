@@ -39,6 +39,36 @@ is unchanged, and no migration or broad payload sweep is selected.
 
 ## Current work
 
+**2026-10-21 ordinary managed-operator integration continues in parallel.**
+Root read/adopts preparation-only selector reviewc85ec6ac, conditional on the
+still-pending exact owner/composition review. Release authors the owner; guest
+reviews concrete composition; screen now authors the previously selected public
+four-command adapter. Root prepares its finite selector and preserves recovery
+outcomes in Git. No runtime or deletion selected; no repeat of passed campaigns.
+
+**2026-10-21 actual recovery sub-boundary and five refusals independently adopted.**
+Root fully read/adopts crash outcomecb796110 and controls669a747b. Crash01 whole
+fixture remains FAIL/unretired; exact live-handle-to-durable QUIESCED_UNCLEAN
+is corroborated by immutable registry audit, with original charge/horizon and
+other slot preserved. No cumulative-counter explanation or omitted retirement
+assertion is invented; no crash retry. Controls exact5/clean/1.734375knownCPU.
+Source implementation now MANAGED-OPERATOR-IMPLEMENTATION-SELECTION: release
+authors one installed owner through unchanged public run/boot; screen reviews
+root's preparation-only126-source selector; guest reviews owner when stable.
+No runtime, installation or managed deletion selected. Candidate121 unchanged.
+
+**2026-10-21 five refusal controls pass raw; crash fixture fails counter assertion.**
+Controls selectiond754cd30/outer236ed768/inner840cd9bc reports exact5 PASS,
+no failures/errors/skips/forbidden,1.734375knownCPU/2.0497504wall, clean.
+Crash selection5f64f698/outera83a6e44/inner97a59019 remains FAIL: expected
+cumulative Job count2 but observed4. Nested exit23/actual descendant termination,
+direct reap/active0/Jobclosed/no cleanup errors and QUIESCED slot0 are reported;
+fresh-owner reopen/retirement never ran. Guest audits preserved actual records;
+no crash retry selected and no cause of doubled counts assumed. No runtime lives.
+Used sources/selector/evidence freeze. Release source plan303c8b84 identifies
+one ordinary managed-owner entry through existing public run/boot; root selects
+that implementation next, not another launcher or proof/memory campaign.
+
 **2026-10-21 prospective crash-quiescence source reviewed; minimal checks next.**
 Root fully read/adopts source3b0b37b6 and independent reviewf5e82cd5 for
 supervised lifecyclebec62143/sessionsb4cfab61. Stale-launch open no longer
