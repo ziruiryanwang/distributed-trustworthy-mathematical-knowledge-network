@@ -4,6 +4,20 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 combined observed/close candidate build c3257f27 live50011,
+inpute0f0dc5d. Guest terminal build audit, release actual3-control saved audit,
+screen later public02 actual audit. Root source map/build/adoption/Git.
+Service review922fe5f2 and selector reviewd1cd020b adopted. No service launched;
+diagnostic warning preserved, not a failed assertion or unreported live task.
+
+2026-10-21 source-demonstrated monitor-cancellation close defect selected.
+Release owns fresh managed_close_drain service; screen independent product
+review; guest actual diagnostic-control audit then deterministic close controls.
+Root owns combined two-replacement127 selector, later finite launches/adoption
+and Git. Diagnostic controls f75d01f5 terminal0/clean, actual3b53e2c9 adopted;
+source defectacd6812c read/adopted. No service/build lives.
+Do not label this the known cause of failed01 or repeat old passing campaigns.
+
 2026-10-21 contribution01 actual2615e899 FAIL adopted, no runtime. Source
 actor4MiB-vs16MiB route defect; close cause missing, QUIESCED_UNCLEAN preserved.
 Core_release fresh managed_observed owner diagnostic-only implementation;

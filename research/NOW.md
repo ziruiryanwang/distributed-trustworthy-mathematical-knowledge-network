@@ -60,6 +60,31 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-21 close repair tested; combined candidate building once.**
+Root read/adopts source922fe5f2, controls review8b450d0e and combined-selector
+reviewd1cd020b. Exact servicec815331f repairs cooperative monitor drain, retains
+original shutdown margins and refuses store close with live background actors.
+Three extracted-method/synthetic-I/O controls d93d1333 completed0/clean; saved
+actual audit by release underway. Explicit inherited unawaited-read warning is
+retained, not a warning-free claim. Root selected one file-only combined build
+c3257f27/inpute0f0dc5d, session50011; guest audits terminal source map/result.
+No service/public02 launched. MANAGED-OBSERVED-BUILD-DECISION preserves scope;
+old installations/failure/grants remain untouched. No repeated proof campaign.
+
+**2026-10-21 direct shutdown defect selected; avoid diagnostic-only rebuild.**
+The exact127 source trace permits monitor cancellation during an in-flight
+locator status command, necessarily poisoning that channel and refusing orderly
+close. This is not established as contribution01's lost close cause. Fresh
+MANAGED-CLOSE-DRAIN-SELECTION assigns cooperative bounded quiescence to release,
+independent review to screen and a deterministic barrier control to guest.
+Owner diagnostic review077f1aa4 and controls review6d399b8c are read/adopted;
+one pure-control selectionf75d01f5 completed0/clean; root read/adopts actual
+audit3b53e2c9 (five groups,1.078125knownCPU/3.2090111wall). Source defect
+reviewacd6812c is read/adopted without attribution to the failed01 run.
+Root holds the one-owner build; unused selector865d97c1 now combines exactly
+owner+service replacements in127/106, pending separate review and controls.
+No service/build/public02 is live. No RAM or old proof campaign is repeated.
+
 **2026-10-21 public contribution01 failed; repair actual boundary first.**
 Root fully read/adopts actual2615e899: first source pull cannot fit actor4MiB
 under existing16MiB route reservation; separate close cause was not retained.
