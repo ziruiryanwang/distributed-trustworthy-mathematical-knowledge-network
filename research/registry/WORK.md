@@ -4,6 +4,24 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 sharing actual77529a96 read/adopted; no runtime remains or rerun.
+Growth RC0 core/signature/bounds and CORE-PLAN; release WIRE then aggregate
+integration; adaptive CORE-REVIEW plus controls.rs/controls_root.rs; root
+host/build adapters, selections and Git. All new sources remain unexecuted.
+
+2026-10-21 RESTRICTED-COMPOSITION-IMPLEMENTATION source-only: growth restricted
+core/signature/virtual bound modules; release RC census/frame/graph successor
+after targeted refinement challenge; adaptive sharing terminal audit then new
+core controls/review by follow-up. Root host adapters/later launch/adoption/Git.
+No expensive proof, old campaign or distribution copy. Sharing31618 terminal0.
+
+2026-10-21 sharing-margin-01 selection8ab77838 launched once/session31618:
+adaptive terminal actual audit; root outcome/adoption/Git. RC review1bcbc08a
+read; growth RESTRICTED-COMPOSITION-REFINEMENT exact witness/typing bridge;
+release RESTRICTED-COMPOSITION-WIRE exact new frame/census/producer seams.
+Both RC tasks source-only; no implementation or expensive proof selected yet.
+Canonical root, explicit workdir/absolute edits, no subagent Git. No reruns.
+
 2026-10-21 CENTRAL-INTEGRATION-ADOPTION: typed actual20ea1d82 fixed-screenFAIL;
 continued controls9f9b3737 adopted9/9. Root reviewed full sharing source48a089ca
 and selector3de2b9e4; adaptive now independent SHARING-MARGIN-REVIEW. Release

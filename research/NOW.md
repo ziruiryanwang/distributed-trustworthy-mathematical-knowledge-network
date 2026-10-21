@@ -34,6 +34,33 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-21 sharing outcome adopted; restricted core implementation active.**
+Root fully reads/adopts77529a96: exact canonical endpoints, genuine cold checks,
+same-session L advance, unknown-ID S acquisition and clean closure.76.46875 vs
+44.953125 knownCPU, difference31.515625 (single fixed-order observation); whole
+knownCPU124.0625 without nested double counting. No full-resource/growth/release
+claim or repeat campaign. SHARING-MARGIN-ADOPTION records the decision. Growth
+implements strict RC0 core/signature/bounds; release new frame/census/aggregate
+path; adaptive independent core challenge/changed-boundary controls; root host
+and build adapters. No RC runtime/proof or installed profile adoption yet.
+
+**2026-10-21 restricted-composition source implementation selected.**
+Root reads refinement528765e6 and review1bcbc08a, corroborates original native
+quick/inference branches, records RESTRICTED-COMPOSITION-IMPLEMENTATION. Growth
+owns strict typed core/compiled signature/virtual bounds; release RC frame/census/
+aggregate graph integration and targeted challenge. No runtime/proof selected.
+Sharing pair31618 exits0/clean; reported31.515625 knownCPU margin, identical
+endpoint; adaptive terminal audit still required before adoption. No retry.
+
+**2026-10-21 matched reuse pair launched; restricted-checker refinement.**
+Root launched the already created sharing-margin-01 selection8ab77838 once,
+session31618, under SHARING-MARGIN-LAUNCH. Adapter2ba2e167 and all used inputs
+are frozen; adaptive owns terminal endpoint/accounting audit, no retry. Root
+read independent RC review1bcbc08a: broad beta/zeta type-only imports have an
+actual old-relation refinement gap. Growth resolves the structural-conversion
+subset constructively; release prepares its minimal wire/census integration.
+No RC build/proof, FIRST retry, RAM sweep or distribution copy is selected.
+
 **2026-10-21 central outcomes adopted; actual sharing pair source review.**
 Root adopts20ea1d82: exact-target148segments,11.377% padded-row reduction but
 128-screen FAIL, no proof. Adopts9f9b3737: continued-context9/9,5.765625knownCPU,
