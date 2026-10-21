@@ -52,6 +52,13 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-21 contribution source reviewed; fresh127 build in progress.**
+Root read/adopts source963fb12e/review86840438 and selector03204f0c. Exact
+owner75c0e8a9/helper7116e2d9 enter one file-only build: input33bd99d7,
+selectionad982f4d/session99093. Guest actual outcome next; screen four-control
+and contributor-source review; release independently reviews root public
+orchestrator and private-directory selector. No new proof/search campaign.
+
 **2026-10-21 ordinary lifecycle adopted; implement independent contribution.**
 Root fully read/adopts actual14045800: orderly public lifecycle, exact disposal,
 retained evidence,50.734375knownCPU/66.5141wall and clean closure. No runtime

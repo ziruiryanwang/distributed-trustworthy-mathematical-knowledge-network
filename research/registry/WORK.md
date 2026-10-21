@@ -4,6 +4,11 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 exact127 contribution buildad982f4d live99093, input33bd99d7.
+Guest source-map/actual audit; screen helper controls + contributor review;
+release public orchestration/private-directory selector review; root finite
+launches/adoption/Git. Product review86840438 and build-selector03204f0c read.
+
 2026-10-21 root read/adopts actual public lifecycle14045800; no runtime lives.
 Release implements selected managed_contribution owner/helper; screen reviews
 concrete source; guest owns minimal credential controls; root owns one populated
