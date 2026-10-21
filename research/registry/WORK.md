@@ -4,6 +4,27 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 outcome9963383e adopted. DISCOVERY-DISTRIBUTION-SELECTION: search
+fresh exact source selector, growth installed structural import adapter,
+release independent source/build/actual review; root launch/adoption/Git.
+Reuse unchanged builder, six replacements plus one addition. No build yet.
+
+2026-10-20 root selects one type-pattern-controls-01 run, controlsf0fb9372;
+core_release saves source/selector clearance then audits actual saved result.
+All implementation assignments complete. No native/proof/network/build selected.
+
+2026-10-20 TYPE-PATTERN implementation: core_search five discovery sources;
+core_growth client/workspace_evidence.py plus README; core_release controls.py
+and independent IMPLEMENTATION-REVIEW. All under fresh software/v5/type_pattern
+or current research cycle. Root selector/launch/adoption/Git. No runtime yet;
+old SDK and evidence frozen. Exact six-file source scope is in SOURCE/SELECTION.
+
+2026-10-20 TYPE-PATTERN-SELECTION: core_growth owns THEORY; core_search SOURCE;
+core_release CHALLENGE under research/cycles/v5-2026-10-20. Source/theory only:
+address-independent whole-type search retaining repeated-symbol relationships.
+Root decision/selection/Git; no runtime or product edits before explicit scope.
+Both vocabulary notes adopted; existing import API remains the simpler solution.
+
 2026-10-20 native96244 completed and independent outcome7582a301 adopted: both
 numeral runs pass, no live runtime. Nat code/tests/adapters/selectors now frozen.
 Root Git; core_growth VOCABULARY-REUSE-SEAM.md; core_search independent

@@ -22,6 +22,41 @@ a reusable live owner policy. Do not overwrite earlier installations or state.
 
 ## Current work
 
+**2026-10-20 type-pattern outcome adopted; coherent distribution integration selected.**
+Root read/adopts outcome9963383e: all nine groups pass,132 exact source snapshots,
+2-to-1 structural candidate scan,4.609375 knownCPU/7.9632326wall, clean closure.
+No native/proof/network or growth claim. Freeze used source/evidence; no rerun.
+Next integrate tested Nat importer and type-pattern files with the unchanged
+distribution builder: six SDK replacements plus one helper addition,110 total.
+Source-only selector/installed import adapter preparation below; no build yet.
+Existing installed0fbbbc59 stays authoritative until exact integration adoption.
+
+**2026-10-20 one focused type-pattern contract run selected.**
+Root read all six source diffs, controlsf0fb9372 (nine groups), independent
+algorithm review085a36c1 and source/selector806e0193 clearance. Select only
+type-pattern-controls-01: retained125 sources plus seven additions, unchanged
+runtime pins,45CPU/75wall/384MiB. Real structural store/query/workspace, no native,
+proof or network. Unknown-ID discriminator is unproved fixture mathematics,
+not a growth claim. Used sources/controls/selector freeze at this execution;
+old candidates, states and passing campaigns remain unchanged. Full v5 open.
+
+**2026-10-20 optional whole-type variant index implementation selected.**
+Root adopts THEORY3d1054d4/SOURCE9655610e and narrow independent provisional GO.
+Fresh type_pattern scope: search helper/adapter/three schema allowlists; growth
+workspace profile and API README; release disjoint controls/review. Fixed new
+profile, no pair combination; unchanged defaults/acceptance/planner. Preflight
+bounds before serialization. Root later selects one finite run after review.
+New namespace/reindex costs are explicit, not free migration. Full v5 active.
+
+**2026-10-20 address-independent structural discovery selected for source/theory.**
+Adopt both VOCABULARY-REUSE notes: existing exact-module import APIs suffice;
+defer another arithmetic continuity demonstration. TYPE-PATTERN-SELECTION asks
+whether a bounded whole-type key preserving repeated unknown symbols and tree
+positions closes the current edge-set selectivity gap. growth formal relation;
+search minimal current-source integration; release independent challenge.
+No implementation/runtime/proof selected yet. Nat evidence and installed0fbbbc59
+stay frozen; no repeated status, passing test or RAM investigation. Full v5 active.
+
 **2026-10-20 ordinary numeral interoperability adopted.**
 Root reads/adopts independent outcome7582a301: nine contracts plus actual Lean
 export and unchanged fresh zero-parent check,18 declarations/13 groups,module
