@@ -44,3 +44,36 @@ test. No mathematical acceptance, independent hosting or full-v5 claim.
 
 Support_screen owns saved actual public-outcome audit, root adoption/Git. Build
 outcome and actual selection/session pins must be appended before launch.
+
+Actual build outcome b74657e9 is fully read/adopted: release
+2cb30fae38d4054a2662f7652ac7ad4d5eef5b1e5f7ba8549b8fd288a90792f1;
+build input33bd99d7,127/106 exact map,125 unchanged/one replaced/one added,
+61.078125knownCPU/295.2842878wall and clean closure. The unchanged builder's
+full payload verification is reused, not repeated. Public preparation and one
+finite launch are now selected, under the preceding exact unchanged scope.
+
+Original selector preparation failed before the private child/input/selection;
+see MANAGED-CONTRIBUTION-PREPARATION-REPAIR.md. The independently reviewed
+DirectoryInfo successor6bd7d82c prepared successfully: input3470B
+d8f40d9c05b4edf5242b319f4dcba204ab5da09e11b8467091f5d5e7be7b1c6f,
+selectioncbd5e7cb510dbb6818e50dd6ed31aaa24f4378d17c13448478b613187f51c67b,
+four snapshots/160 runtime pins; fresh private directory, no credential yet.
+Root selects exactly this prepared managed-contribution-01 allocation for one
+launch now. The selector's current UTC horizons and all finite limits stand.
+
+The first runner invocation refused active_processes12 before creating any
+product output or child. See MANAGED-CONTRIBUTION-PRELAUNCH-LIMIT-REPAIR.md and
+independent process-envelope99b6de6f. Exact actual tree needs at most seven;
+new selection2b74035786a198d430a9c9a0646e68b13827ced9e7841e1c077c37f1137ff3fb
+narrows only the outer cap to8 and retains inputd8f40d9c/original horizons.
+That single public integration is now live under session84975. No prior service
+was started, no allowance renewed, and no product safety ceiling changed.
+
+Actual session84975 is terminal1; root fully read/adopts independent outcome
+2615e89927a18ba88301f724b3025bd52a1eb6e185110733c0e36fc0b4b84e42.
+Whole FAIL: source actor4MiB cannot reserve existing16MiB group route; host
+closure also fails for an unretained cause. One charged INCOMPLETE request,
+no host group/packet, actual QUIESCED_UNCLEAN, no retirement/deletion. All
+processes reaped, no Job cleanup error;31.890625knownCPU/89.2625051wall.
+No token leak scan completed. Credential/state/source/evidence stay preserved.
+Fresh source-only repair is separately selected in MANAGED-CONTRIBUTION02-SELECTION.

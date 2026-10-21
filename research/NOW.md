@@ -3,16 +3,23 @@
 ## Current source navigation (read before proposing a missing capability)
 
 **Current installed candidate:**
-`product-local/v5-distribution-managed-owner-01/Mathematical Commons v5`, release
-`8fcf2c971029c8ad0787ec8da0891be178a95b80999f8bccc262e077009701a2`.
-Its authoritative126-entry `sdk_sources` map is in
-`experiments/v5-local-checks/distribution-managed-owner-01-input.json`, SHA-256
-`4a9bfd78afd328d629ee6ad967f7f9378034db86cdee86bef751c5c50e6778a1`.
-Build auditfccb8dd0 and actual ordinary lifecycle audit14045800 are adopted:
-genuine create/serve/seal/CLOSED, separate status, conditional retirement and
-one exact disposable reclaim. No contribution handoff, populated managed use,
-unclean retirement or full-v5 claim follows. All121 predecessor SDK rows are
-unchanged; exactly five supervised lifecycle/composer/owner modules were added.
+`product-local/v5-distribution-managed-contribution-01/Mathematical Commons v5`, release
+`2cb30fae38d4054a2662f7652ac7ad4d5eef5b1e5f7ba8549b8fd288a90792f1`.
+Its authoritative127-entry `sdk_sources` map is in
+`experiments/v5-local-checks/distribution-managed-contribution-01-input.json`, SHA-256
+`33bd99d7c3a1db865a6abcb92c96b5df2d0923a793535135e133aebc54aacc0c`.
+Build auditb74657e9 and helper controls398c5081 are adopted. Relative to126,
+125 SDK rows are unchanged, managed_owner is replaced and private_credentials
+is added. Public contribution01 failed; actual audit2615e899 is adopted as a
+failure, not integration acceptance. One issued/charged INCOMPLETE request, no
+host custody, QUIESCED_UNCLEAN rather than orderly CLOSED. See current work.
+
+**Preserved managed-owner baseline:** release8fcf2c97 at
+`product-local/v5-distribution-managed-owner-01/Mathematical Commons v5`, input
+`distribution-managed-owner-01-input.json` SHA4a9bfd78. Build auditfccb8dd0 and
+actual lifecycle14045800 are adopted: genuine create/serve/seal/CLOSED, separate
+status, conditional retirement and one exact disposable reclaim. No unclean
+retirement or full-v5 claim follows. All installations remain immutable.
 
 **Preserved consolidated baseline:** release1fd0ae63 at
 `product-local/v5-distribution-consolidated-01/Mathematical Commons v5`.
@@ -36,9 +43,10 @@ them. The same map preserves interface-only authoring, exact certificate cuts,
 supplier continuation, trust withdrawal and bounded formal/located discovery.
 
 The selected supervised lifecyclebec62143/sessionsb4cfab61, reclaim19713fc4,
-composer40436584 and ownerf213baff are installed in the current126 candidate.
-New managed_contribution sources remain excluded pending their own review,
-tests and adoption. RC/support shortcuts remain unadopted; no further investment.
+composer40436584 remain unchanged in127. Managed contribution owner75c0e8a9
+and helper7116e2d9 pass source review86840438 and are installed; authentic public
+handoff remains the next integration boundary. RC/support shortcuts remain
+unadopted; no further investment.
 All predecessor installations/state remain immutable. Ordinary mathematical
 startup requires its own explicit trust adoption, not a previously withdrawn
 test policy. No automatic migration, independent-host or full-release claim.
@@ -51,6 +59,29 @@ The current installed successor is identified above; no migration or repeat
 payload sweep is selected.
 
 ## Current work
+
+**2026-10-21 public contribution01 failed; repair actual boundary first.**
+Root fully read/adopts actual2615e899: first source pull cannot fit actor4MiB
+under existing16MiB route reservation; separate close cause was not retained.
+Original grant/quote/INCOMPLETE request and QUIESCED_UNCLEAN remain preserved;
+31.890625knownCPU/89.2625051wall, all processes reaped. No runtime lives.
+Fresh source-only scope MANAGED-CONTRIBUTION02-SELECTION: core_release preserves
+nonsecret close observations in new managed_observed owner; root fresh02 actor/
+driver/selectors correct source quota and retain first failure; screen reviews
+deltas; guest minimal diagnostic checks. No product retry/build selected yet.
+Storage theory/runtime profile e36470bb is read/adopted conditionally; its code
+implementation waits for this higher-payoff contribution/closure repair.
+
+**2026-10-21 exact127 build and controls adopted; preparation guard corrected.**
+No runtime is live. Original public selector stopped before input/selection,
+private child directory or credential creation: plain .NET DirectoryInfo.Parent
+does not carry PowerShell's PSIsContainer property. Root selected a one-condition
+preparation successor; core_release reviews that delta. Driver/actor/product and
+their reviews remain unchanged. Support_screen owns actual outcome audit after
+terminal notice; support_guest identifies the smallest missing public reciprocal
+seam without repeating existing mathematics/search campaigns. Root read/adopts
+storage decision81073cdf: reuse existing conditional envelope argument; no new
+storage/RAM experiment. All failure evidence and old sources stay preserved.
 
 **2026-10-21 contribution source reviewed; fresh127 build in progress.**
 Root read/adopts source963fb12e/review86840438 and selector03204f0c. Exact

@@ -4,6 +4,20 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 contribution01 actual2615e899 FAIL adopted, no runtime. Source
+actor4MiB-vs16MiB route defect; close cause missing, QUIESCED_UNCLEAN preserved.
+Core_release fresh managed_observed owner diagnostic-only implementation;
+root fresh02 actor/driver/selectors; screen independent changed-boundary reviews;
+guest minimal diagnostic controls after helper stabilizes. Storage profile/
+contract complete in principle; no storage source/build/runtime selected.
+
+2026-10-21 buildb74657e9 and controls398c5081 adopted, candidate127. Root
+selects preparation-only DirectoryInfo correction after original selector's
+pre-runtime refusal; core_release independently reviews one-condition delta.
+Support_screen saved public outcome audit after explicit terminal notice;
+support_guest source-only CONTRIBUTION-TO-REUSE-NEXT recommendation. Root
+public launch/adoption/Git. No proof, build, controls or RAM survey repeated.
+
 2026-10-21 exact127 contribution buildad982f4d live99093, input33bd99d7.
 Guest source-map/actual audit; screen helper controls + contributor review;
 release public orchestration/private-directory selector review; root finite
