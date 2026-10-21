@@ -15,7 +15,8 @@ The installed candidate is
 `128224b6e592ba3ae29476e770faa085b6841b0460529f3db203340dbfdc7a85`.
 This two-replacement successor adds qualified origin-resolution reuse to the
 earlier trust-phase and optional pair-planner changes. Mirror02 failed on its
-predecessor after frontend export; mirror03 is newly selected below, not a pass.
+predecessor after frontend export; mirror03 now has an adopted actual two-owner
+contribution/publication PASS (4908fc4d), without a full-cost growth claim.
 Its 114-source map preserves interface-only authoring, supplier-complete
 continuation, withdrawal, numeral lowering and successive direct/located queries.
 It retains bounded conclusion-fingerprint discovery and owner-selected base
@@ -31,6 +32,22 @@ withdrawn: it is evidence, not a reusable live owner policy. Ordinary use needs
 its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
+
+**2026-10-21 next narrow controller source improvement selected in parallel.**
+STANDALONE-VALIDATION-SELECTION follows source decision091f0385: standalone
+mixed admission lacks the existing synchronous validation scope; compatible
+import calls must borrow their explicitly registered original-owner scope.
+Growth owns three fresh successors, adaptive_audit review/controls,root later
+selection. No runtime selected for these sources. Terminal-I build10229 remains
+unchanged/live. Fixed-foundation optimization deferred after eb1c92b0; its
+foundation proofs are already skipped, so no new guest is justified here.
+
+**2026-10-21 terminal-I controls adopted; five-replacement installation selected.**
+Root reads3aa102d9: original9passes+corrected1pass,originalFAILpreserved;
+unchanged product bytes,5.125knownCPU/12.4581996002wall,clean closure.
+TERMINAL-I-DISTRIBUTION-LAUNCH selects origin114+five successor files,
+unchanged builder/assets,120CPU/600wall/128MiB/two. core_release actual map/audit;
+no proof production or real I workload yet. No repeat mirror or control tests.
 
 **2026-10-21 real reciprocal circulation adopted; no mirror repetition.**
 Root reads4908fc4d: unknown-ID M -> genuinely admitted/published mirror-involutionV
