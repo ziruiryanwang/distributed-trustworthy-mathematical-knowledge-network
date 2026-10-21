@@ -4,6 +4,18 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 installed02 auditf60caceb adopted; release8e93486c/current114 now
+authoritative. No runtime remains. Release owns independent mirror/query
+source review; growth pair-planning controls; audit combined planner/control/
+selector review after final checkpoint. Root integration/selectors/Git.
+All used custody inputs/adapters/installation and failed01 remain frozen.
+
+2026-10-20 EXACT-CUSTODY-INSTALLED-LAUNCH: root adopts build9d527a47 and
+source reviewd345e077; selects one installed requestdc3238e6. adaptive_audit
+owns terminal saved outcome; core_growth POST-CUSTODY-GROWTH-DECISION;
+core_release POST-CUSTODY-DISCOVERY-DECISION, both source/theory only.
+Preserve all used inputs; no new proof, duplicate test or automatic retry.
+
 2026-10-20 EXACT-CUSTODY-INTEGRATION-SELECTION: root adopts cf49ab4e and selects
 one114-source distribution build; adaptive_audit saved actual map/outcome.
 Release authors only body_location/installed01.py, growth independent source

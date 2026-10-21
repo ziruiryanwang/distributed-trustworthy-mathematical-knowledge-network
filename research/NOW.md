@@ -3,30 +3,58 @@
 ## Current source navigation (read before proposing a missing capability)
 
 The installed SDK map is `sdk_sources` in
-`experiments/v5-local-checks/distribution-projection-01-input.json`
-(SHA-256 `ad2c15a27a51f749104ac09f9cafee210a108fb0bf46bafad8b2a9542f86d38f`).
+`experiments/v5-local-checks/distribution-body-custody-01-input.json`
+(SHA-256 `995525c5cbf2746718cbf583a3e3e401bc56c2f88d1cef8664ffeb1b644454be`).
 Resolve logical module names through that map before inspecting implementation.
 For example, the installed mixed receiver is
 `software/v5/runtime_efficient/mixed_claims/receiver.py`, not its old logical-path
 predecessor. Runtime pin-phase deduplication and general exact-J seal preparation
 already exist. Historical "missing" recommendations are not current evidence.
 The installed candidate is
-`product-local/v5-distribution-projection-01/Mathematical Commons v5`, release
-`d986f9f0d7af7c52f335d4e3a1c23f8f170dc330a906e650b405749ee8a6dd75`.
-Its 113-source map preserves interface-only authoring, supplier-complete
+`product-local/v5-distribution-body-custody-01/Mathematical Commons v5`, release
+`8e93486cadb5806d6470d7a8920803a9a4bad39260dd72f3be3498f699eeeb1e`.
+Its 114-source map preserves interface-only authoring, supplier-complete
 continuation, withdrawal, numeral lowering and successive direct/located queries.
-It adds optional bounded conclusion-fingerprint discovery and owner-selected
-base-profile projection with exact selected-view serving. Clean structural
-controls, exact installed-map audit and actual nine-module import origins pass;
-the new installed check is not a remote-discovery or mathematics workload.
+It retains bounded conclusion-fingerprint discovery and owner-selected base
+projection, adding exact pending-body custody through the same located reader.
+Structural controls, exact installed-map audit and real three-node loopback
+discovery/body acquisition followed by retained I/two-native import now pass.
+This is not net useful-growth, independent-host or full-v5 qualification.
 Old installations and their used states remain immutable; no automatic migration.
 Ordinary mathematical startup requires an existing explicit trust adoption;
 use the matching distribution_coherent examples, not predecessor callers.
-The predecessor integration-test domain was deliberately withdrawn: it is
-evidence, not a reusable live owner policy. This new installation has not had a
-new mathematical trust domain adopted. Do not overwrite old installations/state.
+The installed custody integration's fresh temporary trust domain was deliberately
+withdrawn: it is evidence, not a reusable live owner policy. Ordinary use needs
+its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
+
+**2026-10-20 real exact-custody/import outcome adopted;114 authoritative.**
+Root reads f60caceb:115 exact snapshots/93 BOOT origins, genuine P discovery,
+one Q capability/body GET, unchanged original reader/maps/budgets; receipt and
+two native checks then live context after network closure. All normal closure,
+fresh trust withdrawn.150.84375knownCPU/220.5184829wall; Job143.9375<150.
+Failed01 remains preserved/charged. No runtime remains or repeat is selected.
+Pair planner three-source candidate awaits focused controls/review; independent
+mirror/query source review continues. No new proof or installation selected.
+
+**2026-10-20 installed01 preserved; operational-parser-only02 selected.**
+Root adopts failure audit9ab00ac6: q-start JSON_DECODE rejects actual fractional
+operational clocks; no reader/trust/admission reached, normal P/Q closure.
+39.140625knownCPU/123.0908789wall charged. Source reviewacfc4f55 approves
+adapterd31fee78/selector15980da1: bounded operational JSON only; unchanged
+product/caps/topology. Root stages/selects one fresh02 below, not01 restart.
+POST-CUSTODY-CORE-SELECTION assigns rare-pair planning contract and actual
+mirror/involution then injectivity source examples; no crypto or cost benchmark.
+
+**2026-10-20 real installed custody boundary selected once.**
+Root adopts build audit9d527a47 and final adapter/selector reviewd345e077.
+EXACT-CUSTODY-INSTALLED-LAUNCH selects requestdc3238e6, adapterd3ca25ce,
+release8e93486c: three real loopback roles, same-reader exact-body custody,
+then retained I/two-native admission after network closure. Q90/P-R180,
+150CPU/300wall/512MiB/six-process maximum; temporary trust withdrawn at exit.
+No new proof or retry. Audit actual outcome before adopting114. Growth and
+release pursue separate post-custody source decisions, not repeated controls.
 
 **2026-10-20 exact-custody controls adopted; integration selected.**
 Root reads outcome cf49ab4e:11Python/4Node,188 exact snapshots/21pins, clean
