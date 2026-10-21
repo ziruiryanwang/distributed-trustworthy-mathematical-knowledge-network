@@ -34,6 +34,34 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-21 actual remote placement02 adopted; restart discovery selected.**
+Root fully reads/adoptse1771fe0: one public placement, identical replay/status,
+source-offline goal-only discovery, exact A/B/R bytes, genuine received-I
+verification/group opening and withdrawn owner.129physical/123logical/25pins
+exact;35.15625knownCPU/42.6533527002wall; all roles/Jobs close. No rerun or
+installation copy. Service319ddf07 now used/frozen with wire1ec5c452 and
+advertisementb5523f82. RETAINED-ADVERTISEMENT-SELECTION selects only fresh
+owner-authorized sealed-generation restoration (release), focused controls
+(growth), independent review (audit); root later launch. Space-bound7109d3f5
+is read as conditional design, not current binary/VFS qualification; larger
+two-slot manager and physical-profile implementation remain deferred.
+
+**2026-10-21 reviewed remote integration02 selected once.**
+Root reads657e799c/af0e5e19; service319ddf07+adaptere5979ec3+selector19d1e9ff.
+Selection87c80fd6/input6e14ba3b,129physical/123logical/25pins,
+150CPU/300wall/512MiB/six. Compatible provider allowance, original-deadline
+full close and preserved failure diagnostics; no mathematical weakening.
+adaptive_audit actual terminal outcome. Failed01 and passing controls frozen.
+
+**2026-10-21 remote integration01 failed; narrow fresh successor selected.**
+Root reads/adopts4606875b: no custody/discovery/admission;16MiB group-route
+reservation cannot fit adapter8MiB. Separate7s close wrapper excludes complete
+runtime validation.129physical/123logical/25pins exact,35.5knownCPU/113.2733184001wall,
+outer cleanly reaped; no runtime remains. REPAIR02-SELECTION selects only a
+fresh service deadline-composition repair, compatible fixture allowance and
+failure diagnostics. Native teardown/full validation unchanged. Independent
+review before any fresh run; failed01 and ten passing controls never repeated.
+
 **2026-10-21 remote-placement controls adopted; real integration selected once.**
 Root reads2ee6166f:10/10,127physical/121logical/19pins exact,
 2.953125knownCPU/8.2357159001wall,clean closure. Source37d24d4e and

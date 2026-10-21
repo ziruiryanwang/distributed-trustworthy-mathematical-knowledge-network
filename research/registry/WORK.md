@@ -4,6 +4,18 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 remote integration02 actuale1771fe0 adopted, no live runtime or rerun.
+RETAINED-ADVERTISEMENT-SELECTION: release two new product successors; growth
+focused controls/selector; adaptive independent source/control review after
+completed actual audit; root integration/adoption/Git. Contracta05798de read;
+space-bound7109d3f5 conditional only. No full lifecycle manager or deletion.
+
+2026-10-21 failed remote integration01 adopted4606875b, no live runtime.
+REPAIR02-SELECTION: release fresh service cleanup-budget successor, root
+compatible integration02/selector and launches, adaptive independent narrow
+review; growth physical lifecycle-space argument only. Old sources/evidence
+frozen. No repeated controls or proof production. Canonical paths only.
+
 2026-10-21 controls actual2ee6166f adopted; root selects one real placement
 integration via PLACEMENT-NETWORK-INTEGRATION-LAUNCH; adaptive_audit actual
 outcome. Growth PLACEMENT-LIFECYCLE-SEAM source-only under NEXT; release
