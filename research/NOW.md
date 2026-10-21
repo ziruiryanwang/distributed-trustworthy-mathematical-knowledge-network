@@ -29,6 +29,28 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-21 validation controls adopted; combined build selected.**
+Root reads74c54148:14/14pass,195physical/114logical/22pins,17->2 persisted reads
+with40 active callbacks,1.78125knownCPU/7.2928865wall, clean closure. One fresh
+distribution-validation-01 build batches two validation + three tested planner
+replacements;114 unchanged count/assets/builder.120CPU/300wall/128MiB/two.
+Adaptive_audit actual new map/outcome; mirror02 remains future separately selected
+integration. No repeat suite or new cryptographic proof. Old install/state frozen.
+
+**2026-10-20 validation-phase controls selected once.**
+Root reads combined GOb24084dc, controls775a68ab and exact two successors.
+VALIDATION-PHASE-LAUNCH selects195physical/114logical/22pins,14 native-free
+real-record methods under45CPU/90wall/384MiB/two processes. Release owns saved
+actual audit; no mirror/build/proof run yet. Preserve used source and outcomes.
+
+**2026-10-20 validation-phase two-file implementation selected.**
+Root selects VALIDATION-PHASE-SELECTION: fresh trust/pin_phase successors only,
+coalescing persisted local trust observations within existing nonyielding scope;
+first/final full reads, unchanged per-call authority/deadline/CPU checks and
+sticky denial. Growth implements; release independently reviews; audit authors
+real-record native-free controls. No runtime/build/retry or cap increase selected.
+Mirror sources/failure are committed79a23aa; installed114 stays unchanged.
+
 **2026-10-20 mirror01 failure adopted; validation cost repair is next.**
 Root reads independent outcome c37d3d91: exact117 sources, genuine unknown-ID
 discovery, retained receipt/native admission and READY import; controller120CPU

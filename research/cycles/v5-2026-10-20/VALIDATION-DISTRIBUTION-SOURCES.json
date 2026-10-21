@@ -1,0 +1,7 @@
+{
+  "v5/admission/trust.py": "c997d2a83ae5246dec9ff30eeca72e405ec0f66c0a307e53e0521eef66fae6d0",
+  "v5/admission/pin_phase.py": "76b54eb04fa2a66ec598b8c6d668e675d8bd483809f8fa66448fa7319b82a9ce",
+  "v5/discovery/module_export_adapter.py": "c7fde37659753a9238506d399e0be5c44ebb5e3a012b5a681dfa1a1551884fd1",
+  "v5/client/direct_contacts.py": "1f4224808ceb65feff3fd80353a3dbea3923e2ad091e7c435193fd82f4dc54c8",
+  "v5/client/located_queries.py": "4ffb84789deefb524f7f290b2a8879e3b9a1eadc0febf53ad2f5e1a3e168c66a"
+}

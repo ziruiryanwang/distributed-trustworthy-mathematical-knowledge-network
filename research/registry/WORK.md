@@ -4,6 +4,19 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 control outcome74c54148 adopted. Root selects combined114 build via
+VALIDATION-DISTRIBUTION-LAUNCH; adaptive_audit complete new-map/actual audit.
+Release/growth source selections complete; no mirror/native/proof run selected.
+
+2026-10-20 VALIDATION-PHASE-LAUNCH: root stages/runs one14-method control
+allocation after combined reviewb24084dc. core_release actual outcome audit;
+growth and audit completed source work. No build/mirror/proof launch selected.
+
+2026-10-20 VALIDATION-PHASE-SELECTION: growth owns fresh two admission successors
+under software/v5/validation_phase; release independent source review; audit
+fresh controls.py with real trust records/inert issuer shells. Root selectors,
+integration and Git. Source-only; no runtime, broad cache or budget renewal.
+
 2026-10-20 mirror01 failure c37d3d91 adopted; no runtime remains. core_growth
 owns MIRROR-CPU-CAUSE (source call graph/minimal repair); core_release independent
 VALIDATION-PHASE-REVIEW (withdrawal/authority boundaries); adaptive_audit owns
