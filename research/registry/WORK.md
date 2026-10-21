@@ -4,6 +4,19 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 retained controls actual7895dcad adopted; no runtime remains.
+Root adopt restart test batchingb3264c17, no separate actual campaign. Growth:
+CERTIFIED-RENEWAL-NEXT source decision; release: SHARING-MARGIN-NEXT source/
+retained-evidence decision; adaptive: coordinated CORE-NEXT-REVIEW. Root owns
+next implementation/launch and Git. No broad repeated audit, RAM campaign,
+generic cost module or unpriced proof selected. Final v5 remains unchanged.
+
+2026-10-21 RETAINED-ADVERTISEMENT-LAUNCH: root one finite nine-control run
+after independent5a790c96; adaptive_audit terminal actual audit; core_release
+minimal restart integration plan only. Core_growth available for a newly
+selected central source/theory task. No old campaign, full distribution copy
+or larger lifecycle manager. All used bytes/evidence remain frozen.
+
 2026-10-21 remote integration02 actuale1771fe0 adopted, no live runtime or rerun.
 RETAINED-ADVERTISEMENT-SELECTION: release two new product successors; growth
 focused controls/selector; adaptive independent source/control review after

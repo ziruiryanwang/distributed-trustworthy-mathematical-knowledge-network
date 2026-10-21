@@ -34,6 +34,24 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-21 retained-route controls adopted; central renewal/growth resumed.**
+Root fully reads/adopts7895dcad:9/9,127physical/121logical/19pins exact,
+4.984375knownCPU/9.856469000224024wall,clean closure. No actual networking,
+proof or mathematical admission; no rerun. Readsb3264c17 and adopts batching
+one real restart/discovery boundary into next installation smoke, not a new
+standalone campaign. Growth CERTIFIED-RENEWAL-NEXT and release SHARING-MARGIN-NEXT
+now owe concrete source-led decisions; adaptive CORE-NEXT-REVIEW challenges
+their actions. No new build/proof/measurement selected yet. Lifecycle manager
+and extra restoration mechanisms remain deferred.
+
+**2026-10-21 retained-route controls selected once after independent review.**
+Root reads/adopts5a790c96; RETAINED-ADVERTISEMENT-LAUNCH selects exact
+advertisement5aa23ee7/service7e735337/control3d64a99d/selector8c682a33,
+127physical/121logical/19pins,60CPU/120wall/384MiB/two. No previous suite,
+proof or installation copy is repeated. Adaptive audit owns terminal outcome;
+release finishes minimal real restart-discovery plan. Larger lifecycle work
+remains deferred; return to economical certification and full-cost growth.
+
 **2026-10-21 actual remote placement02 adopted; restart discovery selected.**
 Root fully reads/adoptse1771fe0: one public placement, identical replay/status,
 source-offline goal-only discovery, exact A/B/R bytes, genuine received-I
