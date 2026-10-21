@@ -4,6 +4,21 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 incremental actual513b91d8 adopted; no runtime. Placement source
+selection: growth four placement files+SOURCE note; root guarded Store successor;
+adaptive_audit independent review. Release INCREMENTAL-NATIVE-INTEGRATION-PLAN,
+source-only minimal genuine checking, no repeated circulation/build selected.
+
+2026-10-21 root selects INCREMENTAL-NATIVE-LAUNCH afterdad0370e; adaptive_audit
+actual outcome after terminal only. Release corrects SELECTIVE-PLACEMENT-CONTRACT
+after0997105b; growth SELECTIVE-PLACEMENT-IMPLEMENTATION proposal (no product yet).
+Root owns execution/integration/Git. No old suite, proof campaign or build.
+
+2026-10-21 INCREMENTAL-NATIVE-SELECTION afterd4aabb47/ef197b30: growth one new
+incremental_native/mixed_claims/receiver.py plus source note; adaptive_audit
+independent source review/new controls; root selector/integration/Git. No runtime.
+Release continues SELECTIVE-PLACEMENT-CONTRACT (source only, not duplicate status).
+
 2026-10-21 actual standalone control auditd2e77b8f adopted. No runtime remains;
 root defers separate installation to batch next consequential feature. Growth
 NEXT-GROWTH-DECISION and adaptive NEXT-GROWTH-REVIEW: same-live-owner incremental

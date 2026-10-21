@@ -34,6 +34,31 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-21 incremental controls adopted; durable placement implementation selected.**
+Root reads513b91d8:9/9,120physical/114logical/19pins,14.484375knownCPU/
+20.5268748wall,clean closure. Simulated checker transcripts, no mathematical
+claim. No runtime remains. SELECTIVE-PLACEMENT-SELECTION adoptsfbbb47b4/
+0997105b/93b86755: growth codec/ledger/controller; root guarded Store successor;
+audit independent review. Release scopes minimal genuine incremental integration
+using retained packets and selected-code staging, not another842MB copy.
+
+**2026-10-21 focused incremental-native controls selected once.**
+Root reads complete harness08be67a1 and independent reviewdad0370e; selects
+INCREMENTAL-NATIVE-LAUNCH on receiver54365699,120physical/114logical/19pins,
+45CPU/90wall/384MiB/two. adaptive_audit actual outcome (authorship disclosed).
+No native checker/prover, prior workload replay or installation selected.
+Placement review0997105b adopted; release makes its narrow draft corrections;
+growth proposes the owner-local durable pull/index implementation boundary.
+
+**2026-10-21 exact warm incremental native admission selected.**
+Root adopts decisiond4aabb47/reviewef197b30 and selects INCREMENTAL-NATIVE-SELECTION:
+growth one fresh receiver successor over standalone835d5980; audit independent
+source/controls; root integration. Cache only exact conditional native observations
+from the last fully successful packet, with current premises/closure rebuilt and
+all original full-graph reservations retained. Source-only, no runtime/build.
+No new certificate, full-cost profit or unbounded cold-scale claim. Release's
+selective-placement contract proceeds independently; no repeated mirror workload.
+
 **2026-10-21 standalone validation controls adopted; batch installation later.**
 Root reads d2e77b8f:10/10,119physical/114logical/19runtime exact,2.609375knownCPU/
 5.7664838wall,clean closure. Real trust observations62/74 ->4; pin reads remain
