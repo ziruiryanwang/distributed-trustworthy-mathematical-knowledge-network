@@ -26,6 +26,17 @@ a reusable live owner policy. Do not overwrite earlier installations or state.
 
 ## Current work
 
+**2026-10-20 specialist-profile interoperability seam adopted for contract.**
+Root reads seam6d931c96/review5e13cc3d: default clients cannot discover exports
+indexed only under arbitrary specialist namespaces. Existing matching-config
+federation remains valid. Select a minimal source contract for bounded owner
+base-index projection plus actual selected-index serving/advertisement with the
+same custody. No namespace weakening, registry, proof copies or multi-server
+expansion. Prefer fixed subtree under one workspace lock; bind service to the
+target's expected latest cut. Builder schema injection must be handled explicitly.
+Growth authors contract, adaptive_audit reviews; no implementation/runtime yet.
+Reciprocal composition32eac097 confirms no new import/author/publish mechanism.
+
 **2026-10-20 instantiation-discovery outcome adopted; no repeat or rebuild.**
 Root reads independent auditdda469c4:147 exact snapshots/19runtime pins,8groups
 pass, clean closure,3.078125knownCPU/9.36867wall. Two generated alternatives scan

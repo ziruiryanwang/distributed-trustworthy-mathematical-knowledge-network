@@ -4,6 +4,12 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 root adopts profile seam6d931c96/review5e13cc3d. growth owns minimal
+PROFILE-PROJECTION-CONTRACT; adaptive_audit independent contract review. Fixed
+workspace-owned projection, one selected served view/current cut, same custody,
+explicit builder schema path. release reciprocal-composition checkpoint complete.
+No new implementation, run, package or proof selected at this design stage.
+
 2026-10-20 outcome dda469c4 adopted, no runtime. growth traces specialist-profile
 interoperability in actual public serve/location/publication sources; release
 traces only changed fingerprint reciprocal composition, reusing prior import
