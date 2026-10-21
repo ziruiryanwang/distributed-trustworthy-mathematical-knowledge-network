@@ -24,6 +24,35 @@ a reusable live owner policy. Do not overwrite earlier installations or state.
 
 ## Current work
 
+**2026-10-20 adaptive located-query outcome adopted; combined integration preparation.**
+Root reads source review30a46b17 and saved-outcome auditd758b5a3: five groups,
+exact140 snapshots,1.703125 knownCPU/4.2313753 wall seconds, clean closure.
+Helper419df842 and used controls/inputs freeze. No live runtime or rerun.
+Prepare one combined installation of tested direct+located changes: four SDK
+replacements plus one helper addition,111 sources, unchanged distribution builder.
+Source-only installed-boundary plan must use actual original owner/source binding
+and, if economical, two no-provider queries on one actual existing location child;
+no extra theorem/proof production, no claim of provider discovery from emptiness.
+Actual launch still requires exact finite selection and independent review.
+
+**2026-10-20 one focused adaptive located-query run selected.**
+Root read helper419df842, five-group controls4ff7ccf5 and selector4b5cccf0;
+growth's independent final source GO and release clearance2cde60f1 agree.
+Select request14553e17:140 sources/19 unchanged runtime pins,45CPU/75wall/
+384MiB/2processes. Real ticket/parser/store logic; inert channel and issuers.
+The shorter search/service-lifetime revocation defect was repaired before use.
+No native/proof/actual-network/build selected; freeze exact used inputs at run.
+No automatic retry or relabeling. Full v5 remains active, not completed.
+
+**2026-10-20 adaptive located-query helper selected for implementation.**
+Root reads design27cec9e6 and independent GO8d77df7b. ADAPTIVE-LOCATED-SELECTION
+assigns one new located_queries helper to search, README/source challenge to
+growth and five focused inert-transport control groups to release. One original
+location child, explicit aggregate L/S vectors, original descriptor expiries;
+reuse actual route/descriptor parsers and the tested validated envelope protocol.
+No existing checker/DHT/direct-query source changes. Root prepares140-source
+finite selector; no runtime or distribution rebuild yet. Full v5 remains active.
+
 **2026-10-20 bounded iterative direct-query outcome adopted.**
 Root reads/adopts independent outcome af49d968: nine groups, exact138 snapshots,
 clean closure,2.71875 knownCPU/7.2671437 wall seconds. No mathematical authority

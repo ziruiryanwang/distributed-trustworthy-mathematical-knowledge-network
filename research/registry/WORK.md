@@ -4,6 +4,17 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 root selects located-queries-controls-01/request14553e17 once;
+helper419df842/controls4ff7ccf5. release audits saved outcome after completion;
+search implementation checkpoint and growth source review/README finish only.
+No current installation changes or repeated passing tests.
+
+2026-10-20 ADAPTIVE-LOCATED implementation: design27cec9e6/review8d77df7b GO.
+search software/v5/located_queries/client/located_queries.py + implementation
+checkpoint; growth new README + independent source review; release new controls
+and selector review; root selection/adoption/Git. Existing used source immutable.
+No runtime/build selected until exact changed sources pass review.
+
 2026-10-20 iterative outcomeaf49d968 adopted, no runtime remains; root Git.
 core_search minimum ADAPTIVE-LOCATED-DESIGN source contract; core_growth
 independent ADAPTIVE-LOCATED-REVIEW after contract; core_release controls/audit
