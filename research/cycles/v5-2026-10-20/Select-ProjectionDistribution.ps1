@@ -23,7 +23,7 @@ function New-Json([string]$path, $value) {
 }
 $cycle = Join-Path $projectRoot 'research/cycles/v5-2026-10-20'
 Require-Digest (Join-Path $cycle 'INSTANTIATION-OUTCOME.md') 'dda469c4990a432be4e4ef79995f0849f1073c6e0f89b7f5fa1aa8708da782c8'
-Require-Digest (Join-Path $cycle 'PROFILE-PROJECTION-OUTCOME.md') $ProjectionOutcomeSha256
+Require-Digest (Join-Path $cycle 'PROFILE-PROJECTION02-OUTCOME.md') $ProjectionOutcomeSha256
 $checks = Join-Path $projectRoot 'experiments/v5-local-checks'
 $basisPath = Join-Path $checks 'distribution-adaptive-01-input.json'
 Require-Digest $basisPath 'a74eaf51a71b5e0ec49a762fd5c7e6cce4f8fc6b107e97ae6e71fd7ec0cf1e32'

@@ -3,28 +3,73 @@
 ## Current source navigation (read before proposing a missing capability)
 
 The installed SDK map is `sdk_sources` in
-`experiments/v5-local-checks/distribution-adaptive-01-input.json`
-(SHA-256 `a74eaf51a71b5e0ec49a762fd5c7e6cce4f8fc6b107e97ae6e71fd7ec0cf1e32`).
+`experiments/v5-local-checks/distribution-projection-01-input.json`
+(SHA-256 `ad2c15a27a51f749104ac09f9cafee210a108fb0bf46bafad8b2a9542f86d38f`).
 Resolve logical module names through that map before inspecting implementation.
 For example, the installed mixed receiver is
 `software/v5/runtime_efficient/mixed_claims/receiver.py`, not its old logical-path
 predecessor. Runtime pin-phase deduplication and general exact-J seal preparation
 already exist. Historical "missing" recommendations are not current evidence.
 The installed candidate is
-`product-local/v5-distribution-adaptive-01/Mathematical Commons v5`, release
-`ad2e3ba04a2e12b6076fbf1d6be9fe068c35ae71970a5dee1eedb4188781e193`.
-Its 111-source map preserves interface-only authoring, supplier-complete
-continuation, withdrawal, optional pair/whole-type discovery and numeral lowering;
-it adds successive direct/located query generations under one original finite
-envelope. The installed check covers actual owner binding, same-child lifecycle
-and no-provider cleanup, not successful remote discovery. Old installations
-and their used states remain immutable; this is not an automatic migration.
+`product-local/v5-distribution-projection-01/Mathematical Commons v5`, release
+`d986f9f0d7af7c52f335d4e3a1c23f8f170dc330a906e650b405749ee8a6dd75`.
+Its 113-source map preserves interface-only authoring, supplier-complete
+continuation, withdrawal, numeral lowering and successive direct/located queries.
+It adds optional bounded conclusion-fingerprint discovery and owner-selected
+base-profile projection with exact selected-view serving. Clean structural
+controls, exact installed-map audit and actual nine-module import origins pass;
+the new installed check is not a remote-discovery or mathematics workload.
+Old installations and their used states remain immutable; no automatic migration.
 Ordinary mathematical startup requires an existing explicit trust adoption;
 use the matching distribution_coherent examples, not predecessor callers.
-The integration-test domain was deliberately withdrawn: it is evidence, not
-a reusable live owner policy. Do not overwrite earlier installations or state.
+The predecessor integration-test domain was deliberately withdrawn: it is
+evidence, not a reusable live owner policy. This new installation has not had a
+new mathematical trust domain adopted. Do not overwrite old installations/state.
 
 ## Current work
+
+**2026-10-20 combined discovery installation adopted; no runtime remains.**
+Root reads outcome7c804ae6:114 exact boot sources, nine changed-module origins
+agree with actual BOOT, clean closure/empty logs,8.15625knownCPU/10.81067wall.
+Together with build08eb71ab and clean02, release d986f9f0/map113 is authoritative.
+No component/proof/service repeat. EXACT-CUSTODY-SELECTION assigns the next
+central source contract: locate an unknown holder for an existing NeedBody
+without retiring the live reader or renewing budgets. Release owns exact
+contract; growth challenges it; root integration/Git. Full v5 remains active.
+
+**2026-10-20 combined build adopted; one installed import check selected.**
+Root reads outcome08eb71ab:release d986f9f0,inputad2c15a2,113 exact SDK entries,
+seven replacements/two additions,unchanged assets,52.046875knownCPU. Source
+reviewe9009326 supports adapterdf2c6379/selectorcca76918. One ordinary installed
+import-only launch,60CPU/120wall/384MiB,114 boot sources; no mathematics/store/
+network workload. Old candidate stays authoritative until independent outcome.
+No repeat suites. Next source work is POST-PROJECTION-CORE-SELECTION, not SAT.
+
+**2026-10-20 clean projection02 adopted; combined installation selected.**
+Root reads audit6b4d2c6d:154 exact sources,19 pins,eight groups,zero observed
+loop exceptions and clean closure;3.859375knownCPU/10.979011wall. Noisy01 stays
+held/charged. PROJECTION-BUILD-LAUNCH selects amended selector0b715561 and one
+combined113 build,120CPU/300wall/128MiB/two processes,unchanged runtime assets.
+adaptive_audit actual map/outcome; growth installed adapter/selector review;
+root exact staging/launch/adoption. No repeated component/proof campaign.
+
+**2026-10-20 corrected projection02 harness selected once.**
+Root reads repair GO f134bd18 and exact controls02814863a6/selectoraf2f8eb7.
+Select request92cad921:154 exact snapshots,19 runtime pins, same45CPU/75wall/
+384MiB/two processes. Only class-preserving test guard and unexpected-loop-error
+gate change; product and eight groups unchanged. Freeze used02 inputs at launch.
+Noisy01 remains held/charged. Independent actual audit must include stderr;
+no build or automatic retry follows a raw unittest result.
+
+**2026-10-20 projection01 assertions pass but clean validation is held.**
+Independent actual log audit found19 unhandled Proactor callback TypeErrors:
+the test replaced socket.socket's class with a Mock. Product assertions8/0 and
+clean Job closure remain recorded; this is a harness defect, not a product
+failure or clean qualification. Preserve01 and its3.421875knownCPU/10.650286wall.
+Root selects fresh controls02 source only: preserve socket class, block creation
+through its initializer, and fail on unexpected event-loop diagnostics. Same
+eight groups and product bytes; release owns repair, root selector02, reviewer
+GO before any new run. No installation build from the noisy01 result.
 
 **2026-10-20 one focused base-projection control run selected.**
 Root reads helper804147dd, servicesd02f6b04/afe15634, builder0db78433 and final

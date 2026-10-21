@@ -4,6 +4,34 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 installed origin audit7c804ae6 adopted; release d986f9f0/map113 now
+authoritative. No runtime/build remains. Root commits reviewed integration;
+release exact-custody contract and growth challenge continue source-only.
+adaptive_audit has finished all current actual-outcome assignments.
+
+2026-10-20 EXACT-CUSTODY-SELECTION: release exact pending-body location contract,
+growth independent source/authority/accounting challenge. Original reader must
+survive; new demand-local contact cannot mutate original search endpoints or
+renew the grant. Source-only, no implementation/runtime yet. Root closes current
+installed-import adoption; adaptive_audit owns that saved outcome.
+
+2026-10-20 combined113 build terminal clean, release d986f9f0; adaptive_audit
+actual map review. Root owns one reviewed installed import check next. In parallel,
+POST-PROJECTION-CORE-SELECTION assigns release sharded-discovery/custody feasibility
+and growth a precise comparator decision; rejected SAT construction stays NO-GO.
+These are source-only decisions, not new runtime or duplicate component work.
+
+2026-10-20 root adopts clean02 audit6b4d2c6d and selects one combined113 build
+under PROJECTION-BUILD-LAUNCH. adaptive_audit saved build/map after terminal;
+core_growth narrow installed source review; core_release adapter complete.
+Root launches/adopts and owns Git. No completed control/proof run is repeated.
+
+2026-10-20 projection01 noisy-control HOLD:19 unexpected asyncio callbacks from
+Mock socket-class guard. release fresh controls02+repair checkpoint; root fresh
+selector02; adaptive_audit failure record and source repair review. Same product,
+same eight groups, no automatic rerun/build. Growth distribution selector review
+complete; release's installed import-only plan remains source preparation only.
+
 2026-10-20 root selects one base-projection-controls-01/requestfaf0214a after
 independent source GO. adaptive_audit owns actual saved-outcome review; release
 controls complete. growth reviews source-only future combined113 SDK selector.
