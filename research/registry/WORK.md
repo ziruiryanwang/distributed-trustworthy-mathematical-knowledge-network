@@ -4,6 +4,16 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 controls actual2ee6166f adopted; root selects one real placement
+integration via PLACEMENT-NETWORK-INTEGRATION-LAUNCH; adaptive_audit actual
+outcome. Growth PLACEMENT-LIFECYCLE-SEAM source-only under NEXT; release
+controls audit complete. No old suite/proof restart or full distribution recopy.
+
+2026-10-21 root reads integration review1b5a9545 and corrected adapterd71925cd;
+adaptive_audit product source review; core_growth focused ten-method controls
+and fresh selector; core_release independent controls review. Canonical source
+only until root records launch. No runtime, old proof, or distribution recopy.
+
 2026-10-21 controls01 exit0/clean; adaptive_audit retained actual audit then
 network design/source review. PLACEMENT-NETWORK-SELECTION: release network.py;
 growth advertisement.py and serve_placement.py, direct API coordination before

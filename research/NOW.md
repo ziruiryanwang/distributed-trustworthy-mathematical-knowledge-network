@@ -34,6 +34,26 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-21 remote-placement controls adopted; real integration selected once.**
+Root reads2ee6166f:10/10,127physical/121logical/19pins exact,
+2.953125knownCPU/8.2357159001wall,clean closure. Source37d24d4e and
+controla27fc7b5 resolve diagnostic leakage and post-send/cancellation uncertainty.
+PLACEMENT-NETWORK-INTEGRATION-LAUNCH selects adapterd71925cd,129physical,
+121productlogical+2helpers/25directpins,150CPU/300wall/512MiB/six. Actual public
+submit, supplier withdrawal, goal-only discovery and received I admission; no
+proof production. adaptive_audit actual outcome. Growth source-only bounded
+generation-lifecycle seam; no deletion or used-source changes selected.
+
+**2026-10-21 remote-placement source review and focused test preparation.**
+Continue existing selection, not a new status audit. Root reads integration
+review1b5a9545: unused adapterd71925cd fixes exact client reservations,
+valid unused structural caps, sorted endpoints and stable no-fetch counters.
+Selector076d75cc remains source-only. adaptive_audit independently reviews
+three product modules; growth completes ten new-wire controls/selector;
+release reviews those controls. No workload or new proof is running. Next
+is one focused controls run, then one source-withdrawal/goal-only-discovery
+integration after adopted source/control evidence. No old campaign repeats.
+
 **2026-10-21 local placement adopted; remote composition in implementation.**
 Root read/adoptsd643402e:12/12,124physical/118logical/19pins exact,
 3.546875knownCPU/7.9659800wall,clean closure; sixteen simulated exchanges,
