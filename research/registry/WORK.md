@@ -4,6 +4,11 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 root read/adopts ownerf213baff/review549c28ce; one file-only build
+selectionac19b479/input4a9bfd78 live57029. Core_release actual build audit then
+MANAGED-CONTRIBUTION-SEAM source-only design; screen public lifecycle adapter;
+guest exact adapter/selector review; root adoption/launch/Git. No service/deletion.
+
 2026-10-21 root adopts conditional preparation selector reviewc85ec6ac.
 Release authors managed_owner; guest reviews exact composition; screen authors
 the selected installed_lifecycle.py adapter and PUBLIC-CHECK-SOURCE checkpoint.

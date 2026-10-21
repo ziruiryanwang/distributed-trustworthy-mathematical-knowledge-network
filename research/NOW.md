@@ -39,6 +39,14 @@ is unchanged, and no migration or broad payload sweep is selected.
 
 ## Current work
 
+**2026-10-21 reviewed managed-owner source enters one fresh file-only build.**
+Root fully read/adopts ownerf213baff/source8872cba6 and review549c28ce.
+Generated input4a9bfd78 preserves all121 sources, adds exactly five; selection
+ac19b479 launched once under unchanged runner, session57029. Core_release audits
+actual result when terminal, then continues selected intake-handoff source design.
+Screen authors public lifecycle adapter; guest reviews it/selector. No service,
+deletion or new mathematical campaign selected. Prior installed121 is unchanged.
+
 **2026-10-21 ordinary managed-operator integration continues in parallel.**
 Root read/adopts preparation-only selector reviewc85ec6ac, conditional on the
 still-pending exact owner/composition review. Release authors the owner; guest
