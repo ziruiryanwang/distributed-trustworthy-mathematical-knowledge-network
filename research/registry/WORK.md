@@ -4,6 +4,13 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 lifecycle controls actual826461e8 read/adopted, exact12 and clean;
+used original source frozen. Release new-schema bounded_reclamation lifecycle/
+executor; screen focused disposable-fixture controls; guest independent source/
+outcome reviews; root actual empty service-close/reclaim adapter, finite
+selectors/adoption/Git. No runtime/deletion or installation build currently.
+
+
 2026-10-21 root fully read/adopts smoke02 actual916b19a9. No runtime lives.
 Guest independent lifecycle/controls/selector09aa9a5e review; screen finishes
 tests.py exact hashes and source-only faults; release reclamation design then

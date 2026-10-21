@@ -32,6 +32,19 @@ test policy. No automatic migration, independent-host or full-release claim.
 
 ## Current work
 
+**2026-10-21 twelve lifecycle controls adopted; actual slot reuse is next.**
+Root fully read/adopts source reviewe0ecd34f and actual audit826461e8.
+Selection4c639c42/outerc5d6438d/inner97115b50: exact12 pass,1.46875knownCPU,
+1.995653wall, clean. Used lifecycle6852b5a2/composer40436584/tests33d036c8
+and selector09aa9a5e freeze. Three concrete startup/retirement fixes precede
+that run. No real service-positive-close or reclamation claim follows.
+Root selects fresh bounded_reclamation source per RECLAMATION-SELECTION:
+release authors fixed-layout executor/new-schema lifecycle, screen narrow
+fresh-fixture controls, guest independent review. Root prepares one actual
+empty service-close/reclaim composition adapter without proof or TTL sleep;
+runtime and any fixture deletion still need separate reviewed selection.
+
+
 **2026-10-21 installed restart outcome adopted; implement sustained capacity.**
 Root fully read/adopts CONSOLIDATED-SMOKE02-OUTCOME916b19a9, including exact
 closed SQLite/blob checks, all121 installed SDK sources, actual stale descriptor
