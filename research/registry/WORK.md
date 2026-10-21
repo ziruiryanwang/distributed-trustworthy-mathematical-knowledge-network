@@ -4,6 +4,11 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 INSTANTIATION-IMPLEMENTATION-SELECTION: growth owns new pure helper,
+README/checkpoint; root five fresh integration successors/selector; release
+focused controls; adaptive_audit independent source review. Context extension
+adopted with final-CONTEXT forcedSTAR. No runtime/build selected yet.
+
 2026-10-20 root adopts installed02 audit823f0a4d, current releasead2e3ba0/map111.
 No runtime remains; no repeat. growth authors explicit goal-context extension;
 adaptive_audit independently reviews it. release prepares focused fingerprint

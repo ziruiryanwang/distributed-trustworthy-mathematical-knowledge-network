@@ -26,6 +26,16 @@ a reusable live owner policy. Do not overwrite earlier installations or state.
 
 ## Current work
 
+**2026-10-20 conclusion-fingerprint implementation selected.**
+Root adopts contractc9991ed4/review2583cb22 and explicit-context extension9ae82b03/
+review041d1bc0. INSTANTIATION-IMPLEMENTATION-SELECTION assigns fresh helper to
+growth, five integration successors to root, focused structural controls to
+release and independent actual-source review to adaptive_audit. Exact-n context
+stripping preserves raw-substitution key compatibility; forceSTAR at final context
+coordinates skips impossible branches. Existing theorem acceptance stays unchanged.
+No runtime/build/proof campaign yet; finite selector preparation only. Commit4ca50aa
+preserves completed adaptive installation evidence. Full v5 remains active.
+
 **2026-10-20 installed adaptive02 outcome adopted; no repeated campaign.**
 Root reads/adopts independent audit823f0a4d: exact112 source snapshots, actual
 original owners, same child/two generations, one prepayment, raw terminal counters
