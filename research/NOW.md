@@ -34,6 +34,36 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-21 native support outcome adopted; final bounded guest discriminator.**
+Root fully reads/adopts controls outcome e48ecd96: exact ordered30/12,
+unchanged J/parents/census on both fixtures, all pins and clean closure.
+RESTRICTED-SUPPORT-GUEST-SELECTION now selects source-only three-crate
+build/image/pair adapters. Support_guest owns build/recipes; support_screen
+assembly/pair; core_release independently reviews changed bindings; root owns
+selectors, finite launches and Git. Reuse adopted guest03 module/Nanoda and
+snapshot host. No proof, dependency rebuild, host relink or timing retries.
+Original75% rows/64po18/no CPU regression screen unchanged. Failure ends this
+optimization and redirects to same-owner exact native-delta reuse. No runtime.
+
+**2026-10-21 support native controls completed; actual audit and cost decision.**
+Root fully reads/adopts build outcome a1e9e8d (32.84375 known CPU, clean).
+One control selection 6f855719 exits zero; outer RESULT b1ebc253 and native
+stdout b9ac046a report 30/30 controls, 12 intended refusals and identical exact
+J/ordered-parent outputs on both retained fixtures. Counted work is 10972 to
+9707 and 13055 to 10927, including metadata charges; not a guest-row measure.
+Known execution CPU 0.421875, clean closure. Release audits actual evidence;
+growth gives a concise source-led investment judgment. No guest/proof selected
+and no runtime remains; the original failed economic screen is unchanged.
+
+**2026-10-21 support-summary native build selected once.**
+Root reads/adopts independent source review 9c23f618, source argument 297e21c8,
+builder/selector 9a665f20 and control-adapter review 27d189a9; independently
+reviews all changed sources/controls. Two-compilation build selection a6bbb290
+is running under root session 87732, no control execution yet. Growth owns
+actual build audit after terminal evidence. The later guest plan ac2417af
+reuses the actual successful module and host; it is not yet selected. Prior
+pair/assembly and failed economic screen are committed in 6db8c83. No proof.
+
 **2026-10-21 targeted checker improvement selected, not another redesign.**
 Root fully reads/adopts actual pair outcome 9084ad56: exact endpoints, all 76
 segment bindings, fixed economic failure and clean closure; 4.4375 known CPU

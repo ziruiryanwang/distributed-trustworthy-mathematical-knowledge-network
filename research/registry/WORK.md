@@ -4,6 +4,23 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 root adopts support controls outcome e48ecd96. Final source-only
+guest discriminator: support_guest build/recipes; support_screen assembly/pair;
+core_release changed-boundary source review; root selectors/launch/adoption/Git.
+Canonical root and used-byte preservation apply. No new profiling/proof/host
+or dependencies; unchanged economic gate and explicit failure pivot.
+
+2026-10-21 support native controls terminal b1ebc253/b9ac046a, raw30/12,
+two exact endpoints; release actual outcome audit, growth concise marginal-
+payoff judgment, root next selection/Git. Build a1e9e8d read/adopted. No live
+runtime, no guest/proof or new product rollout yet; no repeated campaign.
+
+2026-10-21 support native build session87732/selectiona6bbb290 launched once;
+growth actual build audit waits for root terminal hash, no polling/rerun.
+Adaptive source review9c23f618 and exact30/12 control contract complete. Root
+owns actual control selection/adoption; release guest3-compile planac2417af
+complete but not selected. All8used build sources freeze. No guest/proof.
+
 2026-10-21 RESTRICTED-SUPPORT-SELECTION: growth fresh restricted_support
 lib/syntax/typing and SOURCE; adaptive actual-pair outcome then focused
 support controls/refinement REVIEW; release thin build.py and BUILD with
