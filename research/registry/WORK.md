@@ -4,6 +4,11 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 root read/adopts combined source reviewe860e1f0. Guest build
+selection7db15fce terminal1607/RESULTd90dcb85,14.78125knownCPU/clean.
+Core_release actual-build outcome; root assembly/pair selections after adoption.
+Support_guest/support_screen source tasks complete; no repeated source audit.
+
 2026-10-21 root adopts support controls outcome e48ecd96. Final source-only
 guest discriminator: support_guest build/recipes; support_screen assembly/pair;
 core_release changed-boundary source review; root selectors/launch/adoption/Git.

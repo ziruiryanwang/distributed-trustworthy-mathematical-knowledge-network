@@ -34,6 +34,14 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-21 support guest compiled once; actual build audit.**
+Source review e860e1f0 fully read/adopted. Selection7db15fce/session1607
+finished0, RESULTd90dcb85: three compiles/12sources/5outputs,
+14.78125knownCPU,14.3762294wall, active0/terminated0. Core_release audits
+actual bindings before assembly; root owns the already reviewed assembly/pair
+selectors and later finite launch. Native implementation/controls committed
+fa95890. No runtime remains, no proof or installed product adoption.
+
 **2026-10-21 native support outcome adopted; final bounded guest discriminator.**
 Root fully reads/adopts controls outcome e48ecd96: exact ordered30/12,
 unchanged J/parents/census on both fixtures, all pins and clean closure.
