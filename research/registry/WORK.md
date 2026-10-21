@@ -4,6 +4,17 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 actual01 failure983d7ca8 and diagnosis e105eaa9 read/adopted. Screen
+authors narrow restart_smoke02; guest reviews source/selector52e4db2b after
+failure audit; root selection/Git. Release continues bounded-generation source.
+No lifecycle controls/runtime or second installation; used01 stays immutable.
+
+2026-10-21 build53667 clean terminal7fd26c95/release1fd0ae63; core_release
+actual audit first, then selected BOUNDED-GENERATIONS-IMPLEMENTATION lifecycle/
+service source. Root fully read smokee8b3a025; support_guest seals review then
+actual smoke audit; support_screen coordinates later disjoint lifecycle controls
+only after concrete API. No new lifecycle runtime, deletion or existing-data edit.
+
 2026-10-21 consolidated union121/100 selected, source map b6ec6126 and review
 0548c498 adopted. Root one fresh directory build/installed-smoke selectors,
 launch/adoption/Git; core_release actual build review; support_screen installed

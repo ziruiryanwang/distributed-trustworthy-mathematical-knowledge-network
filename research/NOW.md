@@ -2,49 +2,48 @@
 
 ## Current source navigation (read before proposing a missing capability)
 
-**Demonstrated development overlay, not yet installed:** the actual sharing
-workload (`SHARING-MARGIN-ADOPTION`, audit77529a96) uses the installed114 map
-below plus four replacements: `standalone_validation/admission/pin_phase.py`
-(ac7ed228), `incremental_native/mixed_claims/receiver.py` (54365699),
-`continuing_context/mixed_claims/imports_atomic.py` (45b08286), and
-`continuing_context/client/workspace_atomic.py` (32e3b95e). Exact full pins are
-in `software/v5/sharing_margin/actual.py::REPLACEMENTS`. Native-prefix reuse
-already exists, with adopted controls513b91d8 and real integration779fa9f3.
-Do not infer project-wide absence from the older installed source map.
-Separately qualified placement/network/lifecycle additions must be reconciled
-through their latest actual source maps before a combined installation.
+**Current installed candidate:**
+`product-local/v5-distribution-consolidated-01/Mathematical Commons v5`, release
+`1fd0ae63faa84cc1f3ef82f17d2056657f8d6a3e5dea3686ace433987bd1e5be`.
+Its authoritative121-entry `sdk_sources` map is in
+`experiments/v5-local-checks/distribution-consolidated-01-input.json`, SHA-256
+`8ba3707236c1a6e01ab7f87886814f801034b2fe9144ad9603585adcc73feb33`.
+Root read/adopts actual build audit8d732943. Installed restart smoke01 failed
+before restart; installation identity alone is not operational/full-v5 qualification.
 
-The installed SDK map is `sdk_sources` in
-`experiments/v5-local-checks/distribution-terminal-i-01-input.json`
-(SHA-256 `d3519be18a8281355f7ec915ce3156735be649892c379f5008b5b1031026f9b0`).
-Resolve logical module names through that map before inspecting implementation.
-For example, the installed mixed receiver is
-`software/v5/runtime_efficient/mixed_claims/receiver.py`, not its old logical-path
-predecessor. Runtime pin-phase deduplication and general exact-J seal preparation
-already exist. Historical "missing" recommendations are not current evidence.
-The installed candidate is
-`product-local/v5-distribution-terminal-i-01/Mathematical Commons v5`, release
-`9a44560af1d6c9b2d17affad5dde4abf9da01b09033bacde0ae282060d620499`.
-This five-replacement successor adds explicit V2 terminal-I evidence to the
-origin/trust/pin-phase and optional pair-planner changes. Actual installation
-audit0e16ce81 passes; genuine same-facade I workload passes audit9349f653.
-The preceding origin114 mirror03 has an adopted actual two-owner
-contribution/publication PASS (4908fc4d), without a full-cost growth claim.
-Its 114-source map preserves interface-only authoring, supplier-complete
-continuation, withdrawal, numeral lowering and successive direct/located queries.
-It retains bounded conclusion-fingerprint discovery and owner-selected base
-projection, adding exact pending-body custody through the same located reader.
-Structural controls, exact installed-map audit and real three-node loopback
-discovery/body acquisition followed by retained I/two-native import now pass.
-This is not net useful-growth, independent-host or full-v5 qualification.
-Old installations and their used states remain immutable; no automatic migration.
-Ordinary mathematical startup requires an existing explicit trust adoption;
-use the matching distribution_coherent examples, not predecessor callers.
-The installed custody integration's fresh temporary trust domain was deliberately
-withdrawn: it is evidence, not a reusable live owner policy. Ordinary use needs
-its own explicit owner adoption. Do not overwrite old installations/state.
+Resolve logical modules through this map. CONSOLIDATED-SOURCE-MAP b6ec6126
+documents exactly five replacements/seven additions to terminal-i114: native
+reuse54365699, continuing imports45b08286/workspace32e3b95e, pin_phaseac7ed228,
+guarded discovery Store1c8543d4 and seven placement/retained-route additions.
+Sharing audit77529a96 and native reuse513b91d8/779fa9f3 already demonstrate those
+development paths; do not implement or retest them because an older map lacks
+them. The same map preserves interface-only authoring, exact certificate cuts,
+supplier continuation, trust withdrawal and bounded formal/located discovery.
+
+New bounded_generations sources are explicitly excluded until separately
+reviewed/adopted. RC/support shortcuts remain unadopted; no further investment.
+All predecessor installations/state remain immutable. Ordinary mathematical
+startup requires its own explicit trust adoption, not a previously withdrawn
+test policy. No automatic migration, independent-host or full-release claim.
 
 ## Current work
+
+**2026-10-21 narrow smoke02 source repair selected; product unchanged.**
+Root fully read/adopts actual failure audit983d7ca8 and diagnosis e105eaa9.
+CONSOLIDATED-SMOKE02-SELECTION preserves failed01 and selects only exact wire
+projection comparison plus safe coroutine identities/one loop settlement before
+strict zero-pending check. Support_screen authors fresh02; support_guest reviews
+diff/selector52e4db2b; root later one finite launch. No new runtime selected yet.
+
+**2026-10-21 installed smoke01 failed before restart; diagnose, no retry.**
+Selectionfc1c2bb4/input6be80c7d/session21218 ended1; outer149e3fc1,
+innerc6af48e8. EXACT_COMMITTED_REQUEST_RECEIPT at one-remote-submit; one pending
+async actor reported, while B1/reader Node close and outer Job close are clean.
+KnownCPU27.9375, wall32.5152s. Sourcee8b3a025/selection/evidence freeze.
+Support_guest actual audit; support_screen focused source/durable diagnosis.
+Root identifies invalid raw receipt equality: wire deliberately projects local
+diagnostics. Pending task identity was not recorded; do not invent its cause.
+Core_release continues selected bounded-generation source; no lifecycle test.
 
 **2026-10-21 consolidated directory build selected; no repeated campaigns.**
 Root read/adopts source-map b6ec6126 and independent build review0548c498.
