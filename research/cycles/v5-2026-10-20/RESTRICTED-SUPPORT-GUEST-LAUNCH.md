@@ -43,3 +43,44 @@ reports three successful compiles, worker10.484375 plus controller4.296875 =
 14.78125 known CPU seconds, wall14.3762294, active0/terminated0.
 Independent actual build audit is assigned to core_release before assembly;
 no repeated build or portable certificate is selected.
+
+## Assembly selection
+
+Independent actual-build reviewer reports PASS for the exact selection,
+twelve canonical/snapshot sources, two adapters, five outputs, module pair,
+native adoption, actual three-command recipes/extern/search-path binding,
+six empty logs and clean closure. Root adopts that explicit terminal review.
+The checkpoint prose is being saved; it is not another execution prerequisite.
+
+Select one image assembly, no guest execution: selection
+b6b39fe375356c0b47051aafcfb3e85a227e8799482cdd339f3720764eede51a,
+using reviewed assembler e9084fd4 and selector d994d2ed;3 sources/64 runtime
+pins. Use retained isolated receiver Python and Run-V5-Check once. Limits120
+CPU/120wall/1024MiB/two processes,1MiB per outer log. Actual image identity,
+all selected inputs and clean outer completion are required before pair use.
+
+## Actual assembly and final pair selection
+
+Root fully reads build audit1db6dd00. Independent assembly reviewer reports
+PASS for all45 command inputs/64 outer runtime pins, three exact source
+snapshots, actual ELF/kernel/image/logs and clean closed exit0. Root adopts
+that terminal review; known total CPU0.96875. Inner assembly result
+6ae8d697fbe94dae9926d2ba77386031e7dffa3b18e2f167d53684df784d9b66,
+outer d1da6dfbfdc5ca31f2aeb70b58edb1013a62a678b17979c328cdaf192bce3e88.
+Actual image ID ae765f5bb55fdf2b2d95aa28aa70c741b77142d3b1af4f90c89cc648f5a260bf
+is separate from image SHA cb32fe6a93c6127b5bc7bd7c86187ec085db8040cbf0e6ecd615bbee1daed66c.
+
+Select one paired execute-only operation, selection
+83c64d369149cdc1e2fc840925b215a54ee094ea778810b29e96fb1b543b9235,
+configuration6afff33289b12bc8d11cd172c50cdc823d1612ee0eac8602d2617ef233687bf4.
+Use reviewed pair6a7112ac/selector0f8a5946 through frozen Run-V5-Check and
+isolated receiver Python.17 source snapshots/53 runtime pins. Same actual
+fixture/base receipt/general image/target, old restricted host for this
+native-differential-qualified fixture only, new support guest image.
+
+Original420CPU/600wall/4096MiB/three-process outer envelope; serial host arms
+180CPU/120wall/3072MiB/two processes,2^26 cycle cap/po18. Adapter60CPU/530wall.
+Shared preparation is fully charged to each arm and once overall. Fixed75%
+rows/64segments/no CPU-regression conjunction unchanged; failure closes this
+investment without timing retry or proof funding. Core_release audits the
+actual pair; no product release follows from an execution screen.

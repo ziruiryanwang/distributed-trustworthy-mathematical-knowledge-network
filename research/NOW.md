@@ -2,6 +2,18 @@
 
 ## Current source navigation (read before proposing a missing capability)
 
+**Demonstrated development overlay, not yet installed:** the actual sharing
+workload (`SHARING-MARGIN-ADOPTION`, audit77529a96) uses the installed114 map
+below plus four replacements: `standalone_validation/admission/pin_phase.py`
+(ac7ed228), `incremental_native/mixed_claims/receiver.py` (54365699),
+`continuing_context/mixed_claims/imports_atomic.py` (45b08286), and
+`continuing_context/client/workspace_atomic.py` (32e3b95e). Exact full pins are
+in `software/v5/sharing_margin/actual.py::REPLACEMENTS`. Native-prefix reuse
+already exists, with adopted controls513b91d8 and real integration779fa9f3.
+Do not infer project-wide absence from the older installed source map.
+Separately qualified placement/network/lifecycle additions must be reconciled
+through their latest actual source maps before a combined installation.
+
 The installed SDK map is `sdk_sources` in
 `experiments/v5-local-checks/distribution-terminal-i-01-input.json`
 (SHA-256 `d3519be18a8281355f7ec915ce3156735be649892c379f5008b5b1031026f9b0`).
@@ -33,6 +45,34 @@ withdrawn: it is evidence, not a reusable live owner policy. Ordinary use needs
 its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
+
+**2026-10-21 consolidated directory build selected; no repeated campaigns.**
+Root read/adopts source-map b6ec6126 and independent build review0548c498.
+CONSOLIDATED-LAUNCH selects one fresh121-SDK/100-preparation-source installation
+through the unchanged builder and supervisor. Core_release audits actual build;
+support_screen finishes installed restart adapter; support_guest reviews it.
+Only the new retained-custody close/reopen/unknown-ID boundary will run after
+source and installation adoption. No RC work, duplicate cache or new proofs.
+
+**2026-10-21 duplicate cache proposal cancelled before edits; integrate existing work.**
+Root and support_guest independently found the proposed cache already in
+incremental_native54365699, with adopted controls and genuine M/M+V evidence.
+Both authors stopped before any duplicate files. NATIVE-REUSE-SELECTION now
+records the correction; no new cache test. Source navigation above includes
+the demonstrated four-file development overlay. Root now consolidates those
+existing capabilities into the usable candidate; core_release finishes actual
+support-pair audit then identifies latest demonstrated composition/install gap.
+RC optimization remains closed; installed candidate remains unchanged.
+
+**2026-10-21 support cost screen fails; product native-prefix reuse selected.**
+Both exact executions pass, but support7864320 padded rows exceeds fixed
+6930432 ceiling (general9240576). CPU and64-po18 gates pass. Inner07e8840f/
+outera05b2a58,3.859375knownCPU/clean; core_release actual audit. RC investment
+closes: no more tuning/proof/retry. NATIVE-REUSE-SELECTION selects source-only
+bounded same-owner exact native-delta reuse across distinct packets, with all
+current graph/live authority checks, unchanged reservations and honest provenance.
+Support_screen authors receiver; support_guest reviews/tests; root integrates.
+No runtime or new installation. Actual assembly PASS b1645db7 available.
 
 **2026-10-21 support guest compiled once; actual build audit.**
 Source review e860e1f0 fully read/adopted. Selection7db15fce/session1607

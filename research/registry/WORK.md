@@ -4,6 +4,25 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 consolidated union121/100 selected, source map b6ec6126 and review
+0548c498 adopted. Root one fresh directory build/installed-smoke selectors,
+launch/adoption/Git; core_release actual build review; support_screen installed
+restart smoke; support_guest separate source/selector and actual smoke audits.
+No repeated sharing, placement02, cache, guest or proof experiment.
+
+2026-10-21 native_reuse assignment cancelled before code/tests: equivalent
+incremental_native54365699 already adopted (controls513b91d8/integration779fa9f3).
+Root/source reviewer independently caught installed-vs-development confusion.
+Support_screen/support_guest confirm no duplicate files. Core_release pair audit
+then latest demonstrated composition gap; root consolidates existing successors.
+
+2026-10-21 support pair fixed-screenFAIL closes RC optimization; no retry/proof.
+Core_release actual pair audit; support_screen native_reuse receiver successor;
+support_guest independent review/focused controls; root integration/launch/Git.
+NATIVE-REUSE-SELECTION bounds same-owner exact-W/J cache, immutable entries,
+fresh authority/graph checks, unchanged reservations and truthful provenance.
+Source work only; no new runtime/installation selected.
+
 2026-10-21 root read/adopts combined source reviewe860e1f0. Guest build
 selection7db15fce terminal1607/RESULTd90dcb85,14.78125knownCPU/clean.
 Core_release actual-build outcome; root assembly/pair selections after adoption.
