@@ -52,3 +52,27 @@ explicit workdir/absolute apply_patch, no subagent Git or runtime. Root will
 select any new run explicitly after review, with one new prospective input
 and original-duration horizons, not a renewed smoke01 allocation. The failure
 and its27.9375knownCPU seconds remain charged and cannot be relabeled a pass.
+
+## Root adoption and finite launch selection
+
+2026-10-21 resumed continuation: root fully read/adopts source review
+61dff73caafce5f6489f8ee0e4c8b77989653ce1de39b65903f45fd45770d29f
+and selects exactly one fresh smoke02 execution through unchanged Run-V5-Check.
+Adapter a6e4dd616b614cb01181fa482f9340bd817098ea17453e0cd394bc403345912f
+and selector52e4db2bb2888deb5fecb1b8ad6e3005a43d2e26c101d23650913340c7af9d60
+use adopted release1fd0ae63faa84cc1f3ef82f17d2056657f8d6a3e5dea3686ace433987bd1e5be
+and build input8ba3707236c1a6e01ab7f87886814f801034b2fe9144ad9603585adcc73feb33.
+The unchanged envelope is150CPU/300wall seconds,512MiB/six processes.
+Select horizons immediately before execution; never refresh them. No further
+installation sweep, native/proof/checker call, retry or lifecycle execution.
+Support_guest independently audits the actual terminal evidence; failure stays
+failure. This selects the restart boundary, not full-v5 adoption.
+
+Actual launch: the first shell invocation was refused by local PowerShell
+execution policy before selector execution; an unguarded launcher then refused
+its missing arguments before work. No input or operation was created. Root
+corrected the shell invocation to process-local Bypass plus explicit failure/
+argument guards, without changing source or refreshing an existing allocation.
+The single generated selection04522d4b/input1a980583 ran as session40778 and
+ended0. Outer3775b09f/innerf30b9188 retain actual evidence; knownCPU44.53125,
+wall51.3078556s, clean outer closure. Actual outcome review is still required.

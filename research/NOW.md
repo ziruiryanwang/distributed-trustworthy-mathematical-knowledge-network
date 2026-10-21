@@ -9,7 +9,11 @@ Its authoritative121-entry `sdk_sources` map is in
 `experiments/v5-local-checks/distribution-consolidated-01-input.json`, SHA-256
 `8ba3707236c1a6e01ab7f87886814f801034b2fe9144ad9603585adcc73feb33`.
 Root read/adopts actual build audit8d732943. Installed restart smoke01 failed
-before restart; installation identity alone is not operational/full-v5 qualification.
+before restart; preserved failure is not relabeled. Fresh smoke02 now passes
+independent actual audit916b19a9: sealed custody survives complete close/reopen,
+fresh locator restores discovery, goal-only reader acquires exact retained bytes,
+actual stale peer is handled and all roles close. This does not establish new
+mathematical acceptance, independent hosting or full-v5 qualification.
 
 Resolve logical modules through this map. CONSOLIDATED-SOURCE-MAP b6ec6126
 documents exactly five replacements/seven additions to terminal-i114: native
@@ -27,6 +31,27 @@ startup requires its own explicit trust adoption, not a previously withdrawn
 test policy. No automatic migration, independent-host or full-release claim.
 
 ## Current work
+
+**2026-10-21 installed restart outcome adopted; implement sustained capacity.**
+Root fully read/adopts CONSOLIDATED-SMOKE02-OUTCOME916b19a9, including exact
+closed SQLite/blob checks, all121 installed SDK sources, actual stale descriptor
+miss after success, original generation/outer horizons and clean closure. No
+repeated smoke or mathematical work. Root read lifecycleec503380 and corrected
+composition40436584; guest reviews; screen finishes registry controls and root
+selector09aa9a5e. Release resolves exact reclamation/FREE transition with known
+file grammar and private enrolled roots. Source only; no deletion or lifecycle
+runtime selected. The full v5 goal remains active.
+
+**2026-10-21 fresh installed restart boundary passes; actual audit next.**
+Smoke02 selection04522d4b/input1a980583/session40778 exits0; outer3775b09f,
+innerf30b9188 reports source-off, B1 sealed/closed, B2 same custody/fresh locator,
+goal-only exact acquisition, stale-peer typed miss and zero final pending actors.
+KnownCPU44.53125/wall51.3079s; no native/proof/verifier/trust call. Support_guest
+audits actual bytes; smoke01 failure remains preserved/charged. No test rerun.
+Bounded-generation source review found partial-attachment cleanup leak; root
+selected narrow fix40436584 (lifecycleec503380 unchanged), now under review.
+Screen owns small controls; release concrete reclamation design; root selector/
+integration/Git. No lifecycle execution or deletion selected; full v5 remains open.
 
 **2026-10-21 narrow smoke02 source repair selected; product unchanged.**
 Root fully read/adopts actual failure audit983d7ca8 and diagnosis e105eaa9.

@@ -4,6 +4,20 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 root fully read/adopts smoke02 actual916b19a9. No runtime lives.
+Guest independent lifecycle/controls/selector09aa9a5e review; screen finishes
+tests.py exact hashes and source-only faults; release reclamation design then
+narrow controls challenge; root finite launch selection/adoption/Git. Full goal
+active, no repeated restart/native/proof campaign or installation rewrite.
+
+
+2026-10-21 smoke02 session40778 terminal0/3775b09f/f30b9188. Guest actual
+outcome audit then bounded-generation source/controls review; screen authors
+native-free registry controls; release resolves actual reclamation design after
+selected attachment-failure cleanup40436584. Root reads source, owns finite
+selectors/adoption/Git. No further installed test or lifecycle runtime selected.
+
+
 2026-10-21 actual01 failure983d7ca8 and diagnosis e105eaa9 read/adopted. Screen
 authors narrow restart_smoke02; guest reviews source/selector52e4db2b after
 failure audit; root selection/Git. Release continues bounded-generation source.
