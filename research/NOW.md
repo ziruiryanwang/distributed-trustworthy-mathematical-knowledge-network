@@ -22,6 +22,42 @@ a reusable live owner policy. Do not overwrite earlier installations or state.
 
 ## Current work
 
+**2026-10-20 ordinary numeral interoperability adopted.**
+Root reads/adopts independent outcome7582a301: nine contracts plus actual Lean
+export and unchanged fresh zero-parent check,18 declarations/13 groups,module
+349e201e3ff12b35c6699fb2513f5d1723a7535920931d5f916df24bede7f132.
+New SourceRows b9525df0 is a tested development successor, not yet a replacement
+in installed release0fbbbc59. No policy/checker/image changes or new receipt.
+Both Jobs closed; combined knownCPU5.296875 seconds. No runtime/retry remains.
+Root preserves exact code/review/selection in Git. Parallel source-only central
+decision: growth VOCABULARY-REUSE-SEAM and search independent CHALLENGE for exact
+shared vocabulary across contributions. Use existing imports where sufficient;
+do not infer equality of builtin Nat and another module's Nat. Full v5 active.
+
+**2026-10-20 numeral contracts pass; one genuine native check selected.**
+Root reads nine passing groups under nat-literal-controls-01/a2deb4e5, exact
+sourceb9525df0, zero errors/skips and clean Job closure. KnownCPU0.8125,wall2.8027s.
+Read native adapter61594c33, Leana87d47ab and independent conditional clearance.
+Select one existing frontend/zero-parent fresh check via Select-NatLiteralNative:
+13 sources, retained runtimes,60CPU/120wall/512MiB. No image build, proof production
+or public SDK admission claim. Preserve all used bytes; no old campaign rerun.
+
+**2026-10-20 one focused numeral-importer contract run selected.**
+Root read final successorb9525df0 and controls2c3191fd; independent source,
+control and selector26449057 reviews pass. Seven selected sources, unchanged
+runtime pins,30CPU/60wall/256MiB. Nine structural groups, no native/proof/network.
+Used source/controls/selector freeze on execution; no repeated campaign. The
+separate addTwo source/native adapter61594c33 is reviewed but its run waits for
+these contracts and exact finite selection. Full v5 remains open.
+
+**2026-10-20 bounded numeral importer implementation selected.**
+Root reads semantic5a4d9a19/sourcef01196de and independent decisive GO. Fresh
+nat_literals/source_rows successor only: exact local Nat closure, raw-nat
+constructor lowering, preallocation bounds, unchanged checker/policy/image.
+core_search code; core_release independent controls/review; core_growth minimal
+native smoke plan; root selector/adoption. No runtime selected yet, no repeated
+status or passing integration campaign. See NAT-LITERAL-IMPLEMENTATION.md.
+
 **2026-10-20 speculative SAT case rejected before implementation.**
 Root adopts BENEFIT-CASE6cb956b1 and independent CHALLENGE5b0a11f6: optimized
 local solver exists, but constructive reconstruction, bounded types, independent

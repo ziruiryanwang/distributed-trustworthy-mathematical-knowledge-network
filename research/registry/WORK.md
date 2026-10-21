@@ -4,6 +4,25 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 native96244 completed and independent outcome7582a301 adopted: both
+numeral runs pass, no live runtime. Nat code/tests/adapters/selectors now frozen.
+Root Git; core_growth VOCABULARY-REUSE-SEAM.md; core_search independent
+VOCABULARY-REUSE-CHALLENGE.md, source/theory only; core_release task complete.
+
+2026-10-20 numeral contracts pass; native check96244 running once under fixed
+selectionac411099. core_release audits saved outcomes; root owns runtime/adoption.
+Parallel source-only next central decision: core_growth VOCABULARY-REUSE-SEAM.md,
+current-cycle <=80lines, exact shared mathematical vocabulary across independent
+authoring. Distinguish existing acquired-constructor reuse from automatic builtin
+Nat interoperation; prefer existing APIs and a concrete unchanged-relation route.
+No new policy, foundation, standard module, bridge implementation or experiment
+selected by that analysis. core_search available for independent challenge later.
+
+2026-10-20 NAT-LITERAL-IMPLEMENTATION: core_search owns fresh
+software/v5/nat_literals/source_rows.py and README; core_release disjoint controls
+and review; core_growth minimal existing native-route plan. Root source selection,
+supervised launch after review, adoption and Git. No runtime selected yet.
+
 2026-10-20 benefit case/independent challenge complete: NO-GO SAT construction,
 not a failed runtime. NAT-LITERAL-SELECTION: core_growth semantic/foundation
 decision NAT-LITERAL-SEMANTICS.md; core_search selected actual frontend/source
