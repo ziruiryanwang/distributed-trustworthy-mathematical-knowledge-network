@@ -3,19 +3,20 @@
 ## Current source navigation (read before proposing a missing capability)
 
 The installed SDK map is `sdk_sources` in
-`experiments/v5-local-checks/distribution-origin-01-input.json`
-(SHA-256 `2ea8322879b2e45afb2a2f5e8d99500bfcfdbe0982cdf14687b1e8bdd0950556`).
+`experiments/v5-local-checks/distribution-terminal-i-01-input.json`
+(SHA-256 `d3519be18a8281355f7ec915ce3156735be649892c379f5008b5b1031026f9b0`).
 Resolve logical module names through that map before inspecting implementation.
 For example, the installed mixed receiver is
 `software/v5/runtime_efficient/mixed_claims/receiver.py`, not its old logical-path
 predecessor. Runtime pin-phase deduplication and general exact-J seal preparation
 already exist. Historical "missing" recommendations are not current evidence.
 The installed candidate is
-`product-local/v5-distribution-origin-01/Mathematical Commons v5`, release
-`128224b6e592ba3ae29476e770faa085b6841b0460529f3db203340dbfdc7a85`.
-This two-replacement successor adds qualified origin-resolution reuse to the
-earlier trust-phase and optional pair-planner changes. Mirror02 failed on its
-predecessor after frontend export; mirror03 now has an adopted actual two-owner
+`product-local/v5-distribution-terminal-i-01/Mathematical Commons v5`, release
+`9a44560af1d6c9b2d17affad5dde4abf9da01b09033bacde0ae282060d620499`.
+This five-replacement successor adds explicit V2 terminal-I evidence to the
+origin/trust/pin-phase and optional pair-planner changes. Actual installation
+audit0e16ce81 passes; genuine same-facade I workload passes audit9349f653.
+The preceding origin114 mirror03 has an adopted actual two-owner
 contribution/publication PASS (4908fc4d), without a full-cost growth claim.
 Its 114-source map preserves interface-only authoring, supplier-complete
 continuation, withdrawal, numeral lowering and successive direct/located queries.
@@ -32,6 +33,42 @@ withdrawn: it is evidence, not a reusable live owner policy. Ordinary use needs
 its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
+
+**2026-10-21 standalone validation controls adopted; batch installation later.**
+Root reads d2e77b8f:10/10,119physical/114logical/19runtime exact,2.609375knownCPU/
+5.7664838wall,clean closure. Real trust observations62/74 ->4; pin reads remain
+58/70 and original guards remain. No end-to-end speedup or mathematical claim.
+The three exact sources are qualified for later integration, not installed.
+Avoid a separate842MB recopy: batch with the next consequential source feature.
+Growth/audit now investigate exact same-owner incremental native admission;
+release specifies selective remote index placement after the solved body-supplier
+gap. Both are source/theory only; no new execution or runtime remains.
+
+**2026-10-21 genuine terminal-I workflow adopted; focused validation controls next.**
+Root reads/adopts9349f653: unknown-ID binary-congruence discovery, real I
+verification and selected interface-only import, substantive ternary composition,
+separate mixed/native admission and publication; fresh recipient then retrieves
+structural closure after contributor withdrawal. The second recipient did not
+mathematically admit. 119 source bindings match;68.015625knownCPU/75.7009254wall,
+clean closure, original limits unchanged. No new certificate or full-cost claim.
+No runtime remains from that workflow; do not repeat it. Root adopts source
+review3524a601 and control reviewf73d4011, selecting only the fresh ten-method
+standalone-validation controls below. Growth next addresses central full-cost
+reuse/certification decisions; no further speculative controller optimization.
+
+**2026-10-21 terminal-I installation adopted; genuine I workflow selected once.**
+Root reads0e16ce81,updates authoritative114 map/inputd3519be1/release9a44560a.
+TERMINAL-I-WORKLOAD-LAUNCH selects request9df159b6 with reviewed owner885138de,
+original300CPU/600wall/120controllerCPU limits. core_release actual outcome.
+No new crypto production or repeated control/build/mirror. Standalone validation
+three-source successor/review/controls remains separate source-only work.
+
+**2026-10-21 terminal-I file build terminal; actual installation audit pending.**
+Build10229 exits0:114SDK/9859payload/842445913B,release9a44560a,inputd3519be1,
+selectiond0bc5dcc,60.8125knownCPU/222.3557274wall,clean closure. core_release
+audits final map/census once. Root prepares the already source-reviewed genuine
+owner request without running it; later explicit launch waits for adopted audit.
+Standalone validation successors are separate source-only work, not installed.
 
 **2026-10-21 next narrow controller source improvement selected in parallel.**
 STANDALONE-VALIDATION-SELECTION follows source decision091f0385: standalone

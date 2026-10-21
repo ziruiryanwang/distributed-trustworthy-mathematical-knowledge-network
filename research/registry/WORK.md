@@ -4,6 +4,23 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 actual standalone control auditd2e77b8f adopted. No runtime remains;
+root defers separate installation to batch next consequential feature. Growth
+NEXT-GROWTH-DECISION and adaptive NEXT-GROWTH-REVIEW: same-live-owner incremental
+native admission. Release SELECTIVE-PLACEMENT-CONTRACT: independent selective
+index custody. Source-only; no product edit/runtime until root selection.
+
+2026-10-21 terminal-I workload actual9349f653 adopted; no live workload or rerun.
+Root selects standalone-validation10 controls after3524a601/f73d4011;
+core_release actual STANDALONE-VALIDATION-OUTCOME, growth source/theory-only
+NEXT-GROWTH-DECISION on full-cost reuse/certification, adaptive_audit available
+for independent challenge of that decision. Root integration/Git. No new prover.
+
+2026-10-21 terminal-I install audit0e16ce81 adopted; root selects actual genuine
+I ordinary workflow request9df159b6 on release9a44560a. core_release actual
+TERMINAL-I-WORKLOAD-OUTCOME. Adaptive_audit standalone-source review/controls;
+growth source complete, root future controls integration. No new proof production.
+
 2026-10-21 STANDALONE-VALIDATION-SELECTION: growth three fresh source successors
 (pin_phase/mixedreceiver/importscope), adaptive_audit independent review; root
 later controls/integration. Release actual terminal-I installation audit after
