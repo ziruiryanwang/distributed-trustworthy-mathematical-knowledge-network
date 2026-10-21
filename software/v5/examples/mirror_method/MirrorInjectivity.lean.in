@@ -1,0 +1,29 @@
+-- Owner template, deliberately not an executable Lean source yet.
+-- Replace each __MIRROR_MODULE_HEX__ only with the exact 64-character lowercase
+-- hexadecimal ModuleID of the freshly admitted mirror/involution result.
+-- Verify both imported declaration names/types through that live context.
+-- Never substitute a guessed hash, report token or historical saved warrant.
+-- Publication root: OwnerV5.mirror_injective.
+set_option autoImplicit false
+noncomputable section
+universe u
+namespace OwnerV5
+
+theorem mirror_injective {A : Type u}
+    (x y : DMKN.Mod.«2b54d3be0ee27667c864ede130980f3fdeef963141296989b60113ba90e5be9e».CommonsV5.Tree A)
+    (h : DMKN.Mod.«__MIRROR_MODULE_HEX__».OwnerV5.mirror x =
+      DMKN.Mod.«__MIRROR_MODULE_HEX__».OwnerV5.mirror y) : x = y :=
+  Eq.trans
+    (Eq.symm (DMKN.Mod.«__MIRROR_MODULE_HEX__».OwnerV5.mirror_involution x))
+    (Eq.trans
+      (Eq.ndrec
+        (motive := fun z : DMKN.Mod.«2b54d3be0ee27667c864ede130980f3fdeef963141296989b60113ba90e5be9e».CommonsV5.Tree A =>
+          DMKN.Mod.«__MIRROR_MODULE_HEX__».OwnerV5.mirror
+            (DMKN.Mod.«__MIRROR_MODULE_HEX__».OwnerV5.mirror x) =
+          DMKN.Mod.«__MIRROR_MODULE_HEX__».OwnerV5.mirror z)
+        (Eq.refl (DMKN.Mod.«__MIRROR_MODULE_HEX__».OwnerV5.mirror
+          (DMKN.Mod.«__MIRROR_MODULE_HEX__».OwnerV5.mirror x)))
+        h)
+      (DMKN.Mod.«__MIRROR_MODULE_HEX__».OwnerV5.mirror_involution y))
+
+end OwnerV5

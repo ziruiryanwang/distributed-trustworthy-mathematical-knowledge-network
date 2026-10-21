@@ -29,6 +29,26 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-20 mirror01 failure adopted; validation cost repair is next.**
+Root reads independent outcome c37d3d91: exact117 sources, genuine unknown-ID
+discovery, retained receipt/native admission and READY import; controller120CPU
+refusal before author/preparation calls (both zero), no publication/second owner.
+All owners closed and first trust withdrawn.128.78125knownCPU/140.6597043wall
+remain charged; no runtime remains, no memory failure and no automatic retry.
+Growth diagnoses repeated validation, release challenges safe phase boundaries,
+audit designs changed-boundary controls; source-only before root implementation
+selection. Preserve owner01, input/state, failed operation and installed114.
+Pair wire corollary35d22c13 supports fixed-compiler coverage only, not superiority
+over an informed existing-API query or full-cost growth. Planner awaits batching.
+
+**2026-10-20 real mirror method circulation selected once.**
+Root reads owner GO7f31c323 and selector GOf9dbb21d, final owner43c3a2ee.
+MIRROR-METHOD-LAUNCH selects unchanged114/current installation, two fresh owners:
+unknown-ID method discovery -> checked mirror/involution -> checked injectivity.
+One300CPU/600wall/1024MiB/four-process outer, stage-local210s grants, no crypto
+production/build. Used inputs freeze; independent actual audit before adoption.
+Pair planner is committed60a1906 and is not needed or installed for this run.
+
 **2026-10-20 pair-planning source adopted after actual audit.**
 Root reads0392fd30:192 exact snapshots/116 logical/22pins; nine controls pass,
 same committed singleton,32->1 records/31->1 pages, summary89994->134605B.

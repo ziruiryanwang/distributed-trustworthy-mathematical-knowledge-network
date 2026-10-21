@@ -4,6 +4,18 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 mirror01 failure c37d3d91 adopted; no runtime remains. core_growth
+owns MIRROR-CPU-CAUSE (source call graph/minimal repair); core_release independent
+VALIDATION-PHASE-REVIEW (withdrawal/authority boundaries); adaptive_audit owns
+VALIDATION-PHASE-CONTROL-PLAN. Root preserves/commits used inputs/evidence and
+selects a repair only after reading. No cap increase, rerun or RAM investigation.
+All checkpoints under canonical research/cycles/v5-2026-10-20.
+
+2026-10-20 MIRROR-METHOD-LAUNCH: root adopts owner7f31c323/selectorf9dbb21d
+source reviews and selects one installed two-owner composition. adaptive_audit
+owns saved actual outcome; core_release/growth source tasks complete. No new
+crypto production or distribution build. Preserve source43c3a2ee and all evidence.
+
 2026-10-20 pair actual0392fd30 adopted: nine passes,192physical/116logical,
 18.453125knownCPU; used sources/evidence frozen, no repeat/build. Release owns
 mirror owner/template; growth independent source review; root exact selector.
