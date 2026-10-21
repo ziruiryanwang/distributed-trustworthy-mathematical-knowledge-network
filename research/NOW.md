@@ -34,6 +34,30 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-21 genuine incremental reuse adopted; placement source cleared.**
+Root read/adopts779fa9f3: actual fresh owners, one real I verification, two real
+native checks for retained M then M+V, one exact M observation reuse, current
+premise bindings and full50-workerCPU reservations retained;119/114/28 exact,
+16.203125knownCPU/20.6638053wall,clean close/withdrawal. Failed01 remains
+preserved. No rerun or separate842MB installation. Root reads placement source
+review1ddd94c5: controller ef1c9b59 and guarded Store1c8543d4 clear for focused
+controls. Release's twelve-method harness awaits independent final review;
+growth specifies the existing network/service-location integration seam.
+
+**2026-10-21 integration01 setup failure preserved; exact-bound02 selected.**
+Root adopts18f258cc: pinnedmap2805479B exceeded adapter2MiB before imports/
+constructors/checking;0.984375knownCPU/2.6962224wall,cleanclosure. Root reads
+narrow02review0e6336d6; freshadapterea026900 uses exactmapbytes only, selector
+ca3bf379 keeps119/114/28 and90CPU/180wall/512MiB/four. No product/cap change.
+Placement source remains separately reviewed, pending closefailure correction.
+
+**2026-10-21 one genuine warm-prefix integration selected.**
+Root readsd6445354/7a44b17e and independent636c65a4; selects
+INCREMENTAL-NATIVE-INTEGRATION-LAUNCH:119physical/114logical/28pins,
+90CPU/180wall/512MiB/four. Retained M then M+V, real constructors/I/native,
+no frontend/network/proof production/distribution copy. adaptive_audit actual
+outcome after terminal. Placement source/review proceeds independently.
+
 **2026-10-21 incremental controls adopted; durable placement implementation selected.**
 Root reads513b91d8:9/9,120physical/114logical/19pins,14.484375knownCPU/
 20.5268748wall,clean closure. Simulated checker transcripts, no mathematical

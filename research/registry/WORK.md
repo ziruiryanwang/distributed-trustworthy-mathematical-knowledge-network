@@ -4,6 +4,16 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 root adopts genuine incremental02 audit779fa9f3 and placement source
+review1ddd94c5. No runtime remains. Release placement controls819bdf18 complete;
+adaptive_audit final harness/selector review. Growth source-only network seam
+SELECTIVE-PLACEMENT-NETWORK-SEAM; root controls launch/integration/Git. Do not
+restart successful checking or duplicate the installed distribution.
+
+2026-10-21 root selects genuine incremental integration after636c65a4;
+adaptive_audit actual outcome after terminal. Growth placement source; release
+available for focused placement controls after stable API; no old campaign.
+
 2026-10-21 incremental actual513b91d8 adopted; no runtime. Placement source
 selection: growth four placement files+SOURCE note; root guarded Store successor;
 adaptive_audit independent review. Release INCREMENTAL-NATIVE-INTEGRATION-PLAN,
