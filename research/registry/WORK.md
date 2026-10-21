@@ -4,6 +4,34 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 CENTRAL-INTEGRATION-ADOPTION: typed actual20ea1d82 fixed-screenFAIL;
+continued controls9f9b3737 adopted9/9. Root reviewed full sharing source48a089ca
+and selector3de2b9e4; adaptive now independent SHARING-MARGIN-REVIEW. Release
+responds to concrete source findings only; growth restricted-composition exact
+relation/compatibility decision. No runtime or proof selected; root owns next
+launch and Git. Do not repeat passing or failed operations.
+
+2026-10-21 typed executiona1ba369a terminal0,148segments exceeds fixed128:
+adaptive TYPED-FRONTIER-OUTCOME actual audit; no proof funded or prefix needed.
+Growth redirected to RESTRICTED-COMPOSITION-DECISION source-only per disposition.
+Continuing controls final1dc40485 (pre-run fixture correction only), selector
+20533624 await adaptive review/root launch. Release matched-pair source proceeds
+against explicitly selected continued-context successors. No old work repeated.
+
+2026-10-21 root launches typed-guest-build-01 once: selectionbab4fd3e,
+session90895, reviewc9331517. Adaptive owns actual build audit then new transition
+source/control review. CONTINUING-CONTEXT-SELECTION: release two same-session
+advance source successors/API note; growth focused controls/checkpoint; root
+runtime selections and assembly integration. Sharing pair held on confirmed
+READY-sealing obstruction317d901f; no expensive endpoint experiment or old rerun.
+
+2026-10-21 CENTRAL-RENEWAL-IMPLEMENTATION-SELECTION afterd9de7cd2 adopted:
+growth typed_guest build/recipes+SOURCE; root selectors/assembler; adaptive
+TYPED-GUEST-REVIEW. Release sharing_margin matched pair/selector+SOURCE.
+37 selected Rust sources/36 declared reachable;236 retained guest dependencies;
+no native control/dependency rebuild.128-segment screen fixed; no runtime/proof
+funding. Timing pair later runs serially and away from proof computation.
+
 2026-10-21 retained controls actual7895dcad adopted; no runtime remains.
 Root adopt restart test batchingb3264c17, no separate actual campaign. Growth:
 CERTIFIED-RENEWAL-NEXT source decision; release: SHARING-MARGIN-NEXT source/

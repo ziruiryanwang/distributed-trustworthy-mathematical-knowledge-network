@@ -34,6 +34,43 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-21 central outcomes adopted; actual sharing pair source review.**
+Root adopts20ea1d82: exact-target148segments,11.377% padded-row reduction but
+128-screen FAIL, no proof. Adopts9f9b3737: continued-context9/9,5.765625knownCPU,
+clean closure, synthetic authority only. CENTRAL-INTEGRATION-ADOPTION records
+the unchanged release boundary. Release sharing adapter48a089ca/selector3de2b9e4
+is source-only; adaptive reviews real APIs, representation merge and complete
+arm accounting. Growth restricted-composition decision source-only. No runtime
+live, no repeated campaign, no full-resource growth or full-v5 claim.
+
+**2026-10-21 typed execution screen fails; no costly proof launch.**
+Build790460b8 and assemblyf84606ef adopted; new image9d5072a6. One exact-FIRST/I
+executiona1ba369a exits0 with148po18 segments, above prospective128 (old167).
+Actual target/outcome audit pending. TYPED-SCREEN-DISPOSITION refuses proof
+funding/retries and redirects growth to source-only restricted-composition
+decision; no uncertified FIRST assumption or changed target pass. Continued
+context sources32e3b95e/45b08286 and focused controls1dc40485 await review;
+release prepares matched pair source. No runtime remains or full-v5 claim.
+
+**2026-10-21 typed guest build launched; continued context selected.**
+Root adopts typed source review c9331517 and launches exactly one four-crate
+build, selection bab4fd3e, session90895, under TYPED-GUEST-BUILD-LAUNCH.
+No guest execution/proof yet. SHARING-MARGIN-SOURCE317d901f corrects the prior
+review's READY-extension assumption: current extend_context intentionally
+refuses READY. CONTINUING-CONTEXT-SELECTION authorizes two fresh same-session
+advance successors (release), focused transition controls (growth), independent
+review (adaptive). Preserve all consumed resources and revoke old capabilities;
+matched pair remains held until this genuine continued-work endpoint exists.
+
+**2026-10-21 central implementation preparation, not another status campaign.**
+Root reads/adoptsd9de7cd2 on renewal6f351df4/sharing232b0930 and records
+CENTRAL-RENEWAL-IMPLEMENTATION-SELECTION. Growth prepares typed_guest four-crate
+build/recipes; root fresh selectors/assembler; adaptive source review. Exact
+FIRST/I target retained;128-segment prospective screen adopted, no proof funded.
+Release prepares one matched exact-M local-build/direct-sharing pair with full
+per-arm costs and identical canonical READY semantics. No runtime selected yet,
+no old suite or distribution copy. Retained-route commit1b5b9b7 is complete.
+
 **2026-10-21 retained-route controls adopted; central renewal/growth resumed.**
 Root fully reads/adopts7895dcad:9/9,127physical/121logical/19pins exact,
 4.984375knownCPU/9.856469000224024wall,clean closure. No actual networking,
