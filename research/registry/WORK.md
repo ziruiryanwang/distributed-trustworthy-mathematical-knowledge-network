@@ -4,6 +4,17 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 root read/adopts actual public lifecycle14045800; no runtime lives.
+Release implements selected managed_contribution owner/helper; screen reviews
+concrete source; guest owns minimal credential controls; root owns one populated
+public integration and exact127-source preparation. Source scope and forthcoming
+gates: MANAGED-CONTRIBUTION-CHECK-SELECTION. No repeated lifecycle/math campaigns.
+
+2026-10-21 buildfccb8dd0 adopted; public lifecycleaac5291b live93677.
+Root owns selected launch/exact disposable reclaim and adoption; guest terminal
+actual audit next; screen source challenge of contribution-handoff designc1a37054;
+release's source design complete. No token implementation/runtime or broad tests.
+
 2026-10-21 root read/adopts ownerf213baff/review549c28ce; one file-only build
 selectionac19b479/input4a9bfd78 live57029. Core_release actual build audit then
 MANAGED-CONTRIBUTION-SEAM source-only design; screen public lifecycle adapter;

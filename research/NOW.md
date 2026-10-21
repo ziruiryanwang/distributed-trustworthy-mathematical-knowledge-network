@@ -3,8 +3,19 @@
 ## Current source navigation (read before proposing a missing capability)
 
 **Current installed candidate:**
-`product-local/v5-distribution-consolidated-01/Mathematical Commons v5`, release
-`1fd0ae63faa84cc1f3ef82f17d2056657f8d6a3e5dea3686ace433987bd1e5be`.
+`product-local/v5-distribution-managed-owner-01/Mathematical Commons v5`, release
+`8fcf2c971029c8ad0787ec8da0891be178a95b80999f8bccc262e077009701a2`.
+Its authoritative126-entry `sdk_sources` map is in
+`experiments/v5-local-checks/distribution-managed-owner-01-input.json`, SHA-256
+`4a9bfd78afd328d629ee6ad967f7f9378034db86cdee86bef751c5c50e6778a1`.
+Build auditfccb8dd0 and actual ordinary lifecycle audit14045800 are adopted:
+genuine create/serve/seal/CLOSED, separate status, conditional retirement and
+one exact disposable reclaim. No contribution handoff, populated managed use,
+unclean retirement or full-v5 claim follows. All121 predecessor SDK rows are
+unchanged; exactly five supervised lifecycle/composer/owner modules were added.
+
+**Preserved consolidated baseline:** release1fd0ae63 at
+`product-local/v5-distribution-consolidated-01/Mathematical Commons v5`.
 Its authoritative121-entry `sdk_sources` map is in
 `experiments/v5-local-checks/distribution-consolidated-01-input.json`, SHA-256
 `8ba3707236c1a6e01ab7f87886814f801034b2fe9144ad9603585adcc73feb33`.
@@ -24,20 +35,39 @@ development paths; do not implement or retest them because an older map lacks
 them. The same map preserves interface-only authoring, exact certificate cuts,
 supplier continuation, trust withdrawal and bounded formal/located discovery.
 
-New bounded_generations sources are explicitly excluded until separately
-reviewed/adopted. RC/support shortcuts remain unadopted; no further investment.
+The selected supervised lifecyclebec62143/sessionsb4cfab61, reclaim19713fc4,
+composer40436584 and ownerf213baff are installed in the current126 candidate.
+New managed_contribution sources remain excluded pending their own review,
+tests and adoption. RC/support shortcuts remain unadopted; no further investment.
 All predecessor installations/state remain immutable. Ordinary mathematical
 startup requires its own explicit trust adoption, not a previously withdrawn
 test policy. No automatic migration, independent-host or full-release claim.
 
-**Qualified development addition, not installed:** bounded_reclamation
+**Preserved predecessor development evidence:** bounded_reclamation
 lifecycled59615b6/reclaim19713fc4 plus unchanged composer40436584. Exact nine
 fixture controls12dbbb43 and real service-close/reclaim/reuse5c47e9d0 are adopted.
-They add three logical modules (candidate121 -> development124); do not borrow
-their qualification for new supervised_generations sources. Existing installation
-is unchanged, and no migration or broad payload sweep is selected.
+They originally added three logical modules (candidate121 -> development124).
+The current installed successor is identified above; no migration or repeat
+payload sweep is selected.
 
 ## Current work
+
+**2026-10-21 ordinary lifecycle adopted; implement independent contribution.**
+Root fully read/adopts actual14045800: orderly public lifecycle, exact disposal,
+retained evidence,50.734375knownCPU/66.5141wall and clean closure. No runtime
+remains. Contribution design2e8d6116/challenge7b394bce selects one owner/helper
+successor: core_release implementation, support_screen independent review,
+support_guest minimal changed-boundary controls, root populated public integration
+and exact127 map. No proof generation, old test repetition or RAM investigation.
+
+**2026-10-21 fresh managed-owner build adopted; public lifecycle running.**
+Root read/adopts build outcomefccb8dd0: release8fcf2c97, exact126/105 map,
+64.75knownCPU/302.48285wall, builder full verification and clean closure.
+Root read/adopts adapterb6457926/selectorac42a680/reviewc578021a. Public lifecycle
+selectionaac5291b/input4aa1ae63 launched once, session93677, including only its
+exact new disposable generation reclaim. Guest will audit terminal evidence.
+Screen independently challenges contribution-handoff designc1a37054; no token
+implementation selected. No repeat math/search/proof tests or memory survey.
 
 **2026-10-21 reviewed managed-owner source enters one fresh file-only build.**
 Root fully read/adopts ownerf213baff/source8872cba6 and review549c28ce.
