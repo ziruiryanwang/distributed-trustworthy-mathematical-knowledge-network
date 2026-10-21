@@ -4,6 +4,13 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 supervised source bec62143/b4cfab61 passes independent f5e82cd5,
+root read/adopted. Root owns small real crash adapter and adoption/Git;
+guest separate adapter/selector and later actual review; screen five narrow
+source-only refusal/control groups; release source-only Controls/Crash selector.
+No runtime, deletion or new distribution selected. Canonical root invariant
+and installed121 preserved; no old proof/service/reclamation suite repeated.
+
 2026-10-21 real service62588 terminal0/b415e6ff/21ee7914,22fresh effects,
 clean; guest independent actual service audit. Root reads crash-owner decision
 7a2ce0d3 and selects source-only supervised_generations for release: prospective

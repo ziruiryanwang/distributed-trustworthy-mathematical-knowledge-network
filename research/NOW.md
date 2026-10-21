@@ -39,6 +39,15 @@ is unchanged, and no migration or broad payload sweep is selected.
 
 ## Current work
 
+**2026-10-21 prospective crash-quiescence source reviewed; minimal checks next.**
+Root fully read/adopts source3b0b37b6 and independent reviewf5e82cd5 for
+supervised lifecyclebec62143/sessionsb4cfab61. Stale-launch open no longer
+rewrites unrelated live records. Root authored real `crash_smoke.py`: one
+charged reservation, actual crashed worker/idle descendant, retained-handle
+quiescence, fresh-owner retirement, no service/Lean/deletion. Guest reviews it;
+screen authors five narrow refusal groups; release prepares finite selector.
+No runtime or installation change selected; original121 remains authoritative.
+
 **2026-10-21 genuine orderly capacity reuse adopted; owner-crash recovery next.**
 Root fully read/adopts actual service outcome5c47e9d0: real service/Node close,
 22exact fresh-generation effects, FREE on one call, sequence3 reuse, other slot
