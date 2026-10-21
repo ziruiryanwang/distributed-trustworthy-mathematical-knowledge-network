@@ -4,6 +4,20 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 real service62588 terminal0/b415e6ff/21ee7914,22fresh effects,
+clean; guest independent actual service audit. Root reads crash-owner decision
+7a2ce0d3 and selects source-only supervised_generations for release: prospective
+session binding/current Job quiescence, not imported closure JSON. Screen
+ordinary-API documentation review complete; no duplicate tests assigned.
+Root adoption/integration/Git, no current runtime or installation build.
+
+2026-10-21 root adopts fresh reclamation source review71f90cd6 and real-service
+adapter challenge4fd55083. Screen finishes nine-control source/checkpoint;
+guest final controls/selector and service review then actual outcomes; root
+finite fixture-only launches, adoption, ordinary-use integration and Git.
+Release source/adapter challenge complete; no duplicate campaign. No runtime
+or deletion yet; canonical root and frozen predecessors unchanged.
+
 2026-10-21 lifecycle controls actual826461e8 read/adopted, exact12 and clean;
 used original source frozen. Release new-schema bounded_reclamation lifecycle/
 executor; screen focused disposable-fixture controls; guest independent source/

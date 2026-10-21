@@ -32,6 +32,23 @@ test policy. No automatic migration, independent-host or full-release claim.
 
 ## Current work
 
+**2026-10-21 nine reclamation controls adopted; genuine service boundary selected.**
+Root fully read/adopts actual12dbbb43: exact9 PASS,49 disposable-fixture effects,
+2.078125knownCPU/3.0543186wall, clean. Used d59615b6/19713fc4/897f096e freeze.
+Service source1284985f + unchanged composer40436584 passes final0953808b;
+SERVICE-LAUNCH selects one fresh empty real close/reclaim/reuse, no proof work.
+Release resolves crash-owner closure authority source-first; no recovery runtime.
+No old data deletion, new installation or full-v5 claim.
+
+**2026-10-21 reclamation source reviewed; two finite new boundaries prepared.**
+Root read/adopts review71f90cd6 for lifecycled59615b6/reclaim19713fc4;
+durable attempt charging precedes census and exact prefix-window deletion.
+Screen controls897f096e cover nine fresh-fixture groups; guest reviews them
+and selector2d3bb243. Root real service adapter1284985f passes independent
+API challenge4fd55083; final review pending. No test/deletion selected yet.
+Existing data, old suites and installed121 remain unchanged. No RAM survey,
+RC retry, repeated native/proof work or full-release claim.
+
 **2026-10-21 twelve lifecycle controls adopted; actual slot reuse is next.**
 Root fully read/adopts source reviewe0ecd34f and actual audit826461e8.
 Selection4c639c42/outerc5d6438d/inner97115b50: exact12 pass,1.46875knownCPU,
