@@ -4,6 +4,32 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 root adopts installed02 audit823f0a4d, current releasead2e3ba0/map111.
+No runtime remains; no repeat. growth authors explicit goal-context extension;
+adaptive_audit independently reviews it. release prepares focused fingerprint
+control plan. Root owns fresh implementation selection/integration and Git.
+The next change targets theorem-instantiation discovery, not broad status review.
+
+2026-10-20 root adopts build383d2649 and source716bec1c, selects one installed
+adaptive-boundary-01 under120CPU/240wall/512MiB. release owns saved actual
+outcome audit after terminal. adaptive_audit reviews INSTANTIATION-DISCOVERY-SEAM
+theory only; root records/coordinates, no duplicate component/proof campaign.
+
+2026-10-20 build24120 ended successfully (releasead2e3ba0,40.53125CPU,
+232.6992408wall). release saved exact-map audit; growth actual installed adapter;
+root stage-only selector7a31af6d; release source review then actual audit after
+separate selection. search INSTANTIATION-DISCOVERY-SEAM source/theory only.
+
+2026-10-20 root selects one combined distribution-adaptive-build-01 following
+selectorfbec48b4/source GO44b9e215; release audits actual111-source map after
+completion. growth finishes one-launch installed plan and release reviews it;
+root owns adapter scope and finite launch. No proof experiment or old-state reuse.
+
+2026-10-20 outcome d758b5a3 adopted, commitda43b28. ADAPTIVE-DISTRIBUTION-SELECTION:
+search exact111-source build selector, growth minimal actual installed-boundary
+plan (fresh trust domain; old domain remains withdrawn), release independent
+source/map review; root finite decisions/Git. Preparation only, no runtime yet.
+
 2026-10-20 root selects located-queries-controls-01/request14553e17 once;
 helper419df842/controls4ff7ccf5. release audits saved outcome after completion;
 search implementation checkpoint and growth source review/README finish only.

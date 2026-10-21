@@ -3,19 +3,21 @@
 ## Current source navigation (read before proposing a missing capability)
 
 The installed SDK map is `sdk_sources` in
-`experiments/v5-local-checks/distribution-discovery-01-input.json`
-(SHA-256 `e0e22f412a6d276f172603ad11ff5217ea321b5a038921af2bd7f1b4b028e20b`).
+`experiments/v5-local-checks/distribution-adaptive-01-input.json`
+(SHA-256 `a74eaf51a71b5e0ec49a762fd5c7e6cce4f8fc6b107e97ae6e71fd7ec0cf1e32`).
 Resolve logical module names through that map before inspecting implementation.
 For example, the installed mixed receiver is
 `software/v5/runtime_efficient/mixed_claims/receiver.py`, not its old logical-path
 predecessor. Runtime pin-phase deduplication and general exact-J seal preparation
 already exist. Historical "missing" recommendations are not current evidence.
 The installed candidate is
-`product-local/v5-distribution-discovery-01/Mathematical Commons v5`, release
-`769506990ea10be5c6ce812e5cfd457922f4955ad4831bcdbc9d7a9ec9561108`.
-Its 110-source map preserves interface-only authoring, supplier-complete
-continuation, withdrawal and optional pair discovery; it adds tested bounded
-numeral lowering and optional whole-type variant discovery. Old installations
+`product-local/v5-distribution-adaptive-01/Mathematical Commons v5`, release
+`ad2e3ba04a2e12b6076fbf1d6be9fe068c35ae71970a5dee1eedb4188781e193`.
+Its 111-source map preserves interface-only authoring, supplier-complete
+continuation, withdrawal, optional pair/whole-type discovery and numeral lowering;
+it adds successive direct/located query generations under one original finite
+envelope. The installed check covers actual owner binding, same-child lifecycle
+and no-provider cleanup, not successful remote discovery. Old installations
 and their used states remain immutable; this is not an automatic migration.
 Ordinary mathematical startup requires an existing explicit trust adoption;
 use the matching distribution_coherent examples, not predecessor callers.
@@ -23,6 +25,65 @@ The integration-test domain was deliberately withdrawn: it is evidence, not
 a reusable live owner policy. Do not overwrite earlier installations or state.
 
 ## Current work
+
+**2026-10-20 installed adaptive02 outcome adopted; no repeated campaign.**
+Root reads/adopts independent audit823f0a4d: exact112 source snapshots, actual
+original owners, same child/two generations, one prepayment, raw terminal counters
+retained, clean closure and fresh-domain withdrawal. Both no-contact routes ended
+in bounded timeout, not discovery completeness. Successful56.890625knownCPU/
+68.2408904wall; failure01 remains failed and charged. Candidatead2e3ba0 is current;
+all used bytes remain frozen. Next core source work is bounded conclusion
+fingerprints, including explicit local goal contexts after independent review.
+No proof production, old campaign restart or new package build is selected.
+
+**2026-10-20 corrected installed02 boundary selected once.**
+Root reads preserved failure8e05ea18 and independent repair GO10783516.
+Select adapter0660ae06/selector2d72eef2, same productad2e3ba0, fresh run02
+workspace/domain, unchanged120CPU/240wall/512MiB and original two-query scope.
+Only terminal diagnostic parsing/retention changes. No rebuild/proof work and
+no reuse of withdrawn domain01. Freeze used02 sources/request at execution;
+failure01 and its59.125CPU remain charged. Source-only fingerprint contract
+continues separately, with no runtime or package change authorized there.
+
+**2026-10-20 installed01 diagnostic failure preserved; narrow repair selected.**
+Session99488 ended COMMAND_FAILED,59.125knownCPU/71.7985881wall seconds.
+Both actual same-child queries and source/owner assertions completed; client,
+child and workspace closed and trust was withdrawn. Only terminal diagnostic
+parsing failed NONCANONICAL_JSON: Node emits ordinary JSON, F.strict demands
+canonical key order. Raw child stderr was not retained, so zero-wire evidence
+cannot be reconstructed. No relabeling or product rebuild. ADAPTIVE-INSTALLED-REPAIR
+selects fresh adapter02/selector02 with bounded noncanonical strict parsing and
+raw diagnostic retention; independent review precedes separate finite run02.
+
+**2026-10-20 exact adaptive build adopted for one installed boundary.**
+Root reads independent build outcome383d2649 (exact111map,four replacements and
+one addition) and source review716bec1c for adapter31b60fea/selector7a31af6d.
+Select stage then one installed-adaptive-boundary-01 launch on releasead2e3ba0,
+inputa74eaf51,120CPU/240wall/512MiB/4processes,64MiB output ceiling. Fresh
+explicit temporary trust adoption, actual original issuers, two no-provider
+queries on one loopback child, ordinary cleanup and withdrawal. No proof/native
+or remote-provider work; no automatic retry. Used adapter/request freeze at run.
+Full v5 remains active. Candidate becomes current only after actual outcome audit.
+
+**2026-10-20 combined build ended successfully; installed source preparation.**
+Session24120 ended zero with clean closure/active0. Request7ec39f9f produced
+releasead2e3ba0,111 SDK entries; knownCPU40.53125/wall232.6992408 seconds.
+Independent saved-map audit pending; old candidate stays authoritative meanwhile.
+ADAPTIVE-INSTALLED-SELECTION adopts planbf797819/independent source GO:
+growth fresh actual adapter, root selector7a31af6d, release exact-source review.
+One explicit temporary adoption and same-child two-query boundary, no mathematics
+or provider campaign. Search investigates bounded instantiation discovery from
+source/theory only, not a new implementation or broad status review.
+
+**2026-10-20 combined adaptive distribution build selected.**
+Root reads selector fbec48b4 and independent selector GO 44b9e215. Select one
+fresh distribution-adaptive-build-01 using unchanged builder6d6f5411, exact four
+tested replacements plus located_queries419df842 (111 SDK sources), unchanged
+runtime assets,120CPU/300wall/128MiB/2processes. Stage then execute once; no
+proof/native campaign or old product edit. Installed plan uses one explicit
+temporary trust adoption/actual owner/two empty queries/withdrawal launch to
+avoid duplicate runtime censuses; source review precedes adapter selection.
+Full v5 remains active; no completed campaign is restarted.
 
 **2026-10-20 adaptive located-query outcome adopted; combined integration preparation.**
 Root reads source review30a46b17 and saved-outcome auditd758b5a3: five groups,
