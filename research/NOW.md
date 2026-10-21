@@ -29,6 +29,21 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-20 pair-planning source adopted after actual audit.**
+Root reads0392fd30:192 exact snapshots/116 logical/22pins; nine controls pass,
+same committed singleton,32->1 records/31->1 pages, summary89994->134605B.
+Four slow-task notices are preserved, no loop errors;18.453125knownCPU and
+26.490123wall, normal closure. No runtime remains and no build/repeat follows.
+Current installed114 remains unchanged. Mirror owner/template and exact finite
+selector are source-only pending review; no new crypto production selected.
+
+**2026-10-20 selective pair-planning controls selected once.**
+Root reads combined source GO f08174fc and full controls9678a2a3. Select one
+192-snapshot/22-pin run:45CPU/90wall/384MiB/two processes, nine Python controls,
+real structural index/factories and inert math/location. No build or new proof.
+Independent actual-outcome audit follows. Release authors two-owner mirror
+composition; growth reviews it. No repeat of completed custody operations.
+
 **2026-10-20 real exact-custody/import outcome adopted;114 authoritative.**
 Root reads f60caceb:115 exact snapshots/93 BOOT origins, genuine P discovery,
 one Q capability/body GET, unchanged original reader/maps/budgets; receipt and
