@@ -34,6 +34,22 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-21 local placement adopted; remote composition in implementation.**
+Root read/adoptsd643402e:12/12,124physical/118logical/19pins exact,
+3.546875knownCPU/7.9659800wall,clean closure; sixteen simulated exchanges,
+zero actual network/native/proof calls. No rerun. PLACEMENT-NETWORK-SELECTION
+selects three fresh modules: release closed submit/status wire; growth durable
+route journal and single-Workspace service runner; adaptive_audit concrete
+design/source challenge. Existing read provider/controller/Node remain unchanged.
+No remote runtime, distribution copy or final-v5 claim selected yet.
+
+**2026-10-21 focused durable-placement controls selected once.**
+Root reads source1ddd94c5/controla04a1da5; SELECTIVE-PLACEMENT-LAUNCH selects
+harness819bdf18/selector14d329f2,12methods/118logical/124physical/19pins,
+60CPU/120wall/384MiB/two. Real local stores and guards, simulated delivery,
+no mathematical admission or actual network. Adaptive_audit actual outcome;
+growth continues network-seam design. No repeated passing campaign selected.
+
 **2026-10-21 genuine incremental reuse adopted; placement source cleared.**
 Root read/adopts779fa9f3: actual fresh owners, one real I verification, two real
 native checks for retained M then M+V, one exact M observation reuse, current

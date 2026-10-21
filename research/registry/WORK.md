@@ -4,6 +4,12 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 controls01 exit0/clean; adaptive_audit retained actual audit then
+network design/source review. PLACEMENT-NETWORK-SELECTION: release network.py;
+growth advertisement.py and serve_placement.py, direct API coordination before
+dependent work. Three new sources only, no runtime or used-source edits. Root
+maps/integration/Git. No status restart or duplicate passing controls.
+
 2026-10-21 root adopts genuine incremental02 audit779fa9f3 and placement source
 review1ddd94c5. No runtime remains. Release placement controls819bdf18 complete;
 adaptive_audit final harness/selector review. Growth source-only network seam
