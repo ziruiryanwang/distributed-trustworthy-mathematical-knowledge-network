@@ -3,16 +3,19 @@
 ## Current source navigation (read before proposing a missing capability)
 
 The installed SDK map is `sdk_sources` in
-`experiments/v5-local-checks/distribution-body-custody-01-input.json`
-(SHA-256 `995525c5cbf2746718cbf583a3e3e401bc56c2f88d1cef8664ffeb1b644454be`).
+`experiments/v5-local-checks/distribution-validation-01-input.json`
+(SHA-256 `d11abac9a9c5a5ac7d7b22efbf26bb04fcad1e886f19a2195d42060dd44ab565`).
 Resolve logical module names through that map before inspecting implementation.
 For example, the installed mixed receiver is
 `software/v5/runtime_efficient/mixed_claims/receiver.py`, not its old logical-path
 predecessor. Runtime pin-phase deduplication and general exact-J seal preparation
 already exist. Historical "missing" recommendations are not current evidence.
 The installed candidate is
-`product-local/v5-distribution-body-custody-01/Mathematical Commons v5`, release
-`8e93486cadb5806d6470d7a8920803a9a4bad39260dd72f3be3498f699eeeb1e`.
+`product-local/v5-distribution-validation-01/Mathematical Commons v5`, release
+`728d12fca7152b2043936b6e9939fd4e0a935f2f006750c9ea639fcdcc2fb216`.
+This five-replacement successor adds the qualified trust-phase and optional
+pair-planner changes. Its first integrated mirror02 operation failed after
+frontend export; it does not establish a successful new contribution.
 Its 114-source map preserves interface-only authoring, supplier-complete
 continuation, withdrawal, numeral lowering and successive direct/located queries.
 It retains bounded conclusion-fingerprint discovery and owner-selected base
@@ -29,6 +32,60 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-21 origin controls adopted; two-replacement build selected.**
+Root readse295a19b:14/14,118/114/19,1.5knownCPU/5.0465614wall. Select one
+origin114 build, input2ea83228/selection7b53249e,120CPU/600wall/128MiB/two.
+Only two qualified origin sources replace current114; unchanged builder/assets.
+Release owns actual map/outcome; mirror03 remains unselected. Growth/audit
+continue disjoint terminal-I source/controls using new input as source basis.
+
+**2026-10-21 origin controls terminal; actual audit pending.**
+One selectiona3393e95 exited0:14 methods pass,17 ordinary resolutions ->2 scoped,
+42 active callbacks (40 original+2 final),4 trust reads, clean closure;
+1.5knownCPU/5.0465614wall. Release audits actual118/114/19 closure before adoption.
+No runtime remains or build selected yet. Adaptive_audit now authors only the
+terminal-I changed-boundary controls in parallel with growth's five source files.
+
+**2026-10-21 independent terminal-I implementation now selected in parallel.**
+Origin two-file source is stable/reviewed; its controls/integration remain first.
+TERMINAL-I-IMPLEMENTATION gives its now-available author five disjoint successor
+files for the reviewed same-facade direct-I gap. No new verifier, reader or proof
+production. V1 stays unchanged; V2 opt-in and exact live-J checks are mandatory.
+This is source-only; no terminal-I runtime/build or automatic campaign selected.
+
+**2026-10-21 origin-phase repair source selected.**
+ORIGIN-PHASE-SELECTION assigns growth two fresh admission successors, release
+independent origin-boundary/source review, audit focused real-path controls.
+Only repeated trust-module filesystem resolution within existing PP.phase is
+eligible; original active/withdrawal/budget checks remain. Root integration and
+Git. No runtime, build or mirror retry selected. Terminal-I design38a5f73c with
+reviewc82d15c6 is saved for later, not implemented.
+
+**2026-10-21 mirror02 failure adopted; repeated origin validation is next.**
+Root reads independent audit451fc8e5:117 exact sources, unknown-ID discovery,
+receipt/native M admission/import and real Lean frontend export pass; controller
+120.671875 refuses before new admission/publication. KnownCPU130.046875,
+wall140.607905; closed normally, trust withdrawn, no runtime remains. Preserve
+both failed attempts. Root traces origin-resolution amplification; release
+challenges the existing synchronous phase boundary. Terminal-I source contract
+is checkpointed only; no new checker/transport/runtime selected. No cap raise,
+RAM investigation or retry. Source origins must still be checked first/final,
+with per-call identity, withdrawal and budget checks retained.
+
+**2026-10-21 direct-I ordinary circulation contract selected in parallel.**
+TERMINAL-I-CONCEPT-SELECTION targets the known evidence-facade I-warrant refusal,
+not a new checker/transport/frontier compiler or guessed cheaper prover. Growth
+authors exact minimal contract against new114 mapd11abac9; audit independently
+challenges. Source-only; no implementation/runtime yet. Mirror02 session26997
+continues on its original budget; release owns its actual outcome after terminal.
+
+**2026-10-21 repaired mirror02 selected once.**
+Root reads distribution audit1681f05b: exact114/five replacements,release728d12fc
+and inputd11abac9. MIRROR-METHOD02-LAUNCH selects unchanged owner43c3a2ee with
+fresh states/domains only; all original300CPU/600wall outer and120CPU/210wall
+per-owner limits remain. Optional planner installed but unused. Release owns
+saved actual math/lifecycle/cost audit. No crypto build, repeat suite or cap raise.
+
 **2026-10-21 validation controls adopted; combined build selected.**
 Root reads74c54148:14/14pass,195physical/114logical/22pins,17->2 persisted reads
 with40 active callbacks,1.78125knownCPU/7.2928865wall, clean closure. One fresh
@@ -36,6 +93,9 @@ distribution-validation-01 build batches two validation + three tested planner
 replacements;114 unchanged count/assets/builder.120CPU/300wall/128MiB/two.
 Adaptive_audit actual new map/outcome; mirror02 remains future separately selected
 integration. No repeat suite or new cryptographic proof. Old install/state frozen.
+Build session44813 is terminal exit0: inputd11abac9/selection823098b1,
+release728d12fc,9859files/842437209bytes;61.796875knownCPU/294.9408838wall.
+Independent actual map audit pending; no runtime remains or retry selected.
 
 **2026-10-20 validation-phase controls selected once.**
 Root reads combined GOb24084dc, controls775a68ab and exact two successors.

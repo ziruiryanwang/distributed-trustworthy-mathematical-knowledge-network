@@ -4,6 +4,41 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 ORIGIN-DISTRIBUTION-LAUNCH: root selects one two-replacement114 build;
+core_release actual map/outcome audit. Terminal-I source/control owners continue
+without entering this build. No mirror launch or new cryptographic proof selected.
+
+2026-10-21 origin controls terminal exit0; core_release actual OUTCOME audit,
+no repeat. Adaptive_audit now owns terminal_i/controls.py per appended source-only
+assignment; growth five product files. Root owns next origin integration and Git.
+
+2026-10-21 TERMINAL-I-IMPLEMENTATION: stable origin source author core_growth
+now owns five non-overlapping terminal_i successors, contract38a5f73c/reviewc82d15c6.
+Source-only; release and adaptive_audit still prioritize origin controls/review.
+Root integration/selectors; no terminal-I runtime/proof/build selected.
+
+2026-10-21 ORIGIN-PHASE-SELECTION: growth owns fresh pin_phase/verifier successors
+under software/v5/origin_phase/admission; release reviews boundary/source;
+adaptive_audit fresh controls.py and control plan. Root selectors/integration/Git.
+Only existing phase-local trust-module path resolution reuse; no runtime yet.
+Terminal-I contract/review complete, lane held for current operational repair.
+
+2026-10-21 mirror02 audit451fc8e5 adopted: terminal failed after successful
+frontend export, no new admission/publication; no runtime remains. Root traces
+repeated source-origin resolution, release independent safe-boundary challenge
+at MIRROR02-ORIGIN-BOUNDARY. Growth/audit finish terminal-I contract/review only,
+then redirect to this operational bottleneck. No cap increase or new test yet.
+
+2026-10-21 TERMINAL-I-CONCEPT-SELECTION: growth minimal ordinary-I evidence/API
+contract, adaptive_audit independent challenge; no code/runtime/proof selected.
+Root monitors original mirror02 session26997; release actual saved-outcome audit.
+Use mapd11abac9 for these new source questions, not historical predecessors.
+
+2026-10-21 build outcome1681f05b adopted; root selects one repaired installed
+mirror02 on release728d12fc under unchanged originalcaps. core_release owns
+MIRROR-METHOD02-OUTCOME actual math/lifecycle/cost audit after terminal. Source
+owners are complete. No new proof campaign, duplicate controls or cap increase.
+
 2026-10-21 control outcome74c54148 adopted. Root selects combined114 build via
 VALIDATION-DISTRIBUTION-LAUNCH; adaptive_audit complete new-map/actual audit.
 Release/growth source selections complete; no mirror/native/proof run selected.
