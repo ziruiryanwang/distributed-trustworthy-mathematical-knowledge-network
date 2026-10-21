@@ -3,19 +3,19 @@
 ## Current source navigation (read before proposing a missing capability)
 
 The installed SDK map is `sdk_sources` in
-`experiments/v5-local-checks/distribution-validation-01-input.json`
-(SHA-256 `d11abac9a9c5a5ac7d7b22efbf26bb04fcad1e886f19a2195d42060dd44ab565`).
+`experiments/v5-local-checks/distribution-origin-01-input.json`
+(SHA-256 `2ea8322879b2e45afb2a2f5e8d99500bfcfdbe0982cdf14687b1e8bdd0950556`).
 Resolve logical module names through that map before inspecting implementation.
 For example, the installed mixed receiver is
 `software/v5/runtime_efficient/mixed_claims/receiver.py`, not its old logical-path
 predecessor. Runtime pin-phase deduplication and general exact-J seal preparation
 already exist. Historical "missing" recommendations are not current evidence.
 The installed candidate is
-`product-local/v5-distribution-validation-01/Mathematical Commons v5`, release
-`728d12fca7152b2043936b6e9939fd4e0a935f2f006750c9ea639fcdcc2fb216`.
-This five-replacement successor adds the qualified trust-phase and optional
-pair-planner changes. Its first integrated mirror02 operation failed after
-frontend export; it does not establish a successful new contribution.
+`product-local/v5-distribution-origin-01/Mathematical Commons v5`, release
+`128224b6e592ba3ae29476e770faa085b6841b0460529f3db203340dbfdc7a85`.
+This two-replacement successor adds qualified origin-resolution reuse to the
+earlier trust-phase and optional pair-planner changes. Mirror02 failed on its
+predecessor after frontend export; mirror03 is newly selected below, not a pass.
 Its 114-source map preserves interface-only authoring, supplier-complete
 continuation, withdrawal, numeral lowering and successive direct/located queries.
 It retains bounded conclusion-fingerprint discovery and owner-selected base
@@ -31,6 +31,33 @@ withdrawn: it is evidence, not a reusable live owner policy. Ordinary use needs
 its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
+
+**2026-10-21 real reciprocal circulation adopted; no mirror repetition.**
+Root reads4908fc4d: unknown-ID M -> genuinely admitted/published mirror-involutionV
+-> first owner closed/withdrawn -> fresh owner independently admitsV and publishes
+injectivityW. All117source bindings pass;208.296875knownCPU/226.2364103wall,
+clean closure under unchanged original caps. No new crypto/full-cost benefit claim.
+Terminal-I controls01 preserved9pass/1diagnosticFAIL; narrow close01 now1/1exit0,
+no product change or other nine rerun; adaptive_audit owns combined actual evidence.
+Future workload/selector GO0ff7a8cc read; no actual I workload/build yet. Growth
+source-only fixed-foundation reuse decision; release source-only remaining
+controller validation amplification. No guest/prover or RAM investigation.
+
+**2026-10-21 mirror03 terminal; terminal-I focused controls selected.**
+Mirror03 session75760 exited0 with clean closure; actual mathematical/publication
+audit remains core_release's priority. Root adopts combined control review698d3b30
+and selects one TERMINAL-I-CONTROL-LAUNCH:122physical/115selected-code/20pins,
+ten inert-issuer controls,45CPU/90wall/384MiB/two. No new proof or repeated suite.
+Adaptive_audit independently reviews future terminal-I workload source; root
+owns selectors/integration. Actual I circulation/build remain unselected.
+
+**2026-10-21 origin build adopted; unchanged-owner mirror03 selected once.**
+Root readsba4e877f:114SDK/9859payload,only2changed,release128224b6,clean
+61.71875knownCPU/250.2267984wall. MIRROR-METHOD03-LAUNCH selects requeste339712b
+with unchanged owner43c3a2ee and original300CPU/600wall/120controllerCPU caps.
+Release owns actual math/lifecycle/cost audit after terminal. No new crypto
+production or repeat controls/build. Terminal-I five sources have review0d41da99;
+controls and future owner are source-only, not part of this installation.
 
 **2026-10-21 origin controls adopted; two-replacement build selected.**
 Root readse295a19b:14/14,118/114/19,1.5knownCPU/5.0465614wall. Select one

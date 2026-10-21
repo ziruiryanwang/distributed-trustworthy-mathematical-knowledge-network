@@ -1,0 +1,14 @@
+-- The reference is rendered only from the actually discovered/admitted locator.
+-- Its two uses establish a reusable four-universe result, not a wrapper alias.
+set_option autoImplicit false
+noncomputable section
+universe u v w z
+namespace OwnerV5
+
+theorem ternary_congr {A : Sort u} {B : Sort v} {C : Sort w} {D : Sort z}
+    (f : A -> B -> C -> D) {a a' : A} {b b' : B} {c c' : C}
+    (ha : a = a') (hb : b = b') (hc : c = c') : f a b c = f a' b' c' :=
+  __METHOD_REF__ (fun (g : C -> D) (x : C) => g x)
+    (__METHOD_REF__ f ha hb) hc
+
+end OwnerV5
