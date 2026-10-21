@@ -4,6 +4,16 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 outcome dda469c4 adopted, no runtime. growth traces specialist-profile
+interoperability in actual public serve/location/publication sources; release
+traces only changed fingerprint reciprocal composition, reusing prior import
+decisions/evidence. Root consolidates Git; no installation/proof rerun selected.
+
+2026-10-20 root selects instantiation-discovery-controls-01/request421469bd once.
+release controls complete; adaptive_audit actual outcome after terminal. growth
+composition decision complete: use public codec-native symbols, defer optional
+live tactic exporter. No proof/network/build or duplicate campaign selected.
+
 2026-10-20 INSTANTIATION-IMPLEMENTATION-SELECTION: growth owns new pure helper,
 README/checkpoint; root five fresh integration successors/selector; release
 focused controls; adaptive_audit independent source review. Context extension

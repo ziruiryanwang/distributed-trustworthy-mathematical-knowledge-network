@@ -47,8 +47,14 @@ Compile each selected alternative through the actual workspace adapter, then use
 ordinary direct or located next-query calls. Acquire desired evidence before
 rotation; candidate/staging handles retire, while genuine warrants retain their
 original authority. Generating eight alternatives does not fund eight operations.
+Goal generation is bounded local caller computation: this helper returns no cost
+report and does not debit a search/acquisition ledger. Source extraction, by
+contrast, adds its measured structural-work count to the adapter's existing work
+limit. Both paths retain whole-input validation and their explicit syntax bounds.
 
-If a goal is a well-scoped raw capture-avoiding instance of a source conclusion,
+If the source type and closed goal wrapper both pass the stated validation and
+resource bounds, use the same profile and exact rigid symbol identities, and the
+goal is a well-scoped raw capture-avoiding instance of that source conclusion,
 its generated keys include that source's fingerprint key, subject to the stated
 hash assumptions. This does not prove the instance exists, satisfies dependent
 parameter types, discharges assumptions or gives a true theorem. A syntactically

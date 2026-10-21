@@ -26,6 +26,25 @@ a reusable live owner policy. Do not overwrite earlier installations or state.
 
 ## Current work
 
+**2026-10-20 instantiation-discovery outcome adopted; no repeat or rebuild.**
+Root reads independent auditdda469c4:147 exact snapshots/19runtime pins,8groups
+pass, clean closure,3.078125knownCPU/9.36867wall. Two generated alternatives scan
+one of two fixture records; this is structural retrieval evidence, not useful
+growth or full-workflow speedup. Six SDK successors and used controls freeze.
+Current installed111 map remains unchanged; source candidate would add one entry
+and replace five. Codec-native goal composition8dd1107a is sufficient; live tactic
+export stays optional. Next narrow source question is specialist-profile namespace
+interoperability in actual publication/location APIs, not another proof/demo.
+
+**2026-10-20 one focused instantiation-discovery run selected.**
+Root reads helper/integration reviewbff4ba7d and eight-group controlse86654b9;
+root control review permits staged request421469bd,147sources/19runtime pins,
+45CPU/75wall/384MiB/two processes. Select one execution only: real structural
+codec/index/workspace, no theorem acceptance/native/proof/provider activity.
+Used files freeze at execution; adaptive_audit owns saved actual outcome.
+No package rebuild or automatic retry. Existing codec-native public goal route
+is sufficient; optional live Lean tactic-goal exporter is not selected.
+
 **2026-10-20 conclusion-fingerprint implementation selected.**
 Root adopts contractc9991ed4/review2583cb22 and explicit-context extension9ae82b03/
 review041d1bc0. INSTANTIATION-IMPLEMENTATION-SELECTION assigns fresh helper to
