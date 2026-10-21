@@ -30,7 +30,23 @@ All predecessor installations/state remain immutable. Ordinary mathematical
 startup requires its own explicit trust adoption, not a previously withdrawn
 test policy. No automatic migration, independent-host or full-release claim.
 
+**Qualified development addition, not installed:** bounded_reclamation
+lifecycled59615b6/reclaim19713fc4 plus unchanged composer40436584. Exact nine
+fixture controls12dbbb43 and real service-close/reclaim/reuse5c47e9d0 are adopted.
+They add three logical modules (candidate121 -> development124); do not borrow
+their qualification for new supervised_generations sources. Existing installation
+is unchanged, and no migration or broad payload sweep is selected.
+
 ## Current work
+
+**2026-10-21 genuine orderly capacity reuse adopted; owner-crash recovery next.**
+Root fully read/adopts actual service outcome5c47e9d0: real service/Node close,
+22exact fresh-generation effects, FREE on one call, sequence3 reuse, other slot
+preserved, zero pending/active;14.140625knownCPU/16.8464866wall. No runtime lives.
+Implementation/tests/reviews checkpointed in9362aa9; no old data was deleted.
+CRASH-OWNER-RECOVERY-SELECTION follows source decision7a2ce0d3: release authors
+prospective session + current live Job quiescence, guest challenges/reviews,
+root integration/adoption. No recovery test or new installation selected.
 
 **2026-10-21 nine reclamation controls adopted; genuine service boundary selected.**
 Root fully read/adopts actual12dbbb43: exact9 PASS,49 disposable-fixture effects,
