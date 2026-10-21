@@ -4,6 +4,20 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 integration outcome86279013 adopted; distribution76950699 is current.
+No runtime remains. Root preserves explicit Git checkpoint. Search maps bounded
+iterative-query seam; growth supplies nonrenewal contract; release available for
+independent challenge/controls after exact source selection. No extra mirror demo.
+
+2026-10-20 root adopts exact discovery build map; launches one installed check
+request9f991f1b. release audits saved terminal result; growth finishes substantive
+unknown-vocabulary method decision; search checks iterative-query source seam.
+All work canonical; no broad status review or proof campaign is selected.
+
+2026-10-20 root launches one distribution-discovery-build-01 after reviewa6861cd0.
+core_release saved build/map audit next; installed adapter58b3c2b1 waits for
+actual build adoption. Search/growth assigned source work complete. No newproof.
+
 2026-10-20 outcome9963383e adopted. DISCOVERY-DISTRIBUTION-SELECTION: search
 fresh exact source selector, growth installed structural import adapter,
 release independent source/build/actual review; root launch/adoption/Git.

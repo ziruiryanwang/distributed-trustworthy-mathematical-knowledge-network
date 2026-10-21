@@ -4,6 +4,16 @@ Updated: 2026-10-20. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
+The current exact installed source map and release are maintained at
+[NOW](research/NOW.md), not inferred from the historical paragraphs below.
+The adopted discovery distribution integrates interface-only imports,
+supplier continuation, explicit trust withdrawal, optional conjunction/type-variant
+indexes and bounded natural-number literal lowering. Its
+[integration outcome](research/cycles/v5-2026-10-20/DISCOVERY-DISTRIBUTION-OUTCOME.md)
+preserves the failed request and passing corrected installed check separately.
+Next work targets repeated independent formal queries within one finite live
+client; no new mathematical demo, verification bypass or heavy proof is selected.
+
 The current ordinary installed reader and contributor have passed their scoped
 checks; see [installed outcome review](research/cycles/v5-2026-10-20/INSTALLED-REPAIR-REVIEW.md).
 Demand-directed semantic retrieval and explicit split-provider body retrieval

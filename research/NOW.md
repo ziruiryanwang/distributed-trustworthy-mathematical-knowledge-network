@@ -3,24 +3,61 @@
 ## Current source navigation (read before proposing a missing capability)
 
 The installed SDK map is `sdk_sources` in
-`experiments/v5-local-checks/distribution-coherent-01-input.json`
-(SHA-256 `1903bb44b6176dae5d43142f11cd90ddde6d494d51d5b5c1c377f3ebf5182528`).
+`experiments/v5-local-checks/distribution-discovery-01-input.json`
+(SHA-256 `e0e22f412a6d276f172603ad11ff5217ea321b5a038921af2bd7f1b4b028e20b`).
 Resolve logical module names through that map before inspecting implementation.
 For example, the installed mixed receiver is
 `software/v5/runtime_efficient/mixed_claims/receiver.py`, not its old logical-path
 predecessor. Runtime pin-phase deduplication and general exact-J seal preparation
 already exist. Historical "missing" recommendations are not current evidence.
 The installed candidate is
-`product-local/v5-distribution-coherent-01/Mathematical Commons v5`, release
-`0fbbbc59c6bd020f820bc458f13350d976116f94290404e8ff84b939e3b107bf`.
-Its 109-source map preserves interface-only authoring and supplier-complete
-declaration continuation and adds tested withdrawal/optional pair discovery.
+`product-local/v5-distribution-discovery-01/Mathematical Commons v5`, release
+`769506990ea10be5c6ce812e5cfd457922f4955ad4831bcdbc9d7a9ec9561108`.
+Its 110-source map preserves interface-only authoring, supplier-complete
+continuation, withdrawal and optional pair discovery; it adds tested bounded
+numeral lowering and optional whole-type variant discovery. Old installations
+and their used states remain immutable; this is not an automatic migration.
 Ordinary mathematical startup requires an existing explicit trust adoption;
 use the matching distribution_coherent examples, not predecessor callers.
 The integration-test domain was deliberately withdrawn: it is evidence, not
 a reusable live owner policy. Do not overwrite earlier installations or state.
 
 ## Current work
+
+**2026-10-20 discovery-enabled installed candidate adopted.**
+Root reads/adopts independent outcome8627901370d14c44f1a710491cd65d5d0f3209bcb0fed5ff233ae76a11c21c2a:
+build exact110 map, installed02 exact origins/local query/empty workspace reopen,
+clean closure. Failed01 is retained, not relabeled. Successful knownCPU69seconds;
+failed preflightCPU remains unmeasured. No native/proof/network/authority created.
+Freeze used installation/request/selector/adapter. No runtime is live.
+Adopt proof-backed discovery decision6482088c/source575324a2: no duplicate
+mirror demo; existing APIs compose. Next targeted source work is bounded
+sequential direct queries in one live client, not a new verification mechanism.
+
+**2026-10-20 installed01 preflight refusal preserved; corrected request02 selected.**
+The unchanged launch floor is64MiB; reviewed request01 wrongly chose32MiB.
+It exited1 before owner/Job; no installed success. Failure note retains exact
+trace and unmeasured outerCPU. Source-reviewed selectorc7f945d3 changes only
+name/workspace/output floor. Select one requesta763cfce under the unchanged
+60CPU/120wall/384MiB envelope. No product rebuild, math, network or trust adoption.
+
+**2026-10-20 discovery distribution build adopted; installed boundary selected.**
+Build4266 ended zero with clean Job/active0; knownCPU61.59375, wall273.409226.
+Independent exact-map review confirms six replacements plus one addition,
+110 SDK sources and no other payload changes. Release769506990ea10be5c6ce812e5cfd457922f4955ad4831bcdbc9d7a9ec9561108.
+Select the reviewed installed structural check58b3c2b1, staged request9f991f1b:
+60CPU/120wall/384MiB/4processes. No math, network, proof or trust adoption.
+The current installed candidate stays unchanged until this boundary is adopted.
+Source-only next decision is iterative different queries within one finite live
+client; no extra evaluator demo or renewed154-call production graph selected.
+
+**2026-10-20 one unchanged-builder discovery distribution selected.**
+Root reads source reviewa6861cd0 and exact selectorf64a3cf5: six tested source
+replacements plus one helper,110 SDK sources, unchanged builder6d6f5411 and
+retained runtime/assets. Select one fresh distribution-discovery-build-01 under
+the existing120CPU/300wall/128MiB envelope. No new image/checker/proof/native test.
+Installed adapter58b3c2b1 and selector262a6314 are reviewed, awaiting successful
+build and actual map audit. Type-pattern checkpoint preserved at Gitba85b77.
 
 **2026-10-20 type-pattern outcome adopted; coherent distribution integration selected.**
 Root read/adopts outcome9963383e: all nine groups pass,132 exact source snapshots,
