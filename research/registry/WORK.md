@@ -4,6 +4,17 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 root selects one base-projection-controls-01/requestfaf0214a after
+independent source GO. adaptive_audit owns actual saved-outcome review; release
+controls complete. growth reviews source-only future combined113 SDK selector.
+No build or proof campaign selected. All153 used snapshots freeze at execution.
+
+2026-10-20 PROFILE-PROJECTION-IMPLEMENTATION-SELECTION: growth owns new helper
+and README, root fresh HTTP/advertised service and distribution successors,
+release focused controls, adaptive_audit independent source review. Contract
+25618050, original locked workspace/fixed subtree and latest-cut binding. No
+runtime/build/proof selected; used fingerprint/predecessor bytes preserved.
+
 2026-10-20 root adopts profile seam6d931c96/review5e13cc3d. growth owns minimal
 PROFILE-PROJECTION-CONTRACT; adaptive_audit independent contract review. Fixed
 workspace-owned projection, one selected served view/current cut, same custody,

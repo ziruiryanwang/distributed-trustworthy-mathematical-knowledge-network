@@ -26,6 +26,24 @@ a reusable live owner policy. Do not overwrite earlier installations or state.
 
 ## Current work
 
+**2026-10-20 one focused base-projection control run selected.**
+Root reads helper804147dd, servicesd02f6b04/afe15634, builder0db78433 and final
+eight-group controlsddbfaa67; independent source review reports no blocker.
+Select staged requestfaf0214a once:153 source snapshots/19 runtime pins,
+45CPU/75wall/384MiB/two processes. Real structural stores, provider dispatch and
+workspace locks; inert HTTP/location, no proof/native/network campaign. Freeze
+used sources at execution. Independent outcome follows; no automatic retry,
+installation build or v5 completion claim. Script-policy refusal wrote nothing;
+staging then succeeded with a process-local execution-policy override only.
+
+**2026-10-20 bounded base projection selected for implementation.**
+Root reads contract25618050 and independent no-blocker review. The implementation
+selection assigns growth the new helper/README, root two service successors and
+builder, release eight focused structural controls, adaptive_audit actual-source
+challenge. Fixed original-owner subtree, exact latest-cut selection, original
+custody and explicit V2 propagation; V1 preserved. No runtime/build yet; fingerprint
+passing suite is not repeated. Consolidate a combined installation after review.
+
 **2026-10-20 specialist-profile interoperability seam adopted for contract.**
 Root reads seam6d931c96/review5e13cc3d: default clients cannot discover exports
 indexed only under arbitrary specialist namespaces. Existing matching-config
