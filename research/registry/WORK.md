@@ -4,6 +4,45 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 RESTRICTED-SUPPORT-SELECTION: growth fresh restricted_support
+lib/syntax/typing and SOURCE; adaptive actual-pair outcome then focused
+support controls/refinement REVIEW; release thin build.py and BUILD with
+existing-host reuse argument; root selectors/launch/Git. Two-compile native
+shape preferred; no dependency rebuild, guest, proof or product rollout.
+Retain same-owner exact-native-delta cache proposal as later alternative.
+
+2026-10-21 actual restricted pair terminal: both executions PASS, fixed row
+and CPU screens FAIL; no retry/proof. Adaptive: exact actual outcome audit
+RESTRICTED-PAIR-OUTCOME. Growth: source/evidence RESTRICTED-PAIR-DISPOSITION,
+not a threshold change. Release: nonoverlapping product-relevant controller/
+preparation reuse cost diagnosis REUSE-COST-NEXT. Root: source selection,
+reviewed explicit-path Git checkpoint and integration. All canonical root,
+explicit workdir/absolute paths; used sources/evidence remain frozen.
+
+2026-10-21 guest03 terminal70321 exits0/44f808cd,18.8125knownCPU/clean;
+adaptive actual build audit; growth independent pair6deb0711 source review;
+root assembly/pair selections and reviewed Git checkpoint. Release root-adapter
+review2659bd39 complete and available for later actual assembly. No proof or
+installation. Host31b7eaa8 adopted; both guest preflight failures retained.
+
+2026-10-21 snapshot-host link41294 selected60b345d6 under HOST-LAUNCH.
+Growth retained-artifact decision after two guest preflight refusals; adaptive
+independent adoption critique and later actual host outcome; release matched
+pair source; root integration/launch/Git. Native checkpoint146c402 committed.
+No dependency/native rerun or proof. Failures and original finalization kept.
+
+2026-10-21 native build02/controls adopted a54c0138/c340551e. Root selects
+one restricted-guest-build-01 under BUILD-LAUNCH, no retained dependency rebuild.
+Adaptive actual build then snapshot-host source review; growth final assembly
+selector and prepare_execution review; release paired execution adapter; root
+selectors/assembly/adoption/Git. No native rerun, proof funding or installation.
+
+2026-10-21 RC pre-build refinement: growth retains raw IMax and adds bounded
+root-sort zero recognition, then NEXT-GUEST source plan; adaptive final
+CORE-REVIEW/controls count; release PRODUCER-NEXT exact source/adoption seams.
+Root has read BUILD-REVIEW ad681d10 and owns bounded native build/controls
+selection after final semantic review. No runtime selected or used source edit.
+
 2026-10-21 sharing actual77529a96 read/adopted; no runtime remains or rerun.
 Growth RC0 core/signature/bounds and CORE-PLAN; release WIRE then aggregate
 integration; adaptive CORE-REVIEW plus controls.rs/controls_root.rs; root

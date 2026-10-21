@@ -34,6 +34,68 @@ its own explicit owner adoption. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-21 targeted checker improvement selected, not another redesign.**
+Root fully reads/adopts actual pair outcome 9084ad56: exact endpoints, all 76
+segment bindings, fixed economic failure and clean closure; 4.4375 known CPU
+seconds overall, with no nested double count. Reads disposition 52f550b6 and
+product cost proposal cba18a95. The first
+selects derived support summaries to skip substitutions proven to be identity;
+the second's same-owner native-delta cache is retained as a distinct next
+option, not concurrent product work. RESTRICTED-SUPPORT-SELECTION assigns fresh
+restricted_support syntax/typing/lib to growth, focused controls/refinement to
+adaptive, thin two-compile builder to release, selectors/adoption/Git to root.
+All inference rules, identities and caps remain; no runtime or proof selected.
+Original fixed economic screen remains unchanged. No host relink by default.
+
+**2026-10-21 restricted matched execution completed; investment screen fails.**
+Both exact-target arms execute successfully, but RC uses 10,354,688 padded
+rows / 40 segments versus general 9,240,576 / 36, and 2.5 versus 2.171875
+standalone known CPU seconds. Both the fixed 75% row target and CPU
+nonregression fail; the 64-segment bound passes. Inner c1c895ed / outer
+edd61132 are retained, no retry or proof selected. Root fully reads/adopts
+assembly outcome 50c65350; adaptive independently audits the actual pair.
+Growth owns source-led checker disposition; release independently examines
+producer/controller costs for product-relevant improvement. Root owns next
+source selection and explicit-path Git checkpoint, not another status campaign.
+No current runtime or installation change; full v5 remains the objective.
+
+**2026-10-21 restricted guest03 compiles; actual audit and assembly next.**
+Host actual31b7eaa8 read/adopted:90.40625knownCPU/clean. Root adopts source
+81d8dd27 and consumers2659bd39; one guest03 buildd110cb21 now exits0,
+RESULT44f808cd: four compiles,18.8125knownCPU,16.5152483wall, clean. Adaptive
+audits21sources/7outputs; no repeat. Growth independently reviews matched-pair
+source6deb0711; root reviewed same-target/accounting and owns assembly/pair
+selection after outcomes. No proof funded, installation or release claim.
+Guest01/02 preflight failures and original historical failure remain preserved.
+
+**2026-10-21 host link active; guest retained-artifact gate correction.**
+Native RC checkpoint committed146c402. Guest01/02 both refused before any
+compile (saved-selection reserialization; then preserved original guest
+FAIL_FINALIZATION). Neither is adopted or silently retried. Growth/adaptive
+resolve explicit four-artifact reuse provenance; no historical failure rewrite.
+Root read/adopts host source e6c8e153 and launches one snapshot-host link41294,
+selection60b345d6. Release same-target pair adapter source; root later selections.
+Assembly consumers are unused; preserve all used01/02 bytes and evidence.
+
+**2026-10-21 native RC adopted; minimal guest build selected.**
+Root reads/adopts native build02 a54c0138 and controls c340551e: all40/26,
+two original-W/J comparisons,0.640625knownCPU/clean closure. No rerun. Guest
+source86cf6cd3 and selector/assembly85cbf4ab pass; RESTRICTED-GUEST-BUILD-LAUNCH
+selects one three-crate build using retained236 dependencies. Adaptive owns
+actual outcome then snapshot-host review; growth final assembly-selector and
+same-target preparer review; release pure paired execute-only adapter; root
+selectors/launches/Git. No proof, installed adoption or relaxed cost screen.
+
+**2026-10-21 RC source review closes before first build.**
+Root reads CORE-SOURCE and BUILD-REVIEW ad681d10. The reviewed native build
+reuses retained dependencies and compiles only RC core/aggregate/controls.
+Root/growth find a simpler refinement obligation: preserve raw native IMax
+structure; recognize zero only at root Sort comparison/Prop tests. Growth
+implements that unused-source correction; adaptive finalizes independent
+review and changed-boundary controls. No build selected until those close.
+Release traces minimal producer adoption; growth prepares the same-target
+guest cost comparison. No old campaign, RAM survey or installation copy.
+
 **2026-10-21 sharing outcome adopted; restricted core implementation active.**
 Root fully reads/adopts77529a96: exact canonical endpoints, genuine cold checks,
 same-session L advance, unknown-ID S acquisition and clean closure.76.46875 vs
