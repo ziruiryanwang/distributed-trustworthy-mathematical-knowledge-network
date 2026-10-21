@@ -4,6 +4,23 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-20 EXACT-CUSTODY-INTEGRATION-SELECTION: root adopts cf49ab4e and selects
+one114-source distribution build; adaptive_audit saved actual map/outcome.
+Release authors only body_location/installed01.py, growth independent source
+review after checkpoint, root installed request/selector. Installed runtime is
+not selected. Current used13product+2controls freeze; preserve old113 install.
+
+2026-10-20 EXACT-CUSTODY-LAUNCH: root one focused structural Python/Node run;
+independent saved-output reviewer assigned after terminal. Release plans minimal
+installed body-custody boundary; growth resolves claim/comparator distinction;
+root prepares114-source distribution selector. No build/proof selected yet.
+
+2026-10-20 EXACT-CUSTODY-IMPLEMENTATION: release owns fresh protocol/controller/
+V3 provider successors; growth body_custody helper; root transport/reader/facade
+and integration; adaptive_audit eight focused source controls/challenge. All
+under canonical software/v5/body_location, source-only until root finite launch.
+Checkpoints in current cycle. Contract21f4a095 and review2f5d8622 adopted.
+
 2026-10-20 installed origin audit7c804ae6 adopted; release d986f9f0/map113 now
 authoritative. No runtime/build remains. Root commits reviewed integration;
 release exact-custody contract and growth challenge continue source-only.

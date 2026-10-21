@@ -28,6 +28,40 @@ new mathematical trust domain adopted. Do not overwrite old installations/state.
 
 ## Current work
 
+**2026-10-20 exact-custody controls adopted; integration selected.**
+Root reads outcome cf49ab4e:11Python/4Node,188 exact snapshots/21pins, clean
+closure,12.953125knownCPU/23.608326wall. Select one114-source build under
+EXACT-CUSTODY-INTEGRATION-SELECTION; old113 install remains authoritative.
+Release authors only installed01 adapter for three real loopback roles and
+same-reader retained-packet import; growth reviews; audit actual build/map.
+No installed launch or new proof selected. Growth L-to-O versus O-to-V claim
+distinction adopted; no positive full-cost or useful-growth result asserted.
+
+**2026-10-20 exact-custody controls selected once.**
+Root read final Python28e71964/Node d7c16131 and independent implementation/
+selector reviews. EXACT-CUSTODY-LAUNCH selects188 snapshots/21pins,45CPU/90wall/
+384MiB/three-process maximum for eleven Python methods and four pure Node groups.
+Real structural custody/reader/budgets, inert math/network; no proof or live
+locator. Used bytes freeze. Independent saved-output audit precedes any build.
+Source-only114-map preparation and minimal installed-boundary planning continue.
+
+**2026-10-20 exact-custody implementation selected after independent review.**
+Root adopts contract21f4a095/review2f5d8622/control-pland982385c.
+EXACT-CUSTODY-IMPLEMENTATION assigns release same-child protocol/provider,
+growth prepaid capability pool, root shared transport/reader/facade and audit
+focused controls. All successors under body_location; source work only, no
+runtime/build or proof campaign selected. Original contact maps, query/grant,
+owners and budgets stay unchanged. Current installed113 remains frozen.
+
+**2026-10-20 exact located-contact mismatch found; fresh repair selected.**
+Source review shows settled body/declaration attempts reject the genuine
+adaptive-located `_Contact` subclass because the transport's exact allowlist
+omits it. Existing no-provider checks did not cover this path. Root selects
+fresh body_location/transport/acquisition_resilience.py with the exact class
+added, retaining all original bindings. One focused control will join the
+later exact-custody suite; no reproduction or full campaign. Current install
+stays frozen with this known defect pending integration of the repair.
+
 **2026-10-20 combined discovery installation adopted; no runtime remains.**
 Root reads outcome7c804ae6:114 exact boot sources, nine changed-module origins
 agree with actual BOOT, clean closure/empty logs,8.15625knownCPU/10.81067wall.
