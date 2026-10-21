@@ -4,11 +4,29 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-21 actual public02 audit9c779911 fully read/adopted by root. Source work:
+release two Node guards; guest lifecycle+sessions; screen six stores authored
+(root reviews), then independent root helper/owner/composer review. Root shared
+paths+owner+composer/exact future map/Git. No runtime or build is selected.
+
+2026-10-21 public02 terminal0/clean/rawPASS; screen saved actual audit pending.
+Root storage_paths and six fresh store guards; release Node pre-schema design;
+guest manager/profile-binding review. See MANAGED-STORAGE-INTEGRATION-SELECTION.
+No live runtime, new build, RAM survey or repeated mathematical/search test.
+Root retains adoption/map/installation/Git ownership.
+
+2026-10-21 build029bf860 adopted, public02 selection85115a3e live35677.
+Screen saved actual public audit after terminal; guest storage helper3b535a33
+independent source review; release helper source note complete/eebaf927.
+Root runtime/adoption/current map/Git. No storage caller integration or runtime.
+
 2026-10-21 combined observed/close candidate build c3257f27 live50011,
 inpute0f0dc5d. Guest terminal build audit, release actual3-control saved audit,
 screen later public02 actual audit. Root source map/build/adoption/Git.
 Service review922fe5f2 and selector reviewd1cd020b adopted. No service launched;
 diagnostic warning preserved, not a failed assertion or unreported live task.
+Actual controlf6c506fd now adopted; release uses idle capacity for one reusable
+managed_storage arithmetic/pre-schema helper, no existing-caller integration.
 
 2026-10-21 source-demonstrated monitor-cancellation close defect selected.
 Release owns fresh managed_close_drain service; screen independent product

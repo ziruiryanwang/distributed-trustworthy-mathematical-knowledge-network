@@ -3,6 +3,20 @@
 ## Current source navigation (read before proposing a missing capability)
 
 **Current installed candidate:**
+`product-local/v5-distribution-managed-observed-01/Mathematical Commons v5`, release
+`7381fa03ba8d02017b3f96ff589eca468cdba8c2aa9c4b0a4c1ca4ad968dc344`.
+Its authoritative127-entry map is
+`experiments/v5-local-checks/distribution-managed-observed-01-input.json`, SHA-256
+`e0f0dc5d63dee0d088b8edd9e61d9a1d1bebbe31d3dde76b53887d1c901f7201`.
+Build audit029bf860 is read/adopted:125 prior SDK rows unchanged, owner1c022737
+and servicec815331f replace75c0e8a9/7e735337. Diagnostics actual3b53e2c9 and
+close controlsf6c506fd are adopted within their synthetic/extracted-method scopes.
+Public contribution02 actual audit9c779911 is fully read/adopted: selected
+handoff, exact custody and orderly close pass. Receipt INDEXED_UNADVERTISED,
+route INCOMPLETE; no advertisement or new mathematical acceptance claim.
+No runtime remains; do not repeat this completed operation.
+
+**Preserved contribution candidate:**
 `product-local/v5-distribution-managed-contribution-01/Mathematical Commons v5`, release
 `2cb30fae38d4054a2662f7652ac7ad4d5eef5b1e5f7ba8549b8fd288a90792f1`.
 Its authoritative127-entry `sdk_sources` map is in
@@ -60,16 +74,48 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-21 contribution02 adopted; storage integration being implemented.**
+Root fully read/adopts actual9c779911, with full quote retained, exact opening/
+packet custody, SEALED_SERVING/CLOSED and final supervisor QUIESCED. No routing
+or new mathematical qualification follows. Binding design is read/adopted:
+fresh manager schema + complete authenticated SDK/base-runtime writer digest,
+including supervisor reopens; no per-store token or migration. Release implements
+two Node successors; guest manager/sessions; screen authored six store guards
+and now independently reviews root paths/owner/composer. Root reviews concrete
+diffs and owns integration/Git. No storage test/build selected;129 SDK entries
+are anticipated (127 plus two shared helpers), not an installed candidate.
+
+**2026-10-21 public02 terminal; integrate prospective storage admission.**
+Public02 session35677 completed PASS/complete,38.75knownCPU/96.6580966wall,
+clean containment. Screen audits saved evidence; do not infer advertisement
+from custody (actual receipt is INDEXED_UNADVERTISED). Root read/adopts storage
+helper3b535a33/review4e7f38cf, corrected source note36766bb2. New integration
+selection assigns root fixed-path gates/six Python stores, release Node design,
+guest exact manager/profile binding. No storage runtime/build selected. Prior
+used sources, old01 failure/charges and both private credentials stay preserved.
+
+**2026-10-21 combined build adopted; fresh public contribution02 live.**
+Root fully read/adopts build029bf860 and actual controlf6c506fd. Fresh public02
+selection85115a3e/input01425d4f launched once session35677 with unchanged reviewed
+driver7b208288/actorfa38dae4/selector39580e00. Screen audits saved actual outcome
+after terminal notice. Original01 and its secret/charges/failure stay preserved.
+Storage helper3b535a33/sourceeebaf927 is authored but unwired; guest independently
+reviews it while the actual integration runs. No storage experiment or second
+build is selected. Root owns actual adoption and Git.
+
 **2026-10-21 close repair tested; combined candidate building once.**
 Root read/adopts source922fe5f2, controls review8b450d0e and combined-selector
 reviewd1cd020b. Exact servicec815331f repairs cooperative monitor drain, retains
 original shutdown margins and refuses store close with live background actors.
 Three extracted-method/synthetic-I/O controls d93d1333 completed0/clean; saved
-actual audit by release underway. Explicit inherited unawaited-read warning is
+actual auditf6c506fd is fully read/adopted. Explicit inherited unawaited-read warning is
 retained, not a warning-free claim. Root selected one file-only combined build
 c3257f27/inpute0f0dc5d, session50011; guest audits terminal source map/result.
 No service/public02 launched. MANAGED-OBSERVED-BUILD-DECISION preserves scope;
 old installations/failure/grants remain untouched. No repeated proof campaign.
+Commit206e7b9 preserves the reviewed repair and both control outcomes. During
+the build, release authors only the reusable arithmetic/pre-schema helper under
+MANAGED-STORAGE-GATE-SOURCE-SELECTION; no caller integration/adoption/runtime.
 
 **2026-10-21 direct shutdown defect selected; avoid diagnostic-only rebuild.**
 The exact127 source trace permits monitor cancellation during an in-flight
