@@ -118,6 +118,24 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-22 first-five typed proof stages terminal; independent audit pending.**
+Session93003 exited0/clean. Inner5c515f1a reports five PASS_BOUND_HOST_STAGE,
+five retained checkpoints, no application receipt; outer4a03ada2 and owner5608f0b8
+close cleanly.1775.28125 knownCPU/267.9347789wall seconds. Do not rerun. Root read
+actual reports; outcome_audit owns adoption review and source-only remainder
+selector review. No remainder request/dispatch yet. New typed_renewal owner/V
+source and independent source review continue; historical pause is superseded.
+
+**2026-10-22 typed useful prefix launched once; renewal source work in parallel.**
+Root inspected prepared selection fa40f145/request7aac14ce/profile1242b0a8;
+matches adopted prefix review727c0f05 and funding decision. Session93003 runs
+only segment0/lift0/segment1/lift1/join1, with one serial heavy worker and fixed
+finite caps. No automatic continuation or second attempt. outcome_audit owns
+terminal saved-evidence review. Root read/adopts ordinary renewal plan40aca0c8;
+integration_adapter implements the new small typed_renewal owner/V source,
+launch_review independently reviews it. See TYPED-RENEWAL-IMPLEMENTATION-SELECTION.
+No old proof/controls replay, new trust adoption, or full-v5 acceptance.
+
 **2026-10-22 typed-adoption controls independently adopted.**
 Root fully read/adopts saved outcome2d2e40ac: ten tests,zero errors/failures/skips,
 no dispatch, genuine retained host/image/general36 constructor and full109-call

@@ -19,8 +19,10 @@ It reuses the retained general36 execution and existing proof scheduler, adding
 honest typed image/build/snapshot adoption and an ordinary pinned operator.
 The eventual endpoint is a genuine A*(U), checked use of U, then genuine A*(V)
 whose frontier is the earlier receipt and membership rather than U's proof
-ancestry. No aggregate receipt exists yet; no proof is funded by this source
-selection. The prior failed optimization screens remain failed. This closes
+ancestry. A separately funded first-five proof prefix has completed with clean
+closure and retained checkpoints; its independent audit is pending. No aggregate
+receipt exists yet, and further dispatch needs a separate same-lineage selection.
+The prior failed optimization screens remain failed. This closes
 a missing capability if successful, not a proof of economic or sustained growth.
 Earlier source cuts and dated pending statements below remain historical; do
 not implement missing features or restart operations inferred from them.

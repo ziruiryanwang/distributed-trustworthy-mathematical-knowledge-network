@@ -4,6 +4,20 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 prefix93003 terminal0/clean, five retained checkpoints, no receipt.
+outcome_audit owns saved prefix outcome then Select-TypedProductionRemainder01
+source review. Root-authored remainder selector is unused/unexecuted; later
+continuation requires adopted outcome/review and exact same-lineage selection.
+Typed renewal author/reviewer remain active. No current heavy worker.
+
+2026-10-22 root inspected/launched exact prefixfa40f145 once, session93003,
+first five nodes only under retained profile/session/allowance. outcome_audit
+owns terminal TYPED-PRODUCTION-PREFIX-OUTCOME and source-only continuation carry.
+integration_adapter owns new typed_renewal adapter/V source, checkpoint
+TYPED-RENEWAL-IMPLEMENTATION; launch_review owns independent source review and
+narrow new non-native controls, no execution. Root owns runtime/Git/adoption.
+See current cycle TYPED-RENEWAL-IMPLEMENTATION-SELECTION. Prior used sources freeze.
+
 2026-10-22 typed controls62445 completed; root read/adopts outcome2d2e40ac,
 ten tests7.625knownCPU/clean. Used typed sources and controls now freeze.
 storage_launch_review independently reviews root's Select-TypedProductionPrefix01
