@@ -24,8 +24,13 @@ closure and retained checkpoints; its independent outcome77a92b4f is adopted.
 The104 remaining stages run under the same allowance, retaining all five results.
 An initial preparation-only Decimal comparison refusal is preserved and corrected
 in separately reviewed successor02; it launched no proof. No aggregate receipt
-exists yet. The ordinary A-only U-to-V adapter is source-reviewed, with focused
-controls pending; this keeps U's proof ancestry out of the new consumer.
+exists yet. The ordinary A-only U-to-V adapter and its actual selector are
+source-reviewed. Six focused non-native control groups passed after preserving
+and correcting a test-harness-only import failure; their adopted outcome is
+e510c2c5. Actual consumer execution still awaits a genuine resolved U receipt.
+The new two-action lifecycle CLI composes existing snapshot/request APIs without
+changing the stable producer profile or automatically funding later proof work;
+its source implementation is selected, not yet runtime-qualified.
 The prior failed optimization screens remain failed. This closes
 a missing capability if successful, not a proof of economic or sustained growth.
 Earlier source cuts and dated pending statements below remain historical; do

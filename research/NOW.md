@@ -118,6 +118,35 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-22 genuine consumer source ready, not run.**
+Root fully read/adopts actual-selector review e359a09f for selector c1dfbd79
+and plan b274cfb7. Current130 plus two owner files, five minimal U inputs,
+explicit A*-only verifier and unchanged native-I preparation are reviewed.
+The initially insufficient acquisition sub-budget was corrected before use to
+two attempts/120CPU (total180 including author60); no runtime was wasted.
+Preparation/dispatch still requires terminal U production and its actual audit.
+
+**2026-10-22 controls02 adopted; complete existing lifecycle entry in parallel.**
+Root read/adopts actual outcome e510c2c5: six inert/non-native groups, exact
+137-source snapshots/136 logical files, clean closure,3.046875knownCPU/
+8.7148854wall. No mathematical acceptance; controls01 failure stays charged.
+Root read production seam cbb306b4 and selects only the thin separate
+typed_production/lifecycle_operator.py snapshot/request entry and usage document.
+Existing29-source producer/profile/hosts/scheduler remain unchanged. See
+TYPED-RENEWAL-PRODUCTION-SELECTION for author/reviewer ownership. Proof64938
+continues; no real V snapshot/request or second heavy operation is authorized.
+
+**2026-10-22 controls02 correction selected; genuine renewal plan in parallel.**
+Root read/adopts controls01 failure b562efe2, corrected closure4f7825d4 and
+selector reviewda26ec27. Fresh selectord2be66dc selects controls02 0b3a775d,
+two existing pure helper files and unchanged product/adapter sources:
+137 physical sources/136 logical test files,32runtime pins,30CPU/90wall/
+256MiB/one-process. Six tests have never run; no prior passing work is repeated.
+Root will prepare, inspect and dispatch this one small job. Proof64938 remains
+the only heavy worker. integration_adapter traces the new V preparation/snapshot
+seam; launch_review reviews the unused actual U-to-V selector. No real U receipt
+or actual consumer acceptance is yet assumed; no installed defaults change.
+
 **2026-10-22 controls01 failed in import closure before any test.**
 Exact selection3a91f5fd ran once and exited1/clean: ModuleNotFoundError for
 aggregate_claims.prepare_mixed; no test result/suite execution.1.828125knownCPU/

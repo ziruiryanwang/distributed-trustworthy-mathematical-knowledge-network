@@ -4,6 +4,19 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 controls02 outcome e510c2c5 adopted. integration_adapter authors only
+typed_production/lifecycle_operator.py and LIFECYCLE-CLI.md; outcome_audit reviews
+the new entry and owns narrowly scoped inert controls. launch_review finishes
+actual U-to-V selector review then growth-priority challenge. Root owns later
+test selectors/launch/adoption/Git. Existing producer29/profile/hosts and live
+proof64938 remain unchanged. Selection: TYPED-RENEWAL-PRODUCTION-SELECTION.
+
+2026-10-22 root adopted controls02 closure4f7825d4/selector da26ec27 and
+controls01 failure b562efe2. Root prepares/inspects/runs fresh controls02;
+outcome_audit owns later saved terminal review. launch_review reviews actual
+selector; integration_adapter maps future V prepare/snapshot/production seam
+without execution or product edits. Heavy proof64938 continues unchanged.
+
 2026-10-22 renewal controls01 failed before tests at missing pure preparation
 module; clean exit1 and all used sources freeze. launch_review owns new
 typed_renewal/controls02.py with two existing helper files; root selector02;
