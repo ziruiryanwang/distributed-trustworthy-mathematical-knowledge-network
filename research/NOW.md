@@ -118,6 +118,30 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-22 installed producer source review adopted.** Root fully read/adopts
+46ff775a and independently matches all eight exact source pins. Six concrete
+findings are resolved before execution: pending completion, consistent output
+caps, conflicting pin rejection, full import-policy binding, preserved ordinary
+receiver image99b9 versus producerA9d5072, and64-KiB entry/report bounds within
+the unchanged14-MiB snapshot metadata reserve. Source PASS is not runtime or
+release acceptance. Three new native-free control groups and an exact144-row
+assembly selection are being authored in parallel; neither has run. Root's
+Select-InstalledProducerControls01 is source-only pending review. Existing U
+proof64938 has reached resolve-0 but has no observed terminal result yet.
+
+**2026-10-22 installed public producer implementation active.** Root fully
+read/adopts public design reviewcda443bc. Fresh installed_production overlay:
+integration_adapter owns core/shared contract/entry and both snapshot hooks;
+launch_review owns V4 distribution/profile command; root owns finite launcher;
+outcome_audit independently reviews actual source. The generic client boot,
+current receiver and all used predecessors remain unchanged. Parent completion
+uses a precreated pending marker: success bytes are provisional until final
+validation and final marker removal. Unknown finalization cannot be adopted
+merely because its failure diagnostic also could not be saved. Output envelope
+is consistently1GiB/16384entries. Source review precedes new narrow controls;
+no installed assembly or additional proof is selected. U64938 is still live
+without observed terminal output and remains the sole heavy worker.
+
 **2026-10-22 release component outcome adopted; public integration continues.**
 Root fully read/adopts independent actual outcome62f94ab0:6 groups/one real
 relocated constructor and close,56 operative pins/95,215,546B,27 exact origins,

@@ -4,6 +4,21 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 eight-file installed producer review46ff775a fully read/adopted;
+root owns Git checkpoint. integration_adapter now owns only fresh controls.py
+and its plan/source checkpoint (three changed groups). launch_review owns one
+source-only exact144 assembly preparer/plan. outcome_audit owns narrow control/
+selector review, yielding priority to terminal-U saved-outcome audit when root
+reports completion. No tests/builds/native calls have been selected or run.
+
+2026-10-22 installed overlay source work: integration_adapter owns producer,
+adoption,entry,shared launch_contract and generic snapshot hooks; launch_review
+owns fresh distribution V4/profile command; root owns launch.py; outcome_audit
+owns independent INSTALLED-PRODUCER-SOURCE-REVIEW. Detailed disjoint paths are
+in INSTALLED-PRODUCER-SELECTION. Public designcda443bc adopted; pending-marker
+completion repair coordinated across all three implementations. No runtime
+or Git authority delegated; live proof64938 remains unchanged.
+
 2026-10-22 component01/control01 completed and outcome62f94ab0 adopted;
 launch_review actual audit is complete. integration_adapter finalizes minimal
 public launcher/profile/evidence contract; outcome_audit independently challenges
