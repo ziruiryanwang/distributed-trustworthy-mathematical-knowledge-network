@@ -74,6 +74,24 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-22 controls terminal; one fresh storage build live.**
+Exact Python03f55573 and Nodea222a507 controls each passed seven groups and
+closed cleanly. Root read/adopts the full actual audit9e3a0ff3: combined known
+CPU1.859375 seconds; no repeat selected. File-only129 build4df4b09b/inputa629df82 is live58636 under
+MANAGED-STORAGE-BUILD-DECISION; installed adoption waits for both outcome audits.
+storage_integration_adapter authors one four-command installed boundary test;
+storage_launch_review owns its source/selector review. Root owns integration,
+launch/adoption/Git. Old installed127 remains current and unchanged.
+
+**2026-10-22 resumed; finish selected storage boundary in parallel.**
+The user resumes the unchanged final-v5 goal. Saved integration and controls
+sources are intact; no storage test/build has run. Root adopts the fully read
+distribution-selector review7a999e7a. Independent storage_launch_review checks
+the controls selector; storage_integration_adapter prepares one minimal public
+integration plan without execution. Root records the conditional two-control
+selection in MANAGED-STORAGE-CONTROLS-DECISION and owns launches/adoption/Git.
+No repeated mathematical/proof/RAM campaign or old installation mutation.
+
 **2026-10-21 contribution02 adopted; storage integration being implemented.**
 Root fully read/adopts actual9c779911, with full quote retained, exact opening/
 packet custody, SEALED_SERVING/CLOSED and final supervisor QUIESCED. No routing

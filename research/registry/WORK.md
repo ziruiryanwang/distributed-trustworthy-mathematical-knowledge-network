@@ -4,6 +4,18 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 controls03f55573/a222a507 terminal0/clean/seven groups each.
+Actual audit9e3a0ff3 fully read/adopted. storage_outcome_audit audits build after root
+terminal notice. Build4df4b09b/inputa629df82 live58636. Integration author owns
+new installed_controls.py and plan; launch reviewer owns its full source and
+selector reviews; root finite launches/adoption/current map/Git. No proof run.
+
+2026-10-22 resumed unchanged goal. storage_launch_review owns independent
+MANAGED-STORAGE-CONTROLS-SELECTION-REVIEW; storage_integration_adapter owns
+MANAGED-STORAGE-PUBLIC-INTEGRATION-PLAN (source-only plan first). Root reviews
+exact controls, conditionally selects the two finite parallel runs, and owns
+integration, outcome adoption and Git. No runtime/build launched yet.
+
 2026-10-21 actual public02 audit9c779911 fully read/adopted by root. Source work:
 release two Node guards; guest lifecycle+sessions; screen six stores authored
 (root reviews), then independent root helper/owner/composer review. Root shared
