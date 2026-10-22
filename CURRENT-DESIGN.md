@@ -1,8 +1,28 @@
 # Current design: decentralized Lean mathematical commons
 
-Updated: 2026-10-20. This is a mutable navigation page, excluded from frozen checkpoint manifests.
+Updated: 2026-10-22. This is a mutable navigation page, excluded from frozen checkpoint manifests.
 
 ## Current candidate architecture: v5
+
+The current installed candidate is the129-source managed-storage distribution
+identified at [NOW](research/NOW.md). Its installed allocation/refusal/close/reopen
+boundary has an independently adopted outcome. Earlier source cuts and evidence
+below remain historical; do not implement missing features inferred from them.
+
+Current implementation targets **exact known-packet acquisition**, including the
+ordinary staged semantic reader and placement. An existing exact digest+size HTTP
+route performs indexed retrieval, but client offer-prefix prerequisites prevent
+some known packets from being reached. The [selected change](research/cycles/v5-2026-10-20/EXACT-PACKET-IMPLEMENTATION-SELECTION.md)
+adds explicit exact-demand APIs without changing mathematical admission, wire
+protocol, storage schema or existing offered-choice APIs. Six predecessor control
+groups and two separately corrected fixture controls pass their actual audits;
+the original failed run remains preserved. A fresh distribution is being built;
+the genuine-certificate integration source has passed independent review.
+[Complete custody export](research/cycles/v5-2026-10-20/SEALED-CUSTODY-EXPORT-CONTRACT.md)
+is a future design, lower priority than this concrete acquisition defect.
+
+The rest of this page preserves earlier candidate architecture and evidence;
+dated "next" paragraphs do not supersede the current source/ownership ledger.
 
 The current exact installed source map and release are maintained at
 [NOW](research/NOW.md), not inferred from the historical paragraphs below.

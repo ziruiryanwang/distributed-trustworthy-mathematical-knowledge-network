@@ -87,6 +87,45 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-22 corrected controls adopted; fresh exact-packet build live.**
+Root fully read/adopts actual186e0091: exactly04/05 pass,1.75knownCPU, clean
+closure. Predecessor01 remains failed; six passed groups were not repeated.
+Build539cdda9/input328c21bb is live77812; exactly six replacements/123 unchanged
+SDK rows,129 total. Prior installation remains current pending actual adoption.
+Root read installed ownerba555bb6/selector0675a755 and independent reviewf136ed36;
+one genuine-I offline-import operation is conditionally selected after build audit.
+Author examines unknown-variant access source-only; no new mechanism or proof run.
+
+**2026-10-22 resumed: controls01 failed, scoped fixture correction selected.**
+Root fully read/adopts actual outcome61af50a0: six groups pass,04 endpoint-class
+mismatch and05 insufficient provider reservation error;2.015625 known CPU seconds,
+clean closure. Used six product successors/controls01 stay frozen. Fresh02 runs
+only04/05 after source review; no repeated passed group or product guard change.
+Installed genuine-I owner/adapter implementation proceeds independently, with
+the unused plan's provider cap corrected from4MiB to32MiB for16MiB group-route
+reservation. See EXACT-PACKET-CONTINUATION and WORK. No new run/build yet.
+
+**2026-10-22 six exact-acquisition successors authored; focused controls reviewed.**
+Root read all six narrow diffs, README002c13ad/source0650870e and independent
+design challenge7a721ff3. Concrete source reviewer reports no blocking defect;
+final eight-group control/selector review awaits sealed test bytes. Actual
+HTTP/SQLite/placement controls and explicitly doubled direct/staged/semantic
+facades share one finite planned run. Root strengthened two-body input freeze
+and final-journal mismatch cases; no duplicate api_controls file was created.
+Author now assesses one ordinary installed-reader boundary reusing genuine I,
+no proof generation. Export contractaa095e02 is read as future design only.
+No experiment/build has launched and no old result is relabeled.
+
+**2026-10-22 exact packet implementation selected, including staged reuse.**
+Root read decision744e12ee (supersedes its earlier89d0f472 draft) and actual
+transport/controller/client plus staged-reader paths. EXACT-PACKET-IMPLEMENTATION-
+SELECTION assigns six fresh successors under software/v5/exact_packet; existing
+HTTP/schema/verifier and offered APIs remain. Independent challenge found the
+staged-reader prerequisite, now included rather than narrowing to direct import.
+Author implements, outcome agent independently reviews, export reviewer finishes
+its design then takes distinct controls. No new runtime selected. Installed
+storage checkpoint committeddd08811; full v5 remains unfinished.
+
 **2026-10-22 storage adopted; direct exact acquisition is next priority.**
 Root fully read/adopts installed outcome288ef066; no runtime remains. Guard
 passes in canonical root. Source decision89d0f472 shows existing exact packet

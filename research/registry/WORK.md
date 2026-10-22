@@ -4,6 +4,33 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 controls02 selection95b18eec terminal0/clean: exactly04/05 pass,
+1.75knownCPU. storage_outcome_audit owns actual controls02 then fresh build audit.
+Root read/adopts installed source reviewf136ed36; storage_launch_review owns
+future installed actual outcome. storage_integration_adapter now investigates
+unknown packet-variant selection source-only in PACKET-VARIANT-SELECTION-NEXT;
+no new mechanism/runtime selected. Root owns build/installed launch/Git.
+
+2026-10-22 resumed parallel closure: storage_launch_review owns fresh04/05-only
+controls02 and corrected installed-plan review; storage_integration_adapter owns
+fresh installed exact-reader owner/adapter and corrected plan; storage_outcome_audit
+independently reviews controls02/selector and installed source. Root adopts failed
+controls01 audit61af50a0 and owns exact selection/launch/navigation/Git. No passed
+group repeat or change to six frozen product successors. Current install unchanged.
+
+2026-10-22 exact_packet six successors complete. storage_launch_review owns
+controls.py groups01–05/staging/checkpoint; root finished only06 strengthening,
+07–08 unchanged. storage_outcome_audit final combined source/control/selector
+review. storage_integration_adapter source-only EXACT-PACKET-INSTALLED-PLAN,
+reusing genuine retained I with no new proof. Root selection/launch/adoption/Git.
+No api_controls file or second test campaign;137-source selector unchanged.
+
+2026-10-22 exact_packet source selection: storage_integration_adapter owns six
+fresh product successors + README/source map; storage_outcome_audit owns design
+challenge then source review; storage_launch_review finishes export contract then
+focused controls. Root owns selector/integration/launch/Git. No old source edits,
+test/proof repetition or new runtime. Storage installed checkpoint committeddd08811.
+
 2026-10-22 root fully read/adopts installed288ef066 (no rerun). Author completed
 EXACT-PACKET-ACQUISITION-DECISION89d0f472; outcome agent now independently
 challenges its actual source/security/accounting boundaries in
