@@ -118,6 +118,37 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-22 lifecycle command controls adopted.**
+Root fully read actual independent outcome841e03c4: exact three-source bindings,
+five groups, zero failures/errors/skips/forbidden calls, terminal0/clean;
+1.78125knownCPU/3.2331229998wall. Used entry/control/selector sources freeze.
+This does not qualify actual315-pin construction or generic snapshot. Next
+source design is a distinct release-owned producer with explicit new adoption
+schemas, preserving inherited scheduler/snapshot mathematics and existing caps.
+launch_review independently challenges the concrete design; no implementation
+or runtime for that successor is selected yet. U64938 remains unchanged.
+
+**2026-10-22 lifecycle command controls selected; snapshot pin ceiling found.**
+Root fully read/adopts entry review bf6227a8 and independent controls/selector
+review ef7ca932. Entry a23c24c3, controls21c26ced and selectoraa0ae3de are selected
+for one inert five-group command-boundary run,30CPU/90wall/256MiB/one process;
+prepare and inspect the exact three-source/30-runtime selection before dispatch.
+This is not a real producer/snapshot/request/proof. Source-only inventory found
+315 constructor pins versus the existing snapshot parser's256 limit; independent
+confirmation and a principled portable-adoption remedy are assigned. No actual
+snapshot is selected. Proof64938 remains the only heavy worker, unchanged.
+
+**2026-10-22 highest-payoff challenge adopted; no new growth benchmark.**
+Root fully read TYPED-RENEWAL-NEXT-PRIORITY 130f933b. Distinguish ordinary
+sharing's retained positive matched CPU observation from the optional cost of
+succinct certification. Requiring every seal to beat ordinary sharing would be
+a stronger claim than the user goal, not a universal release gate. Genuine
+renewal, sound acceptance, scalable discovery and honest full-cost evidence
+remain required. Existing public finite requests can express optional bounded
+search followed by independent local fallback; no new scheduler/policy module
+or repeated M/mirror benchmark is selected. The source-backed recipe remains
+guidance, not a newly tested operation or total physical-resource guarantee.
+
 **2026-10-22 genuine consumer source ready, not run.**
 Root fully read/adopts actual-selector review e359a09f for selector c1dfbd79
 and plan b274cfb7. Current130 plus two owner files, five minimal U inputs,

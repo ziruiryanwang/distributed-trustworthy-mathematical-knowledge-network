@@ -4,6 +4,23 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 root adopted entrybf6227a8 and controls/selector ef7ca932; owns one
+small lifecycle-entry controls preparation/inspection/dispatch and Git checkpoint.
+outcome_audit independently checks constructor315/snapshot256 pin boundary in
+TYPED-SNAPSHOT-PIN-BOUNDARY-REVIEW; integration_adapter derives exact installation
+closure and portable adoption seam without modifying stable profile/live source.
+launch_review is available for saved control outcome and later changed-boundary
+review. No extra heavy worker or actual V operation has been selected.
+
+2026-10-22 lifecycle entry a23c24c3/docs1bb8acbf authored; independent review
+and controls underway. Root read full initial sources. launch_review owns only
+the later controls/selector review. integration_adapter additionally derives
+the future snapshot's installation-only pin closure (exclude U wire/capsule/I
+receipt), then source-only public producer deployment seam: remove mandatory
+research-path dependencies through release-owned artifact adoption, not changes
+to current live source/profile. Checkpoint TYPED-PRODUCER-DEPLOYMENT-SEAM.md;
+no extra implementation, packaging or runtime selected by that investigation.
+
 2026-10-22 controls02 outcome e510c2c5 adopted. integration_adapter authors only
 typed_production/lifecycle_operator.py and LIFECYCLE-CLI.md; outcome_audit reviews
 the new entry and owns narrowly scoped inert controls. launch_review finishes

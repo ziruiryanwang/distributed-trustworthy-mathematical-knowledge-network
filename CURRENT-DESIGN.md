@@ -29,8 +29,17 @@ source-reviewed. Six focused non-native control groups passed after preserving
 and correcting a test-harness-only import failure; their adopted outcome is
 e510c2c5. Actual consumer execution still awaits a genuine resolved U receipt.
 The new two-action lifecycle CLI composes existing snapshot/request APIs without
-changing the stable producer profile or automatically funding later proof work;
-its source implementation is selected, not yet runtime-qualified.
+changing the stable producer profile or automatically funding later proof work.
+Its five inert command-boundary groups pass; this does not qualify real snapshots.
+Independent source inspection found a concrete integration blocker: the present
+producer constructor retains315 installation/provenance pins while the wrapper,
+entry and generic snapshot each allow at most256 runtime pins. Current-profile
+generic snapshots are therefore impossible, not merely untested. The selected
+next design separates maintainer build evidence from a compact release-owned
+runtime adoption manifest, preserving exact executable/image/source checks and
+the independent mathematical receiver. No cap increase, live profile migration
+or second proof job is selected. U's already running retained-snapshot path is
+unaffected; it does not use this generic snapshot boundary.
 The prior failed optimization screens remain failed. This closes
 a missing capability if successful, not a proof of economic or sustained growth.
 Earlier source cuts and dated pending statements below remain historical; do
