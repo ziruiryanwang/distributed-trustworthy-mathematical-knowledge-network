@@ -12,15 +12,16 @@ heavy proof was not inspected or interrupted.
 Fresh physical source:
 `software/v5/installed_production/body_location/distribution.py`.
 
-- 71,246 bytes.
-- SHA-256 `c831e08aeff64ec2c27bd71b784fc8d46822e68b9a9ea5193fbc1833ee58dfcb`.
+- 73,536 bytes.
+- SHA-256 `afbea96badbead846aecc2d3014c19d38375cd2605c225ab0799ebde0ce48774`.
 - Baseline `software/v5/body_location/distribution.py` remains 54,824 bytes,
   SHA-256 `eb1348f6917e958e2ef233537e2e22986f18da545f56df1283fd7a74bc41c813`.
 
 Before edits, an exclusive fresh copy was made and both hashes equaled the
 baseline. All subsequent source edits used `apply_patch` at the absolute
-canonical path. A read-only textual comparison after editing shows that the
-ordinary `launch`/`_launch` block is unchanged: exactly 6,235 characters in each.
+canonical path. An earlier read-only comparison showed the ordinary launch
+block unchanged. The later root-selected role-projection correction changes
+only its source-map selection; it is no longer claimed byte-identical.
 No current130 source or existing source/evidence was replaced. The current130
 preservation of a future assembly still requires its actual named input-map
 and installed-map audit; it is not proven by this one-file diff.
@@ -58,8 +59,9 @@ The SDK limit changes from141 to144 at the two original assembly/validator
 sites through one constant. Existing 128 profile-list, 20,000 file, 128-MiB
 payload, 2-GiB map, 8-MiB release/input and source-size bounds remain. The new
 producer core/entry roles additionally satisfy their1-MiB source bound.
-Ordinary all-Python preparation projection remains: expected123, below128.
-No128/64/256 limit is raised for this integration.
+The full SDK contains123 Python files, but ordinary preparation selects only
+the109 consumer Python rows. Ordinary launch selects130 total consumer files.
+No120/128/64/256 limit is raised for this integration.
 
 ### One shared metadata contract, held executable bytes
 
@@ -132,6 +134,31 @@ producer descriptor with the separate `PRODUCTION_IMAGE` constant. The shared
 metadata helper already validates only descriptor/support against its producer
 image constant and needs no change. No receiver trust default is migrated.
 
+## Actual consumer runtime role-projection correction
+
+Root inspected the exact current selected
+`trust_withdrawal/client/runtime.py` (digest prefix70c52b51), not an older
+similarly named source, and found the consumer source limit120 and total
+runtime pin limit128. The earlier proposed all123 Python SDK rows would fail
+the first; lifting only that limit would produce142 runtime pins and fail the
+second. No runtime was spent discovering this deterministic incompatibility.
+
+The corrected distribution declares `PRODUCER_ONLY_SOURCES`, exactly the14
+additions disjoint from current130. `consumer_sdk_sources(sources)` preserves
+selected value rows, requires all14 producer names, validates source names and
+bounds the projected map to130 total/109 Python sources. The builder uses that
+map for ordinary preparation; the manifest validator requires exactly the same
+preparation pins; ordinary launch copies only that consumer map. Full installed
+SDK144/census, producer core31 and producer runtime49 remain unchanged. Generic
+client boot and the current receiver/runtime implementation are not edited.
+The existing109+16+2+1=128 consumer runtime closure is preserved.
+
+The dedicated producer launcher continues to use its own exact selected source
+roles. This is source-role separation, not a trust downgrade or pin-cap increase.
+The controls author is adding a pure144-to130/109 projection and missing-role
+refusal check. Root is reviewing this exact pre-use correction separately from
+the already saved earlier source-review cut.
+
 ## Reviewer-found finalization repair
 
 Independent reviewer `storage_outcome_audit` identified a concrete flaw in an
@@ -172,7 +199,7 @@ finalization precedence. Source/map review comes first. No repeated binary build
 proof campaign or predecessor test is warranted by this change.
 
 Before installation, root must choose one exact144-row map and actual template,
-bind final helper/launcher/source hashes, verify the predicted123/31/49/60 counts,
+bind final helper/launcher/source hashes, verify the predicted144/130/109/31/49/60 counts,
 and obtain the independent review. The full assembly and actual public-action
 gate require separately selected finite execution. This is progress toward v5,
 not a completed release or a claim about worldwide availability/useful growth.

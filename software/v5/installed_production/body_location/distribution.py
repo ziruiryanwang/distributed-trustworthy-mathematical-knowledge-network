@@ -26,6 +26,14 @@ POLICY = "5edfd0ee15b141b7304e26c1a39cd11f7f7e721713cf099813ae4f4442fad377"
 INPUT_SCHEMA = "DMKN_V5_DISTRIBUTION_INPUT_V4"
 RELEASE_SCHEMA = "DMKN_V5_DIRECTORY_RELEASE_V4"
 SDK_LIMIT = 144
+PRODUCER_ONLY_SOURCES = frozenset((
+    "v5/aggregate_lifecycle/__init__.py", "v5/aggregate_lifecycle/producer.py",
+    "v5/aggregate_lifecycle/snapshot.py", "v5/aggregate_small/__init__.py",
+    "v5/aggregate_small/producer.py", "v5/aggregate_small/operator.py",
+    "v5/aggregate_claims/input.py", "v5/aggregate_claims/prepare_mixed.py",
+    "v5/release_production/__init__.py", "v5/release_production/producer.py",
+    "v5/release_production/adoption.py", "v5/release_production/operator.py",
+    "v5/release_production/launch.py", "v5/release_production/launch_contract.py"))
 PRODUCTION_DESCRIPTOR = "production/ARTIFACTS.json"
 PRODUCTION_TEMPLATE = "production/PROFILE-TEMPLATE.json"
 PRODUCTION_CONTRACT = "v5/release_production/launch_contract.py"
@@ -120,6 +128,9 @@ and PROFILE-FAILED.json. Pending is created first and removed only as the final
 commit; a failure to write a failure marker cannot expose a stale success.
 Launch results have their own genuine completion/failure evidence rules.
 Neither record is mathematical acceptance or a final-v5 readiness claim.
+The full SDK includes fourteen producer-only files. Ordinary reader/service/run
+launches omit exactly those roles and retain the bounded consumer source map;
+their preparation pins do not grow merely because the producer is installed.
 
 REQUEST is canonical/local JSON with schema DMKN_V5_INSTALLED_REQUEST_V1,
 name, workspace_root, parameters, limits, output_limits, owner, runtime_mode.
@@ -548,6 +559,24 @@ def wrappers(role):
             if name != "serve-advertised" or role == LOCATION_ROLE}
 
 
+def consumer_sdk_sources(sources):
+    """Closed role projection; preserve consumer rows, never inflate pin caps."""
+    need(type(sources) is dict and 1 <= len(sources) <= SDK_LIMIT,
+         "DIST_SOURCE_COUNT")
+    need(PRODUCER_ONLY_SOURCES <= set(sources), "DIST_PRODUCER_ONLY_SOURCES_REQUIRED")
+    for name in sources:
+        parts = relative(name)
+        need(len(parts) >= 2 and parts[0] in ("v5", "portable")
+             and Path(parts[-1]).suffix in (".py", ".mjs")
+             and not name.startswith(("v5/location/", "v5/portable_runtime/")),
+             "DIST_SDK_PATH")
+    selected = {name: value for name, value in sources.items() if name not in PRODUCER_ONLY_SOURCES}
+    need(1 <= len(selected) <= 130
+         and sum(name.startswith("v5/") and name.endswith(".py") for name in selected) <= 109,
+         "DIST_CONSUMER_SOURCE_BOUND")
+    return selected
+
+
 def required_sources(role):
     wrappers(role)
     result = {"v5/client/launch.py", "v5/client/boot.py", "v5/client/workspace.py",
@@ -855,12 +884,13 @@ def _build(input_path, expected, destination):
     def role_pin(role):
         name = roles[role]
         return {"path": name, **files[name]}
+    consumer_sources = consumer_sdk_sources(sources)
     relative_profile = {
         "schema": template["schema"], "image": role_pin("image"),
         "worker": {"path": sources["v5/authoring/worker.py"], **files[sources["v5/authoring/worker.py"]]},
         "native_executable": role_pin("frontend"), "lean_root": "assets/lean",
         "lean_runtime_pins": lean,
-        "source_pins": [{"path": name, **files[name]} for key, name in sources.items()
+        "source_pins": [{"path": name, **files[name]} for key, name in consumer_sources.items()
                         if key.startswith("v5/") and key.endswith(".py")],
         "producer": {"schema": producer["schema"], "supervisor_manifest":
             {"path": "base/RELEASE-MANIFEST.json", **files["base/RELEASE-MANIFEST.json"]},
@@ -983,6 +1013,13 @@ def validate_manifest(manifest):
          and profile["native_executable"]["path"] == manifest["roles"]["frontend"]
          and profile["worker"]["path"] == "sdk/v5/authoring/worker.py", "DIST_PROFILE_ROLE_BINDING")
     check_tree(profile)
+    expected_preparation = {path: {"path": path, **files[path]}
+        for logical, path in consumer_sdk_sources(sources).items()
+        if logical.startswith("v5/") and logical.endswith(".py")}
+    selected_preparation = profile["source_pins"]
+    need(type(selected_preparation) is list and len(selected_preparation) == len(expected_preparation)
+         and {item["path"]: item for item in selected_preparation} == expected_preparation,
+         "DIST_EXACT_CONSUMER_PREPARATION_SOURCES")
     need(all(item["path"].startswith("assets/lean/") for item in profile["lean_runtime_pins"]),
          "DIST_LEAN_ROLE_SCOPE")
     need(all(item["path"].startswith("base/") for item in
@@ -1199,7 +1236,8 @@ def _launch(expected, command, request_path, request_sha):
     run = ordinary(workspace/request["name"], fresh=True, directory=True)
     need(type(request["parameters"]) is dict, "DIST_PARAMETERS")
     parameters = deepcopy(request["parameters"])
-    sources = {name: manifest["files"][path] for name, path in manifest["sdk_sources"].items()}
+    sources = {name: manifest["files"][path]
+               for name, path in consumer_sdk_sources(manifest["sdk_sources"]).items()}
     if command == "run":
         owner = request["owner"]
         fields(owner, {"root", "entry", "sources"})

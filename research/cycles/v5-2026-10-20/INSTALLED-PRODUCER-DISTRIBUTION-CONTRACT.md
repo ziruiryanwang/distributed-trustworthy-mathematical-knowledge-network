@@ -11,7 +11,8 @@ Extend the existing full distribution, not the small producer-component fixture.
 Use explicit `DMKN_V5_DISTRIBUTION_INPUT_V4` and
 `DMKN_V5_DIRECTORY_RELEASE_V4` schemas with one new `production` field. Keep
 every current130 SDK row byte-identical, the six consumer artifact roles, the
-individual preparation relation and the ordinary client launcher unchanged.
+individual preparation relation and ordinary client boot unchanged. Ordinary
+distribution launch uses the explicit consumer role projection below.
 Add the producer source/artifact closure and a dedicated finite launcher.
 
 The physical successor is selected separately under
@@ -211,7 +212,9 @@ successors occupy their own newly added logical names; none replace current130.
 | Selection | Predicted exact count | Contract |
 |---|---:|---|
 | SDK union | 144 = 130 + 12 + 2 | Raise SDK upper bound 141 to 144 in build and manifest validation; require all producer roles |
-| Ordinary preparation source list | 123 = 109 + 14 | Existing all-Python enumeration, still under unchanged 128 list cap |
+| Installed Python SDK files | 123 = 109 + 14 | Full installed census, not ordinary runtime source selection |
+| Ordinary consumer source map | 130 | Full144 minus the exact14 producer-only additions |
+| Ordinary preparation source list | 109 | Exactly the projected consumer Python rows; no runtime cap increase |
 | Core descriptor/source list | 31 = 27 + 3 + 1 | Exact named closed set; source pins at most 1 MiB each |
 | Producer support runtime list | 49 = 31 + 2 entry/helpers + 16 base runtime rows | Exact selected closure; unchanged list cap 128 |
 | Repeated operative installation pins | 60 | Exact deduplicated union below; unchanged 64-count/512-MiB cap |
@@ -232,13 +235,22 @@ ordinary SDK continues to allow at most2 MiB per source; selected producer core
 has its stricter1 MiB limit. If final code introduces another import, rederive
 the maps before launch rather than assuming this count remains valid.
 
-For this minimal integration retain existing all-Python preparation projection:
-123 is below128 and does not change preparation semantics. It adds14 bounded
-metadata/source rows to ordinary client operations. This is an explicit small
-cost, not a claim of zero overhead. Producer launch does not materialize an
-unused receiver preparation, and does not copy all144 SDK files into each
-producer operation. A later consumer source-projection optimization is not
-needed to close this integration and should not displace it.
+Use the exact `PRODUCER_ONLY_SOURCES` fourteen-name set (the twelve additions
+plus launch and launch-contract) in `consumer_sdk_sources`. It requires all14
+roles, validates names and enforces projected130-total/109-Python ceilings.
+The full144 map remains installed and fully censused, but the builder's ordinary
+preparation and generic distribution launch use the projected consumer map.
+The manifest validator requires exact preparation-source equality to that
+same projection, with no missing, additional or duplicate rows. Producer
+descriptor/core roles still use the full map.
+
+This is necessary, not an optional optimization: the actual selected consumer
+runtime permits at most120 preparation sources and128 total runtime pins.
+Passing123 Python sources would fail the first bound, and merely raising it
+would require142 total pins (123+16+2+1), failing the second. The projected109
+preserves its existing128 total. No consumer cap or source/policy byte changes.
+Producer launch still materializes no unused receiver preparation and copies
+no full144-source tree per producer operation.
 
 ## Acyclic release identity and materialization
 
