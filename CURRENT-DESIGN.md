@@ -4,20 +4,31 @@ Updated: 2026-10-22. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
-The current installed candidate is the129-source managed-storage distribution
-identified at [NOW](research/NOW.md). Its installed allocation/refusal/close/reopen
-boundary has an independently adopted outcome. Earlier source cuts and evidence
+The current installed candidate is the129-source exact-packet distribution
+identified at [NOW](research/NOW.md). Its genuine supplier-offline certificate
+verification and interface-only import have an independently adopted outcome.
+Earlier source cuts and evidence
 below remain historical; do not implement missing features inferred from them.
 
-Current implementation targets **exact known-packet acquisition**, including the
-ordinary staged semantic reader and placement. An existing exact digest+size HTTP
-route performs indexed retrieval, but client offer-prefix prerequisites prevent
-some known packets from being reached. The [selected change](research/cycles/v5-2026-10-20/EXACT-PACKET-IMPLEMENTATION-SELECTION.md)
+**Exact known-packet acquisition is implemented and locally integrated**, including
+the ordinary staged semantic reader and placement. The [selected change](research/cycles/v5-2026-10-20/EXACT-PACKET-IMPLEMENTATION-SELECTION.md)
 adds explicit exact-demand APIs without changing mathematical admission, wire
 protocol, storage schema or existing offered-choice APIs. Six predecessor control
 groups and two separately corrected fixture controls pass their actual audits;
-the original failed run remains preserved. A fresh distribution is being built;
-the genuine-certificate integration source has passed independent review.
+the original failed run remains preserved. The [installed actual outcome](research/cycles/v5-2026-10-20/EXACT-PACKET-INSTALLED-OUTCOME.md)
+passes authenticated discovery, exact acquisition, supplier shutdown, genuine-I
+verification and READY interface-only import in12.1875 knownCPU seconds. It is
+not a new proof-production or general growth experiment.
+
+Next is [bounded offer enumeration](research/cycles/v5-2026-10-20/OFFER-ENUMERATION-SELECTION.md):
+explicitly request up to the existing64 local packet variants under the same
+16KiB ceiling, instead of only the first8. Default4 and existing callers remain
+unchanged; it requires a compatible configured peer and gives no global coverage
+or mathematical validity claim. The one-file successor's [two focused controls](research/cycles/v5-2026-10-20/OFFER-ENUMERATION-CONTROLS-OUTCOME.md)
+pass with64 variants in7027 bytes and all selected refusals. It is a tested
+development change pending a justified combined integration, not a new install.
+In parallel, source analysis distinguishes safely rejected
+candidates from failures requiring permanent mathematical-owner withdrawal.
 [Complete custody export](research/cycles/v5-2026-10-20/SEALED-CUSTODY-EXPORT-CONTRACT.md)
 is a future design, lower priority than this concrete acquisition defect.
 

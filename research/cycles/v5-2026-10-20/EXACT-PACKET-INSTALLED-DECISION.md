@@ -36,3 +36,32 @@ notice; storage_outcome_audit owns controls02 and file-only build. The original
 author investigates unknown-variant selection source-only in parallel, without
 new implementation or execution authority. Full v5 remains unfinished; this
 operation closes one concrete acquisition-to-admission integration boundary.
+
+## Actual launch binding
+
+Root fully read/adopts actual build audit
+`a334d4b361b3cdc2b9b697fe0831652ea7df1a7147390c43c6469b61f426617e`
+and controls02 outcome186e0091. Reviewed file-only preparation completed without
+runtime. The single invocation is now selected with these exact bindings:
+
+- Build input: `328c21bb585881d654f1a23f1704fbaa277ee865f7adb1250cf6c19b85647561`.
+- Installed release: `ffecdc80e2dc57f062aac0aadf37be2a9dadafa24539b34a2e702c0ec24ee4bb`.
+- Request at `product-local/v5-distribution-exact-packet-01/exact-packet01-inputs/installed-exact-packet-01-request.json`:
+  `2ffd7e8cfb00e6f6ba57c53c935578fac1ba4d1d525d6925aaacec185ac25ca9`.
+- Preparation record in that inputs directory:
+  `254b87d9bca00cf4c18f7ac6072a70eb0253a5f48962b675e778ccf1b0c75d10`.
+
+Run the exact installed interpreter/driver `launch <release> run <request> <sha>`
+recorded in PREPARED.json, once. This authorization does not include an automatic
+retry, renewed grant or change to any used source/input/state after launch.
+
+## Actual adoption
+
+Root fully read/adopts independent actual outcome
+`b93cca6df0fc569dbb240e3269f682110387609562cefbcd1e1f9e604f446878`.
+Session80425 terminal0/clean; exact staged acquisition and supplier-offline
+genuine-I verification/interface import pass. Known nonduplicated CPU12.1875s,
+wall19.6032358s. No proof was generated, no theorem ancestor proofs downloaded,
+no network used after supplier stop and no live authority remains. This closes
+the selected integration boundary, not the full v5 goal. Installation, source,
+request, worker output and all used evidence remain immutable. No rerun.

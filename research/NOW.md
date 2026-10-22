@@ -2,7 +2,23 @@
 
 ## Current source navigation (read before proposing a missing capability)
 
-**Current installed candidate (build and selected storage integration adopted):**
+**Current installed candidate (build and actual exact-packet import adopted):**
+`product-local/v5-distribution-exact-packet-01/Mathematical Commons v5`, release
+`ffecdc80e2dc57f062aac0aadf37be2a9dadafa24539b34a2e702c0ec24ee4bb`.
+Authoritative129-entry map:
+`experiments/v5-local-checks/distribution-exact-packet-01-input.json`, SHA-256
+`328c21bb585881d654f1a23f1704fbaa277ee865f7adb1250cf6c19b85647561`.
+Exactly six SDK replacements/123 unchanged,108 preparation sources. Root fully
+read/adopts build audit a334d4b3 and installed actual audit b93cca6d. Ordinary
+authenticated discovery -> exact staged packet acquisition -> supplier stop ->
+genuine retained-I verification -> READY interface-only binary_congr import
+passes with clean closure and temporary trust withdrawal;12.1875 knownCPU seconds,
+19.6032358 wall seconds. Four HTTP requests/five charged slots, no supplier
+network after stop. Zero frontend theorem-ancestor proof bytes is not zero
+semantic/certificate work. No new proof, A receipt, independent-host or full-v5
+acceptance is established. All used bytes freeze; do not repeat this operation.
+
+**Preserved managed-storage candidate:**
 `product-local/v5-distribution-managed-storage-01/Mathematical Commons v5`, release
 `811d4a86dd6523a44435ca89a4d7a5eb0367ccca727cdc45a9e095f8f22446e2`.
 Authoritative129-entry map:
@@ -86,6 +102,24 @@ The current installed successor is identified above; no migration or repeat
 payload sweep is selected.
 
 ## Current work
+
+**2026-10-22 bounded enumeration adopted; clean candidate rejection next.**
+Root fully read/adopts independent actual07720320: two new groups PASS/clean,
+64 variants/7027-byte full offer/23HTTP,1.8125 knownCPU seconds. Enumeration
+successor e1e35cec is tested development source, not a changed installation.
+No numerical-bound-only rebuild selected. Separate source argument2d8ccfd8
+supports opt-in clean terminal-certificate nonacceptance before staging/import,
+with all costs retained and no owner resurrection. Implementation selection
+follows exact frontend design; old failure behavior remains unchanged.
+
+**2026-10-22 exact-packet installed adoption; bounded offer enumeration next.**
+Root records adoption of actual b93cca6d (full SHA in EXACT-PACKET-INSTALLED-
+OUTCOME.md); no runtime remains. Fresh custody e1e35cec changes only max_offers
+8->64, preserving default4, old prefixes and16KiB ceiling. Fresh two-group
+controls c8f2bad6 and133-source selector are under independent prelaunch review;
+no new build or mathematical import is selected. Parallel source/theory work
+examines safe candidate-failure isolation before proposing more implementation.
+See OFFER-ENUMERATION-SELECTION and registry/WORK. Full v5 remains active.
 
 **2026-10-22 corrected controls adopted; fresh exact-packet build live.**
 Root fully read/adopts actual186e0091: exactly04/05 pass,1.75knownCPU, clean

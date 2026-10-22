@@ -4,6 +4,22 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 resumed after context handoff. User explicitly says Resume/work in
+parallel; older pause is superseded. Root adopts exact installed b93cca6d and
+updates NOW/CURRENT-DESIGN. storage_launch_review finishes independent enumeration
+source/control/selector review. storage_outcome_audit's two-group c8f2bad6 controls
+are ready, no execution yet. storage_integration_adapter now owns source-only
+CANDIDATE-FAILURE-ISOLATION-DECISION: distinguish untrusted-candidate rejection
+from unsafe owner continuation before proposing a minimal intervention. Root
+owns finite test selection, adoption and Git. No rebuild/proof campaign selected.
+
+2026-10-22 exact installed80425 terminal0/clean, rawCOMPLETED; real worker audit
+belongs to storage_launch_review. Root read author/challenge e159c49a/93dc7413;
+OFFER-ENUMERATION-SELECTION assigns one fresh shared count-bound successor+README
+to storage_integration_adapter, focused controls to storage_outcome_audit, later
+independent source review to storage_launch_review. Root source-map/launch/Git.
+No variant recovery, new cursor/proof or further installation build selected.
+
 2026-10-22 controls02 selection95b18eec terminal0/clean: exactly04/05 pass,
 1.75knownCPU. storage_outcome_audit owns actual controls02 then fresh build audit.
 Root read/adopts installed source reviewf136ed36; storage_launch_review owns
