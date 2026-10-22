@@ -4,6 +4,24 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 root fully read/adopts installed actualc451807d and independent
+priority challenge0d2cddac. Current130-source installation is bd9f161c;
+actual24572/build16553 are terminal and must not restart. Typed implementation,
+independent controls/review and root CLI/wrapper bridge are the active work.
+
+2026-10-22 root resumed from checkpoint under the latest explicit Resume message.
+No pause remains. Combined build audit91639355 is adopted; installed actual24572
+is terminal0/clean and its independent saved-outcome audit belongs to
+storage_launch_review. No rerun. Central source selection is TYPED-PRODUCTION-
+SELECTION: storage_integration_adapter owns typed_production initializer,
+snapshot_adoption/producer/README and TYPED-PRODUCTION-SOURCE;
+storage_outcome_audit owns host_adoption/image_adoption and TYPED-PRODUCTION-
+ARTIFACT-SOURCE; storage_launch_review then owns independent source review and
+test_adoption/controls contract. Root owns selectors, later CLI/wrapper bridge,
+finite runtime decisions, adoption, mutable navigation and Git. No proof/build
+or new installation is funded by this source assignment. All canonical paths
+and used evidence remain unchanged.
+
 2026-10-22 controls auditc941503b and actual-source reviewcacf4391 adopted.
 Combined build1329ea5e live session16553, input25e7c849; outcome_audit owns
 its terminal review. Actual sources3230440a/f5ed6e94 remain unchanged, awaiting

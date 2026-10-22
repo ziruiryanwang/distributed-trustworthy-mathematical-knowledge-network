@@ -2,7 +2,22 @@
 
 ## Current source navigation (read before proposing a missing capability)
 
-**Current installed candidate (build and actual exact-packet import adopted):**
+**Current installed candidate (combined build and actual continuation adopted):**
+`product-local/v5-distribution-candidate-preflight-01/Mathematical Commons v5`,
+release `bd9f161c43551a578605d5e0c7da34c332cb838c1c70ddb859d2ebd0062b8f03`.
+Authoritative130-entry map:
+`experiments/v5-local-checks/distribution-candidate-preflight-01-input.json`,
+SHA-256 `25e7c849e41f394498e21a60cc7800ecffb67b0cee1b3911d7164977ce4f2364`.
+Six SDK replacements/one addition/123 unchanged;109 preparation pins. Root fully
+read/adopts build91639355 and installed actualc451807d. One genuine retained-I
+verification, digest-correct malformed peer rejection before custody/verification,
+and offline continuation of the original stage/context pass with clean closure
+and exact temporary-trust withdrawal.26.0 knownCPU/30.7498198wall seconds.
+132 original/copied operation sources match. No second verifier, authority reset
+or private-state repair. All used bytes are frozen; do not rerun. This is not
+new aggregate certification, general failure recovery or full-v5 acceptance.
+
+**Preserved exact-packet candidate:**
 `product-local/v5-distribution-exact-packet-01/Mathematical Commons v5`, release
 `ffecdc80e2dc57f062aac0aadf37be2a9dadafa24539b34a2e702c0ec24ee4bb`.
 Authoritative129-entry map:
@@ -102,6 +117,34 @@ The current installed successor is identified above; no migration or repeat
 payload sweep is selected.
 
 ## Current work
+
+**2026-10-22 installed continuation adopted; renewable certification remains central.**
+Root fully read/adopts actualc451807d and priority challenge0d2cddac. Navigation
+now points to the130-source preflight distribution above. Completed operation
+24572 and build16553 are closed, not live work. Typed source authors/reviewer
+continue in parallel; root also authors explicit typed operator/wrapper
+successors because the old CLI hardcodes the old owner. No proof funded.
+
+**2026-10-22 renewable-certification implementation selected; no proof funded.**
+The user explicitly resumes parallel highest-payoff work. Root selects
+`TYPED-PRODUCTION-SELECTION.md` in the current cycle: honest typed image/host
+adoption, reuse of retained general36 execution, and existing generic lifecycle
+for a later A-parent successor. integration_adapter owns producer/snapshot;
+outcome_audit owns host/image adoption; launch_review independently reviews
+sources/controls after finishing the installed actual audit. Root owns finite
+selection/adoption/Git. FIRST148 and support30 investment failures stay failed;
+the retained general arm's successful execution is a distinct capability input.
+No new guest execution/build, proof, RAM survey, or repeated passing test.
+
+**2026-10-22 combined build adopted; installed actual terminal, audit pending.**
+Root fully read/adopts build outcome91639355: releasebd9f161c, input25e7c849,
+130 exact SDK sources/109 preparation pins, clean closure,62.890625 knownCPU.
+The single installed malformed-peer continuation24572 also terminated0/clean:
+raw COMPLETED, one genuine I admission, one malformed peer rejection, preserved
+stage/context offline continuation,26.0 knownCPU seconds. launch_review owns
+`CANDIDATE-PREFLIGHT-ACTUAL-OUTCOME.md`; actual adoption remains pending that
+independent review. Both operations and their used inputs stay frozen; do not
+restart either historical session. No genuine aggregate receipt exists yet.
 
 **2026-10-22 preflight controls adopted; combined build selected once.**
 Root fully read/adopts control outcomec941503b and actual-source reviewcacf4391.

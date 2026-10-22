@@ -4,11 +4,26 @@ Updated: 2026-10-22. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
-The current installed candidate is the129-source exact-packet distribution
-identified at [NOW](research/NOW.md). Its genuine supplier-offline certificate
-verification and interface-only import have an independently adopted outcome.
-Earlier source cuts and evidence
-below remain historical; do not implement missing features inferred from them.
+The current installed candidate is the130-source preflight distribution
+identified at [NOW](research/NOW.md), releasebd9f161c. Its combined build and
+[installed actual continuation](research/cycles/v5-2026-10-20/CANDIDATE-PREFLIGHT-ACTUAL-OUTCOME.md)
+are independently adopted: a malformed peer candidate is rejected without
+discarding the client's existing valid mathematical work, which remains usable
+offline. One genuine retained-I verification; no authority reset or second
+verification; clean closure in26.0 known CPU seconds. It preserves the already
+implemented discovery, exact acquisition and interface-only reuse paths.
+
+The next central implementation is
+[renewable typed certification](research/cycles/v5-2026-10-20/TYPED-PRODUCTION-SELECTION.md).
+It reuses the retained general36 execution and existing proof scheduler, adding
+honest typed image/build/snapshot adoption and an ordinary pinned operator.
+The eventual endpoint is a genuine A*(U), checked use of U, then genuine A*(V)
+whose frontier is the earlier receipt and membership rather than U's proof
+ancestry. No aggregate receipt exists yet; no proof is funded by this source
+selection. The prior failed optimization screens remain failed. This closes
+a missing capability if successful, not a proof of economic or sustained growth.
+Earlier source cuts and dated pending statements below remain historical; do
+not implement missing features or restart operations inferred from them.
 
 **Exact known-packet acquisition is implemented and locally integrated**, including
 the ordinary staged semantic reader and placement. The [selected change](research/cycles/v5-2026-10-20/EXACT-PACKET-IMPLEMENTATION-SELECTION.md)

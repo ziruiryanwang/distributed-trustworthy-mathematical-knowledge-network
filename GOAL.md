@@ -1,5 +1,12 @@
 # Goal: a usable mathematical commons architecture and software
 
+**2026-10-22 controlling resumption:** the user's latest direct instruction is
+"Resume. Work on tasks in parallel with the highest payoffs." Work is ACTIVE;
+all earlier pauses below are historical. The unchanged final-v5 objective is
+not complete. Follow the current source selections in `research/NOW.md` and
+the disjoint assignments in `research/registry/WORK.md`; no completed campaign
+or old allowance is restarted by this resumption.
+
 **2026-10-17 local-PC resumption:** the user resumes the unchanged final v5
 objective on the current PC, reserving hardware upgrades and cloud computing
 for later. The pause below is superseded. Prioritize decision-changing source
