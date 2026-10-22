@@ -118,6 +118,28 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-22 same-lineage certificate remainder selected and launched.**
+Root adopted prefix outcome77a92b4f/remainder review39f02969. Preparation01
+refused before writing documents because PowerShell Decimal spelling differed
+from Python binary64; used01 remains frozen. Changed-boundary review7e93c64a
+is fully read/adopted; successor02 prepared selectionc4057ee0/requestc3f5e895.
+Root inspected32 unchanged sources/110runtime pins, exact stable entry/profile,
+all five retained checkpoints, prior5c515f1a and unchanged budget/carry. Launched
+the104 missing calls once under session64938; no proof replay or renewed allowance. Serial heavy
+worker only. See TYPED-REMAINDER-PREPARATION-FAILURE and REMAINDER-DECISION.
+Root fully read/adopts typed_renewal implementation source reviewcc537fa8;
+author independently checks the six new inert controls and prepares actual A-only
+selector. Existing installed99b9 default remains unchanged.
+
+**2026-10-22 prefix actual audit adopted; no proof repetition.**
+Root fully read/adopts outcome77a92b4f. Five exact retained checkpoints and clean
+closure are established;1775.28125knownCPU/267.9347789wall, no final receipt.
+The source-only remainder selector awaits independent review before preparation.
+integration_adapter now prepares the later ordinary A-only U->V selector, using
+current130 SDK plus owner2 and explicitly selected typed-compatible verification;
+the installed99b9 default is not silently changed. launch_review completes new
+typed_renewal source controls; outcome_audit next reviews controls/selector.
+
 **2026-10-22 first-five typed proof stages terminal; independent audit pending.**
 Session93003 exited0/clean. Inner5c515f1a reports five PASS_BOUND_HOST_STAGE,
 five retained checkpoints, no application receipt; outer4a03ada2 and owner5608f0b8

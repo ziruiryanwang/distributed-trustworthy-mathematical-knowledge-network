@@ -20,8 +20,12 @@ honest typed image/build/snapshot adoption and an ordinary pinned operator.
 The eventual endpoint is a genuine A*(U), checked use of U, then genuine A*(V)
 whose frontier is the earlier receipt and membership rather than U's proof
 ancestry. A separately funded first-five proof prefix has completed with clean
-closure and retained checkpoints; its independent audit is pending. No aggregate
-receipt exists yet, and further dispatch needs a separate same-lineage selection.
+closure and retained checkpoints; its independent outcome77a92b4f is adopted.
+The104 remaining stages run under the same allowance, retaining all five results.
+An initial preparation-only Decimal comparison refusal is preserved and corrected
+in separately reviewed successor02; it launched no proof. No aggregate receipt
+exists yet. The ordinary A-only U-to-V adapter is source-reviewed, with focused
+controls pending; this keeps U's proof ancestry out of the new consumer.
 The prior failed optimization screens remain failed. This closes
 a missing capability if successful, not a proof of economic or sustained growth.
 Earlier source cuts and dated pending statements below remain historical; do

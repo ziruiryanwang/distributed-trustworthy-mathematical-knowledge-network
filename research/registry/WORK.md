@@ -4,6 +4,14 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 remainder64938 live, exact selectionc4057ee0/requestc3f5e895,
+104 missing calls under original profile/session/allowance; prefix five reused.
+Preparation01 failed before documents from Decimal comparison; successor02
+review7e93c64a adopted and documents inspected. Used01 remains frozen.
+integration_adapter reviews renewal controls and prepares actual selector;
+launch_review sourcecc537fa8 complete; outcome_audit can review control selector
+and later actual selector. Root owns live proof/adoption/Git. No second heavy job.
+
 2026-10-22 prefix93003 terminal0/clean, five retained checkpoints, no receipt.
 outcome_audit owns saved prefix outcome then Select-TypedProductionRemainder01
 source review. Root-authored remainder selector is unused/unexecuted; later
