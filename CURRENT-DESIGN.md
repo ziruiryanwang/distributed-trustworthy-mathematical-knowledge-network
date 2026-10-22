@@ -41,6 +41,14 @@ separates malformed peer bytes from fatal authority/storage/resource failures
 before custody or verification, with explicit successful client socket closure.
 Its source implementation and independent controls are underway; no new runtime
 or broader transport-recovery claim follows from the earlier test.
+The five focused preflight controls now have an adopted independent actual
+[outcome](research/cycles/v5-2026-10-20/CANDIDATE-PREFLIGHT-CONTROLS-OUTCOME.md):
+exact selected source bindings and clean closure,2.0 knownCPU seconds, with
+explicit simulated issuer/storage boundaries. A single combined distribution
+build is selected in [the decision](research/cycles/v5-2026-10-20/CANDIDATE-PREFLIGHT-BUILD-DECISION.md).
+The genuine installed malformed-peer continuation source is reviewed; execution
+and adoption remain separate. These changes preserve, not replace, the existing
+mathematical acceptance gates and do not yet change the installed candidate above.
 [Complete custody export](research/cycles/v5-2026-10-20/SEALED-CUSTODY-EXPORT-CONTRACT.md)
 is a future design, lower priority than this concrete acquisition defect.
 

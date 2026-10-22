@@ -103,6 +103,28 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-22 preflight controls adopted; combined build selected once.**
+Root fully read/adopts control outcomec941503b and actual-source reviewcacf4391.
+Build decision selects input25e7c849/selection1329ea5e, launched under session16553;
+storage_outcome_audit will check terminal composition/closure. Six replacements,
+one helper,123 unchanged SDK sources; no native/guest/verifier compilation.
+Actual owner3230440a/selectorf5ed6e94 pass independent source review but their
+runtime awaits build adoption and a separate decision. Parallel next-core payoff
+work belongs to integration_adapter with launch_review challenge, not another
+safety-feature expansion. No proof or repeated test selected.
+
+**2026-10-22 resumed parallel continuation; no repeated controls.**
+The one preflight controls operation12d76502 has terminated0/clean: five groups,
+no failures/errors/skips,2.0 knownCPU seconds and6.3376009 wall seconds. Root
+read the actual result and stderr; independent saved-outcome audit is assigned
+to storage_outcome_audit before adoption. Product/control bytes now freeze.
+Root fully read/adopts source-only build-selector review6ddf1c10; no build yet.
+storage_launch_review reviews the unused actual owner3230440a/selectorf5ed6e94;
+storage_integration_adapter handles findings and a source-led next-core payoff
+decision. One combined installed integration is planned, not separate rebuilds
+for enumeration/admission/preflight. No proof, RAM survey or old-state migration.
+Latest Resume/work-in-parallel instruction remains controlling; goal is active.
+
 **2026-10-22 genuine candidate refusal and offline continuation adopted.**
 Root fully read/adopts actual8c166c3c: exactly two real I calls, original warrant/
 READY context/unconsumed stage preserved through clean nonacceptance, then offline

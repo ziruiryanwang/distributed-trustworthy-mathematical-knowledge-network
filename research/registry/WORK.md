@@ -4,6 +4,28 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 controls auditc941503b and actual-source reviewcacf4391 adopted.
+Combined build1329ea5e live session16553, input25e7c849; outcome_audit owns
+its terminal review. Actual sources3230440a/f5ed6e94 remain unchanged, awaiting
+installed gate. Integration_adapter owns POST-PREFLIGHT-PRIORITY and
+launch_review its independent challenge; no runtime/proof authority there.
+
+2026-10-22 continuation after compaction. Root read completed preflight controls
+RESULT/stderr (5/5,2.0 knownCPU/clean); storage_outcome_audit owns saved outcome,
+then combined build audit. storage_launch_review owns independent unused actual
+owner/selector review; storage_integration_adapter handles actual-source findings
+and POST-PREFLIGHT-PRIORITY (concrete next central seam, no duplicate facade/cache
+or renewed proof tuning). Root owns build/actual decisions, navigation and Git.
+No controls rerun, source revision of used bytes or new proof/RAM campaign.
+
+2026-10-22 actual01 adoption committed288355c. Preflight product sources are
+authored; launch_review tightens five-group controls and reviews product;
+outcome_audit reviews fixture/selector. Root selects source-only combined
+installed-owner/request preparation under CANDIDATE-PREFLIGHT-INTEGRATION-
+SELECTION for integration_adapter while those reviews finish. Root owns the
+130-source distribution selector. No build, new test run or actual runtime yet.
+Latest user Resume remains controlling; old pause paragraphs are historical.
+
 2026-10-22 resumed parallel implementation. Actual-I operation03a132b4 completed
 once, terminal0/clean; root fully read/adopts actual outcome8c166c3c. Independent
 preflight boundary6307aa6f/challenge8a2ce373 are read: root now selects the three
