@@ -86,6 +86,14 @@ and no-host complete-path quotes. Reuse unchanged scheduler/native tests rather
 than repeating them. No runtime, installation or production prefix is selected
 by this source assignment.
 
+**Later source correction, before any typed runtime:** direct inspection of
+aggregate_small/producer.py establishes that full-path fit is reported by
+`_envelope`, not enforced as a prerequisite by `_run`. Earlier wording above
+and in the priority notes overstated the inherited guard. Root retains
+full-path sufficiency as an explicit prospective funding policy. See
+TYPED-PRODUCTION-OPERATOR-SOURCE.md for the exact source argument; the controls
+must expect an insufficient quote's flag to be false, not necessarily refusal.
+
 ## Root-owned ordinary operator bridge (source only)
 
 The old aggregate_small/operator.py constructs the old owner directly, and

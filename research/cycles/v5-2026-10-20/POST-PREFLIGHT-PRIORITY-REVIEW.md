@@ -56,3 +56,19 @@ The selected implementation is therefore appropriately central and nonduplicativ
 Actual preflight24572 is separately audited in CANDIDATE-PREFLIGHT-ACTUAL-OUTCOME;
 the priority memo's earlier pending-integration language is historical. Same-image
 renewal, general benefit, independent deployment and final release remain open.
+
+## Explicit subsequent source correction
+
+Root's direct examination of the inherited scheduler corrects this review's
+earlier claim that the planner requires full missing-graph funding. `_envelope`
+computes `full_path_fits_requested_envelopes`; `_request`/`preflight` return it,
+and `_run` does not consume that flag. Execution separately enforces actual
+remaining allowances and next-stage reservations. Thus a small allowance can
+receive a structurally valid quote with fit=false; this is not a product refusal.
+
+The source arithmetic and selected full-path allowance are unchanged. Funding
+the complete graph before a selected prefix is **root's explicit launch policy**,
+not an inherited scheduler enforcement guarantee. The focused controls require
+the selected positive quote to fit and a deliberately underfunded quote to report
+false without claiming a mathematical failure or new authorization. The earlier
+paragraph is retained as the corrected record, not silently used as evidence.

@@ -118,6 +118,26 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-22 typed-adoption controls independently adopted.**
+Root fully read/adopts saved outcome2d2e40ac: ten tests,zero errors/failures/skips,
+no dispatch, genuine retained host/image/general36 constructor and full109-call
+quote, clean closure,7.625 knownCPU/14.3826542wall seconds. Exact33-source frozen
+installation is typed-production-controls-01/sources, profile1242b0a8, request
+c420af6e, selectionf30248a9. No proof exists yet. Root authored the prospective
+finite five-node prefix selector/funding note; launch_review reviews it before
+any preparation/dispatch. integration_adapter prepares only the ordinary U->V
+reuse source plan; outcome_audit owns later saved evidence. No controls rerun.
+
+**2026-10-22 typed production source complete; no-host review before execution.**
+Core29 source closure, ordinary typed operator and finite wrapper are authored.
+Root owns Select-TypedProductionControls01; outcome_audit reviews that selector,
+launch_review reviews product/entry and authors focused controls, integration_adapter
+independently reviews those controls. Root has read all product/controls sources;
+static syntax checks pass without product imports. Source review corrected the
+full-graph claim: inherited scheduler reports fit, while root's funding policy
+will require it; there is no hidden enforcement guard. See OPERATOR-SOURCE.
+No test/selector/proof/build has executed in this lane yet.
+
 **2026-10-22 installed continuation adopted; renewable certification remains central.**
 Root fully read/adopts actualc451807d and priority challenge0d2cddac. Navigation
 now points to the130-source preflight distribution above. Completed operation

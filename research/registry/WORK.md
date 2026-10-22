@@ -4,6 +4,15 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 typed controls62445 completed; root read/adopts outcome2d2e40ac,
+ten tests7.625knownCPU/clean. Used typed sources and controls now freeze.
+storage_launch_review independently reviews root's Select-TypedProductionPrefix01
+for one prospective useful five-node prefix; root owns finite funding/launch.
+storage_integration_adapter owns TYPED-RENEWAL-ORDINARY-PLAN, source-only exact
+future A*(U) receiver/use/V preparation path without ancestral witness leakage.
+storage_outcome_audit owns later actual evidence when selected. No replay of
+controls, old layouts or proof funding is implied by passing adoption.
+
 2026-10-22 root fully read/adopts installed actualc451807d and independent
 priority challenge0d2cddac. Current130-source installation is bd9f161c;
 actual24572/build16553 are terminal and must not restart. Typed implementation,
