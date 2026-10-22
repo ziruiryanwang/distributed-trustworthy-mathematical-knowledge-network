@@ -4,6 +4,12 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 renewal controls01 failed before tests at missing pure preparation
+module; clean exit1 and all used sources freeze. launch_review owns new
+typed_renewal/controls02.py with two existing helper files; root selector02;
+outcome_audit owns saved failure and independent successor closure review.
+integration_adapter continues actual selector source. Proof64938 remains live.
+
 2026-10-22 remainder64938 live, exact selectionc4057ee0/requestc3f5e895,
 104 missing calls under original profile/session/allowance; prefix five reused.
 Preparation01 failed before documents from Decimal comparison; successor02

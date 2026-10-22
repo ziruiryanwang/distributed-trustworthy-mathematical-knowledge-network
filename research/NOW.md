@@ -118,6 +118,26 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-22 controls01 failed in import closure before any test.**
+Exact selection3a91f5fd ran once and exited1/clean: ModuleNotFoundError for
+aggregate_claims.prepare_mixed; no test result/suite execution.1.828125knownCPU/
+6.6248391wall seconds. Current130 intentionally excludes producer preparation;
+this is a control-harness closure error, not a new mathematical result. Used
+product/helper/control01/selector01 sources freeze. Root selects new controls02
+and selector02 only: add existing pure prepare_mixed2d03b635/inputd40b611e,
+retain current130 and the reviewed adapter unchanged. launch_review authors
+harness; outcome_audit reviews failure/new closure; root selector. Actual
+selector authoring continues; proof64938 continues unchanged from its checkpoints.
+
+**2026-10-22 ordinary renewal controls selected once.**
+Root fully read/adopts implementation reviewcc537fa8, independent controls review
+e21842e6 and selector review6f342fc3; root also read actual code/control sources.
+Select preparation7ed8fcae once with initb35e6168/sourcefc5902f7/owner2bae25ae/
+controls94659d28, then inspect135-source/32-runtime map and dispatch one finite
+30CPU/90wall/256MiB control job. Explicit doubles are not mathematical evidence.
+The only heavy worker remains proof64938. Actual U->V selector/review proceed
+in parallel, no genuine consumer execution before a resolved U receipt.
+
 **2026-10-22 same-lineage certificate remainder selected and launched.**
 Root adopted prefix outcome77a92b4f/remainder review39f02969. Preparation01
 refused before writing documents because PowerShell Decimal spelling differed
