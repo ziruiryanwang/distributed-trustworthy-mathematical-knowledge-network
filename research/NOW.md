@@ -2,7 +2,20 @@
 
 ## Current source navigation (read before proposing a missing capability)
 
-**Current installed candidate:**
+**Current installed candidate (build and selected storage integration adopted):**
+`product-local/v5-distribution-managed-storage-01/Mathematical Commons v5`, release
+`811d4a86dd6523a44435ca89a4d7a5eb0367ccca727cdc45a9e095f8f22446e2`.
+Authoritative129-entry map:
+`experiments/v5-local-checks/distribution-managed-storage-01-input.json`, SHA-256
+`a629df82718f6a9d0560cacbfdc459739c15a56a1f2a46dd87929a1db51c22a4`.
+Root read/adopts actual build527639b6 and controls9e3a0ff3. Exactly12 replacements,
+two helpers added,115 SDK rows unchanged;108 preparation rows. No old-state
+migration. Installed boundary f19f4a73 completed PASS/clean; root fully read/adopts
+independent outcome288ef066 (33.421875 known CPU seconds). Both intended failures
+remain failed/charged. Node stderr868 bytes have no persisted text; no warning-free
+claim. This is not final-v5 acceptance; do not repeat the completed operation.
+
+**Preserved observed candidate:**
 `product-local/v5-distribution-managed-observed-01/Mathematical Commons v5`, release
 `7381fa03ba8d02017b3f96ff589eca468cdba8c2aa9c4b0a4c1ca4ad968dc344`.
 Its authoritative127-entry map is
@@ -73,6 +86,41 @@ The current installed successor is identified above; no migration or repeat
 payload sweep is selected.
 
 ## Current work
+
+**2026-10-22 storage adopted; direct exact acquisition is next priority.**
+Root fully read/adopts installed outcome288ef066; no runtime remains. Guard
+passes in canonical root. Source decision89d0f472 shows existing exact packet
+route/primary-key retrieval blocked only by client offer membership and placement
+first-four discovery. Independent source challenge checks a minimal explicit
+known-identity acquisition seam before implementation selection. Export reviewer
+finishes a bounded inventory/cutover contract, including large/resumable scope;
+that design does not displace core acquisition. No repeated proof/RAM campaign,
+old installation mutation, new transport or migration is selected.
+
+**2026-10-22 installed storage terminal; next design avoids duplicate transport.**
+Installed86319 terminal0/clean, rawPASS for all four expected commands;
+33.421875knownCPU/50.2875111wall. Root read actual negative errors, genuine
+CLOSED report and separate session2 QUIESCED status. Independent outcome audit
+is pending. Node stderr868 bytes were counted but not persisted; no warning-free
+claim or repeat is selected. Upgrade note2331e8e3 is fully read: selected-set
+rehosting already exists; complete cutover lacks sealed inventory/coverage.
+Source reviewer defines only that next contract, no implementation/runtime yet.
+
+**2026-10-22 actual installed storage test live.**
+Root fully read/adopts build527639b6/source47c93cbf/selector26946a6f. One fresh
+four-command public integration selectionf19f4a73/input08995348 live86319;
+adaptere0b96956 and all used inputs now freeze. Outcome agent audits terminal
+saved evidence only. Source reviewer investigates the existing side-by-side
+upgrade path without implementation; author completed operator README c299cdfd.
+No proof, external deployment, private-key read or reclamation is selected.
+
+**2026-10-22 storage build terminal; public installed gate prepared.**
+Build4df4b09b terminal0/clean, release811d4a86/inputa629df82,9874 files/
+842723052 bytes. storage_outcome_audit checks actual map/result; no payload
+resweep. Root read full installed adaptere0b96956 and plan a7a74b97; independent
+source/selector reviews are being sealed. MANAGED-STORAGE-INSTALLED-DECISION
+conditions one four-command public run on adoption of those audits. No service
+is live. Integration and controls checkpoint committed20286da; goal unfinished.
 
 **2026-10-22 controls terminal; one fresh storage build live.**
 Exact Python03f55573 and Nodea222a507 controls each passed seven groups and

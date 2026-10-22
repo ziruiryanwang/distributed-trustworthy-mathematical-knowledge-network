@@ -4,6 +4,28 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 root fully read/adopts installed288ef066 (no rerun). Author completed
+EXACT-PACKET-ACQUISITION-DECISION89d0f472; outcome agent now independently
+challenges its actual source/security/accounting boundaries in
+EXACT-PACKET-ACQUISITION-CHALLENGE. Reviewer completes source-only
+SEALED-CUSTODY-EXPORT-CONTRACT, including resumability alternatives. Root owns
+selection, integration and Git; no new runtime/product edit selected yet.
+
+2026-10-22 installed86319 terminal0/clean/rawPASS, actual outcome agent audits
+without DB/key-content reads. Source reviewer now owns focused
+SEALED-CUSTODY-EXPORT-CONTRACT after root read upgrade2331e8e3. No new code,
+transport, proof, migration or runtime selected. Root adopts outcome/Git next.
+
+2026-10-22 actual installed selectionf19f4a73/input08995348 live86319; build
+527639b6 and source47c93cbf/selector26946a6f fully read/adopted. Outcome agent
+audits after terminal notice. Source reviewer assesses one existing upgrade
+handoff question, no implementation. Author README done. Root launch/adoption/Git.
+
+2026-10-22 build58636 terminal0/clean/release811d4a86. Outcome agent audits
+saved exact map, source reviewer seals adapter/selector reviews, author adds
+minimal operator storage-profile README without product-code edits. Root read
+adapter/plan and recorded conditional installed gate; no service launched.
+
 2026-10-22 controls03f55573/a222a507 terminal0/clean/seven groups each.
 Actual audit9e3a0ff3 fully read/adopted. storage_outcome_audit audits build after root
 terminal notice. Build4df4b09b/inputa629df82 live58636. Integration author owns
