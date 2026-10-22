@@ -4,6 +4,24 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 resumed parallel implementation. Actual-I operation03a132b4 completed
+once, terminal0/clean; root fully read/adopts actual outcome8c166c3c. Independent
+preflight boundary6307aa6f/challenge8a2ce373 are read: root now selects the three
+fresh logical-file successor in CANDIDATE-PREFLIGHT-SELECTION. Author is
+storage_integration_adapter; controls and independent product review belong
+to storage_launch_review. storage_outcome_audit independently reviews the new
+controls/selector in CANDIDATE-PREFLIGHT-FIXTURE-REVIEW. Root owns finite
+execution/adoption/Git and also reviews controls before selection.
+No repeat, proof, full rebuild, old-state change or extra SDK module selected.
+
+2026-10-22 candidate controls actualf8c3dfcb fully read/adopted, committededf3638.
+Actual adapter/selector authoring and independent review remain central. In spare
+parallel capacity storage_outcome_audit owns source-only CANDIDATE-PREFLIGHT-
+BOUNDARY: can malformed peer data be isolated before verifier/state mutation,
+without swallowing authority/storage/resource failures? No implementation or
+new runtime is selected by that investigation; actual continuation outcome
+audit takes priority when available. Root preserves all used sources/evidence.
+
 2026-10-22 controlsdd27460f terminal0/clean, six groups rawPASS. Root has read
 actual stderr/result and source review65d45512; storage_outcome_audit now owns
 CANDIDATE-ADMISSION-CONTROLS-OUTCOME. All used product/control files frozen.

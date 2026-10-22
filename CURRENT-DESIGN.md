@@ -31,9 +31,16 @@ The next integration is [explicit terminal-candidate trials](software/v5/candida
 Their reviewed implementation can preserve prior valid work after rigorously
 clean nonacceptance, without weakening positive checking or reviving failed
 owners. The six focused control groups passed once and their actual outcome is
-independently adopted; the genuine-I continuation boundary remains pending. Final
+independently adopted; the [genuine-I continuation](research/cycles/v5-2026-10-20/CANDIDATE-ADMISSION-ACTUAL-OUTCOME.md)
+also passes: prior live work survives real receipt nonacceptance and is used
+offline without a third verification or any further supplier request. Final
 census liveness was corrected before execution. No new proof or large rebuild
 is selected; these development sources do not modify the installed candidate.
+The next [selected narrow successor](research/cycles/v5-2026-10-20/CANDIDATE-PREFLIGHT-SELECTION.md)
+separates malformed peer bytes from fatal authority/storage/resource failures
+before custody or verification, with explicit successful client socket closure.
+Its source implementation and independent controls are underway; no new runtime
+or broader transport-recovery claim follows from the earlier test.
 [Complete custody export](research/cycles/v5-2026-10-20/SEALED-CUSTODY-EXPORT-CONTRACT.md)
 is a future design, lower priority than this concrete acquisition defect.
 

@@ -103,6 +103,19 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-22 genuine candidate refusal and offline continuation adopted.**
+Root fully read/adopts actual8c166c3c: exactly two real I calls, original warrant/
+READY context/unconsumed stage preserved through clean nonacceptance, then offline
+cached/staged admission and context advancement without another verifier/network
+call. Clean final closure and temporary trust withdrawal;23.59375knownCPU seconds.
+Used 130-source development composition and actual evidence freeze; installed
+exact-packet129 remains unchanged. Do not rerun. This is not growth or full-v5
+acceptance, and inherited per-socket cleanup limits remain. Root read source
+boundary6307aa6f/challenge8a2ce373 and selected three fresh preflight successors:
+author storage_integration_adapter; independent product review/controls
+storage_launch_review; root control review/selector/adoption. No new SDK module,
+proof, full rebuild or runtime selected yet. See CANDIDATE-PREFLIGHT-SELECTION.
+
 **2026-10-22 candidate-admission controls independently adopted.**
 Root fully read/adopts actualf8c3dfcb: six groups PASS,80 report refusals/eight
 post-census denials,137 source/130 staged/30 runtime identities match, clean
