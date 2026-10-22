@@ -118,6 +118,63 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-22 release component outcome adopted; public integration continues.**
+Root fully read/adopts independent actual outcome62f94ab0:6 groups/one real
+relocated constructor and close,56 operative pins/95,215,546B,27 exact origins,
+terminal0/clean,3.28125 knownCPU/5.6039140997wall. No host/snapshot/proof calls.
+All used component/control/stager/selector bytes freeze; no rerun. Root also
+read/adopts compatibility8e1f418d: preserve current verifierec6474cd and bind
+its three existing helpers before imports. Dedicated installed producer launch
+is preferred over changing generic client.boot; exact new evidence/profile
+contract and disjoint implementation selection follow the design review.
+
+**2026-10-22 component01 staged; small controls selected once.** File-only
+preparation63081 exited0 with PREPARATION1c34ed7a, profile d08c46b2,
+manifestb0e2145a, descriptorfde60e82;56 operative pins/95,215,546B,
+27 sources,621 payload rows/108,429,903B, no failure override. The initial
+PowerShell invocation was refused before script loading by execution policy;
+the actual staging used the permitted process-local Bypass, no persistent change.
+Root inspected exact selectiona04f588f:4 copied sources/58 runtime pins and
+45CPU/120wall/384MiB/one process. Dispatch once using the relocated interpreter;
+no actual host/snapshot/proof. launch_review owns independent saved outcome.
+
+**2026-10-22 integration conflict found before product assembly.** The producer
+closure/current130 source comparison reports one divergent shared module:
+admission.verifier, historical9f77bd17 versus current candidate-awareec6474cd.
+Do not overwrite the current verifier or blindly union maps. The raw union needs
+142 logical files (12 additions), including aggregate_small.operator, not141.
+outcome_audit traces semantic/import compatibility; integration_adapter weighs
+that finding in the public producer design. No full distribution assembly selected.
+
+**2026-10-22 release component preparation selected.** Root fully read/adopts
+combined source review6d78f8d3 and all new control/stager/selector source.
+Select file-only preparer4a84c649 with init56653258, producer4396de09,
+adoption62255a98 and entryd1c5507f, exactly once at the fixed fresh component01.
+Preserve partial output and failure override if preparation fails. After actual
+pin/census inspection, selector60113530 may prepare the six-group controlscdeea379
+allocation45CPU/120wall/384MiB/one process; inspect its bytes before launch.
+No snapshot, host, proof, full distribution or mathematical admission selected.
+
+**2026-10-22 resumed parallel release integration.** Root fully read/adopts
+release design343c6a91, corec5bd26f6 and entryd3d1ced6 source reviews. Source
+adoption is not runtime qualification. The one new component stager and six
+changed-boundary control groups await final review/selection; no earlier tests
+repeat. The selector now refuses an overriding PREPARATION-FAILED marker.
+integration_adapter investigates actual public-launch evidence/source origins;
+outcome_audit compares producer and current130 source compatibility; launch_review
+finishes independent stager/control review. Root owns finite execution/adoption.
+U64938 remains running without a terminal receipt observation; no second heavy
+worker, source/profile change, allowance renewal or proof restart is selected.
+
+**2026-10-22 release-owned producer successor selected, source only.**
+Root read/adopts boundary1af2cc61 and records RELEASE-PRODUCER-SELECTION.
+New release_production core belongs to integration_adapter; root owns one
+explicit four-action command entry; launch_review independently checks design,
+core and entry; outcome_audit owns minimal new controls. New schemas and a
+compact owner-adopted runtime closure replace repeated historical build adoption.
+Existing scheduler, mathematics, caps and profile1242/live proof64938 stay intact.
+No actual assembly/snapshot/proof or release publication is selected.
+
 **2026-10-22 lifecycle command controls adopted.**
 Root fully read actual independent outcome841e03c4: exact three-source bindings,
 five groups, zero failures/errors/skips/forbidden calls, terminal0/clean;

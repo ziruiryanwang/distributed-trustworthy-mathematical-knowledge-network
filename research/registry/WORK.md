@@ -4,6 +4,36 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 component01/control01 completed and outcome62f94ab0 adopted;
+launch_review actual audit is complete. integration_adapter finalizes minimal
+public launcher/profile/evidence contract; outcome_audit independently challenges
+that contract after completing compatibility8e1f418d. Root owns launcher/builder
+integration selection, source-preserving successor cut, finite runtime and Git.
+Current verifier must not regress; old six-group control campaign stays frozen.
+
+2026-10-22 root adopts release design/core/entry reviews and owns one prospective
+file-only component preparation plus narrow controls after final review.
+launch_review owns combined controls/stager/selector review. integration_adapter
+owns source-only RELEASE-PRODUCER-PUBLIC-LAUNCH (real public evidence and origins);
+outcome_audit owns RELEASE-PRODUCER-SOURCE-COMPATIBILITY against current130, then
+actual control outcome when available. No agent has runtime or Git authority.
+The current user Resume supersedes historical pauses. U64938 is untouched.
+
+2026-10-22 new operator authored, initial3d783fe8 corrected before use tod1c5507f
+for complete release-root output containment. Core author/reviewer also agree
+aggregate _install must be adopted release root, distinct from support's base;
+unchanged host arguments are absolute and actual cwd is explicitly bound.
+Root delegates source-only Prepare-ReleaseProducerComponent01.ps1 to
+integration_adapter after core completion: exact complete Python subtree and
+operative payloads in a fresh component fixture, not another general installer.
+Controls reuse frozen21c26ced fixture helpers only; old five tests never rerun.
+
+2026-10-22 RELEASE-PRODUCER-SELECTION assigns new release_production init,
+producer,adoption,README to integration_adapter; new operator.py to root;
+independent design/core/entry reviews to launch_review; minimal control contract
+and controls.py to outcome_audit after schema agreement. Root owns later runtime,
+installation, funding, adoption and Git. All used predecessors and U64938 intact.
+
 2026-10-22 root adopted entrybf6227a8 and controls/selector ef7ca932; owns one
 small lifecycle-entry controls preparation/inspection/dispatch and Git checkpoint.
 outcome_audit independently checks constructor315/snapshot256 pin boundary in
