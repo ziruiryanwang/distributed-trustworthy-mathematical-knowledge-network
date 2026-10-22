@@ -20,15 +20,20 @@ passes authenticated discovery, exact acquisition, supplier shutdown, genuine-I
 verification and READY interface-only import in12.1875 knownCPU seconds. It is
 not a new proof-production or general growth experiment.
 
-Next is [bounded offer enumeration](research/cycles/v5-2026-10-20/OFFER-ENUMERATION-SELECTION.md):
+The tested development [bounded offer enumeration](research/cycles/v5-2026-10-20/OFFER-ENUMERATION-SELECTION.md) lets clients
 explicitly request up to the existing64 local packet variants under the same
 16KiB ceiling, instead of only the first8. Default4 and existing callers remain
 unchanged; it requires a compatible configured peer and gives no global coverage
 or mathematical validity claim. The one-file successor's [two focused controls](research/cycles/v5-2026-10-20/OFFER-ENUMERATION-CONTROLS-OUTCOME.md)
 pass with64 variants in7027 bytes and all selected refusals. It is a tested
 development change pending a justified combined integration, not a new install.
-In parallel, source analysis distinguishes safely rejected
-candidates from failures requiring permanent mathematical-owner withdrawal.
+The next integration is [explicit terminal-candidate trials](software/v5/candidate_admission/README.md).
+Their reviewed implementation can preserve prior valid work after rigorously
+clean nonacceptance, without weakening positive checking or reviving failed
+owners. The six focused control groups passed once and their actual outcome is
+independently adopted; the genuine-I continuation boundary remains pending. Final
+census liveness was corrected before execution. No new proof or large rebuild
+is selected; these development sources do not modify the installed candidate.
 [Complete custody export](research/cycles/v5-2026-10-20/SEALED-CUSTODY-EXPORT-CONTRACT.md)
 is a future design, lower priority than this concrete acquisition defect.
 

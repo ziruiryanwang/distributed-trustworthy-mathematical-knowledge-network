@@ -103,6 +103,35 @@ payload sweep is selected.
 
 ## Current work
 
+**2026-10-22 candidate-admission controls independently adopted.**
+Root fully read/adopts actualf8c3dfcb: six groups PASS,80 report refusals/eight
+post-census denials,137 source/130 staged/30 runtime identities match, clean
+closure,2.265625knownCPU seconds. This is deterministic control evidence with
+explicit verifier doubles, not a genuine receipt trial. Fresh actual-owner/
+selector authoring remains the next selected boundary; no repeat, proof or
+distribution rebuild. Frozen current installation remains exact-packet01.
+
+**2026-10-22 candidate-admission controls terminal; actual-boundary source underway.**
+Root read/adopts source review65d45512 and fixture91f7983d. Selected six-group
+operationdd27460f terminated0/clean;2.265625knownCPU/6.6558928wall seconds.
+All used sources/test/evidence freeze; actual outcome audit is assigned, not
+yet adopted. The source review corrected final-census liveness before launch.
+Root read actual plan e9022bd1 and selects only fresh owner/selector authoring:
+two real I calls preserving prior context/staging, installed assets referenced
+in place. No new proof/full rebuild or actual continuation launch yet.
+
+**2026-10-22 resumed: candidate-admission implementation/control review.**
+Enumeration and exact-packet operations are already adopted; do not repeat.
+The selected five-file candidate-admission seam is authored, not executed:
+strict APIs stay strict; explicit terminal trials preserve existing warranted
+work only after complete same-call clean-refusal guards. Existing contexts and
+staged selections must not be forbidden or rolled back. Root's six focused
+groups and137-source selector await review. storage_launch_review independently
+reviews product/controls; storage_outcome_audit cross-checks fixture mechanics;
+storage_integration_adapter finalizes the sole owner pin after review and plans
+one real retained-I continuation boundary. No proof or installation build is
+selected. See CANDIDATE-ADMISSION-IMPLEMENTATION and registry/WORK.
+
 **2026-10-22 bounded enumeration adopted; clean candidate rejection next.**
 Root fully read/adopts independent actual07720320: two new groups PASS/clean,
 64 variants/7027-byte full offer/23HTTP,1.8125 knownCPU seconds. Enumeration

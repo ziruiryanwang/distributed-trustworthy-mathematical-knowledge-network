@@ -4,6 +4,24 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 controlsdd27460f terminal0/clean, six groups rawPASS. Root has read
+actual stderr/result and source review65d45512; storage_outcome_audit now owns
+CANDIDATE-ADMISSION-CONTROLS-OUTCOME. All used product/control files frozen.
+storage_integration_adapter owns fresh actual_owner.py and draft file-only
+Select-CandidateAdmissionActual01.ps1 per ACTUAL-IMPLEMENTATION, no execution.
+storage_launch_review reviews those changed sources after handoff. Root adopts
+outcomes and selects any actual runtime; no repeated tests/proof/full rebuild.
+
+2026-10-22 candidate-admission resumed implementation checkpoint. Root owns
+controls.py,137-source/30-runtime selector, finite execution, adoption and Git.
+storage_launch_review independently reviews five product files and six groups.
+storage_outcome_audit owns cross-review of control fixtures against lower APIs,
+then actual outcomes; no self-approval of its product source.
+storage_integration_adapter finishes only the reviewed facade's embedded owner
+pin and writes CANDIDATE-ADMISSION-ACTUAL-PLAN for one genuine retained-I
+refusal/continuation boundary. No new proof, runtime, repeated passing test,
+old-state mutation or full distribution build selected.
+
 2026-10-22 resumed after context handoff. User explicitly says Resume/work in
 parallel; older pause is superseded. Root adopts exact installed b93cca6d and
 updates NOW/CURRENT-DESIGN. storage_launch_review finishes independent enumeration
