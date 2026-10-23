@@ -1,5 +1,132 @@
 # Current research desk
 
+**2026-10-22 whole-architecture audit completed; usefulness-led design revision:**
+root fully read the economics, demand, trust, independent practicality challenge
+and actual Lean-native seam notes under
+research/cycles/v5-2026-10-22-architecture-reaudit. The synthesis is
+ARCHITECTURE-REAUDIT.md. Current U production costs about10.1CPU-hours/89active
+wall minutes; no further small-result certificate is selected. The installed
+native checker shares the restricted zk relation: optional proving and caches
+alone do not provide broad ordinary Lean support. Recommend a sound persistent
+ordinary checked-library workflow, with explicit bounded initial selected-closure
+checking, plus a separate strict ancestry-free certified lane. This is a proposed
+relaxation of universal cold-service cost, not mathematical soundness and not an
+implemented policy change. Latest user explicitly permits usefulness-motivated
+compromises. Next highest-payoff selection is SOURCE/THEORY ONLY: an ordinary
+Lean acceptance contract and one representative compatibility trace, before
+schema/persistence implementation. Keep actual axiom/import/semantic obligations,
+protected cache assurance lineage and fresh operation grants. No new runtime,
+build, proof, purchase, deployment, or v5 acceptance. Earlier producer02 sources
+and failed snapshot remain preserved, unexecuted and off the immediate path.
+
+**2026-10-22 user redirects to whole-architecture economics/trust audit:** no
+new test/build/snapshot/certificate is selected while this audit is underway.
+The user challenges expensive producer-side certification and asks whether a
+consumer-driven protocol has substantially better alternatives. Preserve all
+completed evidence and unexecuted02 sources/selectors. Parallel research lives
+at research/cycles/v5-2026-10-22-architecture-reaudit: certificate economics,
+demand protocol, adversarial trust boundaries; root integrates primary-source
+research and a whole-protocol recommendation. The final-v5 objective is unchanged;
+this is a reprioritization, not a pause or a software acceptance claim.
+
+**2026-10-22 snapshot01 failed before product imports:** selected6a629295,
+PREPAREDfae80b3b, terminal exit1/clean Job. Stdout reports DOCUMENT_BOUND;
+bootstrap's1MiB document reader rejects the1,070,384-byte supervisor manifest.
+No owner/snapshot/host/proof call occurred. outcome_audit preserves exact failure.
+Select two disjoint source-only changes in fresh software/v5/installed_production02:
+integration_adapter parameterizes operator document bound and uses existing8MiB
+supervisor limit only there; launch_review implements reviewed producer-only
+unused-Lean hash exclusion (95bf993d/f2b820ae), full census/non-Lean checks kept.
+Root owns independent review, small changed-boundary controls and later combined
+installation decision. Failed01 and installed01 remain frozen; request hold.
+
+**2026-10-22 installed V snapshot selected:** root read the complete file-only
+selector87b50280 and checked its exact public contract/owner closure. Select
+one preparation, inspect its saved inputs, then one public installed snapshot
+under180worker/60controller/240wall native and360CPU/360wall outer limits.
+This executes the aggregate guest with genuine U parent once, not a proof.
+Release8a326340/profilef63ca04b and actual02 V20edd388 remain immutable.
+integration_adapter owns the subsequent request-only selector, gated on actual
+snapshot evidence; launch_review/outcome_audit finish the narrow unused-Lean
+hash exclusion argument. Root owns execution, adoption and Git; no new seal
+funding, repeated proof or broad regression campaign is selected.
+
+**2026-10-22 reciprocal local mathematics adopted:** root fully read/adopts
+actual02 c28ff7fd: genuine A* verification -> U interface-only source authoring
+-> native V admission, packet20edd388/journaldce99bab/sourceb142d1f6, clean
+closure and exact trust withdrawal;84.5625knownCPU. No V certificate/publication.
+Public installed profile request7702c3ea completed exit0; profilef63ca04b,
+identitye9b35f05, outcomee5449dc0 records root's independent data comparison.
+No constructor/host calls. integration_adapter authors the minimal V snapshot
+selection; launch_review and outcome_audit examine producer-only role validation
+as the next overhead reduction, source-only. No proof campaign is selected.
+
+**2026-10-22 installed build adopted; genuine renewal02 terminal success.**
+Root fully read/adopts build outcome604a073a: installed release8a326340,
+9894payloads/919541411B; current130 and ordinary109 exactly preserved,
+producer31/49/60 internal roles,59.078125knownCPU. No constructor claim yet.
+Renewal36022 terminal0/clean; owner COMPLETED, exact U-feeds-trans proof,
+V packet20edd388/journaldce99bab; independent actual02 audit ongoing.
+Root fully read/reviews profile-only selectord823f020: exact two-field request,
+fresh external output, intended-byte pinning, no execution/implicit V success.
+Select file-only preparation then inspection and one public producer-profile
+call under existing30CPU/120wall trusted-parent checks, no constructor/host/proof.
+
+**2026-10-22 renewal02 selected after causal audit:** root fully read/adopts
+failure outcome29042288. Actual A verification and Lean export succeeded;
+operational worker-report float parsing alone blocked subsequent native V check.
+Root independently reviewed owner02 054499de and selector02 3c558195, exact
+one-parser substitution/fresh names, in TYPED-RENEWAL-METADATA-REPAIR-REVIEW.
+Select one fresh typed-renewal02 preparation/inspection/installed operation with
+unchanged360CPU/480wall/1024MiB and same certified U; no certificate production.
+This is failed-integration repair, not renewal01 relabeling or zero-cost reuse.
+Git e5f4c65 preserves the repair. Build94543 continues separately unchanged.
+
+**2026-10-22 integrated assembly selected:** root fully read/adopts native-free
+controls outcome63ec9ca2 (3/3,1.328125 knownCPU, clean). Root inspected actual
+prepared input8eb52bb8 and selection992fae91, separately compared every current130
+row unchanged and exact14 additions; fresh parent empty, no preparation sentinel.
+Select one existing-wrapper build120CPU/600wall/128MiB/two processes into
+product-local/v5-distribution-installed-producer-01/Mathematical Commons v5.
+No native rebuild/proof. Git a15f374 preserves corrected sources and controls.
+Renewal failure cause is operational float timing sent to mathematical JSON
+parser; actual Lean export passed. integration_adapter authors owner02/selector02
+only; outcome_audit preserves actual failure. No acceptance inferred yet.
+
+**2026-10-22 actual renewal failed; producer controls passed raw.** session37038
+terminal exit1/clean; owner reports genuine A-member admission and interface-only
+READY, then StructureError JSON_DECODE at source-author-once. No V admission;
+exact domain withdrawal/closure recorded. outcome_audit owns causal saved review.
+Known outer cost44.640625Job+9.875wrapper=54.515625CPU. Preserve this failure.
+Controls selector01 failed before writes on PowerShell OrderedDictionary
+Measure-Object; fresh selector02 ee5fba52 fixes only finite summation, root reviewed
+diff. Exact selection00acd575 ran once, terminal0/clean; launch_review owns outcome.
+File-only full distribution preparation succeeded: b500ca86, input8eb52bb8,
+build-selection992fae91. Build remains undispatched pending controls adoption.
+
+**2026-10-22 two independent finite lanes:** genuine renewal request ed9c39fe,
+PREPARED99dcbf55, is dispatched once under root session37038 after inspection.
+The first preparation invocation failed parameter binding from a mistyped review
+digest before script execution; corrected exact cc537fa8 invocation prepared once.
+Root fully read/adopts controls review87f0d40b and selects three-group controls01
+under30CPU/90wall/256MiB. Exact current C/ad2e63a2,L/3310fbac,D/afbea96b,
+controls03918aae and selectorc0f0c738; projection33f13 supplements joint46ff.
+Root also selects file-only assembly preparation8bcd39bd; no actual build until
+controls outcome and generated-input inspection. No cryptographic production.
+
+**2026-10-22 resumed central selection:** latest direct user Resume controls.
+Root fully read/adopts terminal U outcome6beca1d4:104 remaining stages,
+223610-byte receipt6fb85d28, clean closure; certificate production is finished,
+not yet consumer acceptance. Root selects one already-reviewed typed-renewal01
+preparation c1dfbd79 followed by inspection and one installed genuine U-to-V
+operation under its unchanged360CPU/480wall/1024MiB envelope. No proof production
+or restart. Exact inputs/reviews are bound by the selector and PREPARED record.
+Root also fully read/adopts projection review33f13fbb for distributionafbea96b
+and assembly preparer8bcd39bd: full144, ordinary130/109, no cap increase.
+launch_review finishes the three-group controls review in parallel; outcome_audit
+owns fresh genuine-consumer outcome. Earlier live-proof/repair entries below
+are history. The final-v5 goal remains ACTIVE and unfinished.
+
 ## Current source navigation (read before proposing a missing capability)
 
 **Current installed candidate (combined build and actual continuation adopted):**
@@ -117,6 +244,19 @@ The current installed successor is identified above; no migration or repeat
 payload sweep is selected.
 
 ## Current work
+
+**2026-10-22 central receipt finished; combined consumer projection repair.**
+U64938 is terminal0/clean. Inner47e4767b says PASS_FINISHED_RECEIPT_ARTIFACT,
+receipt223610B/6fb85d28, operator223973d1 and outerefc4b81e; independent saved
+outcome audit is active before real U-to-V use. No heavy worker remains.
+Separately, root found a source-level integration defect before any new tests:
+feeding all144 installed SDK rows to the unchanged ordinary client produces
+123 Python sources, above its120 source limit and128 combined verifier-runtime
+limit. Raising only the former would still fail. Author is implementing an
+explicit14 producer-only role projection: full installation144/producer31;
+ordinary SDK130/preparation109 remain unchanged. No cap inflation or missing
+file omission. Source review46ff is preserved as the preceding exact cut;
+supplemental source review and a small projection control precede assembly.
 
 **2026-10-22 installed producer source review adopted.** Root fully read/adopts
 46ff775a and independently matches all eight exact source pins. Six concrete

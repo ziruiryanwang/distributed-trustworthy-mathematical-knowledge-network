@@ -4,6 +4,59 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 architecture audit and independent challenges complete. Root integrated
+all notes in architecture-reaudit/ARCHITECTURE-REAUDIT.md. New fresh reviewer
+commons_practicality_challenge authored PRACTICALITY-CHALLENGE; integration_adapter
+additionally authored LEAN-NATIVE-SEAM. Agents are finished; no runtime lives or
+source implementation is selected. Next bounded source/theory investigation is
+the ordinary Lean checked-library acceptance contract plus one compatibility
+trace, with explicit initial-check versus strict cold-delivery modes. Root owns
+later assignment and any adoption/implementation. No repeated certificate, backend
+build, prior control campaign or unrelated producer repair is selected.
+
+2026-10-22 user-requested whole-architecture audit supersedes pending02 runtime:
+storage_launch_review owns CERTIFICATE-ECONOMICS.md; storage_integration_adapter
+owns DEMAND-PROTOCOL.md; storage_outcome_audit owns TRUST-AND-LOWER-BOUNDARIES.md
+under research/cycles/v5-2026-10-22-architecture-reaudit. Root owns synthesis,
+external primary-source checks and cross-audit. No implementation, execution,
+new proof, package or economic spending selected. Preserve interrupted source work.
+
+2026-10-22 snapshot01 failed before product imports. Fresh installed_production02
+ownership: integration_adapter release_production/operator.py narrow supervisor
+document limit; launch_review body_location/distribution.py narrow producer Lean
+hash exclusion; outcome_audit saved failure and causal audit. Root owns combined
+changed-boundary controls, review, execution and Git. No old snapshot retry.
+
+2026-10-22 root independently reviews/selects V snapshot87b50280 using adopted
+profile/build/renewal evidence; prepares, inspects and dispatches once.
+integration_adapter owns INSTALLED-PRODUCER-V-REQUEST-PLAN and minimal later
+request selector (no execution or assumed snapshot success). launch_review and
+outcome_audit finish producer-only unused-Lean hash exclusion argument while
+retaining full physical census. Root owns later actual audit assignment/Git.
+
+2026-10-22 two decisive operations: full distribution build94543 terminal0/clean;
+launch_review owns concise actual map/closure audit, not duplicate large-tree scan.
+Renewal02 request7667b593/PREPARED6ff85d9c is live session36022 after root-adopted
+failure29042288 and exact two-line parser repair review; outcome_audit owns later
+terminal mathematical handoff audit. integration_adapter authors minimal public
+profile data selector; installed V snapshot selection remains gated on actual V.
+Root owns execution/adoption/Git. No further heavy proof or source-map regression.
+
+2026-10-22 resumed: root adopts terminal-U audit6beca1d4 and projection33f13fbb;
+selects once-only typed-renewal01 genuine consumer preparation/inspection/run.
+storage_outcome_audit owns its saved outcome after completion, no speculative
+PASS. storage_launch_review finishes independent current controls+selector review
+in INSTALLED-PRODUCER-CONTROLS-FINAL-REVIEW.md. Root owns execution/adoption/Git.
+No U restart or additional certificate production; previous pauses superseded.
+
+2026-10-22 U64938 completed terminal0/clean; outcome_audit owns saved actual
+TYPED-PRODUCTION-REMAINDER-OUTCOME before genuine consumer selection. Root
+identified combined ordinary-source120/runtime128 cap regression before use;
+launch_review owns narrow distribution consumer-role projection plus assembly
+count correction. integration_adapter adds pure projection checks to existing
+three new control groups. Root owns corrective source review, later execution
+and Git. No second proof or already-passed campaign is started.
+
 2026-10-22 eight-file installed producer review46ff775a fully read/adopted;
 root owns Git checkpoint. integration_adapter now owns only fresh controls.py
 and its plan/source checkpoint (three changed groups). launch_review owns one

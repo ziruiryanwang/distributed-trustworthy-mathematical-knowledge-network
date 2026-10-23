@@ -4,8 +4,25 @@ Updated: 2026-10-22. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
-The current installed candidate is the130-source preflight distribution
-identified at [NOW](research/NOW.md), releasebd9f161c. Its combined build and
+**Latest direction: usefulness-led architecture reaudit.** The
+[whole-protocol audit](research/cycles/v5-2026-10-22-architecture-reaudit/ARCHITECTURE-REAUDIT.md)
+recommends a persistent independently checked ordinary Lean library as the usable
+default, with optional succinct certificates for supported cold-delivery needs.
+The user explicitly permits compromises: bounded first-onboarding cost would be
+a visible relaxation of the earlier universal cold-service ambition, not weaker
+mathematical acceptance. This remains a design proposal, not an installed mode.
+Current native checking shares the restricted certification relation, so broad
+Lean interoperability needs its own exact acceptance boundary before durable
+cache design. The next selected source/theory investigation is that contract and
+one representative compatibility trace. Producer02 repairs are preserved on hold;
+no new certificate, runtime or executable trust-policy change is selected.
+
+The latest assembled candidate is the144-source installed-producer distribution
+identified at [NOW](research/NOW.md), release8a326340. Its
+[assembly audit](research/cycles/v5-2026-10-20/INSTALLED-PRODUCER-DISTRIBUTION-OUTCOME.md)
+confirms all130 consumer sources and109 ordinary preparation sources unchanged,
+with14 producer-only additions. Assembly is not full-release acceptance.
+The preserved consumer releasebd9f161c has combined build and
 [installed actual continuation](research/cycles/v5-2026-10-20/CANDIDATE-PREFLIGHT-ACTUAL-OUTCOME.md)
 are independently adopted: a malformed peer candidate is rejected without
 discarding the client's existing valid mathematical work, which remains usable
@@ -13,35 +30,39 @@ offline. One genuine retained-I verification; no authority reset or second
 verification; clean closure in26.0 known CPU seconds. It preserves the already
 implemented discovery, exact acquisition and interface-only reuse paths.
 
-The next central implementation is
-[renewable typed certification](research/cycles/v5-2026-10-20/TYPED-PRODUCTION-SELECTION.md).
-It reuses the retained general36 execution and existing proof scheduler, adding
-honest typed image/build/snapshot adoption and an ordinary pinned operator.
-The eventual endpoint is a genuine A*(U), checked use of U, then genuine A*(V)
-whose frontier is the earlier receipt and membership rather than U's proof
-ancestry. A separately funded first-five proof prefix has completed with clean
-closure and retained checkpoints; its independent outcome77a92b4f is adopted.
-The104 remaining stages run under the same allowance, retaining all five results.
-An initial preparation-only Decimal comparison refusal is preserved and corrected
-in separately reviewed successor02; it launched no proof. No aggregate receipt
-exists yet. The ordinary A-only U-to-V adapter and its actual selector are
-source-reviewed. Six focused non-native control groups passed after preserving
-and correcting a test-harness-only import failure; their adopted outcome is
-e510c2c5. Actual consumer execution still awaits a genuine resolved U receipt.
-The new two-action lifecycle CLI composes existing snapshot/request APIs without
-changing the stable producer profile or automatically funding later proof work.
-Its five inert command-boundary groups pass; this does not qualify real snapshots.
-Independent source inspection found a concrete integration blocker: the present
-producer constructor retains315 installation/provenance pins while the wrapper,
-entry and generic snapshot each allow at most256 runtime pins. Current-profile
-generic snapshots are therefore impossible, not merely untested. The selected
-next design separates maintainer build evidence from a compact release-owned
-runtime adoption manifest, preserving exact executable/image/source checks and
-the independent mathematical receiver. No cap increase, live profile migration
-or second proof job is selected. U's already running retained-snapshot path is
-unaffected; it does not use this generic snapshot boundary.
-The prior failed optimization screens remain failed. This closes
-a missing capability if successful, not a proof of economic or sustained growth.
+The [typed U certificate is complete](research/cycles/v5-2026-10-20/TYPED-PRODUCTION-REMAINDER-OUTCOME.md):
+the104 remaining stages reused all five prefix checkpoints and produced the
+223610-byte receipt with clean closure. Total known prefix/remainder production
+cost was36413.71875CPU seconds; it is not a recommendation to certify every
+small theorem. No completed proof campaign should be repeated.
+
+The [genuine U-to-V consumer](research/cycles/v5-2026-10-20/TYPED-RENEWAL-ACTUAL02-OUTCOME.md)
+now passes: actual A* verification, interface-only import with zero U theorem-
+ancestry proof bytes, ordinary Lean source whose U application feeds transitivity,
+and independent native V admission with the exact verified parent. The saved
+485109-byte packet contains U's certificate and only V's new36318-byte witness;
+it is not a V certificate. All owners close and temporary trust is withdrawn.
+The failed first adapter attempt remains preserved; its operational report parser
+was corrected without relaxing mathematical JSON. Successful02 cost84.5625known
+CPU seconds, whereas its measured author/native/receipt workers account for only
+a small part of that total. Do not label this capability test a growth advantage.
+
+The release-owned producer replaces the former315-provenance-pin obstruction
+with31 core modules,49 support pins and60 operative installation pins, without
+raising wrapper or snapshot limits. It has an actual assembled distribution,
+passing changed-boundary controls and a
+[publicly materialized stable profile](research/cycles/v5-2026-10-20/INSTALLED-PRODUCER-PROFILE-OUTCOME.md).
+The installed V snapshot attempt subsequently failed in the bootstrap document
+bound before product imports; no constructor/snapshot/proof occurred. Its retained
+[failure audit](research/cycles/v5-2026-10-20/INSTALLED-PRODUCER-V-SNAPSHOT01-OUTCOME.md)
+and unexecuted producer02 repair remain intact. The architecture reaudit now
+supersedes that implementation path; no V proof is funded. Startup validation
+overhead is real but is not a cure for dominant cryptographic segment proving.
+
+The eventual renewed frontier A*(V) must certify the new extension using A*(U),
+not replay U's theorem proofs. Ordinary sharing and optional certification remain
+different cost choices; a full-v5 growth claim does not require every seal to
+outperform ordinary sharing. The prior failed optimization screens remain failed.
 Earlier source cuts and dated pending statements below remain historical; do
 not implement missing features or restart operations inferred from them.
 
