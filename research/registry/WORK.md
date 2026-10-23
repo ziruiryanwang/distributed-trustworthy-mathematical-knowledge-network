@@ -4,6 +4,22 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 resumed assignment: portable_integration_audit owns only new
+ordinary_lean/ordinary_contribution.py and PortableContributionExportCommand.lean,
+with ORDINARY-GENERIC-AUTHORING-IMPLEMENTATION.md checkpoint; ordinary_api_flow owns
+new ordinary_contribution_checks.py and ORDINARY-GENERIC-AUTHORING-CONTROLS.md;
+admission_event_audit audits saved body-discovery-controls-01 then changed generic
+source in ORDINARY-GENERIC-AUTHORING-REVIEW.md. Root owns selection, integration,
+installation capability, finite runs and Git. All checkpoints are in the canonical
+research/cycles/v5-2026-10-22-native-library directory. No duplicate campaigns.
+
+2026-10-23 body-discovery source selection: portable_integration_audit owns only
+new discovery/ordinary_body_adapter.py and design checkpoint; ordinary_api_flow
+owns independent principle review then new ordinary_body_adapter_checks.py;
+admission_event_audit owns changed-source review. Root owns additive F/A/Store
+compatibility branches, finite runtime selection/adoption and Git. Checkpoints in
+native-library cycle; no reducer, native check or old campaign rerun selected.
+
 2026-10-23 root adopted reciprocal02 actual audit and owns documentation/Git.
 portable_integration_audit and ordinary_api_flow converge the smallest discovery
 design: existing pattern reuse and two-stage definition vocabulary discovery;

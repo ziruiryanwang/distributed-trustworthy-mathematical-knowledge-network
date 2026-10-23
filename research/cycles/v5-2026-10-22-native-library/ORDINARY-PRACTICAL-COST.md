@@ -9,6 +9,26 @@ successful.
 
 ## Decision
 
+**Executed discriminator, 2026-10-23:** the independently audited
+[body-search check](ORDINARY-BODY-DISCOVERY-OUTCOME.md) examines three postings
+across both stages versus eight under the exact predecessor query. Both false
+candidate branches count. Search replies nevertheless total 202,790 bytes versus
+103,356; the extra body index and evidence acquisition are additional costs.
+This supports an optional vocabulary-discovery route, not a default planner or
+an overall speedup. Its use is justified only when avoided candidate handling
+outweighs extra query, transfer, extraction and amortized maintenance costs under
+the caller's resource prices. The check does not instantiate that inequality.
+Preserve this result and move to generic contribution; do not optimize its
+serialization simply to manufacture a headline win on the fixture.
+
+**Subsequent narrowing, same day:** root and independent review preferred the
+[two-stage body-fingerprint design](ORDINARY-APPLICABILITY-DESIGN.md): discover
+a vocabulary from an actual local property's raw definition-body pattern, then
+search its learned exact symbol. It reuses existing path/STAR machinery and
+needs no reducer. The broader bounded-unfolding proposal below remains the
+original cost analysis, not implementation authority. All cold/local/search
+cost limits and the full-cost growth condition remain applicable.
+
 Finish the ordinary public acquire–check–use–contribute cycle before adding
 another mechanism. After that, the highest expected marginal payoff is **one
 bounded, vocabulary-independent applicability/type-view profile for the existing

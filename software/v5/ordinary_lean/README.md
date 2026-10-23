@@ -10,11 +10,48 @@ generated-group records. `CheckedExtension` directly calls the Lean kernel and
 compares actual output; its parent environment is an explicit warrant precondition,
 not something a caller can assert through a public endpoint.
 
-Selected syntax and conditional-parent admission controls passed in immutable
-local snapshots05/07. Both Std-backed method examples compiled in01. See
-`research/cycles/v5-2026-10-22-native-library/OUTCOME-CORE.md` and `CHECKPOINT.md`
-from the project root for exact evidence and outstanding integration.
+## Working path
 
-The next work is exact dependency binding, protected persistence, real checked
-library onboarding, ordinary-project import and discovery. Successful source
-compilation or a content hash alone never constitutes network acceptance.
+The installed owner APIs now perform fresh checked onboarding, exact dependency
+binding, durable portable evidence retention and incremental native admission.
+The [independently audited reciprocal workflow](../../../research/cycles/v5-2026-10-22-native-library/ORDINARY-API-RECIPROCAL-OUTCOME.md)
+used real formal-index discovery: B found A's method, checked its missing evidence,
+used it twice in an ordinary Lean proof after A stopped, and published a checked
+successor that C rediscovered and acquired from cold B custody. C was an inert
+acquisition client, not a third independently accepting owner. All roles ran on
+one machine. This is operability evidence, not a worldwide-release/growth claim.
+
+| Boundary | Interface | Meaning |
+|---|---|---|
+| Select local implementation | `NativeInstallation.open` in `ordinary_admission.py` | Owner-pinned manifest and runtime attachments; not remote mathematics. |
+| Open persistent checked project | `OrdinaryAdmission.open` | Exact local catalog and separately owned inert custody. |
+| Learn fixed foundation once | `owner.initialize(OperationBudget(...))` | Actual checked initialization for a fresh store, not a per-use operation. |
+| Plan a bounded missing delta | `owner.preflight(parent_root, raw_units, budget=...)` | Reports exact missing imports; a plan is never an acceptance token. |
+| Check and retain the delta | `owner.admit(parent_root, plan, budget)` | Revalidates, retains evidence, runs the controlled native checker and promotes only after a clean exact event. |
+| Reuse locally warranted knowledge | `portable_owner_request.py`, `portable_candidate.py` | Exact theorem signatures and necessary definition semantics for owner authoring; new exported proofs still require admission. |
+| Locate/acquire/serve inert objects | `../transport/ordinary_acquisition.py` | Typed preview, export locator and complete unit evidence; custody does not transfer acceptance. |
+
+The concrete installed callers are `run_ordinary_api_producer.py` and
+`run_ordinary_api_receiver.py`; `ordinary_successor_authoring.py` works with an
+already open owner. These are selected development callers, not a universal
+installer or permission to execute peer-supplied source. One finite caller budget
+must encompass its stages; do not renew grants inside missing-dependency loops.
+The owner closes its catalog; the caller separately closes custody and services.
+
+## Scale and remaining work
+
+No client enumerates the whole network. Cold ordinary learning nevertheless
+acquires and checks its selected missing dependency closure. Warm use avoids
+rechecking locally warranted old proofs, but currently rebuilds/loads selected
+context metadata. Use bounded project contexts and batches; this is not a
+constant-cost guarantee for unbounded local libraries.
+
+An optional unfamiliar-vocabulary discovery adapter now uses bounded
+definition-body fingerprints followed by existing exact-symbol method search.
+Its metadata-only check reduced examined postings from eight to three but
+increased search reply bytes from 103,356 to 202,790, including the false
+candidate branch. It is not a default planner or a demonstrated total-cost win.
+Search hints remain separate from evidence and acceptance. Selectivity at both
+stages, full-cost benefit, context scaling, public packaging and deployment
+security remain release obligations. Windows Job limits are containment, not a
+hostile-source sandbox. License and public distribution are still undecided.

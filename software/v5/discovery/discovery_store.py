@@ -14,7 +14,8 @@ import stat
 import time
 
 from . import authenticated_index as A
-from .formal_features import (SCHEMA, EXPORT_SCHEMA, ORDINARY_EXPORT_SCHEMA, MAX_RECORD, compact, fields, hexid, need,
+from .formal_features import (SCHEMA, EXPORT_SCHEMA, ORDINARY_EXPORT_SCHEMA, ORDINARY_BODY_SCHEMA,
+                              MAX_RECORD, compact, fields, hexid, need,
                               record_id, strict, uint, validate_features, validate_record)
 
 LIMITS = {"max_objects": (1, 1000000), "max_postings": (1, 128000000),
@@ -57,7 +58,8 @@ class Store:
         for key, (low, high) in LIMITS.items(): uint(limits[key], low, high, "STORE_LIMIT:"+key)
         self.namespace, self.adapter = hexid(adapter.namespace), adapter
         self.feature_schema = getattr(adapter, "feature_schema", SCHEMA)
-        need(self.feature_schema in (SCHEMA, EXPORT_SCHEMA, ORDINARY_EXPORT_SCHEMA), "ADAPTER_FEATURE_SCHEMA")
+        need(self.feature_schema in (SCHEMA, EXPORT_SCHEMA, ORDINARY_EXPORT_SCHEMA, ORDINARY_BODY_SCHEMA),
+             "ADAPTER_FEATURE_SCHEMA")
         self.limits, self.db = dict(limits), None
         self.root = ordinary(root, fresh=create)
         self._budget(30, 500000, 500000)

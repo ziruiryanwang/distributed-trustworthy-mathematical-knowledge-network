@@ -1,5 +1,53 @@
 # Current research desk
 
+**2026-10-23 one generic export-wrapper build selected:** root and independent
+review read wrapperdc6988a6 and selectorb04e0b73. Select
+ordinary-generic-contribution-build-01 76fedee3: one new multi-target wrapper,
+unchanged retained compiler prerequisites,120s total child deadline with
+90CPU/150wall/1536MiB outer. No basis, owner-source contribution, certificate or
+old-module rebuild. Generic Python/source controls are still under review.
+Root's actual caller/source selection adds run_generic_contribution.py,
+select_generic_contribution.py and examples/GenericContributionBody.lean only;
+one future bounded actual call will preserve the old local owner by exact copy,
+not infer a warrant from a peer snapshot. Actual-use runtime is not yet selected.
+
+**2026-10-23 body-search outcome adopted:** root read/adopts independent outcome
+2f7efc8e. All four metadata groups pass,3versus8 postings including false branch;
+search replies202790versus103356bytes. Keep optional, not default or speedup.
+Full costs do not justify further optimization of this tiny fixture. Generic
+caller-chosen source contribution is the next implementation already assigned.
+
+**2026-10-23 resumed: adopt saved discovery evidence, generalize contribution:**
+The already selected body-discovery-controls-01 has finished cleanly (exit0,
+1.124546wall,0.6875JobCPU plus0.078125wrapperCPU); do not rerun it. Root requests
+one saved-outcome audit. Root selects the existing ORDINARY-GENERIC-AUTHORING-PLAN
+for source implementation: new ordinary_contribution.py and a multi-target Lean
+export wrapper, reusing the checked request/binder/admission pipeline. Separate
+workers own focused controls and review. Caller-chosen definitions and theorems,
+not another fixture or certificate, are the operability objective. Existing used
+successor/producer sources, installation and evidence remain unchanged. Native
+runtime and new installation require separate finite selections after review.
+
+**2026-10-23 bounded two-stage metadata check selected:** root read the complete
+revised design/review, adapter310980b1 and checks29a55fe0. Independent four-source
+review613612d7 finds no blocker; root's comparator correction is in final tests.
+Select ordinary-body-discovery-controls-01 10fe8b04, 30CPU/60wall/256MiB, exactly
+four metadata groups using retained A evidence and two fresh inert indexes.
+One specific query is attempted; both returned definition branches count;
+comparison uses the actual predecessor's two-atom query. No new Lean/native
+check, acceptance, provider deployment or certificate is involved. Used inputs,
+source snapshots and outputs stay retained. Generic owner-authoring plan4586b731
+is next source-only scope: remove fixture restrictions using existing pipeline.
+
+**2026-10-23 definition-vocabulary discovery source selected:** Git e61706b
+preserves the reviewed installed reciprocal loop and actual audits. Root selects
+ORDINARY-BODY-DISCOVERY-SELECTION: new bounded singleton-definition body adapter,
+additive V4 metadata branches, and one focused test source. Existing path-token
+fingerprint semantics are reused, not a new beta/delta reducer. Query a local
+formal premise, learn an exact definition symbol, then use ordinary type-symbol
+search. Source bodies are full exact V2 evidence, not V3 type previews. No runtime
+yet; source review precedes one cheap two-stage metadata/index discriminator.
+
 **2026-10-23 reciprocal actual audit adopted; economical discovery design:** root
 read/adopts ORDINARY-API-RECIPROCAL-OUTCOME: exact source/event/catalog/custody
 correspondence passes, 26.2342426wall/25.796875knownCPU, C remains inert.
