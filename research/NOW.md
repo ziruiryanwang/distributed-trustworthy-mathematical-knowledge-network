@@ -1,5 +1,50 @@
 # Current research desk
 
+**2026-10-23 pure controls independently adopted:** root read actual six-group
+PASS and saved auditd9cb00ee. Fresh peer profile loads; controls cost1.357537wall/
+1.1875knownCPU with clean closure, no native/owner/network work. No rerun selected.
+New public reciprocal harness remains under source review; one new B initialization
+is prerequisite only, not replay of A's basis or a new mathematics benchmark.
+Fresh project_hook_design owns a source-only actionable existing-project hook
+contract, building on the prior decision rather than duplicating that audit.
+
+**2026-10-23 pure peer controls selected:** root read/adopts saved assembly
+auditbb95ec6c and full controls/selector review69397346. Select
+ordinary-peer-controls-01 SHA256
+5d491f857682b8b69086fd3e46cb5053dea4767b60b61cf331e7e81a5453c00c,
+controls70582683;60wall/35CPU/512MiB outer,50wall/30CPU inner. One fresh successor
+profile load and six explicitly mocked boundary groups; no SQLite owner opening,
+native subprocess or peer connection. Source/payload snapshots freeze. Actual
+reciprocal harness remains source-only, not cleared by these synthetic controls.
+
+**2026-10-23 peer assembly terminal PASS:** original bounded assembly exits0,
+4.0441092wall/1.90625knownCPU,25518080bytes peak Job private, empty stderr and
+clean closure. New profile06649545f962e8ca95b21ab1c87626444bdc06c16e5191b96a8f27e7766505e5;
+116copied payload files plus PROFILE, same installation32236aa3/nativeIfafc8387.
+Saved outcome audit assigned; source/API/profile now used/frozen. Root selects
+source-only select_validation.py for cheap pure controls and separate future
+public-command reciprocal test; owner_cli owns controls, ordinary_api_flow owns
+reciprocal harness/plan, reviewer owns changed-source and saved outcome audits.
+No native, service or new basis has run; no automatic repeat of any old operation.
+
+**2026-10-23 file-only peer package assembly selected:** exact plan
+ordinary-peer-package-assembly-01 SHA256
+6804cbca42e2deed229299a57c487ef20ec00952d320d91085858294d8e2391b,
+assemblerb0257328;90wall/50CPU/512MiB outer,60wall/40CPU inner.
+Only fresh payload assembly is launched, reusing compiled installation/helpers.
+No owner initialization, mathematical admission, service or certificate. Five
+reviewed peer sources and selected base bytes freeze on use; tests/harness remain
+separate unlaunched source selections. No automatic retry is authorized.
+
+**2026-10-23 peer source review adopted; file-only selection preparation:**
+root read full changed source and independent review4ccaa408. CLI reporting now
+retains actual admission on later budget/report failure; shared receive caps
+cannot silently reset discovery allowance. Select file-only select_assembly.py
+72c81632 to generate ordinary-peer-package-assembly-01 from unchanged base
+profile881adbf5. Runtime still requires the resulting exact plan. No Lean build,
+state copy, native admission or service. New controls and public reciprocal
+harness are source-only distinct assignments; no old test campaign is repeated.
+
 **2026-10-23 local package boundary independently adopted:** root reads full
 ORDINARY-PACKAGE-OUTCOME fb79896e31f5ef23ad5b86644e85d104576b798dc055db19046623b12bdd02ed.
 Exact111-file payload, native admission, custody IDs/previews, appended root and

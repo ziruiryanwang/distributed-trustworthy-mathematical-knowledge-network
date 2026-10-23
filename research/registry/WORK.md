@@ -4,6 +4,18 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 after peer pure controls: new project_hook_design owns only
+ORDINARY-PROJECT-HOOK-CONTRACT.md, source/theory follow-through on the existing
+project decision (exact hook placement/dependency semantics, not repeated broad
+audit or product edits). Root retains peer integration; no new runtime authority.
+
+2026-10-23 peer assembly terminal PASS; sources used/frozen. Root owns new
+select_validation.py, launch selections, integration/docs/Git. owner_cli owns
+new peer_controls.py and ORDINARY-PEER-CONTROLS.md; ordinary_api_flow owns new
+reciprocal_check.py and ORDINARY-PEER-RECIPROCAL-PLAN.md; admission_event_audit owns
+saved ORDINARY-PEER-OUTCOME.md and changed tests/selector/runner review. All
+checkpoints remain under native-library cycle. No native/service runtime lives.
+
 2026-10-23 continuation terminal and peer successor source selected: root owns
 file-only successor assembler, shared interface, docs, integration and Git.
 ordinary_api_flow owns new ordinary_peer_package/peer_api.py and
