@@ -303,55 +303,203 @@ def prepared_bindings(inputs, manifest_path, parent_bindings):
     return bindings
 
 
-def prepare_bundle(inputs, bundle_path, prepared, parent_bindings, target, directory, files):
-    bundle = G.writer_json(inputs.read(bundle_path, 64 * MIB), 64 * MIB)
-    need(type(bundle) is dict and set(bundle) == {"schema", "assurance", "profile_id", "context_id",
-         "basis_id", "targets", "boundary_imports", "units", "stats"} and
-         bundle["schema"] == "DMKN_ORDINARY_SUCCESSOR_BUNDLE_V1" and
-         bundle["assurance"] == "INERT_OWNER_EXPORT_NOT_MATHEMATICAL_ACCEPTANCE" and
-         bundle["profile_id"] == PROFILE and bundle["context_id"] == PARENT and bundle["basis_id"] == BASIS and
-         bundle["targets"] == [target], "EXACT_SUCCESSOR_BUNDLE")
+def candidate_import_partition(bundle, prepared, parent_bindings):
+    """Resolve inert claims against K, never use a name as remote authority.
+
+    Known acquired IDs retain their prepared-map check. The separate candidate
+    format can ask for additional receiver interpretations by name; those names
+    have no claimed identity until this protected local lookup succeeds. Resolve
+    the complete finite set before constructing evidence or invoking the worker.
+    The current parent is a bounded local context map, not a global name census.
+    """
     available = {}
-    for row in E._array(bundle["boundary_imports"], maximum=65536):
+    claimed = E._array(bundle["boundary_imports"], maximum=65536)
+    for row in claimed:
         name, symbol = E._array(row, 2)
         key = E.name_key(name)
         E._hex(symbol)
         need(key not in available and prepared.get(key) == symbol and parent_bindings.get(key) == symbol,
              "SUCCESSOR_BOUNDARY_IDENTITY")
         available[key] = symbol
+    unresolved = (E._array(bundle["unresolved_imports"], maximum=65536)
+                  if bundle["schema"] == "DMKN_ORDINARY_CANDIDATE_BUNDLE_V1" else [])
+    need(len(claimed) + len(unresolved) <= 65536, "SUCCESSOR_AGGREGATE_BOUNDARY_BOUND")
+    seen, missing = set(), []
+    for name in unresolved:
+        key = E.name_key(name)
+        need(key not in seen and key not in available and key not in prepared,
+             "SUCCESSOR_DUPLICATE_OR_PREPARED_UNCLAIMED_IMPORT")
+        seen.add(key)
+        symbol = parent_bindings.get(key)
+        if symbol is None:
+            missing.append(name)
+        else:
+            available[key] = E._hex(symbol)
+    return available, len(claimed), len(unresolved), missing
+
+
+def require_no_missing(missing):
+    if missing:
+        # Refuse all missing names together; never retry a lemma at a time.
+        # The selected input bundle retains the full set if this diagnostic caps.
+        prefixes = [E.name_key(name)[:256].decode("utf-8", errors="replace")
+                    for name in missing[:16]]
+        raise ValueError("UNACCEPTED_CANDIDATE_IMPORTS count=" + str(len(missing)) +
+                         " encoded_name_prefixes=" + E.canonical_json(prefixes).decode("utf-8"))
+def resolve_candidate_imports(bundle, prepared, parent_bindings):
+    """Original strict API: unaccepted names still refuse without a supplement."""
+    available, claimed_count, unresolved_count, missing = candidate_import_partition(
+        bundle, prepared, parent_bindings)
+    require_no_missing(missing)
+    return available, claimed_count, unresolved_count
+
+
+def successor_envelopes(bundle, prepared, parent_bindings, target, supplement=None):
+    """Pure, bounded candidate planning; yielding evidence never grants authority.
+
+    Supplementary outputs enter only an earlier-new-unit map. They are not
+    installed in K or in the prepared map; the actual unchanged worker must
+    check the whole combined batch before the live grant can be committed.
+    Every original candidate unit is retained, never rewritten by this helper.
+    """
+    need(type(bundle) is dict, "SUCCESSOR_BUNDLE_OBJECT")
+    candidate = bundle.get("schema") == "DMKN_ORDINARY_CANDIDATE_BUNDLE_V1"
+    fields = {"schema", "assurance", "profile_id", "context_id", "basis_id", "targets",
+              "boundary_imports", "units", "stats"}
+    if candidate:
+        fields.add("unresolved_imports")
+    need(set(bundle) == fields and
+         bundle["schema"] in ("DMKN_ORDINARY_SUCCESSOR_BUNDLE_V1", "DMKN_ORDINARY_CANDIDATE_BUNDLE_V1") and
+         bundle["assurance"] == "INERT_OWNER_EXPORT_NOT_MATHEMATICAL_ACCEPTANCE" and
+         bundle["profile_id"] == PROFILE and bundle["context_id"] == PARENT and bundle["basis_id"] == BASIS and
+         bundle["targets"] == [target], "EXACT_SUCCESSOR_BUNDLE")
+    available, claimed_count, unresolved_count, missing = candidate_import_partition(
+        bundle, prepared, parent_bindings)
     units = E._array(bundle["units"], maximum=1024)
     need(bool(units), "SUCCESSOR_NEW_UNITS_REQUIRED")
     stats = bundle["stats"]
-    need(type(stats) is dict and set(stats) == {"source_records_enumerated", "selected_units", "dependency_edges",
-         "scan_nodes", "unit_json_bytes", "boundary_imports"} and
+    statistic_fields = {"source_records_enumerated", "selected_units", "dependency_edges",
+                        "scan_nodes", "unit_json_bytes", "boundary_imports"}
+    if candidate:
+        statistic_fields.add("unresolved_imports")
+    need(type(stats) is dict and set(stats) == statistic_fields and
          all(type(x) is int and 0 <= x <= (1 << 64) - 1 for x in stats.values()) and
-         stats["selected_units"] == len(units) and stats["boundary_imports"] == len(available),
+         stats["selected_units"] == len(units) and stats["boundary_imports"] == claimed_count and
+         (not candidate or stats["unresolved_imports"] == unresolved_count),
          "SUCCESSOR_STATISTICS_CENSUS")
-    evidence_paths, identities, names, added = [], [], [], {}
-    nodes, evidence_bytes, unit_bytes, stream_bytes = 0, 0, 0, 2
-    units_path = directory / "units.json"
-    with units_path.open("xb") as output:
-        output.write(b"[")
-        for index, unit in enumerate(units):
+    supplementary_units, supplementary_boundary, supplementary_stats = [], {}, None
+    missing_keys = {E.name_key(name) for name in missing}
+    if supplement is None:
+        require_no_missing(missing)
+    else:
+        need(candidate and bool(missing), "SUPPLEMENT_NOT_NEEDED")
+        need(type(supplement) is dict and set(supplement) == {
+            "schema", "assurance", "profile_id", "context_id", "basis_id", "targets",
+            "boundary_imports", "units", "stats"} and
+            supplement["schema"] == "DMKN_ORDINARY_MISSING_IMPORT_BUNDLE_V1" and
+            supplement["assurance"] == "INERT_OWNER_EXPORT_NOT_MATHEMATICAL_ACCEPTANCE" and
+            supplement["profile_id"] == PROFILE and supplement["context_id"] == PARENT and
+            supplement["basis_id"] == BASIS, "EXACT_SUPPLEMENT_BUNDLE")
+        supplementary_targets = E._array(supplement["targets"], maximum=1024)
+        target_keys = [E.name_key(name) for name in supplementary_targets]
+        need(len(target_keys) == len(set(target_keys)) and set(target_keys) == missing_keys,
+             "SUPPLEMENT_EXACT_MISSING_TARGETS")
+        for row in E._array(supplement["boundary_imports"], maximum=65536):
+            name, symbol = E._array(row, 2)
+            key = E.name_key(name)
+            E._hex(symbol)
+            need(key not in supplementary_boundary and parent_bindings.get(key) == symbol,
+                 "SUPPLEMENT_PARENT_IDENTITY")
+            supplementary_boundary[key] = symbol
+        need(len(supplementary_boundary) + claimed_count + unresolved_count <= 65536,
+             "COMBINED_BOUNDARY_BOUND")
+        supplementary_units = E._array(supplement["units"], maximum=1024)
+        need(bool(supplementary_units), "SUPPLEMENT_UNITS_REQUIRED")
+        supplementary_stats = supplement["stats"]
+        need(type(supplementary_stats) is dict and set(supplementary_stats) == {
+            "source_records_enumerated", "selected_units", "dependency_edges", "scan_nodes",
+            "unit_json_bytes", "boundary_imports", "lookup_count"} and
+            all(type(x) is int and 0 <= x <= (1 << 64) - 1 for x in supplementary_stats.values()) and
+            supplementary_stats["selected_units"] == len(supplementary_units) and
+            supplementary_stats["boundary_imports"] == len(supplementary_boundary) and
+            supplementary_stats["lookup_count"] <= 65536, "SUPPLEMENT_STATISTICS_CENSUS")
+    need(len(supplementary_units) + len(units) <= 1024, "COMBINED_UNIT_COUNT_BOUND")
+    all_added, supplementary_added, candidate_added = {}, {}, set()
+    total_nodes, total_evidence, stream_bytes, emitted_count = 0, 0, 2, 0
+    lanes = [("supplement", supplementary_units, supplementary_stats), ("candidate", units, stats)]
+    for lane, selected, selected_stats in lanes:
+        if not selected:
+            continue
+        if lane == "supplement":
+            current = dict(supplementary_boundary)
+        else:
+            need(missing_keys <= set(supplementary_added), "SUPPLEMENT_MISSING_TARGET_OUTPUT")
+            current = dict(available)
+            # Do not quietly supply an undeclared extra candidate dependency.
+            for key in missing_keys:
+                current[key] = supplementary_added[key]
+        lane_bytes = 0
+        for unit in selected:
             census = E.inspect_unit(unit)
-            need(all(key in available for key in census.external_names), "UNBOUND_SUCCESSOR_REFERENCE")
-            imports = [[E.strict_json(key), available[key]] for key in census.external_names]
+            need(all(key in current for key in census.external_names),
+                 "UNBOUND_SUPPLEMENT_REFERENCE" if lane == "supplement" else "UNBOUND_SUCCESSOR_REFERENCE")
+            imports = [[E.strict_json(key), current[key]] for key in census.external_names]
             raw = E.canonical_json({"schema": E.SCHEMA, "profile_id": PROFILE, "imports": imports, "unit": unit})
             evidence = E.read_evidence(raw)
             encoded = E.canonical_json(unit)
-            nodes += census.total_nodes
-            evidence_bytes += len(raw)
-            unit_bytes += len(encoded)
-            stream_bytes += len(encoded) + (1 if index else 0)
-            need(nodes <= 2097152 and evidence_bytes <= 64 * MIB and stream_bytes <= 64 * MIB,
+            lane_bytes += len(encoded)
+            total_nodes += census.total_nodes
+            total_evidence += len(raw)
+            stream_bytes += len(encoded) + (1 if emitted_count else 0)
+            need(total_nodes <= 2097152 and total_evidence <= 64 * MIB and stream_bytes <= 64 * MIB,
                  "SINGLE_SUCCESSOR_BATCH_BOUND")
             for row in unit[2]:
                 name, key = row[0], E.name_key(row[0])
-                need(key not in parent_bindings and key not in added, "SUCCESSOR_EXISTING_OR_DUPLICATE_NAME")
+                need(key not in parent_bindings and key not in all_added,
+                     "SUCCESSOR_EXISTING_OR_DUPLICATE_NAME")
                 symbol = E.export_id(PROFILE, evidence.unit_id, name)
-                added[key], available[key] = symbol, symbol
+                all_added[key], current[key] = symbol, symbol
+                if lane == "supplement":
+                    supplementary_added[key] = symbol
+                else:
+                    candidate_added.add(key)
+                need(len(all_added) <= 65536, "SUCCESSOR_NAME_BOUND")
+            emitted_count += 1
+            yield evidence, encoded, lane
+        need(lane_bytes == selected_stats["unit_json_bytes"],
+             "SUPPLEMENT_UNIT_BYTES" if lane == "supplement" else "SUCCESSOR_TARGET_OR_BYTES")
+    need(E.name_key(target) in candidate_added, "SUCCESSOR_TARGET_OR_BYTES")
+
+
+def prepare_bundle(inputs, bundle_path, prepared, parent_bindings, target, directory, files,
+                   supplement_path=None):
+    original_raw = inputs.read(bundle_path, 64 * MIB)
+    bundle = G.writer_json(original_raw, 64 * MIB)
+    original_bytes = len(original_raw)
+    del original_raw
+    supplement = None
+    if supplement_path is not None:
+        need(original_bytes < 64 * MIB, "COMBINED_INPUT_BUNDLE_BOUND")
+        supplement_raw = inputs.read(supplement_path, 64 * MIB - original_bytes)
+        supplement = G.writer_json(supplement_raw, 64 * MIB - original_bytes)
+        del supplement_raw
+    evidence_paths, identities, names, added = [], [], [], {}
+    nodes, evidence_bytes, stream_bytes, supplemental_count = 0, 0, 2, 0
+    units_path = directory / "units.json"
+    with units_path.open("xb") as output:
+        output.write(b"[")
+        for index, (evidence, encoded, lane) in enumerate(successor_envelopes(
+                bundle, prepared, parent_bindings, target, supplement)):
+            raw = evidence.raw
+            nodes += evidence.census.total_nodes
+            evidence_bytes += len(raw)
+            stream_bytes += len(encoded) + (1 if index else 0)
+            supplemental_count += int(lane == "supplement")
+            for row in evidence.document["unit"][2]:
+                name, key = row[0], E.name_key(row[0])
+                symbol = E.export_id(PROFILE, evidence.unit_id, name)
+                added[key] = symbol
                 names.append(name)
-                need(len(names) <= 65536, "SUCCESSOR_NAME_BOUND")
             path = directory / "evidence" / f"{index:05d}.json"
             pin = files.write(path, raw, 8 * MIB)
             evidence_paths.append((path, pin))
@@ -362,14 +510,15 @@ def prepare_bundle(inputs, bundle_path, prepared, parent_bindings, target, direc
         output.write(b"]")
         output.flush()
         os.fsync(output.fileno())
-    need(E.name_key(target) in added and unit_bytes == stats["unit_json_bytes"], "SUCCESSOR_TARGET_OR_BYTES")
     with units_path.open("rb") as stream:
         unit_digest = hashlib.file_digest(stream, "sha256").hexdigest()
     need(units_path.stat().st_size == stream_bytes, "SUCCESSOR_UNITS_WRITE_SIZE")
-    return {"evidence": evidence_paths, "names": names, "added": added, "units": len(units),
+    return {"evidence": evidence_paths, "names": names, "added": added, "units": len(evidence_paths),
             "nodes": nodes, "evidence_bytes": evidence_bytes, "units_path": units_path,
             "units_pin": {"bytes": stream_bytes, "sha256": unit_digest},
-            "request_hash": C.digest("ordinary-batch-v1", identities), "owner_statistics": stats}
+            "request_hash": C.digest("ordinary-batch-v1", identities), "owner_statistics": bundle["stats"],
+            "supplemental_units": supplemental_count,
+            "supplemental_statistics": supplement["stats"] if supplement is not None else {}}
 
 
 def main():
@@ -378,12 +527,16 @@ def main():
     sys.stdout.reconfigure(encoding="utf-8")
     sys.stderr.reconfigure(encoding="utf-8")
     need(os.name == "nt" and Path.cwd() == ROOT and sys.flags.isolated and sys.flags.no_site and
-         sys.dont_write_bytecode and not sys.flags.optimize and len(sys.argv) == 6, "SELECTED_OWNER_INVOCATION")
+         sys.dont_write_bytecode and not sys.flags.optimize and len(sys.argv) in (6, 7), "SELECTED_OWNER_INVOCATION")
     output, bundle_path, prepare_path, manifest_path = map(Path, sys.argv[1:5])
+    supplement_path = Path(sys.argv[6]) if len(sys.argv) == 7 else None
     source = Path(__file__).resolve()
     need(output.is_absolute() and output.is_relative_to(LOCAL) and source.parents[3] == output / "sources" and
          all(p.is_absolute() and p.is_relative_to(LOCAL) for p in (bundle_path, prepare_path, manifest_path)),
          "SELECTED_SUCCESSOR_PATHS")
+    if supplement_path is not None:
+        need(supplement_path.is_absolute() and supplement_path.is_relative_to(LOCAL) and
+             supplement_path not in (bundle_path, prepare_path, manifest_path), "SELECTED_SUPPLEMENT_PATH")
     outer = trusted_json(bootstrap_read(output / "selection.json", 2 * MIB))
     need(outer["schema"] == "DMKN_V5_LOCAL_CHECK_V1" and
          sha(bootstrap_read(source, 2 * MIB)) == outer["sources"][source.relative_to(output / "sources").as_posix()],
@@ -445,7 +598,8 @@ def main():
         need(len(parent["modules"]) == 4 and len(parent["bindings"]) == 3622, "ACTUAL_ADOPTED_CONTEXT")
         prepared = prepared_bindings(inputs, prepare_path, parent["bindings"])
         files = G.AuthoredFiles()
-        batch = prepare_bundle(inputs, bundle_path, prepared, parent["bindings"], target, root, files)
+        batch = prepare_bundle(inputs, bundle_path, prepared, parent["bindings"], target, root, files,
+                               supplement_path)
         expected = dict(parent["bindings"])
         expected.update(batch["added"])
         plan = {"basis_module": C.module_name(BASIS), "root_module": C.module_name(PARENT),
@@ -458,7 +612,10 @@ def main():
             "request_hash": batch["request_hash"], "target": target,
             "units": batch["units"], "new_names": len(batch["names"]),
             "encoded_nodes": batch["nodes"], "evidence_bytes": batch["evidence_bytes"],
-            "units_file": batch["units_pin"], "owner_statistics": batch["owner_statistics"]}, 2 * MIB)
+            "units_file": batch["units_pin"], "owner_statistics": batch["owner_statistics"],
+            "supplemental_units": batch["supplemental_units"],
+            "supplemental_statistics": batch["supplemental_statistics"],
+            "supplemental_bundle_sha256": inputs.pins[supplement_path]["sha256"] if supplement_path else ""}, 2 * MIB)
         remaining_cpu = cpu_cap - (time.process_time() - cpu_start)
         remaining_wall = wall_cap - (time.monotonic() - started)
         need(remaining_cpu >= 5 and remaining_wall >= 20, "INSUFFICIENT_SUCCESSOR_BUDGET")
@@ -531,6 +688,8 @@ def main():
             "parent_manifest_sha256": inputs.pins[manifest_path]["sha256"],
             "bundle_sha256": inputs.pins[bundle_path]["sha256"],
             "prepare_manifest_sha256": inputs.pins[prepare_path]["sha256"],
+            "supplemental_units": batch["supplemental_units"],
+            "supplemental_bundle_sha256": inputs.pins[supplement_path]["sha256"] if supplement_path else "",
             "worker_cpu_seconds": child_cpu, "controller_cpu_seconds": time.process_time() - cpu_start,
             "wall_seconds": time.monotonic() - started,
             "claims": "LOCAL_RECIPROCAL_CHECKED_EXTENSION_NOT_DISCOVERY_NOVELTY_GROWTH_OR_PUBLIC_RELEASE"}

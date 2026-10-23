@@ -4,6 +4,15 @@ This is the single evolving v5 source tree, not a completed release. The frozen
 v4 distribution is unchanged. Current architecture, ownership and open gates
 are in `../../research/cycles/v5-2026-10-07/PLAN.md` and `DECISIONS.md`.
 
+The current default direction is the affordable ordinary checked-library path
+under `ordinary_lean/`, not mandatory certificate production. See
+[current design](../../CURRENT-DESIGN.md) and [live work](../../research/NOW.md).
+Its source-use and checked reciprocal extension have run locally. Portable
+evidence/previews and the existing formal index are integrated at the metadata
+boundary; coherent portable catalog/onboarding and full public packaging remain
+unfinished. Existing client entries below describe the preserved assembled lane,
+not a claim that the new ordinary path is already wired into every client API.
+
 - [Ordinary runtime construction](client/RUNTIME.md): owner-adopted runtime
   configuration without fixed theorem/receipt/experiment inputs.
 - [Serve a retained workspace](client/SERVING.md): ordinary finite HTTP service

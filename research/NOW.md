@@ -1,5 +1,162 @@
 # Current research desk
 
+**2026-10-23 actual reciprocal extension independently adopted:** root read/
+adopts outcome468c1fba. Seven canonical new units were checked and committed
+in successor-admission01 (9b24d042); five original consumer units are unchanged.
+New root98e65adc, targetb0170e3c,3629total bindings,57504Bnew artifact; inner
+worker2.234375CPU, inclusive operation6.984375knownCPU (not additive). Original
+four roots/store unchanged. This establishes the local ordinary reciprocal loop,
+not novel discovery, useful-growth advantage or deployability. No native runtime
+remains. Next source work: portable catalog and eligible same-runtime one-chain
+import retaining accepted bytes, then real unknown-ID acquisition/reuse. No old
+check/proof replay. Current design/README now distinguish this from historical
+assembled certificate lane; full goal remains active.
+
+**2026-10-23 actual reciprocal admission selected:** all16combined controls
+passed (5b3d7043,0.265625knownCPU,clean closure). Root read/adopts full changed
+source and independent review; select ordinary-successor-admission-01 9b24d042
+for exactly the two recovered complete declarations plus unchanged five
+consumer05 units.120CPU/180wall/1536MiB, original pinned worker and verified
+private copy of adopted K, one actual live grant/commit. No original database
+mutation, accepted-proof replay or further consumer elaboration. Actual result
+is not assumed; complete v5 remains open.
+
+**2026-10-23 combined-admission source adopted; finite controls selected:** root
+read generator/controller82a6e630, selectora69d8b8e and16focused controls
+a2338b86; independent review finds no blocker. Select combined-controls01 only
+under30CPU/60wall/256MiB, preserving original receiver and raw consumer units.
+Once this changed-boundary check passes, select one seven-unit native extension
+over the adopted protected parent, not a basis/library replay. Pure identifier
+translation controls199f99b1 passed clean,0.25knownCPU; importer authority is
+still source work, not established by that metadata test.
+
+**2026-10-23 portable discovery passed; portable local authority selected:**
+controls01 c5f2b77b passed all4groups with empty stderr/clean closure,
+0.46875knownCPU. Local Git af7969f records reviewed portable identity/discovery
+sources. Root fully read catalog contract26553e97 and selects source-only
+PortableCatalog preserving actual snapshot module names and one-time local
+activation. No permanent dual-store authority or old proof replay. Root's pure
+legacy_identity_translation helper preserves raw units and exact import pairing;
+select its small native-free boundary checks only,30CPU/60wall/256MiB. No
+migration runtime or catalog adoption is selected. Combined receiver is next.
+
+**2026-10-23 missing closure exported; real discovery controls selected:**
+completion01 80ff6192 passed clean:2new units,34point lookups,32accepted boundary
+imports,36382bundle bytes;1.796875knownCPU including wrapper. Candidate05 and
+protected K unchanged; two supplemental units remain inert pending combined
+checking. Root fully read portable-discovery four-group controls36c229b7 and
+selects fresh ordinary-portable-discovery-controls-01,30CPU/60wall/256MiB, actual
+existing Store/Query/Candidate path, no Lean or mathematical-catalog operation.
+
+**2026-10-23 missing-import build passed; actual extraction selected:** build01
+aa2386b5 produced both new modules and executable with ten empty native logs,
+clean closure,4.625JobCPU plus1.0wrapperCPU. Read/adopt selector review7a84c4f7;
+select completion01 under120CPU/150wall/1536MiB,100s nonrenewing pipe deadline.
+Trusted installed Std closure is nonhermetic (explicit binary pins, not every
+installed module); this supplies only inert complete units for later independent
+checking. No library closure rebuild/hash campaign or original state mutation.
+
+**2026-10-23 missing-import two-module build selected:** root read/adopts CLI,
+bounded pipe/controller and retained-artifact build reviews (no source blocker).
+Select only ordinary-missing-import-build-01,120CPU/150wall/1536MiB, reuse four
+exact old object/interface pairs. Header-only inverse module wrapper preserves
+all mathematical body bytes. Actual extraction and combined admission remain
+separate selections; no original K writes. Portable discovery review60cd4274
+fully read/adopted for source scope, small real-engine controls forthcoming.
+
+**2026-10-23 consumer05 exports actual new work; missing completion selected:**
+Consumer05 (5bf7e5ce) completed source construction and the unchanged downstream
+proof: five complete units, 103060 bundle bytes, 23.640625 known CPU seconds.
+Independent outcome1174c66d confirms all37 explicit IDs and seven of eight
+unresolved names belong to protected K; only List.map_congr_left is missing.
+No known-failing admission is launched. Select general finite missing-library
+completion: one private installed Std module environment, bounded point lookups
+into K, complete missing units then one unchanged combined receiver check.
+No accepted-proof replay, producer import, axiom exception or certificate.
+CLI reviewe280b908 supports source; root build/pipe controller await review.
+Portable discovery source is independently reviewed in parallel; actual Store/
+Query changed-boundary controls are being authored. Full v5 remains unfinished.
+
+**2026-10-23 deferred helper build and pure controls passed:** four modules
+compiled with eight empty logs/clean closure (9aaa09f0,5.59375knownCPU).
+Repaired native-free controls passed13binding cases (33c133bc,0.1875knownCPU)
+and15portable cases (2fd4f2db,0.203125knownCPU). Root read all changed sources,
+inspected outcomes and selects consumer05 inert authoring/export only under
+the unchanged120CPU/150wall/1536MiB envelope. This does not permit promotion;
+independent deferred-source review remains required before receiver admission.
+Failed predecessor snapshots remain unchanged; no accepted proof replay.
+
+**2026-10-23 deferred helpers selected; pure test fixtures need repair:**
+root read dynamic scheduler/new candidate exporter/controller and selects only
+four-module authoring build,120CPU/195wall/1536MiB, retaining all lower artifacts.
+Independent review continues before actual consumer. Portable-controls01 failed
+at its orphan fixture's earlier EXPR_ROOT gate (12groups passed); deferred01
+used tuples instead of JSON-list rows in its fixture (5passed,8failed/error).
+Authors repair those fixtures only. Product strictness and failed bytes remain.
+
+**2026-10-23 finite pure controls selected:** root read portable evidence/preview
+sources and15in-memory boundary groups, plus13deferred-import resolver controls.
+Select distinct portable-controls01 and deferred-import-controls01, each
+30CPU/60wall/256MiB under pinned Python, in parallel. No Lean/catalog/network,
+no old suite repeats. These discriminate new metadata/resolution boundaries;
+they do not establish mathematical acceptance or portability of native artifacts.
+
+**2026-10-23 deferred import binding selected:** saved-outcome audit af5b3a4c
+confirms Iff.rfl already belongs to accepted parent (exact symbol5ca2de3b).
+Select explicit inert candidate export: dynamic safe-import stopping, reached
+unclaimed names plus unchanged claimed acquired IDs, no all-parent authoring map.
+Root controller resolves the whole finite set in protected K before evidence/
+native work, refuses all absent names together, preserves known ID checks and
+complete new-proof admission. New candidate schema is not portable evidence or
+a warrant. successor_export owns Lean seam; reviewer audits changed sources;
+root owns controller/selection. V2 pure evidence/preview source separately ready;
+focused pure controls are being authored, no migration runtime selected.
+
+**2026-10-23 consumer04 constructed and elaborated; export safely refused:**
+selection0d2df166 finished clean with28.90625knownCPU. Three acquired handles
+were installed (two checked definitions and one scratch theorem signature),
+546construction scan nodes; the unchanged downstream proof elaborated, but
+export reached imported Iff.rfl outside833prepared labels. No bundle or
+receiver acceptance. Select source/theory resolution of general reached imports,
+not one-name map patches or full-library correspondence. Prior result preserved.
+
+**2026-10-23 resumed reciprocal integration:** root read/adopts construction
+source review fb3bcd70 and inspected helper02's five successful native steps,
+ten empty logs and clean closure (6.0 known CPU seconds). Select one fresh
+owner-consumer04 using retained request/helper02, unchanged substantive proof
+and 120CPU/150wall/1536MiB limits. Receiver policy is unchanged. Independent
+actual audit follows. In parallel select source-only portable evidence/preview
+helpers and a concrete V2 catalog migration contract; no migration/runtime yet.
+These advance ordinary contribution and interoperable discovery, not certificates.
+
+**2026-10-23 construction build02 selected after syntax-only refusal:** build01
+stopped at OwnerConstruction's mixed shorthand/explicit return syntax, no
+successful module artifact;2.15625knownCPU retained. Root makes the same index
+return fields explicit and selects fresh faf57e3d with unchanged five modules/
+limits/prerequisites. No semantic repair, receiver rebuild or policy relaxation.
+
+**2026-10-23 construction helper build selected:** root read OwnerConstruction
+94e85e23, compact planb2cb820c and both new command/current explicit exporter
+sources. Select five-module build (new helper, exporter, its reused old command
+dependency, new construct/export commands),150CPU/240wall/1536MiB, retaining all
+lower successful public artifacts. No receiver source/profile change; no actual
+consumer until independent source review. No duplicate matcher campaign.
+
+**2026-10-23 authority reaudit selects simpler construction:** root fully read/
+adopts AUTHORING-AUTHORITY-REAUDIT06dca04b. Whole-owner body correspondence is
+not a premise of final acceptance: the receiver checks complete new units in K.
+Select new OwnerConstruction plus explicit construct/export commands, preserving
+old exact APIs. Demand only absent target/type/definition dependencies; reuse
+existing local imports without body scans. Already accepted missing theorem
+types may become checked authoring-only axiom signatures, NEVER new receiver
+axioms or warranted snapshots. Missing definitions/generated groups retain full
+local checking; no overwrite, missing demanded basis refuses. First bounded
+adapter uses existing prepared833labels as receiver interpretation, not semantic
+correspondence; export validates only reached imports and refuses new local-name
+collisions except tracked construction-introduced names. Current final receiver
+can keep its exact prepared+parent identity checks, raw-unit checking and commit.
+No runtime selected until source review; prior failed evidence stays frozen.
+
 **2026-10-23 consumer03 terminal; actual authoring closure is next:** read/adopt
 expanded review39b294c6: helpers and22matcher controls passed; consumer03 safely
 refused missing private basis support before installation,5.359375knownCPU.

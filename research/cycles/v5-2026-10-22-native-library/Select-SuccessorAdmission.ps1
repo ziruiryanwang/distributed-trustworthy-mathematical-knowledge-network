@@ -1,6 +1,7 @@
 param(
     [Parameter(Mandatory=$true)][string] $Name,
-    [Parameter(Mandatory=$true)][string] $Consumer
+    [Parameter(Mandatory=$true)][string] $Consumer,
+    [string] $SupplementBundle = ''
 )
 $ErrorActionPreference = 'Stop'
 $projectRoot = 'E:\Distributed Trustworthy Mathematical Knowledge Network'
@@ -47,6 +48,32 @@ $bundle = Join-Path $consumerPath 'consumer-export.json'
 if ($report.status -ne 'PASS_OWNER_SOURCE_USE_AND_INERT_SUCCESSOR_EXPORT' -or (Hash-File $bundle) -ne $report.export_sha256 -or (Get-Item -LiteralPath $bundle).Length -ne $report.export_bytes) { throw 'Successful exact consumer export required' }
 $prepare = Join-Path $consumerPath 'PREPARE-RESULT.json'
 foreach ($path in @($resultPath,$consumerSelection,$consumerReport,$bundle,$prepare)) { $pins[$path] = Hash-File $path }
+if ($SupplementBundle) {
+    if (-not [IO.Path]::IsPathRooted($SupplementBundle)) { throw 'Absolute supplemental bundle required' }
+    $supplementPath = [IO.Path]::GetFullPath($SupplementBundle)
+    if (-not $supplementPath.StartsWith($local + '\',[StringComparison]::OrdinalIgnoreCase) -or
+        [IO.Path]::GetFileName($supplementPath) -ne 'supplement.json') { throw 'Selected local supplement.json required' }
+    $supplementDirectory = [IO.Path]::GetDirectoryName($supplementPath)
+    $completionPath = Join-Path $supplementDirectory 'COMPLETION-RESULT.json'
+    $completionResultPath = Join-Path $supplementDirectory 'RESULT.json'
+    $completionSelectionPath = Join-Path $supplementDirectory 'selection.json'
+    $completion = Get-Content -Raw -LiteralPath $completionPath | ConvertFrom-Json
+    $completionResult = Get-Content -Raw -LiteralPath $completionResultPath | ConvertFrom-Json
+    if ($completionResult.result.status -ne 'COMMAND_EXITED_ZERO_AND_CLOSED' -or
+        $completionResult.selection_sha256 -ne (Hash-File $completionSelectionPath) -or
+        $completion.status -ne 'PASS_MISSING_COMPLETE_UNITS_EXPORTED_NOT_ACCEPTED' -or
+        $completion.bundle_sha256 -ne (Hash-File $supplementPath) -or
+        $completion.bundle_bytes -ne (Get-Item -LiteralPath $supplementPath).Length -or
+        $completion.candidate_sha256 -ne (Hash-File $bundle) -or
+        $completion.parent_database_sha256 -ne 'bcb94ff9695f4d360205eaf8f81151f1cf70437c0e6c434b48f6993d893980e9') {
+        throw 'Clean exact supplemental extraction bound to this candidate and parent required'
+    }
+    $completionRequestPath = Join-Path $supplementDirectory 'request.json'
+    if ($completion.request_sha256 -ne (Hash-File $completionRequestPath)) { throw 'Exact completion request required' }
+    foreach ($path in @($supplementPath,$completionPath,$completionResultPath,$completionSelectionPath,$completionRequestPath)) {
+        $pins[$path] = Hash-File $path
+    }
+}
 $store = Join-Path $local 'ordinary-native-recovery-01\native-recovery\catalog'
 $directories = @()
 $files = [ordered]@{}
@@ -78,9 +105,11 @@ $sources = [ordered]@{}
 foreach ($relative in @('tools/Run-V5-Check.py','software/v5/ordinary_lean/run_successor_admission.py')) {
     $sources[$relative] = Hash-File (Join-Path $projectRoot $relative)
 }
+$arguments = @('D:\Python314\python.exe','-I','-S','-B','{snapshot}\software\v5\ordinary_lean\run_successor_admission.py','{output}',$bundle,$prepare,$manifestPath,'DMKN.ReadFootprint.Consumer.snapshot_predicate_applyBatches')
+if ($SupplementBundle) { $arguments += $supplementPath }
 $selection = [ordered]@{
     schema='DMKN_V5_LOCAL_CHECK_V1';name=$Name;sources=$sources;runtime_pins=$pins
-    argv=@('D:\Python314\python.exe','-I','-S','-B','{snapshot}\software\v5\ordinary_lean\run_successor_admission.py','{output}',$bundle,$prepare,$manifestPath,'DMKN.ReadFootprint.Consumer.snapshot_predicate_applyBatches')
+    argv=$arguments
     limits=[ordered]@{cpu_seconds=120;wall_seconds=180;memory_mib=1536;active_processes=3;stdout_bytes=1048576;stderr_bytes=1048576}
 }
 if ($pins.Count -gt 256) { throw 'Runtime pin bound' }

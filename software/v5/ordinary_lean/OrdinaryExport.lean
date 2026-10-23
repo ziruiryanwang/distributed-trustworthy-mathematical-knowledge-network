@@ -120,22 +120,59 @@ structure Exported where
       This is a bundle lookup map, not the exact per-unit evidence imports. -/
   boundaryReferences : Array Name := #[]
 
-/-- Shared closure scheduler. The boundary must already be established by the
-    caller: fixed checked-basis correspondence, or authenticated owner rebinding.
+/-- Optional trusted owner-side construction boundary. A positive answer only
+    stops inert serialization; it is never an accepted external symbol. The
+    receiver must independently resolve every reached stopped name. -/
+structure DynamicBoundary where
+  stop : Name → IO Bool
+  maxLookups : Nat := 262144
+  maxNames : Nat := 65536
+
+/-- Shared inert closure scheduler. The caller establishes the static stopping
+    boundary; optional dynamic stops are only deferred interpretation requests.
     Names alone never constitute a warrant. A source with empty grouping avoids
     a census until a genuinely new inductive group requires its complete records.
     Existing proof bodies at the boundary are neither loaded nor serialized. -/
 def selectedFromBoundary (indexed : IndexedSource) (basisNames : Array Name)
-    (targets : Array Name) (limits : Limits := {}) : IO Exported := do
+    (targets : Array Name) (limits : Limits := {})
+    (dynamic : Option DynamicBoundary := none) : IO Exported := do
   if targets.isEmpty || targets.size > limits.maxTargets then fail "TARGET_BOUND"
   let mut active := indexed
   let mut basis : Std.HashSet Name := {}
   for name in basisNames do basis := basis.insert name
+  let staticBasis := basis
+  let memo ← IO.mkRef ({} : Std.HashMap Name Bool)
+  let stoppedCount ← IO.mkRef basis.size
+  if let some policy := dynamic then
+    if policy.maxLookups == 0 || policy.maxNames == 0 || basis.size > policy.maxNames then
+      fail "DYNAMIC_BOUNDARY_LIMITS"
+  let stopAt : Name → IO Bool := fun name => do
+    if staticBasis.contains name then return true
+    let some policy := dynamic | return false
+    let known ← memo.get
+    if let some result := known[name]? then return result
+    if known.size >= policy.maxLookups then fail "DYNAMIC_BOUNDARY_LOOKUP_BOUND"
+    CheckedExtension.requireName name
+    let result ← policy.stop name
+    if result then
+      let count ← stoppedCount.get
+      if count >= policy.maxNames then fail "DYNAMIC_BOUNDARY_NAME_BOUND"
+      stoppedCount.set (count + 1)
+    memo.set (known.insert name result)
+    return result
+  let scheduleNext : SourceRecords → Pending → Name → IO Pending := fun source pending name => do
+    if ← stopAt name then return pending
+    CheckedExtension.requireName name
+    let key ← BootstrapProbe.owner source name
+    if ← stopAt key then fail "BASIS_GROUP_STRADDLE"
+    if pending.seen.contains key then return pending
+    if pending.keys.size >= limits.maxUnits then fail "SELECTED_UNIT_BOUND"
+    return { keys := pending.keys.push key, seen := pending.seen.insert key }
   let mut boundaryRefs : Std.HashSet Name := {}
   let mut pending : Pending := {}
   for name in targets do
-    if basis.contains name then boundaryRefs := boundaryRefs.insert name
-    pending ← schedule active.source basis pending name limits
+    if ← stopAt name then boundaryRefs := boundaryRefs.insert name
+    pending ← scheduleNext active.source pending name
   let mut cursor := 0
   let mut units : Std.HashMap Name BootstrapProbe.UnitInfo := {}
   let mut dependencies : Std.HashMap Name (Array Name) := {}
@@ -158,26 +195,26 @@ def selectedFromBoundary (indexed : IndexedSource) (basisNames : Array Name)
       fail "UNIT_INVENTORY_BOUND"
     let mut emitted : Std.HashSet Name := {}
     for name in unit.emitted do
-      if basis.contains name then fail "BASIS_GROUP_STRADDLE"
+      if ← stopAt name then fail "BASIS_GROUP_STRADDLE"
       if emitted.contains name then fail "DUPLICATE_GROUP_OUTPUT"
       emitted := emitted.insert name
     scanNodes := scanNodes + unit.scanNodes
     if scanNodes > limits.maxScanNodes then fail "SELECTED_SCAN_BOUND"
     for name in unit.refs do
-      if basis.contains name then
+      if ← stopAt name then
         boundaryRefs := boundaryRefs.insert name
-      else if basis.contains (← BootstrapProbe.owner active.source name) then
+      else if ← stopAt (← BootstrapProbe.owner active.source name) then
         -- A group owner without its referenced generated member is not a
         -- complete stopping boundary. Never silently treat it as an import.
         fail "BOUNDARY_GROUP_STRADDLE"
     let mut deps : Std.HashSet Name := {}
     for edge in unit.edges do
-      if !basis.contains edge.dep then deps := deps.insert edge.dep
+      if !(← stopAt edge.dep) then deps := deps.insert edge.dep
     let ordered := orderedNames deps.toArray
     edgeCount := edgeCount + ordered.size
     if edgeCount > limits.maxEdges then fail "SELECTED_EDGE_BOUND"
     for dep in ordered do
-      pending ← schedule active.source basis pending dep limits
+      pending ← scheduleNext active.source pending dep
     dependencies := dependencies.insert key ordered
     units := units.insert key unit
   -- Kahn scheduling is linear in selected units/edges after deterministic

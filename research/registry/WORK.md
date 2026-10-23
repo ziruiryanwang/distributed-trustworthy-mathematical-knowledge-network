@@ -4,6 +4,55 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 reciprocal native loop complete/audited. New agent portable_local_import
+owns ONLY legacy_catalog_import.py and PORTABLE-LOCAL-IMPORT-IMPLEMENTATION,
+one eligible same-runtime local chain. Coordinate exact activation schemas with
+portable_integration_audit (portable_catalog.py). Root supplies future manifests/
+correspondence/selection, owns pure translator and Git. admission_event_audit
+finished actual7unit audit and reviews translator next. No runtime or native
+replay is live; no source author may launch an importer or modify accepted K.
+
+2026-10-23 next coherent authority: portable_integration_audit now owns ONLY
+new portable_catalog.py and PORTABLE-CATALOG-IMPLEMENTATION; discovery review
+and controls are complete. Root owns pure legacy_identity_translation.py and
+legacy_translation_checks.py, later source eligibility/import integration.
+All code is source-only until explicit small control selection; no migration,
+snapshot rewriting, dual-store promotion or proof replay. The original native
+worker remains unchanged. Other active combined-admission assignments continue.
+
+2026-10-23 current after consumer05: root owns missing-import native build,
+bounded pipe controller, all runtime selections/adoption and Git. successor_export
+owns MissingImportExporter and optional combined run_successor_admission plus
+Select-SuccessorAdmission source; checkpoint MISSING-IMPORT-COMPLETION-PLAN and
+COMBINED-ADMISSION-IMPLEMENTATION. admission_event_audit reviews those changed
+boundaries in MISSING-IMPORT-COMPLETION-REVIEW. portable_integration_audit owns
+PORTABLE-DISCOVERY-REVIEW and new ordinary_export_adapter_checks.py source only.
+Canonical native-library cycle; no old experiment repeats or original K writes.
+
+2026-10-23 after consumer04: successor_export finishes V2 catalog contract then
+owns OrdinaryExport dynamic boundary helper, SuccessorExport deferred API and
+ConstructExportCommand candidate schema; source only. Root owns controller
+resolution and build/runtime selectors. admission_event_audit owns
+DEFERRED-IMPORT-SOURCE-REVIEW and focused binding-control source. preview_boundary_review
+owns portable_identity_checks.py source. No old experiment repeats or runtime
+until exact new source review; no mutation of accepted native state.
+
+2026-10-23 resumed: root owns consumer04/successor runtime, adoption and Git.
+admission_event_audit owns CONSTRUCTION-RECIPROCAL-OUTCOME saved actual audits.
+preview_boundary_review owns new portable_evidence.py/portable_preview.py and
+PORTABLE-EVIDENCE-PREVIEW checkpoint (source only; V1 preserved).
+successor_export owns PORTABLE-CATALOG-CONTRACT concrete V2 migration design,
+no catalog code/runtime yet. Coordinate portable API directly; no duplicated
+proof/basis campaigns, no second permanent cross-store warrant authority.
+
+2026-10-23 authority simplification: preview_boundary_review owns ONLY new
+OwnerConstruction.lean and OWNER-AUTHORING-CLOSURE-PLAN/implementation checkpoint.
+successor_export owns new OwnerConstructCommand/ConstructExportCommand plus
+explicit SuccessorExport candidate-interpretation function, preserving old API.
+admission_event_audit reviews changed sources in OWNER-CONSTRUCTION-SOURCE-REVIEW.
+Root owns driver/selection/runtime/Git. Same accepted request and receiver,
+no new catalog RPC or axiom admission. Exact/abstract predecessor remains intact.
+
 2026-10-23 continued: preview_boundary_review owns OwnerRebind/OwnerUse explicit
 abstract policy source and ABSTRACT-AUTHORING-IMPLEMENTATION; admission_event_audit
 owns successor-controller review then changed authoring-boundary review.

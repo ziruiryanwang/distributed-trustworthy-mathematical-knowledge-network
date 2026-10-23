@@ -1,6 +1,9 @@
 """Selected original-source reuse and new inert export in one owner process.
 
 The prepared request is authenticated local controller input, not a peer warrant.
+The selected mode constructs a candidate in the owner's ordinary environment;
+it does not assert whole-owner semantic correspondence. Acquired theorem
+signatures and any compiled authoring artifact are not receiver acceptance.
 This builds no prerequisite and never imports the producer module. It retains
 the substantive existing consumer proof body verbatim. A successful source
 compile/export is NOT independent receiver acceptance or a growth measurement.
@@ -115,10 +118,10 @@ def main():
     # JSON string quoting agrees with Lean for these bounded ASCII paths/IDs.
     quote = lambda value: json.dumps(str(value), ensure_ascii=True)
     header = ("module\n\npublic import Std.Data.ExtHashMap.Lemmas\n"
-              "public import OwnerUseCommand\npublic import SuccessorExportCommand\n\n"
+              "public import OwnerConstructCommand\npublic import ConstructExportCommand\n\n"
               "public section\n\n"
-              f"#ordinary_use_abstract {quote(request)} {quote(PROFILE)} {quote(CONTEXT)} {quote(BASIS)}\n")
-    footer = f"\n#ordinary_export_above {TARGET} {quote(output / 'consumer-export.json')}\n"
+              f"#ordinary_construct {quote(request)} {quote(PROFILE)} {quote(CONTEXT)} {quote(BASIS)}\n")
+    footer = f"\n#ordinary_export_constructed {TARGET} {quote(output / 'consumer-export.json')}\n"
     generated = header.encode() + body + footer.encode()
     target = owner_source / "AcquiredReadFootprintConsumer.lean"
     with target.open("xb") as stream:
@@ -126,7 +129,8 @@ def main():
     source_map = {"original_sha256": sha(original), "retained_body_sha256": sha(body),
                   "generated_sha256": sha(generated), "requested_target": TARGET,
                   "producer_imported": False, "prepared_request_sha256": PREPARE_SHA,
-                  "definition_view": "existingAbstract", "receiver_policy_changed": False}
+                  "construction_mode": "receiver-interpreted-candidate",
+                  "whole_owner_correspondence_claimed": False, "receiver_policy_changed": False}
     with (output / "CONSUMER-SOURCE-MAP.json").open("x", encoding="utf-8") as stream:
         json.dump(source_map, stream, indent=2)
     env = dict(os.environ)

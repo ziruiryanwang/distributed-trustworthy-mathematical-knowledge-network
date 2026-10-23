@@ -1,21 +1,43 @@
 # Current design: decentralized Lean mathematical commons
 
-Updated: 2026-10-22. This is a mutable navigation page, excluded from frozen checkpoint manifests.
+Updated: 2026-10-23. This is a mutable navigation page, excluded from frozen checkpoint manifests.
 
 ## Current candidate architecture: v5
 
-**Latest direction: usefulness-led architecture reaudit.** The
+**Latest direction: an ordinary checked-library commons, with certificates optional.** The
 [whole-protocol audit](research/cycles/v5-2026-10-22-architecture-reaudit/ARCHITECTURE-REAUDIT.md)
 recommends a persistent independently checked ordinary Lean library as the usable
 default, with optional succinct certificates for supported cold-delivery needs.
 The user explicitly permits compromises: bounded first-onboarding cost would be
 a visible relaxation of the earlier universal cold-service ambition, not weaker
-mathematical acceptance. This remains a design proposal, not an installed mode.
-Current native checking shares the restricted certification relation, so broad
-Lean interoperability needs its own exact acceptance boundary before durable
-cache design. The next selected source/theory investigation is that contract and
-one representative compatibility trace. Producer02 repairs are preserved on hold;
-no new certificate, runtime or executable trust-policy change is selected.
+mathematical acceptance. This is now implemented in development, not yet an
+installed public release. The ordinary checker uses Lean's original expression
+and declaration semantics independently of the earlier restricted certificate
+representation. Its precise supported subset and explicit foundation still apply.
+
+The local reciprocal path has now run: acquire checked interfaces, construct an
+ordinary Lean consumer, export its complete new proofs, recover genuinely missing
+installed-library declarations, and independently check the combined extension.
+The final seven-unit check reused the accepted parent snapshots without replaying
+their proofs. Scratch theorem signatures and authoring binaries never supplied
+receiver authority. See the [combined implementation and actual result](research/cycles/v5-2026-10-22-native-library/COMBINED-ADMISSION-IMPLEMENTATION.md)
+and [independent outcome](research/cycles/v5-2026-10-22-native-library/CONSTRUCTION-RECIPROCAL-OUTCOME.md).
+
+Portable evidence and type previews separate mathematical identity from local
+implementation/store identity. Their [discovery adapter](research/cycles/v5-2026-10-22-native-library/PORTABLE-DISCOVERY-REVIEW.md)
+passed the actual existing Store/Query path for unknown-ID formal queries, with
+bounded syntactic features and no mathematical-authority claim. A coherent
+[portable local catalog and one-time eligible local import](research/cycles/v5-2026-10-22-native-library/PORTABLE-CATALOG-CONTRACT.md)
+are the next implementation boundary; current native snapshot bytes are retained.
+
+These results do not establish independently hosted operation, broad workload
+benefit or a final deployable v5. Cold loading still depends on the selected local
+context; metadata queries still depend on selectivity and explicit coverage.
+The priority remains an integrated contribute/discover/acquire/reuse loop, then
+its full-cost benefit against a strong local-library baseline. No new certificate
+campaign is selected. The records below preserve the preceding assembled lane.
+
+### Preserved preceding certified lane
 
 The latest assembled candidate is the144-source installed-producer distribution
 identified at [NOW](research/NOW.md), release8a326340. Its
