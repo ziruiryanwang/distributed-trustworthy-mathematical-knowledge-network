@@ -1,5 +1,31 @@
 # Current research desk
 
+**2026-10-22 real ordinary workflow now selected:** root fully read/adopts
+EVIDENCE-CATALOG-OUTCOME: nine genuine storage/identity controls with synthetic
+nonmathematical files,0.90625knownCPU; no native acceptance inferred. Root also
+adopts workflow-build01 actual review: four new modules compile cleanly,
+7.046875knownCPU, exact core05/snapshot01 prerequisites reused. One real owner
+export01 is now running under selection293dc9be/session92319,120CPU/180wall/
+1536MiB. It reuses compiled ReadFootprint01; no receiver/basis check yet. Inspect
+its actual closure before choosing admission spending. Fresh agent
+ordinary_native_controller owns source-only run_native_admission.py and
+ACTUAL-ADMISSION-PLAN; actual native Job closure and exact report-to-grant binding
+must precede private catalog promotion. No certificates or external publication.
+
+**2026-10-22 persistent ordinary reuse advances, no certificate work:** Git5710998
+checkpoints the reviewed core and workflow investigation. New snapshot01 actually
+compiled and passed all seven exact controls with clean closure,3.21875knownCPU
+seconds; root independently read saved CHECKS/stdout. A/B use retained checked
+environments, save exact deltas, restore and support checking only new C. This is
+conditional-parent plumbing, NOT real basis adoption or final v5. E reader and
+snapshot source review is read/adopted; whole selected local chain loading cost
+is explicit. Root authored protected local_catalog under CONTROLLER-SELECTION;
+reviewer tests its storage/identity boundaries without claiming dummy bytes are
+mathematics. Parallel exporter reuses existing group/kernel machinery; separate
+BasisSnapshot calls the actual fixed receiveSeed, no Init shortcut. No runtime
+currently lives, no old successful campaign repeats, no external publication.
+Source integration to the real method remains central; full v5 stays active.
+
 **2026-10-22 core controls adopted, ordinary integration continues:** root fully
 read/adopts native-library/OUTCOME-CORE.md: actual three-module compile05, syntax
 controls05 and fifteen conditional-parent admission markers07. Failed01–06 are

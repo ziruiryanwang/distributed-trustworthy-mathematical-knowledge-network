@@ -4,6 +4,22 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 current: ordinary_native_controller (fresh agent) owns only source-only
+run_native_admission.py and ACTUAL-ADMISSION-PLAN. Earlier evidence/catalog,
+snapshot, exporter, basis and worker authors/reviewers are complete. Root owns
+selected owner-export01 runtime session92319, final source review/Git and later
+admission selection based on actual closure. No automatic batch/cap renewal;
+no core/snapshot/catalog suite repeats. Full-v5 goal remains open.
+
+2026-10-22 current: root owns local_catalog.py, source integration, finite runtime
+selection and Git; core is committed5710998. lean_workflow_trace reviews catalog
+and authors new evidence_catalog_checks only, not repeated core tests.
+ordinary_export_identity owns fresh narrowed BootstrapSupport and OrdinaryExport
+under SELECTED-CLOSURE-PLAN. lean_persistence_boundary owns BasisSnapshot actual
+seed writer and saved snapshot01 outcome. Snapshot01 terminal PASS/clean;
+no runtime is live. All actual experiment snapshots remain unchanged. Root read
+new EVIDENCE-SNAPSHOT review; full final-v5 remains unfinished.
+
 2026-10-22 current: core07 actual audit adopted by root; agent lean_workflow_trace
 finished OUTCOME-CORE, no rerun. ordinary_export_identity owns ordinary_evidence.py
 and EVIDENCE-FORMAT.md; lean_persistence_boundary owns LocalSnapshot.lean, both
