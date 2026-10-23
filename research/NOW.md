@@ -1,5 +1,85 @@
 # Current research desk
 
+**2026-10-23 resumed package implementation:** root verifies all four promoted
+source lengths/hashes exactly and adopts full saved generic outcome4d8e81b5;
+no operation is repeated. Source-only INTERFACE.md fixes adjacent package layout
+and pinned local profile. ordinary_api_flow implements builder; new owner_cli
+implements CLI/profile/worker; admission_event_audit reviews changed boundaries.
+Root owns integration and Git. Practical-value decisione4206a73 is adopted:
+persistent ordinary usage first, then existing-project compatibility against
+safe optimized package sharing; do not manufacture another growth fixture.
+No package build or native runtime is yet selected. Full v5 remains active.
+
+**2026-10-23 self-contained ordinary package source selected:** root read package
+plan08873f84. New software/v5/ordinary_package/ holds exact preserved receiver
+OrdinaryExport under receiver_source/ and three exact supervisor files under
+supervisor/. No original bytes or acceptance core change. Builder owns two
+isolated8receiver/13authoring source lanes and existing assembler reuse; separate
+owner CLI owns init/status/contribute plus adjacent AuthoringProfile descriptor
+and tiny author worker. Root owns promotions/integration/Git; independent review
+precedes any build/operation. No experiments/product-local dependency may remain
+in the package workflow. Old runtimes stay explicit owner attachments; no
+download, license choice, external deployment or completed campaign repeat.
+
+**2026-10-23 generic multi-output actual03 passed:** new API accepted caller's
+bare composeFour definition and preservesFour theorem using both acquired methods.
+Root read full actual result/authoring trace:2new units, local rootb67a398f,
+8.388005wall/6.515625knownCPU including setup, native admission1.390625CPU.
+No basis replay, old native module rebuild, network or certificate. Original
+local B state preserved; both earlier failures remain charged. Saved actual audit
+is underway. Next high-payoff work: reproducible ordinary source build/package
+without hidden experiments/ dependencies; separate theoretical value decision
+compares actual workflow with ordinary Lean package sharing. Full v5 stays active.
+
+**2026-10-23 explicit-source actual03 selected:** root adopts independent
+signature argument and changed-selector review3f57068c/fixturedc0ef049. Select
+ordinary-generic-contribution-actual-03 35eac726 with the documented smaller
+envelope. Only the caller proof's explicit parameters differ; accepted APIs,
+native wrapper and old evidence remain unchanged. Earlier failures stay visible.
+
+**2026-10-23 actual02 owner-source refusal retained; explicit proof selected:**
+Profile and construction passed (3groups,2theorem signatures), but Lean's
+result-guided implicit inference selected the wrong composition operand through
+the new definition. Native authoring refused; no admission/candidate acceptance.
+5.415143wall/4.5knownCPU remain charged. Root selects fresh caller-only
+GenericContributionExplicitBody.lean and select_generic_explicit_example.py.
+Independent source argument confirms exact acquired binder order and beta/delta
+equality; parameters are now explicit. Core/API/targets/statements unchanged;
+165wall/90CPU inner and195wall/105CPU outer. No old source/output is overwritten.
+
+**2026-10-23 corrected exact-support call selected:** independent review clears
+repair selectora6c4b14d; all29 original/copy files agree and actual01 performed
+no Lean/admission. Root selects fresh ordinary-generic-contribution-actual-02
+6322c9a1 with only the five added retained helper pins and reduced finite limits.
+Corec856d4b6/caller842bb90c unchanged; previous failure stays charged and frozen.
+
+**2026-10-23 actual01 support-census refusal retained:** actual01 exited cleanly
+with CONTRIBUTION_HELPER_UNPINNED_FILE before source/native work;2.185288wall,
+1.375knownCPU, no acceptance. The29-file local preservation fork is retained.
+Five ConstructExportCommand companions in the existing deferred-import helper
+build were absent from the inherited support selection. Root read their retained
+successful build record. Select source-only select_generic_support_repair.py:
+complete these five pins, keep all product/core/runner/source bytes unchanged,
+fresh02 under175wall/97CPU inner and205wall/112CPU outer. No old operation or
+certificate is resumed; actual02 launch waits for changed-plan review.
+
+**2026-10-23 generic actual call selected:** five pure groups passed once,
+0.637222wall/0.25knownCPU, empty stderr and clean closure. Root read stdout and
+source review; select ordinary-generic-contribution-actual-01 6d626a1b,
+owner-plane3f6f49f,180wall/100CPU inner and210wall/115CPU/1792MiB outer. One exact
+local B-state fork preserves originals; no initialization or old admission.
+Two acquired methods, caller-owned bare definition+theorem outputs through the
+new generic API and unchanged installed acceptance core. No new search/network,
+certificate or useful-growth claim. All selected sources/inputs/outputs freeze.
+
+**2026-10-23 generic controls selected after complete source review:** root read
+review3e82b2aa, implementatione7218c0e and controls844b8969. One-wrapper build01
+passed clean3.977828wall/2.65625knownCPU; no old modules rebuilt. Select
+ordinary-generic-contribution-controls-01 9e413f26 (five pure groups,
+30CPU/60wall/256MiB). Corec856d4b6 and controls0411b773 now freeze with snapshots.
+Actual caller842bb90c has reviewed finite plan6d626a1b; runtime waits for these
+controls. No basis/admission replay, certificate or peer deployment is selected.
+
 **2026-10-23 one generic export-wrapper build selected:** root and independent
 review read wrapperdc6988a6 and selectorb04e0b73. Select
 ordinary-generic-contribution-build-01 76fedee3: one new multi-target wrapper,

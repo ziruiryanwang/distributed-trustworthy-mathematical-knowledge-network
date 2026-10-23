@@ -4,6 +4,29 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 package assignments actually dispatched: ordinary_api_flow owns
+ordinary_package/build.py; new owner_cli owns owner.py/profile.py/author_worker.py;
+admission_event_audit owns ORDINARY-PACKAGE-REVIEW.md. Respective build/CLI notes
+live under the canonical native-library cycle. portable_integration_audit is
+not an active agent; owner_cli replaces that proposed ledger assignment.
+Root verified promotions and owns INTERFACE.md, integration, selections and Git.
+practical_value_next completed decisione4206a73; no duplicate package audit.
+
+2026-10-23 ordinary package source: root owns four exact promotions and interface
+coordination in software/v5/ordinary_package; ordinary_api_flow owns new builder
+and build checkpoint; portable_integration_audit owns new owner CLI/profile loader/
+author worker and CLI checkpoint; admission_event_audit reviews both new seams
+after closing actual03 saved audit. practical_value_next owns only value decision.
+Checkpoints remain canonical native-library cycle, no new registry hierarchy.
+
+2026-10-23 generic actual03 terminal: root owns integration/docs/Git;
+admission_event_audit owns saved actual03 outcome (including preserved01/02);
+ordinary_api_flow owns source-only ORDINARY-REPRODUCIBLE-PACKAGE-PLAN.md;
+fresh practical_value_next independently owns <=100line
+ORDINARY-NEXT-VALUE-DECISION.md comparing realistic ordinary-library baseline.
+Canonical native-library checkpoint directory for both. portable_integration_audit
+completed generic source/signature review; used source frozen. No runtime lives.
+
 2026-10-23 resumed assignment: portable_integration_audit owns only new
 ordinary_lean/ordinary_contribution.py and PortableContributionExportCommand.lean,
 with ORDINARY-GENERIC-AUTHORING-IMPLEMENTATION.md checkpoint; ordinary_api_flow owns

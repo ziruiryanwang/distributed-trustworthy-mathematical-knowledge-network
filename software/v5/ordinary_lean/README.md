@@ -29,11 +29,22 @@ one machine. This is operability evidence, not a worldwide-release/growth claim.
 | Plan a bounded missing delta | `owner.preflight(parent_root, raw_units, budget=...)` | Reports exact missing imports; a plan is never an acceptance token. |
 | Check and retain the delta | `owner.admit(parent_root, plan, budget)` | Revalidates, retains evidence, runs the controlled native checker and promotes only after a clean exact event. |
 | Reuse locally warranted knowledge | `portable_owner_request.py`, `portable_candidate.py` | Exact theorem signatures and necessary definition semantics for owner authoring; new exported proofs still require admission. |
+| Contribute caller-selected source | `ordinary_contribution.contribute_source` | An open owner, zero to 32 acquired exports, UTF-8 source body, and one to 32 new definition/theorem names; bounded authoring followed by the same independent admission. |
 | Locate/acquire/serve inert objects | `../transport/ordinary_acquisition.py` | Typed preview, export locator and complete unit evidence; custody does not transfer acceptance. |
 
-The concrete installed callers are `run_ordinary_api_producer.py` and
-`run_ordinary_api_receiver.py`; `ordinary_successor_authoring.py` works with an
-already open owner. These are selected development callers, not a universal
+The generic contribution API removes the earlier fixed theorem/template
+restriction. Its [contract](../../../research/cycles/v5-2026-10-22-native-library/ORDINARY-GENERIC-AUTHORING-IMPLEMENTATION.md)
+documents exact encoded names, pinned authoring support and shared parent-budget
+callbacks. Caller source is executable owner-approved code, never automatically
+downloaded peer source. `ContributionError.report` preserves accepted-root
+information if later publication fails; it also reports exact missing meanings.
+Preparing an acquired method does not require using it, and definitions need no
+theorem wrapper. The [explicit-source example](examples/GenericContributionExplicitBody.lean)
+shows two acquired methods producing a bare definition and a checked theorem.
+
+The earlier installed examples are `run_ordinary_api_producer.py` and
+`run_ordinary_api_receiver.py`; `ordinary_successor_authoring.py` is the older
+single-fixture helper. These are selected development callers, not a universal
 installer or permission to execute peer-supplied source. One finite caller budget
 must encompass its stages; do not renew grants inside missing-dependency loops.
 The owner closes its catalog; the caller separately closes custody and services.
