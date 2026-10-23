@@ -4,6 +4,30 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 public module export adopted; reverse project contribution selected
+source-only. retained_preparation: ordinary_project_return/ordinary_contribution.py,
+pure controls, ORDINARY-PROJECT-RETURN.md. project_hook_design: one actual public
+return harness source and existing EXPORT-SEAM note. practical_path_audit: narrow
+helper/control review, ORDINARY-PROJECT-RETURN-REVIEW.md. Root: one-helper overlay,
+selectors/launches, navigation and Git. All work under canonical root, disjoint
+paths. Earlier bridge/public package outcomes complete, not waiting or live.
+
+
+2026-10-23 module native02 reread failure: project_hook_design owns fresh
+OrdinaryModule03.lean/module_worker03.py with sequential-process phase boundary
+and existing native checkpoint. Root owns unchanged-controller integration and
+new harness/selector names. practical_path_audit owns saved outcome/phase review;
+retained_preparation continues distinct public command design. No RAM increase,
+unsafe region freeing, run, certificate or old-source rewrite selected here.
+
+2026-10-23 module native01 source failure: project_hook_design owns only fresh
+OrdinaryModule02.lean minimal elaboration corrections plus existing native note.
+Root owns filename-only native_check02/select_native_check02, selection and Git.
+practical_path_audit owns saved failure and exact successor review in existing
+bridge review. retained_preparation owns source-only public export integration
+section in ORDINARY-PROJECT-EXPORT-SEAM.md. Used source/evidence stay unchanged;
+no new runtime is selected by these assignments.
+
 2026-10-23 after native02 adoption: root owns ordinary_module_bridge/module_export.py
 and module_worker.py, local existing-owner integration without a native executable
 build. retained_preparation owns source-only closure_controls.py. Native and pure

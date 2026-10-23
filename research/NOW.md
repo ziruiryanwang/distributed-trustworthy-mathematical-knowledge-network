@@ -1,5 +1,149 @@
 # Current research desk
 
+**2026-10-23 resumed; public export independently adopted:** root read saved audit
+5c4c93e1: exact public result/manifest, three checked proof units, ordinary theorem
+use/reduction, runtime and artifact bindings, preserved old files and clean closure
+all pass. No rerun selected. Continue the recorded return-path correction in parallel:
+retained_preparation owns fresh ordinary_project_return helper/pure controls;
+project_hook_design owns one public return harness using the already-paid module;
+practical_path_audit owns changed-boundary review. Root owns one-helper file-only
+overlay, exact selections, navigation and Git. No owner reset, native rebuild,
+new certificate, module re-export or global-growth claim. Full v5 stays ACTIVE.
+
+
+**2026-10-23 public runtime raw pass; next reciprocal obstacle resolved in
+principle:** public-native01 completed export-module and normal theorem/reduction
+use in14.8253905wall/14.015625knownCPU with clean closure and old artifacts
+intact; independent saved audit pending. Root read adopted14phase/7public
+control review150a6c6c. Return-seam source inspection found a deterministic
+compatibility bug before testing: generated module identifiers have75characters,
+but project imports allow64. Select source-only ordinary_project_return successor
+of ordinary_contribution.py: exact single-component DMKNBridge_64lowerhex
+exception for imports only; all output-name/path/count/identity/checking rules
+remain. No shim, shortened hash, wider basis, native rebuild or run selected.
+retained_preparation owns helper/pure controls; root owns any later overlay;
+practical_path_audit reviews the narrow delta after current checkpoint.
+
+**2026-10-23 installed public module test selected:** root inspected all14phase
+and7public raw passes, clean closure/no real owner/native in mocks; independent
+saved control review proceeds in parallel. Select
+196c297f0aac48eeb7b6ee8af3ab71d010c394b582a15ae0ed09ff7de295493d,
+public-native01 against adopted profilef01398e3. One actual export-module CLI
+on existing B, then normal Lean consumer; original150wall/90CPU inner and
+180wall/110CPU/2048MiB/8process outer. No collision-repeat, owner initialization,
+admission, network, certificate or source build. Harnessaa24b931 and utility
+20f6c613 were source-reviewed; exact final/manifest/runtime/old-artifact bindings
+are required. Full v5 remains ACTIVE, not completed by this interoperability gate.
+
+**2026-10-23 two distinct focused controls selected in parallel:** root read
+reviewec132147: assembly01 exact126payload map adopted; phase/public control
+sources cleared. Select phase0821e4a06a4ac0160b0920b96e241e0557b0c964bcf6970ce033a293077d0994
+(14mocked phase cases,45wall/25CPU/512MiB/2process) and public
+49cfbc39c64a9e38beb39e66f59562ca95c46f2ce2c4a997a9997b3c4c74c797
+(7mocked CLI groups,60wall/35CPU/512MiB/2process). Disjoint fresh outputs;
+no real native/owner/database/network in either. Used sources freeze on use.
+The reviewed public installed test is still pending, not implied by these mocks.
+
+**2026-10-23 native03 independently adopted:** root read saved outcome33798941.
+Exact three original proof units, both rereads, ordinary consumer and genuine
+collision refusal all pass;7snapshots/142pins/9preserved artifacts match.
+19.858571wall/18.40625knownCPU, clean closure; no repeat selected. Public package
+assembly01 completed126payloads/37507415bytes, profile
+f01398e394a7bfda05f641469077cb74927aafd1cb1a3d42383d4b1d271e9435,
+4.8904011wall/2.40625knownCPU (saved-map audit pending). Root read independent
+public harness/selector review7b9e4e73; two pre-execution mistakes corrected:
+operational JSON is distinct from mathematics JSON, utility pin precedes exec.
+No public runtime selected until the focused control-source checks finish.
+
+**2026-10-23 actual module03 raw pass; public assembly selected:** construction,
+private/exported reread, normal theorem use/definition reduction and exact
+Init-collision refusal all completed.19.858571wall/18.40625knownCPU; independent
+saved outcome review pending. Root read public source review53f32f6d; select
+50fc0e0ffa0dc78156228b2b84eb387cf04ba4b00a42a859456a537addb0cf8a,
+file-only module-package-assembly01,90wall/50CPU/512MiB/2process outer.
+Exactly two replacements/four additions over support02; no native build,
+mathematical state or peer change. Public CLI and phase-fault controls remain
+separate source work, not a claim that package assembly establishes usability.
+
+**2026-10-23 sequential module native03 selected:** root read complete phase
+reviewe1902b2a. Select36c38ef70b59d00ca96aca05f5a80f6b662ced307c7c33122b575b6d1036a0f6:
+native9002e54d/worker35b24343, unchanged controller/collector/checker, same
+existing owner and three-stage discriminator. Original150wall/90CPU inner,
+180wall/110CPU/2048MiB outer; native grants still1536MiB. Construction/private
+reread/exported reread share one Job and only all-success can commit final report.
+No source/budget reuse of failed01/02. Public package remains source-only while
+this actual compatibility test runs; focused mocked phase/CLI faults are distinct.
+
+**2026-10-23 public ordinary-module seam selected, source only:** actual user
+workflow is checked commons result -> normal pinned Lean project. Select thin
+software/v5/ordinary_module_package successor: owner `export-module` with explicit
+--module-targets, existing parent/output/owner/budgets; profile pins unchanged
+collector/controller plus selected native/worker; file-only assembly, no rebuild.
+Return absolute module/manifest paths and supported runtime identity. No automatic
+project editing, remote binary acceptance, cache service or name-matching change.
+Root owns profile/assembly; retained_preparation owns CLI/docs. Runtime/package
+selection waits for native03 and exact changed-boundary review. This closes a
+usable interface gap, not broad-library or whole-v5 qualification.
+
+**2026-10-23 module native02 reached writer, reread failed:** all five module
+parts exist but no native success report/MODULE.json. Stderr failed to read an
+existing installed Init server artifact; inner peak1610625024bytes is near the
+1536MiB limit. Repeated imported regions remain live in the source path; do not
+claim missing-file cause or successful export. Clean closure,9.5391106wall/
+8.53125knownCPU, old artifacts intact. Select source-only03 phase separation:
+construction and each private/exported reread in sequential short-lived processes,
+same original supervised allowance, exact inputs/output hashes and final-report
+last. No memory increase, unsafe lifetime manipulation or automatic retry.
+Author owns native/worker03; root owns filename-only integration; reviewer audits
+saved failure and the phase contract. Public CLI design proceeds independently.
+
+**2026-10-23 module native02 narrow repair selected:** root read failure/delta
+review0fc819ff and exact three syntax fixes in OrdinaryModule02adf0302a.
+Select598abf541e74844edde67a35963fcb1615699b5cf0060bc54a430691a497da02,
+unchanged support02, three-stage workload and150wall/90CPU inner,
+180wall/110CPU/2048MiB outer. Harness/selector only rename selected files plus
+documented terminalLFs. No checker, mathematical policy, limit or fixture change.
+Failed01 remains failed/preserved. No automatic retry or closure-control repeat.
+
+**2026-10-23 module native01 failed before builder execution:** Lean reported
+source parser/elaboration errors (reserved `matches`, multiline import record,
+fallback application layout). No kernel checking, native report, module, consumer
+or collision check ran. Nine previous artifact hashes remain intact; clean
+closure,9.6165921wall/5.171875known inclusiveCPU. Retain failed source/evidence.
+Select minimal source-only OrdinaryModule02.lean and filename-only harness/
+selector successors; unchanged collector/controller/worker and original limits.
+Independent delta review precedes any fresh run. In parallel, design only the
+small public export command, not a new package manager or certificate campaign.
+
+**2026-10-23 ordinary-module native discriminator selected:** root read final
+independent source reviewf6a44067, corrected harness7e4891d0 and fresh
+selectora1eb44ad. Select9172113fcbc197d20341c890961b258a64ecd6b1dcd7a1c2cc230afb656899ae:
+existing-owner full-proof export, normal Lean theorem use/definition reduction,
+then genuine Init-name collision refusal before writing. One original150wall/
+90CPU inner allowance;180wall/110CPU/2048MiB/8process outer. All nine prior
+artifacts are prospectively pinned. No new owner/admission/certificate/build,
+no retry or repetition of passed closure controls. Used sources freeze on use.
+Existing-name reuse remains a separate source/theory decision, not permission
+to widen the trusted basis. Final deployable v5 remains ACTIVE and unfinished.
+
+**2026-10-23 module closure controls independently adopted:** root read saved
+reviewb90c8c9e. All seven groups pass; exact three original full-proof units,
+four source snapshots and135runtime/fixture pins match; no owner/native/network.
+2.8190wall/2.5625knownCPU, clean closure. No repeat selected. Prelaunch review
+caught native harness loading live source instead of selected snapshots; author
+is correcting it before runtime. One explicit Init-name collision refusal is
+included in the forthcoming native plan, within the original150wall/90CPU
+envelope, not a new certificate or broad checking campaign.
+
+**2026-10-23 module closure controls selected:** root read complete independent
+bridge source reviewf1462c00 (including closure-only selector clearance).
+Select5fbc12dbdc6af5997c0752e8e534bd742d915a0a535ef037839d3524ec780f48:
+seven native-free groups using three retained real units and explicit mock
+warrants,60wall/35CPU/512MiB/2process. Collector9bc94955 and controls8015039f
+freeze on use. No real owner/native/network and no automatic retry. Native
+module/consumer harness remains source-only. Completion checkpoint37e4e39
+is committed; unrelated historical working-tree changes remain untouched.
+
 **2026-10-23 actual missing-library workflow independently adopted:** root read
 review4f5adaf2. Native02 completed all three public calls: retained exact missing
 Nat.add_zero refusal, real nine-lookup proof extraction, then native CHECKED

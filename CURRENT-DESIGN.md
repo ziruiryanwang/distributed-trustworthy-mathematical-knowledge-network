@@ -48,10 +48,19 @@ unknown-ID discovery, actual missing-definition acquisition, independent checkin
 offline reuse/contribution, and rediscovery from a surviving contributor.
 The final client endpoint is discovery, not fresh mathematical acceptance.
 Compiled checking support was reused without a rebuild or certificate.
-The next source candidate is a thin explicit trusted-project authoring backend;
-the receiver, peer protocol and compiled helpers remain unchanged. It is not yet
-runtime-qualified for an existing project, and scratch binaries are not ordinary
-proof-complete Lean libraries.
+Trusted-project authoring and missing installed-library proof completion now have
+actual public-path evidence. The [ordinary module export](software/v5/ordinary_module_package/README.md)
+also passes its installed public command and normal Lean consumer: locally checked
+portable evidence becomes a proof-bearing module, with theorem application and
+transparent-definition reduction in a project that imports no commons helpers.
+The [independent audit](research/cycles/v5-2026-10-22-native-library/ORDINARY-PROJECT-EXPORT-SEAM.md)
+records exact artifacts and 14.83 seconds elapsed / 14.02 known inclusive CPU seconds.
+This first export rechecks the selected full proof closure; it is not proof-free
+cold onboarding or a growth comparison. No peer binary becomes mathematical authority.
+Next is the reverse project-contribution seam: the 75-character generated module
+name currently exceeds the project adapter's ordinary 64-character component cap.
+An exact import-only exception is selected; output-name and checking rules stay
+unchanged. Scratch authoring binaries remain distinct from proof-complete modules.
 
 These results do not establish independently hosted operation, broad workload
 benefit or a final deployable v5. Cold loading still depends on the selected local

@@ -21,8 +21,11 @@ the original discovery budget. The [installed-library completion path](ordinary_
 also has an actual author-once/extract-missing-proof/check-combined result,
 using the existing owner and unchanged receiver. No certificate is required.
 These additive development packages are not yet one consolidated public release.
-The next interoperability seam is exporting checked portable evidence as ordinary
-proof-bearing Lean modules, so a normal local project can reuse discovered work.
+The [public module-export command](ordinary_module_package/README.md) now has an
+independently audited actual export and ordinary Lean theorem/reduction consumer.
+Its first export pays the selected proof closure; no certificate is required.
+The next seam is contributing a new ordinary-project proof back using that paid
+module, after a narrow generated-import-name compatibility correction.
 Selective unfamiliar-vocabulary search, selected-context scaling, full-cost
 benefit, public packaging and deployment/security gates remain open. Existing
 client entries below describe the preserved assembled lane, not a claim that
