@@ -28,13 +28,23 @@ implementation/store identity. Their [discovery adapter](research/cycles/v5-2026
 passed the actual existing Store/Query path for unknown-ID formal queries, with
 bounded syntactic features and no mathematical-authority claim. A coherent
 [portable local catalog and one-time eligible local import](research/cycles/v5-2026-10-22-native-library/PORTABLE-CATALOG-CONTRACT.md)
-are the next implementation boundary; current native snapshot bytes are retained.
+are now implemented, with current native snapshot bytes retained. The installed
+[ordinary API loop](research/cycles/v5-2026-10-22-native-library/ORDINARY-API-RECIPROCAL-OUTCOME.md)
+has independently audited local evidence: a fresh B discovers A's method, checks
+its missing units, uses it twice in a new proof after A stops, and makes the new
+result discoverable and retrievable from cold B custody. The final C role acquires
+inert evidence; it does not independently accept the mathematics. No old proof
+campaign was repeated and no certificate was required.
 
 These results do not establish independently hosted operation, broad workload
 benefit or a final deployable v5. Cold loading still depends on the selected local
 context; metadata queries still depend on selectivity and explicit coverage.
-The priority remains an integrated contribute/discover/acquire/reuse loop, then
-its full-cost benefit against a strong local-library baseline. No new certificate
+The next priority is selective discovery from a local formal need without knowing
+private vocabulary, then full-cost benefit against a strong local-library baseline.
+The completed loop used an intentionally broad query and is not evidence of
+large-corpus selectivity. The [practical cost audit](research/cycles/v5-2026-10-22-native-library/ORDINARY-PRACTICAL-COST.md)
+separates global network size, selected local context, missing evidence closure
+and query posting work. No new certificate
 campaign is selected. The records below preserve the preceding assembled lane.
 
 ### Preserved preceding certified lane

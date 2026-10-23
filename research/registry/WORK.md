@@ -4,6 +4,59 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 root adopted reciprocal02 actual audit and owns documentation/Git.
+portable_integration_audit and ordinary_api_flow converge the smallest discovery
+design: existing pattern reuse and two-stage definition vocabulary discovery;
+new normalization engine is not selected. admission_event_audit completed saved
+reciprocal evidence audit and is available for the next changed-boundary review.
+No runtime is live. Source/theory checkpoints stay under native-library cycle.
+
+2026-10-23 root owns actual receiver01 and Git; producer02 actual outcome adopted.
+ordinary_api_flow completed successor helper/template (used source frozen on
+receiver selection). admission_event_audit completed source review, next saved
+receiver outcome only. portable_integration_audit completed ORDINARY-PRACTICAL-COST
+and owns source/theory-only ORDINARY-APPLICABILITY-DESIGN. Root must finish real
+reciprocal loop before selecting unknown-vocabulary search implementation.
+
+2026-10-23 root owns file-only installation/two-wrapper compile selections,
+actual adoption and Git. ordinary_api_flow owns only new
+run_ordinary_api_producer.py and ORDINARY-API-FLOW, staged installed A producer
+through existing APIs, source only. admission_event_audit reviews small installer
+then new producer boundary. Passed preflight/binder/locality/acquisition controls
+are retained, never repeated. Canonical native-library cycle checkpoints.
+
+2026-10-23 public ordinary API integration: ordinary_product_path owns new
+ordinary_admission.py; admission_event_audit reviews it and compact saved
+acquisition/native outcomes. portable_integration_audit now owns only new
+portable_owner_request.py, PortableOwnerConstructCommand.lean and
+PortableConstructExportCommand.lean plus PORTABLE-AUTHORING.md. Root owns new
+portable_candidate.py, later installation/public integration, runtime/Git.
+Preserve used V1 files and passed acquisition controls. No runtime is live.
+
+2026-10-23 imported01 terminal; root owns pending one-unit runtime selection/Git.
+ordinary_product_path now additionally owns new ordinary_admission.py ONLY,
+generic preflight/admission contract before implementation, plus product-path
+checkpoint. portable_integration_audit adds exact ExportID locator and atomic
+inert evidence/export retention to its unexecuted acquisition successor. Agents
+coordinate directly; no alias/native-handoff or old catalog source edits. Future
+stable installed controller support must exclude experiment-only selectors.
+
+2026-10-23 root selects actual metadata-only portable-import01 after complete
+source review721ffe0a. admission_event_audit owns compact actual import/handoff
+outcomes (read-only, no reruns). portable_integration_audit owns new ordinary
+typed acquisition/custody and narrowly approved optional http_provider routes.
+ordinary_product_path owns ORDINARY-PRODUCT-PATH source assessment of smallest
+public API/integration; no code/runtime. Native handoff author complete; root
+owns actual extension selection, adoption and Git. Full v5 remains open.
+
+2026-10-23 portable transition: root owns select_portable_import.py and
+run_portable_import.py, finite manifests, runtime/adoption/Git. Catalog source
+review7b98a06b adopted. portable_local_import finalizes importer only;
+admission_event_audit owns PORTABLE-LOCAL-IMPORT-REVIEW incl driver/selector.
+portable_integration_audit authors portable_catalog_checks.py and its cycle
+checkpoint, source only. No operation is live. Reuse completed reciprocal,
+translation and discovery controls, not duplicate tests.
+
 2026-10-23 reciprocal native loop complete/audited. New agent portable_local_import
 owns ONLY legacy_catalog_import.py and PORTABLE-LOCAL-IMPORT-IMPLEMENTATION,
 one eligible same-runtime local chain. Coordinate exact activation schemas with

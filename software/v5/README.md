@@ -7,11 +7,15 @@ are in `../../research/cycles/v5-2026-10-07/PLAN.md` and `DECISIONS.md`.
 The current default direction is the affordable ordinary checked-library path
 under `ordinary_lean/`, not mandatory certificate production. See
 [current design](../../CURRENT-DESIGN.md) and [live work](../../research/NOW.md).
-Its source-use and checked reciprocal extension have run locally. Portable
-evidence/previews and the existing formal index are integrated at the metadata
-boundary; coherent portable catalog/onboarding and full public packaging remain
-unfinished. Existing client entries below describe the preserved assembled lane,
-not a claim that the new ordinary path is already wired into every client API.
+Its installed APIs have completed the local contribute/discover/acquire/check/
+reuse/contribute loop, including cold successor rediscovery after the original
+provider stops. Portable catalog, independent onboarding and durable evidence
+custody are integrated in that path; see the [independent actual outcome](../../research/cycles/v5-2026-10-22-native-library/ORDINARY-API-RECIPROCAL-OUTCOME.md).
+This is same-machine workflow evidence, not a growth advantage or a public release.
+Selective unfamiliar-vocabulary search, selected-context scaling, full-cost
+benefit, public packaging and deployment/security gates remain open. Existing
+client entries below describe the preserved assembled lane, not a claim that
+the new ordinary path is already wired into every client API.
 
 - [Ordinary runtime construction](client/RUNTIME.md): owner-adopted runtime
   configuration without fixed theorem/receipt/experiment inputs.

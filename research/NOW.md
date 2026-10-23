@@ -1,5 +1,201 @@
 # Current research desk
 
+**2026-10-23 reciprocal actual audit adopted; economical discovery design:** root
+read/adopts ORDINARY-API-RECIPROCAL-OUTCOME: exact source/event/catalog/custody
+correspondence passes, 26.2342426wall/25.796875knownCPU, C remains inert.
+README/CURRENT-DESIGN now identify the working installed ordinary API boundary.
+No completed native operation is repeated. Before implementing a new reducer,
+designer/reviewer compare existing pattern/fingerprint/index mechanisms and the
+smaller two-stage route: discover a private definition by its bounded body shape,
+then search using its learned exact symbol. No search source/runtime selected yet.
+Full deployable v5 remains active; selective search and full-cost growth are open.
+
+**2026-10-23 reciprocal public API loop passed; useful discovery next:** fresh
+receiver02 5a808a5c completed clean26.2342426wall/25.796875knownCPU. B discovered
+composition via real unknown-ID search, acquired exact missing Stable definition,
+independently admitted2units, stopped A, authored+admitted1successor using the
+acquired theorem twice, then C rediscovered successor via B's index and fetched
+3unit closure from cold B custody. New root7a7334a0, successor unit59a05596.
+14aggregate requests, no failures; single original deadline/prepaid caps retained.
+Root read actual result+native authoring logs; independent outcome audit underway.
+Do not repeat this loop or its basis/producer checks. Full v5 remains active:
+small broad-query success is not selective search or full-cost growth evidence.
+Next source/theory priority is bounded unknown-vocabulary applicability views,
+reusing existing indexes; avoid resident-checker/certificate investment first.
+
+**2026-10-23 receiver01 early owner-plan refusal; source successor selected:**
+receiver01 2c2da4ac refused NONCANONICAL_JSON on root's readable publication
+manifest before stores, network or native work; only QUERY.json was produced.
+Preserve failed01,1.0knownCPU/1.718516wall. Root selects narrow receiver source
+890147c7: parse exact-hash-selected local owner plan with the existing bounded
+duplicate-rejecting writer JSON reader, not the network's canonical-record reader.
+All peer codecs and semantic acceptance stay unchanged. Fresh receiver02 retains
+the exact publication input and original finite envelope, not a restarted grant.
+
+**2026-10-23 reciprocal installed receiver selected:** root fully read/adopts
+producer02 actual outcome and receiver2000a564/helper0a116811/template007f2249;
+independent changed-suffix review finds no blocker after moving both search
+precharges before acquisition begins. Select ordinary-api-receiver-01 2c2da4ac,
+150CPU/240s original parent,165CPU/270wall/1792MiB outer. B initializes its own
+basis, discovers unknown-ID method via real index/HTTP, resolves missing exact
+definition, checks both units, stops A, authors/checks triple-composition successor,
+then cold C discovers/acquires successor+imports from reopened B custody/index.
+All acquisition uses the same prepaid24request/8MiB budget and original deadline.
+C remains inert availability evidence, not mathematical acceptance. Actual result
+is pending; original producer/installation/helper artifacts stay unchanged.
+
+**2026-10-23 actual installed producer02 passed:** source-to-inert-export-to-native
+admission completed through installed core9653a710/I6a4d92d8. Fresh basis plus
+Stable and stable_compose (2units/8404evidence bytes), accepted root a37fbfc8;
+new-unit native CPU1.3125, whole knownCPU21.328125/22.3833032wall, clean closure.
+Root read results/actual authoring logs; independent saved audit is underway.
+No producer snapshot is given to B. Next B uses a fixed unknown-ID structural
+query, actual typed acquisition/locator closure and its own native admission,
+then A-offline successor authoring with exact imported method. No prior run is
+repeated and the small workflow is not a useful-growth or global-release proof.
+
+**2026-10-23 basis log repair installed; fresh producer02 selected:** file-only
+install02 daa2d1d8 completed clean,27files/15,704,939B,9external attachments,
+manifest97d183aa, I6a4d92d8. Only core9653a710 differs from install01; unchanged
+assembler and finite exact source plan. Independent reviewer supports basis-only
+bounded-stdout allowance without parsing logs for acceptance. Select fresh
+producer02 877420c3 using unchanged producer/template/helpers and new install,
+same180s/120CPU inner and135CPU/210wall/1792MiB outer. Producer01 remains failed;
+no old native report/artifact is reused to authorize a new promotion.
+
+**2026-10-23 first installed basis refused; narrow log-policy successor:**
+producer01 ee944216 failed INITIALIZATION at ADMISSION_NATIVE_DIAGNOSTIC. The
+actual pinned worker exited0/clean with expected869841B basis progress/inventory
+stdout,0stderr; no catalog promotion occurred. Retain failure/report/artifact;
+saved reports cannot now authorize acceptance. Git edec831 preserves original
+core5ff149cd and reviewed API/authoring source. Root selects workspace core
+successor9653a710 allowing bounded stdout only for the known basis mode; stderr
+and actual event/report/artifact/commit requirements remain unchanged. Logs are
+not parsed as mathematical authority. New installation02 will preserve install01
+and bind the changed implementation. No old operation or grant is restarted.
+
+**2026-10-23 installed source contribution selected:** build02 cc0e77dd passed
+both V2 wrappers,4empty native logs,3.984375knownCPU; build01 failure preserved.
+Root read complete producer0d69cb2d and independent source review; select
+ordinary-api-producer-01 ee944216: actual installed initialization, basis-only
+owner request, Stable/stable_compose source export, exact V2 binding and new-unit
+admission.180s/120CPU inner original budget;135CPU/210wall/1792MiB outer.
+Installation4d8ba8d5 and retained helpers are pinned. No network, old library
+replay, certificates or B acceptance is implied. Root concurrently authors
+small B unknown-ID acquisition/admission/rehosting driver; independent review
+precedes its selection. Full v5 remains unfinished.
+
+**2026-10-23 installation passed; wrapper timeout preserved:** file-only install01
+f0153333 passed exact27 copied files/15,704,496B/9runtime attachments, manifest
+4d8ba8d5,1.265625knownCPU; saved audit read/adopted. Build01 b5b6d9e4 failed first
+wrapper's45s inner timeout with empty Lean diagnostics,2.859375JobCPU and clean
+closure. Source review finds no new recursive elaboration/import mismatch; cause
+is not established. Select fresh build02 with unchanged two wrapper inputs and
+new run_deadline_compile e8af7639:120s TOTAL child work,90CPU/155wall/1536MiB outer.
+This is one finite timeout-policy discriminator, no retry loop or old-run renewal.
+All build01 bytes remain frozen. Producer source work proceeds independently.
+
+**2026-10-23 small installed API and two-wrapper build selected:** preflight01
+passed all4 groups,0.28125knownCPU; authoring-locality01 passed its theorem versus
+definition discriminator,0.390625knownCPU. Root read/adopts generic review
+5ff149cd/aeaf0c7d and retained-helper plan95c0302a. Select file-only
+ordinary-api-install-01 (60CPU/120wall/256MiB,15,704,496 copied bytes, external
+owner runtime attachments) and ordinary-portable-authoring-build-01
+(90CPU/120wall/1536MiB, exactly two wrappers, no prerequisite rebuild).
+Neither authorizes acceptance of mathematics or old-I catalog migration.
+Parallel next work is a small actual installed A producer, then unknown-ID B
+discovery/acquisition/admission and reciprocal authoring. No certificates or
+previous campaign repeats. Full deployable v5 remains active and unfinished.
+
+**2026-10-23 pure API and acquisition-locality controls selected:** candidate
+controls01 passed all11 (normal unittest stderr),0.34375knownCPU. Root read final
+generic admission5ff149cd, deadline-clamped catalogaeaf0c7d and focused4group
+controls30b0211b; independent reviewer reports no blocker. Select preflight01
+15d7b31c and portable-authoring01 dcb2130a concurrently, each30CPU/60wall/256MiB.
+The latter directly discriminates the new theorem-signature locality fix:
+missing theorem proof-only dependencies must not be fetched, while needed
+definition-body dependencies remain. Full exact IDs and final native checking
+are unchanged. No old proof replay/native call/store mutation in these controls.
+
+**2026-10-23 portable authoring candidate controls selected:** root read/adopts
+portable authoring/binder source checkpointfc915ffc (candidate source29ae111a),
+adding only two requested S/F refusal rows to the eleven-method control file.
+Select ordinary-portable-candidate-controls-01 e44e62bf,30CPU/60wall/256MiB,
+pure synthetic candidate-binding checks, no Lean/store/network. Stable generic
+admission and minimal file-only installer source are separately reviewed;
+two-wrapper authoring build preparation reuses existing compiled primitives.
+
+**2026-10-23 reviewed baseline committed; real API deadline fix selected:** Git
+56d1f89 preserves the reviewed catalog/import/custody sources and actual audits.
+Root read/adopts handoff09bc83ac and acquisition52f037a3. Select a new workspace
+portable_catalog.py successor adding optional absolute parent_deadline to native
+reservations; historical snapshots and committed baseline bytes stay unchanged.
+This fixes a source-demonstrated operability defect: preparing a reservation must
+not restart its caller's clock. No old catalog suite or native alias rerun.
+Installed admission supports separately owner-adopted runtime attachments to
+reuse local Python/Lean without copying whole runtimes. V2 authoring/binding is
+source work in parallel, not an accepted release. Full v5 remains unfinished.
+
+**2026-10-23 imported-parent native extension terminal; acquisition selected:**
+handoff01 completed exit0/clean closure with one actual native child; independent
+outcome review underway. Root read/adopts acquisition reviewf838299c and all
+five focused control groups3d25f19f. Select one ordinary-acquisition-controls-01,
+30CPU/60wall/256MiB, real loopback typed routes and cold inert rehosting plus
+explicit mocked malformed replies. No Lean or acceptance in that control run.
+Generic installed admission source remains in progress; next authoring adaptation
+must use V2 semantic/foundation identities without modifying retained V1 evidence.
+
+**2026-10-23 resumed: portable handoff selected; product API central:** root
+read/adopts actual import audit70cc3cab. Select the already prepared
+ordinary-portable-extension-01 50fff86a,90CPU/120wall/1536MiB, one native alias
+above the imported parent, unchanged checker and preserved original stores.
+This closes only the import/new-check compatibility question, not growth.
+In parallel agents finish typed acquisition controls and generic ordinary
+admission source. Next integrate those public seams with real discovery and
+durable republishable evidence, not another fixture-specific migration harness.
+No certificate campaign, old test repeat, external publication or deployment.
+
+**2026-10-23 portable import terminal, public workflow remains priority:**
+import01 e9de8354 completed clean,5roots/3629names, new local root324c8a96,
+I5c2661b1,68,396,773output bytes,74.328125knownCPU/125.623wall. No Lean process,
+proof replay or original-store write. Independent saved audit underway; one
+new-unit native handoff remains pending. This is one-time development migration,
+not a per-contribution cost policy or scalable-growth claim. Product-path audit
+found two real next gaps: ExportID cannot yield UnitID without a checked locator;
+native catalog alone does not retain republishable proof evidence. Selected
+ordinary acquisition adds exact locator+inert durable evidence custody; generic
+ordinary_admission source will use the actual-event checker and retain evidence
+before promotion. Do not polish migration or confuse an alias test with product.
+
+**2026-10-23 actual portable import selected:** root fully read/adopts complete
+review721ffe0a and saved catalog-controls outcome65051d0f (all5PASS,
+2.015625knownCPU). Select one ordinary-portable-import-01,120CPU/180wall/512MiB,
+155second controller deadline, exact five-root/2859unit local metadata cutover.
+Original snapshots/support unchanged; new native controller5ac9bfd2 included in
+initial implementation source commitment before freezing. No Lean process or
+proof replay in import. Later alias check remains a separate selection dependent
+on actual import, not assumed successful. Parallel typed acquisition uses existing
+transport; independent product-path assessment prevents test-adapter tunnel vision.
+
+**2026-10-23 portable storage controls selected:** root fully read five focused
+groups98af957a and catalog source review7b98a06b. Select only new
+ordinary-portable-catalog-controls-01,30CPU/60wall/256MiB. Synthetic snapshots
+exercise storage, activation and grant discipline, not mathematical authority.
+Actual migration waits for the native admission controller to be included in
+the initial implementation-support map before it freezes. This avoids a second
+transition simply to add the next controller. No original library replay.
+
+**2026-10-23 portable transition source integration:** root read/adopts catalog
+review7b98a06b and same-checker argumentade45957. Pure identity controls already
+passed; do not repeat. Root wrote file-only select_portable_import and supervised
+run_portable_import, selecting the complete five-root/2859unit eligible local
+chain, retaining snapshots and original module names. Importer final source
+0b0a9a36 is independently reviewed next; small catalog storage controls have
+their own author. No migration/native runtime selected yet. Central next proof
+of implementation is a new small extension above the imported actual parent,
+then real unknown-ID discovery/acquisition; no old-proof replay or certificates.
+
+
 **2026-10-23 actual reciprocal extension independently adopted:** root read/
 adopts outcome468c1fba. Seven canonical new units were checked and committed
 in successor-admission01 (9b24d042); five original consumer units are unchanged.

@@ -624,7 +624,13 @@ class OrdinaryAdmission:
             if type(final) is dict and type(final.get("cpu_seconds")) in (int, float):
                 budget.worker_cpu += final["cpu_seconds"]
             need(_clean_worker(supervisor_result), "ADMISSION_NATIVE_EVENT_NOT_CLEAN")
-            need(C.ordinary(call/"supervision/stdout.txt").stat().st_size == 0 and
+            # The pinned basis constructor emits its bounded inventory/progress
+            # trace. It is retained, never parsed as acceptance authority.
+            # Extensions are silent. Both modes still require an empty stderr,
+            # a clean actual event and the exact report/artifact checks below.
+            stdout_bytes = C.ordinary(call/"supervision/stdout.txt").stat().st_size
+            need(stdout_bytes <= allowance["stdout_bytes"] and
+                 (grant.kind == "basis" or stdout_bytes == 0) and
                  C.ordinary(call/"supervision/stderr.txt").stat().st_size == 0,
                  "ADMISSION_NATIVE_DIAGNOSTIC")
             budget.check()
