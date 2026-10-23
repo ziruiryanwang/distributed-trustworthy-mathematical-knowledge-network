@@ -10,7 +10,7 @@ import hashlib
 from contextlib import contextmanager
 from contextvars import ContextVar
 from functools import lru_cache
-from .formal_features import (SCHEMA, EXPORT_SCHEMA, compact, digest as _digest, fields, hexid, need, uint)
+from .formal_features import (SCHEMA, EXPORT_SCHEMA, ORDINARY_EXPORT_SCHEMA, compact, digest as _digest, fields, hexid, need, uint)
 
 MAX_VECTOR = 1048576
 _HASH_METER = ContextVar("discovery_hash_meter", default=None)
@@ -367,7 +367,7 @@ def validate_snapshot(value, namespace=None):
     fields(value, ("schema", "namespace", "feature_schema", "partition_bits", "feature_map_root",
                    "local_cut", "previous_snapshot", "coverage_claim"))
     need(value["schema"] == "DMKN_FORMAL_INDEX_SNAPSHOT_V1"
-         and value["feature_schema"] in (SCHEMA, EXPORT_SCHEMA),
+         and value["feature_schema"] in (SCHEMA, EXPORT_SCHEMA, ORDINARY_EXPORT_SCHEMA),
          "SNAPSHOT_SCHEMA")
     hexid(value["namespace"]); hexid(value["feature_map_root"])
     need(namespace is None or value["namespace"] == namespace, "SNAPSHOT_NAMESPACE")

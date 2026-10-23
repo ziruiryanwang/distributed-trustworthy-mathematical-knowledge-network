@@ -13,8 +13,10 @@ import re
 HEX = re.compile(r"[0-9a-f]{64}\Z")
 SCHEMA = "DMKN_DECLARED_TYPE_FEATURES_V1"
 EXPORT_SCHEMA = "DMKN_MODULE_EXPORT_FEATURES_V1"
+ORDINARY_EXPORT_SCHEMA = "DMKN_ORDINARY_LEAN_EXPORT_FEATURES_V1"
 RECORD_SCHEMA = "DMKN_FORMAL_FEATURE_RECORD_V1"
 EXPORT_RECORD_SCHEMA = "DMKN_FORMAL_FEATURE_RECORD_V2"
+ORDINARY_EXPORT_RECORD_SCHEMA = "DMKN_FORMAL_FEATURE_RECORD_V3"
 MAX_FEATURES, MAX_RECORD = 128, 16384
 TAGS = frozenset(("sort", "bvar", "const", "app", "forallE", "lam", "letE", "proj"))
 CHILDREN = {"app": ("fn", "arg"), "forallE": ("type", "body"),
@@ -142,9 +144,10 @@ def validate_features(features, maximum=MAX_FEATURES):
 def validate_record(record, namespace=None):
     need(type(record) is dict, "RECORD_SHAPE")
     schema = record.get("schema")
-    need(schema in (RECORD_SCHEMA, EXPORT_RECORD_SCHEMA), "RECORD_SCHEMA")
+    need(schema in (RECORD_SCHEMA, EXPORT_RECORD_SCHEMA, ORDINARY_EXPORT_RECORD_SCHEMA), "RECORD_SCHEMA")
     base = ("schema", "namespace", "kind", "object_id", "object_sha256", "object_bytes", "features")
-    fields(record, (*base, "locator") if schema == EXPORT_RECORD_SCHEMA else base)
+    fields(record, (*base, "locator") if schema in
+           (EXPORT_RECORD_SCHEMA, ORDINARY_EXPORT_RECORD_SCHEMA) else base)
     hexid(record["namespace"])
     need(namespace is None or record["namespace"] == namespace, "RECORD_NAMESPACE")
     need(type(record["kind"]) is str and re.fullmatch(r"[a-z0-9-]{1,64}", record["kind"]), "RECORD_KIND")
@@ -166,6 +169,11 @@ def validate_record(record, namespace=None):
                      and "\0" not in part[1], "EXPORT_NAME_STRING")
             else:
                 need(part[0] == "n", "EXPORT_NAME_TAG"); uint(part[1], 0, 2**32-1, "EXPORT_NAME_NUMBER")
+    elif schema == ORDINARY_EXPORT_RECORD_SCHEMA:
+        # Only new V3 inputs need ordinary helpers; old isolated assemblies do
+        # not acquire a dependency on portable syntax or a different validator.
+        from .ordinary_export_adapter import validate_record_locator
+        validate_record_locator(record)
     validate_features(record["features"])
     need(len(compact(record)) <= MAX_RECORD, "RECORD_BYTES")
     return record
@@ -173,6 +181,8 @@ def validate_record(record, namespace=None):
 
 def record_id(record):
     validate_record(record)
+    if record["schema"] == ORDINARY_EXPORT_RECORD_SCHEMA:
+        return digest("DMKN-FORMAL-FEATURE-RECORD-V3", record)
     domain = "DMKN-FORMAL-FEATURE-RECORD-V2" if record["schema"] == EXPORT_RECORD_SCHEMA else "DMKN-FORMAL-FEATURE-RECORD-V1"
     return digest(domain, record)
 
