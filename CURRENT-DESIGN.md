@@ -36,13 +36,24 @@ result discoverable and retrievable from cold B custody. The final C role acquir
 inert evidence; it does not independently accept the mathematics. No old proof
 campaign was repeated and no certificate was required.
 
+The [ordinary owner package](software/v5/ordinary_package/README.md) now builds
+from repository source with explicit selected runtimes and no retained experiment
+helper dependency. Its relocated payload checked a caller-selected definition
+and theorem, then reopened the persistent owner without native replay. The first
+caller visibility failure is retained alongside the corrected continuation.
+Generic source contribution is no longer restricted to a fixed example template.
+The next implementation is a thin peer-command surface over the existing APIs;
+it reuses compiled checking support rather than rebuilding it for Python changes.
+
 These results do not establish independently hosted operation, broad workload
 benefit or a final deployable v5. Cold loading still depends on the selected local
 context; metadata queries still depend on selectivity and explicit coverage.
-The next priority is selective discovery from a local formal need without knowing
-private vocabulary, then full-cost benefit against a strong local-library baseline.
-The completed loop used an intentionally broad query and is not evidence of
-large-corpus selectivity. The [practical cost audit](research/cycles/v5-2026-10-22-native-library/ORDINARY-PRACTICAL-COST.md)
+An optional two-stage definition-vocabulary search reduced postings from eight
+to three but increased reply bytes from 103,356 to 202,790; it is not the default
+planner or a demonstrated speedup. Useful discovery, existing-project integration
+and full-cost benefit against an equally optimized local-library baseline remain
+central. The completed loop's broad query is not evidence of large-corpus
+selectivity. The [practical cost audit](research/cycles/v5-2026-10-22-native-library/ORDINARY-PRACTICAL-COST.md)
 separates global network size, selected local context, missing evidence closure
 and query posting work. No new certificate
 campaign is selected. The records below preserve the preceding assembled lane.

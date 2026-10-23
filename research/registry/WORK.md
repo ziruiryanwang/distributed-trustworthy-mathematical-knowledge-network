@@ -4,6 +4,24 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 continuation terminal and peer successor source selected: root owns
+file-only successor assembler, shared interface, docs, integration and Git.
+ordinary_api_flow owns new ordinary_peer_package/peer_api.py and
+ORDINARY-PEER-IMPLEMENTATION.md. owner_cli owns new peer.py/profile.py and
+ORDINARY-PEER-CLI.md. admission_event_audit first owns saved continuation audit
+in ORDINARY-PACKAGE-OUTCOME.md, then independent changed-source review when
+assigned. All checkpoints under v5-2026-10-22-native-library. Existing package,
+core/native/source and used runtime evidence remain unchanged. No runtime lives;
+new peer runtime needs separate root selection after source review.
+
+2026-10-23 package build terminal PASS, lifecycle pending: root owns minimal
+payload relocation, finite launch, source/package documentation and Git.
+admission_event_audit owns saved ORDINARY-PACKAGE-OUTCOME.md (no rerun).
+ordinary_api_flow completed corrected-selector review and now owns source-only
+ORDINARY-PEER-SURFACE-PLAN.md, not new peer implementation. owner_cli completed
+ORDINARY-EXISTING-PROJECT-DECISION.md and is available for new scoped work.
+Builder/CLI/worker/profile/selector and their used inputs are frozen.
+
 2026-10-23 package assignments actually dispatched: ordinary_api_flow owns
 ordinary_package/build.py; new owner_cli owns owner.py/profile.py/author_worker.py;
 admission_event_audit owns ORDINARY-PACKAGE-REVIEW.md. Respective build/CLI notes

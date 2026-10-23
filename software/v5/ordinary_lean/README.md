@@ -49,6 +49,13 @@ installer or permission to execute peer-supplied source. One finite caller budge
 must encompass its stages; do not renew grants inside missing-dependency loops.
 The owner closes its catalog; the caller separately closes custody and services.
 
+For normal local use, prefer the [ordinary package commands](../ordinary_package/README.md)
+over those experiment callers. The source-built package has an audited relocated
+initialization and a corrected caller contribution followed by persistent status.
+Its exact runtime attachments remain explicit. It does not yet provide peer CLI
+commands or arbitrary Lake-project integration; a separate file-only peer
+successor is under development without changing the acceptance core.
+
 ## Scale and remaining work
 
 No client enumerates the whole network. Cold ordinary learning nevertheless

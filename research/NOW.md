@@ -1,5 +1,85 @@
 # Current research desk
 
+**2026-10-23 local package boundary independently adopted:** root reads full
+ORDINARY-PACKAGE-OUTCOME fb79896e31f5ef23ad5b86644e85d104576b798dc055db19046623b12bdd02ed.
+Exact111-file payload, native admission, custody IDs/previews, appended root and
+preserved original basis/failure all agree. Build plus both lifecycle attempts
+cost85.1850028wall/77.0625knownCPU; failed01 is not relabeled. No runtime lives.
+Peer CLI serve will hold the existing ordinary-owner lock with explicit catalog/
+store selection, serializing supported public mutations through Provider closure.
+Pure inert-only rehosting remains a lower-level API, not a claimed CLI feature.
+No new concurrency/storage format is introduced. New peer sources remain under
+review; ordinary package docs/Git checkpoint does not constitute final v5.
+
+**2026-10-23 package continuation terminal; peer source selected:** corrected
+caller contributes two checked units, then fresh status reopens the same context;
+7.8143753wall/7.25knownCPU, clean closure, no init/build/copy. Independent saved
+audit is assigned. Root adopts ORDINARY-PEER-SURFACE-PLAN d2cf4492 and the
+existing-project decision f12467e2. Select source-only ordinary_peer_package:
+ordinary_api_flow owns peer_api.py coordinator; owner_cli owns peer.py and fresh
+profile.py; root owns file-only successor assembly, interfaces and integration.
+Reuse the exact installed/core/native payloads and four existing search modules.
+User workflow: ordinary owner discovers, checks, contributes and re-serves without
+experiment scripts. Expected benefit is removal of integration friction, not a
+new speedup claim. No network/native launch, Lean rebuild or final-v5 claim is
+selected yet. Preserve used package/profile and original basis/evidence bytes.
+
+**2026-10-23 caller-only continuation runtime selected:** root resumes under the
+canonical guard and reads/adopts continuation review in ORDINARY-PACKAGE-CLI.
+Select ordinary-package-lifecycle-continuation-01, selection SHA256
+3866e2d67ef6d6ece345a14e129958b2befa6340f859481cf534d9a48c256e73,
+runner e2344e4e701655b8a6863a00f8c2ae7b498510680654753b28512f63ab4ab0cc.
+Exactly contribute then status on the existing owner; caller-only @[expose]
+annotation, 150wall/100CPU/1792MiB/8process outer, original120wall inner.
+No build, initialization, state copy, automatic retry or old evidence rewrite.
+The original failure stays charged. Full v5 remains active and unfinished.
+
+**2026-10-23 lifecycle01 caller visibility refusal retained:** wrong-profile
+refusal and actual fresh basis init passed. Caller theorem's rfl proof then hit
+Lean4 public-module opacity: applyTwice must be exposed for exported definitional
+equality. A candidate file exists but no contribution admission occurred. Full
+30.5688655wall/28.828125knownCPU remain charged; package/core unchanged.
+Root selects source-only continue_lifecycle.py: review caller-only @[expose]
+annotation, then propose contribute/status on this same initialized owner.
+No build/init repeat, store copy or rewrite of failed01. Existing state may evolve
+only through a separately selected public continuation after saved failure audit;
+all prior source/log/artifact bytes stay frozen. Full v5 remains active.
+
+**2026-10-23 relocated owner lifecycle selected:** root read/adopts full saved
+build audite9e58c87. Exact minimal111-file payload totals36577885bytes and retains
+profile881adbf5; no _build, experiment helper or owner state is included.
+Select ordinary-package-lifecycle-01 adf5d883fd81b25e293715276f10de1a58240206d2d13089efd748e648f872c7,
+4source snapshots/120pins,240wall/180CPU/2048MiB aggregate outer. Four commands:
+wrong-profile refusal before state, fresh init, caller two-output contribution,
+separate status for exact new context. No old check is repeated or auto-retried.
+No peer/network/certificate/growth claim; actual outcome will be independently
+audited. Builder/CLI/payload/test bytes remain frozen.
+
+**2026-10-23 clean package build terminal PASS:** all21modules compile cleanly
+from selected source;46.801762wall/40.984375knownCPU,903823360bytes peak private.
+New profile881adbf54898e08bf8906614c9cf6b76c1f8aec8428e5a4f26f467719a25b232,
+installation32236aa3, implementationfafc8387. Root read actual build/logs; saved
+independent outcome audit underway. Final selector reviewfb5ae911 passes.
+Select file-only minimal payload relocation plus lifecycle plan preparation;
+native lifecycle still waits for build audit. No old state or _build is copied.
+
+**2026-10-23 clean ordinary package build selected:** root read full source and
+reviewc9824e11; corrected validation selector has bounded exact payload selection.
+File-only plan ordinary-source-package-build-01 is0dcb34cb2604e27f07d4ab9709e1674f609e5294caceaa3e55b74ef92c8667d8:
+47source snapshots/56runtime-or-source pins. Build49b922dd uses canonical pinned
+source files, not old helpers; two isolated8/13module lanes. Select one build
+under360wall/260CPU/2048MiB inner and420wall/300CPU/2304MiB whole-tree outer.
+No basis/owner/network/certificate operation or automatic retry is selected.
+Used sources/selection/output freeze; owner lifecycle still awaits build outcome.
+
+**2026-10-23 package integration source selection:** Git178cc0b preserves the
+audited generic contribution plus four exact promoted sources. Root selects
+new ordinary_package/select_build_check.py and lifecycle_check.py as bounded
+validation adapters only; ordinary public build/owner must never depend on them.
+One future clean source build, one wrong-profile refusal and fresh persistent
+init/contribute/status lifecycle will test the changed packaging boundary.
+All launches wait for complete source review and exact finite selections.
+
 **2026-10-23 resumed package implementation:** root verifies all four promoted
 source lengths/hashes exactly and adopts full saved generic outcome4d8e81b5;
 no operation is repeated. Source-only INTERFACE.md fixes adjacent package layout

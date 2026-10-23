@@ -21,6 +21,14 @@ existing manifests/checkpoints still identify those dependencies. Promote any
 additional source or compact reproducibility evidence through a reviewed scope
 change; never force-add a whole excluded directory. Ignored does not mean disposable.
 
+The ordinary-owner lane now has a narrower reproducible source boundary:
+`software/v5/ordinary_package/build.py` builds its receiver and authoring support
+from versioned source and explicitly supplied supported runtimes, without reading
+old experiment helpers. A relocated payload passed the recorded owner lifecycle
+after a caller-only visibility correction. This does not make every historical
+lane reproducible or place ignored runtime/evidence archives in Git. See the
+[package documentation](software/v5/ordinary_package/README.md) for exact scope.
+
 ## Byte preservation
 
 This repository uses `core.autocrlf=false` locally and `.gitattributes` disables

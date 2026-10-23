@@ -12,6 +12,11 @@ reuse/contribute loop, including cold successor rediscovery after the original
 provider stops. Portable catalog, independent onboarding and durable evidence
 custody are integrated in that path; see the [independent actual outcome](../../research/cycles/v5-2026-10-22-native-library/ORDINARY-API-RECIPROCAL-OUTCOME.md).
 This is same-machine workflow evidence, not a growth advantage or a public release.
+The [ordinary owner package](ordinary_package/README.md) has a clean source build
+and a relocated persistent init/contribute/status workflow, with the first failed
+caller attempt and corrected continuation both retained. Its source build uses
+explicit supported runtimes, not experiment helper directories. Peer CLI assembly
+is the next source-selected step; the already compiled Lean support stays intact.
 Selective unfamiliar-vocabulary search, selected-context scaling, full-cost
 benefit, public packaging and deployment/security gates remain open. Existing
 client entries below describe the preserved assembled lane, not a claim that
