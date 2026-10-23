@@ -15,8 +15,14 @@ This is same-machine workflow evidence, not a growth advantage or a public relea
 The [ordinary owner package](ordinary_package/README.md) has a clean source build
 and a relocated persistent init/contribute/status workflow, with the first failed
 caller attempt and corrected continuation both retained. Its source build uses
-explicit supported runtimes, not experiment helper directories. Peer CLI assembly
-is the next source-selected step; the already compiled Lean support stays intact.
+explicit supported runtimes, not experiment helper directories. The peer CLI
+now has a local reciprocal check; selected provider failures are isolated within
+the original discovery budget. The [installed-library completion path](ordinary_library_support02/README.md)
+also has an actual author-once/extract-missing-proof/check-combined result,
+using the existing owner and unchanged receiver. No certificate is required.
+These additive development packages are not yet one consolidated public release.
+The next interoperability seam is exporting checked portable evidence as ordinary
+proof-bearing Lean modules, so a normal local project can reuse discovered work.
 Selective unfamiliar-vocabulary search, selected-context scaling, full-cost
 benefit, public packaging and deployment/security gates remain open. Existing
 client entries below describe the preserved assembled lane, not a claim that

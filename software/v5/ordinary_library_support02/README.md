@@ -19,13 +19,32 @@ they do not establish mathematical acceptance. Five separate real-process
 supervision controls passed on the unchanged exchange implementation, including
 protocol errors, idle cancellation and incomplete-accounting refusal.
 
-The intended next workflow uses the existing public commands:
+The tested local workflow uses the existing public commands:
 `contribute` → `extract-std` → `complete`. The first can retain a candidate
 with missing declarations; the second supplies complete inert declarations;
 only the final receiver admission establishes their supported local warrant.
 See the predecessor's usage/trust/capacity description and the
 [independent review](../../../research/cycles/v5-2026-10-22-native-library/ORDINARY-EXTRACTION-SUPPORT-REVIEW.md).
-Actual native integration remains separate from those focused controls.
+Actual native integration completed in `ordinary-library-public-completion-02`:
+the original authoring candidate referenced `Nat.add_zero`, which was absent
+from the selected local basis. `extract-std` retained that same candidate and
+extracted the complete missing proof. `complete` checked both real theorem
+declarations and durably retained their evidence. The consumer's proof and
+import binding reference the exact supplier export, not an assumed theorem.
+The saved-result review is in
+[native review](../../../research/cycles/v5-2026-10-22-native-library/ORDINARY-EXTRACTION-NATIVE-REVIEW.md).
+
+The complete local run took 29.443 seconds wall and 11.094 seconds aggregate
+child CPU, plus 0.750 seconds outer-wrapper CPU. The first attempt remains a
+failure: with a 1024 MiB child allowance it stalled before observable construction
+and hit its wall limit. The successor used the previously successful 1536 MiB
+allowance within the same 2048 MiB outer limit, without extending the time budget.
+This does not establish the precise cause of the first stall. Neither run is
+evidence of useful mathematical novelty or arbitrary-library compatibility.
+
+No previous accepted artifact was replaced. Successful completion adds a new
+branch to the explicitly chosen basis; it does not silently update a globally
+agreed latest state. The examples remain on one physical machine.
 
 The one-helper assembler takes the preceding assembled package, exact profile
 hash and trusted local runtime paths. It copies into a fresh destination and

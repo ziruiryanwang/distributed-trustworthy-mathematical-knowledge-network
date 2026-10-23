@@ -1,5 +1,49 @@
 # Current research desk
 
+**2026-10-23 actual missing-library workflow independently adopted:** root read
+review4f5adaf2. Native02 completed all three public calls: retained exact missing
+Nat.add_zero refusal, real nine-lookup proof extraction, then native CHECKED
+admission of two complete units into new branchb8363a72. Proof/import identities,
+all138runtime pins, old-artifact preservation and clean closure pass.
+29.4425wall/11.84375known inclusive CPU; no certificate/rebuild/new owner.
+No timing rerun or causal RAM conclusion. This closes the selected public
+completion seam, not general library support, growth or v5 release. Source-only
+ordinary-module bridge is next, with disjoint native/collector/control review.
+
+**2026-10-23 native02 finite comparison selected:** root read the exact delta
+review (only1024->1536MiB, runner/self filenames and disclosed terminalLFs).
+Select e74d5d5f654bff16e3f2eec37ceb16acca336248331ae878b0df6d19f01fd616,
+same support02 profile and existing B basis, unchanged240wall/160CPU/2048MiB
+outer. Initial wrong profile argument was refused before selection/runtime;
+correct selector derived the retained full hash. Native01 remains failed.
+No other native launch, retry or timeout extension is selected.
+
+**2026-10-23 resumed after native01 stall:** root adopts saved failure review
+d6b58a05 and source diagnosis4e68752a. Authoring hit its46s wall limit before
+the first flushed construction marker; no candidate/extraction/admission exists.
+Old branch maps remain identical and closure is clean. Select fresh harness02
+with only per-command memory1024->1536MiB, the earlier successful profile;
+same wall/CPU, outer2048MiB and exact mathematics. This is one operational
+discriminator, not a proven RAM cause or time-budget renewal. Source/delta
+review precedes execution; a second startup stall stops this workflow.
+In parallel select source-only ordinary-module bridge under
+software/v5/ordinary_module_bridge, following ORDINARY-PROJECT-EXPORT-SEAM:
+bounded full-evidence closure and unchanged kernel checking into a genuine
+ordinary Lean module. No certificate, build, new owner or broad campaign.
+Existing approved ordinary packages remain the cheaper first choice.
+
+**2026-10-23 actual public missing-library workflow selected:** root read full
+independent review95e57bbe and final runnerb0cfac13/selector0bf58b9a. Select
+ordinary-library-public-completion-01 SHA256
+078ae01372a4924e40c2c6fcc438034b1215d3b2ee191be6561dc4314eb39763,
+profilee4c17343, exact existing B store and basis944e4275. Three public commands
+only: retained expected missing Nat.add_zero; extraction of complete inert proof;
+combined actual admission. Outer240wall/160CPU/2048MiB/8process; inner original
+210wall/140CPU, derived child grants. Old branch artifacts remain pinned.
+Sources freeze on this use; no rebuild/reinitialization/network/certificate.
+This measures integration, not new mathematics or growth. Support checkpoint
+is committed as9cb3e66; unrelated historical changes were preserved.
+
 **2026-10-23 support correction and controls independently adopted:** root read
 combined saved-outcome reviewd205036f. Assembly02 changes exactly one of122
 payloads; profilee4c17343,4.2803364wall/2.234375knownCPU. Preparation02 all7

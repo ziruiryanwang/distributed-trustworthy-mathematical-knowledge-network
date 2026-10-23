@@ -4,6 +4,21 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 after native02 adoption: root owns ordinary_module_bridge/module_export.py
+and module_worker.py, local existing-owner integration without a native executable
+build. retained_preparation owns source-only closure_controls.py. Native and pure
+collector sources are complete; practical_path_audit owns one combined source
+review. No bridge runtime selected; all predecessor workflow evidence is frozen.
+
+2026-10-23 resumed after native01: root owns fresh native_check02/select_native02,
+one-variable finite selection, integration and Git. practical_path_audit reviews
+only that delta and any saved terminal outcome. project_hook_design owns new
+software/v5/ordinary_module_bridge/OrdinaryModule.lean plus
+ORDINARY-MODULE-BRIDGE-NATIVE.md; retained_preparation owns new
+software/v5/ordinary_module_bridge/module_closure.py plus
+ORDINARY-MODULE-BRIDGE-CLOSURE.md. Root owns interface/integration. Source-only
+bridge, no builds/runs; all checkpoints in the existing native-library cycle.
+
 2026-10-23 resumed: project_hook_design owns support02 helper/kind7 regression
 and ORDINARY-RETAINED-PREPARATION02.md after failed preparation01. Root owns
 one-helper assembly/selectors, documentation and launches. practical_path_audit
