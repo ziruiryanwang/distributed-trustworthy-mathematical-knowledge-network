@@ -1,5 +1,91 @@
 # Current research desk
 
+**2026-10-23 resumed integration, successful helpers retained:** remaining01
+compiled OriginalDecl/CheckedExtension/BootstrapSupport, then failed on a
+return-record syntax error in OwnerRebind (clean exit,8.15625JobCPU). Root
+selects only an explicit-field return-record repair and one owner-rebind02
+compile using the retained public helpers,30CPU/60wall/1536MiB,45s inner bound.
+No successful module or mathematics is rebuilt. Root read/adopts actual
+OWNER-PREPARE-OUTCOME e280363d and PUBLIC-MODULE-BUILD-BOUNDARY saved audit.
+Source-only parallel work: narrow OwnerUseCommand and warranted-boundary
+SuccessorExport; independent reviewer checks changed seams and saved builds.
+The central endpoint remains ordinary consumer use plus independent successor
+checking, not a helper compilation milestone or renewed certificate work.
+
+**2026-10-23 real request prepared; public expression helper compiled:** actual
+owner-prepare01 passed,387semantic groups/3materialized units/4978899payloadB,
+5800278selected-evidenceB,13.796875knownCPU. Setup indexed retained49499157B;
+this is not an installed search index or actual source use. Independent actual
+review assigned. First-only public-expr-sync01 passed with five artifacts,
+3knownCPU/47.81wall; retain all artifacts, do not infer a diagnosed upstream bug.
+Root selects remaining3support+OwnerRebind compilation,120CPU/210wall aggregate,
+same45s-per-module/1536MiB cap and synchronous flag. Reuse first module, no rebuild
+of it or accepted mathematics; separate source-map/outcome review follows.
+
+**2026-10-23 one synchronization discriminator selected:** root fully read
+PUBLIC-MODULE-BUILD-BOUNDARY. Fresh public-expr-sync01 compiles OriginalExpr only
+with -DElab.async=false; same exact generated body/imports/runtime,45s inner
+timeout/1536MiB/process cap. No blanket retry or full helper-chain rebuild.
+Root generator successor aadce94e; preserve failed prior snapshots. If unchanged
+wait persists, localize the phase rather than extend the allowance.
+
+**2026-10-23 selected real owner-request preparation:** root fully read/adopts
+OWNER-REBIND-SOURCE-REVIEW5ecea847 for helper a7fbb851/request b6f39083, conditional
+scope only. Select source-only-file prep01 runner6d32ce6b,120CPU/180wall/256MiB:
+read-only exact adopted recovery catalog, original retained evidence lookup,
+selected semantic closure/three method targets; no Lean/no acceptance/no owner
+store mutation. Missing-unit preflight added in runner. First public-module
+compile timed out at OriginalExpr with empty logs and1.765625JobCPU; no module
+artifact. No cap increase/retry selected. Narrow async/source-wait investigation
+assigned to preview_boundary_review; semantic four-check operation passed once.
+
+**2026-10-23 portable identity discriminator selected:** root fully read/adopts
+small semantic descriptor source ee601536 and four-group synthetic checks9614df54
+for pure identity scope only. Select one10CPU/20wall/128MiB check, parallel to
+helper compilation. No checker run, alternate-platform support, V1 migration,
+public catalog or discovery acceptance is inferred. Existing V1 remains intact.
+
+**2026-10-23 module interoperability fix, not a RAM workaround:** owner-rebind
+build01 failed before elaboration: Lean forbids a module-enabled owner helper
+importing legacy non-module BootstrapSupport. Cost1.25knownCPU, clean closure;
+preserve evidence. Root selects header-only public-module generation for four
+small helpers plus OwnerRebind, keeping every helper body byte unchanged and
+all existing admission/profile/artifacts untouched. Fresh public-support01
+90CPU/120wall/1536MiB compiles only that authoring-support chain, not Lean/Std
+or mathematics. Root owns compile/request integration; admission_event_audit
+owns conditional helper + owner_request source review. Final v5 stays active.
+
+**2026-10-22 narrow owner-helper compilation selected:** root inspected complete
+OwnerRebind a7fbb851 and selects build01 0dab9fa5,60CPU/90wall/1536MiB. Compile
+only this new helper against unchanged retained core05/workflow01 artifacts;
+no proof, basis check, consumer run, catalog promotion or old-suite repeat.
+Independent semantic/source review remains separate from syntax/API compilation.
+
+**2026-10-22 actual full ordinary closure accepted:** recovery01 passed clean
+process closure, with independent actual audit2ddc5960 fully read/adopted. New
+1024+804 units checked; final root4d70ddd6 has3622names and target69149e1f.
+Original2875file manifest/prefix unchanged; failure remains charged. Recovery
+154.234375knownCPU/1074900992Bpeak; admission+recovery271.15625knownCPU. New8+6
+AsyncConsts diagnostics retain the exact narrow kernel/snapshot disposition;
+catalog reopen is not a new Lean load of the last chunk. No runtime lives.
+Root selects source-only owner_request.py for point-lookup selected semantic
+closure and run_selected_compile.py for forthcoming narrow helper compile;
+OwnerRebind a7fbb851 is source-only, independent source review assigned to
+recovery_actual_audit. No prefix replay, certificate work or v5 completion.
+
+**2026-10-22 root selects bounded prefix-preserving recovery:** fully read/adopt
+ADMISSION-RECOVERY-REVIEW5316ad83 for controller e063c391 and the exact original
+kernel/snapshot prefix only. Fresh selection c00f1ab6 pins manifest4af119ba,
+2875 original files/75549957bytes. One remaining-batches run,360CPU/420wall/
+1536MiB, no accepted-prefix replay, original mutation, profile change or rebuild.
+Failed116.921875knownCPU remains charged; actual cumulative cost audited after.
+In parallel ordinary_native_controller owns fresh OwnerRebind.lean source/core
+and OWNER-REBIND-IMPLEMENTATION; preview_boundary_review owns small portable
+semantic/implementation descriptors and pure discriminator source. Root adopts
+PROFILE-IDENTITY-SEPARATION principle but no V1 migration or catalog change.
+Ordinary source reuse/discovery/full-cost payoff remain the integration target;
+neither recovery nor a descriptor test completes v5. No certificate work.
+
 **2026-10-22 actual admission has a warranted prefix, not completion:** original
 admission01 failed cleanly on second extension with explicit OOM. Actual basis
 456units/581names and first1024groups/1175names were checked and committed;

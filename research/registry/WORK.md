@@ -4,6 +4,29 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 resumed: root owns OwnerRebind syntax repair, retained-helper build,
+consumer runtime integration and Git. preview_boundary_review owns new
+OwnerUseCommand.lean/OWNER-USE-COMMAND; successor_export owns new
+SuccessorExport.lean/SUCCESSOR-EXPORT and narrowly approved OrdinaryExport
+refactor if needed. admission_event_audit owns PUBLIC-REMAINING-OUTCOME and
+independent command/successor changed-boundary review. Source-only agents;
+root selects runtime after concrete review. No duplicate successful campaigns.
+
+2026-10-23 root owns module-public helper packaging and owner_request.py,
+ordinary-public-support-build-01 selected90CPU/120wall/1536MiB after exact
+non-module import refusal. No original checker/artifact changes. Independent
+admission_event_audit owns OWNER-REBIND-SOURCE-REVIEW for helper/request seam;
+preview_boundary_review finishes small descriptor source/checkpoint. Recovery
+actual audit2ddc5960 adopted; no ancestry replay or certificate work selected.
+
+2026-10-22 root selects recovery01 c00f1ab6 (360CPU/420wall/1536MiB), only
+unfinished batches with adopted exact protected prefix. lean_workflow_trace
+completed independent source review5316ad83. ordinary_native_controller now
+owns fresh OwnerRebind.lean and OWNER-REBIND-IMPLEMENTATION, source only;
+preview_boundary_review owns ordinary_semantics.py, focused pure checks source
+and SEMANTIC-DESCRIPTORS-IMPLEMENTATION. Root owns manifest/launch, actual audit,
+request preparation and Git. No existing source/snapshot migration or certificates.
+
 2026-10-22 actual admission01 failed after real basis+first batch acceptance.
 ordinary_native_controller owns source-only run_native_admission_recovery.py and
 ADMISSION-RECOVERY-PLAN, preserving accepted prefix and original profile on a
