@@ -4,6 +4,24 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 resumed: project_hook_design owns support02 helper/kind7 regression
+and ORDINARY-RETAINED-PREPARATION02.md after failed preparation01. Root owns
+one-helper assembly/selectors, documentation and launches. practical_path_audit
+owns saved-failure, delta and separate protocol source reviews in the existing
+support review. retained_preparation owns ORDINARY-EXTRACTION-NATIVE-PLAN.md,
+source-only feasibility for one existing B owner missing-lemma workflow. No
+certificate, native rebuild, copied owner state or repeated reciprocal campaign.
+
+2026-10-23 installed-Std public source integration: project_hook_design owns
+supervised_library_exchange.py; root owns library_extraction.py, fresh
+owner/profile and file-only assembly/selectors in ordinary_library_support.
+retained_preparation owns preparation_controls.py (pure decoder/module-name
+controls with real retained bytes and explicit mock parent; no execution).
+practical_path_audit owns ORDINARY-EXTRACTION-SUPPORT-REVIEW.md, independent
+changed-source review. Review already caught unsafe module-name path components
+and pre-attachment Job accounting; fixes precede any use. No assembly/runtime
+or certificate campaign is selected. Sources remain editable until exact use.
+
 2026-10-23 after completion controls02 PASS: retained_preparation owns new
 software/v5/ordinary_library_support/retained_preparation.py and
 ORDINARY-RETAINED-PREPARATION.md, pure pinned-request decoding only. Root

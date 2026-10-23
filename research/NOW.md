@@ -1,5 +1,99 @@
 # Current research desk
 
+**2026-10-23 support correction and controls independently adopted:** root read
+combined saved-outcome reviewd205036f. Assembly02 changes exactly one of122
+payloads; profilee4c17343,4.2803364wall/2.234375knownCPU. Preparation02 all7
+groups pass7.9385476wall/7.671875knownCPU, no owner/native. Protocol02 all5
+pass2.1924904wall/1.53125knownCPU; idle cleanup0.0926149s; injected unassigned
+child correctly retains null measurement and separate28s conservative charge.
+All closure/source/payload checks pass; both earlier failures remain unchanged.
+No repeats selected. Actual three-command native integration still source-only.
+
+**2026-10-23 corrected focused controls selected:** root read delta review
+24973d49; assembly02 completed cleanly in4.2803364wall/2.234375knownCPU,
+one changed helper/121unchanged payloads, profilee4c17343 (outcome audit pending).
+Select preparation02 SHA525953ccbe58bd04b197f5246cedb1a57b34495598c65b5264084035302474cd
+and protocol02 SHA8a60d8a4adb96c20781145cbe68401d0a37523cf49ca11bd996d3d74f3eb9e60
+in parallel, disjoint outputs. Prior60wall/35CPU/512MiB/2process and
+90wall/40CPU/512MiB/4process envelopes unchanged. Frozen sources/failed01
+remain preserved. No Lean/exporter/owner/network runtime in either control.
+
+**2026-10-23 one-helper correction assembly selected:** root read independent
+revieweb71ec5a and exact helper/tests/assembly deltas. Select
+ordinary-library-support-assembly-02 SHA256
+b7baf3bdaf47bfde1ade83ba747cfbf04f6c431970f713b1dfb4e2d5e35bdbf0;
+same90wall/50CPU/512MiB/2process outer. Replace only retained-preparation
+helper with49e9550f; no native/checker/owner/peer change or state work.
+
+**2026-10-23 public missing-lemma integration selected, source-only:** source
+inspection confirms basis-only contribute uses genuine Eq as its default
+prepared target when acquired-targets is empty. Select one new
+CommonsLibraryExample.add_zero proof using Nat.add_zero (absent from B's basis),
+then public extract-std and complete on that same existing B parent. No basis
+rebuild, new owner, network, certificate or growth claim. Native-plan author
+owns support02/native_check.py; root owns select_native.py. Await helper02 and
+protocol controls plus exact independent harness review before runtime.
+Outer proposed240wall/160CPU/2048MiB/8process, one inner210wall/140CPU
+allocation and at most three public commands with derived remaining grants.
+
+Protocol01 failed its first test assertion: exchange itself closed successfully,
+but test required total_processes=1 and actual Job recorded2. Preserve failure
+and1.5350383wall/1.28125knownCPU. No cause of extra process is asserted.
+Select harness-only successor permitting1..2 within the chosen fixture envelope,
+with all exact protocol, CPU equality, membership, zero-active and cleanup checks
+unchanged. No product supervision change or automatic rerun is authorized.
+
+**2026-10-23 independent IPC controls selected:** root read reviewd0352cdd.
+Select ordinary-extraction-protocol-controls-01 SHA256
+06eb81fe611ad258f680ef44e524502008964597547c4338e93bbcf31e6f48ee,
+runnerde8b02fb, unchanged profile1801fee2;90wall/40CPU/512MiB/4process.
+Five tiny real Python-child/Job scenarios; no Lean, owner, SQLite or sockets.
+The separate preparation bug is not exercised or excused by this selection.
+
+**2026-10-23 preparation01 found a real inventory-kind compatibility bug:**
+groups1/3/4 failed INTEGER_BOUND; four other groups passed. Actual fixed basis
+includes Quot/Quot.mk/Quot.ind/Quot.lift with inventory kind7; helper incorrectly
+used exported-unit kind bound6. No owner/native operations;3.4509317wall/
+3.15625knownCPU, clean closure. Preserve failed01 and all used source bytes.
+Select fresh ordinary_library_support02: helper kind bound7 only, focused
+regression, and file-only one-helper overlay on profile1801fee2. Root owns
+assembly/selectors; author owns helper/tests; independent review precedes use.
+Protocol controls on unchanged exchange remain a separate pending selection.
+
+**2026-10-23 resumed; preparation controls selected:** canonical guard passes.
+Root read independent review739a09f1 and exact selection
+0fe94ad4dd367308b213e8e6dcadf02088968aa2fe118c8557ce3d322ca78016.
+Run ordinary-retained-preparation-controls-01 once: 60wall/35CPU/512MiB/
+2process outer, seven native-free groups with fixture-derived mock parent.
+Assembly01 is independently adopted: profile1801fee2,122payloads,
+4.5661079wall/2.15625knownCPU, clean closure; no extraction claim.
+Protocol controls remain source-only. In parallel, inspect one minimal actual
+missing-lemma public flow using existing B state; no rebuild or native run yet.
+Goal remains ACTIVE; ordinary usability, not certificates, drives selection.
+
+**2026-10-23 installed-Std support file-only assembly selected:** root read
+independent source reviewa4b969f7 after module-name path and empty-Job accounting
+fixes. Select ordinary-library-support-assembly-01 SHA256
+e2f50cc0a8bbf45fcda6c8a670077dc50a30b4b9753b95cdd7a05a6fd927f576;
+90wall/50CPU/512MiB/2process outer,60wall/40CPU inner. Two entrypoint/loader
+replacements, three helpers and the exact existing697344-byte exporter;
+unchanged native acceptance and peer payloads. Selected source bytes freeze.
+No native build/extraction, owner operation or new proof is selected. Preparation
+controls remain source-only; interactive-supervision controls are next.
+
+**2026-10-23 extraction support source selected after practical decision:**
+Reviewed completion/resilience checkpoint is committed asf3c0c3f. Root read the
+public extraction decision: reuse the existing697344-byte installed-Std exporter,
+not a native rebuild, certificate or project manager. Select fresh
+ordinary_library_support/supervised_library_exchange.py (author) and
+library_extraction.py (root): direct existing pinned Windows Job contains
+suspended native child before resume; same owning controller handles bounded
+real-parent point lookups; exact whole-cost accounting/cleanup on failures.
+The public seam derives actual missing names from the existing binder and
+returns inert supplement/prepared inputs; unchanged complete handles acceptance.
+Retained-preparation helperf4c51f1a awaits source review. No native run, package
+assembly or end-to-end compatibility claim is selected by this source work.
+
 **2026-10-23 completion controls independently adopted; practical support next:**
 Root read saved outcome5c1117bf. Seven groups pass in controls02, selection
 101acf19caf30996f4a90955f41a190f4be7cd68b71d77528b48a76cefe2288a;
