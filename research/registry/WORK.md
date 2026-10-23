@@ -4,6 +4,28 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 current_distribution_build owns new ordinary_distribution build sources
+and implementation appendix in ORDINARY-CURRENT-BUILD-PLAN.md. Source-only three
+stages and exact current map; no execution/package/state changes. Root owns later
+selector, source review integration and Git. Prior build-plan author complete;
+mixed singleton theorem-view argument complete, not an implementation selection.
+
+
+2026-10-23 public native return raw PASS: fresh return_actual_audit owns saved
+native01 outcome append in ORDINARY-PROJECT-RETURN-REVIEW.md (no rerun/state).
+retained_preparation's source review complete. practical_path_audit owns current
+source-build plan; project_hook_design owns installed theorem-view source argument
+in EXISTING-DECLARATIONS.md. Root integrates, documents and commits. No runtime live.
+
+
+2026-10-23 after return controls: practical_path_audit owns new source-only
+ORDINARY-CURRENT-BUILD-PLAN.md (current payload-to-repository source recipe and
+extractor build gap); no build/runtime. project_hook_design owns native return
+harness; retained_preparation independently reviews it in RETURN.md. Root owns
+pending exact runtime selection, packaging decision and Git. Existing source
+build and mixed-declaration analyses are reused, not duplicated.
+
+
 2026-10-23 public module export adopted; reverse project contribution selected
 source-only. retained_preparation: ordinary_project_return/ordinary_contribution.py,
 pure controls, ORDINARY-PROJECT-RETURN.md. project_hook_design: one actual public

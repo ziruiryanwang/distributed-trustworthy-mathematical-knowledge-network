@@ -24,8 +24,11 @@ These additive development packages are not yet one consolidated public release.
 The [public module-export command](ordinary_module_package/README.md) now has an
 independently audited actual export and ordinary Lean theorem/reduction consumer.
 Its first export pays the selected proof closure; no certificate is required.
-The next seam is contributing a new ordinary-project proof back using that paid
-module, after a narrow generated-import-name compatibility correction.
+The [ordinary-project return](ordinary_project_return/README.md) now also passes
+independent audit: the already-paid module supports a fresh conditional transport
+theorem, independently admitted with exact parent IDs and no scratch assumptions.
+Next is one source-complete current distribution build, eliminating the remaining
+dependency on an experiment-built extractor. Its required sources already exist.
 Selective unfamiliar-vocabulary search, selected-context scaling, full-cost
 benefit, public packaging and deployment/security gates remain open. Existing
 client entries below describe the preserved assembled lane, not a claim that

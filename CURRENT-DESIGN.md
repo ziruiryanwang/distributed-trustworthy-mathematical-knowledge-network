@@ -57,10 +57,22 @@ The [independent audit](research/cycles/v5-2026-10-22-native-library/ORDINARY-PR
 records exact artifacts and 14.83 seconds elapsed / 14.02 known inclusive CPU seconds.
 This first export rechecks the selected full proof closure; it is not proof-free
 cold onboarding or a growth comparison. No peer binary becomes mathematical authority.
-Next is the reverse project-contribution seam: the 75-character generated module
-name currently exceeds the project adapter's ordinary 64-character component cap.
-An exact import-only exception is selected; output-name and checking rules stay
-unchanged. Scratch authoring binaries remain distinct from proof-complete modules.
+The [reverse project-contribution path](software/v5/ordinary_project_return/README.md)
+now also passes independent audit. A normal project imported that already-paid
+module, proved a new conditional transport theorem, and returned its complete
+proof for real receiver admission. Exact acquired IDs and two universe instances
+were preserved, with zero introduced scratch assumptions. Whole-run cost was
+23.30 seconds elapsed / 10.95 known inclusive CPU seconds. The import-only name
+fix leaves output-name and mathematical checking rules unchanged. This closes
+the local interoperability loop, not a growth advantage or fresh peer acceptance.
+Scratch authoring binaries remain distinct from proof-complete modules.
+
+Next is one [current repository-source build](research/cycles/v5-2026-10-22-native-library/ORDINARY-CURRENT-BUILD-PLAN.md):
+the latest package still relies on a retained experiment-built extractor. All
+required source exists; a single build route is being implemented without that
+dependency. In parallel, exact installed-theorem interface matching is under
+theoretical review to remove a real mixed-standard-library name-collision barrier.
+No new certificate campaign, resident checker or broad benchmark is selected.
 
 These results do not establish independently hosted operation, broad workload
 benefit or a final deployable v5. Cold loading still depends on the selected local

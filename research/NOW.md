@@ -1,5 +1,86 @@
 # Current research desk
 
+**2026-10-23 project-return independently adopted:** root read saved outcome
+b6d9aaf9 in RETURN-REVIEW. Exact unit/export/preview independently recomputed;
+new proof equals actual admission-worker input, both acquired universe instances
+reachable, zero scratch assumptions,16preserved artifacts/152pins and four clean
+supervision layers.23.2980201wall/10.953125known inclusiveCPU. No rerun. Full
+local commons-to-normal-project-to-checked-contribution loop now has actual
+evidence; public release/growth/deployment remain open. Current distribution
+source implementation and independent theorem-interface argument review continue.
+
+
+**2026-10-23 source-complete current build implementation selected:** root read
+planbc327510. Current126payloads map to51repo copies/assets,74generated outputs
+and installed manifest; no missing source. Select fresh
+software/v5/ordinary_distribution implementation: unchanged base source builder,
+fresh six-module extractor lane, one exact current-map assembly/profile. Named
+explicit toolchains only; no retained experiment outputs, old owner state, overlay
+chain replay, download or runtime launch. One original allowance must cover all
+stages; actual generated identities must be derived rather than stamped from old
+packages. Existing source/kernel/semantics stay unchanged. Source review precedes
+one later clean-source build-to-use decision. Root retains selections and Git.
+
+
+**2026-10-23 actual public project-return raw PASS:** one new mapFour theorem
+checked into local root812a2a9a (unitf1e86298/export505276c9), both exact acquired
+theorem instances retained, no introduced scratch names/signatures/units. All16
+prior artifact pins unchanged. Clean23.2980201wall/10.953125known inclusiveCPU;
+no runtime remains. Fresh independent return_actual_audit reviews saved evidence
+only in RETURN-REVIEW.md. Do not rerun. Current-build map and installed theorem
+public-view interpretation continue as disjoint source-only work. Full v5 ACTIVE.
+
+
+**2026-10-23 actual project return selected:** root read full harness and final
+reporting delta5c9d1d3b; independent reviewer clears exact mathematical/schema/
+budget bindings. Select435b90e12d9f33070d428c494fde83ed8137128d00b90a5478d7bb9d7695dd90:
+one public contribute using existing B parent and already-paid module, new generic
+mapFour transport theorem, two exact acquired theorem instantiations. Original
+150wall/90CPU inner and180wall/110CPU/2048MiB/eight-process outer;1536MiB native.
+All16prior module/branch artifact pins retained. No initialization, module export,
+native support build, network or certificate; acceptance is new-proof checking,
+not a useful-growth comparison. No automatic repeat on failure.
+
+
+**2026-10-23 parallel source decision:** project_hook_design finishes native
+return harness479dbf4e and then inspects installed singleton private/public views
+and origin linkage in the existing EXISTING-DECLARATIONS note. No matching code,
+new basis, native probe or module rebuild is selected. This complements the
+independent current-build plan; it does not postpone the already scoped return
+test once its distinct harness review clears.
+
+
+**2026-10-23 return controls adopted; next release decision source-only:** root
+read reviewc9af9ec4. All four import/config groups,3snapshot pairs/136pins pass,
+clean1.4654581wall/1.28125knownCPU, no native/state/network. Native return is
+under separate author/reviewer inspection. In parallel select source-only current
+repository-to-package build plan: base build is versioned, but installed-Std
+extractor is still copied from an experiment output and later features are layered
+over it. practical_path_audit owns exact current payload-to-source map/recipe in
+ORDINARY-CURRENT-BUILD-PLAN.md. No rebuild, new package or runtime selected by
+that plan. Mixed installed-declaration visibility remains a separate source-first
+compatibility decision; no resident-checker or certificate campaign selected.
+
+
+**2026-10-23 return assembly adopted; focused controls selected:** root read
+reviewf992169c: exact126payload map, sole helper replacement, unchanged native
+installation, clean4.605206wall/2.3125knownCPU. Successor profile
+0d8a9ec4d3509e60f8e3155313b1023230c7f9b4f36f103e55464d2c866ae1b5.
+Select4230a2ec2a82f9fe3f8d58dfa835267d411a41b5050cbf88d5f45ca96d70dbf8:
+four pure import/config/source-header groups,60wall/35CPU/512MiB/two-process
+outer (50wall/30CPU inner). No owner/native/network. New-proof native return
+harness is under separate review, not yet selected. Prior exports stay intact.
+
+
+**2026-10-23 return overlay selected:** root read review1b639858 (helper09394f52,
+assemblerd454d500, selector26b56686). Select
+686be16ecf1df6a0136fa2446fe96c0bdc850d7b9b8f97d5938d132aa15300cc,
+ordinary-project-return-assembly01: exactly one helper replacement over public
+module profilef01398e3. Original90wall/50CPU/512MiB/two-process outer,
+60wall/40CPU inner; file-only, no native build/state/module export. Focused
+grammar controls and actual new-proof return remain separate pending gates.
+
+
 **2026-10-23 resumed; public export independently adopted:** root read saved audit
 5c4c93e1: exact public result/manifest, three checked proof units, ordinary theorem
 use/reduction, runtime and artifact bindings, preserved old files and clean closure

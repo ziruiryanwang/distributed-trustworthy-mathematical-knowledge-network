@@ -559,3 +559,94 @@ arbitrary library interoperability, executable IR/notation reconstruction, a
 comparative amortized-cost win, global scalability, useful mathematical growth nor
 final-v5 completion. Existing native01/02 failures remain preserved; no repetition
 or larger-RAM experiment is selected by this passing outcome.
+
+### Selected source-only ordinary-project return discriminator
+
+Root next selected one new harness under `software/v5/ordinary_project_return/`.
+It reuses the already paid public-native01 module; it does not export or build that
+module again. The single new mathematical target is `CommonsReturnExample.mapFour`:
+for types `a : Type u`, `b : Type v`, endomorphisms `f`, `g`, and a map `h`, a
+pointwise equation `h (f y) = g (h y)` entails
+
+\[
+h(\operatorname{applyTwice}(f,\operatorname{applyTwice}(f,x)))
+=\operatorname{applyTwice}(g,\operatorname{applyTwice}(g,h(x))).
+\]
+
+The explicit proof uses the acquired `applyFour_eq` once at each type, four
+instances of the pointwise premise, and `congrArg`, `Eq.trans`, `Eq.symm`. Source
+inspection confirms all three equality combinators are in the fixed basis.
+This is a generic theorem-transport interoperability workload, not new mathematics
+or experimental evidence of useful/exponential growth.
+
+The project configuration imports the exact 75-character bridge module from the
+public-native01 `export/modules` directory before `#ordinary_construct_portable`.
+Its new source-module identifier remains ordinary `CommonsReturnExample`. Existing
+`OwnerConstruction.demand` finds the acquired theorem already present and safe,
+so it introduces no names, theorem signatures or checked scratch units. It does
+not thereby grant a receiver warrant: exact acquired IDs still pass candidate
+binding, preflight and native admission against parent `84dd6a9c...`. The expected
+actual log must confirm zero introduced names/signatures/checked units.
+
+The only found deterministic blocker is the selected import-name validator's
+64-character component limit; the separately assigned helper correction permits
+only the exact top-level `DMKNBridge_` plus 64 lowercase hexadecimal digits.
+No output-name, basis, identity, checking or path rule is relaxed by this harness.
+
+Proposed interface: `--package`, `--profile-sha256`, `--utility`,
+`--utility-sha256`, `--output`, reusing the exact `20f6c613...` utility snapshot.
+The existing module manifest is pinned to `d447b491...`, its native report to
+`035de7d5...`, and all five artifact parts to the manifest. Those seven files plus
+the existing nine old artifacts are preserved before/after. One public `contribute`
+command receives exact source/acquired-target/output-name/project-config inputs.
+It must return one genuinely checked fresh theorem with the exact acquired theorem
+ID in its proof dependencies, durable evidence/preview bytes and unchanged prior
+module/state artifacts. There is no owner initialization, direct private-state
+editing, networking, certificate production or module rebuild.
+
+One original 150-wall/90-CPU allowance and derived 1536-MiB native grants are
+proposed inside the unchanged 180-wall/110-CPU, 2048-MiB/eight-process outer Job.
+Root owns the helper overlay, final source selection and any later execution.
+Theory/source feasibility is not an executed return-path result.
+
+### Return harness source ready for independent review
+
+The narrowly selected harness is now written at
+`software/v5/ordinary_project_return/public_native_check.py`, SHA256
+`479dbf4e9f30c82d86afbf88e551a7c9a1796fff91c2c2b683dff95328c97a0b`.
+It has not been executed or imported. Independent theorem/harness source review
+is assigned to `retained_preparation`; root owns exact selection and execution.
+
+The implementation uses only one public `contribute` command against existing B.
+It verifies the previously paid module's exact manifest/report/five parts and
+preserves those seven files plus the existing nine retained files. The selected
+package/profile and installation remain separately pinned. The public response
+and any accepted outcome are retained before later assertions; a failed harness
+assertion must never be interpreted as rollback of an admission already made.
+
+Postconditions bind saved request, generated source, new target, result/admission,
+portable evidence and preview bytes. Both the candidate boundary and final evidence
+must contain exact acquired `applyFour_eq` and `applyTwice` identities. The original
+proof DAG must contain the acquired theorem at both independently quantified
+universe instantiations. The actual authoring log must report no introduced names,
+no scratch signatures and no checked scratch units; no three-unit preparation
+closure count is imposed. The ordinary project directory must remain empty because
+all generated authoring source belongs under the fresh contribution output.
+
+Source inspection matches the installed helper's request/result schema and
+`candidateBundleBytes` fields. The existing evidence schema places a singleton
+theorem's original proof expression at `unit[1][4]`, with DAG nodes at `[2]`.
+Operational JSON parsing intentionally permits booleans and finite floats,
+whereas candidate/evidence parsing uses the existing strict mathematical parser.
+This is an interoperability check only; no novelty, growth, broad-library or
+final-release claim follows from either source review or a later bounded pass.
+
+Independent review found one reporting-only defect before use: owner close failure
+can change `ok` to false while preserving an accepted result under `result`.
+The harness now extracts nested admission whenever that result exists, falling
+back to top-level `accepted`; the entire response was already preserved. Revised
+source SHA256 is
+`5c9d1d3bc7cf66e3aaa5ca46845a78508127e81aa3b1a28e98de95ff59159290`.
+`retained_preparation` independently cleared this revised source, including the
+two independent universe instantiations and actual schema/marker bindings; its
+separate disposition is in `ORDINARY-PROJECT-RETURN.md`. Root owns any execution.
