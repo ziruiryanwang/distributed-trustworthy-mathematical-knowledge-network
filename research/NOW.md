@@ -1,5 +1,60 @@
 # Current research desk
 
+**2026-10-23 public reciprocal02 independently adopted:** root read full saved
+audit c7626e95. All9 public commands passed; B checked2 acquired units, then
+used the acquired theorem twice in one new checked theorem after A's service
+ended. C discovered the returned export (metadata only). A's29 retained files
+are byte-identical. Both finite leases and outer Job closed cleanly:
+87.6322477wall / 30.8125known inclusive CPU,950464512bytes peak private.
+Run report c484d96c; B final root84dd6a9c; no certificate or rebuild. Refused
+prelaunch01 remains failed with its unmeasured CPU, not silently charged zero.
+No operation lives or is selected for repetition. Next: project-source adapter
+review and cheap file-only assembly/native-free changed-boundary controls.
+
+**2026-10-23 corrected reciprocal02 launched:** root adopts process review
+fba3e821: at most5 selected descendants, unchanged8-process supervisor cap
+suffices. Exact plan02 2e850ea0 (only run name and10->8 changed) is selected
+for its first actual workflow. Original240wall/160CPU/2048MiB envelope and
+all source/runtime bytes unchanged. Prelaunch refusal01 remains retained.
+
+**2026-10-23 prelaunch refusal; narrower successor plan:** launch01 returned
+`LIMIT_RANGE:active_processes` in Run-V5-Check line60 before creating its output
+or launching any command (exit1, 0.1925437 shell wall seconds). Selector asked
+for10; unchanged supervisor ceiling is8. Preserve selection01 and used harness/
+selector; no owner/native/network effect occurred. Fresh plan02 changes only
+the run name and process cap10->8; SHA256
+2e850ea0dff2fe8c47417249403cd624d8baa32bfe337a38cd4f0815dd4eabe9.
+Process-count source review precedes this corrected launch; no budget increase.
+
+**2026-10-23 project authoring successor selected, source-only:** root adopts
+the closed-data backend design. New software/v5/ordinary_project_package/
+ordinary_contribution.py and author_worker.py preserve their predecessors and
+add only approved imports, explicit scratch module root/project cwd/search paths
+and the matching worker branch. One unchanged acceptance/retention flow; no
+arbitrary callbacks or project builds. Helpers and pinned Lean namespace roots
+precede owner-approved project roots. Root owns packaging/profile integration;
+an independent author owns the optional CLI data selector. No runtime selected.
+
+**2026-10-23 public reciprocal run selected:** root read/adopts full independent
+review ff203356. Final harness b89cc7d6, selection
+05737f67915ad626409897fbc3afef423ea6b85dc41f68cb79430a4d98a6cb18,
+ordinary-peer-reciprocal-01: 240 wall / 160 CPU seconds, 2048 MiB / 10 processes
+outer; 190 work / 210 total seconds and 145 accounted CPU inner. Nine public
+commands, existing A untouched, one new B initialization, actual two-unit
+receipt and one-unit extension, final C metadata discovery only. No rebuild,
+certificate, retries, old-state copy or competing-lock test. Sources/pins freeze
+on use. Saved independent audit remains required; full v5 is not complete.
+
+**2026-10-23 resumed practical integration:** canonical guard passes; goal remains
+active. Root read full public reciprocal harness829570de; independent source
+review is in progress before one exact selection. No test has been repeated.
+Root adopts project-hook contract3a154386: retain ordinary project authoring,
+export inert candidates in their authoring module, independently admit against
+the receiver's exact context. project_hook_design investigates the smallest
+explicit authoring-backend seam, not a second checker or package manager.
+No existing compatible user project has yet been selected; do not label an
+invented fixture as ecosystem compatibility. All used predecessor bytes freeze.
+
 **2026-10-23 pure controls independently adopted:** root read actual six-group
 PASS and saved auditd9cb00ee. Fresh peer profile loads; controls cost1.357537wall/
 1.1875knownCPU with clean closure, no native/owner/network work. No rerun selected.

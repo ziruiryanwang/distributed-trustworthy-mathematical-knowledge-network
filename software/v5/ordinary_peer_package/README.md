@@ -3,8 +3,9 @@
 This v5 candidate adds direct-contact discovery and sharing to the
 [persistent ordinary owner](../ordinary_package/README.md). It reuses the existing
 Lean checker, custody and index. Certificates are not required. It is not yet a
-final public release: source review, file-only assembly and six focused pure
-controls passed; actual reciprocal CLI use remains a separate pending check.
+final public release: source review, file-only assembly, six focused pure
+controls and the actual nine-command reciprocal CLI workflow passed their
+independent audits. The broader release obligations below remain open.
 License undecided.
 
 ## What the commands mean
@@ -120,6 +121,20 @@ assembly observation, not a mathematical-growth or comparative performance resul
 The six pure controls also loaded the successor profile in a fresh process and
 passed in 1.36 elapsed seconds / 1.19 known CPU seconds. They use explicit mocks
 and perform no native checking or peer communication; see the outcome's scope.
+
+The [public reciprocal outcome](../../../research/cycles/v5-2026-10-22-native-library/ORDINARY-PEER-RECIPROCAL-OUTCOME.md)
+records nine actual commands: publish, initialize a genuinely new receiver,
+serve, discover, receive, contribute offline, publish, serve and discover again.
+The receiver checked a theorem and its missing definition, then used that theorem
+twice in a new checked proof after the supplier stopped. The final cold client
+discovered the new export; it did not independently accept it. Original owner
+files stayed unchanged. Both services and all processes closed cleanly.
+
+The complete run cost 87.63 elapsed seconds (including 60 seconds of service
+leases) and 30.81 known inclusive CPU seconds. A preceding plan was rejected
+before any product command because it exceeded the supervisor's process-count
+ceiling; its failure remains recorded. These are workflow observations, not a
+net-benefit comparison with optimized ordinary library sharing.
 
 Large-scale relevance, selected-context costs, ordinary project/editor integration,
 full-cost benefit against optimized package sharing, resilient provider operation,

@@ -42,8 +42,16 @@ helper dependency. Its relocated payload checked a caller-selected definition
 and theorem, then reopened the persistent owner without native replay. The first
 caller visibility failure is retained alongside the corrected continuation.
 Generic source contribution is no longer restricted to a fixed example template.
-The next implementation is a thin peer-command surface over the existing APIs;
-it reuses compiled checking support rather than rebuilding it for Python changes.
+The [peer-command surface](software/v5/ordinary_peer_package/README.md) is also
+implemented and has passed an independently audited nine-command public workflow:
+unknown-ID discovery, actual missing-definition acquisition, independent checking,
+offline reuse/contribution, and rediscovery from a surviving contributor.
+The final client endpoint is discovery, not fresh mathematical acceptance.
+Compiled checking support was reused without a rebuild or certificate.
+The next source candidate is a thin explicit trusted-project authoring backend;
+the receiver, peer protocol and compiled helpers remain unchanged. It is not yet
+runtime-qualified for an existing project, and scratch binaries are not ordinary
+proof-complete Lean libraries.
 
 These results do not establish independently hosted operation, broad workload
 benefit or a final deployable v5. Cold loading still depends on the selected local

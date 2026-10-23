@@ -4,6 +4,22 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 project successor: project_hook_design owns only new
+software/v5/ordinary_project_package/ordinary_contribution.py and author_worker.py
+and its implementation checkpoint. ordinary_api_flow owns the new owner.py CLI
+with optional closed project-authoring config and ORDINARY-PROJECT-CLI.md.
+Root owns profile.py, assembly/map, selection and Git. admission_event_audit
+finishes reciprocal process-cap correction/actual audit before new-source review.
+No runtime authority for the project adapter; no existing package is modified.
+
+2026-10-23 resumed: ordinary_api_flow finalizes reciprocal harness/plan;
+admission_event_audit owns independent ORDINARY-PEER-RECIPROCAL-REVIEW.md,
+then saved outcomes if launched. project_hook_design owns source-only
+ORDINARY-PROJECT-ADAPTER-IMPLEMENTATION.md and proposes the minimal additive
+authoring seam before any implementation selection. Root owns integration,
+finite launch decisions, docs and Git. Canonical native-library checkpoint
+directory throughout; old source/evidence remain preserved.
+
 2026-10-23 after peer pure controls: new project_hook_design owns only
 ORDINARY-PROJECT-HOOK-CONTRACT.md, source/theory follow-through on the existing
 project decision (exact hook placement/dependency semantics, not repeated broad
