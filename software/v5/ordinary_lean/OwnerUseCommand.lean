@@ -122,13 +122,17 @@ def groupFilename (index : Nat) : String :=
 /-- Construct a complete candidate without mutating command state. Only the
     final elaborator below installs it, after all potentially failing IO. -/
 def run (owner : Environment) (directoryRaw expectedProfile expectedContext expectedBasis : String)
+    (definitionView : OwnerRebind.DefinitionView := .exact)
     : IO Environment := do
   if owner.asyncPrefix?.isSome then fail "TOP_LEVEL_OWNER_REQUIRED"
   if (boundContextExt.getState owner).isSome then fail "SECOND_USE_NOT_SUPPORTED"
   for id in [expectedProfile, expectedContext, expectedBasis] do
     discard <| OwnerRebind.identityOf (Json.str id)
   let directory ← absolutePath directoryRaw
-  phase "ENTERED_EXISTING_OWNER_ENVIRONMENT"
+  let policy := match definitionView with
+    | .exact => "exact"
+    | .existingAbstract => "existingAbstract"
+  phase s!"ENTERED_EXISTING_OWNER_ENVIRONMENT definitionView={policy}"
   let limits : OwnerRebind.Limits := {}
   let (header, headerBytes) ← readJsonBounded (directory / "header.json") 1048576
   let fields ← ExprCodec.jsonResult header.getObj?
@@ -169,7 +173,7 @@ def run (owner : Environment) (directoryRaw expectedProfile expectedContext expe
     readGroup := readGroup
   }
   phase s!"HEADER_MATCHED groups={groupCount} basisRows={basisRows.size} targets={targets.size}"
-  let rebound ← OwnerRebind.rebindPrepared owner prepared limits
+  let rebound ← OwnerRebind.rebindPrepared owner prepared limits definitionView
   if (← nextGroup.get) != groupCount then fail "GROUP_READ_CENSUS"
   let context : BoundContext := {
     mainModule := owner.mainModule
@@ -180,7 +184,7 @@ def run (owner : Environment) (directoryRaw expectedProfile expectedContext expe
   }
   let candidate := boundContextExt.setState rebound.environment (some context)
   let used ← rawBytes.get
-  phase s!"REBOUND_READY_FOR_AUTHORING_INSTALL interfaces={rebound.interfaceMatched} exact={rebound.exactMatched} checkedUnits={rebound.checkedUnits} addedNames={rebound.addedNames.size} rawBytes={used}"
+  phase s!"REBOUND_READY_FOR_AUTHORING_INSTALL interfaces={rebound.interfaceMatched} abstractDefinitions={rebound.abstractDefinitions} exact={rebound.exactMatched} checkedUnits={rebound.checkedUnits} addedNames={rebound.addedNames.size} rawBytes={used}"
   return candidate
 
 end OrdinaryLean.OwnerUse
@@ -191,4 +195,13 @@ elab "#ordinary_use " directory:str profile:str context:str basis:str : command 
   let owner ← getEnv
   let candidate ← liftIO <| OrdinaryLean.OwnerUse.run owner directory.getString
     profile.getString context.getString basis.getString
+  modifyEnv (fun _ => candidate)
+
+/-- Explicit construction-only use of existing safe definition/opaque stubs.
+    No inserted axiom, concrete-body mismatch fallback, or new receiver mode.
+    Native name-based reductions retain the pinned kernel interpretation. -/
+elab "#ordinary_use_abstract " directory:str profile:str context:str basis:str : command => do
+  let owner ← getEnv
+  let candidate ← liftIO <| OrdinaryLean.OwnerUse.run owner directory.getString
+    profile.getString context.getString basis.getString .existingAbstract
   modifyEnv (fun _ => candidate)

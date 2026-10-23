@@ -1,5 +1,67 @@
 # Current research desk
 
+**2026-10-23 consumer03 terminal; actual authoring closure is next:** read/adopt
+expanded review39b294c6: helpers and22matcher controls passed; consumer03 safely
+refused missing private basis support before installation,5.359375knownCPU.
+No new theorem/export. Author now specifies owner-view dependency closure over
+actual types/concrete bodies/generated rules/new-unit proofs rather than full
+accepted hidden bodies. No one-name omission or private full import selected.
+Root reverted only the unused precautionary control-source rewrite to the exact
+passing bcea5b8f cut; no experiment bytes changed and no controls will be rerun.
+Discovery planb06d7fc4 identifies portable V2 catalog/identity separation as next
+integration, preserving actual native snapshots/checker; no migration selected.
+
+**2026-10-23 actual abstract consumer03 selected:** root read/adopts independent
+source review7638d8ad for helpers/driver/selector and observed all22selected
+matcher controls pass with empty stderr/clean closure (1.5625knownCPU). Select
+consumer03 6bce4522 once,120CPU/150wall/1536MiB: reuse exact projected request,
+unchanged substantive proof, explicit existingAbstract construction, inert export.
+No producer import, new receiver rule or mathematical acceptance is implied.
+
+**2026-10-23 changed helpers compiled; matcher controls selected:** helper
+selection32b37eed passed all four modules with empty native logs/clean closure,
+6.1875knownCPU. Root read OwnerAbstractChecks: select its22synthetic construction
+matcher controls once,30CPU/60wall/1536MiB, reusing changed helper artifacts.
+These do not grant receiver authority. Root fully read/adopts successor-controller
+reviewe9eedfb4; actual admission still requires a real exported consumer bundle.
+
+**2026-10-23 explicit view helper build selected:** root read the two-file
+implementation (OwnerRebind63ffaac1, OwnerUsecfeaaf28) and source argument.
+Select only OwnerRebind, SuccessorExport, OwnerUseCommand, SuccessorExportCommand
+compilation under retained lower public helpers,120CPU/195wall/1536MiB. No
+receiver rebuild or consumer yet; independent boundary review and compact new
+matcher discriminator source proceed concurrently. Source construction handles
+remain nonauthoritative and the exact command remains the default.
+
+**2026-10-23 continuation: explicit authoring abstraction selected:** root read/
+adopts ABSTRACT-AUTHORING-IMPLEMENTATION-PLAN96105857 and independent REVIEW
+ff85bc2e, including native primitive reductions (not merely delta rules). Select
+OwnerRebind/OwnerUse source successors with exact default and explicit abstract
+command for existing safe warranted definition handles only. No new axioms,
+concrete mismatch fallback or receiver relaxation. Reuse consumer02's exact
+projected request; root owns driver successor and later bounded selection.
+Independent successor-admission review and concrete existing-discovery bridge
+plan proceed in parallel. No runtime is yet selected; full v5 remains open.
+
+**2026-10-23 needed hidden semantics reached; rethink authoring, not the receiver:**
+consumer02 e0446ace completed projection316basis/265omitted/4549204B and then
+refused required Nat.xor public axiom-shaped view before installation. Clean
+exit,6.703125knownCPU; no owner artifact or successor. Original groups and
+receiver basis remain exact. No retry/extra exclusion selected. Root requests
+independent theory challenge and minimal plan for an explicit abstract authoring
+handle backed by an already accepted definition, exact interface/identity and
+same primitive interpretation. No newly inserted axiom, no conflicting concrete
+definition accepted by type, and final native receiver remains unchanged.
+Source-only successor admission controller is complete pending review/input.
+
+**2026-10-23 selected-basis consumer02 launched next:** root fully read pure
+projection c800cf08 and its closure argument; independent reviewer gives GO
+for projection plus driver b65828a3/selector679e997b. Fresh selectione0446ace
+uses unchanged commands02/helper artifacts and the unchanged120CPU/150wall/
+1536MiB envelope. Project only the authenticated header, preserve all387groups,
+check exact files before/after. No new basis check, helper rebuild or evidence-map
+scan. Actual selected-row count and source-use outcome are not assumed.
+
 **2026-10-23 actual source-use refusal selects a smaller semantic obligation:**
 consumer01 failed safely at full-basis Nat.gcd public-body absence before any
 group/install; knownCPU4.34375, no successor. Root selects pure dependency-closed

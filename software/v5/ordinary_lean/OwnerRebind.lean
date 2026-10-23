@@ -7,7 +7,7 @@ public import Lean.Namespace
 /- Conditional owner-authoring correspondence, NOT a mathematical acceptance
    authority. The controller authenticates the accepted context, every symbol
    binding and every prepared byte before this API is called. Matching an owner
-   axiom-shaped theorem handle never supplies a warrant or creates an axiom.
+   axiom-shaped authoring handle never supplies a warrant or creates an axiom.
    Final successor admission must independently check against the actual
    warranted receiver context. No peer source, importModules or binary loading. -/
 
@@ -17,6 +17,19 @@ open Lean
 namespace OrdinaryLean.OwnerRebind
 
 def groupFormat : String := "DMKN_OWNER_GROUP_V1"
+
+/-- Trusted construction policy, never selected by peer request JSON. Abstract
+    handles retain the pinned kernel's primitive reductions, not delta bodies. -/
+inductive DefinitionView where
+  | exact
+  | existingAbstract
+  deriving BEq, Inhabited
+
+inductive MatchKind where
+  | theoremInterface
+  | abstractDefinition
+  | exact
+  deriving BEq, Inhabited
 
 structure Limits where
   checker : CheckedExtension.Limits := {}
@@ -53,7 +66,9 @@ structure BoundName where
   deriving Inhabited
 
 /-- `mode = 0` is a warranted theorem interface [params, originalTypeDAG].
-    `mode = 1` is an exact ordinary non-theorem inventory row. -/
+    `mode = 1` carries the full accepted non-theorem inventory row. Concrete
+    owner records always match it exactly; only explicit existingAbstract policy
+    permits an already existing axiom-shaped definition/opaque handle. -/
 structure Row where
   binding : BoundName
   mode : Nat
@@ -66,6 +81,7 @@ structure Rebound where
   bindings : Array BoundName
   targetNames : Array Name
   interfaceMatched : Nat
+  abstractDefinitions : Nat
   exactMatched : Nat
   checkedUnits : Nat
   addedNames : Array Name
@@ -153,20 +169,40 @@ def theoremPayload (actual : ConstantInfo) (limits : Limits) : IO Json := do
   return Json.arr #[← DeclCodec.paramsJson actual.levelParams limits.checker.codec,
     ← ExprCodec.encode actual.levelParams actual.type limits.checker.codec.expr]
 
-def matchRow (actual : ConstantInfo) (row : Row) (limits : Limits) : IO Unit := do
+/-- Existing axiom-shaped construction handle only; this does not classify it
+    as a theorem or infer any accepted identity from its type. -/
+def abstractPayload (actual : ConstantInfo) (limits : Limits) : IO Json := do
+  if !actual.isAxiom then fail "EXISTING_ABSTRACT_HANDLE_REQUIRED"
+  return Json.arr #[← DeclCodec.paramsJson actual.levelParams limits.checker.codec,
+    ← ExprCodec.encode actual.levelParams actual.type limits.checker.codec.expr]
+
+def matchRow (actual : ConstantInfo) (row : Row) (limits : Limits)
+    (definitionView : DefinitionView := .exact) : IO MatchKind := do
   requireSafe actual row.binding.name
   if row.mode == 0 then
     if (← theoremPayload actual limits) != row.payload then
       fail s!"THEOREM_INTERFACE_MISMATCH {row.binding.name}"
-  else
-    if actual.isAxiom || actual.isTheorem then
+    return .theoremInterface
+  if definitionView == .existingAbstract && actual.isAxiom then
+    let accepted ← ExprCodec.arrayOf row.payload (some 5)
+    let kind ← ExprCodec.natOf accepted[1]!
+    if kind != 1 && kind != 3 then
       fail s!"NEEDS_DEPENDENCY_SEMANTICS {row.binding.name}"
-    if (← DeclCodec.inventoryRow actual limits.checker.codec) != row.payload then
-      fail s!"EXACT_SEMANTICS_MISMATCH {row.binding.name}"
+    if (← abstractPayload actual limits) != Json.arr #[accepted[2]!, accepted[3]!] then
+      fail s!"ABSTRACT_INTERFACE_MISMATCH {row.binding.name}"
+    return .abstractDefinition
+  if actual.isAxiom || actual.isTheorem then
+    fail s!"NEEDS_DEPENDENCY_SEMANTICS {row.binding.name}"
+  if (← DeclCodec.inventoryRow actual limits.checker.codec) != row.payload then
+    fail s!"EXACT_SEMANTICS_MISMATCH {row.binding.name}"
+  return .exact
 
 /-- Never calls inventoryRow on theorem handles: imported public theorem stubs
-    need neither their original proof values nor a reclassification as axioms. -/
-def matchBasisRow (actual : ConstantInfo) (raw : Json) : IO Bool := do
+    need neither their original proof values nor a reclassification as axioms.
+    Explicit abstract policy also permits existing definition/opaque stubs,
+    without changing their warranted accepted meaning or primitive rules. -/
+def matchBasisRow (actual : ConstantInfo) (raw : Json)
+    (definitionView : DefinitionView := .exact) : IO MatchKind := do
   let row ← ExprCodec.arrayOf raw (some 5)
   let name ← BootstrapProbe.nameOf row[0]!
   CheckedExtension.requireName name
@@ -180,8 +216,13 @@ def matchBasisRow (actual : ConstantInfo) (raw : Json) : IO Bool := do
     if actual.levelParams.length != (← ExprCodec.natOf row[2]!) ||
         (← BootstrapProbe.dagJson actual.levelParams actual.type) != row[3]! then
       fail s!"BASIS_THEOREM_INTERFACE_MISMATCH {name}"
-    return true
+    return .theoremInterface
   if kind > 7 then fail "BASIS_KIND"
+  if definitionView == .existingAbstract && actual.isAxiom && (kind == 1 || kind == 3) then
+    if actual.levelParams.length != (← ExprCodec.natOf row[2]!) ||
+        (← BootstrapProbe.dagJson actual.levelParams actual.type) != row[3]! then
+      fail s!"BASIS_ABSTRACT_INTERFACE_MISMATCH {name}"
+    return .abstractDefinition
   BootstrapProbe.screen actual
   if kind == 0 && !BootstrapProbe.allowedAxioms.contains name then
     fail "NONPERMITTED_FOUNDATION_AXIOM"
@@ -193,7 +234,7 @@ def matchBasisRow (actual : ConstantInfo) (raw : Json) : IO Bool := do
   else pure none
   if (← BootstrapProbe.inventoryRow actual height) != raw then
     fail s!"BASIS_SEMANTICS_MISMATCH {name}"
-  return false
+  return .exact
 
 def requireBound (allowed : Std.HashSet Name) (name : Name) : IO Unit := do
   CheckedExtension.requireName name
@@ -206,13 +247,14 @@ def scanExpr (expr : Expr) (allowed : Std.HashSet Name) (used : Nat)
   for name in refs do requireBound allowed name
   return used + count
 
-/-- Opaque theorem proof history is deliberately excluded. Definitions and
-    non-theorem opaques retain bodies; generated records retain computation
-    and group references. Interface equality alone does not close dependencies. -/
-def scanSemantics (actual : ConstantInfo) (theoremInterface : Bool)
+/-- Theorem handles and explicit abstract definition handles scan their actual
+    types, not a fictitious body. Concrete definitions/opaques retain body scans;
+    generated records retain computation and group references. Exact accepted
+    meaning and primitive interpretation remain controller/profile premises. -/
+def scanSemantics (actual : ConstantInfo) (matchKind : MatchKind)
     (allowed : Std.HashSet Name) (used : Nat) (limits : Limits) : IO Nat := do
   let mut count ← scanExpr actual.type allowed used limits
-  if theoremInterface then return count
+  if matchKind != .exact then return count
   match actual with
   | .defnInfo value => count ← scanExpr value.value allowed count limits
   | .opaqueInfo value => count ← scanExpr value.value allowed count limits
@@ -301,6 +343,7 @@ def groupScope (environment : Kernel.Environment) (rows : Array Row)
     This function does not call setEnv/modifyEnv, import a module, publish a
     result, save an olean or grant mathematical authority to its output. -/
 def rebindPrepared (owner : Environment) (prepared : Prepared) (limits : Limits := {})
+    (definitionView : DefinitionView := .exact)
     : IO Rebound := do
   if owner.asyncPrefix?.isSome then fail "TOP_LEVEL_OWNER_REQUIRED"
   if !owner.toKernelEnv.quotInit then fail "OWNER_QUOTIENT_PROFILE_REQUIRED"
@@ -317,8 +360,10 @@ def rebindPrepared (owner : Environment) (prepared : Prepared) (limits : Limits 
   let mut bound : Std.HashSet Name := {}
   let mut symbols : Std.HashMap Name String := {}
   let mut basisByName : Std.HashMap Name Json := {}
+  let mut matchKinds : Std.HashMap Name MatchKind := {}
   let mut bindings : Array BoundName := #[]
   let mut interfaces := 0
+  let mut abstractDefinitions := 0
   let mut exact := 0
   let mut rowsCount := 0
   let mut scans := 0
@@ -345,9 +390,13 @@ def rebindPrepared (owner : Environment) (prepared : Prepared) (limits : Limits 
     let row ← ExprCodec.arrayOf entry[1]! (some 5)
     let name ← BootstrapProbe.nameOf row[0]!
     let some actual := candidate.toKernelEnv.find? name | fail s!"MISSING_FIXED_BASIS {name}"
-    let isInterface ← matchBasisRow actual entry[1]!
-    scans ← scanSemantics actual isInterface bound scans limits
-    if isInterface then interfaces := interfaces + 1 else exact := exact + 1
+    let matchKind ← matchBasisRow actual entry[1]! definitionView
+    scans ← scanSemantics actual matchKind bound scans limits
+    matchKinds := matchKinds.insert name matchKind
+    match matchKind with
+    | .theoremInterface => interfaces := interfaces + 1
+    | .abstractDefinition => abstractDefinitions := abstractDefinitions + 1
+    | .exact => exact := exact + 1
   for index in [:prepared.groupCount] do
     let packet ← prepared.readGroup index
     let groupSize := packet.compress.utf8ByteSize
@@ -420,9 +469,13 @@ def rebindPrepared (owner : Environment) (prepared : Prepared) (limits : Limits 
     for row in rows do
       let some actual := candidate.toKernelEnv.find? row.binding.name
         | fail "MISSING_MATCHED_RECORD"
-      matchRow actual row limits
-      scans ← scanSemantics actual (row.mode == 0) semanticsAllowed scans limits
-      if row.mode == 0 then interfaces := interfaces + 1 else exact := exact + 1
+      let matchKind ← matchRow actual row limits definitionView
+      scans ← scanSemantics actual matchKind semanticsAllowed scans limits
+      matchKinds := matchKinds.insert row.binding.name matchKind
+      match matchKind with
+      | .theoremInterface => interfaces := interfaces + 1
+      | .abstractDefinition => abstractDefinitions := abstractDefinitions + 1
+      | .exact => exact := exact + 1
       symbols := symbols.insert row.binding.name row.binding.symbolId
       bindings := bindings.push row.binding
     bound := allowed
@@ -438,26 +491,34 @@ def rebindPrepared (owner : Environment) (prepared : Prepared) (limits : Limits 
     let some visible := candidate.find? target.name (skipRealize := true)
       | fail "TARGET_FRONTEND_ABSENT"
     requireSafe visible target.name
+    let some matchKind := matchKinds[target.name]? | fail "TARGET_MATCH_CLASS_ABSENT"
     -- Targets may be basis names. Reuse their already verified matching mode,
     -- rather than assuming every target is a theorem or comparing proof values.
     if let some basisRow := basisByName[target.name]? then
-      discard <| matchBasisRow visible basisRow
+      if (← matchBasisRow visible basisRow definitionView) != matchKind then
+        fail "TARGET_FRONTEND_MATCH_CLASS_MISMATCH"
     else
-      match actual with
-      | .thmInfo _ | .axiomInfo _ =>
+      match matchKind with
+      | .theoremInterface =>
           if (← theoremPayload visible limits) != (← theoremPayload actual limits) then
             fail "TARGET_FRONTEND_INTERFACE_MISMATCH"
-      | _ =>
+      | .abstractDefinition =>
+          if (← abstractPayload visible limits) != (← abstractPayload actual limits) then
+            fail "TARGET_FRONTEND_ABSTRACT_INTERFACE_MISMATCH"
+      | .exact =>
           if (← DeclCodec.inventoryRow visible limits.checker.codec) !=
               (← DeclCodec.inventoryRow actual limits.checker.codec) then
             fail "TARGET_FRONTEND_SEMANTICS_MISMATCH"
     targetSet := targetSet.insert target.name
     targets := targets.push target.name
+  if interfaces + abstractDefinitions + exact != bindings.size ||
+      matchKinds.size != bindings.size then fail "MATCH_CLASS_CENSUS"
   return {
     environment := candidate
     bindings := bindings
     targetNames := targets
     interfaceMatched := interfaces
+    abstractDefinitions := abstractDefinitions
     exactMatched := exact
     checkedUnits := checkedUnits
     addedNames := addedNames

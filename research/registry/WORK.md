@@ -4,6 +4,30 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 continued: preview_boundary_review owns OwnerRebind/OwnerUse explicit
+abstract policy source and ABSTRACT-AUTHORING-IMPLEMENTATION; admission_event_audit
+owns successor-controller review then changed authoring-boundary review.
+ordinary_discovery_path owns concrete ORDINARY-DISCOVERY-INTEGRATION-PLAN, source
+analysis only. Root owns reused projected-request driver, selection, runtime,
+adoption and Git. Every owner uses canonical root; frozen outputs stay unchanged.
+
+2026-10-23 latest: consumer02 failed at needed Nat.xor after valid projection.
+admission_event_audit owns ABSTRACT-AUTHORING-REVIEW (new principle plus narrow
+saved02 outcome); preview_boundary_review owns only ABSTRACT-AUTHORING-
+IMPLEMENTATION-PLAN, no matching-rule edits yet. successor_export completed
+run_successor_admission.py source; root reviews it and owns eventual runtime.
+No runtime is live. Current question is justified authoring abstraction versus
+needed exact semantics acquisition, not repeated omission or larger resources.
+
+2026-10-23 current after first actual owner refusal: OwnerUse/SuccessorExport
+commands and core compile; Git e1c9afa checkpoints reviewed sources. Root owns
+consumer02 projection integration and runtime/Git. preview_boundary_review
+completed owner_basis_projection.py c800cf08; admission_event_audit independently
+reviews projection and driver delta, with saved consumer01 failure audit.
+successor_export now owns source-only run_successor_admission.py under adopted
+SUCCESSOR-ADMISSION-PLAN; no admission runtime exists. Reuse every compiled
+helper and all387original request group packets; no new full evidence scan.
+
 2026-10-23 resumed: root owns OwnerRebind syntax repair, retained-helper build,
 consumer runtime integration and Git. preview_boundary_review owns new
 OwnerUseCommand.lean/OWNER-USE-COMMAND; successor_export owns new
