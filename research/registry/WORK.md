@@ -4,6 +4,41 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 actual admission01 failed after real basis+first batch acceptance.
+ordinary_native_controller owns source-only run_native_admission_recovery.py and
+ADMISSION-RECOVERY-PLAN, preserving accepted prefix and original profile on a
+fresh verified local copy. lean_workflow_trace owns saved actual prefix/failure
+audit; preview_boundary_review completed source review of ordinary_preview.
+Root owns recovery selection/independent review and Git; no runtime lives.
+
+2026-10-22 native exporter build01 PASS; root selects actual native export01 only.
+lean_workflow_trace owns actual native build/export review. admission_event_audit
+owns ordinary_lean/ordinary_preview.py and ORDINARY-PREVIEW-IMPLEMENTATION, a
+bounded metadata/evidence-binding adapter, source only. Owner bridge plan and
+native exporter authors are finished. Root owns actual admission decision/Git;
+no source frontend retry, old suite repeat, certificate or final-v5 acceptance.
+
+2026-10-22 command02 terminal OOM/no entry. ordinary_export_identity owns
+NATIVE-EXPORTER-ROUTE source-only, examining single-runtime native execution;
+ordinary_native_controller finishes OWNER-REBIND-PLAN and no bridge coding.
+admission_event_audit and lean_workflow_trace completed independent reviews;
+root adopts their actual scoped evidence and owns next architectural selection.
+No runtime, memory increase, old retry or certificate is selected.
+
+2026-10-22 root owns changed producer-command runner/selection and later execution;
+lean_workflow_trace reviews actual private current-env semantics and saved failure.
+admission_event_audit independently reviews run_native_admission event chain;
+ordinary_native_controller owns only OWNER-REBIND-PLAN, source-only concrete bridge
+contract. Author ordinary_export_identity finished command source. No duplicate
+core/catalog/snapshot campaigns or certificate work; final goal remains active.
+
+2026-10-22 current after failed export01: ordinary_export_identity owns new
+OwnerExportCommand and OWNER-EXPORT-REVISION (current producer getEnv, no second
+source import); lean_workflow_trace reviews that exact route and saved OOM.
+ordinary_native_controller finishes source-only actual admission driver; no
+valid owner export exists, so no admission launch. Root owns selection/Git.
+Previous test snapshots and failure remain unchanged; no RAM hunt or cap increase.
+
 2026-10-22 current: ordinary_native_controller (fresh agent) owns only source-only
 run_native_admission.py and ACTUAL-ADMISSION-PLAN. Earlier evidence/catalog,
 snapshot, exporter, basis and worker authors/reviewers are complete. Root owns

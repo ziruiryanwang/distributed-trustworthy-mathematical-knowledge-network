@@ -158,3 +158,156 @@ inventory matches the fixed`c81800ab…dba1b0` hash. Complete runtime-library
 hermeticity remains outside this test's stated scope. Select admission budgets
 only after inspecting the real closure; no basis checking, native receiver
 admission, public distribution or growth result follows from successful export.
+
+## Actual owner-export01 failure
+
+Read the saved selected result and logs. **FAILED_OOM_WITH_CLEAN_CLOSURE.**
+`owner-export.stderr.txt` contains the explicit marker `INTERNAL PANIC: out of
+memory`; stdout is empty. No owner-export bundle or EXPORT-RESULT was produced.
+The outer driver reports failure, direct child exit1/reaped, zero final active
+processes, Job closed and no cleanup errors. Cost:22.765625 Job CPU +0.59375
+wrapper CPU =23.359375 known CPU seconds;25.45874339994043 outer wall seconds;
+1,613,631,488-byte peak private commit under the unchanged1,536 MiB limit.
+
+Selection SHA-256 is
+`293dc9befaafc41a6324cb71903136d9eced11a21537f2086738a7c35ce115ff`;
+RESULT SHA-256 is
+`85cd7f0b97c6bf5269a8ea640fb161ca743b2dd6def6f60e29bb2af327cc1e30`;
+the stderr SHA-256 is
+`cf6e327209e0b84b54d21e7f94dee3b0dbcb5dc178deaef11d95b6585d4c47e5`.
+
+There are no phase markers separating producer import, indexing, closure or
+encoding. Consequently the actual out-of-memory diagnosis is established, but
+its exact phase and attribution to duplicate environments are not. The selected
+source redesign exports from the current owner's `getEnv` instead of calling a
+second `importModules`. Removing that explicit second import is a concrete
+architectural simplification and a better ordinary publishing interface, not
+yet measured proof that the same envelope suffices. Old export01 remains failed;
+no retry, increased memory budget or unrelated resource investigation follows.
+
+## Current-owner command and finite adapters: source review
+
+**SOURCE_REVIEW_NO_BLOCKER_FOR_ONE_ROOT_SELECTED_RUN.** Read complete
+`OwnerExportCommand.lean`, `OWNER-EXPORT-REVISION.md`, `run_owner_command.py`
+and `select_owner_command.py`, and the relevant pinned Lean 4.34 source.
+No runtime, compilation, implementation edit or Git action was performed by
+this review. This verdict is not compilation success or export qualification.
+
+The command obtains the current command state's `getEnv`, then its
+`toKernelEnv`; it never constructs a second environment using `importModules`.
+Pinned `Lean/Elab/Command.lean:213` supplies the current environment and
+`Lean/Environment.lean:649` returns its checked kernel environment. The exact
+requested root must be an actual `thmInfo`; a public `axiomInfo` view is refused.
+The unchanged bounded exporter still checks source-basis correspondence and
+selected dependency records. An inert serialized bundle never substitutes for
+fresh receiver checking.
+
+The driver correctly uses **no `module` header and no `import all`**. Pinned
+`Lean/Elab/Import.lean:150-156` selects the private level for a legacy header;
+`Lean/Environment.lean:2182` propagates that private import throughout the
+transitive closure. `Lean/Parser/Module.lean:103` forbids explicit `import all`
+without `module`. This source argument supports availability of actual theorem
+bodies, including transitive Std records, rather than public axiom interfaces.
+It does not prove that the selected real closure fits the current size limits.
+
+The helper's narrow `Lean.Elab.Command` import is not a demonstrated missing-
+elaborator defect. `elab` is registered with `builtin_command_elab` by
+`Lean/Elab/ElabRules.lean`; `Lean/KeyedDeclsAttribute.lean` explicitly stores
+builtin elaborators in a process-level table and seeds each extension's initial
+state from that table. The ordinary compiler includes this frontend. Directly
+importing every builtin elaborator's implementation is not required merely to
+use its command syntax. The selected compilation, not this argument, will settle
+any remaining concrete elaboration incompatibility.
+
+The command bounds and lexically screens the fixed inventory before JSON
+parsing, writes a fresh output with `writeNew`, and flushes four distinct phase
+markers. Exact inventory authentication, canonicalization, duplicate-key checks
+and receiver acceptance remain controller obligations. Owner imports can load
+trusted native extension state: this remains an owner-selected source frontend,
+not a peer-source endpoint or security sandbox.
+
+The selector authenticates the failed01 selection, preserves its exact producer,
+compiler, exporter and inventory pins, and removes only unimported snapshot/
+worker dependencies. It snapshots the new command and two adapters under a fresh
+operation name. The unchanged outer allowance is 120 CPU seconds, 180 wall
+seconds, 1,536 MiB and four active processes. The wrapper clears inherited Lean
+paths, compiles just the new command, imports the retained already-compiled
+ReadFootprint method and emits the legacy driver. It does not recompile the
+mathematics, invoke basis/receiver checking or produce certificates. Direct
+exclusive log files preserve flushed diagnostics through outer termination;
+the parent Job still supplies aggregate process/time/memory containment. Local
+bundle parsing is explicitly inspection of a selected trusted writer's bounded
+output, not the untrusted evidence reader. Complete toolchain/import-directory
+hermeticity is not claimed by the inherited explicit-pin test mechanism.
+
+Removing the explicit second environment is established by source inspection;
+lower memory or CPU is not yet measured. The current command also imports Lean
+elaboration machinery, so the total owner environment remains nontrivial. The
+phase markers and actual output, if produced, are the relevant next evidence.
+No automatic memory increase, second run, receiver admission, growth claim or
+full-v5 completion is authorized by this review.
+
+| Reviewed source | SHA-256 |
+|---|---|
+| `OwnerExportCommand.lean` | `ddea3ee0230701c298c0ba81283629d328f08aa08e54e64811ef65a635f6afb5` |
+| `run_owner_command.py` | `0e4f1d4284adf6f4f622c20ca96d6bf75f6d4062c4dc304e54bd57ebb8f59dbb` |
+| `select_owner_command.py` | `340ef2c870cf4f7d6aa365e76de209bb20d90dd417498f942a4dea5022b71825` |
+
+## Actual command01 and minimal search-path repair02
+
+Read saved command01 RESULT, wrapper/phase logs, output census and the revised
+two adapters. **HELPER_COMPILED_EXPORT_BLOCKED_AT_IMPORT.** New command
+compilation exits0 with empty stdout/stderr; compiled artifact SHA-256 is
+`5534bf9c46c9b9752ab811c641b465863286ef85b969025af430da15477166db`.
+The driver then exits1 at its first import: Lean chooses the earlier core05
+`examples` directory, whose `ReadFootprint.olean` does not exist, instead of
+the retained method01 artifact. The selected core05 directory is empty and the
+method01 build root contains only `examples`, as independently inspected. No
+export entry marker, bundle or EXPORT-RESULT exists; this was not an OOM run.
+
+Direct child is reaped, final active processes0, Job closed and cleanup errors
+empty. Cost:1.640625 Job CPU +0.5625 wrapper CPU =2.203125 known CPU seconds;
+3.023401599843055 outer wall seconds;944,881,664-byte peak private commit.
+RESULT SHA-256:
+`e78c8dbd50e001e4f1184caddb09fe126709958a244055b91dfdf8e0b15995ee`.
+
+**SOURCE_REVIEW_NO_BLOCKER_FOR_FRESH02.** The repair puts METHODS before CORE
+in the explicit Lean path, reuses the command01 compiled helper and checks
+exact helper-source equality. The selector pins that artifact and source,
+uses fresh02 paths and retains the original resource limits. No old failed
+operation is rewritten and neither method nor helper is recompiled. Moving
+the inspected methods root earlier does not introduce older core-helper
+artifacts. Runner SHA-256 is
+`828c3b70b5ea23966fc4101c44f531cde12be2738c894d3e499b56dbfbe9ee99`;
+selector SHA-256 is
+`3feb0d0465f2f59739b235fb5f79114bc33389a1849dc09133a8d5156e3e984b`.
+The prior source verdict's elaborator concern is now settled by actual helper
+compilation. Export closure, memory sufficiency and receiver admission remain
+unestablished. This reviewer performed no runtime or implementation edit.
+
+## Actual command02: pre-entry OOM, not an export-closure measurement
+
+The fresh02 run is now terminal. Read RESULT, both direct owner logs, wrapper
+logs and the actual output census. **FAILED_OOM_BEFORE_OBSERVABLE_COMMAND_ENTRY.**
+The retained compiled helper was reused, but owner stdout is empty and stderr
+contains `INTERNAL PANIC: out of memory`. No entry/index/selection/output phase
+marker, bundle or EXPORT-RESULT exists. Consequently this does not measure
+selected-closure construction or establish that `Export.indexSource` ran.
+The private-all owner/compiler import path still fails within the selected
+envelope; removing the previous explicit second environment was insufficient
+for this route. The exact internal allocating call remains unknown.
+
+Direct child exits1 and is reaped; final active processes0, Job closed and no
+cleanup errors. Cost:27.078125 Job CPU +0.421875 wrapper CPU =27.5 known CPU
+seconds;30.268893599975854 outer wall seconds;1,611,055,104-byte peak private
+commit under the unchanged1,536 MiB limit. Selection SHA-256 is
+`f8ec045b79d359e834dee517e642b65218ce8fb1b8c38065e815d2f18f296fe9`;
+RESULT SHA-256 is
+`e639c485ce5de57b6d41936f23b8f859c70eb0ed814c6fd44a5de587538fd392`.
+The stderr hash is the same explicit30-byte panic text recorded for export01.
+
+Do not repeat this same private-all frontend or raise memory merely to obtain
+a component pass. A subsequent route needs a source-level reason to avoid the
+large private compiler/environment import, or a changed practical library
+boundary. Root owns that architectural choice. No mathematical export,
+receiver admission, cache advantage or growth benefit follows from02.

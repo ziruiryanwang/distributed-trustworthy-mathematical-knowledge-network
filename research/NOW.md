@@ -1,5 +1,80 @@
 # Current research desk
 
+**2026-10-22 actual admission has a warranted prefix, not completion:** original
+admission01 failed cleanly on second extension with explicit OOM. Actual basis
+456units/581names and first1024groups/1175names were checked and committed;
+no final method acceptance. Cost116.921875knownCPU/122.186464wall. Source retains
+the whole parsed bundle and all prepared payloads during native calls; failed
+nested peak860397568B versus outer1610649600B supports investigating avoidable
+co-residency, not assigning the uninstrumented exact failed allocation phase.
+Root selects source-only recovery from the genuine protected accepted prefix,
+fresh verified local copy/fresh grants, incremental remaining evidence, unchanged
+profile/checker and1536MiB. Preserve original tree and charge failed reservation;
+do not repeat basis/first batch or automatically renew the480CPU total. New
+controller maximum360CPU pending review. Author ordinary_native_controller;
+actual reviewer lean_workflow_trace. Ordinary preview source/review passes scope
+but no test/index/discovery claim. No runtime is currently active.
+
+**2026-10-22 real native export succeeded; select actual admission:** export01
+f3bcecc0 clean success,42202667B bundle,2852units/18136edges/1198152scanNodes;
+11.671875knownCPU/12.748267wall/1168179200B peak. Actual private import and
+bounded closure/export phases all completed. Root selects one real fixed-basis
+plus selected-closure admission using independently reviewed a9bdbfc8 controller,
+480CPU/540wall aggregate/1536MiB, no per-batch budget renewal. Preflight may
+refuse before any native spend; inputs must remain exact. This is initial
+selected-library onboarding, not mathematical novelty, demonstrated growth,
+ordinary-source rebinding or final v5. Actual audit and later source use remain.
+
+**2026-10-22 native exporter build passed; one actual export selected:** root
+read all13 successful build steps/empty error logs, executable2cebc032 (691200B),
+clean closure,13.4375knownCPU/12.678861wall/678518784B peak. Source review26303942
+is adopted. Select actual export01 f3bcecc0 using that immutable executable and
+retained method/inventory under unchanged120CPU/180wall/1536MiB. No upstream or
+method rebuild, no receiver acceptance inferred. lean_workflow_trace audits saved
+build and actual output; admission_event_audit implements bounded proof-free
+ordinary previews in one new source module, without modifying the index engine.
+
+**2026-10-22 command02 failed before observable export entry:** explicit OOM,
+no phase marker/bundle; clean closure,27.5knownCPU,30.2689wall. Do not retry this
+full-private source frontend or increase its cap. Root adopts saved independent
+review95c9971f. Source-only next decision: ordinary_export_identity examines a
+small native compiled producer exporter, loading method proofs once without
+also loading helper/compiler declarations as Lean data. No native build is
+selected until the actual installed toolchain/linking seam is resolved. Admission
+driver independent event reviewe39c0a6b passes source scope but has no real input.
+Preserve both failures; final v5 and real ordinary reuse remain unfinished.
+
+**2026-10-22 command01 compiled; integration path corrected for02:** command
+compile passed with empty logs, but driver failed before export entry: Lean chose
+core05's empty examples namespace directory before the real retained method.
+No owner bundle or admission occurred, and no OOM. Root selects source-only
+path order fix METHODS before CORE and reuses the successful command01 artifact
+without rebuilding it. Fresh02 has unchanged120CPU/180wall/1536MiB; failure01
+and snapshots remain preserved. This is a concrete integration repair, not cap
+inflation or a repeated passed campaign.
+
+**2026-10-22 changed owner-command route selected:** root selects one compile
+of new OwnerExportCommand plus actual current-getEnv export of the retained
+ReadFootprint artifact. Source is reviewed; independent private-view review is
+finishing before launch. Fresh command01 uses the unchanged120CPU/180wall/1536MiB
+envelope, direct flushed diagnostic files and no second source import. It does
+not recompile mathematics or authorize admission. Parallel admission_event_audit
+checks the controller event chain; ordinary_native_controller resolves the
+owner-source rebinding seam. No certificate campaign or previous suite repeats.
+
+**2026-10-22 owner export01 failed; revise producer workflow, not RAM:** terminal
+session92319 exit1/clean, explicit INTERNAL PANIC out of memory, no bundle;
+23.359375knownCPU, peak1,613,631,488B under1536MiB allowance. No phase markers
+identify the exact allocation stage. Do not rerun/raise the grant. Root selects
+OwnerExportCommand through current producer getEnv, removing explicit second
+importModules and fitting ordinary project publication. It must obtain actual
+private kernel records; the author established legacy/no-module imports supply
+private transitive views, whereas naive import-all is not equivalent. Separate
+reviewer checks this and saved failure. Add flushed phase markers. Actual
+admission driver remains source-only, with no fabricated owner bundle or basis
+success. No runtime lives; Git0c1b97d checkpoints persistence/identity/workflow
+sources and their bounded evidence. Full v5 remains active and unfinished.
+
 **2026-10-22 real ordinary workflow now selected:** root fully read/adopts
 EVIDENCE-CATALOG-OUTCOME: nine genuine storage/identity controls with synthetic
 nonmathematical files,0.90625knownCPU; no native acceptance inferred. Root also
