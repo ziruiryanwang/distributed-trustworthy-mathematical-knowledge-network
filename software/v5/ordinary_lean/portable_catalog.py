@@ -64,6 +64,13 @@ def batch_id(identities):
     return L.digest("DMKN-ORDINARY-BATCH-V2", identities)
 
 
+def _check_parent_deadline(parent_deadline):
+    """Optional caller-owned absolute clock; never replenish it during parsing."""
+    if parent_deadline is not None:
+        need(type(parent_deadline) in (int, float) and math.isfinite(parent_deadline) and
+             time.monotonic() < parent_deadline, "CATALOG_PARENT_DEADLINE")
+
+
 def legacy_root_id(semantic, foundation, store, import_id, source_root, parent):
     if parent:
         hexid(parent)
@@ -541,7 +548,8 @@ class PortableCatalog:
         self._active()
         return result
 
-    def _reserve(self, kind, parent, request_hash, bindings, identities, parent_plan, *, seconds, output_bytes):
+    def _reserve(self, kind, parent, request_hash, bindings, identities, parent_plan, *, seconds, output_bytes,
+                 parent_deadline=None):
         self._active()
         need(self._grant is None, "CATALOG_OPERATION_ACTIVE")
         uint(seconds, 1, 3600, "CATALOG_DEADLINE")
@@ -564,26 +572,34 @@ class PortableCatalog:
         grant.parent_module_raw = E.canonical_json(parent_plan[-1]["module_name"] if parent_plan else [])
         grant.parent_plan_raw = E.canonical_json(parent_plan)
         need(len(grant.parent_plan_raw) <= self._limits.max_manifest_bytes, "PORTABLE_PARENT_PLAN_BOUND")
-        grant.deadline, grant.directory = time.monotonic()+seconds, self._root / "operations" / grant.identifier
+        _check_parent_deadline(parent_deadline)
+        grant.deadline = time.monotonic()+seconds
+        if parent_deadline is not None:
+            grant.deadline = min(grant.deadline, parent_deadline)
+        grant.directory = self._root / "operations" / grant.identifier
         self._db.execute("INSERT INTO operations VALUES(?,?,'RESERVED',?)", (grant.identifier, root, output_bytes))
         grant.directory.mkdir()
         self._grant = grant
         self._grant_binding = tuple(getattr(grant, key) for key in _Grant.__slots__)
         return grant
 
-    def reserve_basis(self, fixed_names, *, seconds=120, output_bytes=32*1024*1024):
+    def reserve_basis(self, fixed_names, *, seconds=120, output_bytes=32*1024*1024, parent_deadline=None):
         """Reserve the actual pinned basis worker, not a metadata-only basis."""
         self._active()
+        _check_parent_deadline(parent_deadline)
         need(type(fixed_names) in (list, tuple) and len(fixed_names) == 581, "CATALOG_FIXED_BASIS_CENSUS")
         need(self._db.execute("SELECT count(*) FROM roots").fetchone()[0] == 0 and
              self._basis_root == self._native_basis_root, "CATALOG_BASIS_ALREADY_PRESENT")
         rows = sorted((E.name_key(name), name) for name in fixed_names)
         need(len({key for key, _ in rows}) == 581, "CATALOG_FIXED_BASIS_CENSUS")
         bindings = [[name, S.basis_symbol_id(self.semantic_id, self.foundation_id, name)] for _, name in rows]
-        return self._reserve("basis", "", self._basis_request, bindings, [], [], seconds=seconds, output_bytes=output_bytes)
+        return self._reserve("basis", "", self._basis_request, bindings, [], [], seconds=seconds,
+                             output_bytes=output_bytes, parent_deadline=parent_deadline)
 
-    def reserve_extension(self, parent_root, raw_v2_units, *, seconds=120, output_bytes=64*1024*1024):
+    def reserve_extension(self, parent_root, raw_v2_units, *, seconds=120, output_bytes=64*1024*1024,
+                          parent_deadline=None):
         self._active()
+        _check_parent_deadline(parent_deadline)
         need(type(raw_v2_units) in (list, tuple) and 1 <= len(raw_v2_units) <= self._limits.max_batch_units,
              "CATALOG_BATCH_COUNT")
         need(all(type(raw) is bytes for raw in raw_v2_units) and sum(map(len, raw_v2_units)) <= self._limits.max_batch_bytes,
@@ -591,6 +607,7 @@ class PortableCatalog:
         context = self.context(parent_root)
         bindings, introduced, identities = dict(context["bindings"]), [], []
         for raw in raw_v2_units:
+            _check_parent_deadline(parent_deadline)
             evidence = PE.read_evidence(raw)
             doc = evidence.document
             need(doc["semantic_id"] == self.semantic_id, "PORTABLE_EVIDENCE_SEMANTICS")
@@ -605,7 +622,8 @@ class PortableCatalog:
             need(len(bindings) <= self._limits.max_names, "CATALOG_CONTEXT_NAME_BOUND")
             identities.append(evidence.unit_id)
         return self._reserve("extension", parent_root, batch_id(identities), introduced, identities,
-                             context["modules"], seconds=seconds, output_bytes=output_bytes)
+                             context["modules"], seconds=seconds, output_bytes=output_bytes,
+                             parent_deadline=parent_deadline)
 
     def _grant_active(self, grant):
         self._active()
