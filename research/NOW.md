@@ -1,5 +1,127 @@
 # Current research desk
 
+**2026-10-23 completion controls independently adopted; practical support next:**
+Root read saved outcome5c1117bf. Seven groups pass in controls02, selection
+101acf19caf30996f4a90955f41a190f4be7cd68b71d77528b48a76cefe2288a;
+1.5605868wall/1.34375knownCPU, clean closure, zero native/owner operations.
+Synthetic0.25CPU/acceptance in mock groups is not actual checking evidence.
+No repeats selected. Root selects new source-only retained_preparation.py in
+ordinary_library_support: reconstruct exact prepared bindings/output targets
+from pinned original request/header/groups, checked against the real parent.
+This removes manual reconstruction, not missing-proof extraction or acceptance.
+Public installed-Std extraction decision remains in progress; no runtime/build
+selected. Goal ACTIVE, not paused or complete.
+
+**2026-10-23 completion harness01 failure; minimal reviewed successor:**
+Controls01 failed before any group/fixture: its module-level CLI loop rebound
+the name() helper to a string. Preserve failed evidence and cost1.3622362wall/
+1.125knownCPU, clean closure. Root read independent failure/delta reviewb179f9a8.
+Fresh completion_controls02.py3833923e changes only that CLI variable;
+select_validation02.py4b841889 changes runner/self filenames only. Root selects
+one fresh controls02 run with unchanged profile82ca3a09 and60wall/35CPU/
+512MiB/2process envelope. No product fix, native run or old-state mutation.
+
+**2026-10-23 completion controls selected after independent source review:**
+Root read full saved review9feb9624 and controlsaf0f17bc. Select exactly
+ordinary-completion-controls-01, SHA256
+0954cf0db368d7bc9210a3458bf8b2bae7e517179bcc471982adb308cace405f;
+60wall/35CPU/512MiB/2process outer,50wall/30CPU inner. Seven native-free
+groups load profile82ca3a09 once; real planner/binder, explicitly mocked
+admission/CLI. Used source/selector freeze. The initial requested run name
+ordinary-library-controls-01 collided with preserved October22 native evidence:
+selector refused LIBRARY_CHECK_FRESH before writes/launch. Old files remain
+untouched; the distinct completion name is not a rerun of that old operation.
+Public extraction/prepared-map integration is the next source-only decision;
+reverse checked-project export decisionf24486b8 identifies real module/foundation
+conflicts, not missing proofs. No new native extraction/build is selected.
+
+**2026-10-23 resilience controls and library assembly independently adopted:**
+root read saved outcome7a02f6a4. All11 real-client/session fake-exchange cases and
+36positive/18negative classification cases pass;1.6255875wall/1.375knownCPU,
+clean closure, no actual peer/owner/native operations. Library assembly has
+118payloads/36,705,510bytes,2changed2added/114unchanged;3.8381515wall/
+2.015625knownCPU, clean. New combined profile
+82ca3a098fd7a51a4c0246bbddf8003d01557374411b5361fd5c7b3d7f6b9680.
+Source/assembly/used controls are frozen. Library controls are still being
+authored; no actual completion/extraction or ordinary project-library export
+is claimed. No runtime lives. Reverse proof-complete project export is a
+source-only question using existing checked snapshots, not a new experiment.
+
+**2026-10-23 two independent small operations selected in parallel:** root
+read/adopts saved assembly/control-source review032aab6b, including the exact
+one-LF discrepancy. Select ordinary-resilient-controls-01 SHA256
+bc13bcb592de0a94ed8d0765a8d1b085680273fe7abebe70ff54d8757038f094,
+runner9f7b4e3d,60wall/35CPU/512MiB/2process (inner50wall/30CPU);
+and ordinary-library-package-assembly-01 SHA256
+bbb2cea3cc602f8a6d273d0209fe76c3d10cc5b2f8b8a5613b19faf29a4c72a0,
+assemblerfb3beb66,90wall/50CPU/512MiB/2process (inner60wall/40CPU).
+The first uses real metadata validators/fake exchange, no sockets/state/native;
+the second adds two completion helpers and replaces owner/loader only, no build
+or state. Distinct outputs and read-only common inputs. Authors were notified
+of source freeze before selection. No real completion/extraction is selected.
+
+**2026-10-23 resilience assembly terminal; preselection newline discrepancy:**
+assembly01 closed cleanly,4.029314wall/2.0625knownCPU,116payloads. Actual
+selected/copied peer_api SHA656e7c3c differs from the earlier source review538501a2
+by exactly one removed terminal LF (31037 versus31038bytes; root reconstructed
+the old hash without writing). Plan/source/copy final pin checks all passed.
+Retain this review-timing discrepancy; independent final-byte/outcome adoption
+precedes further layering. Current profile is
+cda4df6bddca464655096f681e555364cf711fe5ff52a54375da4f72be1b3dfd.
+The actual used source/assembly/selector bytes are frozen; no rerun selected.
+
+**2026-10-23 resilience file-only assembly selected:** root read full shared
+source review98506c05, library implementation215cac23 and changed peer source.
+Select ordinary-resilient-package-assembly-01 SHA256
+ae60677fe2b1f6c0f56c4f006ca49e600146913eaa804d9fd2eda7cb5142aaca;
+peer source538501a2, assemblerb8bf46f4. 90wall/50CPU/512MiB/2process outer;
+60wall/40CPU inner. One peer_api payload replacement over project profileb584cb21,
+no native build, owner/state or network. This will be the base for the library
+completion overlay, not a divergent active workspace. Controls remain under
+source review; no test/native runtime is selected. Used bytes freeze on assembly.
+
+**2026-10-23 explicit completion CLI/package source selected:** root owns fresh
+ordinary_library_package/owner.py, profile.py and file-only assembly/selectors.
+Add complete as an explicit retained-candidate operation with candidate,
+supplement and prepared-map byte pins checked before owner open. Existing
+init/status/contribute/peer/native semantics stay unchanged. The new package
+will load the reviewed pure planner/coordinator; supplying a supplement is not
+automatic project extraction and is not advertised as full interoperability.
+One focused native-free control will exercise this new seam after source review;
+no actual admission/build/library extraction is selected by this paragraph.
+
+**2026-10-23 completion admission seam selected, source-only:** root owns new
+ordinary_library_package/completion_api.py. An explicitly selected retained
+candidate and complete inert supplement feed the portable planner, then exactly
+one existing owner.preflight/admit and durable evidence/preview retention. No
+compiler, network acquisition, automatic reauthoring or rebase is performed by
+this seam. It is not yet a packaged library extractor. Same original caller
+allowance and protected parent govern the whole operation; post-admission
+failures retain acceptance information. Independent source review precedes use.
+
+**2026-10-23 provider failure continuation selected, source-only:** root read
+full decision08be1678 and practical prioritization51092992. Select fresh
+software/v5/ordinary_resilient_package/peer_api.py, preserving its predecessor;
+only find's recognized provider-local error handling/report may change. Same
+provider order, client/session and prepaid shared allowance; unknown errors,
+cancellation, budget/deadline and local pin/invariant faults still stop. No
+retry, scoring, new routing or fairness claim. Small parallel reliability work
+must not displace library completion. One real-client/session fake-exchange
+control is planned after review; no sockets/native/runtime is selected now.
+
+**2026-10-23 practical library completion selected, source-only:** project
+adapter checkpoint is committed as43a57f5. Root read/adopts the full library
+ingest decision04ab7e9c: reuse the complete-proof exporter and independent
+receiver; the remaining gap is portable combined planning/public integration,
+not another proof system. Select new software/v5/ordinary_library_package/
+library_completion.py for a bounded pure V2 planner over retained candidate and
+explicit supplement. Preserve original candidate units/claimed IDs; authenticate
+all boundary IDs in the selected parent; no protected-state mutation before one
+combined preflight/admission. Root owns integration and public workflow selection.
+No native build, project import, new mathematics or runtime is selected yet.
+Discovery failure policy is a distinct pending decision, not a second priority
+that displaces practical library reuse. No certificate work is renewed.
+
 **2026-10-23 project controls independently adopted:** root read full outcome
 73cbffdc. Five groups pass under real successor profileb584cb21 with explicit
 mocks;1.4503276wall/1.1875knownCPU, clean closure. No real owner/native/project

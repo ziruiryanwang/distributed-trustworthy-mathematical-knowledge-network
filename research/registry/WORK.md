@@ -4,6 +4,47 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 after completion controls02 PASS: retained_preparation owns new
+software/v5/ordinary_library_support/retained_preparation.py and
+ORDINARY-RETAINED-PREPARATION.md, pure pinned-request decoding only. Root
+approved its immutable bounded API; no tests/IO/native operations selected.
+project_hook_design finishes installed-Std extraction decision, including
+whether existing suspended-process Job can contain interactive IPC directly.
+practical_path_audit completed controls outcome5c1117bf and is available for
+the next changed-source review. Root retains public integration and Git.
+
+2026-10-23 resumed continuation: project_hook_design owns new source/theory-only
+ORDINARY-PUBLIC-EXTRACTION-DECISION.md (existing bounded extractor/public prepared
+map). Its completion controlsaf0f17bc are frozen for root's one selected run.
+practical_path_audit owns saved control outcome in the existing combined review.
+ordinary_api_flow completed reverse export decisionf24486b8; root has read it.
+No independent native run or source build is authorized. Root owns integration,
+exact selections, NOW and Git; all canonical paths remain mandatory.
+
+2026-10-23 after resilience source completion: ordinary_api_flow owns only
+ORDINARY-PROVED-LIBRARY-EXPORT-DECISION.md, source/theory inspection of whether
+actual receiver-checked snapshots can serve ordinary proof-complete Lean imports
+(not scratch construction axioms). No new source/runtime is selected by that
+question. project_hook_design authors unused completion controls; reviewer
+practical_path_audit closes source and saved outcomes. Root owns exact launches.
+
+2026-10-23 distinct parallel source tasks: ordinary_api_flow owns fresh
+ordinary_resilient_package/peer_api.py, its focused fake-exchange controls and
+ORDINARY-DISCOVERY-FAILURE-IMPLEMENTATION.md. project_hook_design retains the
+pure library completion planner. practical_path_audit independently reviews
+both changed seams after author checkpoints, without repeating the prior theory
+audits. Root owns integration, file-only package assembly, launch decisions and
+Git. No sockets/native/tests have been launched for these successors.
+
+2026-10-23 library completion: project_hook_design owns only new
+software/v5/ordinary_library_package/library_completion.py and
+ORDINARY-LIBRARY-COMPLETION-IMPLEMENTATION.md (pure portable combined planner).
+Root owns public integration, package selection and Git. ordinary_api_flow
+finishes provider-failure decision before any separately selected implementation.
+practical_path_audit owns bounded workflow prioritization, then independent
+planner review if explicitly assigned. All checkpoints remain under the
+native-library cycle. No runtime or additional theorem experiment is selected.
+
 2026-10-23 after project controls: project_hook_design owns source/theory-only
 ORDINARY-LIBRARY-INGEST-DECISION.md (existing imported-library proof extraction,
 not another authoring implementation). ordinary_api_flow owns source/theory-only
