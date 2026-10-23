@@ -1,4 +1,4 @@
-"""Small bounded read-only HTTP subset for discovery and typed module custody.
+"""Small bounded read-only HTTP subset for discovery and typed inert custody.
 
 One request/connection; explicit endpoints; no redirects, compression, remote
 writes, source execution or certificate authority. External hard containment is
@@ -22,9 +22,15 @@ MODULE_MAX = 16 * 1024**2
 COMPACT_SUMMARY_ROUTE = "/v5/discovery/summary-compact"
 OFFER_ROUTE = "/v5/discovery/offer"
 CANDIDATE_ROUTE = "/v5/discovery/candidates"
+ORDINARY_PREVIEW_ROUTE = "/v5/ordinary/preview"
+ORDINARY_EVIDENCE_ROUTE = "/v5/ordinary/evidence"
+ORDINARY_LOCATOR_ROUTE = "/v5/ordinary/locator"
+ORDINARY_ROUTES = (ORDINARY_PREVIEW_ROUTE, ORDINARY_EVIDENCE_ROUTE, ORDINARY_LOCATOR_ROUTE)
 ROUTES = {"/v5/discovery/summary": 1048576, COMPACT_SUMMARY_ROUTE: 1048576, OFFER_ROUTE: 1048576,
           "/v5/discovery/page": 1048576, CANDIDATE_ROUTE: 1048576,
-          "/v5/modules/group": MODULE_MAX, "/v5/modules/body": MODULE_MAX}
+          "/v5/modules/group": MODULE_MAX, "/v5/modules/body": MODULE_MAX,
+          ORDINARY_PREVIEW_ROUTE: 1048576, ORDINARY_EVIDENCE_ROUTE: 8*1024**2,
+          ORDINARY_LOCATOR_ROUTE: 1048576}
 
 
 def _offer_request(request):
@@ -145,12 +151,12 @@ async def exchange(endpoint, route, request, max_reply_bytes, timeout_ms):
 
 
 class Provider:
-    def __init__(self, *, index=None, custody=None, max_connections=2, max_requests=1024,
+    def __init__(self, *, index=None, custody=None, ordinary=None, max_connections=2, max_requests=1024,
                  max_reply_bytes=256*1024**2, operation_ms=5000):
-        F.need(index is not None or custody is not None, "PROVIDER_EMPTY")
+        F.need(index is not None or custody is not None or ordinary is not None, "PROVIDER_EMPTY")
         F.uint(max_connections, 1, 8); F.uint(max_requests, 1, 1000000)
         F.uint(max_reply_bytes, 1024, 2**40); F.uint(operation_ms, 1, 60000)
-        self.index, self.custody = index, custody
+        self.index, self.custody, self.ordinary = index, custody, ordinary
         self.max_connections, self.max_requests = max_connections, max_requests
         self.max_reply_bytes, self.operation_ms = max_reply_bytes, operation_ms
         self.server, self.tasks = None, set()
@@ -176,8 +182,13 @@ class Provider:
         if tasks: await asyncio.gather(*tasks, return_exceptions=True)
 
     def dispatch(self, route, request, *, check_budget=None):
-        """Offer/compact-summary routes return canonical bytes; old routes objects."""
+        """Offer/compact-summary/ordinary routes return bytes; old routes objects."""
         F.need(route in ROUTES, "HTTP_ROUTE")
+        if route in ORDINARY_ROUTES:
+            # Lazy role import preserves old discovery/module dependency surfaces.
+            from . import ordinary_acquisition as O
+            F.need(self.ordinary is not None, "ROLE_NOT_SERVED")
+            return O.serve(self.ordinary, route, request, check_budget=check_budget)
         if route == CANDIDATE_ROUTE:
             from discovery import candidate_query as C
             F.need(self.index is not None, "ROLE_NOT_SERVED")
@@ -263,6 +274,9 @@ class Provider:
                 raw = await _body(reader, count); self.request_bytes += len(raw)
                 request = F.strict(raw, REQUEST_MAX)
                 reservation = ROUTES[route]
+                if route in ORDINARY_ROUTES:
+                    from . import ordinary_acquisition as O
+                    reservation = O.request_limit(route, request)
                 if route == CANDIDATE_ROUTE:
                     from discovery import candidate_query as C
                     C.validate_request(request)
@@ -288,7 +302,7 @@ class Provider:
                         request["limits"]["timeout_ms"] = min(request["limits"]["timeout_ms"],
                             max(1, int((until-time.monotonic())*1000)))
                     value = self.dispatch(route, request, check_budget=check_budget)
-                    encoded = value if route in (COMPACT_SUMMARY_ROUTE, OFFER_ROUTE) else F.compact(value)
+                    encoded = value if route in (COMPACT_SUMMARY_ROUTE, OFFER_ROUTE, *ORDINARY_ROUTES) else F.compact(value)
                     F.need(len(encoded) <= reservation, "PROVIDER_RESPONSE_BYTES")
                     F.need(time.monotonic() < until, "PROVIDER_OPERATION_DEADLINE")
                     head = _header("HTTP/1.1 200 OK", len(encoded))
