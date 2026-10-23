@@ -1,11 +1,14 @@
-import BootstrapSupport
-import OriginalDecl
-import CheckedExtension
+module
+
+public import BootstrapSupport
+public import OriginalDecl
+public import CheckedExtension
 
 /- Owner-side inert serialization, never mathematical acceptance. The exact
    source module/artifact map and fixed seed inventory are protected caller
    inputs. A peer cannot supply an Environment or basis JSON as a warrant. -/
 
+public section
 open Lean
 
 namespace OrdinaryLean.Export
@@ -113,19 +116,26 @@ structure Exported where
   dependencyEdges : Nat
   scanNodes : Nat
   unitBytes : Nat
+  /-- Selected boundary references, including required literal-stage support.
+      This is a bundle lookup map, not the exact per-unit evidence imports. -/
+  boundaryReferences : Array Name := #[]
 
-/-- Export only the selected transitive missing closure, atomically grouped and
-    dependency-first. This returns unproved claims, not a checked environment.
-    `trustedInventory` must be byte-pinned by the surrounding controller. -/
-def selected (indexed : IndexedSource) (trustedInventory : Json)
+/-- Shared closure scheduler. The boundary must already be established by the
+    caller: fixed checked-basis correspondence, or authenticated owner rebinding.
+    Names alone never constitute a warrant. A source with empty grouping avoids
+    a census until a genuinely new inductive group requires its complete records.
+    Existing proof bodies at the boundary are neither loaded nor serialized. -/
+def selectedFromBoundary (indexed : IndexedSource) (basisNames : Array Name)
     (targets : Array Name) (limits : Limits := {}) : IO Exported := do
   if targets.isEmpty || targets.size > limits.maxTargets then fail "TARGET_BOUND"
-  let basisNames ← compareSourceBasis indexed.source trustedInventory limits
+  let mut active := indexed
   let mut basis : Std.HashSet Name := {}
   for name in basisNames do basis := basis.insert name
+  let mut boundaryRefs : Std.HashSet Name := {}
   let mut pending : Pending := {}
   for name in targets do
-    pending ← schedule indexed.source basis pending name limits
+    if basis.contains name then boundaryRefs := boundaryRefs.insert name
+    pending ← schedule active.source basis pending name limits
   let mut cursor := 0
   let mut units : Std.HashMap Name BootstrapProbe.UnitInfo := {}
   let mut dependencies : Std.HashMap Name (Array Name) := {}
@@ -134,7 +144,15 @@ def selected (indexed : IndexedSource) (trustedInventory : Json)
   while cursor < pending.keys.size do
     let key := pending.keys[cursor]!
     cursor := cursor + 1
-    let unit ← BootstrapProbe.makeUnit indexed.source indexed.members key
+    if let some (.axiomInfo _) := active.source.environment.find? key then
+      let originalName ← ExprCodec.encodeName key limits.codec.expr
+      fail s!"MISSING_WARRANT_OR_FULL_DECLARATION original_name={originalName.compress} name={key}"
+    if !active.members.contains key then
+      if let some (.inductInfo _) := active.source.environment.find? key then
+        -- Generated recursors, including nested groups, require the actual
+        -- complete kernel census. Ordinary definitions/theorems never pay it.
+        active ← indexSource active.source.environment limits
+    let unit ← BootstrapProbe.makeUnit active.source active.members key
     discard <| CheckedExtension.allowedDeclaration unit.decl
     if unit.emitted.isEmpty || unit.emitted.size > limits.codec.maxInventory then
       fail "UNIT_INVENTORY_BOUND"
@@ -145,6 +163,13 @@ def selected (indexed : IndexedSource) (trustedInventory : Json)
       emitted := emitted.insert name
     scanNodes := scanNodes + unit.scanNodes
     if scanNodes > limits.maxScanNodes then fail "SELECTED_SCAN_BOUND"
+    for name in unit.refs do
+      if basis.contains name then
+        boundaryRefs := boundaryRefs.insert name
+      else if basis.contains (← BootstrapProbe.owner active.source name) then
+        -- A group owner without its referenced generated member is not a
+        -- complete stopping boundary. Never silently treat it as an import.
+        fail "BOUNDARY_GROUP_STRADDLE"
     let mut deps : Std.HashSet Name := {}
     for edge in unit.edges do
       if !basis.contains edge.dep then deps := deps.insert edge.dep
@@ -152,7 +177,7 @@ def selected (indexed : IndexedSource) (trustedInventory : Json)
     edgeCount := edgeCount + ordered.size
     if edgeCount > limits.maxEdges then fail "SELECTED_EDGE_BOUND"
     for dep in ordered do
-      pending ← schedule indexed.source basis pending dep limits
+      pending ← schedule active.source basis pending dep limits
     dependencies := dependencies.insert key ordered
     units := units.insert key unit
   -- Kahn scheduling is linear in selected units/edges after deterministic
@@ -186,7 +211,7 @@ def selected (indexed : IndexedSource) (trustedInventory : Json)
     let some unit := units[key]? | fail "INTERNAL_UNIT"
     let mut inventory := #[]
     for name in orderedNames unit.emitted do
-      inventory := inventory.push (← BootstrapProbe.lookup indexed.source name)
+      inventory := inventory.push (← BootstrapProbe.lookup active.source name)
     let packet ← DeclCodec.encodeUnit unit.decl inventory limits.codec
     let size := packet.compress.utf8ByteSize
     if size > limits.maxUnitBytes then fail "UNIT_BYTE_BOUND"
@@ -197,11 +222,21 @@ def selected (indexed : IndexedSource) (trustedInventory : Json)
     units := encoded
     targets := targets
     basisNames := basisNames
-    sourceRecords := indexed.source.count
+    sourceRecords := active.source.count
     selectedUnits := ordered.size
     dependencyEdges := edgeCount
     scanNodes := scanNodes
     unitBytes := totalBytes
+    boundaryReferences := orderedNames boundaryRefs.toArray
   }
+
+/-- Original fixed-basis entry point. The same exact source-basis comparison
+    precedes the shared scheduler; historical producer artifacts are unchanged.
+    The result remains inert claims, not a receiver acceptance event. -/
+def selected (indexed : IndexedSource) (trustedInventory : Json)
+    (targets : Array Name) (limits : Limits := {}) : IO Exported := do
+  if targets.isEmpty || targets.size > limits.maxTargets then fail "TARGET_BOUND"
+  let basisNames ← compareSourceBasis indexed.source trustedInventory limits
+  selectedFromBoundary indexed basisNames targets limits
 
 end OrdinaryLean.Export

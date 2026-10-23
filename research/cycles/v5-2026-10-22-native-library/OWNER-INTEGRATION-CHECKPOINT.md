@@ -30,6 +30,23 @@ The existing receiver checker/profile and accepted snapshots are unchanged.
 
 ## Current decision and work
 
+The successor core compiled in core-build01, selection233f414c, with empty
+logs/clean closure and2.46875knownCPU. Modern Lean command staging initially
+rejected a non-meta helper; the exact public-meta import/section correction
+then compiled both commands in commands-build02, selection86334f96,
+2.953125knownCPU. Independent stage and saved-artifact audits were read/adopted.
+
+Actual consumer01, selection34467e91, failed safely at full-basis `Nat.gcd`
+semantic matching before any group or installation. Its ordinary public import
+has no usable definition body there. No successor bundle or consumer artifact
+was produced. KnownCPU4.34375. Subsequent unknown identifiers and absent local
+bound context follow from that first failed command. Preserve this failed run.
+
+The next selected correction projects the already authenticated request onto
+its dependency-closed selected basis semantics; all387group packets and the
+receiver's full accepted basis identity stay unchanged. The native matching
+rules stay exact. No49MB evidence-map rebuild or prior admission replay is needed.
+
 Use one normal owner process to acquire inert declarations, retain the original
 consumer proof body verbatim, and export the downstream theorem above its
 warranted boundary. This avoids a separate throwaway demonstration followed by

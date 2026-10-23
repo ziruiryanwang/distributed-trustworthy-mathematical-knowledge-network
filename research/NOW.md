@@ -1,5 +1,52 @@
 # Current research desk
 
+**2026-10-23 actual source-use refusal selects a smaller semantic obligation:**
+consumer01 failed safely at full-basis Nat.gcd public-body absence before any
+group/install; knownCPU4.34375, no successor. Root selects pure dependency-closed
+basis projection of the already authenticated request, not a new foundation or
+re-admission. Keep387groups byte-identical; only omit unused581basis rows after
+semantic/literal closure. preview_boundary_review implements new pure helper,
+admission_event_audit reviews. Root integrates it before a fresh owner run;
+successor_export implements the separately reviewed next admission seam source
+only. ABSTRACT-AUTHORING-BOUNDARY records a possible later abstraction argument,
+not permission to relax current exact-definition matching or acceptance.
+
+**2026-10-23 real owner consumer selected:** both stage-corrected commands
+compiled with empty native logs/clean closure (commands02,2.953125knownCPU).
+Root selects one actual ordinary-owner-consumer01 operation,120CPU/150wall/
+1536MiB, retaining original consumer proof body, no producer module import,
+and one same-process inert successor export. All request files are authenticated
+before/after; helper artifacts retained. This is first source-use evidence, not
+receiver acceptance or growth. Concrete refusal will guide selective correction;
+no blanket retries or private-library/RAM escalation.
+
+**2026-10-23 command stage repair selected:** command-build01 failed before
+artifacts: command elaboration is meta but its local run helper was not. Root
+read installed Lean Parser.Command/LCNF.Visibility stage rules and selects only
+public-meta imports/section in both command modules. Mathematical helpers stay
+ordinary; no stage/kernel checks are disabled. Fresh commands-build02 retains
+60CPU/105wall/1536MiB and all prior successful helpers. Source review5617ccb7
+and saved OwnerRebind audit b60d3a79 are fully read/adopted for their exact scope;
+the three-header staging successor receives a separate focused review.
+
+**2026-10-23 successor core compiled; command compilation selected:** core01
+233f414c passed with empty native logs/clean closure,2.46875knownCPU. Root fully
+read OwnerUseCommand and both successor sources/checkpoints. Select only the
+two fresh commands OwnerUseCommand/SuccessorExportCommand,60CPU/105wall/1536MiB,
+reusing every successful helper. Independent source reviewer is active. The
+prospective single consumer+export driver preserves its original proof body,
+pins the adopted request and rechecks all388request files before/after use.
+Actual consumer runtime remains pending command compilation and review.
+
+**2026-10-23 owner helper compiled; successor core selected:** owner-rebind02
+c01bb8b8 passed clean/empty native logs,2.109375knownCPU. Root read new
+SuccessorExport and the shared OrdinaryExport selected-boundary refactor:
+ordinary theorem/definition exports use point lookups; only a new inductive
+group requests the existing bounded grouping census. Select compilation of
+these two new helper sources alone,60CPU/105wall/1536MiB, using retained public
+artifacts. Independent source review continues; no actual owner run/adoption
+is inferred. Git adce1c0 preserves earlier reviewed recovery/rebinding work.
+
 **2026-10-23 resumed integration, successful helpers retained:** remaining01
 compiled OriginalDecl/CheckedExtension/BootstrapSupport, then failed on a
 return-record syntax error in OwnerRebind (clean exit,8.15625JobCPU). Root
