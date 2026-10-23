@@ -1,5 +1,22 @@
 # Goal: a usable mathematical commons architecture and software
 
+**2026-10-22 reality-led working rule, explicitly reaffirmed by the user:**
+Judge architecture and engineering choices by what actual people and agents
+will do, and by their expected contribution to a useful deployable commons.
+The expensive certificate campaign produced capability evidence but too little
+practical payoff to justify driving the architecture around its completion.
+Do not repeat that mistake. Before consequential implementation or experiments,
+name the user workflow, unresolved architectural decision, reusable existing
+mechanisms, expected whole-cost benefit and decision-changing evidence needed.
+Choose high-marginal-payoff work; stop investing in a mechanism when evidence
+undermines its role. A component passing its tests is not sufficient reason to
+continue polishing or funding it. Resolve theory in principle where possible;
+parallelize distinct useful work, not duplicate tests or reviews. The user permits
+explicit usefulness-motivated compromises, not hidden weaker acceptance claims.
+The final deployable-v5 goal remains active and unfinished; the current ordinary
+library/optional certification redesign is evaluated against it, not a replacement
+goal consisting only of a guide, audit, cache or small demonstration.
+
 **2026-10-22 controlling resumption:** the user's latest direct instruction is
 "Resume. Work on tasks in parallel with the highest payoffs." Work is ACTIVE;
 all earlier pauses below are historical. The unchanged final-v5 objective is

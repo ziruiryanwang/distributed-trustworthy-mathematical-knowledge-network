@@ -1,5 +1,51 @@
 # Current research desk
 
+**2026-10-22 core controls adopted, ordinary integration continues:** root fully
+read/adopts native-library/OUTCOME-CORE.md: actual three-module compile05, syntax
+controls05 and fifteen conditional-parent admission markers07. Failed01–06 are
+preserved, not relabeled;02–07 cost20.203125 knownCPU including failures. Both
+ordinary method sources previously compiled01 and were not repeated. No real
+Std onboarding, persistent acceptance, discovery or final v5 is claimed. Source
+integration now follows INTEGRATION-SELECTION: ordinary_export_identity owns
+bounded exact evidence/dependency identity; lean_persistence_boundary owns
+LocalSnapshot using actual checked.added, no stage2-wide snapshots. Root owns
+protected catalog/profile/basis/owner-source integration and Git. No runtime,
+certificate, backend or old proof campaign is live. See CHECKPOINT.md.
+
+**2026-10-22 ordinary-library implementation, workflow first:** new expression/
+declaration codec and direct checked-extension adapter are implemented as internal
+candidate source under software/v5/ordinary_lean. Independent source review found
+no architectural blocker; actual compilation is exposing/fixing local Lean syntax
+issues, with immutable controls01-04 evidence preserved. Both realistic Std-backed
+read-footprint producer/consumer sources compiled in01; they are common-author
+fixtures, NOT independent discovery/growth evidence. The initial `import Lean`
+load failure is addressed by minimal actual API imports, not RAM investigation.
+OriginalExpr subsequently compiles in1.44s. Root owns remaining compile/admission
+checks and Git. No new cryptographic proof, old basis campaign or product release.
+The concrete next integration endpoint is checked ordinary method reuse, persisted
+across sessions, connected to existing discovery through a coherent ordinary
+schema seam. PAYOFF-AUDIT and ORDINARY-DISCOVERY-SEAM prevent duplicate Std laws,
+fake certificate locators, and per-candidate budget resets. Full v5 remains open.
+
+**2026-10-22 concrete ordinary-library source selection:** root read all three
+source contracts and independent REVIEW-BOUNDARY. Existing kernel APIs suffice,
+but old codec loses normal-source binder metadata and checker snapshots conflict
+with ordinary Init definitions. Select only fresh ordinary_lean/OriginalExpr.lean
+and EXPRESSION-FORMAT.md under native-library/IMPLEMENTATION-SELECTION.md, owned
+by lean_acceptance_boundary. Preserve original binder/level names, hints at the
+later declaration layer, native literals and checked group semantics. Checker
+snapshots remain isolated; owner-side new-declaration rebinding is separate.
+No runtime/build/proof selected. No frozen predecessor edits. Root owns subsequent
+review, extension/persistence integration and bounded execution decisions.
+
+**2026-10-22 continued reality-led native-library selection:** preceding audit
+97fd7de is progress, not completion. Root selects disjoint source/theory work in
+v5-2026-10-22-native-library/SELECTION.md: actual checked Lean admission boundary,
+representative existing-project workflow, and persistent local warrant boundary.
+Typical agent use and compatibility govern the decision, not another tiny proof.
+No runtime or implementation selected before these concrete boundaries resolve.
+All producer02/old proof work remains held. Final v5 goal is active.
+
 **2026-10-22 whole-architecture audit completed; usefulness-led design revision:**
 root fully read the economics, demand, trust, independent practicality challenge
 and actual Lean-native seam notes under

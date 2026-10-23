@@ -4,6 +4,36 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-22 current: core07 actual audit adopted by root; agent lean_workflow_trace
+finished OUTCOME-CORE, no rerun. ordinary_export_identity owns ordinary_evidence.py
+and EVIDENCE-FORMAT.md; lean_persistence_boundary owns LocalSnapshot.lean, both
+source-only under INTEGRATION-SELECTION. Root owns further integration and Git;
+no runtime is live. Existing core and examples are supported by immutable exact
+snapshots; no successful control campaign is renewed.
+
+2026-10-22 current source continuation: root owns CheckedExtension.lean,
+INTEGRATION.md, CodecChecks.lean, run_checks.py, bounded execution and Git.
+lean_acceptance_boundary authored OriginalExpr/OriginalDecl and AdmissionChecks,
+now fixes test-only record layout; root's minimal import/parser repairs are
+coordinated. lean_workflow_trace completed owner bridge, codec/checker source and
+controls01/admission-source independent audits. ordinary_payoff_audit completed
+PAYOFF-AUDIT, both compiled method fixtures and ORDINARY-DISCOVERY-SEAM. No agent
+may launch runtimes or alter frozen snapshots. No proof/backend work selected.
+
+2026-10-22 source implementation selected after substantive compatibility review:
+lean_acceptance_boundary owns only software/v5/ordinary_lean/OriginalExpr.lean
+and EXPRESSION-FORMAT.md plus implementation checkpoint in native-library cycle.
+Root owns integration contract and later build/test selection. Reviewer
+lean_workflow_trace identified binder/duplicate-import/stage2 pitfalls; no runtime
+or proof is live. Persistent storage implementation waits for checked data seam.
+
+2026-10-22 new source-only native-library cycle: lean_acceptance_boundary owns
+ACCEPTANCE-BOUNDARY.md; lean_workflow_trace owns WORKFLOW-TRACE.md;
+lean_persistence_boundary owns PERSISTENCE-BOUNDARY.md under
+research/cycles/v5-2026-10-22-native-library. Root owns integration, later source
+selection, runtime and Git. Resolve actual ordinary Lean project behavior and
+reuse existing components; no repeated architecture essays or backend builds.
+
 2026-10-22 architecture audit and independent challenges complete. Root integrated
 all notes in architecture-reaudit/ARCHITECTURE-REAUDIT.md. New fresh reviewer
 commons_practicality_challenge authored PRACTICALITY-CHALLENGE; integration_adapter
