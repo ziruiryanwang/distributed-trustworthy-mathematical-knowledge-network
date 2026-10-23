@@ -1,5 +1,35 @@
 # Current research desk
 
+**2026-10-23 project controls independently adopted:** root read full outcome
+73cbffdc. Five groups pass under real successor profileb584cb21 with explicit
+mocks;1.4503276wall/1.1875knownCPU, clean closure. No real owner/native/project
+execution; no repeat selected. Optional project CLI/backend and file-only
+assembly are now documented; actual project interoperability is still open.
+Root requested an optional real-project path from the user without blocking
+other work. Next source decisions: existing-library proof ingestion using prior
+exporters (project_hook_design), and bounded continuation after individual
+discovery-provider failure (ordinary_api_flow). No new runtime or code selected
+for those decisions; do not build around the earlier certificate sunk cost.
+
+**2026-10-23 project pure controls selected:** root read/adopts full saved
+assembly outcome e1c32321 (3replaced/113unchanged, profileb584cb21, clean) and
+controls review e85792fb. Select ordinary-project-controls-01 SHA256
+dbddf833f55f50362fcaf0134efd24b4628158ddad9b9f7d96c85fcc7635db4c,
+runnerfe329a9e; 60wall/35CPU/512MiB/2process outer,50wall/30CPU inner.
+One real profile load, five explicitly native-free mocked boundary groups;
+no owner, SQLite, Lean, peer or real-project execution. No repeated math campaign.
+Actual package assembly cost4.1426254wall/2.296875knownCPU; sources stay frozen.
+
+**2026-10-23 project package file-only assembly selected:** root read/adopts
+complete source review3e55920e and packaging review19bcc8d3. Select
+ordinary-project-package-assembly-01 SHA256
+4abc73a3b88c9d2253586c5744cf94b7042bd21e2faf90f84eca090ff25c7c48,
+assembler652fda98; 90wall/50CPU/512MiB/2process outer,60wall/40CPU inner.
+Exactly3 existing auxiliary sources replaced;113 payloads and the profile loader
+unchanged. No native build, owner/state operation, project execution or peer
+service. Sources freeze on use; five native-free boundary controls remain under
+separate source review before any execution. Git3bf6fa7 preserves peer outcome.
+
 **2026-10-23 public reciprocal02 independently adopted:** root read full saved
 audit c7626e95. All9 public commands passed; B checked2 acquired units, then
 used the acquired theorem twice in one new checked theorem after A's service

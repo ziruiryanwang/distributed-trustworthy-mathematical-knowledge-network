@@ -4,6 +4,14 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 after project controls: project_hook_design owns source/theory-only
+ORDINARY-LIBRARY-INGEST-DECISION.md (existing imported-library proof extraction,
+not another authoring implementation). ordinary_api_flow owns source/theory-only
+ORDINARY-DISCOVERY-FAILURE-DECISION.md (per-provider failure boundary, no new
+ranking mechanism). admission_event_audit completed saved controls audit and
+is available. Root owns integration/docs/Git. No runtime lives or new campaign
+is selected; no suitable real owner project has yet been provided.
+
 2026-10-23 project successor: project_hook_design owns only new
 software/v5/ordinary_project_package/ordinary_contribution.py and author_worker.py
 and its implementation checkpoint. ordinary_api_flow owns the new owner.py CLI
