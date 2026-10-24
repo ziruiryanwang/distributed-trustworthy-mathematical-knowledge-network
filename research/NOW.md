@@ -1,5 +1,61 @@
 # Current research desk
 
+**2026-10-24 approved-project intake adopted:** root read the independent saved
+public01 audit: all157runtime pins/four snapshots,192prior immutable files and
+50anchor files preserved; three actual public calls close with expected1/0/0.
+Missing contribution -> approved-project complete proof extraction -> independent
+same-parent three-unit checking succeeds. New root6605957e, targetd0c7be50;
+outer21.4497549wall/10.3125known inclusiveCPU. Current development package is
+ordinary-project-extraction-build-01/integration/package, profileaab7e246,
+receipt3dfa9092; current source recipe ordinary_project_extraction_package/build.py.
+No runtime remains and no campaign is repeated. User confirms no local Lean
+project. Next disjoint work: source-complete recipe/usage reconciliation and a
+whole-workflow highest-payoff decision, especially useful formal discovery and
+full-cost benefit. No bulk cold scheduler, certificate or arbitrary trust waiver.
+The unchanged full deployable-v5 goal remains active and unfinished.
+
+**2026-10-24 project-intake public integration selected:** changed-native build
+independently PASS178pins/eight snapshots/ten shared objects/four generated
+outputs, exact3changed/131unchanged payloads. Profileaab7e246, receipt3dfa9092;
+47.8350954wall/8.0625known inclusiveCPU, clean closure. Root read full harness
+5b446976/selector0f6f8cb4 and independent final-delta clearance. Select
+2f298613971e2ffbb33c818061195a5ac4d7fd7359d38a9ed3b7c0497b857dfe,
+210wall/120CPU/2048MiB/eight active outer,180/100/1536 inner: exactly three
+public calls (expected missing contribution, approved project extraction,
+same-basis complete). Existing paid module reused; no init/anchor/rebuild/network.
+Prior immutable files/anchors held. No second operation may open this owner
+concurrently. Current installed adoption still awaits actual outcome audit.
+
+
+**2026-10-24 changed-native intake build selected:** eight focused controls PASS;
+root independently checked all11runtime pins/six snapshot sources and saved
+case outcomes,0.583984wall/0.28125known inclusiveCPU, clean closure. Root read
+assemblerc9142540/selector2030ece9 and independent clearance. Select
+e4f94c17e0e7a4b6cdde6c12c91b4954a15e63980efac358448b52e87fe2b8fc,
+180wall/120CPU/1536MiB/six active,178input pins: compile only new extractor using
+ten exact retained shared .olean/.o files, then three-payload package assembly.
+No owner/state/acceptance, full build or old campaign. Used sources freeze now;
+native integration remains separate pending saved build review/harness clearance.
+
+
+**2026-10-24 focused intake controls selected:** root read the complete controls
+8c28917c and selector8f99a355. Select2bdbdcead00a358ad2529b89382b9dcec10606401499327a2abb0574af682e92,
+eight real-syntax/inert-facade groups under60wall/35CPU/512MiB/two processes.
+No owner/native/database/network/artifact import. Native/controller sources
+437caa5a/cd79d905 are independently source-cleared. Changed-native assembler
+and public integration remain source review only; prior package/state unchanged.
+
+
+**2026-10-24 practical intake implementation selected:** Git checkpoint06c1399
+preserves adopted module/query work. Root adopts the exact94639073 project-intake
+contract and strategy recommendation: thin explicit approved-project extraction
+with remaining-capacity bounds, not a generic cold scheduler. Disjoint fresh
+native/controller/facade files are assigned in ORDINARY-PROJECT-INTAKE-SELECTION.md.
+Reviewer challenges source before any runtime. Old package04/state/helpers stay
+unchanged; no large cold closure rerun, dependency rebuild or certificate selected.
+User has no existing local project. Full v5 remains ACTIVE and unfinished.
+
+
 **2026-10-24 resumed after interruption, prior turn was progress:** native04
 completed its audited five-call integration, context-query public command
 succeeded, and separate saved checks established exact outputs/preservation.

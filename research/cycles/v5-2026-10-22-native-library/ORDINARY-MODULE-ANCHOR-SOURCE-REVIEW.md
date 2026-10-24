@@ -1089,3 +1089,325 @@ the failed harness, reconstructed process lineage or a new query execution.
 The narrow actual-query usability evidence is sufficient for this boundary;
 original FAILED and all evidence remain unchanged. No further operation was
 performed for this disposition.
+
+### Approved-project intake contract: independent challenge
+
+Read the complete proposed `ORDINARY-PROJECT-INTAKE-NATIVE.md` at
+`9463907393807d77c1a16f1fbe1dbefad29fb06df56c9348a25ae94d5135d339`, its named
+baseline exporter/controller/codec/planner seams, and root's implementation
+selection. **No blocking theoretical defect found in the narrow contract.**
+This clears source implementation for later review, not execution or acceptance.
+
+The nine-field project request and exactly-three-field local selection are
+distinct from the six-field Std request. Mode exclusivity preserves Std-only
+input grammar and historical behavior. The selection hash records an explicit
+local command choice; it is not approval inferred from a peer, a transitive
+artifact commitment or mathematical authority. Raw path components must be
+validated before Python normalization; preserve ordered ordinary-drive roots,
+strict identifier module names, exact original request spelling and the reviewed
+native04 guarded native-path spelling. Runtime-first lookup prevents path-order
+shadowing, not arbitrary same-name mathematical equivalence. Ordinary root
+checks do not recursively pin local artifacts; those remain operator-approved
+deserialization inputs. Private import, complete safe nonaxiom targets, protected
+lookups and final independent receiver checking remain necessary.
+
+The proposed capacities are well typed in the actual retained sources:
+Export.Limits and nested DeclCodec/ExprCodec limits are Nat fields; the claimed
+maxUnitNodes/maxExprs/maxLevels names exist. `encodeUnit` already charges descriptor
+and full inventory DAGs against its per-unit limit. I inspected both exact node
+censuses: Lean descriptorNodes/inventoryNodes and Python inspect_unit sum level
+plus expression array entries at the same descriptor, type/value and recursor-
+rule positions. This supports the proposed *encoded* census correspondence,
+not equivalence with traversal scanNodes. The native131072remaining-node cap is
+per unit until the explicit post-export sum; at most U*N successfully encoded
+nodes can precede that sum. This is honest bounded late refusal, not avoidance
+of all futile work or a bound on imported-environment/intermediate memory.
+
+Full supplement bytes must be bounded before opening its output file. The
+unchanged planner still separately checks raw boundary-row sums, output-name
+count, selected-name union, exact encoded-node aggregate, unit count, complete
+input/evidence bytes and synthesized composite-wrapper bytes. No remaining-name
+formula or unit-byte sum is substituted for those obligations. Whole groups,
+topological supplement ordering, collisions and the same retained parent remain
+unchanged. Native IDs/READY/DONE never promote provisional output into warrants.
+
+**Priority challenge.** The saved2852unit/49,499,157byte cold closure exceeds both
+32units and4MiB. No grammar/private-import improvement can fit it under those
+caps, and no new experiment is required to show this. Repeated extraction/admission
+would change the parent and invalidate the current same-parent retained binding;
+it also introduces partition/order/recovery and repeated-context costs. Therefore
+this contract is not a bulk intake scheduler, and looping the existing operation
+is not a justified substitute. Conventional approved pinned-library sharing
+remains the appropriate default/comparator when collaborators need most of the
+same background. A different bootstrap/bulk route would need a separately
+justified trust and whole-cost contract, not relaxed hidden acceptance.
+
+The thin seam is still a defensible next bounded implementation: it removes a
+specific installed-Std-only restriction for a small missing closure using already
+available mechanisms. Do not promote its eventual small controlled success into
+broad-library usefulness or allow it to become a prolonged new infrastructure
+campaign. Review the disjoint source changes, use only the minimal changed native
+compile against retained helpers if selected, then reassess practical payoff.
+No cold-library replay, helper fork, certificate campaign or old anchor retest
+follows from this disposition.
+
+### Approved-project intake: changed source and compile selection review
+
+Independent source review on 2026-10-24; no owner/database opening, compiler,
+native execution, control execution or acceptance operation by this reviewer.
+The exact reviewed sources are:
+
+| Source | SHA-256 |
+|---|---|
+| `ordinary_project_extraction/library_extraction.py` | `cd79d9050fbc80a94faef845ddf99fe7d1b8ba5e376048aa4a7698f06f396061` |
+| `ordinary_project_extraction/MissingImportExporter.lean` | `437caa5aa3a2085db26b0478db082c492cc8d3aa2f708f0be44e5385a1ede54e` |
+| `ordinary_project_extraction_package/owner.py` | `2d4de791436d86810ef192e6a776cdbc0b45076f8c0bc75458e35e005cb6cbbe` |
+| `ordinary_project_extraction_package/assemble.py` | `c9142540c8e91e550c8f437373845e5523641466eab21e6b7fe89b3e0df9274a` |
+| `ordinary_project_extraction_package/select_build.py` | `2030ece95b5e558a4c84c0631fa9feb958687e6a8ddfe36390c052c157538816` |
+| `ordinary_project_extraction_package/build.py` | `29d3adadab94b2c686d94c0f23938c309d78aef36415b6238372cbba628b9d38` |
+| `ordinary_project_extraction_package/source-map.json` | `bfa391fb27df944179f256a48aaf268833862084bc14632943adf0f2a9b5cc3f` |
+
+All source paths in the table are below canonical `software/v5/`. **No blocking
+defect found for the narrow amended contract and changed-only build selection.**
+Root must separately select runtime and review actual outcomes. This is not a
+mathematical correctness proof or new artifact authority.
+
+The initial component limit would reject our own retained public module names:
+`DMKNBridge_` plus a64hex suffix is75bytes. Root explicitly amended *project mode*
+to96bytes before execution; Std remains64. This is a practical naming correction,
+not renaming/rebuilding the preserved artifact to fit a test. Native/controller
+agree on ASCII identifier, reserved DOS basename, unique structured module names
+and count/aggregate limits. The controller authenticates canonical local selection
+bytes/hash before extracting its exact ordered root strings; raw dot components
+are checked before pathlib normalization. Path helper calls retain ordinary
+directory/no-reparse-ancestor semantics. The native program privately imports
+only runtime-first approved roots, with no plugins/extensions/meta/source build.
+The source-level directory recheck is not a recursive artifact pin or sandbox.
+
+Controller review uses the actual role-pinned `ordinary_extractor_binding`
+baseline, not the older hardcoded-executable controller. Local selected exporter
+role/pin, protected parent lookup, retained preparation, real binder missing set,
+same-parent completion and worker accounting are preserved. New project request
+has exactly nine fields; old Std request has six. The native complete-proof,
+safe/nonpartial/nonaxiom target checks and unchanged independent `U ++ C` admission
+remain essential. No public flag causes automatic admission, parent rebasing or
+anchor migration. Owner argument consistency and local selection hash validation
+precede actual owner opening; later grammar/quota checks run inside the real
+controller, so the operation is not advertised as database-read-only.
+
+Two deliberate compatibility details are recorded rather than hidden behind an
+overbroad "unchanged Std" claim. The guarded native04 filesystem spelling now also
+covers request/output and the Std runtime search directory; it preserves original
+spelling for dot/space-ended components and does not add new namespace support.
+The controller now refuses zero remaining encoded-node capacity before *either*
+mode launches native work; such a supplement could not have completed under the
+unchanged combined bound. Std schema, prefix,64byte component rule, native export
+limits and result fields stay unchanged.
+
+Remaining capacities use actual candidate unit count/raw byte count and the real
+binder's encoded-node total. The native limits bound each encoded unit before
+the exact aggregate postcheck and bound the complete wrapper before opening the
+output. This still allows bounded work before an aggregate refusal; import memory
+and arbitrary large cold closures are not solved. The existing completion planner
+separately establishes the remaining combined graph/census/byte constraints.
+Native success and READY remain provisional. Both known worker CPU and unknown
+CPU reservation failures retain the existing charge/failure path.
+
+The changed-only assembler reuses ten exact `.olean`/`.o` files for five unchanged
+helpers, selected by the retained `EXTRACTOR-OUTPUTS.json` f55d4c5b manifest. Its
+three compiler subprocesses generate only the new extractor C/object/executable.
+Its outer selection is180wall/120inclusiveCPU/1536MiB/six active processes; the
+existing enclosing Job owns descendant containment/accounting. No cumulative
+process-count equality is assumed. The inner fixed160wall guard and subprocess
+timeouts do not create a fresh allowance or claim to replace the Job supervisor.
+The package must have exactly134payloads, exactly the three listed replacements,
+and131unchanged payloads. Original inputs, source snapshots, staged shared objects,
+native outputs and copied payloads are rehashed before the profile commit. Failures
+preserve partial output and cannot adopt a package. No owner/catalog is opened.
+
+The full clean-build recipe delta is limited to prefix/map/source substitutions
+and documentation. The source-map semantic diff retains71source inputs,54direct
+copies,47base inputs and the same receiver/authoring/extractor/query lanes, replacing
+only facade/controller/native sources and profile naming. Root separately reports
+its all-pin coherence check; this review inspected the complete semantic diff and
+exact changed pins, without duplicating that full census. This does not select the
+full clean rebuild or establish that the future generated binary matches any
+particular runtime record.
+
+### Independent focused controls authored, not yet executed
+
+Root additionally assigned this reviewer fresh minimal controls and selector under
+`software/v5/ordinary_project_extraction_package/`. Authored:
+
+- `controls.py`: `8c28917cebd047173dc1c70c7103e6c8922dfb4c8857ed36d3765c26beb31e5d`.
+- `select_controls.py`: `8f99a3556df10b5cef36d57e49e6bdc6798b40dcc82933718094ef286fe24043`.
+
+These are **author claims awaiting root review/selection and actual execution**,
+not independent passing evidence. Eight groups exercise the real bounded evidence
+syntax and selected exact controller helper AST; project75/96byte and Std64byte
+boundaries; canonical hash/ordered raw root selection; malformed selections;
+the exact source remaining-capacity expression; full owner facade with explicit
+inert project/Std routing; preopen exclusivity/wrong-hash refusal; and extraction
+failure with both closure failures retained. Capacity-expression execution is not
+real binder/native integration, and directory validation is explicitly doubled.
+The facade's bootstrap/profile/paths/state/extraction/accounting are all inert.
+Native/database/network/process APIs and Path.open are blocked during cases.
+Only fresh test-report output is written. The selector proposes one finite
+60wall/35CPU/512MiB/two-active outer operation and does not start it. No old
+executable-role controls, anchor tests or query operation are repeated.
+
+### Project extraction build01: independent saved-output audit
+
+Root executed the reviewed changed-only build once. This reviewer then read and
+rehashed saved evidence only; no owner/catalog or compiled executable was opened.
+**PASS for exact changed-native build and package assembly**, not acceptance or
+approved-project extraction execution.
+
+- Selection: `e4f94c17e0e7a4b6cdde6c12c91b4954a15e63980efac358448b52e87fe2b8fc`.
+- Outer RESULT: `ffb89adc2d825d278c997f87e7c98f178c3a86140c66595d75eaef22144da3ff`.
+- PROFILE: `aab7e2460c0879d0fbb2b570470984efe2a66c4a932f5725ce563a1df7c2530f`.
+- ASSEMBLY: `3dfa9092062be83fad2b27d327c76b28ea5a0603ea244e78624884d8e00380a3`.
+- New extractor executable:768000bytes,
+  `02c0f25d8c1c629cc1f23032506efe566dbe3e5bb472087426c8f11d33002b8b`.
+
+All178original/runtime pins,8source snapshots and178saved INPUTS pins rehash
+unchanged. The ten staged shared objects match the retained manifest. The changed
+native source matches437caa5a, and all four new `.olean`/C/object/executable outputs
+match the saved native/assembly records. The package has exactly136files including
+PROFILE/ASSEMBLY,134payloads,106auxiliary profile pins, exactly three changed
+payloads and131byte-identical predecessor payloads. All54direct source-map copies
+match their repository inputs. The unchanged source-map helper lanes correspond
+to the retained shared objects; this does not assert a hermetic toolchain or
+bitwise reproducibility of a full clean build that was not run.
+
+Compiler stdout records exactly the three expected phases, each exit0; stderr
+is empty. The outer command exited0, direct child was reaped, Job closed, final
+active0/terminated0, no termination request or cleanup errors. TotalProcesses11
+is a cumulative observation, not an active-process violation. Outer47.8350954wall
+and8.0625known inclusiveCPU equal6.671875Job CPU plus1.390625outer-wrapper CPU;
+do not add the nested supervisor's already included0.203125CPU again.
+
+Root separately reports focused controls PASS with its own saved-output review of
+11runtime pins/six snapshots and0.583984wall/0.28125inclusiveCPU. That is explicitly
+root-reviewed evidence; this control author did not duplicate the outcome audit.
+All used control/build sources are now frozen.
+
+### Three-call public project-intake harness: source review
+
+Read full `ordinary_project_extraction_package/project_check.py`
+(`06a0b245c80fbb569e4fbecee5104de59d8c20aa2e4c5ee9ab9dc41c5f4574c6`)
+and `select_project_check.py`
+(`0f6f8cb4f6831adb89285b4f2429c741e26ea4163c6e0bffac092cde6e4191ae`),
+including the exact reused native/admission/census helper methods and current
+contribution request metadata. **No source blocker found for separate root
+selection.** Actual runtime and outcome remain separate.
+
+The prospective workload reuses the retained75byte public module, original local
+basis and safe complete proof artifacts. It performs only three public operations:
+an ordinary project contribution expected to retain exactly two missing names;
+explicit approved-project extraction without acceptance; and explicit same-parent
+completion that independently checks two supplemental units plus the unchanged
+consumer. No project/library/anchor rebuild, initialization, anchor use/migration,
+network service, state cloning or extra witness campaign is selected. The theorem
+uses the reusable method twice for a fourfold application, not an equality wrapper
+that ignores imported results. Exact consumer imports/identities, native admission
+census, preview header and preserved old files are checked from saved output.
+
+Outer210wall/120CPU/2048MiB/eight active and inner180wall/100CPU/1536MiB limits
+are finite and nonrenewing; per-call budgets shrink from the remaining allocation.
+Known child Job CPU is charged once, unknown CPU charges its full reservation and
+stops. The authoring missing-name result is a required refusal, not rolled-back
+mathematical acceptance. Accepted completion metadata is retained before later
+assertions, and any later failure cannot erase a commit. Existing mutable SQLite
+files are excluded from immutable hashing, while prior artifacts and every anchor
+file remain held. No database is opened by this harness's evidence census; actual
+public owner calls still may mutate allowed operational state. The small controlled
+result cannot establish arbitrary-project semantics, useful-growth advantage,
+bulk cold onboarding, global scale or final v5 completion.
+
+Before any launch, the author added a small final harness delta, independently
+read by this reviewer: exact d939807a saved basis-report binding,581unique names,
+Eq/Eq.refl/Eq.trans/congrArg present and both selected missing names absent; also
+preview schema/semantic binding. The final cleared harness is
+`5b44697663aa1eac9aef05d51f795b5c85b83ff8a19ad58e1efc9d4ff1681d39`; selector
+remains0f6f8cb4. This supersedes the06a harness pin above, not its unchanged scope.
+The check strengthens known preconditions and output binding without another
+operation or workload. Runtime still requires root's separate finite selection.
+
+### Project extraction public01: independent actual-outcome audit
+
+Root selected and executed the three-call harness once. This reviewer inspected
+saved JSON, protocol, artifact and pin files only, with independent deterministic
+identity/census calculations; no owner/database opening, native checker execution,
+new query or test rerun. **PASS for the selected approved-project extraction and
+same-parent checked-completion boundary.** No global growth/release claim follows.
+
+Evidence under `experiments/v5-local-checks/ordinary-project-extraction-public-01`:
+
+| Record | SHA-256 |
+|---|---|
+| Selection | `2f298613971e2ffbb33c818061195a5ac4d7fd7359d38a9ed3b7c0497b857dfe` |
+| Outer RESULT | `c0efacb99cdbf65fc2e6bed0033f9878d2f72f5dcc773651205db816d41f1897` |
+| `project/PROJECT-CHECK-RESULT.json` | `98d23d1397f432f260152a854c5373e8dd049792787ce5e1c30e40966b23a8ef` |
+| `project/IMMUTABLE-FILES.json` | `7d0b5c7187b34d97af34f5c75fdcd7b356c365ac7d7e1acf2604765c58c3a042` |
+
+All157runtime pins/four source snapshots rehash unchanged. The344before-record
+pins and390final held-file pins match actual bytes. All192prior immutable saved
+files remain, including the exact50file anchor-registry census. The allowed two
+mutable SQLite stores were not opened by this reviewer or treated as immutable.
+No anchor support migration or new anchor record occurred.
+
+All three public calls have actual saved stdout equal to their enclosing report,
+empty public stderr, reaped direct child, closed Job, final active0/terminated0,
+no termination request or cleanup errors and complete known CPU accounting.
+Contribution's expected exit1 is the genuine BINDING refusal with exactly the two
+method names missing and no admission. Extraction exits0 but explicitly reports
+no mathematical acceptance. Completion exits0 with an actual independently
+checked three-unit extension above the original initial basis.
+
+The native phase log records approved private project import and complete export,
+not the old Std path. Four exact framed lookups ask first for applyTwice_eq and
+applyTwice (both ABSENT), then rfl and Eq (both FOUND with protected parent IDs).
+The supplement contains the two complete missing units,6059bytes and116encoded
+nodes. The unchanged5455byte consumer has132encoded nodes. Independent traversal
+of the saved expression/level DAG positions recomputes remaining capacity exactly:
+31units,4,188,849bytes and130,940encoded nodes. The exact nine-field request,
+selection hash/raw path order, returned pins and same-parent binding agree.
+The native DONE census is four lookups/two units/6059bytes; its closed Job CPU is
+0.359375seconds, equal to the extractor's reported charge.
+
+All three final unit identities were independently recomputed from canonical
+evidence bytes, as were the target export identity and both imported method
+export IDs. The consumer unit is unchanged from the retained candidate. The combined
+inventory exactly contains the two supplemental names and new target, with no
+additional output. The actual independent native worker reports extension/three
+units with the expected names and artifact byte count; its supervision CPU agrees
+with admission. The preview schema/semantic/type header is exactly bound to the
+consumer's inventory entry. The proof uses the acquired twice-application method
+twice to establish fourfold application for arbitrary type/function/input; this
+is a controlled interoperability probe, not novel research or a matched benefit
+experiment.
+
+- New local checked root:
+  `6605957e45f09a2b77851c8e61f98b44f925856f8af9fae8ac247728e942f2ae`.
+- New target `CommonsProjectIntake.applyFour_eq` export ID:
+  `d0c7be50520d2b91b72e43308b8f1ec75022b32c37fe9561381f4aef879fff1a`.
+- Its unit ID:
+  `f1c20bb5d6ef8d37227b0db40e0479d22ef3849f34c71d7a41880497316b1aa0`.
+- Supplemental unit IDs:
+  `25ae588e95228a64196a576aa9c9dd78249c23b0c26189c5671a434b93afa1b3`
+  and `c4639e6e5f70e259ea1611adba8e168aa74dbfb91f98e2512cd465f82705e61e`.
+
+Whole outer21.4497549wall/10.3125known inclusiveCPU equals9.65625Job plus0.65625
+outer wrapper. Do not add the8.0625sum of nested public child Jobs, their native
+charges or the0.109375nested supervisor CPU again. Observed cumulative18processes
+is not an active-process bound failure; no equality-to-one assumption is used.
+Peak Job private commit was943,468,544bytes. These are the selected local operation's
+measurements, not a generally cheap-library guarantee.
+
+This closes the thin non-Std intake restriction for the selected small closure
+using already available compiled local support and independent final admission.
+It does not solve the2852unit/49MB cold closure, authorize trusting remote private
+artifacts, prove full user-project semantic correspondence, establish useful-growth
+advantage or complete v5. Prioritize the next real workflow/whole-cost decision;
+do not turn this passing seam into another repeated qualification campaign.

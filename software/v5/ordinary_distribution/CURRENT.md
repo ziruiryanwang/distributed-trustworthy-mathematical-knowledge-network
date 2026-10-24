@@ -1,10 +1,43 @@
 # Current ordinary distribution recipe
 
-Updated 2026-10-23. This is a mutable entrypoint, not a frozen run receipt.
+Updated 2026-10-24. This is a mutable entrypoint, not a frozen run receipt.
 
-## Current incremental-module development package
+## Current approved-project intake development package
 
 The selected development package is now
+`experiments/v5-local-checks/ordinary-project-extraction-build-01/integration/package`,
+with PROFILE
+`aab7e2460c0879d0fbb2b570470984efe2a66c4a932f5725ce563a1df7c2530f`.
+Its 134 payloads include three replacements from the incremental-module package
+below: the owner entry, extraction controller and native missing-proof extractor.
+The acceptance installation and the other 131 payloads are unchanged.
+
+The [independent saved-outcome audit](../../../research/cycles/v5-2026-10-22-native-library/ORDINARY-MODULE-ANCHOR-SOURCE-REVIEW.md)
+passes the new public workflow: a contribution correctly reports missing project
+dependencies, `extract-project` retrieves their complete proof data from explicitly
+approved local compiled modules, and `complete` independently checks all three
+declarations above the original parent. The whole check took 21.45 wall seconds /
+10.3125 known inclusive CPU seconds. No certificate, dependency rebuild, network
+operation or old anchor migration was involved. This controlled project is not
+an external-user or positive-growth benchmark.
+
+Use [`ordinary_project_extraction_package/build.py`](../ordinary_project_extraction_package/build.py)
+and its `source-map.json` for the current source recipe, with the same build
+arguments shown below and a fresh output. The changed native component was
+compiled with exact retained shared objects; unchanged compiler lanes were not
+rerun. Whole clean-source execution of this combined recipe is not newly claimed.
+See [project-intake usage](../ordinary_project_extraction_package/README.md).
+
+This package retains context-query and incremental-module functionality. Its
+changed facade changes module-anchor support identity, so prior anchors are not
+silently migrated. Their earlier evidence below remains about the earlier exact
+package. The ordinary acceptance installation remains compatible with the
+retained owner. This is a development candidate, not the final v5 release;
+large cold imports, practical benefit and public deployment remain open.
+
+## Preserved incremental-module development package
+
+The predecessor development package is
 `experiments/v5-local-checks/ordinary-module-anchor-assembly-04/package`, with
 PROFILE `b0802fbe33b08bbf57e8050a18e96c2b1d277a75ba53192e51b487d34a3682a9`.
 It contains 134 payloads plus PROFILE/ASSEMBLY. The native acceptance installation

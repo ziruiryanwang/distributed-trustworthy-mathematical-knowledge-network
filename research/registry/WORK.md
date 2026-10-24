@@ -4,6 +4,25 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 after project-intake public01 PASS: root owns adoption/navigation/Git
+and next implementation selection. module_anchor_audit completed saved-only
+outcome audit and will review the distinct source-build map. project_intake_native
+owns unused ordinary_project_extraction_package build/map and usage README plus
+ORDINARY-PROJECT-INTAKE-BUILD-MAP.md; no compiler/test restart. cold_intake_strategy
+owns source/theory-only ORDINARY-NEXT-PRACTICAL-PAYOFF.md: choose one next practical
+discovery/reuse change using prior evidence and optimized package comparator.
+No owner/database is opened by these tasks. Used source and evidence stay frozen.
+
+2026-10-24: root selects fresh approved-project intake under
+ORDINARY-PROJECT-INTAKE-SELECTION.md. project_intake_native owns only new native
+MissingImportExporter.lean; cold_intake_strategy owns only new Python
+library_extraction.py after its strategy checkpoint. Both are under
+software/v5/ordinary_project_extraction. Root owns the fresh
+ordinary_project_extraction_package/owner.py facade, integration and Git.
+module_anchor_audit owns independent contract/source challenge. No runtime,
+shared-helper edits, generic cold scheduler or old experiment restart selected.
+
+
 2026-10-23 after native04 PASS: root adopts assembly04 and owns navigation/Git.
 New project_intake_native owns source/theory-only exact non-Std extraction request
 and quota contract at ORDINARY-PROJECT-INTAKE-NATIVE.md. No source implementation,
