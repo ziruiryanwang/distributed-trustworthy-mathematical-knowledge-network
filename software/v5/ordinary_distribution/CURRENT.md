@@ -2,14 +2,47 @@
 
 Updated 2026-10-23. This is a mutable entrypoint, not a frozen run receipt.
 
-## Current query-enabled development package
+## Current incremental-module development package
 
-Use `build03.py` with `source-map03.json` for the current source recipe. It adds
+The selected development package is now
+`experiments/v5-local-checks/ordinary-module-anchor-assembly-04/package`, with
+PROFILE `b0802fbe33b08bbf57e8050a18e96c2b1d277a75ba53192e51b487d34a3682a9`.
+It contains 134 payloads plus PROFILE/ASSEMBLY. The native acceptance installation
+is unchanged. Source builds use
+[`ordinary_module_anchor_package/build02.py`](../ordinary_module_anchor_package/build02.py)
+and its `source-map02.json`; the unchanged compiler lanes were not rebuilt.
+
+The [independent audit](../../../research/cycles/v5-2026-10-22-native-library/ORDINARY-MODULE-ANCHOR-SOURCE-REVIEW.md)
+passes all five actual module operations: new-support cold registration,
+warm new-proof-only export, ordinary consumer, zero-native repeated reuse and
+wrong-context refusal. See [module usage](../ordinary_module_anchor_package/README.md).
+Whole-test cost was 50.89 wall / 44.359375 known inclusive CPU seconds. Different
+calls perform different work; these numbers are not a matched speedup result.
+
+The same package supports [context-bound query preparation](../ordinary_query_context/README.md).
+Its actual public command returned bindings/query/specs byte-identical to the
+saved manual route, under the exact selected owner context. The enclosing test
+harness remains FAILED on an unjustified Windows cumulative process-count
+assertion; independent saved-output checks are recorded separately. No passing
+query/native/search campaign was repeated to erase that failure.
+The [separate postcheck](../../../research/cycles/v5-2026-10-22-native-library/ORDINARY-CONTEXT-QUERY-IMPLEMENTATION.md)
+also records a later successful zero-write catalog-lock observation. It does not
+identify the extra cumulatively counted process or relabel the original run.
+
+For a fresh source build, use the unchanged build arguments illustrated below,
+but select `software/v5/ordinary_module_anchor_package/build02.py` and a fresh
+output. A build's actual generated hashes need not equal this assembly's hashes.
+This is not final v5, a public release, proof-free cold onboarding, or a useful-
+growth claim. Public deployment and licensing remain undecided.
+
+## Preserved query-enabled predecessor
+
+Use `build03.py` with `source-map03.json` for this predecessor source recipe. It adds
 proof-free type queries and the exact installed-theorem export policy. The
 unchanged base/extractor phases and separately validated query compilation were
 reused in a file-only assembly; a complete build03 run was not repeated.
 
-The actual locally assembled package is
+Its actual locally assembled package is
 `experiments/v5-local-checks/ordinary-query-assembly-01/assembled/package`, with
 PROFILE `2b8ac8cad152dde90a1b51d19dd1a821305bd7242b601c10eaa7a39f0db572f5`.
 It contains 133 payloads plus PROFILE, with the previous native acceptance
@@ -23,9 +56,8 @@ seconds, including a deliberate 20-second service lease. This is controlled
 compatibility evidence, not search speed, useful growth or a public release.
 See [query package usage](../ordinary_query_package/README.md).
 
-The build02 invocation below remains a preserved predecessor example. For the
-current recipe substitute `build03.py` and a fresh output directory; CLI flags and
-supported runtimes remain unchanged. No license or external publication is selected.
+The build02 invocation below remains a preserved predecessor example. CLI flags
+and supported runtimes remain unchanged. No license or external publication is selected.
 
 ## Preserved one-helper predecessor
 

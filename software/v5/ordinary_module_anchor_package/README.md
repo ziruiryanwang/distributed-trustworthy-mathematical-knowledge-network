@@ -1,6 +1,6 @@
 # Incremental ordinary Lean modules
 
-Development source, not an adopted release package. This change adds local module
+Integrated development source, not a final release package. This change adds local module
 anchors to the existing ordinary owner API. Core mathematical admission, search,
 discovery and the optional-certificate route are unchanged.
 
@@ -69,3 +69,28 @@ back to a more expensive cold export. Retain all returned parent directories.
 Source selection and the independent review are under
 `research/cycles/v5-2026-10-22-native-library/ORDINARY-MODULE-ANCHOR-*`.
 No public deployment, license choice or final-v5 completion is asserted here.
+
+## Current implementation and Windows paths
+
+The current source recipe is `build02.py` / `source-map02.json`; the integrated
+package is identified in [CURRENT](../ordinary_distribution/CURRENT.md).
+Native04's five-call local integration passed independent audit. Warm export
+contained only the new theorem unit, imported the locally registered definition,
+and passed both fresh module rereads. Ordinary Lean theorem use and definition
+reduction worked; reopening reused the module without a native call. Earlier
+failures and the old-support anchor are preserved, not silently migrated.
+
+On Windows, owned artifact paths can exceed traditional native path limits.
+The bridge uses extended-length spelling only at native filesystem/import
+boundaries, leaving reported paths and identities unchanged. Ordinary consumer
+projects should likewise use `\\?\`-prefixed absolute drive directories in
+`LEAN_PATH` when needed. Normalize separators/drive spelling first, and only
+apply this transformation when no component ends in a dot or space. Otherwise
+retain the original spelling (which may still hit a long-path refusal).
+Do not strip or add prefixes to arbitrary device/UNC paths or assume the two
+spellings always identify the same object. No system setting is changed.
+
+The 32-unit/4-MiB limit now applies to the new proof delta; this does not make
+module loading, artifact hashing or first-time checking free. An importer/checker
+support update can invalidate old anchors; no automatic cross-support migration
+is provided. Preserve the selected version and exact registered parent chain.

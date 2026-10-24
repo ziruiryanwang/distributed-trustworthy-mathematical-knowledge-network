@@ -590,3 +590,502 @@ failure isolates a deployment boundary; neither it nor the real cold registratio
 establishes warm incremental verification, lower full-workflow cost, net growth or
 final-v5 readiness. Preserve both before choosing the minimum decision-changing
 repair.
+
+### Adjacent context-query contract challenge
+
+At root's assignment, read full ORDINARY-CONTEXT-QUERY-CONTRACT.md, hash
+`e4db149a864a9f7a3103a92549c5a1ed64621361d8b43f5a6e0a65571e001b67`,
+and the actual formal-query, owner adoption/open/context and anchor-support seams.
+**No conceptual or API blocker found.** This is a source-contract conclusion;
+the fresh query.py implementation and actual behavior are not yet reviewed.
+
+The key interpretation is explicit: native AST names are interpreted under the
+selected checked local context K, not asserted equivalent to identically printed
+names in an unrelated project. The resolver visits exact reference keys in existing
+order, validates all IDs, and emits no partially usable bindings on a missing
+name. Query formation is neither typechecking nor mathematical acceptance. Real
+owner context validation still reconstructs the selected bindings and hashes its
+retained artifacts; reopen recovery can mutate operation bookkeeping. Those costs
+and state effects are disclosed rather than called a strictly read-only lookup.
+
+The one-file query payload replacement can preserve local-anchor support by the
+existing definition: `support_descriptor` commits native installation, selected
+owner/loader/controller/collector/store/worker/native and their checking helpers,
+but not query.py or the outer PROFILE hash. Full new PROFILE verification remains
+mandatory. Exact unchanged descriptor inputs, not another native test, suffice to
+establish this particular compatibility relation.
+
+Implementation review must check both resources close on every failure, no output
+before complete resolution and clean closure, final input/profile checks while the
+lock remains held, original resource allowance throughout, and honest uncertain
+RESULT publication reporting. No native execution, custody transfer, admission,
+anchor-store call, alternate root inference or project-equivalence claim is
+authorized by this contract.
+
+### Context-query implementation source clearance
+
+Read complete fresh `software/v5/ordinary_query_context/query.py`, including the
+exact delta from ordinary_query_package/query.py. Reviewed hash:
+`449b5fea77f4c19cfbde47346ea255ae1277a1cf53e3030a6baa9de3f8659af6`.
+**Source-clear for root's separately selected changed-boundary controls.**
+
+The manual implementation body and bootstrap remain unchanged apart from the
+manual function name and dispatch. Context CLI combinations are rejected before
+state access. Actual mode validates bounded native syntax, exact roots/IDs,
+custody limits, separated paths and adoption binding, then opens custody and owner
+without initialization. The small pure resolver visits Q.reference_names order,
+validates each present ID, and returns all missing references without partial
+bindings. Actual selected context identity is checked before query construction.
+
+The lock is retained through final input/profile checks. A finally block attempts
+owner close and custody close independently; any close error suppresses output.
+An unresolved query likewise creates no output. Successful context output uses
+fresh non-overwriting BINDINGS/QUERY/SPECS writes only after both closes and a
+remaining-budget check. RESULT is prepared, flushed to a fresh pending file, then
+renamed last after another check. A rename exception reports UNKNOWN publication
+with the exact attempted result hash; partial bytes are retained and never retried
+or deleted. Manual publication behavior is not changed.
+
+The result exposes selected-context interpretation and zero worker CPU, without
+claiming theorem acceptance, project equivalence or state immutability. All
+context, lifecycle and writing costs share the original cooperative allowance;
+the external supervisor remains necessary for hard process bounds. No native,
+custody get/put, admission, network or anchor-store call appears in the new path.
+Recommended focused failure controls include both-close attempts, close-error
+output suppression, and rename-then-throw preservation. No implementation was
+executed or package adopted by this review.
+
+### Minimal path-discriminator source clearance
+
+Read all three fresh diagnostic sources and the selected Lean Metadata/import API
+definitions against the already compiled core import seam:
+
+| File | SHA-256 |
+|---|---|
+| LongPathProbe.lean | `bfc77de65e1d875da28b010e8bd657c1f2d8d568daa397b6c769dfc4be9cb82e` |
+| LongPathConsumer.lean | `0cdcce705a679e39425786524486af83e246f9aff57019834321f286d95d1aad` |
+| long_path_probe.py | `dba7aa027d8e2fe7259f185283b16e76b2622ac9363902ead6403fd47d3d93b1` |
+
+**Source-clear for root's separate bounded aggregate selection.** Two short Lean
+processes record raw versus Windows extended-path metadata and attempt the exact
+five-part A import in private/exported modes, with no plugins or imported extension
+loading. A third ordinary frontend process uses extended LEAN_PATH and checks
+`applyTwice Nat.succ 0 = 2` by reduction. No `.olean` output is requested, and the
+only intended file write is a fresh diagnostic report. No owner/catalog opening,
+anchor registration, proof-ancestry replay or artifact mutation is selected.
+
+The launcher checks the exact five saved A artifact hashes/lengths before and
+after, uses isolated environment paths and bounded 30-second child timeouts. Root's
+external Job and runtime/source pins are still required for aggregate containment
+and final cleanup. Native import failures are intentionally caught into diagnostic
+JSON; a zero process exit alone is not an import PASS. Actual metadata rows,
+`import.ok`, expected-definition presence, consumer diagnostics and known closure
+must be inspected. This is an API-boundary discriminator, not a product repair,
+support-identity waiver or proof that extended paths are universally portable.
+
+Read complete `select_probe.py` at
+`4a213a551179a1b5cc4251bee58f92517a97c7c7bde41489299eb8b4e45864c0`;
+source-clear for preparation only. It binds native02's exact selection, retains
+all 155 runtime pins, adds the exact five A artifacts and all five root source
+pins (including the Lean files resolved through the launcher's fixed root), and
+snapshots those sources. Loading the pinned launcher's definitions does not call
+its main or run any child. Fresh output/selection paths and 100-wall/50-CPU/
+2048-MiB/four-process aggregate limits agree with the planned discriminator.
+
+### Saved path-probe01 mixed outcome
+
+Read complete saved PROBE/RESULT; **ordinary extended-path consumer PASS, explicit
+private/exported probes NOT COMPLETED**. Both explicit processes exited one at
+Lean parsing because the local identifier `prefix` is a reserved syntax token.
+Neither produced native metadata/import JSON. The ordinary frontend process exited
+zero with empty stdout and stderr and checked the exact selected A definition's
+`applyTwice Nat.succ 0 = 2` by reduction through extended LEAN_PATH. That passing
+consumer must not be repeated merely to finish the two unresolved probe modes.
+
+This source review missed the reserved identifier. Lean accepts neither `matches`
+nor `prefix` as these bare local names in the selected imported syntax environment;
+use descriptive compound identifiers such as moduleMatches/pathPrefix and inspect
+new locals against known syntax before launch. Do not mistake source-review
+clearance for parsing/compilation evidence. No new lint framework or broad campaign
+is needed for this two-occurrence correction.
+
+All 165 runtime pins and five source snapshots rehash unchanged. The original and
+saved selection hashes both equal
+`8d0b2d469984f3ee63c14af24510538635f88b1dacca1be72d296d104f1612d5`.
+All five A artifacts retain their exact hashes/lengths; before/after arrays match
+and were rechecked against actual files. Outer exit zero only means the diagnostic
+launcher completed, not that all import modes passed. Its Job closed cleanly with
+reaped child, zero active/terminated processes, no cleanup errors and empty stderr.
+Wall time was 4.3409155 seconds; outer Job CPU 2.40625 plus wrapper CPU 0.734375
+gives 3.140625 known inclusive CPU seconds. No artifact/owner state was modified.
+
+- RESULT: `0faea5e0e66a1f04fd4793ff8d1a788b573acb919320919ac60c87c52ba0f5fd`.
+- PROBE: `7eb5e1e73ecca488ea6dc27d978cda02a5a675f49c4590d549a76a7b65e53667`.
+
+A separately selected syntax-only successor may resolve the two uncompleted
+explicit modes. The ordinary consumer's success supports extended-path usability
+for this artifact but does not yet establish the explicit importer/metadata fix.
+
+Read exact fresh probe02 source deltas:
+
+- LongPathProbe02.lean:
+  `b7ef8a6f55b06eeff77d1097d55f65010282278dacce2cef027fc8e7d7618eb3`.
+- long_path_probe02.py:
+  `ed328e6f404209602a3e54f77ca567affa56f91e129bbee2d74717a846bd2fc4`.
+
+**Source-delta clear.** Lean changes only the two local `prefix` references to
+`pathPrefix`. The launcher changes only explanatory wording, the selected source
+filename and removal of the completed ordinary-consumer call. Artifact pins,
+environment, remaining two explicit modes and diagnostic semantics are unchanged.
+No product support source or prior evidence is changed. A new finite selection
+and actual result remain necessary; passing consumer evidence is not repeated.
+
+### Focused context-query controls source clearance
+
+Read complete `ordinary_query_context/controls.py` and its single added
+context-mismatch case before use. Final reviewed SHA-256:
+`bd253397494a63faa6139222667f78789ba7124f301df62f0eaed9ab2592f549`.
+**Source-clear for root's separate finite selection.** Eleven groups use pinned
+real pure Q/evidence helpers and the prior public-query AST/binding/query bytes.
+They test ordered exact bindings and identical query output, all/partial missing
+references without partial bindings, malformed present IDs/map/callback, a
+zero-reference inert syntax query, per-reference allocation/refusal propagation,
+and 32 invalid option combinations before dispatch.
+
+Five lifecycle cases intentionally substitute inert owner, custody, profile and
+path APIs. These test success, unresolved names, both close failures, successful
+rename followed by an exception, and selected-context identity mismatch. They
+must never count as real owner validation. The added mismatch case addresses the
+review's identified gap: it raises QUERY_CONTEXT_IDENTITY during RESOLVE_CONTEXT,
+then verifies both closes and no output. Rename-then-throw checks UNKNOWN reporting
+with the exact hash of the retained successful marker; close failures suppress all
+output. The tests use fresh fixture directories and retain all partial files.
+
+Database, subprocess and network entry points are patched to reject calls during
+the cases. Actual project/source/runtime inputs are pinned and rechecked. The
+inner allowance is 35 wall/20 CPU seconds; root still selects an outer Job. This
+does not repeat the earlier formal-query or peer campaigns, prove real state
+opening/locking, validate native mathematics or establish useful-growth benefit.
+
+Read exact `select_probe.py` to `select_probe02.py` delta; final selector hash
+`c2570454be2ac97b05070e35698991a7ef317540daa6cf0d7fd1acff5532f14e`
+is source-clear. It changes only fresh02 operation/source paths, reviewed launcher
+pin and removal of the completed consumer snapshot/call. All native02 template
+runtime/saved-A pins and the 100-wall/50-CPU/2048-MiB/four-process envelope remain
+unchanged. This prepares only the two remaining diagnostic modes.
+
+### Saved path-probe02 outcome and narrow path repair
+
+Saved probe02 is **PASS for both previously unresolved explicit import modes**.
+Private/exported imports report `ok=true` and `expected_definition=true`. All five
+raw artifact paths fail metadata with error 4058; all five extended paths return
+the exact expected size, regular-file type and one link. Exit zero, empty stderr,
+known clean outer closure. All 164 runtime pins, four source snapshots and five
+before/after artifact pins were independently rehashed unchanged. Wall time was
+5.4515871 seconds; Job CPU 3.125 plus wrapper CPU 0.78125 gives 3.90625 known
+inclusive CPU seconds. The successful ordinary consumer from probe01 was not
+repeated. This establishes the exact Windows API boundary for the retained A,
+not a complete product or general portability claim.
+
+- Selection: `b6dedecb32fe4a329bbac3fd92123997aac952a2b961c01f2609ead163045b14`.
+- RESULT: `da93474eef45e3dca347c1a77785032df7711809e5660fcfa289865654ba7255`.
+- PROBE: `96ada245b071c25014e3ffddade48ee5827d257b99bf0202fbf0a1295be2ac79`.
+
+Reviewed native02-to-native03 diff at
+`797365d3c4b631dda78238ced234cbf8eca4212e938a851b3ac5445645fe34f3`.
+**Source-clear for the selected ordinary drive paths.** The helper changes only
+native filesystem/import spelling: metadata, handles, exact import artifacts,
+module output, reread and runtime fallback. Stable request/plan/report strings
+and module-part identities stay raw. Read the pinned Lean `FilePath.normalize`
+implementation: it uppercases Windows drive letters and normalizes separators,
+so the helper's uppercase drive check handles lowercase ordinary drives too.
+Non-Windows and other Windows namespaces remain unchanged, not newly supported.
+
+The author subsequently identified a real broader boundary: extended Win32 paths
+preserve trailing-dot/space components, unlike ordinary Win32 normalization.
+The selected canonical paths contain no such components; no current source/run
+claim depends on their equivalence. General owner-path support must explicitly
+refuse ambiguous components or otherwise preserve a justified path interpretation
+before claiming that wider portability. This is not authority to edit used03
+bytes or repeat the passing path discriminator.
+
+### Focused context-query controls: selector and saved outcome
+
+Read full selector at
+`801f45e186d39ad04b95cda7fdbd47ad8077572346f8cb9392234671c0414851`.
+It imports pinned builder/control definitions only, prepares fresh output, retains
+the exact three selected Python runtime pins, six pure helpers, query adapter and
+three saved fixtures, and snapshots four sources. It neither runs the controls
+nor opens owner state during selection. Outer limits are 60 wall/35 CPU seconds,
+512 MiB and two processes; the inner control envelope remains unchanged.
+
+The separately executed saved controls01 are **PASS for all eleven groups**.
+Independently checked all 18 runtime pins and four snapshots with zero mismatch,
+the exact original/saved selection hash, complete case outcomes, inert lifecycle
+events, missing-name lists, UNKNOWN publication hash and no mathematical-acceptance
+claim. All lifecycle operations are explicitly inert doubles, not actual owner
+qualification. Outer exit zero, empty stderr, reaped child, closed Job, zero
+remaining/terminated processes and no cleanup errors. Wall time 0.5064741 seconds;
+Job CPU 0.203125 plus wrapper CPU 0.09375 gives 0.296875 known inclusive CPU seconds.
+
+- Selection: `659536f40e9e7eaabeb9cfae474ca0ec73208a1df26e60b215ef622443043642`.
+- RESULT: `50231c0f8621f2a9ad7524c081f2ffc0d2553513f34083a8d1375b623dbc60d3`.
+- REPORT: `f05e335747dd5657130c17b1cd124d9073239b0353e61a675a33ccee6438cc2e`.
+
+### Combined assembly03 and native-check03 source review
+
+Read complete assembler03, its diff from02 and full selector03:
+
+- `assemble03.py`: `ba863833d083981771cad0a89eed1a59b0cf4a9c2b631f8e41f39e669f504472`.
+- `select_repair03.py`: `0d686ad42aa89d57c5a49a95741a8e01849fc9f5ba8729260d7a7b29128781da`.
+- `native_check03.py`: `347e62289537358613f21e3bfd27ec80e05e18301813bac7a6753abca6490b0c`.
+
+**Source-clear.** Assembly copies134 payloads from exact assembly02, replacing only
+native03 and query449b5fea. No owner/native operation, support build or README
+change is performed. The selector binds unchanged native02 template inputs,
+both replacements and fresh03 outputs; assembly keeps90wall/50CPU/512MiB/two
+processes. Its native branch retains the original270wall/165CPU/2048MiB/eight
+processes and inner240/140/1536 limits, and pins all20 preserved sidecar files.
+
+Read the native-check03 delta and surrounding checking/closure logic. Independently
+rehash-checked every hardcoded preserved sidecar entry: exactly20 actual files,
+all expected lengths/hashes. Old A and all three closed operations remain intact.
+New cold A must have a different support identity; warm B must use that exact new
+support. No support migration or old-proof trust waiver occurs. Consumer native
+LEAN_PATH gets extended drive spelling while saved imports remain raw. The same
+five-call residual-delta, private/exported, ordinary-consumer, zero-native reuse,
+wrong-context refusal and exact final-registry assertions remain. Final census is
+one old plus two new records and three old plus two new operations. No run was
+performed by this reviewer, and a source clearance is not native acceptance.
+
+Saved assembly03 subsequently **PASSes its file-only gate**. All160 runtime pins
+and seven snapshots match. There are136 files:134 payloads plus PROFILE/ASSEMBLY.
+All106 direct profile payloads and27 installed payloads match their pinned
+lengths/hashes; the installation manifest is unchanged from the pinned base.
+Complete payload comparison finds exactly native03/query changed,132 unchanged,
+no additions. Base profile/receipt, unchanged installation identity and exact two
+replacement hashes agree with the receipt. Outer exit zero, no stderr/cleanup
+errors, child reaped and Job closed with zero remaining/terminated processes.
+Wall4.9423166 seconds; Job1.828125 plus wrapper0.671875 gives2.5 known inclusive CPU.
+
+- Selection: `55a4e310e20620257eb7fd92e0a29f7952d3d4be4f53e366ee322875c8147803`.
+- PROFILE: `68fbcb5c5edba0be55e236a561af0fe2a6d1a1df7229e95ca8af75d09d0f4de0`.
+- ASSEMBLY: `bc482b09043286c617b09de3434fdc8dbc1179460f8591f8e427a16e466e98e9`.
+- RESULT: `9021c79cb0f6fc396e5ed09c10f23daa321c1c0459e73cd9a92c9bc630a09c32`.
+
+### Next local-project seam: theoretical disposition
+
+Read complete `ORDINARY-POST-ANCHOR-PAYOFF.md` at
+`7127d58e4e6ed9d5d066df3c551cbe1d68a79f667c77f666955a57ff1248d2e5`.
+**No theoretical blocker found for its explicitly narrow contract.** Approved
+compiled artifact roots/module names are not equivalent to arbitrary authoring
+execution configuration or peer-binary approval. Reusing exact protected lookups,
+the complete-proof exporter, existing supplement planner and final independent
+`U ++ C` admission adds no acceptance rule. Supplemental units stay provisional;
+forward dependencies/output collisions must remain refused. The interpretation
+is the exact receiver context, not equivalence to same-named project declarations.
+
+Prospective candidate-subtracted32unit/4MiB/131072node/4096name limits are important
+to payoff: the present much larger native exporter limits can waste work that
+the public aggregate planner inevitably rejects. Encoding/envelope overhead and
+distinct traversal versus portable-node counters must be accounted for. Private
+imports can load a large transitive artifact environment, so no missing-closure-
+only or global-size-independent extraction cost follows. Ordinary pinned-package
+sharing remains the simpler route when most of a library is already approved.
+
+This review does not select implementation, a large library build or an external
+user trial. No user-owned Lean project is available. One later controlled small
+non-Std-module boundary test, if independently selected, would be honest narrow
+interoperability evidence rather than a claim of external-project usefulness.
+
+### Native04 pre-execution ambiguity guard
+
+Root held native03 before any native execution, preserving assembly03 and its
+unexecuted selection. A fresh04 handles the identified ambiguity before paying
+for another checked support generation. Reviewed exact deltas and final pins:
+
+- `OrdinaryModule04.lean`: `901e4fc06351f6ad658eba9b5ea23ab644648646c8567fc035b057aa1883cfe8`.
+- `native_check04.py`: `884c744e3e0e94b54806fd2c58c55a111c15688d5b92c3c1c6deb2910156c8ca`.
+- `assemble04.py`: `33de844f221dbf1e05c8e952abc209f74e0c61cd95cdd9d288e3216400cd7e7c`.
+- `select_repair04.py`: `4305d73de9ec66269e8024420bcde6d1096d118ebc76e04ceb586977c1e4a70d`.
+
+**Source-clear for separate finite selection.** Native04 only adds a guard:
+if any normalized path component ends in ASCII dot or space, return the ORIGINAL
+path unchanged. Otherwise use native03's drive-prefix transformation. This avoids
+reinterpreting those names without claiming they now support long paths. Existing
+extended/UNC/device namespaces and drive-relative forms do not match the ordinary
+absolute-drive branch and are left unchanged. Separators and lowercase drive
+letters follow the inspected pinned normalization implementation. Upstream
+ordinary-directory/single-file checks still apply; the helper is not an arbitrary
+Windows namespace-equivalence theorem or a replacement path-security boundary.
+
+Harness04 changes only the exact base03 profile, one-replacement census and receipt
+claim. All20 preserved sidecar pins, five calls, mathematics, quotas and closure
+checks stay unchanged. Assembler04 copies the exact134payload base03 with only
+native04 changed; query449b5fea is retained. Selector04 binds the held native03
+selection as a data template, not an operation to restart, and creates fresh04
+outputs with the same finite limits. No new helper build or broad path campaign
+is required. Actual assembly/native outcomes remain separate.
+
+Saved assembly04 **PASSes the file-only gate**: all177runtime pins and seven
+snapshots unchanged;136actual files =134payloads plus PROFILE/ASSEMBLY. Exact
+base03 comparison finds only native04 changed,133payloads identical, no additions.
+The complete direct profile map matches actual lengths/hashes; installed payloads
+and manifest are exact previously audited base03 copies. Receipt binds exact
+base03/profile and native04. Job exit zero, empty stderr, reaped child, closed Job,
+zero remaining/terminated processes and no cleanup errors. Wall4.8111617seconds;
+Job1.8125 plus wrapper0.625 gives2.4375 known inclusive CPU seconds.
+
+- Selection: `e0f0a56078aca3e34606abf6f6cb469f84a018d8c47004611d76e1f69f64b9e3`.
+- PROFILE: `b0802fbe33b08bbf57e8050a18e96c2b1d277a75ba53192e51b487d34a3682a9`.
+- ASSEMBLY: `ca433382b93bdd30d73555925f2c7f1b9397b2be04d9d4fae55e0dc205080de9`.
+- RESULT: `6e904af0b94703241ac397b42a7b1502da494fde0e6b44390ace56da500e05de`.
+
+### One real-owner context-query boundary source review
+
+Read complete `ordinary_query_context/integration.py` at
+`c51ef8c55d7b95f8170e72127d639fbff579fc85ab3d0053464a6dfa7483dd65`
+and `select_integration.py` at
+`c3a739564feba537e4fb4723536fda527200d4ff1423f879671fe7109f2fdb88`.
+**Source-clear for separately scheduled execution after other owner operations.**
+Exactly one public context-query command uses the retained94827context and four
+known references. Its output bindings, QUERY and SPECS must byte-match saved
+manual preparation; all semantic identifiers/features must agree. All463 prior
+immutable files plus the selected complete package/runtime/input maps are held.
+
+No native subprocess, admission, extraction, search, rebuild or second owner
+opening is used. The query child is restricted to one process; checked close
+evidence consists of a successful marker published after both closes, a closed
+single-process Job and successful direct reacquisition/release of the catalog
+owner lock. Owner opening may settle old RESERVED entries; this is explicitly
+not database-read-only. No missing-name real-owner replay is added because that
+boundary already has focused pure/inert evidence. Whole-owner release and broad
+query usefulness remain different claims.
+
+The selector imports pinned definitions without invoking the harness, then pins
+the exact chosen package/profile/receipt and prepares fresh output. Outer limits
+are120wall/60CPU/768MiB/three processes, harness90/45/512, and at most45wall/15CPU
+for the sole query child. Existing supervision and conservative unknown-cost
+accounting are reused. Source review does not claim actual runtime success.
+
+### Reproducible source recipe02: no rebuild
+
+Read the exact recipe/map diffs at:
+
+- `build02.py`: `d7bce9995bbce8a20cdd1174fdf3cc867b79e143336088acfec531b4f34eae9b`.
+- `source-map02.json`: `3f9707ebacabfc7ecaf0af5ae7adc76c187a95dad6102ea9eb17be02758bcdb1`.
+
+**Source-clear.** Only native02-to-native04 and old manual-query-to-context-query
+source/copy mappings change, together with profile label and recipe/map self
+references. Independently rehashed all71source pins and compared54direct copies
+against assembly04: zero mismatches. All47base inputs, four compiler-lane
+descriptors, counts, authoring suffixes, extractor output and native runtime pins
+are unchanged. This closes reproducible source selection without rerunning any
+compiler or claiming that the unexecuted recipe has a new successful build.
+
+### Saved native04 integration: PASS
+
+Independently audited the retained native04 outcome, without a replay. It passes
+the selected five-call local anchor integration. All172runtime pins, four source
+snapshots and467held immutable files rehash unchanged. The registry contains
+exactly50files, three records and five closed operations; no BLOCKED marker.
+Old A and both failed operations remain unchanged. New operations:
+
+- A anchor `911a92d2a2bbe733f80a3dd1a0fa34dd9426046a86dd04c8944b2d39c6f6f884`,
+  operation `42187008b9b9248e0413f4410659963f84ab61e6a566559e55fc296adec64ec2`.
+- B anchor `1af25e9209cb0d3ea746c4e94ddda9f1681f7e9a9cdee423e95a1b14a4d3b03f`,
+  operation `9d54749fa6e07ad0cfb3ee0e087da13e88a1e89ffb3fdd1ad395ca1c37b50bf2`.
+- Shared new support:
+  `06e8c029d63b6eab1aa71feda30e1cdc1e7430bcde5e7d23f11b20ca26252c6f`.
+
+Both domain-separated record hashes independently reproduce their AnchorIDs.
+Each new module contains exactly its one selected unit, with complete actual
+native inventory equal to the request's full declaration record and correct
+report hash. Both build/private-reread/exported-reread phases exit zero. Every
+five-part artifact pair and all seven copied event files per operation match
+the corresponding output; both CLOSED records say LIVE_GENERATION_CLEAN_BEFORE_COMMIT.
+Warm B imports exact new A, has only B's unit in its request, performs one evidence
+fetch and cuts A at the registered boundary. This is local checked-cache reuse,
+not source-independent trust in a remote binary or succinct cold verification.
+
+The actual ordinary consumer imports B, applies `applyTwice_eq` polymorphically
+and proves the same equation by reducing `applyTwice`; it exits zero with empty
+stdout/stderr and produces all five output parts. Subsequent reopen returns B
+with zero fetches/native calls/native CPU and only MODULE.json output. Actual
+wrong-context use refuses at ANCHOR_CURRENT_CONTEXT_MISMATCH with no acceptance,
+zero native/worker CPU and no requested export directory. No new registration
+occurs on reuse/refusal. All five calls and the outer Job close cleanly.
+
+| Call | Child Job CPU seconds |
+|---|---:|
+| Fresh-support cold A | 21.546875 |
+| Warm B checked delta | 16.34375 |
+| Ordinary consumer | 0.59375 |
+| Reopen/reuse | 1.140625 |
+| Wrong-context refusal | 0.953125 |
+
+Outer wall50.8931387seconds; outer Job43.671875 plus wrapper0.6875 gives44.359375
+known inclusive CPU seconds. Nested native CPU is already included, not an extra
+charge. These different workloads are not a matched speedup or useful-growth
+comparison. No global-scale import-cost, peer-binary, external-project or final-v5
+claim follows from the local integration.
+
+- Selection: `7d096463f80b3d9d7a8449607e32aab6783c552393ad35cbfe0190b1dfcdb13a`.
+- RESULT: `eae634e9f97be89f9530557f0058c764bed4de6c0657703ccd9ecc5b564c473f`.
+- NATIVE-CHECK-RESULT: `31d2ed8ac9c3479e9137f5cb6eadcd744b879bb4416daada9bf45bfd18be82ec`.
+
+### Query01 saved partial result: original harness remains FAILED
+
+The real public query child completed successfully, but the enclosing integration
+harness failed at CONTEXT_INTEGRATION_NO_CHILD_WORKERS because it expected Job
+`total_processes==1` while the saved final count is2. The later output comparisons,
+owner-lock reacquisition and final preservation stage were not executed by that
+harness. Do not relabel the original FAILED result or repeat the successful query.
+The earlier source clearance incorrectly equated this Job statistic with one
+logical application process; its exact supervisor accounting needs a source
+explanation, not an inference that a mathematical worker necessarily ran.
+
+Independent saved-only inspection nevertheless establishes a narrow successful
+context-query output:159runtime pins, four snapshots and all463prior immutable
+files rehash unchanged; all four expected receiver-context references resolve;
+BINDINGS.json, QUERY.json and SPECS.json are byte-identical to saved manual-mode
+outputs. The returned RESULT bytes plus oneLF equal stdout exactly, the query
+directory contains precisely those three files plus RESULT, and no mathematical
+acceptance is claimed. Actual query child exit zero, zero reported worker CPU,
+empty stderr, clean Job closure, reaped child and zero remaining/terminated
+processes. This inspection does not perform or retroactively claim the missed
+owner-lock reacquisition. That observation may be selected separately without
+another query/owner opening.
+
+The failed whole run costs3.2005208wall seconds; outer Job2.078125 plus wrapper
+0.53125 gives2.609375 known inclusive CPU seconds. All failure/partial output is
+preserved. Native04's distinct passing integration is unaffected.
+
+- Selection: `9e98495421047955361ad37b506bf18504d97e12e28f2ce86c409e42ce9e2516`.
+- RESULT: `be583f3aa8bcedca38f551b9a9e5faef24c5287a4c8953d1cc7e90459811f17d`.
+- INTEGRATION-RESULT: `5c228d9966f2e1bfad1bc8c911bae3a84c2d8069afaf65436c23489d87d9ca6f`.
+- Actual query RESULT: `1f1a4e9d61ca1c8853d0ef7f9ee0954de4edc6f9555da449a6b3cd71e16f3909`.
+
+### Query01 postcheck provenance disposition
+
+Read the completed `ORDINARY-CONTEXT-QUERY-IMPLEMENTATION.md` (SHA-256
+`d99ac967b77a66eb8f7dc224250b86374be74133688ca9dfc00d06c8b44af139`) section "Actual
+integration01: failed harness, successful query, saved-only completion". Its
+artifact identities, exact returned data,159runtime/four-snapshot and463prior-file
+claims agree with this reviewer's already completed independent saved-file audit.
+No duplicate scan is needed. The source diagnosis correctly states that the
+supervisor has one explicit Popen but directly reports Windows TotalProcesses;
+saved records do not establish the second counted process's lineage. Neither
+launcher overhead nor absence of descendants is inferred from that count.
+
+The later lock observation is explicitly **author-executed, root-authorized and
+post hoc**, not independently replayed by this reviewer: at
+2026-10-24T02:11:27.1326056Z the author reports .NET FileStream acquisition/release
+of `[0,1)` on the existing catalog owner.lock, with one NUL byte unchanged and no
+owner/database opening or byte write. Its provenance is the author's tool-result
+report and checkpoint; the failed harness never reached its lock test. This
+supports lock availability at that later observation, not retroactive passage of
+the failed harness, reconstructed process lineage or a new query execution.
+The narrow actual-query usability evidence is sufficient for this boundary;
+original FAILED and all evidence remain unchanged. No further operation was
+performed for this disposition.

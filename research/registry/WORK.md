@@ -4,6 +4,27 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 after native04 PASS: root adopts assembly04 and owns navigation/Git.
+New project_intake_native owns source/theory-only exact non-Std extraction request
+and quota contract at ORDINARY-PROJECT-INTAKE-NATIVE.md. No source implementation,
+native rebuild or experimental allocation selected for it yet. usable_v5_next
+finishes saved query01 checks and the separately authorized later catalog-lock
+observation; original failed harness remains frozen. module_anchor_audit reviews
+that evidence then challenges the extraction contract. query_native_boundary has
+completed native/recipe work. No runtime is live or passing campaign repeated.
+
+
+2026-10-23 continuation: root owns combined file-only assembly03/selection,
+adoption/navigation/Git. query_native_boundary owns fresh native03 path repair
+and native_check03 only; module_anchor_audit owns compact saved-outcome and
+changed-source review. usable_v5_next owns context-query real-owner harness and
+selector after the 11 pure/inert controls passed. Source-only general-project
+extraction contract is adopted in principle, not yet selected for implementation.
+Native and context-query integration reuse the same owner and MUST run sequentially;
+their disjoint pure/file-only work can run in parallel. No old passing campaign,
+native helper build, certificate, external project or network trial is renewed.
+
+
 2026-10-23 current disjoint work: query_native_boundary authors only a tiny saved-A
 Windows long-path/import discriminator, then resumes library-completion theory;
 root handles exact selections, package integration and Git. module_anchor_audit

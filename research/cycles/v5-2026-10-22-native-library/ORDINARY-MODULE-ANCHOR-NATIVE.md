@@ -244,3 +244,181 @@ Root owns exact prior-failure preservation, fresh file-only assembly/selection
 and any later runtime; the independent reviewer has both successor sources.
 This author performed only source/data reads and the two explicitly assigned
 fresh-file edits. No syntax-success or successful A/B boundary is predeclared.
+
+## Native02 partial result; selected path diagnostic (source only)
+
+Root reports native02 cold A succeeded and registered the exact local anchor
+`08744de1cce786beec313017da1dea24921319a8996737d02a89c3dabc40bc55`.
+Warm B failed before its checking phase while reading an existing parent artifact
+whose unprefixed path is 319 characters. All Jobs closed. This is a failed
+integration with a preserved successful A, not an accepted A/B/consumer result.
+The saved failure, A artifacts, registration and charged operations stay immutable.
+
+Source inspection cannot establish whether Lean's native filesystem and compacted
+region externs accept Windows drive extended-length paths. Root therefore selected
+one source-only discriminator before a product repair. It also covers ordinary
+frontend lookup: fixing explicit `ImportArtifacts` alone would not establish that
+users can import returned module directories through `LEAN_PATH`.
+
+Fresh diagnostic files under `software/v5/ordinary_module_anchor`:
+
+| File | Bytes | SHA-256 |
+|---|---:|---|
+| `LongPathProbe.lean` | 3054 | `bfc77de65e1d875da28b010e8bd657c1f2d8d568daa397b6c769dfc4be9cb82e` |
+| `LongPathConsumer.lean` | 223 | `0cdcce705a679e39425786524486af83e246f9aff57019834321f286d95d1aad` |
+| `long_path_probe.py` | 5336 | `dba7aa027d8e2fe7259f185283b16e76b2622ac9363902ead6403fd47d3d93b1` |
+
+Root-owned invocation, only after independent review and a finite selection:
+
+```text
+D:\Python314\python.exe software/v5/ordinary_module_anchor/long_path_probe.py --output ABSOLUTE_FRESH_REPORT_JSON
+```
+
+The report parent must already exist under canonical
+`experiments/v5-local-checks`; no saved owner is opened. Three sequential fresh
+Lean children run under root's one aggregate supervisor:
+
+1. Compare raw and `\\?\` drive-prefixed `symlinkMetadata` for all five parts;
+   actually import the explicit prefixed five-part module at private level.
+2. Actually import those same prefixed parts at exported level. Cheap metadata
+   observations are included again, not another old-proof check.
+3. Ordinary frontend source imports the actual module using prefixed `LEAN_PATH`
+   and checks `CommonsPackageExample.applyTwice Nat.succ 0 = 2` by `rfl`.
+
+The first two calls disable plugins and extension loading and use only runtime
+fallback plus selected explicit parts. The ordinary frontend processes a locally
+generated and already checked artifact, not peer binaries. No compiled output is
+requested; no A proof is re-encoded/rechecked. The launcher hashes all five exact
+saved A parts before/after, retains exit codes/stdout/stderr, and writes only its
+fresh JSON report. Each child has a 30-second timeout; root's aggregate original
+budget, not these per-child maxima, controls total allowed work. A report is a
+diagnostic record, never an acceptance or module-registration warrant.
+
+This author has not run or compiled the diagnostic. Root and the independent
+reviewer received the exact sources. No product repair, drive mapping, junction,
+system long-path setting, old-output deletion or support-compatibility exception
+is selected by this note. If prefix handling succeeds, the later design must
+distinguish stable reported paths from native filesystem path spelling and cover
+normal consumer imports, not merely warm B's internal artifact reader.
+
+## Probe01 split outcome and two-call syntax successor
+
+Root reports the ordinary frontend call passed: the exact long-directory module
+was found through prefixed `LEAN_PATH` and its transparent definition reduced in
+the `rfl` consumer. This passing consumer is retained and must not be rerun.
+Both explicit modes failed before executing diagnostic IO because the probe's
+local identifier `prefix` is a Lean reserved keyword. These parse failures do
+not resolve the metadata or explicit-import behavior. Probe01 sources/output
+remain frozen; this author takes responsibility for the avoidable syntax error.
+
+Root selected only the remaining two explicit modes with this fresh narrow source
+successor, not a renewed ordinary-consumer test or product repair:
+
+| File | Bytes | SHA-256 |
+|---|---:|---|
+| `LongPathProbe02.lean` | 3062 | `b7ef8a6f55b06eeff77d1097d55f65010282278dacce2cef027fc8e7d7618eb3` |
+| `long_path_probe02.py` | 5211 | `ed328e6f404209602a3e54f77ca567affa56f91e129bbee2d74717a846bd2fc4` |
+
+The Lean diff is exactly the two `prefix` to `pathPrefix` occurrences. The
+launcher changes its descriptive call count, references the successor source,
+and removes the already passed ordinary frontend invocation. CLI and selected
+A bytes are unchanged. A read-only full diff confirms the scope. Additional
+parser-source inspection of every introduced local identifier found only
+`visibility` as an antiquotation category name, not an identifier-reserving
+token. This source check is not compilation or a successful runtime claim.
+
+Root and the independent reviewer have the exact new hashes. Root retains sole
+selection/launch authority under one aggregate finite envelope. This author has
+not compiled or run either probe. If the remaining diagnostic passes, a separate
+product decision must cover native filesystem spelling while preserving original
+request/plan/report paths, plus the already demonstrated consumer `LEAN_PATH`
+normalization; no registry compatibility waiver or global system change follows.
+
+Root subsequently assigned the fresh source-only selector `select_probe02.py`
+(3581 bytes, SHA-256
+`c2570454be2ac97b05070e35698991a7ef317540daa6cf0d7fd1acff5532f14e`).
+Its complete diff from the used selector changes only the name02, launcher/native
+filenames and exact launcher hash, two-call description, and removal of the
+already passed consumer from new source snapshots. It retains the exact runtime
+template and five saved A hashes, plus the original 100-wall/50-CPU-second,
+2048-MiB/four-process aggregate envelope. The source was sent to root/reviewer;
+this author did not execute the selector or launch the diagnostic.
+
+## Probe02 positive outcome; boundary repair and guarded successor
+
+Root reports probe02 completed cleanly in 5.45 wall / 3.90625 known inclusive
+CPU seconds: raw metadata failed for all five saved A parts, extended metadata
+succeeded with exact sizes, and both private/exported explicit imports returned
+`ok` with `expected_definition = true`. Parts remained unchanged. Together
+with probe01's already passed normal consumer, this supports the narrow native
+path-spelling repair; no old proof needs another diagnostic check.
+
+Root selected source-only `OrdinaryModule03.lean` (40614 bytes, SHA-256
+`797365d3c4b631dda78238ced234cbf8eca4212e938a851b3ac5445645fe34f3`):
+a pure Windows drive-path helper is applied only at native metadata, read/write,
+`writeModule`, exact `ImportArtifacts` and runtime search-path calls. Original
+request/plan/report strings and stored `AnchorModule.parts` remain unchanged.
+Lean's own `FilePath.normalize` uppercases lowercase ASCII drive letters and
+normalizes path separators before the prefix is added. No semantic checking,
+visibility rule, decoder, declaration comparison or trust authority changed.
+
+Root's file-only assembly03 includes this native source plus context-bound query
+preparation. Before native03 runtime, source inspection found a path-identity
+issue: extended Win32 paths suppress trimming of trailing dots/spaces in directory
+components. The existing ordinary-path helper does not forbid those spellings.
+Although all exact selected paths are unaffected, blindly adding the prefix to
+arbitrary accepted paths could change which file is read. Root held native03
+runtime and preserved its used assembly/source and unexecuted selection.
+
+The fresh `OrdinaryModule04.lean` changes only the helper/comment: if any normalized
+component ends in a dot or space, return the **original path unchanged**. Otherwise
+perform the same drive-only conversion. This does not introduce new support for
+UNC/device namespaces, reinterpret ambiguous paths or add a new authority API.
+Ambiguous long paths may continue to fail under the old APIs; correctness takes
+precedence over silently selecting different bytes. Normal consumer documentation
+should use this same rule. The selected fixed-path consumer harness is unaffected.
+
+| Fresh source | Bytes | SHA-256 |
+|---|---:|---|
+| `ordinary_module_anchor/OrdinaryModule04.lean` | 40942 | `901e4fc06351f6ad658eba9b5ea23ab644648646c8567fc035b057aa1883cfe8` |
+| `ordinary_module_anchor_package/native_check03.py` | 37053 | `347e62289537358613f21e3bfd27ec80e05e18301813bac7a6753abca6490b0c` |
+| `ordinary_module_anchor_package/native_check04.py` | 37036 | `884c744e3e0e94b54806fd2c58c55a111c15688d5b92c3c1c6deb2910156c8ca` |
+
+Paths in the table are relative to `software/v5/`. Harness04 is the selected
+successor of unexecuted harness03; only its three receipt expectations change:
+base assembly03 profile
+`68fbcb5c5edba0be55e236a561af0fe2a6d1a1df7229e95ca8af75d09d0f4de0`,
+one changed logical payload `module/OrdinaryModule.lean`, and claim
+`ONE_PAYLOAD_NATIVE_PATH_GUARD_NO_NATIVE_OWNER_OR_STATE_OPERATION`.
+It keeps the same five calls and original budgets. Its exact hard-pinned
+20-file sidecar preserves successful old A and all three closed operations;
+the new importer support must differ from old support and realize a fresh A,
+then warm B, ordinary consumer, zero-native reuse and wrong-context refusal.
+This is an explicit changed-boundary check, not a compatibility waiver that
+relabels old A under a different importer. The old reservations remain charged.
+
+No native04 runtime was performed by this author. Root owns assembly04/selector04
+and launch/adoption; the independent reviewer has exact native04/harness04 bytes.
+
+## Reproducible recipe successor (source only; no rebuild)
+
+Root also assigned a fresh recipe rather than modifying old build/map bytes:
+
+| File under `software/v5/ordinary_module_anchor_package` | Bytes | SHA-256 |
+|---|---:|---|
+| `build02.py` | 28241 | `d7bce9995bbce8a20cdd1174fdf3cc867b79e143336088acfec531b4f34eae9b` |
+| `source-map02.json` | 30192 | `3f9707ebacabfc7ecaf0af5ae7adc76c187a95dad6102ea9eb17be02758bcdb1` |
+
+Only direct native/query selections change: native04 above and
+`ordinary_query_context/query.py` (21192 bytes,
+`449b5fea77f4c19cfbde47346ea255ae1277a1cf53e3030a6baa9de3f8659af6`).
+The new map still has 71 selected sources, 54 direct copies and the identical
+47 base inputs. All receiver/authoring/extractor/query compiler lane maps,
+transforms, runtime pins and output counts remain unchanged. Builder changes are
+only its explanatory text, map filename/hash and self filename references;
+there is no new compiled tooling or renewed build allowance. Read-only complete
+diffs confirmed this scope. Root/reviewer received the exact files for review.
+
+The separate general-project extraction contract is
+`ORDINARY-POST-ANCHOR-PAYOFF.md`; it remains theory/source planning, not
+authorization to implement a second branch while this boundary is being adopted.

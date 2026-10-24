@@ -104,14 +104,24 @@ its two successful compilations were not repeated. The
 reuses the existing search, owner and generated checker support. No new
 certificate campaign, resident checker or broad benchmark is selected.
 
-The next central design decision is [incremental ordinary module export](research/cycles/v5-2026-10-22-native-library/ORDINARY-POST-INTEGRATION-PRIORITY.md).
-Current export still recollects the full selected nonbasis proof closure and
-caps it at32units/4MiB. A registered, locally checked modern-module boundary is
-sound in principle under the [independent challenge](research/cycles/v5-2026-10-22-native-library/ORDINARY-MODULE-ANCHOR-CHALLENGE.md);
-its precise implementation contract is being settled. It must preserve exact
-whole-unit identity, private/public checking and protected artifact authority.
-Peer binaries or copied manifests do not qualify. This is not implemented yet,
-and residual context loading/integrity costs will remain.
+The [incremental ordinary module export](software/v5/ordinary_module_anchor_package/README.md)
+is now implemented with an independently audited five-call integration.
+Registered locally checked modules stop proof recollection at an exact whole-unit
+boundary; the32unit/4MiB bound applies to the new delta. Native04 successfully
+checked a new theorem over a registered definition, passed private/public fresh
+rereads, and supported an ordinary Lean consumer. Repeated reuse made no native
+call; incompatible-context reuse refused. Peer binaries or copied manifests do
+not establish authority. Context loading/integrity costs remain, and old support
+versions are not silently migrated. The package also has a context-bound query
+adapter eliminating manual symbol-ID entry; its actual successful public output
+has separate saved review from the retained process-count harness failure.
+
+The next selected source/theory seam is [approved-project missing-proof extraction](research/cycles/v5-2026-10-22-native-library/ORDINARY-POST-ANCHOR-PAYOFF.md),
+reusing the existing completion planner and receiver, not a new proof engine.
+It must preserve exact candidate/parent identities and bound extraction to the
+remaining public capacity before spending work. General project compatibility,
+large cold closures and installed definition/group collisions are distinct
+remaining issues; adding a project path alone does not solve them.
 
 These results do not establish independently hosted operation, broad workload
 benefit or a final deployable v5. Cold loading still depends on the selected local

@@ -1,5 +1,118 @@
 # Current research desk
 
+**2026-10-24 resumed after interruption, prior turn was progress:** native04
+completed its audited five-call integration, context-query public command
+succeeded, and separate saved checks established exact outputs/preservation.
+Root read the appended query checkpoint: original harness stays FAILED; later
+catalog-lock acquisition/release was a separate zero-write observation, not
+retroactive evidence or a query rerun. Current package/recipe remain assembly04/
+build02. Prior command handles are terminal; no experiment is live. Resume only
+project-intake exact contract and independent challenge, not earlier campaigns.
+Root commits the coherent module/query source checkpoint before new code work.
+
+
+**2026-10-23 incremental-module candidate adopted; next thin seam selected:**
+root read independent native04 PASS and recipe02 source-map audit in
+ORDINARY-MODULE-ANCHOR-SOURCE-REVIEW.md (420f8d26). Current development package is
+assembly04/profileb0802fbe, recipe ordinary_module_anchor_package/build02.py.
+The query01 actual command succeeded with exact saved bindings/query/specs;
+the enclosing run remains FAILED at an unjustified cumulative process-count
+assertion (observed2). Independent saved checks pass159pins/4snapshots/463prior
+files; separate later lock observation is authorized, no query rerun. Native04
+is unaffected. No runtime lives. Fresh project_intake_native owns exact request/
+quota contract for approved non-Std extraction before any implementation; shared
+exporter/receiver and old evidence remain unchanged. Full v5 remains unfinished.
+
+
+**2026-10-23 native04 raw PASS; context-query integration selected:** all five
+native04 calls completed,467 immutable files recorded, clean closure. Cold A and
+warm delta B registered under new support; ordinary consumer/reopen/refusal pass.
+Whole outer50.893139wall/44.359375known inclusiveCPU, independent outcome pending.
+Root read full query harness c51ef8c5/selector c3a73956 and independent clearance.
+Select 9e98495421047955361ad37b506bf18504d97e12e28f2ce86c409e42ce9e2516,
+one actual context-bound query using saved four-reference type, package04; outer
+120wall/60CPU/768MiB/three processes,inner90/45/512. Existing owner operations
+are now closed. No native compilation/search/admission or manual-query rerun.
+Recipe02/map02 independently map exact source replacements without a rebuild.
+
+
+**2026-10-23 native04 integration selected:** independent assembly04 audit passes
+all177 runtime pins/seven snapshots and134payload map (133 unchanged), profile
+b0802fbe33b08bbf57e8050a18e96c2b1d277a75ba53192e51b487d34a3682a9.
+Root read/adopts native04 and harness04 deltas. Select
+7d096463f80b3d9d7a8449607e32aab6783c552393ad35cbfe0190b1dfcdb13a,
+270wall/165CPU/2048MiB/eight processes outer,240wall/140CPU/1536MiB inner.
+Five calls: new-support cold A, warm delta B, ordinary consumer, zero-native
+all-anchored reuse, wrong-context refusal. Preserve old A/all3 closed operations
+and every prior immutable file; no support migration, admission or helper build.
+Context-query integration waits for this shared-owner operation to close.
+
+
+**2026-10-23 guarded assembly04 selected:** root and independent reviewer read
+native04 901e4fc0, retaining original spelling for dot/space-ended components;
+all other native03 behavior is unchanged. Assembler33de844f/selector4305d73d
+are source-cleared. Select e0f0a56078aca3e34606abf6f6cb469f84a018d8c47004611d76e1f69f64b9e3,
+90wall/50CPU/512MiB/two processes, only native payload changes from assembly03.
+Query remains449b5fea; 133 payloads unchanged. No new compiler or owner operation.
+Harness04 is source-cleared for the existing five-call gate; its runtime awaits
+saved assembly audit. Native03 selection remains unexecuted and superseded.
+
+
+**2026-10-23 native03 held before execution:** assembly03 independently passes
+(profile68fbcb5c, receiptbc482b09; 132 unchanged payloads). Its native selection
+c7adf47b exists but has NOT run. Author found raw/extended Win32 path spelling
+is not equivalent for dot/space-ended components. Current test paths are ordinary,
+but a cheap native04 guard is selected before the first new-support realization,
+avoiding predictable additional kernel work. Preserve assembly03 and unexecuted
+selection; root prepares one-payload assembly04; author native04/harness04;
+reviewer audits guard, not another passing diagnostic campaign. Query adapter
+is unchanged and will share package04. No runtime is currently live.
+
+
+**2026-10-23 combined assembly03 selected:** probe02 and context controls now
+independently pass their narrow saved-outcome audits. Native03 797365d3 and
+assembler ba863833 are source-cleared; root reviewed selector 0d686ad4. Select
+55a4e310e20620257eb7fd92e0a29f7952d3d4be4f53e366ee322875c8147803,
+90wall/50CPU/512MiB/two processes: 134 payloads, 132 unchanged, only native path
+normalization and query.py replaced. No compilation/owner operation. Native03
+and query real-owner integration remain separate pending selections, sequential
+because they share the retained catalog. Old sources/state/failures preserved.
+
+
+**2026-10-23 context-query controls selected; path discriminator resolved:**
+probe02 confirms both private/public explicit imports and all five extended-path
+metadata reads, with unchanged saved artifacts and clean closure. Native03 is
+selected for source-only boundary normalization; report strings/support authority
+remain exact, and its new support will require one fresh cold anchor realization.
+Root read controls bd253397 and selector 801f45e1, independent controls clearance
+received. Select 659536f40e9e7eaabeb9cfae474ca0ec73208a1df26e60b215ef622443043642,
+11 pure/inert groups under 60wall/35CPU/512MiB/two processes. No actual owner,
+Lean or network. One coherent file-only successor will combine query.py and
+native03, leaving owner/profile/core helpers unchanged. No build is repeated.
+
+
+**2026-10-23 narrow path discriminator02 selected:** root read corrected probe
+b7ef8a6f, launcher ed328e6f and selector c2570454; independent probe/launcher
+clearance received. Selection b6dedecb32fe4a329bbac3fd92123997aac952a2b961c01f2609ead163045b14
+runs only two unresolved explicit private/public imports, same saved A parts,
+100wall/50CPU/2048MiB/four processes. The passing ordinary consumer from probe01
+is not repeated. No owner opening, native acceptance, output module or authority
+migration. Context-query controls are separately source-cleared (11 groups),
+not yet selected. No user Lean project is available; continue existing adapters.
+
+
+**2026-10-23 saved-artifact path discriminator selected:** root read all three
+source files and selector4a213a55; independent clearance received. Select
+8d0b2d469984f3ee63c14af24510538635f88b1dacca1be72d296d104f1612d5,
+ordinary-module-anchor-long-path01,100wall/50CPU/2048MiB/four processes. Three
+fresh Lean children compare raw/extended metadata, extended private/public imports
+and ordinary frontend extended LEAN_PATH use of already registered A. Exact five
+artifact parts pinned before/after. No owner opening, native acceptance, module
+output, support migration or prior proof replay. Diagnostic import result fields,
+not launcher exit alone, determine outcome. Source checkpoint is Git aec5c61;
+query.py-only adapter449b5fea is separately source-reviewed, controls not run.
+
+
 **2026-10-23 native02 partial success; practical follow-on source selected:** cold
 A passed private/public checks and registered08744de1; warm B failed reading an
 existing319-character owned artifact path. All jobs closed; no B registration.
