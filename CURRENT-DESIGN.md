@@ -4,6 +4,16 @@ Updated: 2026-10-24. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
+**Lifetime decision (2026-10-24):** the completed
+[comparison](research/cycles/v5-2026-10-24-growth-selection/GROWTH-LIFETIME-DECISION.md)
+selects existing batching and deliberately smaller eligible contexts, with real
+selected re-admission costs. No resident session or projected receiver context
+is implemented or commissioned. These can remove irrelevant local history under
+a bounded-context premise; they do not solve arbitrary cold proof ancestry or
+guarantee that every useful closure fits. A new mechanism requires a concrete
+workflow that beats this existing baseline. The next priority is growth value,
+not further packaging or automatic checker optimization.
+
 **Growth decision after source-build closure (2026-10-24):** the generic method
 interchange route already has retained evidence; no method schema, LP deployment
 or repeated composition experiment is needed. The [release thesis](research/cycles/v5-2026-10-24-growth-selection/GROWTH-RELEASE-THESIS.md)

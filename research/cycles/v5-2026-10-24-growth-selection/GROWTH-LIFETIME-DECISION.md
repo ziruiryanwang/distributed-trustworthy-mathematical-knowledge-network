@@ -2,6 +2,48 @@
 
 2026-10-24. Root synthesis and bounded source/theory selection. No runtime selected.
 
+## Adopted outcome: use the existing small-context route first
+
+Root read both complete LIFETIME-SESSION-FEASIBILITY and
+LIFETIME-VIEW-FEASIBILITY notes. The at-hand comparison is CLOSED. Neither
+candidate is selected for implementation. An atomic-final-commit session
+duplicates existing batches; live incremental commits introduce a new
+acceptance-critical event rule and retain growing stage-two scans. Exact local
+projections require protected root-scoped lookup and new restoration/persistence
+rules. Interface-only projections additionally change the checking relation;
+proof irrelevance alone does not establish native conversion preservation.
+
+The current route is ordinary approved-project authoring, bounded multi-unit
+admission, and explicitly selected smaller eligible parents when unrelated
+history makes an existing branch expensive. For a known complete retained
+dependency bundle, `ordinary_native_package/owner.py` already forwards
+`--parent-root` to `ordinary_baseline/baseline_intake.py`; that intake checks
+bounded batches above the selected eligible parent. It does not inherit truth
+from another branch's success flag. Re-admission pays real selected proof costs.
+An arbitrary minimal-closure collector is not implied or commissioned.
+
+For a finite history partitioned into chosen contexts j, charge setup/re-admission
+as A_j, per-call restoration/metadata as L(K_jt), and all other work as W_jt.
+The total is sum_j A_j + sum_j,t [L(K_jt) + W_jt]. If every selected context has
+size at most B and there are n calls, the restoration term is at most n Lmax(B),
+where Lmax is an actual bound for the implementation/profile, not an inferred
+constant-time Lean import. This removes dependence on *unrelated* local history
+only under the stated bounded-context premise. It does not show that arbitrary
+mathematics admits such a partition, bound cross-context transfer for free, or
+eliminate proof-only ancestry. Repeated bases, retention and failures stay charged.
+
+Reopen a session only for a concrete history needing intermediate durable
+admissions that existing batching/smaller contexts cannot serve economically.
+Reopen projection only when an eligible exact closed subset fits and its
+construction/maintenance can beat selected re-admission. Neither trigger is
+presently evidenced. No scaling run, daemon, projection or proof-erasure campaign
+is warranted. This decision closes an architectural choice, not the entire
+lifetime-scale or growth requirement.
+
+The next growth work must challenge the product's value and default workflow,
+not automatically implement the next possible optimization. Full v5 remains
+active; existing used sources, state and evidence remain unchanged.
+
 ## What closed, and why the next task changes
 
 Root read/adopts SUPPORTED-METHOD-PATH's actual native-src01 audit: clean-source

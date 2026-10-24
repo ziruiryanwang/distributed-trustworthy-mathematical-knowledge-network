@@ -4,6 +4,17 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 GROWTH-VALUE-DECISION source/theory selection:
+growth_value_challenge owns only growth-selection/GROWTH-VALUE-CHALLENGE.md;
+growth_hint_route owns only growth-selection/GROWTH-HINT-ROUTE.md. Root owns
+synthesis/current-source checks/navigation/Git. No product changes, store opens,
+runtime, broad survey or repeated examples. Both assignments must yield a decision.
+
+2026-10-24 both lifetime assignments CLOSED/read/adopted by root in
+GROWTH-LIFETIME-DECISION. No code or runtime selected. Existing batching and
+smaller-parent selected re-admission are the current route, with their full costs
+and ancestry limits. Root owns the next growth-value selection and Git.
+
 2026-10-24 native-src01 outcome and both growth decision assignments CLOSED/read.
 New source-only lifetime comparison under GROWTH-LIFETIME-DECISION:
 growth_release_thesis owns LIFETIME-SESSION-FEASIBILITY.md;

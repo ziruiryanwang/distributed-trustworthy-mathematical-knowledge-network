@@ -1,5 +1,21 @@
 # Current research desk
 
+**2026-10-24 growth-value selection active, source/theory only:** two disjoint
+reviews under GROWTH-VALUE-DECISION challenge the practical product/comparator and
+the optional local-replay guidance alternative. Reuse existing capability/cost
+theory; no new essay, metric, method schema or experiment is commissioned merely
+to strengthen rhetoric. Root will select a concrete surviving workflow gap or
+reject further growth-component construction. Full v5 remains active.
+
+**2026-10-24 lifetime comparison CLOSED; growth-value investigation next:** root
+read/adopts both complete lifetime notes. Use existing batches and explicitly
+selected smaller eligible contexts with real re-admission costs. No session,
+projection, proof erasure or repeated scaling experiment is selected. Neither
+alternative yet beats that baseline on a concrete supported history. The next
+decision concerns useful-growth mechanisms and the real product's value, not
+automatic optimization of the current architecture. Full v5 remains ACTIVE;
+all prior used sources/state/evidence stay unchanged.
+
 **2026-10-24 source-build work CLOSED; growth lifetime decision selected:** root
 read/adopts native-src01 actual PASS:141payloads,99.47wall/62.52observedCPU,
 all pins and closure checked. No runtime remains. Both growth decision notes
