@@ -1,5 +1,170 @@
 # Current research desk
 
+**2026-10-24 growth-first audit checkpoint complete, goal still active:** four
+disjoint agent contributions and root primary-source checks are synthesized in
+GROWTH-FIRST-ARCHITECTURE-DECISION. GROWTH-CASE-SELECTION rejects two premature
+campaigns: CvxLean has no established extra adoption margin; the exact inspected
+Lean-MLIR refinement wrapper uses an unpermitted axiom (not a whole-library
+judgment). Keep ordinary Lean/package interchange, exact witness identities,
+optional proof compression and replaceable providers. No library port, automatic
+bridge synthesis or new network primitive is justified by those cases. All
+agents' current assignments are complete; no experiment is live. Next central
+work is operable ordinary adoption with source02, selecting only a justified
+continuation that preserves actual accepted state and does not fabricate live
+authority, followed by a concrete surviving consumer-use friction. This is not
+a pause, a blocked goal or a final-v5 claim; no runtime is selected by this note.
+
+**2026-10-24 source repair reviewed; growth case selection remains primary:**
+root read/adopts independent SOURCE-CLEAR for reference_store02 bc15b9dd and
+public_workflow02 8193ae50. Final AST-only parsing passes. Exact bounded
+command.json recognition, coupled delta metadata reservation23->24MiB, and
+clean-exit classification are the only changes. Predecessor sources/state and
+failed workflow stay frozen. These are source successors, not an installed or
+executed continuation; no successful prefix is repeated. Growth synthesis and
+independent challenges support ordinary interchange/method-plus-bridge direction,
+not measured positive growth. Fresh growth_case_selection examines substantive
+existing workflows and may reject them; no API/model-training/benchmark campaign.
+
+**2026-10-24 growth architecture selected, no new campaign:** root synthesis at
+GROWTH-FIRST-ARCHITECTURE-DECISION selects checked interchange atop ordinary Lean
+and repositories, with methods plus checked applicability bridges as the primary
+growth hypothesis. Compare against equally searchable/timely ordinary sharing;
+no intrinsic bespoke-network advantage is presumed. No identity migration,
+automatic generalization, certificate factory or benchmark is selected. Retain
+exact evidence IDs. Root adopts the independent workflow01 failure audit.
+For its deterministic remaining defect only, select fresh source successors
+reference_store02.py and public_workflow02.py: exact predecessor copies plus
+bounded supervisor command.json handling and accurate failure classification.
+No installation/state edit, saved-report adoption, native build or runtime.
+Fresh growth-case selection must identify a substantive remaining friction before
+any further architecture expansion. Full deployable v5 remains active/incomplete.
+
+**2026-10-24 public workflow closed FAILED; growth-first decision now:** actual
+workflow01 completed in120.105wall/77.703125knownCPU seconds with clean process
+closure. Init checked456 basis units; intake checked six library units. Live
+original correspondence matched6private/5public units and522 usable basis names,
+but protected commit refused `REFERENCE_OPERATION_FILE`: the store's strict
+operation census omits the supervisor's actual `supervision/command.json`.
+No reference record was committed and no A/B authoring, delta or negative call
+ran. Preserve both accepted roots, unregistered snapshot and all failed evidence;
+do not repeat the successful copy/check prefix. Independent saved audit is being
+finalized. Root closes this bounded attempt without promoting it to integration
+success. Before any new runtime, prioritize the causal growth/architecture
+decision in this cycle's PRACTICAL-NEXT-DECISION and GROWTH-COMPARATOR-CHALLENGE.
+No certificate campaign, broad experiment or automatic network expansion.
+
+**2026-10-24 bounded actual public reuse workflow selected:** root read and
+independent review clear workflow32b331c8/selector a345b30a, including all used
+saved-helper methods and exact native sorry guard. Adopt package167-file census
+PASS,PROFILE2d965cb6/ASSEMBLYae7ff57a. Select ordinary-reference-public-workflow-01:
+eight public calls (init, six-unit intake, live original registration, source A,
+new-only delta A, source B, compiled-sorry refusal, exact four-root status).
+A proves flip_apply/involution; B derives injectivity/high_fiber using A and
+original notation. One540wall/420CPU parent, outer600wall/480CPU/1792MiB/eight
+processes, selected child1536MiB. No fixture recompile, old matcher campaign,
+test snapshot copy, synthetic warrant or network. Reference registration makes
+its own one final-path protected snapshot. If any step fails, retain its event,
+accepted state and outputs; no automatic retry or budget renewal. Used sources
+freeze on launch. After this at-hand task, growth justification has priority.
+
+**2026-10-24 file-only reference package selected:** root read and independent
+review clear assemblerc4628e67 (finite-float diagnostic parser, strict policy
+parser unchanged), selector92554210 and exact20-source mape0a3a239. Adopt actual
+Source continuation f35a2fd9/90f9f8d2/8c81e10c and explicitly retained failed01
+Environment. Select ordinary-reference-assembly-01 only:90wall/50aggregateCPU/
+512MiB/two processes,165 payloads/137 profile files, preserving132 old files.
+No compiler, owner, registration or admission. Source02 is shipped as logical
+ReferenceSource.lean; its validation-only .olean is not installed. Eight-call
+real-owner workflow (six positive, one compiled-sorry refusal, one state check)
+remains source-only until separate review. After this at-hand integration,
+growth-first architecture investigation is the next priority, not more packaging.
+
+**2026-10-24 user steering: growth justification next, architecture open:** finish
+the selected ordinary-reference integration at hand; do not commission a further
+network/packaging campaign by momentum. Then prioritize creative, reasonable
+growth mechanisms and whole-cost comparisons with equally strong local-library
+agents. Native author now owns source/theory PRACTICAL-NEXT-DECISION; cold finishes
+the bounded public workflow; reviewer handles changed-source/actual checks then
+growth challenge. Source continuation01 is independently adopted PASS:4.0165953
+wall/3.59375knownCPU,BUILDf35a2fd9/RESULT90f9f8d2/selection8c81e10c. Assembly is
+not launched: review found a finite-float receipt parsing mismatch in its unused
+adapter; repair it without changing the mathematical/package profile parser.
+No certificate campaign, broad benchmark or optional polish is selected.
+
+**2026-10-24 one-command extractor continuation selected:** independent audit
+and root read clear Source02 79a13b52 (only record-layout repair), builder9063669b
+and selector8c198819. Select ordinary-reference-source-continuation-01 at90wall/
+60aggregateCPU/1536MiB/four processes,32MiB cooperative spool. Reuse retained
+Environment a082feb7 and eleven earlier helpers in place; exactly one compiler
+command, no native main, owner or acceptance. Failed01 remains failed, its
+successful prefix is explicitly bound rather than assigned a fabricated receipt.
+Next actual integration stays held for final package/workflow clearance.
+
+**2026-10-24 source-build01 failed at new extractor syntax; retain good helper:**
+The actual two-command build completed cleanly at process level but failed its
+second compiler call: ReferenceSource.lean23:38 nested structure layout. Shared
+ReferenceEnvironment compiled successfully and must not be rebuilt. Result is
+COMMAND_FAILED,12.3216304wall/8.515625Job+1.421875wrapperCPU,640319488 peak bytes.
+Root's first invocation was refused before output creation for a relative
+selection path; absolute invocation ran exactly once. Source01 and its evidence
+stay frozen/failed. Select source-only Source02 and one-command continuation
+reusing actual Environment/support11. Native author owns repair, cold updates
+unused assembly provenance while preparing the six-call real-owner workflow,
+reviewer checks changed boundary and actual partial-success interpretation.
+Controller5029cd2a/owner e5ba6e86 source review passes; no owner execution yet.
+
+**2026-10-24 ordinary-source compile selected; no owner execution yet:** root
+read native Source810d6245, Environmenta5aee6d1 derivative, worker8633631b,
+builder7287ddd5 and selector672e93f1; independent reviewer clears this bounded
+scope. Select ordinary-reference-source-build-01: exactly two compiler-only
+commands, retained eleven helpers in place,150wall/90aggregateCPU/1536MiB/four
+processes,64MiB cooperative fresh spool. No main, library import, source authoring,
+snapshot copy, registration or admission is launched. Used bytes freeze on launch.
+Root repaired controller setup16MiB/accounting-error preservation/uncertain-commit
+reporting and wired contribute-reference into fresh owner; independent source
+review continues. Cold prepares one real-owner reciprocal workflow, not another
+correspondence diagnostic. No external project is available. Full v5 is active.
+
+**2026-10-24 native qualification adopted; public workflow source continues:**
+Independent saved-output audit passes module-build-01 (one compiler command,
+55.4865745 outerwall,16.984375 knownCPU,651235328 peak private bytes), with
+52 input pins,11 retained helpers,five source snapshots and exact3,348,496-byte
+output. RESULTd7075a3b/BUILDdd51cef6/oleanac7cb316; no native main/owner/delta
+was run. Root selects source-only ordinary_reference_package owner/profile/
+assembler wiring from preview01. Root owner adds explicit intake-baseline,
+register-reference and export-reference-delta; cold owns profile/assembly with
+separate exact reference/helpers because legacy shared oleans differ from
+ordinary authoring helpers. Never mix duplicate native module names. Native
+author owns setup-aware source compiler worker and external boundary exporter;
+root owns candidate-bind/admit controller. Lean --setup importArts consumes
+protected snapshot directly; no new original-library copy/rebuild. Normal
+notation survives originals; portable proof deltas do not preserve arbitrary
+new executable extension metadata. Full v5 remains unfinished.
+
+**2026-10-24 one-command native qualification selected:** root read full native
+source6660c657, builder535bbaa8 and selectorcd1e52fa; independent review clears
+the exact compile-only scope. Select ordinary-reference-module-build-01,
+120wall/60aggregateCPU/1536MiB/four processes,104MiB cooperative inner spool.
+Reuse eleven existing helper parts; emit only ReferenceModule.olean. No --run,
+reference registration, owner operation, library recompile or snapshot recopy.
+Used build/native bytes freeze on launch. Generated-store/controller source
+reviews pass under protected-owner premises, not runtime qualification.
+
+**2026-10-24 protected reuse integration continues, no repeated diagnostics:**
+User confirms no external Lean project is available. Root completed fresh
+reference_closure.py and reference_module.py source drafts against the selected
+store APIs. Closed usable basis and public whole-unit frontier cut old proofs;
+hidden original names cannot reenter as new declarations. Budget starts before
+preparation, and native logs are capped at1MiB to match retained-store accounting.
+Independent reviewer clears original registration and native/worker source under
+their protected-owner premises; generated lifecycle/controller review remains.
+Cold implements generated-delta reserve/bind/commit/load; native author prepares
+one-command source qualification using eleven retained helper parts, not a new
+executable/codegen campaign. Original snapshot uses an explicit artifact map,
+not a falsely advertised LEAN_PATH directory. No new runtime yet selected.
+Practical next discriminator remains actual admission/register/author/reuse;
+full v5, meaningful growth and public deployment remain unfinished.
+
 **2026-10-24 correspondence adopted; protected integration source selected:**
 root adopts independent saved11-case audit (two actual native calls,207 selected
 pins/nine source snapshots, exact6private/5public units,522usable basis). The

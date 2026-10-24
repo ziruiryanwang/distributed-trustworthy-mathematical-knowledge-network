@@ -4,6 +4,58 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 current assignments CLOSED: cold's bounded source02 repair and recipe
+challenge, native author's circulation analysis, reference reviewer's independent
+growth/actual/source audits, and fresh growth_case_selection's two primary-source
+cases are complete and root-read. No runtime remains. Root owns next selection
+under GROWTH-FIRST-ARCHITECTURE-DECISION; do not resume an old campaign or continue
+an agent's historical assignment automatically. Final deployable v5 is active,
+unfinished; source02 is reviewed but not integrated or run.
+
+2026-10-24 after growth synthesis: cold_intake_strategy receives source-only
+reference_store02.py/public_workflow02.py successors and a concise selection/diff
+checkpoint under this cycle; no packaging/runtime. Root owns integration decision
+and Git. A fresh growth-case selector will investigate concrete substantive
+method/bridge workflows against existing Lean/package alternatives; independent
+reference_soundness_audit challenges root synthesis and the narrow source repair.
+No used predecessor source or evidence may change.
+
+2026-10-24 growth-first transition after failed workflow01: root owns integrated
+growth architecture decision and primary-literature cross-check, plus any later
+explicit narrow source selection. project_intake_native owns the existing
+PRACTICAL-NEXT-DECISION circulation/complementarity analysis; cold_intake_strategy
+owns GROWTH-COMPARATOR-CHALLENGE and optional checked-application recipe critique;
+reference_soundness_audit finishes saved workflow outcome then independently
+challenges growth/identity in GROWTH-ARCHITECTURE-CHALLENGE. All checkpoints are
+under research/cycles/v5-2026-10-22-native-library at the canonical root. No new
+runtime or duplicate package/checking campaign is selected. The whole goal stays
+active and incomplete; the failed integration is not a new release.
+
+2026-10-24 ordinary-source integration: root owns reference_authoring.py and
+public owner.py, bounded compile selection and adoption. Native author's
+Environment/Source/worker and two-command build adapters are source-cleared and
+freeze when used. Cold owns package profile/assembly and the upcoming minimal
+actual-owner reciprocal workflow adapter; no launches by agents. Reviewer owns
+cross-file authoring/package source and saved build-outcome audit. Do not repeat
+the completed matcher, snapshot or module-build diagnostics.
+
+2026-10-24 after one-command build: root owns ordinary_reference_package/owner.py
+and new reference_authoring.py controller; cold_intake_strategy owns fresh
+ordinary_reference_package profile.py/assemble.py/select_assembly.py. Native
+author owns ReferenceEnvironment.lean (exact reviewed prefix derivative without
+main), ReferenceSource.lean and reference_author_worker.py. Reviewer audits
+changed seams only. One completed module build passes saved audit; no repeat.
+All ordinary-reference actual-owner execution awaits integrated source clearance.
+
+2026-10-24 next source increment: cold_intake_strategy owns generated-delta
+reserve/bind/private commit/load within reference_store.py; project_intake_native
+owns one-command build_reference_module.py/select_reference_module_build.py,
+reusing eleven retained helper parts. Root owns new reference_closure.py and
+reference_module.py plus eventual profile/public integration. Reviewer owns
+their cross-file trust review; original registration and native/worker source
+are separately cleared. No experiment, duplicate original snapshot or certificate
+campaign selected. Checkpoints stay under v5-2026-10-22-native-library.
+
 2026-10-24 repaired boundary adopted: fresh ordinary_reference source selected
 under PUBLIC-VIEW-REPAIR concrete API. cold_intake_strategy owns reference_store.py
 and protected_metadata.py; project_intake_native owns ReferenceModule.lean and

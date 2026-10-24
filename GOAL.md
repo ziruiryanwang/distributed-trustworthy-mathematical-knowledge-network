@@ -1,5 +1,16 @@
 # Goal: a usable mathematical commons architecture and software
 
+**2026-10-24 growth-first steering after the current integration:** finish the
+bounded ordinary-reference workflow already in progress, then prioritize creative
+but reasonable justifications for software-enabled mathematical growth. Those
+arguments may require architectural changes and invalidate sunk implementation
+work. Compare against equally capable, optimized local libraries; account for
+discovery, failed search, checking, curation and service costs. Distinguish useful
+capability growth from theorem counts, representation savings or guaranteed
+exponential novelty. Balance time and cost; choose the highest expected marginal
+payoff. Do not automatically extend the current architecture merely because its
+next implementation step is available. The full v5 goal remains unchanged.
+
 **2026-10-22 reality-led working rule, explicitly reaffirmed by the user:**
 Judge architecture and engineering choices by what actual people and agents
 will do, and by their expected contribution to a useful deployable commons.
