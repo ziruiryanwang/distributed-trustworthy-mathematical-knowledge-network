@@ -1,0 +1,15 @@
+{
+  "status": "source-only; not installed or compiled",
+  "lean_toolchain": "leanprover/lean4:v4.33.1",
+  "lean_commit": "819816b2e0a3bf405af45ae5c7af2491d8f5bee6",
+  "module": "FileBackend",
+  "imports": ["LPTactic.Registry", "LPBackendSoplexJSON.Contract"],
+  "packages": [
+    {"name": "LPCore", "repository": "https://github.com/leanprover/lp-core", "revision": "8b6d241bc84e54357aa6628f1b18ff795d53de7e"},
+    {"name": "LPVerify", "repository": "https://github.com/leanprover/lp-verify", "revision": "1131b0a11c683d4833cd735c83157a32952ad3aa"},
+    {"name": "LPTactic", "repository": "https://github.com/leanprover/lp-tactic", "revision": "86634295a1fa2b45110a680215e208b16f40cd33"},
+    {"name": "LPBackendSoplexJSON", "repository": "https://github.com/leanprover/lp-backend-soplex-json", "revision": "ce953f3b926815ebda5d65f88f1a06e9578abdc8"}
+  ],
+  "forbidden_runtime_imports": ["LPBackendSoplexJSON.Backend", "LP"],
+  "notes": "Inert dependency declaration, not a Lake lock, installer or download authorization. LPVerify is the pinned LPTactic dependency for subsequent proof assembly. Import LPTactic explicitly in the approved caller; do not import solver-bearing LP meta-packages. Retained project runtime 4.34.0 is not qualified for these pins."
+}

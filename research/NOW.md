@@ -1,5 +1,44 @@
 # Current research desk
 
+**2026-10-24 source and growth-method reviews CLOSED, root read/adopted:** the
+small optional offline adapter passes source review, not compilation or
+installed compatibility. Fresh GROWTH-METHOD-CHALLENGE validates the b,c-parametric
+proof and nondegenerate example; the positive-dimension cost scope is corrected.
+The growth-bearing unit is a usable proved procedure/domain, not exact replay or
+the method type alone. Ordinary named Lean declarations remain primary; no new
+schema or LP-specific protocol. The dependency-footprint follow-up is closed with
+unknowns explicit. No runtime, installation, port or campaign is selected. Root's
+next decision is one supported changing-input method/application/return seam,
+using existing APIs/evidence and coding only a surviving concrete obstruction.
+All agent assignments in this increment are closed. Full v5 stays ACTIVE.
+
+**2026-10-24 constructive growth revision and bounded source implementation:** root read/adopts
+GROWTH-CONSTRUCTIVE-MODEL, GROWTH-OPPORTUNITY-CHOICE and GROWTH-CLAIMS-CHALLENGE.
+Optional consumer-native mathematical witnesses can avoid importing a solver's
+history; LP dual/basis certificates yield proved parameter regions rather than
+only answer caches. Independent theory review passes. The finite source follow-up
+found existing solver-free kernel proof construction and a public backend/codec
+seam. Root selects only ordinary_witness_backend/CONTRACT.md's small bounded
+offline callback source, with disjoint author/reviewer. Existing LP tools are not
+installed support. No service, toolchain migration, dependency install or test.
+Full v5 remains active; general cold-ancestry/deployment obligations remain open.
+
+**2026-10-24 growth-first continuation, no runtime:** root read/adopts the complete
+pre-export source findings and closes that investigation. Reuse Loogle/existing
+clients; do not yet build bounded plural transport without a concrete useful
+corpus/workflow gap. Three disjoint growth assignments now test a constructive
+capability model, real-workflow choice and an independent evidence challenge under
+growth-selection/PREEXPORT-SELECTION. Root owns synthesis and consequential
+software selection. No new checker, protocol, build or test is selected. Full v5
+remains active; all used sources/state/evidence stay preserved.
+
+**2026-10-24 continuation: pre-export discovery decision active.** Previous turn
+made committed/verified progress, no live runtime. Root selects a bounded actual-
+tool/source comparison under growth-selection/PREEXPORT-SELECTION: unfamiliar
+ordinary-package/adapter discovery before expensive materialization, advisory
+results separated from exact acceptance. Two disjoint agents own upstream tool
+interfaces and current product seam. No new protocol, code, build or test yet.
+
 **2026-10-24 native-first package check CLOSED PASS; growth remains central:**
 one ordinary-native-assembly-01 run passed exact wrong-map refusal, 141-payload
 assembly and real111-role support load, clean7.1383519wall/3.9375knownCPU.

@@ -4,6 +4,24 @@ Updated: 2026-10-24. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
+**Growth-led revision, with optional source reviewed (2026-10-24):** keep the ordinary
+library plane, but do not require every useful answer to arrive with the
+producer's solver/library history. The [growth revision](research/cycles/v5-2026-10-24-growth-selection/GROWTH-DESIGN-REVISION.md)
+adds an optional consumer-native witness route: a locally warranted verifier or
+proof constructor turns inert evidence into an actual Lean theorem. A checked LP
+dual/basis can support a parametric bound or optimizer region, not merely a cached
+numerical answer. Existing upstream proof tools are the first implementation
+choice. This route is not yet integrated, and its already-warranted verifier
+premise does not resolve arbitrary cold proof-ancestry checking. A small offline
+backend passes source review only; no dependency installation or build is selected.
+The independently challenged growth-bearing unit is a proved procedure with an
+explicit applicability domain, carried by ordinary named Lean declarations. The
+LP example supports changing bounds and objectives; exact-response replay does
+not implement that parametric reuse. No LP-specific protocol or new method schema
+is justified. Select the supported application/return seam before more engineering.
+The completed [pre-export review](research/cycles/v5-2026-10-24-growth-selection/PREEXPORT-SELECTION.md)
+defers a new plural HTTP client; existing Loogle clients remain available.
+
 **Latest direction: an ordinary checked-library commons, with certificates optional.** The
 [whole-protocol audit](research/cycles/v5-2026-10-22-architecture-reaudit/ARCHITECTURE-REAUDIT.md)
 recommends a persistent independently checked ordinary Lean library as the usable

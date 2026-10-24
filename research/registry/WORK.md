@@ -4,6 +4,41 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 growth-method increment CLOSED, root read/adopted: source author and
+independent source reviewer complete; fresh growth_method_challenge's theory
+verdict complete and read. Root closed the optional dependency-footprint task
+with unresolved footprint explicit and corrected actual API names; no further
+survey. Root owns synthesis/navigation/Git and the next supported method-use
+selection. No agent, compilation, installation, runtime, region protocol or LP
+compatibility campaign remains live. The full goal remains active.
+
+2026-10-24 offline witness source selected: growth_constructive_model owns only
+ordinary_witness_backend/FileBackend.lean, README.md and a minimal dependency
+manifest under root's CONTRACT.md. preexport_tools independently reviews contract
+and source, appending to GROWTH-CLAIMS-CHALLENGE; preexport_code_gap finalizes its
+existing source-boundary/dependency note. Root owns synthesis, integration choices
+and Git. No runtime, installation, toolchain change or existing-state modification.
+
+2026-10-24 growth synthesis read: constructive model complete; root owns
+GROWTH-DESIGN-REVISION.md and navigation. preexport_tools appends a final independent
+revision review to its GROWTH-CLAIMS-CHALLENGE.md. preexport_code_gap appends only the
+pinned LP certificate-to-proof entry analysis to GROWTH-OPPORTUNITY-CHOICE.md.
+No new review file, code, runtime, dependency installation or package port.
+Existing accepted state, used packages and all failures stay unchanged.
+
+2026-10-24 growth allocation after closed pre-export review: growth_constructive_model
+owns GROWTH-CONSTRUCTIVE-MODEL.md; preexport_code_gap owns
+GROWTH-OPPORTUNITY-CHOICE.md; preexport_tools owns GROWTH-CLAIMS-CHALLENGE.md, all
+under v5-2026-10-24-growth-selection. Root owns synthesis, software selection and
+Git. Source/theory only, no runtime or product changes. Earlier pre-export notes
+are complete/read; adapter implementation is deferred for lack of a concrete
+incremental-use case, not automatically continued.
+
+2026-10-24 pre-export discovery selection: preexport_tools owns PREEXPORT-TOOLS.md;
+preexport_code_gap owns PREEXPORT-CODE-GAP.md, both under v5-2026-10-24-growth-selection.
+Root owns synthesis, concrete software selection and later changed-boundary review.
+Source/primary-tool inspection only; all previous assignments and runtime closed.
+
 2026-10-24 selected growth work COMPLETE, no runtime: growth_architecture_payoff
 bridge note and growth_product_selection product/source work read/adopted;
 growth_boundary_review decision/source audits adopted and saved package audit
