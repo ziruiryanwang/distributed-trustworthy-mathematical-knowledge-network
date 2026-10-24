@@ -1,5 +1,59 @@
 # Current research desk
 
+**2026-10-24 preview package adopted:** root read independent saved-outcome
+review c4944a33 and actual exact/tamper public reports. All 148 runtime pins/four
+snapshots and held inputs preserved; two real HTTP calls return expected 0/1,
+each charged one 1351-byte reply, with no native/evidence/owner operation.
+Outer 4.0682157 wall / 3.6875 known inclusive CPU seconds, clean closure.
+Current development package is ordinary-preview-assembly-01/package, profile
+ab04e724, receipt 6e09d2b2; source recipe ordinary_preview_package/build.py.
+Stop investing in this completed seam. Next source/theory work compares strict
+one-time library baseline intake and its public operability against a distinct
+explicit approved-base trust mode; no weakened trust mode is selected. Root
+prefers reusing ordinary admission and exact protected roots, not a generic
+scheduler or a new certificate campaign. Full v5 remains active and unfinished.
+
+**2026-10-24 preview public HTTP check selected:** assembly01 independently
+passes all 149 runtime pins/six snapshots and exact 2/132 payload delta;
+profile ab04e724, receipt 6e09d2b2. Root read full public_check 0b5fa2e8 and
+selector 082212b2, independently source-cleared. Select
+613e28c8da5fde5d5e570e46d52bfe94cb56b6fa2b0c6037f26592095796c5c7,
+one 90 wall/40 CPU/768 MiB/four-active-process run: exactly two actual packaged
+preview calls, one retained 1351-byte response and one same-length tamper refusal.
+Bounded static loopback responder, not product-provider or search evidence.
+No owner/custody/native operation, mathematical acceptance, rebuild or certificate.
+Used sources freeze on launch; adoption waits for the saved-outcome review.
+
+**2026-10-24 preview file-only assembly selected:** root read the full assembler
+7be8f6ea and selector fcce660b; independent source clearance a2179f58 also
+adopts saved controls01 (19 cases, no native/state access, 1.5381856 wall and
+1.359375 known inclusive CPU seconds). Select
+80b0a92e99bd0667d4ba5165d420b045b22daef217742aad4169c2281554212e:
+one file-only 90 wall/50 CPU/512 MiB/two-process assembly; exactly peer.py and
+peer_api.py change, 132 payloads unchanged. No build or mathematical operation.
+Actual public two-call HTTP check remains source work pending review. Parallel
+whole-workflow payoff analysis addresses the next practical release bottleneck.
+No former passing campaign is repeated; full v5 remains unfinished.
+
+**2026-10-24 preview focused controls selected:** root read new API8b96e3bf,
+facadebf90809c, controls5a9ec390 and selector4af2e8cf; independent review853a7cdd
+clears their exact source. Selectd004f858e9042f5a3d44fec01edf1a370e69bae2262e959e4c8bedf2305fc3a7,
+one60wall/35CPU/768MiB/two-active-process run. Real preview/record validation
+uses inert transport and facade-bootstrap doubles, with forbidden owner/native/
+evidence/database access. Fourteen API cases plus facade/four state refusals.
+No actual HTTP or mathematical acceptance claim. Used sources freeze on launch;
+file-only assembler/source recipe remain separate source work pending review.
+
+**2026-10-24 preview-before-receive source selected:** Git386fb0c preserves the
+adopted project-intake capability. The next concrete avoidable cost is candidate
+inspection: find gives records, while receive follows preview with full evidence
+acquisition. ORDINARY-PREVIEW-SELECTION.md selects a thin state-free public preview
+over the existing exact record/preview verifier; only peer.py/peer_api.py change.
+No index/native/acceptance semantics, automatic retries or certificate changes.
+API/facade authors and independent reviewer work in parallel; root owns controls
+and file-only integration. No runtime selected yet. Broader-query wrapper and
+generic cold onboarding are deferred. Full v5 remains active and unfinished.
+
 **2026-10-24 approved-project intake adopted:** root read the independent saved
 public01 audit: all157runtime pins/four snapshots,192prior immutable files and
 50anchor files preserved; three actual public calls close with expected1/0/0.

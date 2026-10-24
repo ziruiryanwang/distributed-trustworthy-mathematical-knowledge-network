@@ -1,6 +1,6 @@
 # Current design: decentralized Lean mathematical commons
 
-Updated: 2026-10-23. This is a mutable navigation page, excluded from frozen checkpoint manifests.
+Updated: 2026-10-24. This is a mutable navigation page, excluded from frozen checkpoint manifests.
 
 ## Current candidate architecture: v5
 
@@ -116,12 +116,19 @@ versions are not silently migrated. The package also has a context-bound query
 adapter eliminating manual symbol-ID entry; its actual successful public output
 has separate saved review from the retained process-count harness failure.
 
-The next selected source/theory seam is [approved-project missing-proof extraction](research/cycles/v5-2026-10-22-native-library/ORDINARY-POST-ANCHOR-PAYOFF.md),
-reusing the existing completion planner and receiver, not a new proof engine.
-It must preserve exact candidate/parent identities and bound extraction to the
-remaining public capacity before spending work. General project compatibility,
-large cold closures and installed definition/group collisions are distinct
-remaining issues; adding a project path alone does not solve them.
+[Approved-project missing-proof extraction](software/v5/ordinary_project_extraction_package/README.md)
+now has independently audited public evidence: expected missing-dependency refusal,
+explicit local project extraction, then independent same-parent three-unit checking.
+It preserves candidate identities and the finite remaining completion capacity.
+General project compatibility, large cold closures and installed definition/group
+collisions remain distinct issues; a project path alone does not solve them.
+
+The [current candidate-preview package](software/v5/ordinary_preview_package/README.md)
+also passes independent source, control and real-HTTP review. Agents can inspect
+exact candidate type metadata before acquiring/checking its proofs. This is a
+cost-selection facility, not proof of applicability, truth or growth. The next
+source/theory decision addresses strict one-time common-library onboarding beyond
+small contribution limits, while preserving the existing mathematical trust policy.
 
 These results do not establish independently hosted operation, broad workload
 benefit or a final deployable v5. Cold loading still depends on the selected local

@@ -2,9 +2,36 @@
 
 Updated 2026-10-24. This is a mutable entrypoint, not a frozen run receipt.
 
-## Current approved-project intake development package
+## Current candidate-preview development package
 
-The selected development package is now
+Use `experiments/v5-local-checks/ordinary-preview-assembly-01/package`, with
+PROFILE `ab04e72440bcd09381a81d4b721d1103fa2e62bc260fa6c0434e6c568419016f`
+and ASSEMBLY `6e09d2b255d8321bd522291276e03f10729cbc4f57536a57b29b63ab67a528bc`.
+It changes only `peer.py` and `peer_api.py` from the approved-project package
+below; the other 132 payloads, acceptance installation and owner semantics stay
+unchanged. Existing adopted functionality is retained without native rebuilding.
+
+The new [`peer.py preview`](../ordinary_preview_package/README.md) lets a local
+agent inspect a candidate's type and symbol identities before paying to receive
+its proof closure. No owner state opens. Exact preview/record binding is checked,
+but no mathematical acceptance, applicability or index-membership claim is made.
+`receive` still checks independently and fetches its own preview again.
+
+[Independent review](../../../research/cycles/v5-2026-10-22-native-library/ORDINARY-DISCOVERY-NEXT-CHALLENGE.md)
+passes 19 focused controls, exact two-file assembly and two actual packaged HTTP
+calls (correct metadata and tampered-response refusal). Both calls charge their
+single 1,351-byte response; no native work ran. The HTTP check used a bounded
+static loopback responder, not an entire product-provider or TLS campaign.
+
+The current source recipe is [`ordinary_preview_package/build.py`](../ordinary_preview_package/build.py)
+with its `source-map.json`, using the same build arguments and a fresh output as
+below. Only two direct-copy selections change; compiler lanes are unchanged and
+were not rerun. This remains a development candidate, not final v5. Large-library
+onboarding, useful-growth evidence and public deployment remain central open work.
+
+## Preserved approved-project intake development package
+
+The predecessor development package is
 `experiments/v5-local-checks/ordinary-project-extraction-build-01/integration/package`,
 with PROFILE
 `aab7e2460c0879d0fbb2b570470984efe2a66c4a932f5725ce563a1df7c2530f`.
@@ -22,7 +49,7 @@ operation or old anchor migration was involved. This controlled project is not
 an external-user or positive-growth benchmark.
 
 Use [`ordinary_project_extraction_package/build.py`](../ordinary_project_extraction_package/build.py)
-and its `source-map.json` for the current source recipe, with the same build
+and its `source-map.json` for this predecessor source recipe, with the same build
 arguments shown below and a fresh output. The changed native component was
 compiled with exact retained shared objects; unchanged compiler lanes were not
 rerun. Whole clean-source execution of this combined recipe is not newly claimed.

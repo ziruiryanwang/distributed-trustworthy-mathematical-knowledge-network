@@ -4,6 +4,21 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 after preview public01 raw PASS: module_anchor_audit owns saved-only
+outcome audit; root owns adoption/navigation/Git. project_intake_native owns
+source/theory-only ORDINARY-NEXT-RELEASE-BOTTLENECK.md, comparing strict one-time
+common-library intake with separately explicit approved-base trust. cold_intake_strategy
+owns disjoint ORDINARY-BASELINE-BUNDLE-CONTRACT.md: minimal inert baseline-bundle
+intake, prefix/resume authority and aggregate bounds, reusing existing admission.
+No new trust policy, baseline implementation, native build or old campaign is
+selected. All preview runtime sources and evidence are now frozen.
+
+2026-10-24 preview source: cold_intake_strategy owns fresh
+ordinary_preview_package/peer_api.py; project_intake_native owns peer.py/README;
+module_anchor_audit owns independent ORDINARY-DISCOVERY-NEXT-CHALLENGE.md.
+Root owns controls, assembly, source-map/nav/Git and finite runtime selection.
+Exact contract: ORDINARY-PREVIEW-SELECTION.md. No owner/native work selected.
+
 2026-10-24 after project-intake public01 PASS: root owns adoption/navigation/Git
 and next implementation selection. module_anchor_audit completed saved-only
 outcome audit and will review the distinct source-build map. project_intake_native
