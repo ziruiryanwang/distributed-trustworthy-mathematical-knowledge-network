@@ -4,6 +4,23 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 repaired boundary adopted: fresh ordinary_reference source selected
+under PUBLIC-VIEW-REPAIR concrete API. cold_intake_strategy owns reference_store.py
+and protected_metadata.py; project_intake_native owns ReferenceModule.lean and
+reference_module_worker.py; root owns reference_registration.py/reference_match_worker.py
+and later controller/closure/package wiring. reference_soundness_audit owns
+independent changed-boundary source review, not repeated diagnostics. Canonical
+root unchanged. All matcher05/continuation inputs now frozen; no new runtime.
+
+2026-10-24 after exported-view census: project_intake_native owns fresh
+OrdinaryReferenceBase05 including exact abstract interfaces, closed common basis
+and complete quotient-primitive dependency edges. Root owns reference_report02
+and later protected registration integration. cold_intake_strategy owns fresh
+build_reference05/select_reference05_build and the unused retained02 continuation.
+reference_soundness_audit reviews these changed boundaries independently. No
+passing export/snapshot/diagnostic is repeated, no used source is overwritten,
+and no reference registration or owner authority is inferred from the fixture.
+
 2026-10-24 semantic reprioritization after actual02: private exact correspondence
 passes, public erasure policy fails. project_intake_native owns source-only
 ReferenceViewProbe.lean and narrow retained-core diagnostic builder/checkpoint;

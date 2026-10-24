@@ -1,5 +1,88 @@
 # Current research desk
 
+**2026-10-24 correspondence adopted; protected integration source selected:**
+root adopts independent saved11-case audit (two actual native calls,207 selected
+pins/nine source snapshots, exact6private/5public units,522usable basis). The
+old mutation label tests a definition mislabeled as an erased theorem; it does
+not disallow justified definition abstraction. Full v5 remains unfinished.
+Root read concrete ReferenceView/typed-store/plan contract46a837d2 and independent
+protocol clearance. Select fresh software/v5/ordinary_reference source only:
+cold_intake_strategy owns reference_store.py and protected_metadata.py;
+project_intake_native owns ReferenceModule.lean and reference_module_worker.py;
+root owns reference_registration.py, reference_match_worker.py and later closure/
+module controller/package integration. Auditor reviews independent trust boundaries.
+Existing owner lock, actual current warrants, record-last local registration and
+original-support identities remain authority; no saved report is adopted. Snapshot
+is prepared once at final reserved path. Live binding uses full authenticated
+request; protected reopen uses a separate bounded metadata parser, never a fake
+request. No new build, runtime, owner operation, package or certificate selected.
+
+**2026-10-24 repaired original-library correspondence completed:** continuation01
+closed cleanly51.3395015wall/47.34375knownCPU,11cases/two native calls. Original
+private6units/9names match; public5units/8names retain full flip and its computational
+support, erase flip_low proof and omit hidden_low. All581 basis rows bind;522
+common names are already closed (zero pruning rounds), with25 abstract singleton
+definitions supported. Real changed flip body refuses PRIVATE_INVENTORY_MISMATCH;
+nine report mutations refuse. Exact resultd99cf73b/receiptd68a062e/reporte82cf595;
+saved-output audit pending. No snapshot copy or owner/registration occurred.
+This resolves the actual public-interface blocker, not final v5. Next central
+work is one protected original-reference registration and useful new-delta path,
+not more probes or an expensive certificate campaign. All used bytes stay frozen.
+
+**2026-10-24 retained-library continuation selected:** build05 passes saved-output
+audit with three commands/four outputs and clean10.3232148wall/8.28125knownCPU.
+Exact BUILD12d2708d/result19f5936d/selectione5cdf8a5/exe918aebc5. Root read final
+continuationfad4854a/selector8dd3397b and independent full-source clearance;
+select one ordinary-reference-continuation-01,120wall/60CPU/1536MiB/four processes,
+128MiB cooperative spool. Two native calls (unchanged library, changed-body
+refusal), nine report mutants, retained02 snapshot revalidation, no recopy,
+compile, export, owner operation or acceptance. Used inputs freeze on launch.
+Concrete protected ReferenceView/store/plan contract proceeds in parallel;
+no live registration or new native delta is yet selected.
+
+**2026-10-24 matcher05 build selected:** root read full native05, binder02 and
+build adapters; independent changed-boundary review clears nativeec8248e4,
+binderd153b061, builderc9476a5f/selector6dccd19a. Select exactly one fresh
+ordinary-reference-native-build-05: three commands, retained core04/support,
+120wall/60aggregateCPU/1536MiB/four processes,128MiB cooperative spool. No
+fixture compilation, artifact collection, snapshot copy or owner operation.
+Used inputs freeze on launch. Two-call retained02 continuation is source-only
+pending its own final review and exact successful build pins.
+
+**2026-10-24 exported-view finding adopted; coherent repair selected:** one saved
+diagnostic finds59 private basis helpers absent in both exported views,25 safe
+singleton definitions represented abstractly, and124 erased singleton theorems.
+This explains the blanket public581 refusal; it is not itself signature equality
+or mathematical acceptance. Select unused OrdinaryReferenceBase05: retain exact
+private581 and complete selected-unit checks, validate every present public record,
+permit exact warranted singleton def/theorem/opaque abstraction, compute the
+greatest common dependency-closed public basis, and require selected public
+closures to stop only there. Keep quotient primitives together with Eq. Root
+owns fresh reference_report02 V2 binding, native author owns05, cold owns the
+three-command retained-core build and two-call retained02 continuation, auditor
+owns independent trust/source review. No new runtime selected yet. User has no
+existing local Lean project; use the retained controlled fixture without claiming
+broad real-project coverage. No certificate campaign or389MB recopy is needed.
+
+**2026-10-24 single exported-view diagnostic selected:** probe build01 completed
+three commands cleanly in7.8907947wall/6.03125knownCPU. Root independent saved
+hash check confirms47inputs,5snapshots,12retained support files,4new outputs and
+2metadata pins. Exact BUILDeb1b6fb0/result2e468b0d/selection88d027fa; exe b523992a.
+Root adopts runtime review6e77c269 for workflow9834e46f/selector390dee25/probe
+a5f08241. Select one ordinary-reference-view-probe-01 at90wall/45CPU/1536MiB/
+four processes, two1MiB logs,64MiB cooperative fresh spool. Revalidate existing
+snapshot before/after one exported import; no copies/proof replay/acceptance.
+Use the complete590-name actual census to decide one coherent matcher repair.
+
+**2026-10-24 diagnostic build selected:** root read full narrow builder e709806a
+and selector5631bbda; independent native/API review clears the181-line probe.
+Pre-build review caught null incompatibility with the existing writer parser;
+unused probe now uses explicit not_applicable group metadata (a5f08241). Select
+one3-command retained-core build ordinary-reference-view-probe-build-01,
+120wall/60CPU/1536MiB/four processes/128MiB cooperative spool. No matcher change,
+library recopy, private import or mathematical acceptance. The separate one-import
+runtime wrapper is being reviewed and remains unlaunched pending actual build.
+
 **2026-10-24 actual semantic blocker, reuse completed stages:** workflow02 closed
 cleanly after66.1696733wall/24.171875knownCPU, compiler/collector/export/snapshot
 successful; six complete private units/nine names matched. Public correspondence
