@@ -74,3 +74,54 @@ are distinct; do not rerun earlier package/network/certificate campaigns.
 Expected payoff is removal of a concrete normal-project blocker without weaker
 mathematical acceptance. This is not a performance, mathematical novelty, full
 library compatibility or useful-growth claim. Full deployable v5 remains open.
+
+## Runtime proposal: saved mixed native discriminator, 2026-10-23
+
+Source-only `software/v5/ordinary_module_matching/native_check.py`, SHA-256
+`c0cb4bd4ca1350351da0ae3145818b2b350e67cd565a394896c63942f163049f`,
+reuses the native03 supervision/ordinary-consumer pattern without opening any
+owner or invoking the public controller. Root owns independent review, selector
+and any later launch. The reviewed native `62269b34...`, worker `3872864a...`
+and controller `7f100086...` are unchanged; the controller is not executed here.
+
+One proposed finite run has exactly four sequential supervised commands:
+
+1. Pass the **unchanged raw bytes** of saved collision-refusal `request.json`
+   (`0070f06dc523bf03194c7a5a4b015d9e908e5ccb26ae6a68078cf429ec188032`)
+   and fixed inventory `c81800ab...` to the new worker. Require index 0
+   (`Nat.add_zero`) matched, index 1 (`CommonsLibraryExample.add_zero`) checked,
+   two checker passes, both fresh rereads, exact V2 pending/final fields and all
+   five module artifacts. No new extraction, closure collection or admission.
+2. Compile a normal module importing only Init and the returned module, proving
+   `Nat.add n Nat.zero = n` by `CommonsLibraryExample.add_zero n`. Its search path
+   is only the pinned runtime and newly written modules.
+3. Alpha-rename only the installed theorem proof's outer lambda binder in both
+   descriptor and inventory. This remains a same-statement proof, but not the
+   exact installed record. Require the precise private inventory mismatch and
+   no artifact, pending or final report. This distinguishes the new exact-proof
+   branch from the old blanket-collision refusal.
+4. Project the saved request to the installed `Nat.add_zero` unit alone. Require
+   `NO_NEW_MODULE_DECLARATIONS` before any writer output. This distinguishes the
+   new all-matched boundary; it is not an empty-module success or public API.
+
+Both derived requests are explicitly **adversarial native-boundary controls,
+not newly warranted mathematical evidence**. Their diagnostic identity labels
+are not recomputed acceptance identities. Native code treats such strings as
+labels; this direct test makes no controller/warrant, package or public-facade
+qualification claim. No original request, owner artifact or saved state changes.
+
+Propose **180 wall / 120 CPU seconds / 1536 MiB inner**, within **210 wall /
+150 CPU seconds / 2048 MiB / eight-process outer**. This is one original grant
+for all four commands and final verification, not four renewals. Child grants
+are at most 100 wall / 42 CPU seconds / four processes, decreased to preserve
+25 wall and 62 CPU seconds for existing supervision and final work. Each complete
+child Job is charged once; unknown final CPU charges its full grant and stops.
+Expected exit-1 refusals must still satisfy final wall/CPU/log caps and clean
+tree closure. Any failed assertion stops, retaining partial successes and files.
+
+The CLI takes `--package`, `--profile-sha256`, fresh `--output`, `--wall-seconds`,
+`--cpu-seconds`, and `--memory-mib`; Python/Lean paths remain the selected local
+runtime paths. It pins the exact 127-file package, named installed runtimes,
+native/worker/self source, saved inputs and produced artifacts before/after use.
+Only pinned supervision helpers are imported. No source import, test, native run,
+selection file, package edit or Git mutation occurred in this authoring task.
