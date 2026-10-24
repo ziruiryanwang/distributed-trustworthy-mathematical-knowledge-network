@@ -1,5 +1,20 @@
 # Strict baseline onboarding: source implementation selection
 
+## Root source continuation: immutable snapshot reopening, 2026-10-24
+
+Root selects fresh `software/v5/ordinary_baseline/snapshot_reopen.py` only.
+Live matching and later reference reuse need one common way to revalidate the
+exact retained snapshot after its original project disappears. Reuse the frozen
+snapshot format, bounded codec and hashing primitives; do not reopen source
+project paths, copy the library again, replay proofs or treat saved metadata as
+authority. The controller must supply a protected manifest identity and the
+current installation identity. Return only validated inert artifact metadata.
+Check exact canonical manifest/replay relations, copied-path confinement, full
+file census/pins, original module graph/root closure and source-report binding.
+No owner/native/network/API or existing used-source edit is authorized here.
+This helper is a prerequisite of the same protected realization workflow, not
+a new trust registry. Source review and one changed-boundary check remain needed.
+
 2026-10-24. Root selection; no runtime, native build, package adoption or owner
 operation is selected by this file. The full deployable-v5 goal is unfinished.
 
@@ -333,3 +348,44 @@ linking the same three roles. Verify preserved success within the clean failed
 build, not a nonexistent successful BUILD.json. Independently review the narrow
 diff and source/output provenance. The same proposed maximum envelope remains;
 no build02 execution is authorized by this source selection.
+
+## Small actual native boundary harness (source only)
+
+`project_intake_native` owns fresh `DMKNBaselineFixture.lean`, `native_workflow.py`
+and `select_native_workflow.py`, with an implementation checkpoint in this cycle.
+Use a modern approved original library with public Init, complete Flag group,
+exposed transparent flip, private proof helper, public simp theorem and scoped
+notation. Compile it once, collect and export once, bind real inert evidence,
+copy its exact snapshot, then run the exact matcher using that explicit map.
+The matcher is the replay check; do not add a duplicate replay-only native call.
+Bind the actual result with reference_report and a few cheap changed-field
+controls in that same future invocation. No owner, mathematical admission,
+registration, package or network operation is selected. Context/support labels
+in this discriminator are explicitly test-only, never current-warrant claims.
+
+Root's read-only metadata census found3,245 Init-root/subtree parts totaling
+389,437,304bytes, max13,007,656 per part. This is an upper bound for the selected
+source-confined Init closure, not an actual native import census or memory
+measurement. It fits the existing512MiB artifact profile without expansion.
+Proposed outer maximum300wall/120CPU/1536MiB/six processes and1GiB cooperative
+spool must contain all compilation/import/copy/parser/control phases and logs.
+No phase renews the original allowance. The root selects exact final sources,
+successful candidate build inputs and launch separately after independent review.
+
+## Compile-only03 separator repair
+
+Build02 cleanly failed before any new successful output: the first inline
+structure field lacked a separator before the next line. Root may create the
+fresh core03/wrapper03/matcher03 from the exact02 sources, adding explicit commas
+to the four core and five matcher field boundaries and changing two imports to
+Core03. No values, namespaces, protocols or semantic checks change. Native author
+and independent reviewer inspect the exact diff. `cold_intake_strategy` owns
+fresh build_native03/select_native_build03 direct successors, only03 naming,
+still reusing exporter01 and shared objects; no02 output is promoted. No runtime
+is selected by this source repair. Keep all failed build costs/evidence.
+
+Build03 revealed that explicit commas do not override the indentation of its
+inline first fields. Root selects fresh04 native sources with only three
+first-field newlines/alignment and two Core04 imports; cold_intake_strategy owns
+the naming-only04 build/selector. Independent exact-diff review is required,
+not repeated semantic analysis. All earlier sources and failed costs stay frozen.

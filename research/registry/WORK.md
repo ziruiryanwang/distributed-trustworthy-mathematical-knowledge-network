@@ -4,6 +4,32 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 semantic reprioritization after actual02: private exact correspondence
+passes, public erasure policy fails. project_intake_native owns source-only
+ReferenceViewProbe.lean and narrow retained-core diagnostic builder/checkpoint;
+reference_soundness_audit owns exact abstract-constant + public-basis contract;
+cold_intake_strategy owns reference_continuation.py/selector for later changed
+matcher using retained02 snapshot (no compile/collect/export/copy repeats).
+Root owns snapshot_reopen.py (source-reviewed), actual selections, integration
+policy and Git. No runtime is live; no owner/reference authority established.
+
+2026-10-24 native boundary selected: root owns single workflow01 launch and
+protected original-reference store/controller integration. cold_intake_strategy
+completed source review; next owns only saved workflow outcome audit after actual
+closure. project_intake_native identifies precise native/worker successor scope
+in ORDINARY-REFERENCE-LIVE-INTEGRATION.md. reference_soundness_audit owns new
+ORDINARY-REFERENCE-DELTA-CONTRACT.md, resolving wrapper import semantic preservation,
+not repeating the completed original matcher/build audit. All canonical paths
+remain under E:\Distributed Trustworthy Mathematical Knowledge Network.
+
+2026-10-24 after build01 failure: root committed reviewed original/02 matcher
+sources and report binder as285ac59. cold_intake_strategy owns source-only build02
+adapter reusing successful exporter outputs and the native workflow plan;
+project_intake_native owns selected fixture plus native_workflow/selector source,
+no run/owner, checkpoint ORDINARY-BASELINE-NATIVE-WORKFLOW-IMPLEMENTATION.md.
+reference_soundness_audit owns narrow build02 and later harness source/outcome
+review. Root alone selects/launches; all build01 evidence remains frozen.
+
 2026-10-24 after compaction: root has read/adopted the conditional matcher
 soundness source audit, not an actual reference. cold_intake_strategy owns
 build_native/select_native_build plus build checkpoint, then proposes only a

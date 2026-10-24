@@ -1,5 +1,80 @@
 # Current research desk
 
+**2026-10-24 actual semantic blocker, reuse completed stages:** workflow02 closed
+cleanly after66.1696733wall/24.171875knownCPU, compiler/collector/export/snapshot
+successful; six complete private units/nine names matched. Public correspondence
+refused PUBLIC_COMPUTATIONAL_OR_NONSINGLETON_ERASURE. This is not a pass and its
+unnamed diagnostic does not identify the record. Retain exact389559024-byte
+snapshot,650modules/3250parts, manifestf47f738b; never repeat the successful copy.
+Source review supports exact-witness abstract singleton def/opaque handles in
+principle, but public fixed-basis availability also needs a coherent policy.
+Root selects one small SOURCE-ONLY ReferenceViewProbe (exported import/census,
+no acceptance) before repairing the matcher. Native author owns it and the narrow
+retained-core build adapter; auditor owns abstraction/basis interpretation. Cold
+owns a later two-call matcher continuation reusing saved02 inputs. Root's
+snapshot_reopen74bb3370 passes independent source review, remains unexecuted.
+Protected-reference/delta implementation is held at this semantic boundary, not
+abandoned; full v5 remains active and unfinished.
+
+**2026-10-24 fixture02 selected after clean01 codegen failure:** original explicit
+recursor fixture cannot compile executable code; first call failed cleanly,
+3.1642383wall/2.625knownCPU. No export/match ran. Preserve01. Root read fresh
+ordinary-match fixturebf32784d and exact workflow024ed662df/selector026e2c3120
+diffs plus independent narrow clearance. Select one workflow02 with unchanged
+build04, report binder and300wall/120CPU/1536MiB/six-process/1GiB maxima; no matcher
+rules weakened and no successful operation repeated. Root also selects source-only
+snapshot_reopen.py for protected original-library reuse; this is not registration.
+
+**2026-10-24 build04 adopted; original-library boundary selected:** saved-output
+audit94acd1d3 confirms nine commands, fifteen exact outputs and clean closure
+(9.8305905wall/8.21875knownCPU). No rebuild. Root read the complete native workflow
+873926cb and selectorfb0d0a07 plus independent review476843f0. Select exactly one
+ordinary-baseline-native-workflow-01 using build04 BUILD5811c38b/resultf997200b/
+selection0de88c98 and report binder00f138f5: five native commands, six inert report
+refusals,300wall/120aggregateCPU/1536MiB/six processes,1GiB cooperative spool.
+No owner or mathematical acceptance is fabricated. Keep all used bytes/failures.
+In parallel root prepares protected reference integration; native author identifies
+the smallest delta successor and independent reviewer resolves its import semantics.
+No large admission or certificate campaign is restarted. Full v5 is unfinished.
+
+**2026-10-24 native build04 selected:** build03 cleanly failed because Lean's
+record layout still required aligned first fields even with explicit commas
+(3.9713027wall/3.359375knownCPU). Preserve it. Fresh04 changes only three first-field
+newlines and two imports; independent exact diff PASS. Root selects adapter6e63490a/
+selectorf189f986, coreed43a59c/collector2007380b/matcherc7c0636b for one fresh
+ordinary-baseline-native-build-04 with unchanged240wall/180CPU/1536MiB/six-process
+limits and nine commands, preserving/reusing successful exporter01. No new
+proof campaign or larger allowance. Native workflow source is now under review.
+
+**2026-10-24 build03 selected:** root read complete02-to03 native and adapter
+diffs, independently cleared as only separators/import/output names. Select
+one fresh ordinary-baseline-native-build-03 with adapter3afcbbce/selector638df1b1,
+core03d61da3c1/collector03decd274b/matcher034405197c, unchanged exporter403f1f43.
+Same240wall/180CPU/1536MiB/six-process maximum, nine compile/link commands,
+384MiB cooperative spool. Successful exporter01/shared inputs reused; no02 output
+promoted. All used03 inputs freeze on launch. No original-library operation or
+registration is launched by this build. Native workflow implementation continues.
+
+**2026-10-24 build02 clean syntax failure:** one core02 codegen failed at the
+multiline record's missing separator/layout, before any new successful output.
+3.9635374wall/3.484375total knownCPU; clean closure,peak600018944bytes. Preserve
+all02 inputs/evidence. Root selects fresh03 sources with only explicit commas in
+identified records and03 import names; native author and independent reviewer
+confirmed those exact diffs. cold_intake_strategy prepares the direct build03
+successor, still reusing only successful exporter01/shared inputs. No new03 run
+yet. This is a compiler syntax repair, not a redesign or larger proof campaign.
+
+**2026-10-24 narrow build02 selected:** root read corrected adapterdd54994b,
+selector281325b7 and independent changed-build clearance. Select one fresh
+ordinary-baseline-native-build-02 at the original proposed maximum240wall/
+180inclusiveCPU/1536MiB/six processes;1MiB each log,384MiB cooperative spool.
+Reuse exact successful exporter.olean/.c/.o from the preserved failed01, plus
+ten shared objects. Compile only core02ff34631e, collector02b77d489c,
+matcher02252bf83f; nine commands link three executables. All copied exporter
+pins must remain equal to their original pins through final receipt. No fixture,
+owner, registration or package operation selected. Report binder00f138f5 is
+source-cleared, unexecuted; native workflow harness remains separate source work.
+
 **2026-10-24 build01 clean failure, surgical continuation:** selectionff808bd2
 completed49.1753wall seconds,6.421875JobCPU+1.140625wrapperCPU, peak614010880bytes,
 zero remaining processes and clean closure. Exporter codegen/object succeeded;

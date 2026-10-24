@@ -405,3 +405,19 @@ native import, admission, snapshot copy or report adoption was run by this
 author. The original native candidate's source-theory review cleared its stated
 dual-view correspondence assumptions; that review did not guarantee syntax,
 successful compilation, runtime correspondence or final-v5 operability.
+
+Independent narrow02 review subsequently compared all three fresh source diffs
+and hashes: PASS for exactly the reserved local-binder renames and core import
+routing, with no mathematical or report-schema delta. The earlier semantic
+source argument transfers conditionally. This does not change the saved build01
+failure into a successful build or select another compiler run.
+
+Root also selected the fresh source-only ordinary library fixture
+`software/v5/ordinary_baseline/DMKNBaselineFixture.lean`, SHA-256
+`bb58ee2a0246e4d33c5c3ebf16df9ee4986be75756d3a3ba597b7f9ad60928d6`.
+It contains a modern public Init import, generated `Flag` group, exposed
+transparent `flip` using its recursor, hidden proof helper, public simp theorem
+and scoped notation. Source syntax/visibility was compared with pinned runtime
+examples; no fixture compilation was performed. The separate native-workflow
+owner records its exact assumptions and finite future discriminator; no second
+harness or duplicate tests were created here.
