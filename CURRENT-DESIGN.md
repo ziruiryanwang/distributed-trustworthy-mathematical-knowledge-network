@@ -4,6 +4,20 @@ Updated: 2026-10-24. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
+**Growth decision after source-build closure (2026-10-24):** the generic method
+interchange route already has retained evidence; no method schema, LP deployment
+or repeated composition experiment is needed. The [release thesis](research/cycles/v5-2026-10-24-growth-selection/GROWTH-RELEASE-THESIS.md)
+now prioritizes affordable lifetime reuse. Avoiding proof rechecking does not
+avoid repeated whole-context metadata/loading costs. The earlier practical-cost
+analysis already derives quadratic cumulative metadata visits for one-at-a-time
+growth on a single branch. Resolve that bottleneck in principle before choosing
+a cache, session or demand-scoped context implementation. The [discovery review](research/cycles/v5-2026-10-24-growth-selection/GROWTH-DISCOVERY-BOTTLENECK.md)
+keeps ordinary specialist hints ahead of optional exact export; another client
+would not supply useful coverage or compatibility. The native-first
+[clean-source recipe](software/v5/ordinary_native_distribution/README.md) now
+builds all141payloads in one audited local run, without old generated artifacts.
+That deployability repair is complete at its stated scope, not growth evidence.
+
 **Growth-led revision, with optional source reviewed (2026-10-24):** keep the ordinary
 library plane, but do not require every useful answer to arrive with the
 producer's solver/library history. The [growth revision](research/cycles/v5-2026-10-24-growth-selection/GROWTH-DESIGN-REVISION.md)

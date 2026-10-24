@@ -4,6 +4,33 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 native-src01 outcome and both growth decision assignments CLOSED/read.
+New source-only lifetime comparison under GROWTH-LIFETIME-DECISION:
+growth_release_thesis owns LIFETIME-SESSION-FEASIBILITY.md;
+growth_user_economics owns LIFETIME-VIEW-FEASIBILITY.md. Root owns synthesis,
+source comparison/adoption/navigation/Git. No agent may implement a successor,
+open protected state or start any experiment from this assignment.
+
+2026-10-24 native-src01 launched once; native_source_recipe source assignment
+closed. growth_supported_path owns only saved-build audit appended to
+SUPPORTED-METHOD-PATH. growth_release_thesis owns GROWTH-RELEASE-THESIS;
+growth_user_economics owns GROWTH-DISCOVERY-BOTTLENECK, both in growth-selection.
+Root owns build outcome/navigation, synthesis, next consequential selection and
+Git. No repeated theorem, optional backend, deployment or license work selected.
+
+2026-10-24 native source closure selected: growth_supported_path and
+growth_user_economics notes complete/read/adopted; their assignments are closed.
+native_source_recipe owns only ordinary_native_distribution/build.py,
+source-map.json, README.md under root CONTRACT. Root owns independent review
+allocation, integration decisions/navigation/Git. No compiler/test/runtime yet.
+
+2026-10-24 method-support decision: growth_supported_path owns only
+growth-selection/SUPPORTED-METHOD-PATH.md (existing API/evidence mapping);
+growth_user_economics owns only growth-selection/REALISTIC-GROWTH-CASE.md
+(realistic whole-cost/assurance friction, no duplicate API audit). Root owns
+synthesis, exact next implementation selection and Git. No runtime/build/install,
+new data protocol, fixture or product edit is selected by these assignments.
+
 2026-10-24 growth-method increment CLOSED, root read/adopted: source author and
 independent source reviewer complete; fresh growth_method_challenge's theory
 verdict complete and read. Root closed the optional dependency-footprint task

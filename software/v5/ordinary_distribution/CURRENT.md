@@ -4,6 +4,21 @@ Updated 2026-10-24. This is a mutable entrypoint, not a frozen run receipt.
 
 ## Current direction: ordinary Lean first, selected interchange
 
+**Current clean-source route (2026-10-24):**
+[`ordinary_native_distribution/build.py`](../ordinary_native_distribution/build.py)
+now builds the native-first 141-payload role set from repository sources and
+explicit Python/Lean runtimes, without retained experimental executables.
+The [build instructions](../ordinary_native_distribution/README.md) are shipped
+in the generated package. One source-only staging/build passed an independent
+[actual audit](../../../research/cycles/v5-2026-10-24-growth-selection/SUPPORTED-METHOD-PATH.md#actual-clean-source-build-native-src01).
+Output: `experiments/v5-local-checks/native-src01/distribution/package`, PROFILE
+`fc45893cef624978f0ab5212d0e1e172ff7c71f821124daa8751727bf7123ef6`.
+The build took 99.47 seconds elapsed and 62.52 observed CPU seconds, with 881.50
+MiB peak Job private commit; staging/audit costs are separate. This is a completed
+build, not a new public-workflow, growth or release qualification. Old owner
+states and anchors remain bound to their original support. The following
+historical assembler is preserved, not the required source-build entrypoint.
+
 The native-first candidate is now assembled at
 `experiments/v5-local-checks/ordinary-native-assembly-01/package`, PROFILE
 `47b80c6250886c4df71525d2600f02518d5400f260a8b60c0d77afd5ccbc5ac6` and ASSEMBLY

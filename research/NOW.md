@@ -1,5 +1,44 @@
 # Current research desk
 
+**2026-10-24 source-build work CLOSED; growth lifetime decision selected:** root
+read/adopts native-src01 actual PASS:141payloads,99.47wall/62.52observedCPU,
+all pins and closure checked. No runtime remains. Both growth decision notes
+are read/adopted: do not invent a new search client/method schema or repeat easy
+composition. GROWTH-LIFETIME-DECISION selects source/theory comparison of bounded
+checked sessions versus warranted demand-scoped local views against existing
+batching, because whole-context reconstruction remains a genuine growth cost.
+No cache/daemon/projection implementation or new experiment is selected. Used
+build inputs/evidence stay frozen; full final-v5 remains ACTIVE and unfinished.
+
+**2026-10-24 one source build live; growth-first review resumed:** final source
+review passes the native-first clean-build recipe and mechanical selector. Root
+selected native-src01 once (selection6f5205b1; session75444), staged80 sources,
+184pins, original outer540wall/440CPU/2304MiB; no node or theorem campaign.
+The reviewer owns saved-output closure only. In parallel growth_release_thesis
+owns a nonduplicative release-value decision; growth_user_economics owns the
+growth/discovery cost bottleneck. Existing composition/economics results must be
+reused, not renamed. No new service/protocol or optional LP work is selected.
+Full v5 remains ACTIVE; no completion or broad growth claim follows from a build.
+
+**2026-10-24 existing method support adopted; one deployability obstruction:**
+Root read SUPPORTED-METHOD-PATH and REALISTIC-GROWTH-CASE. Retained actual
+parametric/project returns close the generic method-shaped interchange question;
+no new protocol, LP deployment or repeated theorem test. The defensible conditional
+benefit is receiver use without approving producer executable code, when the
+checked declarations suffice and selected closure costs fit. The actual latest
+native141 recipe still requires private retained build artifacts. Root selects
+only ordinary_native_distribution/CONTRACT.md source successor: fresh-source
+BaselineExporter plus existing lanes/facade/roles, actual generated profiles.
+No runtime or changes to mathematical acceptance, source predecessors or state.
+
+**2026-10-24 continued goal: method-support decision, no experiment:** previous
+turn is progress (commit38043a9, closed source/theory reviews). Root selects one
+bounded evidence/source mapping of already supported acquisition/application/
+return, plus a separate realistic economic/assurance case. No invented LP or
+easy-theorem showcase, dependency survey or repeated passing test. Identify an
+actual surviving software obstruction; if methods already fit ordinary APIs,
+do not invent another interchange layer. All used evidence remains unchanged.
+
 **2026-10-24 source and growth-method reviews CLOSED, root read/adopted:** the
 small optional offline adapter passes source review, not compilation or
 installed compatibility. Fresh GROWTH-METHOD-CHALLENGE validates the b,c-parametric
