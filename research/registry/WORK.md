@@ -4,6 +4,31 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 A2 connection: root authored source-only baseline_snapshot.py;
+reviewer found/corrected Lean's first-package-prefix resolution mismatch (do not
+search later roots for a missing nested file). module_anchor_audit reviews final
+snapshot plus ten producer-control sources. cold_intake_strategy now owns fresh
+snapshot controls/selector/checkpoint only, no run. project_intake_native owns
+shared artifact-core split plus exact private/public matcher, with explicit
+source ceilings in the selection. Root owns integration/build/runtime decisions.
+
+2026-10-24 producer continuation: root reads controller/worker and integration
+seams; module_anchor_audit owns new independent production/connector source
+challenge. cold_intake_strategy owns only fresh production_controls.py and
+select_production_controls.py, not a run. project_intake_native completes the
+exact artifact collector/replay connector (16MiB replay request, 65,536 import
+edges, strict 0/1 flags); checkpoint remains native implementation. Root alone
+owns actual selections/Git. No compiled baseline, snapshot registration or
+ordinary reference-backed delta has yet been adopted. Do not rerun prior controls.
+
+2026-10-24 baseline controls adopted/Git4db1113: no runtime lives. The24-case
+inert syntax/planning run is independently audited and must not repeat.
+cold_intake_strategy owns source-only production controller/worker;
+project_intake_native owns source-only BaselineArtifacts.lean bounded exact
+transitive artifact collector, per implementation-selection amendment. Root owns
+integration/actual selections/Git; module_anchor_audit reviews changed source.
+No baseline compilation/owner operation or reference registration selected yet.
+
 2026-10-24 baseline continuation: pure binder/native/intake sources are awaiting
 one final source/control review; baseline_controls finished the 24-case inert
 harness and selector, no run yet. cold_intake_strategy now additionally owns

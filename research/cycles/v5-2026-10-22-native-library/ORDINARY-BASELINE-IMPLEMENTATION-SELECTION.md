@@ -131,3 +131,178 @@ unknown process closure stops. No build, catalog, mathematical admission, projec
 copy, retry or test is selected by this continuation. Proposed integration must
 state all loaded sources required in the future package map. Independent source
 review and a separate root runtime selection remain mandatory.
+
+## A2 artifact-closure connector (source only)
+
+`project_intake_native` additionally owns fresh
+`software/v5/ordinary_baseline/BaselineArtifacts.lean` and extends its existing
+native implementation checkpoint. This is a bounded collector/validator of the
+actual approved original library's transitive import-artifact closure, not a
+correspondence warrant, proof checker or source builder. No native run selected.
+
+Reuse the selected project's explicit roots/modules and runtime-first lookup;
+import once privately with no plugins/extensions, collect exact original module
+names/direct import flags and effective module census, and resolve the actually
+selected multipart paths. Inspect `Environment.lean`/`Setup.lean` semantics, not
+an assumed one-file-per-module scheme. Inventory all artifact parts the supported
+private/public/ordinary frontend lane can read, including runtime dependencies.
+No guessed subset, unbound fallback path or inherited search path is authority.
+The controller will validate paths, copy/readback exact bytes to a fresh protected
+snapshot, and a later selected use must import only that bound closure. Runtime
+identity and file hashes are controller premises, not native output authority.
+
+Initial refusal bounds for the inert collector: <=4,096 modules, <=20,480 parts,
+<=64 MiB per part, <=512 MiB total selected artifact bytes, <=16 MiB report,
+<=1 MiB request. These are source refusal ceilings, not an allowance or evidence
+that a particular library fits. Explicitly refuse unsupported legacy/missing-part
+layouts; do not broaden semantic support for this task. A source-derived actual
+closure census, then a separately selected small native operation if necessary,
+will inform the later reference profile. Do not rescan the world's libraries,
+copy whole search roots or rerun the retained large proof closure.
+
+This collector may provide an explicit-map validation mode if it materially
+simplifies safe snapshot replay; source design must refuse missing bound modules
+rather than accept ambient name-search fallback. Keep the public dependency
+closure matcher and protected registration distinct; no collector success can
+install a baseline as mathematical authority.
+
+## Connector clarification and next disjoint work
+
+2026-10-24 continuation. The collector's collect request remains <=1 MiB;
+its explicit replay matrix has a separate <=16 MiB request ceiling. A complete
+permitted matrix need not fit the collect request. Direct-import edges are
+bounded in aggregate by 65,536. Exact effective/direct import flags use validated
+integer 0/1 fields, not unsupported bare booleans in the strict inert grammar.
+Replay clears ambient name-search paths and requires the actual module census to
+equal the supplied map; a report is still only locator metadata, not authority.
+The later controller independently validates approved roots and exact copied
+bytes. Ordinary frontend integration should reuse Lean's `ModuleSetup.importArts`
+with a complete validated map; it is not implemented by this collector selection.
+
+`module_anchor_audit` independently reviews the fresh production controller/
+worker and artifact connector in `ORDINARY-BASELINE-PRODUCTION-CHALLENGE.md`.
+`cold_intake_strategy` may author only fresh `production_controls.py` and
+`select_production_controls.py` beside the controller, targeting its distinct
+launch/accounting/manifest-commit boundary with explicitly inert native doubles.
+Do not duplicate the 24 adopted binder/intake cases. Root retains launch authority;
+no build, test, owner operation or runtime allocation is selected here.
+
+## Snapshot preparation seam (source only)
+
+Root selects fresh `software/v5/ordinary_baseline/baseline_snapshot.py`, a bounded
+file-only preparer over the artifact collector's exact schema. It validates the
+selected project/runtime roots, complete module graph and actual first-resolution
+paths; copies only the five parts per selected module to fresh derived paths;
+hashes source/copy and reads back; produces an explicit replay map. It never
+imports a binary, opens an owner, registers a reference, or confers mathematical
+authority. Its final manifest is **prepared, pending replay and correspondence**.
+All partial output is preserved on failure; no automatic retry or cleanup.
+
+Reuse the collector's 4,096-module/20,480-part/65,536-edge and 512MiB aggregate
+artifact ceilings, 64MiB per part. Bound source report and replay request by
+16MiB each, prepared manifest by 32MiB, and require an explicit caller spool
+allowance for actual artifact bytes plus the 64MiB maximum metadata reservation.
+Copy in bounded chunks, charge the enclosing operation through its check callback,
+and state that cooperative checks are not hard disk/CPU containment. Original
+paths/modules are approved execution inputs, not accepted proof facts. A live
+later matcher must import this exact map with no fallback before protected
+registration. This selects implementation only, not copying any actual library.
+
+## Native correspondence continuation (source only)
+
+`project_intake_native` may split the unused collector into shared
+`BaselineArtifactCore.lean` plus its thin existing `BaselineArtifacts.lean`
+executable wrapper, then author fresh `OrdinaryReferenceBase.lean` beside it.
+No imported file should introduce a competing executable `main`. Preserve the
+reviewed collector semantics and five-part/no-fallback rules; identify the exact
+split delta for review. The matcher realizes the reviewed A2 relation, not a new
+kernel checker or authority. Its trusted controller must supply currently
+warranted complete units and authenticate the exact snapshot/support/request.
+
+Native input uses exact fixed inventory, the prepared replay map, and a separate
+bounded correspondence request. The request binds selected semantic/context/
+snapshot identities, dependency-ordered complete units with exact output identity
+labels, and explicit target identity/name pairs. Native identity strings are
+labels validated by the controller, not cryptographic checks. Private matching
+uses exact original descriptors/inventories and the complete basis. Public
+matching derives the least whole-unit reusable closure from the actual imported
+representation: only the existing singleton-theorem rule can erase proof edges.
+Full theorem, definition, opaque and generated records retain exact correspondence
+and their actual semantic dependencies. Arbitrary ambient imports are not allowed
+reference names. No declaration is added, no `checkBatch` is called, and zero new
+declarations is normal success.
+
+Conservative source ceilings: <=8,192 private units, <=262,144 output names/edges,
+<=20,000,000 encoded/scan nodes, <=64MiB unit array, <=96MiB whole request,
+<=1,024 targets, <=32MiB result metadata. The distinct existing per-unit limits
+still apply. Artifact map retains <=16MiB, <=4,096 modules/512MiB part bytes.
+The wrapper/import phases must keep exact bound paths, no fallback, complete
+private module census and separately checked public view. A controller must
+later verify the live result and current warrants before protected registration;
+no saved result can substitute. This source selection grants no build/runtime or
+baseline registration and does not claim every permitted input fits local RAM.
+
+`cold_intake_strategy` additionally owns fresh `snapshot_controls.py` and
+`select_snapshot_controls.py`, plus `ORDINARY-BASELINE-SNAPSHOT-IMPLEMENTATION.md`.
+These use inert tiny artifact bytes and real bounded copying/hashing to challenge
+approved-prefix lookup, exact graph/copy identity, spool refusal and partial
+failure. They must not import those dummy binaries or open mathematical owners.
+Native correspondence and real ordinary authoring remain a separate integration
+gate. No controls are launched by this source-only assignment.
+
+Root may author fresh `reference_request.py`: a read-only controller-side planner
+over an already open actual owner and an exact baseline bundle. It validates
+current context warrants, complete portable evidence and seed-relative dependency
+closure, then emits the matcher's fixed request. Snapshot/support IDs remain
+caller-authenticated labels whose artifacts must be validated by the live outer
+registration controller. No native call, acceptance, store mutation or reference
+registration is performed by this planner. Reuse the frozen codecs/binder census
+and existing owner context validation, with the native selection's exact ceilings.
+`reference_soundness_audit` independently challenges the correspondence theorem
+and its implementation assumptions in ORDINARY-REFERENCE-SOUNDNESS-AUDIT.md;
+it does not repeat producer/file accounting tests.
+
+## Changed-native build adapter (source only)
+
+`cold_intake_strategy` may author only fresh `build_native.py` and
+`select_native_build.py`, plus `ORDINARY-BASELINE-NATIVE-BUILD.md`. The adapter
+reuses the ten exact shared `.o`/`.olean` inputs for OriginalExpr, OriginalDecl,
+CheckedExtension, BootstrapSupport and OrdinaryExport from the preserved
+successful extractor build. Compile only BaselineExporter, BaselineArtifactCore,
+BaselineArtifacts and OrdinaryReferenceBase; link three candidate executables.
+No whole helper rebuild, package assembly, owner access, fixture execution,
+mathematical matching or admission is selected. The current native matcher is
+still being reviewed; no adapter may launch until root pins its final sources.
+
+Use the existing frozen finite Job runner and named runtime/build pins, a fresh
+output, complete source/output readback, and preserved failure output. Proposed
+maximum outer envelope is240wall/180CPU/1536MiB/six processes; source preparation
+does not grant it. No subprocess escapes that one enclosing Job or receives a
+renewed allocation. Record exact source/toolchain/shared-object identities and
+support map; no compiled candidate is an adopted installed mathematical profile.
+
+## Fresh soundness-audit refinement before any native build
+
+The native matcher must relate **actual kernel** records as well as frontend
+visibility maps. `Environment.toKernelEnv` ignores `setExporting`; matching the
+public elaborator's `find?` alone does not establish the interpretation used by
+`addDeclCore`. Match private kernel and private frontend records fully to current
+warranted rows. Match exported-import kernel and public frontend records
+independently, with full computational equality and the same narrow singleton
+theorem exception. The public closure follows the union of their dependencies:
+if either retains a full theorem body, that body's support is required.
+
+Report both `projection` (public/frontend) and `kernel_projection` for each
+public output. Their values may differ; their sufficient correspondence rules
+may not. The initial common whole-unit public closure can conservatively refuse
+a private-only helper retained by either full view. Do not weaken an axiom or
+definition check merely to avoid such a refusal. Private-only dependencies that
+both exported views genuinely erase remain private. Final delta checking must
+preserve these same actual kernel/visibility obligations.
+
+Fixed seed correspondence needs the same dual-view care. Inspection confirms
+the selected `BootstrapSupport.inventoryRow` includes theorem proof DAGs and
+normalizes only nonsemantic singleton metadata; it is not OwnerRebind's separate
+weaker interface-shaped seed helper. Do not silently substitute that helper.
+The native author and fresh soundness auditor coordinate this correction before
+compilation. No seed/trust-policy weakening is selected.

@@ -1,5 +1,47 @@
 # Current research desk
 
+**2026-10-24 snapshot controls adopted:** root read saved-only review87d81110:
+all151 runtime pins/four snapshots,20 exact copied parts and ten outcomes pass;
+clean closure2.2836733wall/1.625actualCPU. Freeze/no rerun. Producer10/snapshot10
+are narrow completed seams, not full v5. The next central native matcher now
+explicitly relates kernel and frontend private/public maps, including exact
+fixed seed and union dependencies where either public view retains a theorem
+body. Final report gains kernel_projection; request schema unchanged. A fresh
+changed-native build adapter is source-only work, reusing existing shared objects
+instead of rebuilding helpers. No build or real reference registration selected.
+
+**2026-10-24 snapshot controls completed, audit pending:** selection
+371cdd5432c9ea9171491401034effbc9b795cabd2ff2a910ee1f88198d9c80b ran once;
+ten cases raw PASS, clean closure,2.2836733wall/1.625known actualCPU,
+60,780,544peak Job private bytes. All artifacts were inert synthetic file bytes;
+no Lean/native/owner operation. Used snapshot/control/selector sources freeze;
+independent saved-outcome review follows. Root's reference_request a4cadb4b is
+source-reviewed, unused, and does not register authority. Native exact matcher
+and fresh mathematical audit address kernel/public visibility and fixed basis;
+no native build or actual reference registration selected yet. Full v5 is open.
+
+**2026-10-24 producer controls adopted; snapshot controls next:** root read
+independent saved-outcome896e76f3: all156 runtime pins/six snapshots and ten
+producer cases pass; clean closure,4.1196463wall/3.40625known actualCPU. No
+native exporter or acceptance claim; preserve used bytes and do not rerun.
+Root read all snapshot controls c45e7bfd/selector2e019c8e plus reviewer clearance;
+select one distinct60wall/35CPU/768MiB/two-process file/path/graph/copy run with
+synthetic artifact bytes, no Lean import/owner. Reference-request planning and
+native matcher remain source-only work. Fresh independent mathematical audit
+is checking actual kernel versus public elaborator maps and basis correspondence,
+not repeating resource/producer review. The installed preview remains current.
+
+**2026-10-24 producer controller controls selected:** root read complete corrected
+controller0f64bdda/worker c44d14ec, ten-case harness1f46b826 and selector2ea48937;
+independent source review3dfbd7fb clears their inert scope. Select
+4f4d521d75e2824a1942d20d1f39ef50a366cc30090b7d010bad1aed42bac6a6:
+one60wall/35CPU/768MiB/two-process run with real files/profile/binder and explicit
+native doubles. No real binary import, build, owner operation or acceptance.
+Used sources freeze on launch. Initial selector invocation refused an uppercase
+hex character before creating files; corrected exact lowercase arguments only,
+no changed source or test retry. Snapshot/native matcher work remains separate
+source-only continuation. Current preview adoption remains unchanged; v5 is open.
+
 **2026-10-24 baseline controls adopted:** root read independent outcome13787595
 and saved24cases. All155 runtime pins/five snapshots preserved; clean closure,
 4.1454236wall/3.875known inclusiveCPU,53,825,536peak Job private bytes. This is

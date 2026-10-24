@@ -133,3 +133,15 @@ this snapshot nor `loadExts := false` is a hostile-code sandbox.
 Fresh producer/binder/intake source is now selected in the implementation
 selection, with no runtime. The next reference/delta implementation must reuse
 these importer mechanisms, not launch another full compiler/library campaign.
+
+There is also an existing ordinary frontend connector: pinned
+`Lean/Setup.lean:188-215` defines the `--setup` CLI's `ModuleSetup.importArts` as
+pre-resolved artifacts of transitive imports. Prefer assessing this native
+mechanism before inventing another authoring loader. Its explicit direct imports,
+module flag, empty plugins/dynlibs and bounded owner-written setup document can
+bind a normal source compile to the selected artifact map. A map still needs
+closure validation; missing entries otherwise permit name-search fallback.
+Merely adding a snapshot directory behind the current runtime-first project
+search path is insufficient: a changed runtime `.olean` could shadow the copied
+bytes. This is a source-derived integration direction, not an implemented or
+tested setup-file path. Root shared it with the artifact-connector author.
