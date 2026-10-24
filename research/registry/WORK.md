@@ -4,6 +4,14 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 resumed root: return checkpoint8dc452a committed. current_distribution_build
+finishes build/map/README; return_actual_audit reviews exact source and root's fresh
+select_build_check.py. No build execution yet. theorem_interface_audit completed
+conditional review9d0dc43d; installed_theorem_successor owns fresh
+ordinary_module_matching native/controller/worker and README under
+ORDINARY-INSTALLED-THEOREM-SELECTION.md. Current package map remains module03.
+Root owns selection/adoption and Git; no completed campaign restarts.
+
 2026-10-23 current_distribution_build owns new ordinary_distribution build sources
 and implementation appendix in ORDINARY-CURRENT-BUILD-PLAN.md. Source-only three
 stages and exact current map; no execution/package/state changes. Root owns later

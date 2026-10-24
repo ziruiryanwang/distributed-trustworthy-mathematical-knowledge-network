@@ -1,5 +1,57 @@
 # Current research desk
 
+**2026-10-23 source-complete current build independently adopted:** root read
+outcome1f7e82e0 in ORDINARY-CURRENT-BUILD-REVIEW. Exact69source inputs,
+27source views,126payloads/37507787bytes, all21base+13extractor phases and four
+supervision layers pass;52.5020993wall/48.015625known inclusiveCPU. Actual
+profile3f3c0de0, manifest32236aa3, implementationfafc8387.125payloads equal
+predecessor; new extractor77eede87 differs and requires actual-use validation.
+No rebuild. Fresh relocated smoke is being implemented/reviewed, not executed.
+Singleton-theorem source successor is complete and independently under review;
+current tested distribution remains module03. Full v5 remains ACTIVE.
+
+**2026-10-23 current source build raw PASS; relocated smoke source selected:**
+build01 closed in52.5020993wall/48.015625known inclusiveCPU with126payloads;
+profile3f3c0de0, actual implementationfafc8387 and installed manifest32236aa3.
+Independent saved audit pending; no rerun. Select source-only relocated smoke:
+fresh owner init, exposed applyTwice/rfl contribution, two-unit module export and
+ordinary consumer; separate basis branch with missing Nat.add_zero, public
+extract-std and complete. Six public owner commands plus one Lean consumer,
+no old state, network, support rebuild or growth claim. current_distribution_build
+owns fresh smoke source; root owns relocation selector and later exact launch.
+The user has no existing local Lean project; this is explicitly a controlled
+fresh-project interoperability check, not a real-user usefulness comparison.
+
+**2026-10-23 one current source build selected:** file-only staging completed with
+69exact inputs/162runtime-and-input pins. Root selects
+97a4c0d19aea620d067f9cf2a227706fd460654bf06b978cc201a2b7b2e8790b:
+ordinary-current-source-build01, fresh isolated source root, original
+480wall/360CPU/2048MiB inner and540wall/440CPU/2304MiB/eight-process outer.
+Buildera4e720ea and selector4591d3d6 cleared by independent source reviewer;
+one unchanged base build plus fresh six-module extractor,126payload assembly.
+No owner operation, network, certificate, retry or existing installation edit.
+Used builder/map/selector now freeze. Relocated actual use is a separate gate.
+
+**2026-10-23 clean-source build staging selected:** root read full buildera4e720ea,
+mapb021ae32 and selector4591d3d6; independent reviewer reports no blocking defect.
+Select file-only ordinary-current-source-build01 preparation:69selected files in
+a fresh exact source root,23named toolchain files, original/copy pins and explicit
+input receipt. No old generated artifacts or owner state. Proposed one-build
+allowance480wall/360CPU/2048MiB inside540wall/440CPU/2304MiB/eight-process outer;
+actual launch requires the resulting exact selection hash. All67map inputs are
+already Git-tracked. Input isolation is a fixed clean tree, not an OS sandbox.
+
+**2026-10-23 mixed-module theorem successor selected, source only:** root read the
+full independent THEOREM-INTERFACE-REVIEW and adopted its conditional interpretation
+argument, including actual public-conversion checking. Select
+ORDINARY-INSTALLED-THEOREM-SELECTION.md: fresh ordinary_module_matching, singleton
+theorem collisions only, full private evidence identity, exact public signature,
+unchanged closure/core checker/foundation. Computational/group collisions still
+refuse; no empty all-matched module. New matched/added reports and both rereads
+required. Current distribution stays on module03 while this separate successor
+is reviewed. No native run or certificate is selected. Return checkpoint committed
+as8dc452a; full v5 remains ACTIVE.
+
 **2026-10-23 project-return independently adopted:** root read saved outcome
 b6d9aaf9 in RETURN-REVIEW. Exact unit/export/preview independently recomputed;
 new proof equals actual admission-worker input, both acquired universe instances

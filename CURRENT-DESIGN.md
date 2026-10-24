@@ -67,11 +67,15 @@ fix leaves output-name and mathematical checking rules unchanged. This closes
 the local interoperability loop, not a growth advantage or fresh peer acceptance.
 Scratch authoring binaries remain distinct from proof-complete modules.
 
-Next is one [current repository-source build](research/cycles/v5-2026-10-22-native-library/ORDINARY-CURRENT-BUILD-PLAN.md):
-the latest package still relies on a retained experiment-built extractor. All
-required source exists; a single build route is being implemented without that
-dependency. In parallel, exact installed-theorem interface matching is under
-theoretical review to remove a real mixed-standard-library name-collision barrier.
+The [current repository-source build](software/v5/ordinary_distribution/README.md)
+now passes its [independent outcome audit](research/cycles/v5-2026-10-22-native-library/ORDINARY-CURRENT-BUILD-REVIEW.md).
+One command produced all 126 current payloads from a fresh 69-file source tree,
+without old experiment-built artifacts, in 52.50 seconds elapsed / 48.02 known
+inclusive CPU seconds. The new extractor binary still needs actual-use validation;
+a fresh relocated public workflow is next. This is not a hermetic-build or release
+claim. In parallel, a [narrow installed-theorem successor](research/cycles/v5-2026-10-22-native-library/ORDINARY-INSTALLED-THEOREM-SELECTION.md)
+is under source review: exact private proofs plus checked public interfaces can
+remove the mixed-standard-library collision without extending the foundation.
 No new certificate campaign, resident checker or broad benchmark is selected.
 
 These results do not establish independently hosted operation, broad workload

@@ -27,8 +27,9 @@ Its first export pays the selected proof closure; no certificate is required.
 The [ordinary-project return](ordinary_project_return/README.md) now also passes
 independent audit: the already-paid module supports a fresh conditional transport
 theorem, independently admitted with exact parent IDs and no scratch assumptions.
-Next is one source-complete current distribution build, eliminating the remaining
-dependency on an experiment-built extractor. Its required sources already exist.
+The [source-complete current build](ordinary_distribution/README.md) now has an
+independently audited actual result, eliminating the required experiment-built
+extractor. Fresh relocated public use of that new binary remains a separate gate.
 Selective unfamiliar-vocabulary search, selected-context scaling, full-cost
 benefit, public packaging and deployment/security gates remain open. Existing
 client entries below describe the preserved assembled lane, not a claim that
