@@ -4,6 +4,14 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 resumed: current_distribution_build owns source-map02/build02 and
+ordinary_extractor_binding assembly/selector; return_actual_audit owns their
+focused review and later saved smoke audit. Root owns native-free role/pin
+controls, exact selections/adoption and Git. practical_growth_next owns
+ORDINARY-FORMAL-QUERY-CONTRACT.md and smallest fresh ordinary_formal_query source
+after resolving query-only extraction/bindings. No compiler rerun or live runtime.
+
+
 2026-10-23 resumed root: return checkpoint8dc452a committed. current_distribution_build
 finishes build/map/README; return_actual_audit reviews exact source and root's fresh
 select_build_check.py. No build execution yet. theorem_interface_audit completed

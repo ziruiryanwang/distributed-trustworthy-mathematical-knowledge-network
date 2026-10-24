@@ -463,3 +463,57 @@ never rewrite used artifacts. Subsequent owner commands already reopen the fresh
 state, so a separate status command adds no decision-changing evidence here.
 Passing establishes this one clean-source-build/relocated-use boundary, not broad
 library coverage, arbitrary project imports, novelty, global growth or final v5.
+
+## Relocated smoke source checkpoint and compatibility hold, 2026-10-23
+
+Root adopted the seven-step design and selected source-only implementation in
+`software/v5/ordinary_distribution/relocated_smoke.py`. The CLI requires
+`--package`, `--profile-sha256`, `--python-runtime`, `--lean-runtime`, fresh
+`--output`, `--wall-seconds`, `--cpu-seconds` and `--memory-mib`; it needs no old
+utility script or source checkout. Only the relocated installation's pinned
+supervisor/Job helpers are imported. All product operations use the public CLI,
+and the normal consumer uses a fixed child mode of this selected harness.
+
+Root's later prospective selector supersedes the earlier numeric proposal:
+**360 wall / 240 CPU / 1536 MiB inner**, within **420 wall / 300 CPU /
+2048 MiB / eight-process outer**. Both are still finite and unexecuted for this
+smoke. Each command has a smaller remaining grant with a 25-second cleanup
+reserve and 62 CPU seconds reserved for the unchanged supervisor's controller
+plus final work; complete child Job CPU is charged once. Unknown accounting
+charges its full grant and stops. The one expected missing-library refusal
+requires the exact exception, no acceptance and clean complete process closure.
+
+The harness binds the whole 127-file relocated tree, actual new identity,
+named runtime and selected installed-Std module parts before operations. It
+checks basis initialization as **456 checked seed units, 581 inventory names,
+zero retained nonbasis unit IDs**, rather than confusing that count with ordinary
+extension inputs. The module request/report uses structured names while the
+public manifest uses the fixed string module name and full target records;
+the harness checks those respective encodings. Every actual native artifact,
+retained candidate, complete proof import, preview/evidence file and immutable
+input is pinned and rechecked; report data preserves acceptance before later
+assertions. No extra owner status, retry or package rebuild is included.
+
+Independent source review found a real release compatibility blocker before any
+smoke execution: the shipped `ordinary_library_support/library_extraction.py`
+still requires the former native extractor SHA
+`9700c6c2944d327a648e3fcf83453ee1aa019d2f05c182feec13e78211711dc7`
+and size 697344 at its two executable checks. The new clean-source build's
+extractor has different bytes, so this frozen helper would refuse it even though
+the new outer profile pins those actual bytes. The successful assembly is not
+therefore public-use qualification. Root holds all actual smoke work and owns
+any separately selected narrow explicit extractor-profile binding successor.
+The used builder, map and newly built package stay frozen; this harness does not
+weaken their checks, rewrite the old pin, change the fixture or claim readiness
+to run against the incompatible package. Only source reads/edits occurred here.
+
+### Final ordinary-command accounting hardening, 2026-10-23
+
+Independent source review identified that the unchanged supervisor's final-sample
+resource-status rewrite applies only to a zero exit. The smoke harness now checks
+each ordinary command's final complete Job CPU, wall time through cleanup and
+both observed log lengths against that record's own limits, including the one
+expected exit-1 missing-library refusal. Values must be finite/nonnegative, log
+lengths integral, and caps valid; a status string alone is insufficient. This is
+a source-only harness assertion, not a supervisor/product edit or a new operation.
+The extractor compatibility HOLD and all frozen build/package bytes remain intact.

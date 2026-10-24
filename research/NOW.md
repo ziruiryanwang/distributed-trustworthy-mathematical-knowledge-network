@@ -1,5 +1,97 @@
 # Current research desk
 
+**2026-10-23 source-build-to-use checkpoint independently adopted:** root read
+final saved auditf660b384. Exact127relocated files/156pins/252immutable outputs,
+four evidence IDs/three export IDs and actual native input bindings pass. New
+extractor77eede87 ran; completion's supplier reference is reachable from the
+consumer proof root, not merely present in metadata. All15supervision records
+closed cleanly;53.94210wall/48.703125known inclusiveCPU. Preserve all outcomes;
+do not rerun. Current ordinary recipe is build02/map02 and profile192dfee1.
+Fresh native_matching_audit reviews the four-call mixed-theorem discriminator;
+formal_query_audit reviews the query-only sources. Full v5 remains active.
+
+
+**2026-10-23 matching report controls selected:** root read/adopts concise
+reviewa0e698e9, controlsd333eb92 and exact1baaa5de9b079e5b43c20d94b59fb917fd81c0bd064dff6d9fab0b5e117b6f0a.
+Select one45wall/25CPU/512MiB/two-process run,25pure partition/schema controls,
+actual controller/worker with explicit inert imports; no native, owner, network
+or mathematical claim. All used controls/controller/worker bytes freeze. Native
+mixed-theorem test remains source-only; current distribution stays module03.
+
+
+**2026-10-23 relocated workflow raw PASS, independent outcome review pending:**
+ordinary-current-relocated-smoke01 closed cleanly in53.94210wall seconds,
+48.703125known inclusiveCPU, peak1465085952Job-private bytes. All six public
+commands plus normal Lean consumer passed their exact outcomes, including
+expected missing-library refusal followed by genuine extraction and admission.
+No runtime remains; no rerun. return_actual_audit checks saved evidence only.
+current_distribution_build now prepares the distinct installed-theorem native
+discriminator from saved request0070f06d; root's25pure partition/schema controls
+are source-reviewed next. practical_growth_next implements query-only sources
+after resolving the no-theorem/no-dependency-crawl seam. Full v5 remains active.
+
+
+**2026-10-23 actual relocated smoke selected:** independent actual assembly
+audit confirms exact126payloads/37508571bytes,125unchanged; new profile192dfee1,
+unchanged implementationfafc8387/manifest32236aa3/extractor77eede87. Root adopts
+that result (5.36133wall/3.140625known inclusiveCPU) and selects exact
+07d9cfc175d7dcb3c624f1c3d735b9bc17dbb28488cf49e188f1d8db1c0ab17b.
+ordinary-current-relocated-smoke01 has127relocated runtime files,156pins,
+three source snapshots; six public calls plus normal Lean consumer. Original
+360wall/240CPU/1536MiB inner420wall/300CPU/2048MiB/eight-process outer.
+No source rebuild, old owner, network, certificate or automatic retry. Both
+fresh branches and any partial acceptance retained. Full v5 is not complete.
+
+
+**2026-10-23 one-helper package assembly selected:** root read full assembler/
+selector and exact map/build deltas; independent source review clears4484158a/
+5985f51a, map02805785e7 and build020a419be2. Select
+f97d018a6305d3557052e90ab6f6e5c8c888447018c16b2dbd37b1964d2dcfbb,
+ordinary-extractor-binding-assembly01,60wall/40CPU inner90wall/50CPU/512MiB/
+two-process outer. Reuse125 unchanged payloads; one helper replacement; no
+compiler, owner state or mathematics. Root adopts saved15control auditdc2aecb4
+(0.39155wall/0.234375known inclusiveCPU). Source/control bytes stay frozen.
+
+
+**2026-10-23 pure extractor binding controls selected:** independent review
+clears control20a97f1a and selectordc36155d. Select exact6509ebc0bc5f772f3feac4c69d080e1b8a41414a800ea157a8bd5765b0535717,
+ordinary-extractor-binding-controls01, one35wall/20CPU/256MiB/two-process
+allocation. Fifteen tests of pinned selected_exporter AST with explicit test
+doubles; no real loader/path authentication claim, native/network or owner.
+Actual relocated package use remains separate. Used control bytes now freeze.
+
+
+**2026-10-23 resumed high-payoff continuation:** root adopts extractor helper
+28ff83c5 and final smoke aaba6e2e source clearance in review f9231aeb. Fresh
+map02/build02 and one-helper assembly are assigned to current_distribution_build;
+return_actual_audit checks that integration; root owns pure role/pin controls,
+exact launch and Git. No rebuild or known-incompatible smoke. In parallel root
+adopts next-benefit decision06f128a8: practical_growth_next resolves the ordinary
+query-only formal-contract interface and may prepare its smallest fresh source
+implementation, without native runtime. Reuse existing index/serializer machinery;
+no proof required merely to ask a query. No real user project is available.
+
+
+**2026-10-23 smoke held before execution; exact extractor-role repair selected:**
+independent reviewer found deterministic old9700c6c2 hardcode in extraction helper
+versus newly built77eede87 approved profile pin. Do not run known-failing smoke.
+Root selects ORDINARY-EXTRACTOR-BINDING.md: fresh helper uses exact approved local
+package-role pin, verifies actual bytes before/after, never peer-selected code.
+Fresh source-map/build recipe and one-helper file-only successor; unchanged
+compiler inputs mean no full rebuild. Build01 remains a valid assembly result,
+not usable-release acceptance. Root owns helper/integration; independent review
+precedes pure controls and actual relocated workflow.
+
+**2026-10-23 exact theorem implementation source review adopted:** root read
+0b49dee1: native62269b34, worker3872864a, controller7f100086 preserve exact
+singleton/private-proof matching, public compatibility, added-only writing and
+both rereads. Select only source preparation of focused V2 partition/worker-schema
+controls and the saved mixed-closure native discriminator; no runtime/package
+adoption yet. Root owns pure controls; existing author owns later native harness
+after a separate assignment. A new practical_growth_next source/theory task chooses
+the next useful-discovery/full-cost-benefit step, reusing existing theory instead
+of repeating the controlled examples. Build checkpoint14016af committed.
+
 **2026-10-23 source-complete current build independently adopted:** root read
 outcome1f7e82e0 in ORDINARY-CURRENT-BUILD-REVIEW. Exact69source inputs,
 27source views,126payloads/37507787bytes, all21base+13extractor phases and four
