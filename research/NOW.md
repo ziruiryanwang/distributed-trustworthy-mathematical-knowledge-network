@@ -1,5 +1,31 @@
 # Current research desk
 
+**2026-10-24 at-hand source review CLOSED; growth selection active:** root read
+and adopts UPSTREAM-RECORD-COMPATIBILITY's conditional finite relation, not a
+runtime or upgrade. New cold wrapper and clean-facade packaging remain unselected.
+Two disjoint growth assignments now test reusable consumer-adaptation investment
+and the smallest actual native-first product gap; see
+cycles/v5-2026-10-24-growth-selection/SELECTION.md. No experiment is live, no
+accepted state or failed run changes. Full v5 remains active and unfinished.
+
+**2026-10-24 growth audit changed the next software choice:** clean facade source
+is complete and independently reviewed (owner56ef042f/profiled63ea79f), not built.
+Root adopts ordinary-package rich-API default plus optional exact interchange;
+no generic metadata replay. Maintained Lean4.35 inert export/replay is a concrete
+replacement candidate, but requires exact foundation/target/bounds guards and
+does not supply warm adoption or rich API. Custom packaging is held; only the
+source normalization/group/record compatibility table remains assigned. See
+GROWTH-IMPLEMENTATION-SELECTION outcome and UPSTREAM-VALIDATION-REUSE. All installed
+4.34 bytes/state/failures remain; no runtime, upgrade or migration. Goal active.
+
+**2026-10-24 growth-led continuation:** producer work and source-only workflow map
+are closed/adopted. Root selects only a fresh clean owner/profile/README surface
+in ordinary_native_package, preserving tested controllers but omitting the failed
+reference branch; no build, assembly, experiment or migration. Parallel reviews
+address usable-API fidelity and the default whole-cost/trust architecture before
+further software investment. See GROWTH-IMPLEMENTATION-SELECTION in the native-
+library cycle. Full v5 remains active/incomplete; no runtime is live.
+
 **2026-10-24 owner-free production COMPLETE; growth-driven simplification:**
 Root adopts the independent public-export audit:193runtime pins/five snapshots,
 six units/31,083bytes and1,196Bmanifest match retained evidence exactly; clean

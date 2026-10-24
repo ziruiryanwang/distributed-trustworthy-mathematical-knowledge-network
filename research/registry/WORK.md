@@ -4,6 +4,26 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 compatibility assignment CLOSED/read/adopted conditionally. New bounded
+growth selection: growth_architecture_payoff owns BRIDGE-INVESTMENT.md and
+growth_product_selection owns PRODUCT-DELTA.md under v5-2026-10-24-growth-selection.
+Root owns synthesis, software selection, navigation and Git. No product edits,
+experiment, upgrade or migration selected. Older assignments below are closed.
+
+2026-10-24 bounded consolidation and growth audits COMPLETE, root read: native
+facade source review passes (not built); package-native rich API default adopted;
+upstream validation reuse/retirement maps reviewed without runtime migration.
+package_continuation owns only UPSTREAM-RECORD-COMPATIBILITY (source normalization,
+groups and actual-result comparison) under root's UPSTREAM-VALIDATION-REUSE note.
+Other assignments closed. Root owns final synthesis/navigation/Git. No runtime.
+
+2026-10-24 growth-led continuation: package_continuation owns only the three fresh
+ordinary_native_package facade/loader/README files and NATIVE-CONSOLIDATION-SOURCE;
+growth_payoff owns GROWTH-REUSE-FIDELITY; demand_producer owns independent
+GROWTH-DEFAULT-ARCHITECTURE-AUDIT and later fidelity challenge. Root owns selection,
+synthesis/source review/navigation/Git. Scope is GROWTH-IMPLEMENTATION-SELECTION
+in v5-2026-10-22-native-library; no runtime, package build, migration or retry.
+
 2026-10-24 at-hand producer work CLOSED: root adopts actual public audit and
 independent native-first growth challenge. No runtime remains. package_continuation
 now owns only NATIVE-FIRST-WORKFLOW-SELECTION: exact existing command/dependency

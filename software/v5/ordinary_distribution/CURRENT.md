@@ -4,6 +4,25 @@ Updated 2026-10-24. This is a mutable entrypoint, not a frozen run receipt.
 
 ## Current direction: ordinary Lean first, selected interchange
 
+**Growth-led decision:** ordinary approved Lean packages remain the primary
+working/publication format, with mathematical assurance selected separately.
+Generated modules preserve supported checked declarations, not a full package's
+notation, classes, attributes or tactics. See the reviewed
+[reuse-fidelity boundary](../../../research/cycles/v5-2026-10-22-native-library/GROWTH-REUSE-FIDELITY.md).
+Do not treat execution approval as independent validation.
+
+The fresh [native-first facade source](../ordinary_native_package/README.md)
+removes the parked original-reference command/helper branch while keeping tested
+producer/intake controllers. Source review passes; **it is not built or installed**.
+Further packaging is held after the source-only
+[upstream validation reuse decision](../../../research/cycles/v5-2026-10-22-native-library/UPSTREAM-VALIDATION-REUSE.md).
+Lean 4.35's maintained export/replay components are a source-assessed candidate;
+no toolchain or accepted state was upgraded, and no old identity is reinterpreted.
+The finite record-compatibility review is complete; the next decision is
+[growth-led product selection](../../../research/cycles/v5-2026-10-24-growth-selection/SELECTION.md),
+not automatic construction of a new cold-validation lane.
+Current usable installations below remain unchanged.
+
 The adopted [growth decision](../../../research/cycles/v5-2026-10-22-native-library/GROWTH-NEXT-LEVERAGE.md)
 uses ordinary approved Lean projects and existing local search/application first.
 Do not export or index a local library merely to use its already imported lemmas.
