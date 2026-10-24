@@ -4,6 +4,31 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 after public query-to-use raw PASS: formal_query_audit owns saved-only
+ORDINARY-QUERY-PUBLIC-OUTCOME.md; public_query_review completed independent source
+clearance23a72af3. query_native_boundary owns fresh module-anchor implementation
+contract, module_anchor_audit its independent theory/source challenge. Root owns
+adoption, exact future source selection, integration/navigation and Git. No
+runtime remains. Query/workflow campaigns are not repeated; new anchors are not
+yet implemented or accepted.
+
+2026-10-23 current: formal_query_audit reviews the pure saved-native postcheck
+and its later saved outcome. query_native_boundary owns only unused assembler
+V2 receipt adaptation and ORDINARY-QUERY-ASSEMBLY.md. return_actual_audit owns
+ordinary_query_package/public_check.py and its public-check plan. Root owns
+exact selections, assembly/integration adoption, navigation and Git. Matching
+native02 and 42 query controls are already independently adopted; do not rerun.
+The generic query's two compilations succeeded; its failed enclosing harness
+is preserved and completed by a separate pure postcheck, never relabeled.
+
+2026-10-23 continuation: matching native02 is raw PASS; native_matching_audit
+owns its saved-outcome review, not a rerun. return_actual_audit has authored the
+42 pure query controls; formal_query_audit reviews their exact source before
+root selection. query_native_boundary owns source-only minimal command
+compilation/extraction and ORDINARY-FORMAL-QUERY-NATIVE.md. Root owns coherent
+integration planning, finite launches, adoption and Git. No external Lean
+project is available. Existing passing package/build campaigns are not repeated.
+
 2026-10-23 resumed: current_distribution_build owns source-map02/build02 and
 ordinary_extractor_binding assembly/selector; return_actual_audit owns their
 focused review and later saved smoke audit. Root owns native-free role/pin

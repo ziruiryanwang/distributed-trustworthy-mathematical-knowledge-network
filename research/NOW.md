@@ -1,5 +1,142 @@
 # Current research desk
 
+**2026-10-23 public integration independently adopted:** root read full outcome
+87dcf2b1: seven actual calls,463immutable files including252predecessor pins,
+exact query/SPECS/returned-locator/export/ordinary-consumer chain, all clean.
+Current development package is ordinary-query-assembly01/assembled/package,
+profile2b8ac8ca; source recipebuild03/map03. No successful campaign is repeated.
+Root also read/adopts the source-level anchor priority081e3228 and conditional
+soundness challenge9fa8b477. Contract author resolves minimal sidecar registration,
+exact unit cut and modern private/public import rules before code selection.
+No runtime lives; finalv5 and positive full-cost growth remain unfinished.
+
+**2026-10-23 public integration raw PASS; next central boundary selected for theory:**
+ordinary-query-public01 finished seven clean calls,45.154598wall/23.390625known
+inclusive CPU; service closed, actual returned locator fed mixed export and a
+normal Lean consumer. formal_query_audit checks saved outcome only; no rerun.
+Root read priority note081e3228: ordinary exports currently traverse the entire
+nonbasis proof closure and cap it at32units/4MiB, even for an already warranted
+one-unit extension. This follows from source; no stress test is needed.
+query_native_boundary specifies a registered local modern-module anchor in
+ORDINARY-MODULE-ANCHOR-CONTRACT.md; module_anchor_audit independently challenges
+its authority/import/commit rules. Only source/theory work is selected, no new
+product code or runtime. Legacy one-part LocalSnapshot is not a modern anchor;
+arbitrary MODULE.json or peer binaries never establish local checking authority.
+
+**2026-10-23 public query-to-use integration selected:** root read/adopts the
+saved133payload assembly audit (121unchanged;5.054923wall/2.390625known CPU),
+new profile2b8ac8ca, unchanged native installation32236aa3. Root read full
+harness585c7943 and independent review23a72af3; unused missing-field assertion
+was corrected before execution. Select
+c2264507bec1660e80264f4b1edc0c56e9d49f7bd8ccd546eb8d8128f1e7ff0a,
+ordinary-query-public01: three snapshots/163pins,210wall/130CPU/2048MiB/eight
+processes outer,180/110/1536inner. Exactly seven calls; existing synthetic owner
+is reopened in place after unchanged-installation check, one new-profile index
+publication, one finite loopback lease/find, returned-locator module export and
+clean Lean consumer. No init/admission/extraction/certificate or earlier rerun.
+Mutable owner bookkeeping is allowed; all old immutable evidence is preserved.
+Query sources and separate saved completion are committed as4716f4d.
+
+**2026-10-23 combined file-only assembly selected:** root read/adopts saved
+postcheck reviewb3a3ab76:193held files, clean1.914434wall/1.765625known CPU,
+no new native calls; original native02 remains FAILED. Root read full assembler
+8d27a2b0 and independent source/receipt clearance. Select
+e6afc7cdd82aac91269c9bde8d07f3e2b791ae03cabd57583258b5e5e5f31866,
+ordinary-query-assembly01,90wall/50CPU/512MiB/two processes (inner60/40).
+Receipt28d31b00 binds the original failed run and separate successful postcheck;
+133payloads,121unchanged, five replacements and seven additions. No compilation,
+owner operation or index migration. Public harness remains source-only.
+
+**2026-10-23 pure saved-query postcheck selected:** root read the complete
+finish40b2b17e source and formal_query_audit's independent clearance. Select
+2f10e6eeb2316106cfb37f705c85e75b95dc3f651684c9f9188d554113b5907e,
+ordinary-formal-query-postcheck01,45wall/25CPU/512MiB/two processes. Only saved
+outputs and pure query helpers run; no compiler, owner, database or network.
+The original native02 remains FAILED; its two successful compilations are not
+repeated. query_native_boundary adapts the unused assembler receipt to bind
+that failure and this separate postcheck honestly. return_actual_audit continues
+the public integration harness. No external user project is available.
+
+**2026-10-23 economical saved-query completion selected, source only:** both
+native02 Lean calls succeeded with zero diagnostics; the whole harness then failed
+because the approved fixed inventory ends with LF and is not ordinary inert JSON.
+Preserve its FAILED result (4.312956wall/4.015625known CPU),649-byte query and all
+ten compiled parts. Do not recompile. query_native_boundary authors a pure saved-
+output postcheck with the correct fixed-inventory reader; formal_query_audit
+reviews exact saved evidence/source. Matching code/audits are committed asd9bd4f8;
+four existing EOF blank-line warnings were intentionally preserved with used
+byte pins. return_actual_audit authors the selected seven-call public harness;
+build03/map03/assembler remain unused pending final receipt/review. No runtime lives.
+
+**2026-10-23 explicit query IO-lift repair02 selected:** query native01 failed
+on CommandElabM/TermElabM resolution before producing a query or compiled command;
+clean closure5.685194wall/4.34375known CPU, retained unchanged. Root read exact
+delta/failure reviewbb086a42. Select fresh56b4cd0613f3753040f903386469d78f6b1ef6d6a6169a496da46e30da6430cd,
+native02: commandf71bb36f explicitly lifts IO into TermElabM; harness4e198689
+changes only source pin/filenames. Same fixture,156runtime pins and original
+90wall/60CPU/2048MiB outer. Reviewer caught/corrected the unused intermediate
+lift parameter spelling before launch. No old run retry or allowance renewal.
+
+**2026-10-23 native query boundary selected:** root read complete harness/fixture
+and independent formal_query_audit source/selection clearance. Select
+1eb9f8018a882842446c0749f09a424c57a1b3bf9df0388233fe9137a705a422,
+ordinary-formal-query-native01: exactly two Lean calls, compile only the new
+command and an independently chosen proof-free dependent-type query. Five source
+snapshots/156unchanged runtime pins; outer90wall/60CPU/2048MiB/eight processes,
+inner80wall/50CPU/1536MiB. Actual parser and known Eq binding, no owner/index/
+network, no proof ancestry. Preserve all output; no retry. Query CLI/profile
+source review9ac7506b is adopted; combined assembly remains source-only.
+
+**2026-10-23 two changed boundaries independently adopted:** root read saved
+native-matching review2cb3eb20 (four calls,27.874960wall/26.78125known CPU) and
+query-controls review5bad8703 (42cases,0.624384wall/0.359375known CPU). Do not
+repeat either run. New source-only integration is ORDINARY-QUERY-INTEGRATION.md:
+root owns fresh query.py/profile.py; return_actual_audit reviews them;
+query_native_boundary authors minimal command compile/extract; query_package_assembly
+owns build03/map03 and later file-only assembly, reusing generated command outputs
+only if validated. The current audited package has126payloads plus PROFILE.
+No new package/run is selected by this source-only integration decision.
+
+**2026-10-23 pure query controls selected:** root read full42-case source11f99eee
+and independent formal_query_audit clearance. Select exact07c1b58a60a89d7272117f53419ee58fa3b874dd7de3bd1f7de52d1ef57fca02,
+ordinary-formal-query-controls01: ten source snapshots, three Python runtime
+pins, outer45wall/25CPU/512MiB/two processes. Actual pure helpers/adapter only;
+synthetic search metadata is not accepted mathematics. No database/native/owner
+operation. Matching native02 is raw PASS with four intended calls, clean closure,
+27.874960wall/26.78125known inclusiveCPU; saved independent audit pending.
+
+**2026-10-23 matching syntax repair02 selected:** root read/adopts saved-failure
+and exact-delta review65bd8097. Native01 failed during parsing, before any
+mathematical admission, with clean closure (4.995585wall/3.640625known inclusive
+CPU); retain it unchanged. Select fresh5deafa2cbd9107ca585c54e5de5d4f02b9486bda5e0a7327457b70f0239d41c7,
+native02, with only the two record-layout repairs45e83c3a and mechanical
+harness8d0238e3 changes. Same158runtime pins and original180wall/120CPU inner,
+210wall/150CPU/2048MiB/eight-process outer; no automatic retry or package adoption.
+Query controls remain source-only under return_actual_audit; query_native_boundary
+authors the minimal new-command compilation/extraction discriminator. No user
+Lean project is available; these checks do not establish real-user usefulness.
+
+**2026-10-23 mixed-theorem native discriminator selected:** root read full
+source harnessc0cb4bd4 and independent review598b59fa. Select exact
+40fc345e43262a6b85e2a1ca5fd7bf7f4d886f1703913de37bab7456b8a25106,
+ordinary-module-matching-native01: unchanged saved mixed request, one ordinary
+consumer, exact-private-proof mismatch and all-matched refusals. One original
+180wall/120CPU/1536MiB inner210wall/150CPU/2048MiB/eight-process outer;
+four snapshot sources/158pins. No owner, closure recollection, extraction,
+package rebuild or automatic retry. Direct native/controller-label test only,
+not public facade adoption. Used source/harness now freeze.
+
+
+**2026-10-23 versioned checkpoint c14b8a4:** repaired source recipe, one-helper
+assembly, focused pin controls and audited relocated workflow are committed.
+Root also adopts saved25matching-report controls review638a5440 (0.46420wall,
+0.28125known inclusiveCPU). No runtime lives. Native matching selection40fc345e
+is prepared but NOT launched pending native_matching_audit. formal_query_audit
+owns the query source review; return_actual_audit now authors only focused pure
+query controls. Root preserves all previous installations/evidence and unrelated
+dirty paths; no personal/global Git configuration or remote change was made.
+
+
 **2026-10-23 source-build-to-use checkpoint independently adopted:** root read
 final saved auditf660b384. Exact127relocated files/156pins/252immutable outputs,
 four evidence IDs/three export IDs and actual native input bindings pass. New

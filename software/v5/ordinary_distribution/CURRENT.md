@@ -2,6 +2,33 @@
 
 Updated 2026-10-23. This is a mutable entrypoint, not a frozen run receipt.
 
+## Current query-enabled development package
+
+Use `build03.py` with `source-map03.json` for the current source recipe. It adds
+proof-free type queries and the exact installed-theorem export policy. The
+unchanged base/extractor phases and separately validated query compilation were
+reused in a file-only assembly; a complete build03 run was not repeated.
+
+The actual locally assembled package is
+`experiments/v5-local-checks/ordinary-query-assembly-01/assembled/package`, with
+PROFILE `2b8ac8cad152dde90a1b51d19dd1a821305bd7242b601c10eaa7a39f0db572f5`.
+It contains 133 payloads plus PROFILE, with the previous native acceptance
+installation unchanged. This identity describes this assembly, not all builds.
+
+An [independently audited public workflow](../../../research/cycles/v5-2026-10-22-native-library/ORDINARY-QUERY-PUBLIC-OUTCOME.md)
+now passes: a local proof-free type query drives actual loopback discovery, the
+returned target drives a checked mixed-module export, and a normal Lean file
+uses the new theorem. Whole-workflow cost was 45.15 wall / 23.390625 known CPU
+seconds, including a deliberate 20-second service lease. This is controlled
+compatibility evidence, not search speed, useful growth or a public release.
+See [query package usage](../ordinary_query_package/README.md).
+
+The build02 invocation below remains a preserved predecessor example. For the
+current recipe substitute `build03.py` and a fresh output directory; CLI flags and
+supported runtimes remain unchanged. No license or external publication is selected.
+
+## Preserved one-helper predecessor
+
 Use `build02.py` with `source-map02.json` for a fresh source build. The earlier
 `build.py`, `source-map.json` and README preserve the original build checkpoint;
 their extraction helper is incompatible with a freshly rebuilt extractor whose

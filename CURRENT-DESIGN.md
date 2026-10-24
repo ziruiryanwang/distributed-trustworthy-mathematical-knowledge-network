@@ -67,16 +67,51 @@ fix leaves output-name and mathematical checking rules unchanged. This closes
 the local interoperability loop, not a growth advantage or fresh peer acceptance.
 Scratch authoring binaries remain distinct from proof-complete modules.
 
-The [current repository-source build](software/v5/ordinary_distribution/README.md)
+The [current repository-source build](software/v5/ordinary_distribution/CURRENT.md)
 now passes its [independent outcome audit](research/cycles/v5-2026-10-22-native-library/ORDINARY-CURRENT-BUILD-REVIEW.md).
 One command produced all 126 current payloads from a fresh 69-file source tree,
 without old experiment-built artifacts, in 52.50 seconds elapsed / 48.02 known
-inclusive CPU seconds. The new extractor binary still needs actual-use validation;
-a fresh relocated public workflow is next. This is not a hermetic-build or release
-claim. In parallel, a [narrow installed-theorem successor](research/cycles/v5-2026-10-22-native-library/ORDINARY-INSTALLED-THEOREM-SELECTION.md)
-is under source review: exact private proofs plus checked public interfaces can
-remove the mixed-standard-library collision without extending the foundation.
-No new certificate campaign, resident checker or broad benchmark is selected.
+inclusive CPU seconds. Independent review then caught a helper still hard-coded
+to the old extractor binary. A separately reviewed one-helper successor uses the
+operator-approved package's exact executable-role pin; all 125 other payloads
+were preserved without recompilation. The resulting relocated package now passes
+an [independent public-use audit](research/cycles/v5-2026-10-22-native-library/ORDINARY-CURRENT-SMOKE-REVIEW.md):
+fresh initialization, definition/theorem contribution, ordinary module export
+and consumer use, and missing-library extraction followed by real proof completion.
+Whole-run cost was 53.94 wall / 48.703125 known inclusive CPU seconds. This is not
+a hermetic-build, useful-growth or release claim.
+
+In parallel, a [narrow installed-theorem successor](research/cycles/v5-2026-10-22-native-library/ORDINARY-INSTALLED-THEOREM-SELECTION.md)
+has passed source review, pure report controls and its actual native discriminator:
+exact private proofs plus checked public interfaces remove the selected mixed-
+standard-library collision without extending the foundation. Both fresh rereads,
+ordinary consumer use and two refusals passed independent review. Its public
+package integration now also passes. A new
+[query-only formal-contract seam](research/cycles/v5-2026-10-22-native-library/ORDINARY-FORMAL-QUERY-CONTRACT.md)
+has passed source review and 42 pure query/preview/adapter controls: a local
+project is intended to describe a type before knowing a
+theorem name or producing a proof. Its first mode is explicit syntactic exact-type
+lookup, not general equivalence search, and ordinary package sharing receives the
+same discovery facility. Successful native command compilation and a separately
+audited saved-output postcheck support the coherent 133-payload query package.
+Its [public integration](research/cycles/v5-2026-10-22-native-library/ORDINARY-QUERY-PUBLIC-OUTCOME.md)
+now passes: the actual generated query drives loopback discovery, the returned
+locator drives checked export, and a clean ordinary Lean file uses the result.
+Whole-workflow cost was45.15wall/23.390625known CPU seconds, including the service
+lease. The original native harness's inventory-reader failure remains preserved;
+its two successful compilations were not repeated. The
+[integration decision](research/cycles/v5-2026-10-22-native-library/ORDINARY-QUERY-INTEGRATION.md)
+reuses the existing search, owner and generated checker support. No new
+certificate campaign, resident checker or broad benchmark is selected.
+
+The next central design decision is [incremental ordinary module export](research/cycles/v5-2026-10-22-native-library/ORDINARY-POST-INTEGRATION-PRIORITY.md).
+Current export still recollects the full selected nonbasis proof closure and
+caps it at32units/4MiB. A registered, locally checked modern-module boundary is
+sound in principle under the [independent challenge](research/cycles/v5-2026-10-22-native-library/ORDINARY-MODULE-ANCHOR-CHALLENGE.md);
+its precise implementation contract is being settled. It must preserve exact
+whole-unit identity, private/public checking and protected artifact authority.
+Peer binaries or copied manifests do not qualify. This is not implemented yet,
+and residual context loading/integrity costs will remain.
 
 These results do not establish independently hosted operation, broad workload
 benefit or a final deployable v5. Cold loading still depends on the selected local
