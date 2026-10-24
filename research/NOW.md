@@ -1,5 +1,41 @@
 # Current research desk
 
+**2026-10-24 build01 clean failure, surgical continuation:** selectionff808bd2
+completed49.1753wall seconds,6.421875JobCPU+1.140625wrapperCPU, peak614010880bytes,
+zero remaining processes and clean closure. Exporter codegen/object succeeded;
+artifact core failed because `meta` is a reserved Lean keyword. Matcher has the
+same local identifier. Preserve all used01 sources/evidence and successful
+exporter outputs. Select source-only core02/wrapper02/matcher02 successors with
+only metadata-local renames and core02 imports; build_native02/selector02 reuse
+the successful exporter outputs and ten shared objects, compiling only the three
+remaining modules. No retry/renewal or build02 launch yet. Root report binder
+source review is independently clear; actual registration/delta use still open.
+
+**2026-10-24 changed-native build selected:** root read final adaptera2d2b12a,
+selectorbf11621b and native dependency closure; independent engineering review
+reports no blocker and verifies retained-object provenance. Select one fresh
+ordinary-baseline-native-build-01, at most240wall/180inclusiveCPU/1536MiB/six
+active processes, with1MiB each log and384MiB cooperative build spool. Compile
+only exporter403f1f43, core6f160a08, wrapper78abf44c, matcher5120d6bb; reuse ten
+exact existing shared objects and23 named runtime pins. Exactly11 compiler/link
+commands, three candidate executables, no native fixture execution or owner.
+Used sources freeze on launch. Root's separately selected report binder remains
+source-only review; live reference registration/delta integration is unfinished.
+
+**2026-10-24 resumed, ordinary-library integration:** user has no existing local
+Lean project. Use one small explicitly controlled modern-library workflow rather
+than block on an external project or rerun the large admission. Root read the
+final matcher5120d6bb, artifact core6f160a08/wrapper78abf44c and independent
+semantic audit596959b3; its conditional source argument is adopted, not runtime
+or registration. It matches both actual kernel/frontend views and their union
+of semantic dependencies. cold_intake_strategy finishes the narrow retained-object
+build adapter; reference_soundness_audit separately reviews its engineering;
+project_intake_native identifies minimal protected registration/delta seams and
+one useful native fixture. Root owns final build selection and integration.
+No candidate executable or original-library operation is yet launched. The
+preview package remains adopted; full v5 and genuine original-library reuse
+remain unfinished. Preserve all previous passing controls and dirty history.
+
 **2026-10-24 snapshot controls adopted:** root read saved-only review87d81110:
 all151 runtime pins/four snapshots,20 exact copied parts and ten outcomes pass;
 clean closure2.2836733wall/1.625actualCPU. Freeze/no rerun. Producer10/snapshot10

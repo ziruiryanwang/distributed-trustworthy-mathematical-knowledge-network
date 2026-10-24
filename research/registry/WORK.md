@@ -4,6 +4,16 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 after compaction: root has read/adopted the conditional matcher
+soundness source audit, not an actual reference. cold_intake_strategy owns
+build_native/select_native_build plus build checkpoint, then proposes only a
+small actual-native workflow. reference_soundness_audit owns new independent
+ORDINARY-BASELINE-BUILD-CHALLENGE.md; mathematical review is complete and is not
+repeated. project_intake_native owns source/theory integration plan at
+ORDINARY-REFERENCE-LIVE-INTEGRATION.md, no new native edits or runs. Root owns
+all exact build/runtime selections, controller integration and Git. Canonical
+root remains E:\Distributed Trustworthy Mathematical Knowledge Network.
+
 2026-10-24 A2 connection: root authored source-only baseline_snapshot.py;
 reviewer found/corrected Lean's first-package-prefix resolution mismatch (do not
 search later roots for a missing nested file). module_anchor_audit reviews final

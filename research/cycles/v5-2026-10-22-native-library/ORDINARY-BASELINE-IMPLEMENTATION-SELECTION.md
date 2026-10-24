@@ -306,3 +306,30 @@ normalizes only nonsemantic singleton metadata; it is not OwnerRebind's separate
 weaker interface-shaped seed helper. Do not silently substitute that helper.
 The native author and fresh soundness auditor coordinate this correction before
 compilation. No seed/trust-policy weakening is selected.
+
+## Live report binding seam (source only)
+
+Root may author fresh `software/v5/ordinary_baseline/reference_report.py`.
+It validates the exact native correspondence response against the prepared
+request and selected replay map: identity labels, complete ordered private
+census, whole-unit public subsequence, every output's exact kind/universes and
+both projection classes, targets, module membership and bounded counters.
+It returns inert validated metadata, never a protected reference or mathematical
+warrant. Only the future controller's actual clean live event, current owner
+warrants and immutable support/artifact validation may authorize registration.
+No saved-report registration, native run or owner mutation is selected here.
+
+## Compile-only repair after preserved native build01 failure
+
+The first selected build compiled the exporter, then refused the core's reserved
+local identifier `meta`; the matcher contains the same identifier. All used01
+sources and evidence are frozen. `project_intake_native` may author fresh
+BaselineArtifactCore02.lean, BaselineArtifacts02.lean and OrdinaryReferenceBase02.lean,
+changing only that local spelling and the two imports to the new core name.
+Retain namespaces, protocols and semantics. `cold_intake_strategy` may author
+fresh build_native02.py/select_native_build02.py to reuse the successful exporter
+.olean/.c/.o and the ten shared objects, compiling only the three successors and
+linking the same three roles. Verify preserved success within the clean failed
+build, not a nonexistent successful BUILD.json. Independently review the narrow
+diff and source/output provenance. The same proposed maximum envelope remains;
+no build02 execution is authorized by this source selection.
