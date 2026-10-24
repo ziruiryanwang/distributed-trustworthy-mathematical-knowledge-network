@@ -4,6 +4,23 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 baseline continuation: pure binder/native/intake sources are awaiting
+one final source/control review; baseline_controls finished the 24-case inert
+harness and selector, no run yet. cold_intake_strategy now additionally owns
+source-only baseline_production.py and optional baseline_worker.py, per the
+implementation selection amendment. Root alone selects the controls launch;
+reviewer audits saved outcomes. No real owner/native operation is selected.
+
+2026-10-24 strict baseline source selection: cold_intake_strategy owns only new
+ordinary_baseline/baseline_bundle.py (inert binder/manifest/batching);
+project_intake_native owns realization clarification then BaselineExporter.lean;
+root owns baseline_intake.py, later facade/controls/integration/Git;
+module_anchor_audit owns independent contract/source review. Exact scope and
+finite format ceilings: ORDINARY-BASELINE-IMPLEMENTATION-SELECTION.md in the
+v5-2026-10-22-native-library cycle. No runtime/native build/owner/catalog operation
+or old campaign is selected. Reference correspondence implementation awaits the
+private/public closure and exact artifact-lifetime contract reconciliation.
+
 2026-10-24 after preview public01 raw PASS: module_anchor_audit owns saved-only
 outcome audit; root owns adoption/navigation/Git. project_intake_native owns
 source/theory-only ORDINARY-NEXT-RELEASE-BOTTLENECK.md, comparing strict one-time

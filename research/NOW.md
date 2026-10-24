@@ -1,5 +1,49 @@
 # Current research desk
 
+**2026-10-24 baseline controls adopted:** root read independent outcome13787595
+and saved24cases. All155 runtime pins/five snapshots preserved; clean closure,
+4.1454236wall/3.875known inclusiveCPU,53,825,536peak Job private bytes. This is
+real inert syntax/planning with simulated owner/native/storage, not mathematical
+admission. Do not rerun or polish this completed boundary. Used Python sources
+and evidence are frozen. Native exporter403f1f43 is source-reviewed, uncompiled.
+Automatic producer controller is next source-only connection; A2 immutable
+reference registration and actual ordinary delta use remain the central next
+integration. Current preview package remains adopted; full v5 is unfinished.
+
+**2026-10-24 baseline focused controls selected:** root read final producer,
+binder, intake, 24-case inert harness and selector; independent source review
+da3f12e4 clears the final source. Select
+87642e3e603716552f00a9cf0f759f78e4efa8e3b53ffdc13a89f1a6141574c7:
+one 60 wall/35 CPU/768 MiB/two-process syntax/planning run. Real codecs/planner,
+explicit inert owner/storage/native doubles. No database, actual admission,
+native compilation, networking or reference registration. Used Python sources
+freeze on launch; producer controller remains separate source-only work. Current
+installed package and prior evidence remain unchanged; full v5 is unfinished.
+
+**2026-10-24 strict baseline source implementation selected:** root read the
+producer/intake and A2 realization contracts. Select fresh ordinary_baseline
+source under ORDINARY-BASELINE-IMPLEMENTATION-SELECTION.md: automatic fixed-seed
+producer/binder and thin strict batched intake, while resolving private proof
+closure versus public reusable interface with independent review. Preserve the
+original approved library through exact correspondence, not mass reconstruction
+or unchecked-base trust. No native build, experiment, owner operation, package
+adoption or enlarged runtime allowance is selected. Existing large admission
+evidence is reused, not rerun. Full v5 remains active and unfinished.
+
+**2026-10-24 baseline strategy refinement, source only:** Git43c6ff0 preserves
+the completed preview seam. Root read the baseline intake contract and inspected
+the actual bridge/codec: cap-only onboarding would leave definition/group
+collisions and ordinary frontend integration unresolved. Select investigation
+of strict correspondence to an owner-approved existing project (A2), rather
+than rebuilding its entire library or adopting it as an unchecked mathematical
+base. ORDINARY-BASELINE-STRATEGY-UPDATE.md states the conditional relation.
+Native author specifies exact artifact/semantic registration and delta use;
+reviewer challenges it; bundle author resolves the reusable evidence producer.
+Pinned Lean Declaration.lean explicitly documents non-inductive `.all` as
+kernel-unused metadata: retain exact equality, do not invent semantic sibling
+dependencies. Public theorem proof-erasure remains a separate restricted rule.
+No baseline source implementation/runtime/trust-policy change is yet selected.
+
 **2026-10-24 preview package adopted:** root read independent saved-outcome
 review c4944a33 and actual exact/tamper public reports. All 148 runtime pins/four
 snapshots and held inputs preserved; two real HTTP calls return expected 0/1,
