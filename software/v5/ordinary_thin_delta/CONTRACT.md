@@ -1,5 +1,76 @@
 # Same-base checked delta: module-only source successor
 
+## Retained-input integration adapters (source selection)
+
+Root read/adopts THIN-REUSE-INTEGRATION. The file-only assembly returned zero
+with clean closure (6.62 wall seconds, 2.58 child-job CPU seconds); independent
+saved-output review is pending. Select only these fresh adapter sources:
+
+- `select_export.py` and inert `project-selection.json`: one owner-free public
+  native-first `produce-baseline` call on the already compiled A and original P
+  artifacts. No recompilation, protected owner state or reference authoring.
+- `integrate.py` and `select_integration.py`: actual existing P state, fresh
+  support registration using the retained snapshot, genuine A intake, thin delta,
+  ordinary P+delta recipient application and one private-frontier refusal.
+
+The export is the first discriminator. Inspect its complete new units/imports
+before funding registration. The integration must accept actual explicit output
+pins; it cannot predeclare extraction success. Root selects each runtime only
+after source review. No fixture rebuild, owner initialization, manual state edits,
+old-report promotion, source-authoring repair, new math campaign or deployment.
+Use existing supervisor/helper mechanisms and avoid duplicating historical
+audits. One existing useful boundary, not a growing test programme, is the target.
+
+Root successor selection, 2026-10-24: export01 failed at INPUTS before native
+entry because its project config ended in a noncanonical LF. Preserve it. Root
+and independent reviewer verified config02 is exactly those bytes minus the LF.
+Select one new `thin-delta-export-02` with selector
+`c5560ec4ccc4eb0f16cd48c77c19217bac0ef30b0e30a39a512183d30948a168`
+and config `60376198a6fd6459564d55f1b8cccf0e57ff31ca6b4018ee8a0e17b7142fc59c`.
+Only fresh paths/hash and exact canonical-config preflight change; all export01
+input identities, command scope and finite caps remain. No parser weakening,
+fixture rebuild, retry within an old allocation or acceptance claim.
+
+Root actual export selection, 2026-10-24: independent complete source review GO
+read/adopted. Run exactly one `thin-delta-export-01` using selector
+`f497b08ecad02805438031a6dd1237bcd469d4bf7ebea28ab9db920e1f911453`
+and project config `a6680d7e6d607cc2f9a2e838eb6273672ea0ab521ae7718e035ee118711fe02e`.
+Actual native-src01 PROFILE is `fc45893cef624978f0ab5212d0e1e172ff7c71f821124daa8751727bf7123ef6`.
+Preserve inner 120wall/90CPU/1536MiB/144MiB-spool, outer
+150wall/120CPU/1792MiB/six-process allowance. Extract retained A; no authoring,
+owner state, new registration or mathematical acceptance in this run. Used source
+and evidence freeze on launch. No retry or follow-on operation is automatic.
+
+## Subsequent integration-source selection
+
+Root actual selection, 2026-10-24: the complete independent source review is
+read/adopted. Run exactly one file-only `thin-delta-assembly-01`, using assembler
+`deda266fa8ec2a75ed0fc5dac58b8539c9bf74b04bf480e8629019477774f14f`,
+selector `9f7775e2e401e2a477b40be7843d463269494d330967f65d6e2cfffe84e16cbf`
+and payload-map `b4ea2095856d90190fff17ed455b2b2a4fbeaa78025134a8532eb3186415893b`.
+The existing hard-contained runner applies 90 wall seconds, 50 aggregate CPU
+seconds, 512 MiB and two processes. No compiler, owner state, registration or
+mathematical operation is included. Inspect the retained result before any
+native use. This selection does not renew another allowance.
+
+After independent module-source clearance, root selects only `assemble.py` and
+`select_assembly.py` in this directory as finite file-only integration adapters.
+They must use the exact retained reference-assembly-03 package and replace only
+logical `reference/ReferenceModule.lean` with the reviewed fresh source. All
+other payloads/installation bytes remain exact; PROFILE/assembly metadata must
+be honestly regenerated. This is an experimental integration package, not a new
+public release or repair of the parked source-authoring commands it retains.
+
+Reuse the established assemble03/selector algorithms rather than invent a new
+builder. Resolve actual immutable package/profile/receipt pins, guard the fresh
+destination and snapshot every changed source. Root reviews the complete map
+before any assembly is run. No compiler, owner open, registration or mathematical
+operation is selected by writing these adapters. Existing registered support is
+not migrated; new support will require an actual authorized registration.
+
+The original module-source contract below remains unchanged in substance. Its
+reviewed source hash is `026839805f72f8ae9bab99cc4401d878206052ff090175a64bc039405b186c91`.
+
 2026-10-24. Root selects this source change after the growth-value and thin-route
 comparison. This is not a new native runtime, package, registration or migration.
 

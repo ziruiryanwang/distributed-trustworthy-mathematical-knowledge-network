@@ -1,5 +1,15 @@
 # Goal: a usable mathematical commons architecture and software
 
+**2026-10-24 explicit concept/theory-development requirement:** the system must
+be capable of supporting the development of new mathematical concepts and
+theories, not merely distributing existing results or caching answers. Agents
+independently propose definitions/abstractions, develop their consequences and
+connections, and return extendable mathematical work. Assess actual support for
+this creative loop separately from proof correctness and from guaranteed novelty
+or importance. Human intention and a mandatory global task list remain outside
+mathematical acceptance. This strengthens the growth priority; it does not make
+heuristic concept selection an authority for truth or waive deployability.
+
 **2026-10-24 growth-first steering after the current integration:** finish the
 bounded ordinary-reference workflow already in progress, then prioritize creative
 but reasonable justifications for software-enabled mathematical growth. Those

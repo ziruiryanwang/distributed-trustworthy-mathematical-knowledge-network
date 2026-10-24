@@ -4,6 +4,28 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 concept-growth clarification: fresh concept_growth owns only
+growth-selection/CONCEPT-THEORY-GROWTH.md, source/theory decision translating the
+user's new-concept/new-theory requirement into an actual creative loop and decisive
+architecture test. Reuse CP-001C and previous growth results, no generic rederivation.
+At-hand thin integration authors continue their bounded scopes; assembly audit is
+CLOSED/PASS and read/adopted. No concept experiment or new agent service is selected.
+
+2026-10-24 retained thin integration: thin_delta_audit owns saved assembly audit
+in its existing THIN-DELTA-SOURCE-REVIEW; thin_reuse_route owns fresh select_export.py
+and project-selection.json; thin_delta_assembly owns fresh integrate.py and
+select_integration.py. All source paths are under ordinary_thin_delta. Both authors
+checkpoint append-only in THIN-REUSE-INTEGRATION, coordinating their append.
+Root owns actual reviewed launch decisions, scope, growth navigation and Git.
+No adapter launch is automatic; no owner/native operation yet.
+
+2026-10-24 thin-reuse integration SOURCE preparation: thin_reuse_route owns only
+growth-selection/THIN-REUSE-INTEGRATION.md (exact retained inputs and cheapest
+genuine public-operation sequence). thin_delta_assembly owns only
+ordinary_thin_delta/assemble.py and select_assembly.py. Root owns contract,
+reviews/actual selections/navigation/Git. No runtime, owner open or protected
+state changes; used predecessors and mathematical evidence remain preserved.
+
 2026-10-24 growth_value_challenge, growth_hint_route, thin_reuse_route and
 thin_delta_audit CLOSED; root read/adopts their complete checkpoints. Exact thin
 materializer source026839805f72 passes independent source review, not execution.

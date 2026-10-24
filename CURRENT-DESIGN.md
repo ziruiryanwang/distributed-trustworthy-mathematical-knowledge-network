@@ -4,6 +4,16 @@ Updated: 2026-10-24. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
+**Explicit creative-growth requirement (2026-10-24):** the user requires support
+for developing new concepts and theories, not only sharing proved endpoints.
+The formal-native investigation in CP-001C already distinguishes legal definitions,
+parameterized structures, models, conjectures and checked consequences. The next
+growth decision must connect those capabilities to an operable independent-agent
+loop and the current actual declaration/import limits. A theorem-only thin-base
+integration is useful interoperability evidence, not satisfaction of this creative
+requirement. Novelty, nonvacuity and value must not be conflated with kernel success;
+heuristic research selection stays outside mathematical acceptance.
+
 **Growth-led capability selection (2026-10-24):** the
 [value decision](research/cycles/v5-2026-10-24-growth-selection/GROWTH-VALUE-DECISION.md)
 identifies same-base thin reuse as the next concrete gap: an agent already working

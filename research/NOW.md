@@ -1,5 +1,30 @@
 # Current research desk
 
+**2026-10-24 latest user clarification: concepts and theories, not reuse alone.**
+Finish the finite at-hand thin-base boundary without expanding it. The subsequent
+growth decision must explicitly cover local definition/abstraction proposal,
+theory development, substantive models/consequences/connections, and independent
+extension of a newly proposed theory. Distinguish implemented support, plausible
+creative policy, and evidence of novelty/value. Do not treat another theorem-only
+integration as closing this requirement. Full v5 remains active.
+
+**2026-10-24 retained same-base integration moving to one useful boundary:**
+file-only thin-delta-assembly-01 returned zero/closed (6.62wall, 2.58childCPU);
+saved-output audit pending. Root read/adopts THIN-REUSE-INTEGRATION. Two disjoint
+source adapters are selected: owner-free extraction of retained compiled A,
+then (only if actual closure fits) fresh-support registration/intake/delta and
+ordinary original-base recipient use. No reference authoring, fixture rebuild,
+owner init or migration. Full v5 stays active. Finish this boundary, then judge
+further architecture by useful-growth payoff rather than available engineering.
+
+**2026-10-24 thin-reuse integration preparation active:** previous turn was
+concrete progress (19790a7, reviewed module source). Root selects file-only
+one-overlay assembly/selector SOURCE under ordinary_thin_delta/CONTRACT, and an
+independent retained-input map in THIN-REUSE-INTEGRATION. No runtime or owner
+operation yet. Reuse accepted P and retained compiled outputs where valid; do
+not revive special reference authoring, rebuild the fixture or migrate support.
+Full v5 remains active and unfinished.
+
 **2026-10-24 growth-first source increment CLOSED/read/adopted:** all four
 growth-value/hint/thin-route/source-review assignments are complete. Fresh
 ordinary_thin_delta/ReferenceModule.lean (026839805f72) passes independent source
