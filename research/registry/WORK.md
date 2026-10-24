@@ -4,6 +4,13 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 incremental module source selection: anchor_state_impl owns new
+ordinary_module_anchor/anchor_store.py and module_closure.py; query_native_boundary
+owns OrdinaryModule.lean and module_worker.py there; root owns module_export.py
+and fresh ordinary_module_anchor_package facade/integration. module_anchor_audit
+owns ORDINARY-MODULE-ANCHOR-SOURCE-REVIEW.md. Exact scope is the implementation
+selection and final a091435b contract. No runtime/package adoption selected.
+
 2026-10-23 after public query-to-use raw PASS: formal_query_audit owns saved-only
 ORDINARY-QUERY-PUBLIC-OUTCOME.md; public_query_review completed independent source
 clearance23a72af3. query_native_boundary owns fresh module-anchor implementation

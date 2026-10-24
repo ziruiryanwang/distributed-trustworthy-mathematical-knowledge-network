@@ -146,3 +146,93 @@ native `45e83c3a2a53cc32968fb0ba187ca39b4b2614884284ee78aa78cf7ff28d2019`;
 worker `3872864a27e9fbb12e56eaa2ebabd9299d97a336c5e58840648a86b5c371df18`;
 legacy snapshot `488a76f4b8599a95bdc748c5e89187bc55e23f63d34cf52952702d93ff68795c`;
 admission `9653a710a089393d189830a26aa8dd0723ee75859ce577d9713dae569b5e8575`.
+
+## CONTRACT-REVIEW: concrete first profile
+
+2026-10-23; independent source/theory review of
+`ORDINARY-MODULE-ANCHOR-CONTRACT.md`, final SHA-256
+`a091435bebcccacfc7241a649a988be44b696fb08f567a4c32597162c9b159ab`.
+Read the complete contract and the later exact pure-frontier/record refinements.
+No runtime, product-source edit, database access or Git operation was performed.
+
+The final wording refinement changes the proposed negative control from
+"forged receipt rejection" to "old/uncommitted/external-manifest rejection".
+This correctly avoids claiming detection of an administrator rewriting trusted
+sidecar authority; it does not alter the implementation contract or clearance.
+
+**Clear this contract as a basis for separately selected implementation.**
+No remaining theoretical blocker was found for its narrow first profile. This
+does not clear unwritten code, establish a passing integration, or remove the
+explicit importer/storage assumptions in the preceding challenge.
+
+### Refinement made during review
+
+The first exact record schema named a target-dependent materialization key but
+did not retain the corresponding compact original target list. Reading the old
+proof-containing request merely to recover that list would undermine warm reuse.
+The final contract adds explicit immutable bounded `targets` and recomputes:
+
+```text
+key = H("DMKN-ORDINARY-ANCHORED-MODULE-V1\0",
+        canonical({support_id, parent_anchor_id, targets}))
+module_name = "DMKNBridge_" + key.
+```
+
+The exact parent AnchorID transitively commits its artifact representation and
+imports. Thus changing the imported materialization cannot silently reuse the
+old module name. The parent is not replaced by a same-named theorem or a local
+context label. The contract also now includes the owner facade/registration
+call path in the support pin set where it gates the live event; the implementer
+must enumerate that set during source review rather than infer compatibility
+from a whole-package or query-only hash.
+
+### Assessed boundaries
+
+- The sidecar is a protected local realization registry under the existing
+  owner lock, not a second mathematical database or a peer-accepted ledger.
+  STORE binding, exact-ID addressing, live Grant identity and commit-last
+  publication preserve the local event distinction. Historical reports and
+  arbitrary preexisting artifacts cannot bootstrap registration.
+- Only new whole-unit metadata is stored per child. Loading the selected chain
+  checks every registered binding against the current warranted context,
+  rejects repeated unit ownership/name conflicts and verifies all required
+  artifact parts. This is sufficient for the stated inductive realization
+  argument without decoding old proof inventories.
+- The pure `AnchorFrontier` is explicitly caller-authenticated input, not a
+  new warrant. It validates canonical name/ID and unit/output relationships,
+  whole-group uniqueness, limits and current warrants before cutting traversal.
+  The unchanged planner receives basis plus anchored bindings, not the entire
+  accepted context, so unanchored work cannot be mislabeled as reused.
+- A nonempty delta retains existing 32-unit/4-MiB limits and real private/public
+  insertion checks. Explicit full-chain artifact mapping and exact direct-import
+  headers prevent accidental resolution through unrelated project files.
+  Legacy one-part snapshots remain excluded. Transparent semantics and the
+  theorem-erasure compatibility refusal are preserved.
+- Empty delta has a separate result: the same existing AnchorID/module chain,
+  a separately stated current target request, zero fetches/native calls and no
+  new registration. It cannot rewrite the immutable original target list or
+  fabricate an empty checked module. An all-installed-match residual may still
+  refuse rather than inventing a new module.
+- Staging failures leave ineligible charged orphans. Only the final record's
+  no-overwrite namespace publication commits. A later error cannot revoke that
+  record; explicit exact-ID lookup resolves uncertainty by checking existing
+  committed state, not reconstructing authority from a saved PASS. Missing data
+  fails closed. Uncertain worker cleanup blocks this sidecar, not unrelated
+  accepted mathematics by default.
+
+### Implementation obligations, not reasons for another broad experiment
+
+Source review must check the actual private Grant/call path, canonical record
+schema, dependency-specific support pins, stage-versus-commit ordering, exact
+five-part import resolution and two-view child rereads. The contract's existing
+profile verification must remain operative even with its narrower compatibility
+key. Quotas must include orphans and copies without treating reserved storage or
+failed work as free. Initial sidecar creation must fail closed on incomplete
+state; it must not adopt a malformed directory on the next invocation.
+
+These are finite implementation boundaries. They do not justify rerunning the
+already successful query/discovery campaign or a 33-unit native stress test.
+Focused pure cut/record controls and one genuinely incremental native use can
+test the new boundary after source review. Hashing/loading the selected anchor
+chain may still cost O(its bytes/metadata), and cold onboarding, large single
+units and independent-host deployment remain outside this change's guarantee.

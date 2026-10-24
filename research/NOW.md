@@ -1,5 +1,31 @@
 # Current research desk
 
+**2026-10-23 pure frontier outcome independently adopted:** seven changed groups
+passed; all 148 runtime pins and four snapshots independently rehashed. Clean
+2.4493579 wall / 2.234375 known inclusive CPU seconds. No owner/native/network
+work. Collector f053e972 and controls/selector remain frozen; do not rerun.
+Registry source review found and repaired pre-copy quota ordering before use.
+Root/controller and native sources implement V3 reports and durable reservation/
+cleanup markers; source clearance/storage controls/package integration remain
+pending. No runtime lives and no new installed package is adopted.
+
+**2026-10-23 pure frontier controls selected:** root read collector f053e972,
+controls 26b2d538 and selector 59eb157b; independent source clearance received.
+Select 2c82c894c36ae80c85c41bf2fa71430e56873515bc5026d51c83a9f06c37992e,
+ordinary-module-anchor-frontier01: seven changed-boundary groups under explicit
+mock warrants, retained real evidence, 60 wall/35 CPU/512 MiB/two processes.
+No owner/database/native/network operation or old campaign. These sources now
+freeze on use; registry/native/controller remain unused source under review.
+
+**2026-10-23 incremental module source implementation selected:** root read final
+contract a091435b and independent clearance 4122f23e. Follow
+ORDINARY-MODULE-ANCHOR-IMPLEMENTATION.md: anchor_state_impl owns fresh pure
+collector/sidecar; query_native_boundary owns native/worker; root owns controller
+and package facade; module_anchor_audit reviews changed source. No runtime is
+selected. The local checked frontier removes old proof replay on warm ordinary
+exports; it is neither a peer-binary trust mode nor a cold-verification solution.
+No old query/build campaign is repeated. Full v5 remains active and unfinished.
+
 **2026-10-23 public integration independently adopted:** root read full outcome
 87dcf2b1: seven actual calls,463immutable files including252predecessor pins,
 exact query/SPECS/returned-locator/export/ordinary-consumer chain, all clean.
