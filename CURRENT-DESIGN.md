@@ -4,6 +4,21 @@ Updated: 2026-10-24. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
+**Growth-led capability selection (2026-10-24):** the
+[value decision](research/cycles/v5-2026-10-24-growth-selection/GROWTH-VALUE-DECISION.md)
+identifies same-base thin reuse as the next concrete gap: an agent already working
+in an approved, independently warranted library should import a checked new
+theorem without duplicate base definitions or executing producer code. This
+revises the earlier judgment that all original-base reuse can remain optional
+compatibility work. It does not revive general reference authoring or frontend
+recreation. A [fresh materializer overlay](software/v5/ordinary_thin_delta/CONTRACT.md)
+now passes independent source review for its private/exported header-mode repair;
+actual integration needs new support registration and remains unqualified.
+Existing conditional growth arguments suffice to motivate this capability;
+neither a new proof-plan protocol nor another abstract speedup theorem is needed.
+Ordinary packages remain the primary authoring route; this extends the optional
+no-producer-code transfer route for compatible warm bases.
+
 **Lifetime decision (2026-10-24):** the completed
 [comparison](research/cycles/v5-2026-10-24-growth-selection/GROWTH-LIFETIME-DECISION.md)
 selects existing batching and deliberately smaller eligible contexts, with real

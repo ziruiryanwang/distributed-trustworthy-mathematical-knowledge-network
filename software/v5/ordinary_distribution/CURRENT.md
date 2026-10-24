@@ -4,6 +4,15 @@ Updated 2026-10-24. This is a mutable entrypoint, not a frozen run receipt.
 
 ## Current direction: ordinary Lean first, selected interchange
 
+**Uninstalled growth-led successor (2026-10-24):**
+[`ordinary_thin_delta/CONTRACT.md`](../ordinary_thin_delta/CONTRACT.md) selects a
+mode-correct materializer for checked theorem deltas over a recipient's existing
+approved, independently warranted original base. Independent source review passes;
+no package/profile is changed here. The 141-payload clean-source package below
+remains unchanged. A future integration must obtain a genuine new support-bound
+registration; it cannot reuse old reference authority or claim the parked
+reference-authoring path is repaired.
+
 **Current clean-source route (2026-10-24):**
 [`ordinary_native_distribution/build.py`](../ordinary_native_distribution/build.py)
 now builds the native-first 141-payload role set from repository sources and

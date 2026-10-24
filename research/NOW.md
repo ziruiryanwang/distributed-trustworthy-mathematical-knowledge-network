@@ -1,5 +1,23 @@
 # Current research desk
 
+**2026-10-24 growth-first source increment CLOSED/read/adopted:** all four
+growth-value/hint/thin-route/source-review assignments are complete. Fresh
+ordinary_thin_delta/ReferenceModule.lean (026839805f72) passes independent source
+review: mode-correct enclosing header, all imported-modern and private/public
+checking rules preserved. No runtime ran; no old source/state changed. Root's
+next useful gate is a finite same-base integration with genuinely new support
+registration and ordinary recipient use, not a duplicate syntax build or special
+reference-authoring repair. Prepare/review actual input/map first. Full v5 ACTIVE.
+
+**2026-10-24 concrete growth capability selected: same-base thin reuse.** Root
+read/adopts GROWTH-VALUE-CHALLENGE and GROWTH-HINT-ROUTE: preserve the conditional
+growth thesis; no new growth calculus or hint protocol. Existing projects need
+checked theorem deltas without duplicate base definitions or producer execution.
+Only ordinary_thin_delta/CONTRACT's mode-correct module source overlay is selected,
+with independent source review next. Separate private/exported checks stay intact;
+new support needs genuine registration. No source-authoring revival, native run,
+package migration or growth-speedup claim. Full v5 remains ACTIVE.
+
 **2026-10-24 growth-value selection active, source/theory only:** two disjoint
 reviews under GROWTH-VALUE-DECISION challenge the practical product/comparator and
 the optional local-replay guidance alternative. Reuse existing capability/cost

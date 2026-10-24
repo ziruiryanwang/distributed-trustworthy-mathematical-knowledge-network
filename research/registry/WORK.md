@@ -4,6 +4,18 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 growth_value_challenge, growth_hint_route, thin_reuse_route and
+thin_delta_audit CLOSED; root read/adopts their complete checkpoints. Exact thin
+materializer source026839805f72 passes independent source review, not execution.
+No active experiment or agent assignment. Root owns next finite same-base
+integration input/map selection under GROWTH-VALUE-DECISION; no separate syntax
+campaign, source-authoring revival or old-support migration is selected.
+
+2026-10-24 growth-value and hint-route assignments CLOSED/read/adopted. Thin reuse
+route comparison completed; root owns fresh ordinary_thin_delta/ReferenceModule.lean
+and CONTRACT. Independent changed-boundary source review is the next assignment;
+no runtime, build, integration, registered-state change or source-authoring repair.
+
 2026-10-24 GROWTH-VALUE-DECISION source/theory selection:
 growth_value_challenge owns only growth-selection/GROWTH-VALUE-CHALLENGE.md;
 growth_hint_route owns only growth-selection/GROWTH-HINT-ROUTE.md. Root owns
