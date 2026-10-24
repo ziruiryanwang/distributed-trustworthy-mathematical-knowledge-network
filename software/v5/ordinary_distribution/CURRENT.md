@@ -2,7 +2,35 @@
 
 Updated 2026-10-24. This is a mutable entrypoint, not a frozen run receipt.
 
-## Current candidate-preview development package
+## Current direction: ordinary Lean first, selected interchange
+
+The adopted [growth decision](../../../research/cycles/v5-2026-10-22-native-library/GROWTH-NEXT-LEVERAGE.md)
+uses ordinary approved Lean projects and existing local search/application first.
+Do not export or index a local library merely to use its already imported lemmas.
+An external result can use an approved package, an existing exact bundle, or
+selected proof-data production when independent inert admission is needed.
+Suggestions are not warrants: some `apply?`/all-suggestions paths admit a goal;
+only the final complete proof and its allowed dependencies may be accepted.
+
+The latest bounded addition is the owner-free public `produce-baseline` command
+in `experiments/v5-local-checks/ordinary-producer-assembly-01/package`, PROFILE
+`3e7caee37ebd969212246cdee6bc56f4d5458c417186537de982f4f09b2cd723`.
+Its one installed invocation produced the exact same six-unit bundle as the
+retained native route without opening mathematical owner state, registering a
+reference or producing a certificate. See the [public producer contract](../ordinary_producer_package/README.md)
+and [independent source/outcome audit](../../../research/cycles/v5-2026-10-22-native-library/PRODUCER-PUBLIC-SELECTION-AUDIT.md).
+No receiver admission or mathematical growth is inferred from production.
+
+This is a locally assembled successor, not yet a portable clean-source release
+recipe. The package carries historical reference commands whose ordinary-source
+continuation remains failed at the diagnosed private/public import-mode boundary.
+Do not use this entry to claim that path works. The simpler independently checked
+module workflow has its own retained evidence below. Whole-path consolidation
+is under source review; no old campaign is restarted or new workflow passed by
+changing this pointer. Old registered anchors/references retain their exact
+support version; the new facade/profile do not silently migrate them.
+
+## Preserved candidate-preview development package
 
 Use `experiments/v5-local-checks/ordinary-preview-assembly-01/package`, with
 PROFILE `ab04e72440bcd09381a81d4b721d1103fa2e62bc260fa6c0434e6c568419016f`

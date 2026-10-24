@@ -275,3 +275,80 @@ CP-001G-interface-bridges-and-applications and its independent audit: a map into
 another structure yields the actual mapped proposition, not an arbitrary desired
 one. Needed laws, residual assumptions and an endpoint transport must be proved.
 This is not a newly invented bridge calculus or a reason to recreate those files.
+
+## Demand-selected materialization: next implementation selection
+
+The later source reviews in CANDIDATE-OFFER-CONTRACT/CHALLENGE and
+PRODUCER-FACADE-PLAN expose two avoidable prerequisites: producer mathematical
+adoption before offering, and exact proof-data export before current exact-index
+publication. Exact previews are cheap to read but require proof-derived identities
+to construct. They are not a pre-export discovery format.
+
+Select a staged product workflow: ordinary repository/package/source discovery
+(untrusted advice), explicit local selection of useful targets, reuse of an
+existing bundle or approved-local export, then unchanged exact inspection and
+receiver admission. Do not make every declaration enter our representation.
+Ordinary package use remains valid when it is cheaper. No automated remote export,
+new hint namespace, search protocol or natural-language intent field is selected.
+Demand-driven materialization can save unused closure work, but repeated environment
+loads, overlapping requests and producer disappearance can erase that saving;
+DEMAND-DRIVEN-GROWTH supplies the separately reviewed conditional model.
+
+The immediate useful change is common to both eager and demand-selected use:
+expose existing `baseline_production.produce_bundle` as a public owner-free
+command. It removes an actual integration gap without committing to a new network.
+The target user has a compiled approved local Lean project and selected declarations;
+the receiver independently checks exported data. Existing exact bundles need no
+new export at all. No claim of measured demand or strict superiority over equally
+equipped ordinary sharing follows; this adapter may itself be that ordinary tool.
+
+Root selects **source only** under `software/v5/ordinary_producer_package/`:
+fresh owner/profile/controller successors and short usage documentation. Derive
+owner from reference owner02, profile from its current loader, controller from
+the existing baseline producer. Add `produce-baseline` dispatch before any owner
+or custody opening; preserve all existing operations and receiver rules. Reuse
+the byte-exact worker and retained native exporter, not a build. Change only the
+obsolete controller colocation checks to the exact consolidated layout. Require
+explicit project approval/targets/output and one original resource envelope;
+report inert candidates, never admission. No dummy owner/context/warrants.
+
+Use one ordinary consolidated package revision when later selected, not a second
+product line. Its changed owner/profile source implies a new reference-support
+identity; preserve old installations and records, never relabel or silently migrate
+them. No compatibility framework is commissioned to keep a fixture warm. This
+does not repair the separately diagnosed original-reference import-mode defect.
+Candidate ingestion remains optional and unselected. Root retains launch, package,
+actual-evidence and Git ownership. Independent source/contract review precedes
+any finite changed-boundary test; no experiment is selected by this paragraph.
+
+Root also owns `ordinary_producer_package/cli_controls.py`: focused native-free
+argument/dispatch/original-budget checks using explicit support/native doubles.
+It must not open a catalog or execute Lean. Source review remains separate from
+any test launch; these controls cannot establish installed or mathematical success.
+
+## Subsequent root decision: reuse native applicability, close conversion work
+
+The owner-free producer's installed direct invocation completed with clean closure
+in 7.3928916 wall / 4.859375 known aggregate CPU seconds. It returned the retained
+six-unit manifest exactly, with mathematical acceptance false. Independent actual
+audit is separate; this result justifies the joined public boundary, not growth.
+No further exporter expansion, remote conversion service or certificate campaign
+is selected by success.
+
+Root read GROWTH-NEXT-LEVERAGE and independently inspected the pinned Lean
+LibrarySearch meta/elaborator source. Its lazy local signature search, actual
+dependent application and remaining-obligation reporting already implement the
+basic applicability machinery. Adopt an ordinary-Lean-first optional local policy;
+retain existing specialized remote discovery for missing external candidates.
+Do not implement another matcher, recipe interpreter or diagnostics protocol.
+Partial suggestion branches can introduce sorry, including all-suggestions mode;
+the complete proof and allowed dependencies, not compilation alone, decide admission.
+
+The next selected task is source-only consolidation of one supported reciprocal
+workflow through the existing producer, intake, checked-module and ordinary-project
+return APIs. It must identify exact compatibility/cost boundaries and preserve the
+parked original-reference failure. A new runtime or package requires a separately
+justified changed boundary. If the ordinary route is sufficient, use it. This
+software can be valuable as the reusable interchange tool itself; it need not
+outperform a comparator hypothetically furnished with a free copy of that tool.
+No measured uptake, universal proof-search improvement, or final-v5 claim follows.

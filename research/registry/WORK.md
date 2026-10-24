@@ -4,6 +4,23 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 at-hand producer work CLOSED: root adopts actual public audit and
+independent native-first growth challenge. No runtime remains. package_continuation
+now owns only NATIVE-FIRST-WORKFLOW-SELECTION: exact existing command/dependency
+compatibility and smallest necessary consolidation, no code/package/runtime or
+identity migration. growth_payoff and demand_producer assignments are complete.
+Root owns synthesis/adoption/Git and keeps the final v5 objective active.
+
+2026-10-24 producer/growth continuation: root owns the one selected file assembly,
+later finite installed export, adoption/Git and the consequential growth decision.
+package_continuation owns actual assembly audit and minimal direct public-call
+selector; demand_producer independently reviews that selector and its marginal
+payoff. growth_payoff owns GROWTH-NEXT-LEVERAGE: concrete applicability barriers,
+existing pinned Lean mechanisms and fair product/comparator boundaries. All notes
+remain in v5-2026-10-22-native-library. No reference-mode repair, new index,
+certificate campaign or broad benchmark is selected. Old assignments below are
+historical, not authorization to restart them.
+
 2026-10-24 retained continuation: root owns source selection, fresh registration02
 and owner02, review/adoption and Git. retained_registration owns the same-store
 snapshot continuation design and, after root instruction, store03. package_continuation

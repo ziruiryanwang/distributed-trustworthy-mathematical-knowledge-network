@@ -1,5 +1,52 @@
 # Current research desk
 
+**2026-10-24 owner-free production COMPLETE; growth-driven simplification:**
+Root adopts the independent public-export audit:193runtime pins/five snapshots,
+six units/31,083bytes and1,196Bmanifest match retained evidence exactly; clean
+7.3928916wall/4.859375knownCPU. Production is inert, not receiver acceptance.
+No experiment is live; do not repeat the fixture or expand exporter work.
+Root read/adopts GROWTH-NEXT-LEVERAGE and independent challenge: use native Lean
+local applicability, optional external exact interchange, no new matcher/recipe
+engine or compulsory conversion. One source-only reciprocal-workflow compatibility
+map is assigned in NATIVE-FIRST-WORKFLOW-SELECTION; it may reject unused reference
+machinery. Full v5 remains active/incomplete; original-reference failure preserved.
+
+**2026-10-24 one installed owner-free export selected:** actual assembly171files/
+169payloads passes independent audit,6.048236wall/2.84375knownCPU,clean closure.
+Root read/adopts selector239e0878 and exact PROFILE3e7caee3/ASSEMBLY906634eb.
+Select ordinary-producer-public-export-01 once: direct installed produce-baseline,
+retained approved compiled fixture/flip+flip_low targets, fresh inert bundle,
+inner120wall/90CPU/1536MiB/144MiBspool,outer150wall/120CPU/1792MiB/six processes.
+No owner state, reference registration, fixture build, receiver check or network.
+This closes only the new public integration boundary; no growth claim. Native
+Lean applicability machinery is being assessed before any bespoke search work.
+
+**2026-10-24 producer file-only assembly selected; growth leverage in parallel:**
+Root read/adopts independent assembler39b7525a/selector0ffad2fb and six-payload
+mapdb1abbaa clearance. Select one ordinary-producer-assembly-01 at90wall/50CPU,
+512MiB/two processes:169payloads, two overlays/four additions/163unchanged,
+retained native exporter only. No native build or owner operation. Direct installed
+export remains separately selected after actual map audit. Growth investigation
+now asks which concrete applicability/retrieval friction survives equally capable
+ordinary Lean/Git sharing; no compulsory conversion or new protocol is assumed.
+
+**2026-10-24 continuation02 terminal; growth architecture now primary:** source
+compilation passes the long-path boundary, but extraction refuses
+MODERN_ENVIRONMENT_REQUIRED before admission. One call,49.987wall/43.984375knownCPU,
+clean closure. Private import mode contradicts the shared modern-header guard;
+public/private semantics require source diagnosis, not deleting a check. Preserve
+the accepted prefix/reference and all failures. No runtime is live or retry selected.
+Independent outcome/source audit continues while growth work evaluates demand-
+selected export atop ordinary sharing; no new discovery protocol is commissioned.
+
+**2026-10-24 five remaining calls selected after path repair:** assembly03 actual
+167-file/one-overlay audit passed, 5.870wall/2.96875knownCPU. Root adopts independent
+continuation02 clearance and selects A/delta/B/compiled-sorry/status only, with
+420wall/260CPU inner and 480wall/320CPU outer limits. Reuse actual registered
+reference and two accepted roots; no registration/intake/snapshot copy or retry.
+Growth-first next decision concerns lower contribution friction and demand-driven
+materialization; no new protocol or certificate work is automatically selected.
+
 **2026-10-24 retained registration PASSED; source authoring path repair:** actual
 continuation01 stopped cleanly after two calls,62.2097wall/58.046875knownCPU.
 Reference7a48dd24/supportbcf0198d is genuinely committed over the retained snapshot.
