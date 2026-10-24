@@ -4,6 +4,14 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 retained continuation: root owns source selection, fresh registration02
+and owner02, review/adoption and Git. retained_registration owns the same-store
+snapshot continuation design and, after root instruction, store03. package_continuation
+owns a file-only package/remaining-workflow plan and later selected adapters.
+growth_payoff challenges the next concrete product decision against equally capable
+ordinary sharing; no new benchmark or broad philosophy work. All checkpoints are
+in v5-2026-10-22-native-library. No runtime yet selected; used sources/state stay frozen.
+
 2026-10-24 current assignments CLOSED: cold's bounded source02 repair and recipe
 challenge, native author's circulation analysis, reference reviewer's independent
 growth/actual/source audits, and fresh growth_case_selection's two primary-source

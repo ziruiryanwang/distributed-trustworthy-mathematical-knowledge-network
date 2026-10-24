@@ -1,5 +1,38 @@
 # Current research desk
 
+**2026-10-24 retained registration PASSED; source authoring path repair:** actual
+continuation01 stopped cleanly after two calls,62.2097wall/58.046875knownCPU.
+Reference7a48dd24/supportbcf0198d is genuinely committed over the retained snapshot.
+Author A failed before admission at a deep Win32 artifact path (compiler error3),
+not a mathematical refusal. Preserve registered reference/old roots/failure. Select
+only source successor reference_authoring02 compiler-facing path spelling; no
+re-registration, import replay or new runtime. Growth facade design runs in parallel.
+
+**2026-10-24 six-call retained continuation selected:** actual assembly02 passes
+independent exact167-file/3-overlay audit (6.1256wall/3.0625knownCPU). Root read
+and adopts workflow52314e90/selector0f328e7c source clearance. Select one retained
+registration/A/delta/B/compiled-sorry/status operation: inner480wall/330CPU,
+outer540wall/390CPU/1792MiB/eight processes. Existing owner roots remain, new
+extensions use real public admission. Old snapshot/failure unchanged; no init,
+intake, snapshot copy, fixture rebuild or retry. This is interoperability evidence,
+not growth benefit. Next growth direction: expose existing no-owner export and
+candidate offering without requiring producer mathematical adoption.
+
+**2026-10-24 file-only retained successor selected:** independent source audits
+clear store03/registration02/owner02 and assembler02 ad4a1072/selector950b0387,
+overlay map da760ed8. Root selects ordinary-reference-assembly-02 only at90wall/
+50aggregateCPU/512MiB/two processes. Exactly3 Python overlays/162unchanged payloads;
+installation/native helpers unchanged. No snapshot copy, init/intake or owner call.
+The six-call continuation is source-ready and under independent review, not launched.
+
+**2026-10-24 minimal retained continuation selected, source only:** root selects
+RETAINED-CONTINUATION-SELECTION. Reuse the immutable same-store snapshot in place
+with a fresh current request/live correspondence and record-last registration;
+never adopt the saved report or restart init/intake. Fresh store03, registration02,
+owner02 and package/workflow adapters are the bounded scope. No native rebuild,
+snapshot copy, runtime or broad campaign. A separate growth-payoff challenge
+targets actual adoption friction rather than another artificial theorem workload.
+
 **2026-10-24 growth-first audit checkpoint complete, goal still active:** four
 disjoint agent contributions and root primary-source checks are synthesized in
 GROWTH-FIRST-ARCHITECTURE-DECISION. GROWTH-CASE-SELECTION rejects two premature
