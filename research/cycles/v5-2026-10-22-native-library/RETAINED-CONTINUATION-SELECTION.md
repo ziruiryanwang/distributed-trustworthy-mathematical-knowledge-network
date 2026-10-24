@@ -135,3 +135,52 @@ inspection confirms a one-payload package successor can keep the registered
 support identity. Select source-only assembler03/selector03 and public
 continuation02/selector02 with five remaining calls, no new registration. New
 logs/output only; no accepted state or failed bytes may be rewritten.
+
+## Assembly03 selected after independent path and map review
+
+Root read the complete assembler/selector differences and adopts the independent
+NATIVE-SETUP-PATH-REPAIR source clearance. Select one file-only assembly03 at
+90 wall / 50 aggregate CPU seconds, 512 MiB, two processes. Assembler SHA
+`759059ad735238d82a0ac209a1062be224f54a2d75da82ee73cb4dbb58aa6041`, selector
+`43428010b5d8d702bdde03859d2c1b120419aad53191ad54551eb9bf37e2dad7`, one-overlay map
+`33836bf682765c21e4454bc3d4e8ea09ae56dc2fb5687e45ed8a6d147f662bf9`.
+Only authoring02 changes; 164 payloads and registered support remain unchanged.
+No owner call, native build, reference registration or snapshot copy. The five-call
+continuation still requires source review and actual package-map audit.
+
+## Actual assembly03 and five-call selection
+
+Independent actual audit confirms 167 files, one changed/164 unchanged payloads,
+137 profile pins, 178 runtime pins and five source snapshots. Assembly finished
+cleanly in 5.8699694 wall / 2.96875 known CPU seconds. PROFILE
+`a10e1f3ae0e1ac04cfa01240c9c07c3ca2d3da91616a3ca34b1f28b88adadbbc`;
+ASSEMBLY `75f7f7c048208b337082c9b0529b02ac4fb6547d143ca178eacb73ba971da202`.
+
+Root read/adopts the independent five-call source clearance and selects one
+ordinary-reference-public-continuation-02: A, new-only delta, B, compiled-sorry
+refusal, exact status. Workflow SHA
+`0037a94e1e43995950d20539d062bba9233d1f2006421492b715210b17ff5c8d`, selector SHA
+`60f328b2fd1780299465466cb23c811f63f9ec12287f2009a20c0e1de83e610e`.
+Inner 420 wall/260 CPU seconds; outer 480 wall/320 CPU seconds, 1792 MiB/eight
+processes, child 1536 MiB. No repeated registration, initialization, intake or
+snapshot copy. No automatic retry. Preserve any accepted prefix on failure.
+This finishes bounded interoperability work, not a growth measurement. Afterwards
+growth architecture takes priority over further illustrative theorem campaigns.
+
+## Continuation02 closed; new import-mode defect, no automatic retry
+
+The selected run ended after the first public call, clean exit 1, in
+49.9870696 wall / 43.984375 known CPU seconds (42.953125 outer Job plus
+1.03125 wrapper). Long-path source compilation now succeeded; extraction refused
+`ORDINARY_REFERENCE_MODULE MODERN_ENVIRONMENT_REQUIRED` before admission.
+No new accepted root, delta, B, negative or final-status success follows.
+All old accepted state, registered reference and failure evidence remain intact.
+
+Direct pinned Lean source explains a consequential mismatch: private-level
+`importModules` defaults the environment's `isModule` flag to false, whereas
+the shared header check requires true. Merely deleting the guard would not
+establish a correct public view: `setExporting` on that private environment is
+not a replacement for a correctly loaded exported environment. Independent
+source diagnosis and actual-outcome audit are selected; no new build, successor
+or runtime is selected. Close this finite attempt honestly and prioritize the
+growth-driven architecture decision, rather than extending a fixture campaign.
