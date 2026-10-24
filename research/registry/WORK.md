@@ -4,6 +4,24 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-23 current disjoint work: query_native_boundary authors only a tiny saved-A
+Windows long-path/import discriminator, then resumes library-completion theory;
+root handles exact selections, package integration and Git. module_anchor_audit
+audits saved native02 (cold pass/warm failure), later source repairs. usable_v5_next
+owns fresh ordinary_query_context/query.py under e4db149a contract; no owner/profile
+or core edits. Checkpoint ORDINARY-CONTEXT-QUERY-IMPLEMENTATION.md. All used anchor
+sources/packages/evidence and successful A remain immutable. No runtime lives.
+
+
+2026-10-23 active incremental integration: root launches the reviewed pure storage
+and file-only assembly, then selects only changed native integration. Reviewer
+module_anchor_audit audits saved outcomes and native harness; query_native_boundary
+authors native_check.py. anchor_state_impl freezes used registry/controls and owns
+fresh source-only ordinary_module_anchor_package/build.py and source-map.json,
+preserving compiled helpers/base_inputs. Root owns facade, navigation, adoption
+and Git. Checkpoints remain ORDINARY-MODULE-ANCHOR-* in the native-library cycle.
+
+
 2026-10-23 incremental module source selection: anchor_state_impl owns new
 ordinary_module_anchor/anchor_store.py and module_closure.py; query_native_boundary
 owns OrdinaryModule.lean and module_worker.py there; root owns module_export.py

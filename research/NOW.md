@@ -1,5 +1,69 @@
 # Current research desk
 
+**2026-10-23 native02 partial success; practical follow-on source selected:** cold
+A passed private/public checks and registered08744de1; warm B failed reading an
+existing319-character owned artifact path. All jobs closed; no B registration.
+Native02 remains FAILED; A and both failed operations remain preserved. One tiny
+source-only Windows path/import diagnostic is selected to resolve the actual API
+behavior before a product fix; no new realization or support waiver selected.
+In parallel root read/adopts practical user-path audit f3c66b8f and context-query
+contract e4db149a. usable_v5_next may implement ONLY fresh
+ordinary_query_context/query.py, preserving manual mode and existing owner/profile
+support. This removes manual internal-ID entry; no native/fetch/acceptance and no
+new search schema. Independent source review precedes any focused runtime.
+
+
+**2026-10-23 syntax successor native02 selected:** assembly02 independently passes
+all156runtime/sixsnapshot pins and exact134payload census (133unchanged), profile
+5e7e9a6b. Root read native_check02's exact08bcc96d delta and independent clearance.
+Select bf253a11b52a5f84c157a1165f69d869636a5aa960217db2c8e99faa69b2f752,
+same original270wall/165CPU/2048MiB outer and240/140/1536 inner. Five changed
+boundary calls, same saved owner; exact3file closed failed orphan remains charged
+and immutable. No prior operation is retried/deleted or failure relabeled.
+
+
+**2026-10-23 syntax-only file successor selected:** independent saved-native01
+failure review confirms one clean failed orphan, zero records/modules and all
+252 predecessor immutable files unchanged. Source review clears native02
+57c97e06 (record layout/reserved local identifier only), assembler29c534cc and
+selector5d017e15. Select assembly02 326becd0e8d76c13db6a6b92e20fb6210ae8477ac75914c25223ec54152c7184,
+90wall/50CPU/512MiB/two processes,134payloads with133unchanged. No native or owner
+operation; old source/package/failure/charged orphan preserved. Native02 remains
+unselected until saved assembly and final harness clearance.
+
+
+**2026-10-23 native01 failed before module production:** first cold export stopped
+on two Lean parse errors (record layout at449; reserved `matches` at499). Whole
+run8.761138wall/6.875known inclusiveCPU; all children closed. No module/registration
+was produced. Sidecar retains STORE plus one RESERVATION/CLOSED clean failed
+operation. Preserve native01 and assembly01 as-is. Source-only syntax successor
+OrdinaryModule02 and exact failed-orphan-aware native_check02 are selected;
+root owns a one-payload file successor, auditor verifies failure/delta. No old
+run retry, state deletion, storage-test repeat or native launch selected yet.
+
+
+**2026-10-23 minimal native anchor integration selected:** storage01 and file-only
+assembly01 independently pass; 148/152 runtime pins and 5/11 snapshots match.
+Package profile8404d569 has134payloads,127unchanged. Root read complete harness
+92575c61 and selectorca0c69dc; independent clearance received. Select
+6719f6e513cfffe18c71c7b170d63f737be89c4ab19204124cd1e3af90318b2b,
+ordinary-module-anchor-native01, outer270wall/165CPU/2048MiB/eight processes;
+inner240/140/1536. Five calls on the saved owner: cold definition A, warm theorem
+B, ordinary consumer, zero-native reuse, wrong-context refusal. No admission,
+extraction, helper rebuild, network, peer-binary trust or repeated query campaign.
+Retain all old immutable evidence and any failed output. Actual outcome is pending.
+
+
+**2026-10-23 changed-boundary storage and file assembly selected:** root read the
+source clearances and complete selectors/assembler. Select storage987e7a9d,
+eight inert-registry groups, outer60wall/35CPU/512MiB/two processes; select
+assembly5299fed7, outer90wall/50CPU/512MiB/two processes. Distinct fresh outputs
+permit these two small file/pure checks in parallel. No native/owner/network work
+or old campaign. Storea244eaf2, controls3f9a14f6, native/worker/controller and
+facade sources now freeze on use. Actual adoption follows saved-outcome review.
+No external Lean project is available. Full v5 remains active and unfinished.
+
+
 **2026-10-23 pure frontier outcome independently adopted:** seven changed groups
 passed; all 148 runtime pins and four snapshots independently rehashed. Clean
 2.4493579 wall / 2.234375 known inclusive CPU seconds. No owner/native/network
