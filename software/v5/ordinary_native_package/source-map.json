@@ -1,0 +1,53 @@
+{
+  "schema": "DMKN_ORDINARY_NATIVE_ASSEMBLY_MAP_V1",
+  "source_payloads": {
+    "owner.py": {
+      "source": "software/v5/ordinary_native_package/owner.py",
+      "bytes": 36818,
+      "sha256": "56ef042f652fcb88cae7d16ab74883016a469e2e82777c1a173f842f5ef8245a"
+    },
+    "profile.py": {
+      "source": "software/v5/ordinary_native_package/profile.py",
+      "bytes": 13328,
+      "sha256": "d63ea79f527e5519c19afcf1b98ae262b6eabb662fe454d30b1a4a75722ed8a6"
+    },
+    "authoring/py/baseline_production.py": {
+      "source": "software/v5/ordinary_producer_package/baseline_production.py",
+      "bytes": 18969,
+      "sha256": "4e52450af203027212205f292e5965b94febe7e6b58f12a7b87e052444662926"
+    },
+    "authoring/py/baseline_worker.py": {
+      "source": "software/v5/ordinary_baseline/baseline_worker.py",
+      "bytes": 4831,
+      "sha256": "c44d14ec5ddcde8be0952eb7fcd4388b48eae79f44c79fdef187467ee9ca2917"
+    },
+    "reference/baseline_bundle.py": {
+      "source": "software/v5/ordinary_baseline/baseline_bundle.py",
+      "bytes": 19197,
+      "sha256": "d5a9c13392e2de8b170cbaf4a9a27e4d1e5d99eb2714165848a640069fe42fce"
+    },
+    "reference/baseline_intake.py": {
+      "source": "software/v5/ordinary_baseline/baseline_intake.py",
+      "bytes": 16856,
+      "sha256": "b5a17aa580f8d9cfdeaaded7d93c2b12ad6e19e5018bf5e7c087cb56760069d8"
+    }
+  },
+  "retained_payloads": {
+    "authoring/bin/BaselineExporter.exe": {
+      "bytes": 809472,
+      "sha256": "2adcffad1ad4967f093e1acc6c31295c2519e7f9cbf35d04bee37d8580cc3c4f"
+    }
+  },
+  "documentation": {
+    "README.md": {
+      "source": "software/v5/ordinary_native_package/README.md",
+      "bytes": 7397,
+      "sha256": "4f558c36200d70603d66ad61331f80c3043aea7a970ef8b6eb08484898b49304"
+    },
+    "PRODUCER.md": {
+      "source": "software/v5/ordinary_producer_package/README.md",
+      "bytes": 5051,
+      "sha256": "8904e3e83c0d93880f488c4df0a003b0e499389cdf4bc4915d10b466ca8d4b45"
+    }
+  }
+}

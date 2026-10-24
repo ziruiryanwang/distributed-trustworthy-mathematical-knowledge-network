@@ -4,6 +4,23 @@ Updated 2026-10-24. This is a mutable entrypoint, not a frozen run receipt.
 
 ## Current direction: ordinary Lean first, selected interchange
 
+The native-first candidate is now assembled at
+`experiments/v5-local-checks/ordinary-native-assembly-01/package`, PROFILE
+`47b80c6250886c4df71525d2600f02518d5400f260a8b60c0d77afd5ccbc5ac6` and ASSEMBLY
+`7f22a17a90f647bb21a3745d136d8ada933225f9cfc44efc692964b11df98946`.
+Its one changed-boundary check passed wrong-map refusal, 141-payload assembly and
+actual 111-role support loading with clean closure. No owner, native compiler,
+producer fixture or mathematical admission ran. The independent
+[saved-outcome audit](../../../research/cycles/v5-2026-10-24-growth-selection/ASSEMBLY-OUTCOME.md)
+passes and is adopted by root. This is a coherent development package, not final v5 or a new growth
+measurement. The packaged README preserves its pre-execution source-stage wording.
+
+The [growth architecture decision](../../../research/cycles/v5-2026-10-24-growth-selection/GROWTH-DECISION.md)
+makes approved ordinary-package work followed by selected-output validation the
+primary loop. Generated-module conversion and original-reference registration
+are not mandatory. Offer useful named consumer adapters through existing ordinary
+package and multi-target APIs; no new bridge registry or miner is selected.
+
 **Growth-led decision:** ordinary approved Lean packages remain the primary
 working/publication format, with mathematical assurance selected separately.
 Generated modules preserve supported checked declarations, not a full package's
@@ -13,15 +30,16 @@ Do not treat execution approval as independent validation.
 
 The fresh [native-first facade source](../ordinary_native_package/README.md)
 removes the parked original-reference command/helper branch while keeping tested
-producer/intake controllers. Source review passes; **it is not built or installed**.
-Further packaging is held after the source-only
-[upstream validation reuse decision](../../../research/cycles/v5-2026-10-22-native-library/UPSTREAM-VALIDATION-REUSE.md).
-Lean 4.35's maintained export/replay components are a source-assessed candidate;
+producer/intake controllers. Its reviewed [file assembly recipe](../ordinary_native_package/assemble.py)
+has now passed the narrow check above, reusing exact native support rather than
+building a new checker. Further packaging/native work is not selected. Under the
+[upstream validation reuse decision](../../../research/cycles/v5-2026-10-22-native-library/UPSTREAM-VALIDATION-REUSE.md),
+Lean 4.35's maintained export/replay components remain a source-assessed candidate;
 no toolchain or accepted state was upgraded, and no old identity is reinterpreted.
-The finite record-compatibility review is complete; the next decision is
+The finite record-compatibility review is complete; the controlling direction is
 [growth-led product selection](../../../research/cycles/v5-2026-10-24-growth-selection/SELECTION.md),
 not automatic construction of a new cold-validation lane.
-Current usable installations below remain unchanged.
+Earlier installations below remain unchanged.
 
 The adopted [growth decision](../../../research/cycles/v5-2026-10-22-native-library/GROWTH-NEXT-LEVERAGE.md)
 uses ordinary approved Lean projects and existing local search/application first.

@@ -4,6 +4,22 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 selected growth work COMPLETE, no runtime: growth_architecture_payoff
+bridge note and growth_product_selection product/source work read/adopted;
+growth_boundary_review decision/source audits adopted and saved package audit
+reports PASS. Root owns final outcome read/navigation/Git. No repeat or successor
+campaign automatically selected. Full goal remains ACTIVE, not completed or paused.
+The next unresolved decision is bounded pre-export ordinary-package discovery,
+with actual existing-tool comparison before any protocol/implementation expansion.
+
+2026-10-24 growth decision source-selected: root read/adopts BRIDGE-INVESTMENT and
+PRODUCT-DELTA; no bridge miner/protocol or upstream validator. Root's
+GROWTH-DECISION selects native-package exploration plus independent endpoint
+validation. growth_product_selection now owns only native assemble.py,
+source-map.json, README and ASSEMBLY-SOURCE.md. growth_boundary_review owns
+DECISION-REVIEW.md and later narrow assembly source review. Root owns selection,
+integration controls, adoption and Git. No runtime yet; old source/state frozen.
+
 2026-10-24 compatibility assignment CLOSED/read/adopted conditionally. New bounded
 growth selection: growth_architecture_payoff owns BRIDGE-INVESTMENT.md and
 growth_product_selection owns PRODUCT-DELTA.md under v5-2026-10-24-growth-selection.

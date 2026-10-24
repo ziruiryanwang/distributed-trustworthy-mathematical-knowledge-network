@@ -1,5 +1,34 @@
 # Current research desk
 
+**2026-10-24 native-first package check CLOSED PASS; growth remains central:**
+one ordinary-native-assembly-01 run passed exact wrong-map refusal, 141-payload
+assembly and real111-role support load, clean7.1383519wall/3.9375knownCPU.
+Saved audit reports all141payloads/157inputs/13snapshots match; PROFILE47b80c62,
+ASSEMBLY7f22a17a. No owner/native/admission or growth benchmark ran. Root adopts
+growth decision review: approved-package exploration, independent exact output
+validation, and named consumer adapters via existing APIs. No bridge miner,
+new registry, validator upgrade or further packaging campaign. Full v5 active;
+next decision concerns unfamiliar compatible-package discovery before export,
+only if ordinary tools leave an actual gap. All runtime assignments are closed.
+
+**2026-10-24 one growth-led package boundary selected:** root source review and
+independent reviewer clearance select ordinary-native-assembly-01 once under
+120wall/80aggregateCPU/512MiB/three-process containment. Exact selection b0459939,
+13 source snapshots/157 pins. Wrong-map refusal, file assembly and actual support
+loader only; no owner, Lean, proof/admission or fixture repetition. Used sources
+freeze on launch. This removes a concrete delivery dependency; it is not growth
+measurement or final v5. See growth-selection/SELECTION for exact scope.
+
+**2026-10-24 growth architecture has a concrete simpler loop:** root adopts the
+independent product/bridge findings. Approved ordinary packages can generate
+selected finished outputs for independent producer/intake validation without
+mandatory generated-module or original-reference authoring. Named consumer
+adapters can be selected using existing APIs; no new bridge registry or miner.
+GROWTH-DECISION states mathematical/operational assumptions and full-cost limits.
+Select only a reusable file-assembly source recipe for the reviewed clean facade;
+no new checker, compiler run, upstream migration or repeated fixture. Source
+review pending; full v5 active, no experiment live.
+
 **2026-10-24 at-hand source review CLOSED; growth selection active:** root read
 and adopts UPSTREAM-RECORD-COMPATIBILITY's conditional finite relation, not a
 runtime or upgrade. New cold wrapper and clean-facade packaging remain unselected.

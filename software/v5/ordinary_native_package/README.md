@@ -1,10 +1,10 @@
 # Ordinary Lean first, optional checked interchange
 
-This directory contains a **source-only facade draft**, not an installed package
-or final v5 release. Only `owner.py`, `profile.py` and this note are selected.
-There is no build recipe or new runtime result yet. Do not run these standalone
-files as if their required package payloads were present. The current installed
-packages remain identified by `../ordinary_distribution/CURRENT.md`.
+This directory contains a **source-only distribution candidate**, not a final v5
+release. Its file-assembly recipe has not yet been executed. Do not run standalone
+owner/loader files as if their required package payloads were present. Assembly
+copies adopted artifacts; it is not a clean-source compiler build, mathematical
+acceptance, security sandbox or general-library qualification.
 
 ## What this changes
 
@@ -21,15 +21,16 @@ Keeping these paths avoids modifying the tested producer's exact role checks.
 
 ## Choose the smallest useful route
 
-1. If a useful result is already in an approved compatible Lean project, import
-   and use it normally. Existing Lean search/application can help; suggestions
-   are not complete proof evidence. No commons conversion is required merely to
-   use an already available lemma.
-2. When independent inert admission is useful, share an existing exact bundle,
-   or use `produce-baseline` on explicitly approved compiled local targets.
-   Receiving `intake-baseline` independently checks that bundle above an explicit
-   local parent. Production is not mathematical acceptance.
-3. An eligible admitted closure can be locally realized by `export-module` and
+1. Work in an approved compatible ordinary Lean project, using its native
+   notation, classes, tactics and libraries. Existing Lean search/application can
+   help; suggestions and draft proofs are not independent acceptance evidence.
+2. Select completed outputs (including a useful adaptation or bridge), then share
+   an existing exact bundle or run `produce-baseline` on those compiled targets.
+   `intake-baseline` independently checks the inert bundle above a receiver's
+   explicit local parent. Keep ordinary package sharing available. There is no
+   obligatory generated-module round trip or original-reference registration.
+3. If independent assurance of an input is useful, intake it before relying on it.
+   An eligible admitted closure can optionally be locally realized by `export-module` and
    imported into ordinary Lean. A new project proof can return through
    `contribute`; missing interpretations may be recovered with `extract-project`
    and then independently admitted by `complete` above the same retained parent.
@@ -50,12 +51,24 @@ it rejects owner-state and unrelated operation options before support loading.
 All other commands still require their owner-state arguments and reject producer
 options. Removed reference commands/options are not parser alternatives.
 
-Use the existing [producer contract](../ordinary_producer_package/README.md) for
-production inputs and [approved-project completion contract](../ordinary_project_extraction_package/README.md)
-for retained-candidate extraction/completion. Their installed-package examples
-do not select this unbuilt draft. Configuration hashes bind selected paths and
+The included [producer contract](PRODUCER.md) specifies production inputs; its
+source-stage wording is historical, not a new execution result. Production uses
+the shared profile/runtime/resource options plus `--project-production`, its
+`--project-production-sha256`, `--approve-local-project`, `--output-names`, fresh
+`--output` and explicit `--spool-mib`. Receiving `intake-baseline` uses the shared
+options plus the receiver's `--catalog`, `--custody`, `--store-id`,
+`--custody-limits`, `--parent-root`, `--bundle-directory`, `--bundle-manifest` and
+`--bundle-manifest-sha256`. Receiver state must already be initialized under its
+own approved policy. Producer report target rows are locators, not warrants;
+the actual accepted bindings/evidence determine what was checked.
+
+Configuration hashes bind selected paths and
 modules, not every transitive binary. Approved source/plugins/artifacts remain
 local trust premises; resource limits are not a hostile-input security sandbox.
+Checking final mathematics cannot undo harmful project execution or wasted draft
+work. Intake neither endorses the original compiled artifacts nor registers their
+frontend metadata. Existing checked-module/retained-candidate routes remain
+optional, narrower capabilities, not prerequisites of ordinary package work.
 
 ## Limits that this consolidation does not solve
 
@@ -81,7 +94,29 @@ anchors and accepted state stay untouched; no migration or silent reinterpretati
 is provided. Compatible core state and protected anchor reuse are different
 questions. Use an old anchor only with its explicitly supported old package.
 
-The next decision is whether the growth/architecture review warrants a finite
-clean-source recipe. Only after that separate selection should packaging or
-changed-boundary checks begin. The detailed source map is in
-[NATIVE-CONSOLIDATION-SOURCE.md](../../../research/cycles/v5-2026-10-22-native-library/NATIVE-CONSOLIDATION-SOURCE.md).
+## File-assembly recipe
+
+Run `assemble.py` only from the approved source tree with the selected Python
+`-I -S -B`. Supply explicit `--source-root`, `--base-package`, `--exporter`,
+`--python-runtime`, `--lean-runtime`, fresh `--output`, reviewed
+`--source-map-sha256`, and finite `--wall-seconds`/`--cpu-seconds`.
+The recipe accepts relocated inputs with the exact supported pins; it does not
+search for a convenient historical installation or download dependencies.
+
+The base is the adopted stable preview PROFILE
+`ab04e72440bcd09381a81d4b721d1103fa2e62bc260fa6c0434e6c568419016f`.
+The exporter is the retained 809,472-byte BaselineExporter executable
+`2adcffad1ad4967f093e1acc6c31295c2519e7f9cbf35d04bee37d8580cc3c4f`.
+Its source-build history is separate; file assembly does not reproduce it.
+
+The complete package contains 132 unchanged base payloads, two facade
+replacements, five baseline additions, and two documents: 141 payloads, plus
+ASSEMBLY.json and the commit-last PROFILE.json. Exactly 111 helper roles are
+profiled. No original-reference helper or new native checker is added.
+Failures retain partial output and do not automatically retry. A new destination
+requires a new explicit selection, not a resume flag. The caller supplies hard
+outer process containment if required; controller bounds are cooperative.
+
+Root must separately select and review any assembly or changed-boundary test.
+The current source-only result does not supply an installed package or repeat any
+previous producer, intake or theorem experiment.
