@@ -4,6 +4,25 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 offers actual audits CLOSED/read/adopted, no live runtime.
+growth_mechanism_decision owns bounded discriminator append to its existing note.
+growth_product_challenge owns only ordinary_research_distribution build/map/README
+under root CONTRACT: clean-source integration,no runtime. Root owns independent
+review,synthesis,release obligations and Git. No further advisory feature selected.
+
+2026-10-24 root selects one authoring-offer controls run after source review.
+growth_mechanism_decision owns only growth-selection/CREATIVE-GROWTH-MECHANISM.md;
+growth_product_challenge owns only CREATIVE-GROWTH-PRODUCT-CHALLENGE.md in the same
+research/cycles/v5-2026-10-24-growth-selection folder. Source/theory only; no tests,
+framework implementation or Git. Root owns synthesis, next choice and adoption.
+
+2026-10-24 authoring-offer SOURCE selection: authoring_offer_codec owns new
+ordinary_authoring_offers/authoring_offers.py/CODEC.md; authoring_offer_transport
+owns fresh http_provider.py/ordinary_acquisition.py/TRANSPORT.md; independent
+authoring_offer_review owns REVIEW.md/focused tests. Root owns peer facade/profile,
+contract/navigation/selection/assembly/adoption/Git. No runtime or external source
+access/publication. Baseline is completed symbol-inspection package, not old source.
+
 2026-10-24 inspection boundary CLOSED: symbol_inspection_impl source and
 symbol_inspection_review source/23-controls/assembly/public-read/terminal audit
 read/adopted. All selected operations finished cleanly; no service remains.

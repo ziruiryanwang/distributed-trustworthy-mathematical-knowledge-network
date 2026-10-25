@@ -1,5 +1,28 @@
 # Current research desk
 
+**2026-10-24 offers CLOSED; growth-led next choice:** all41 controls,file-only
+assembly and one packaged HTTP lookup pass independent review; original60second
+lease ended cleanly. Reply856bytes,one request; synthetic source not fetched.
+Root reads/adopts both CREATIVE-GROWTH notes: exact known-symbol retrieval can
+miss analogous independently named theories; no new matcher is justified yet.
+Select one bounded source-only pattern/corpus discriminator and, in parallel,
+fresh ordinary_research_distribution source recipe for completed investigator
+operations. No native rebuild,new concept episode or network campaign selected.
+
+**2026-10-24 current:** authoring-offer source review GO read/adopted; one focused
+native-free controls run selected under its CONTRACT. In parallel source/theory
+reviews now challenge the network-specific creative-growth mechanism and actual
+researcher payoff against capable Git+Lean+search. No repeated A/B or certificate
+campaign. Full v5 ACTIVE; a metadata seam is not the growth objective.
+
+**2026-10-24 next source implementation: advisory authoring offers.** Inspector
+checkpoint committed5364d54. Select ordinary_authoring_offers/CONTRACT: pure bounded
+sidecar metadata plus optional exact-key route/state-free client, connecting a
+discovered export to claimed ordinary repository/commit/module locations. No
+automatic fetch/build/approval/mathematical authority. Three disjoint agents own
+codec,transport,independent review; root owns facade/profile/integration. No new
+runtime selected. This closes an information gap, not proof of creative speedup.
+
 **2026-10-24 unfamiliar-concept inspection CLOSED/read/adopted.** New public
 inspect API/CLI exposes one exact inert unit with no ancestry/admission/import.
 23 focused controls and actual packaged OrderData read pass independent review:

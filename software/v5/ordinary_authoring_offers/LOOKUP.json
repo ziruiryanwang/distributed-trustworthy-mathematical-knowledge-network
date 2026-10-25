@@ -1,0 +1,1 @@
+{"contacts":{"provider":{"host":"127.0.0.1","port":53666,"tls":false,"server_name":null,"ca_file":null,"ca_sha256":null}},"selection":{"provider":"provider","export_id":"2bf543aad2166307a1fccd72250b93cb9b7ec0d7df942b1e20beb5f700c7f886"},"limits":{"requests":1,"reply_bytes":32768,"max_offers":8}}
