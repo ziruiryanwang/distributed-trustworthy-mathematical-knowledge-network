@@ -1,5 +1,21 @@
 # Current research desk
 
+**2026-10-24 standard authoring project built once:** concept-lake-source-01
+returned zero/closed in2.62748wall seconds,1.65625JobCPU+0.40625wrapperCPU.
+TheoryA and TheoryB02 built through ordinary Lake;generated manifest has no package
+dependencies. Original90/60/1024MiB limits unchanged;zero active processes and no
+cleanup errors. Saved-result audit is active;root prepares only the reviewed
+five-file Git archive. Sources/config/guide now freeze. No repeat export/intake,
+concept episode or full product build. Full v5 remains ACTIVE and incomplete.
+
+**2026-10-24 growth-led authoring-retention selection:** root read/adopts the three
+bounded payoff decisions. Ordinary theory continuation requires retained usable
+authoring inputs,not only checked declarations or HTTPS source leads. Select only
+standard Lake TOML,toolchain pin and AUTHORING guide for the retained two successful
+concept sources under growth-selection/AUTHORING-RETENTION-DECISION. Separate source
+review first;one bounded offline Lake build and Git source archive may follow.
+No new mathematics,search adapter,custody CLI,certificate or protocol. Full v5 ACTIVE.
+
 **2026-10-24 clean-source build CLOSED/read/adopted; growth decision next.**
 investigator-src01 completed once in80.523wall seconds,55.71875JobCPU plus
 1.34375wrapperCPU;all processes reaped/Jobs closed. Independent audit verifies

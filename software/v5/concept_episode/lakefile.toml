@@ -1,0 +1,7 @@
+name = "repair_concepts"
+defaultTargets = ["RepairConcepts"]
+enableArtifactCache = false
+
+[[lean_lib]]
+name = "RepairConcepts"
+roots = ["TheoryA", "TheoryB02"]

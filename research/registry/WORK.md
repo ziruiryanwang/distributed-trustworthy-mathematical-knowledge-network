@@ -4,6 +4,17 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 authoring project source and selection review CLOSED/read/adopted;
+growth_mechanism_payoff source assignment CLOSED. authoring_offer_review owns
+saved concept-lake-source-01 audit appended to AUTHORING-REVIEW.md,no rerun.
+Root owns exact reviewed source commit,five-file Git archive and final adoption.
+
+2026-10-24 three payoff decisions CLOSED/read/adopted. growth_mechanism_payoff now
+owns only concept_episode/{lakefile.toml,lean-toolchain,AUTHORING.md}; independent
+authoring_offer_review owns concept_episode/AUTHORING-REVIEW.md. Root owns retention
+decision,review/finite selection,standard archive/adoption and Git. Source-only
+until review;do not edit the retained mathematical sources or replay old episodes.
+
 2026-10-24 investigator-src01 actual audit and PUBLIC-PATH-AUDIT CLOSED/read/adopted.
 growth_mechanism_payoff owns growth-selection/NEXT-GROWTH-PAYOFF.md;
 formal_search_integration owns FORMAL-SEARCH-INTEGRATION-DECISION.md;
