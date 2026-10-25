@@ -13,6 +13,14 @@ excluded tree. Git history does not replace the existing evidence/selection rule
 
 ## Canonical workspace (mandatory for root and every subagent)
 
+Storage maintenance on 2026-10-24 removed only the archive-backed historical
+`product-local/certified-v3-package-01/app` and `certified-v4-package-01/app`
+extractions (26,008 files / 4.55 GiB). Their ZIPs, manifests and evidence remain;
+see `research/audits/storage-cleanup-2026-10-24/RESULTS.md` and `RECOVERY.md`
+before using those historical paths. Do not recreate them automatically or
+mistake their recorded absence for missing current software. Current runtimes,
+state, proof artifacts and pinned build inputs were not removed.
+
 The only project root is
 `E:\Distributed Trustworthy Mathematical Knowledge Network`.
 Always pass this explicit `workdir` to shell calls and use absolute paths for

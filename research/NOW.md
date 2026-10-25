@@ -1,5 +1,35 @@
 # Current research desk
 
+**2026-10-24 user-directed PAgE paper pivot; no manuscript yet.** Prioritize
+research/cycles/page-2027-paper/PLAN.md over the earlier next-experiment plan.
+Root verifies venue/verification prior art and coordinates three disjoint audits:
+actual project evidence, growth/library-learning literature, skeptical formal
+claim design. Find a defensible contribution and decisive evidence before writing
+or launching experiments. No automatic cut comparison, further cleanup, API
+purchase, external publication or submission. Full v5 remains unfinished; the
+paper is a subproject, not a replacement completion criterion.
+
+**2026-10-24 cleanup COMPLETE; project work RESUMED.** Two verified historical
+v3/v4 app extractions removed:26008files/4889412177logical bytes (4.55GiB), exact
+ZIP recovery copies/manifests retained. Old Lean copy left untouched after the
+interrupted verifier's unknown final outcome. Current support/profile/runner
+pins rechecked unchanged; no source/state/proof evidence/Git removed. Full record:
+research/audits/storage-cleanup-2026-10-24/RESULTS.md. User explicitly resumes.
+Next: finish saved comparison's full-cost accounting and independent complete
+source review. No mathematical comparison run or new mechanism selected yet.
+Ordinary Lean/native batching remain default; full deployable v5 remains ACTIVE.
+
+**2026-10-24 cleanup narrowed to two completed archive comparisons.** The verifier
+observably completed both historical app trees (13004 files each), then its handle
+and PID disappeared without final combined JSON. Cause/exit status unknown; old
+Lean extraction remains retained and no three-tree pass is claimed. Root adopts
+the independent two-app prune source review and selects Prune-VerifiedPackages.ps1
+7bd591d8ac3a264b287743249815d27f00f79a7c39f47360828755be053004b9:
+four original archive/map pins, complete current file census/lengths and timestamps
+before verification started, held writers, strict paths and durable per-target
+intents/results. Exact scope/limits are in cleanup INTERRUPTED-VERIFICATION.md.
+No research resumes until this finite cleanup concludes. No other deletion.
+
 **2026-10-24 current build/controls CLOSED; research temporarily held for cleanup.**
 Root reads/adopts REVIEW11386b2f: actual minimal support build PASS and corrected
 42-group controls02 PASS,3.836974wall/2.953125JobCPU+0.109375wrapper, clean closure.
