@@ -895,3 +895,82 @@ Used source/test and saved evidence remain frozen. This closes the focused inert
 handoff controls only; actual substantive custody return and independently
 checked reuse, recursive cut mathematics and the final deployable-v5 objective
 remain separate obligations.
+
+## custody-return-public01 saved-outcome audit
+
+2026-10-24. Reviewer: `current_scale_obstruction`.
+**PASS_SELECTED_REAL_TWO_UNIT_PUBLIC_CUSTODY_HANDOFF.** The actual standalone
+public command returned the two selected full ordinary proof units from the
+completed recursive01 custody into an existing-format bundle. This is inert
+handoff interoperability, not another mathematical acceptance event.
+
+Exact selection:
+`experiments/v5-local-checks/custody-return-public01-selection.json`, SHA-256
+`0bc36315ba6c8ceb30b5de39a5bb4fd00ab9bdb956dc7071f4afb6bad1ea595a`.
+The saved command argv is exactly that selection with snapshot/output placeholders
+resolved. All three source snapshots, all nineteen explicit runtime/config pins
+and all 113 package PROFILE payload lengths/hashes independently match. PROFILE
+itself matches the selected
+`9c41b9a3fe36f7283af130ac6ef290e82c2a78c432980b2bea75ccdcf197a6d4`.
+The complete actual CLI and helper were read. Unlike the earlier in-process CLI
+control, this fresh public invocation loads the approved package normally; no
+loader double or acceptance substitute appears on this path.
+
+The output directory contains exactly four files: manifest, advisory obligations
+and two unit files. Both unit files match the original retained theory bundle
+byte-for-byte, including their complete proofs and imports. Their V2 UnitIDs and
+both target ExportIDs were independently recomputed using the implemented domain
+separation, canonical name encoding and exact semantic binding. The two manifest
+entries equal the corresponding original manifest entries:
+
+| Theorem | Bytes | UnitID |
+|---|---:|---|
+| `RepairTheory.ClosureBridge.run_extensive` | 15938 | `403dd4d8878342f863c80ee40311a1829a3bf94c59a003d68ddd524ede5f35b9` |
+| `RepairTheory.ClosureBridge.same_constraints_same_run` | 13776 | `0be846200d7809eaa68cf06cf23ef362052d4d3f4a5db4892c7f369691393e83` |
+
+The first is emitted before the second, whose exact first-theorem import is
+resolved by that emitted unit. The requested two targets match recursive01's
+pinned RETURN-TARGETS and the output descriptors. Across both units there are
+32 import-edge occurrences and 28 consistent distinct name bindings, accounting
+for 5335 binding bytes under the helper's stated measure. Independent set
+comparison against the exact emitted providers and selected basis inventory
+reproduces every advisory obligation: six fixed-basis names and twenty remaining
+receiver-parent imports, with no missing or additional row. Those twenty exact
+imports remain genuine receiver obligations; this selected-units bundle is not
+represented as a standalone closed theory or as cryptographic proof of validity.
+
+| Saved file | Bytes | SHA-256 |
+|---|---:|---|
+| `bundle/manifest.json` | 494 | `0a51d67c0692fe826912f89a334cc4755760e86d56ca397744dcd5b0b3ae822a` |
+| `bundle/obligations.json` | 6164 | `348eb9f4d1fc78166fb820787f2df6b38e1bfd0629f20cb6258116876dc56271` |
+| `command/stdout.txt` | 1068 | `6f5b6940e52cae5e9e450e15b405ddd7e2b8dd89ac0d0c0d2b437b201b92e03f` |
+| `RESULT.json` | 3133 | `117d8ea3407b0be2b7e1bf1e51f843b96e96f5553b0a009ea021e08532d4c56b` |
+
+The obligations file binds the actual manifest hash; stdout binds both files,
+reports INERT_BUNDLE_WRITTEN and explicitly denies mathematical acceptance.
+The two proof files total 29714 bytes. The other diagnostic census values are
+retained as command observations, not independently invented measurements.
+
+Outer closure is clean: zero exit, child reaped, Job closed, no termination
+request or cleanup error, zero final active/terminated processes and empty
+stderr. The selected outer 90-wall/45-CPU/768-MiB/two-active-process allowance
+was not renewed. Total wall was 2.4041311 seconds; inclusive Job CPU was
+1.4375 seconds plus 0.6875 separately charged wrapper CPU. Peak Job private
+commit was 46198784 bytes. The inner 1.5552503-wall/1.40625-CPU measurements are
+nested, not additional costs. These are costs for this exact two-unit handoff,
+not general growth or speedup evidence.
+
+The command's explicit custody approval opens the existing OrdinaryStore with
+its disclosed read/write SQLite handle and pragmas, performs logical reads, then
+closes it. This audit has no before-state byte pin and therefore does not claim
+byte-for-byte database immutability. Approved source establishes that no native
+or cut mathematical catalog is opened, no checking/certification/authoring or
+network API is invoked, and no mathematical warrant is copied into the bundle.
+This is a source-supported boundary, not an OS-level access trace.
+
+The reviewer opened no SQLite database, reran no command/test, changed no used
+source/evidence and made no Git mutation. No fresh receiving admission is selected
+or claimed by this pass. It closes the real custody-to-ordinary-bundle handoff;
+ordinary authoring and fresh recipient acceptance retain their separate premises
+and costs. The full deployable-v5 and useful concept/theory-growth objectives
+remain open.

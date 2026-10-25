@@ -173,3 +173,142 @@ establish comparative speedup, cheap cold trust, general mixed-definition cut
 support, novel mathematics, sustained useful growth, public-network operation or
 final-v5 readiness. No separate custody-return action is authorized by this
 review or invoked by the workflow.
+
+## Saved actual outcome audit: recursive01
+
+2026-10-24. **PASS_SELECTED_TWO_RECURSIVE_LOCAL_CUTS_AND_CLEAN_CLOSURE.**
+The separately selected single run completed. Its saved result supports actual
+recursive local theorem checking without ancestral theorem-proof input on the
+two cut-check paths, under the approved local-owner/controller premises. It does
+not establish that this implementation is faster or economically preferable.
+
+This audit read saved files and approved source only. It did not open any SQLite
+database, call a product API, rerun a worker, renew an allocation, or modify used
+source/evidence. The source review above remains the authority-boundary argument;
+saved reports by themselves are not proof of protected mathematical acceptance.
+
+### Exact evidence and identity
+
+Run directory: `experiments/v5-local-checks/grounded-cut-recursive01/`.
+Selection: `experiments/v5-local-checks/grounded-cut-recursive01-selection.json`,
+SHA-256 `697a2346fcd6dd476571bde7dd5365702751fe59b9d32cf5b8d78d4656936a17`.
+Both source snapshots match the reviewed hashes above and the selected runner
+hash `44a7bf1bd26ac628c6020aa87116092eb9f03761b9ba67c7ad80e67290340651`.
+All twenty selected runtime/support/manifest pins were independently rehashed
+with no mismatch. This is explicit-file identity, not toolchain hermeticity.
+
+| Saved evidence | SHA-256 |
+|---|---|
+| `RESULT.json` | `b688295b7dcd1ac10fed2a9bc78e52abb191337bbbb7ce7d756d0499a9ac3cbc` |
+| `workflow/WORKFLOW.json` | `6faceceb2b5e358983d32e692d7364e9e445169892969f4c1c726ee03d9823ac` |
+| `workflow/INPUT-GRAPH.json` | `c53d3046a3c4190389dd6c0c1e6f063302c4c955c635392b84fe78b51b83e9ce` |
+| `workflow/STATE-IDENTITIES.json` | `fde03ecba0d1948af835fb01d7e81b1579a62db7cf0092e47918a93e6587ee19` |
+
+The exact input manifest accounts for 106 units / 822414 bytes. The selected
+closure has 36 units / 274177 bytes; all 36 saved source-unit byte lengths and
+hashes independently match the graph pins and manifest. The native admission's
+34 retained UnitIDs are exactly that closure minus the two targets. No admitted
+prerequisite depends on either excluded target; the second target directly
+depends on the first. The native reports identify 456 basis units / 581 names,
+then 34 prerequisite units / 45 names. Both target names are absent from both
+reports. Their root-derived native module names and parent module agree with
+the saved event roots.
+
+### Actual cut packets and durable chain
+
+Both actual packet component-hash lists independently match their prospective
+projections. Each `new_unit` is exactly the corresponding original full target
+unit, not a substituted statement, and has one theorem descriptor. Every
+`concrete_units` entry is non-theorem. Worker report theorem names, full theorem
+inventory, signature labels and request IDs agree with those actual packets.
+
+| Cut | New theorem | Concrete units / names | Signatures | Encoded nodes | Kernel calls |
+|---|---|---:|---:|---:|---:|
+| 1 | `RepairTheory.ClosureBridge.run_extensive` | 13 / 24 | 5 | 2403 | 481 |
+| 2 | `RepairTheory.ClosureBridge.same_constraints_same_run` | 20 / 31 | 6 | 3360 | 490 |
+
+Cut 2 includes the exact first ExportID
+`f2fa586cebc1ea3a305b51af3ab81ce5ac6eb89775e880bf45c9dd4109bd40c1`
+as a signature. The first intent's result summary is
+`11983e834ad4f328da8e7ca7c9d853e471f6cfc0488c144782de5564fb4ef809`,
+matching the first projection and the second expected frontier. This is actual
+reuse of the newly admitted first interface, not a prerequisite-batch admission
+of both targets.
+
+All three COMMIT-INTENT root identifiers independently recompute from the exact
+canonical record using the implemented root domain. Their parent, request,
+UnitID, support, store and epoch bindings agree with the actual event records:
+
+```text
+native prerequisites: 981170133ce1cffc1a100c181a56293c725834922f85cb436426822923eb4be6
+cut bootstrap:        14a87f12e9bb91d4dd22e09d369faa581a3c2ba64797c93f69578920c660f630
+first cut:            46fab40192de561eb2ac93bd830d6a13f01f456e50834e5c176180cd476580a1
+second/final cut:     eb68e5b157392f9aa4660e993c5a65db95a2c7386077f6c38ef07bb62bed4525
+```
+
+The bootstrap record has no cut parent; each theorem-cut record names the
+preceding cut root. The final resolution returns COMMITTED at the exact second
+root/request, with `reexecuted: false`. Final stdout agrees. No
+`WORKFLOW-FAILURE.json` exists. An intent alone would not prove commit: this
+audit additionally relies on the approved runner's successful post-commit
+catalog reopens, exact frontier checks and real resolver call. It does not claim
+an independent present-time database reread or simulated crash recovery.
+
+The parent path audit reports no violation and exactly one permitted new-unit
+custody readback per cut. It also records the restricted anchor identity opens.
+Together with the approved child arguments and source, this supports the
+ancestral-theorem-proof exclusion described above. It remains Python-level
+instrumentation plus source review, not an OS trace or hostile-input sandbox.
+
+### Complete selected-run costs and closure
+
+All six controller events returned. The two native and two cut supervision
+records each report zero exit, direct child reaped, Job closed, no termination
+request, no cleanup error, zero final active/terminated processes and empty
+stderr. Worker CPU observations agree with the workflow event records. Cut
+workers receive only approved support/runtime paths and their new request/report
+paths, not native ancestry snapshots or the source bundle.
+
+| Event | Wall seconds | Parent CPU seconds | Worker CPU seconds |
+|---|---:|---:|---:|
+| Native basis | 17.419110 | 0.640625 | 16.203125 |
+| Native prerequisites | 3.941605 | 1.703125 | 1.828125 |
+| Native-to-cut derivation | 4.291896 | 3.953125 | 0 |
+| Cut 1 | 46.204375 | 24.109375 | 20.500000 |
+| Cut 2 | 48.732489 | 26.656250 | 20.218750 |
+| Resolve second | 1.220976 | 1.171875 | 0 |
+
+The outer RESULT is `COMMAND_EXITED_ZERO_AND_CLOSED`: 129.133710 seconds total
+wall, 122.734375 inclusive Job CPU plus 1.312500 wrapper CPU, and 701468672 bytes
+peak Job private commit. Eighteen total processes finished with zero active and
+zero terminated; cleanup errors are empty. The original outer limits remained
+420 wall / 300 CPU / 1536 MiB / eight active processes; inner limits remained
+360 wall / 240 CPU / 1280 MiB. Do not add the table's worker CPU to inclusive Job
+CPU. Diagnostic reopen work is included in enclosing CPU/wall but omitted from
+event logical-I/O counters; those counters are not total physical or logical I/O.
+
+Fixed basis reconstruction remains substantial work in every cut. The large
+parent instrumentation cost also prevents these events from serving as a clean
+performance comparison. This run gives no speedup, break-even or useful-growth
+result. Its soundness-path success is not evidence for further optimization
+investment without a separate full-cost decision.
+
+### Custody and claim boundary
+
+After the guarded cut checks, the approved runner separately reread all 36
+custody units / 274177 bytes and checked their pins/identities and the exact
+object census. This charged availability check intentionally reads old proofs;
+it is not cut-check input. The audit did not independently reopen that custody
+database. Both saved handoff files independently match their recorded length
+and SHA-256, and RETURN-TARGETS contains the exact two graph ExportIDs:
+
+- `CUSTODY-LIMITS.json`: 70 bytes,
+  `de8f7b7436d2eacc72c2f095ab5b9255c3457eb78dd7ff49eda84f5c7e88e4d8`.
+- `RETURN-TARGETS.json`: 135 bytes,
+  `954a7d41f993ba3b6afe14eb9a8f2e4008050d313248b26368f61c0e16022ed6`.
+
+The return adapter was not invoked; these bytes are inert custody handoff, not
+transferable warrant. No certificate was produced. Both theorems were retained
+existing inputs, not newly invented mathematics. This result does not establish
+mixed-definition cut admission, cold recipient trust, unknown-ID discovery,
+new concept creation, useful net growth, network operability or final-v5 release.

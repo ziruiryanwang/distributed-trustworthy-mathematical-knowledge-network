@@ -4,6 +4,20 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 public custody return actual audit CLOSED/read/adopted; no runtime.
+Fresh concept_growth_decision owns growth-selection/OPEN-ENDED-GROWTH-DECISION.md;
+current_research_path owns THEORY-CONTINUATION-PUBLIC-GAP.md;
+current_security_obstruction owns CONCEPT-CAPABILITY-THEOREM.md. Each is a bounded,
+disjoint source/theory decision reusing completed evidence, not a new campaign.
+Root owns synthesis/next software selection and explicit reviewed Git checkpoint.
+Fixed-basis successor remains unselected pending higher-payoff growth decision.
+
+2026-10-24 recursive01 actual audit CLOSED/read/adopted. Root selects public inert
+custody-return-public01; scale reviewer owns saved-output audit after terminal.
+Security author and research reviewer completed fixed-basis source payoff/review;
+root read/adopts exact singleton-basis direction, defers metadata amortization.
+No fixed-basis implementation/runtime or public cut release selected yet.
+
 2026-10-24 root selects/launches grounded-cut-recursive01 after full source review.
 current_scale_obstruction owns independent saved recursive-outcome audit in
 RECURSIVE-REVIEW.md, no rerun. Source author finished. Current_research_path control

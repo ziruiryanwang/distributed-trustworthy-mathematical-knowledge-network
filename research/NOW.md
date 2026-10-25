@@ -1,5 +1,31 @@
 # Current research desk
 
+**2026-10-24 public custody return CLOSED/read/adopted; growth decision first.**
+Root read/adopts the complete saved public-return audit (REVIEW SHA256
+450c7f1913c6814b1d4b8e351efb3032d2db6022d571c80c9ca0a405ca65adbd).
+Both original full proof units, exact dependencies/obligations and clean closure
+pass; 2.404131wall,1.4375JobCPU+0.6875wrapper. This closes inert interoperability,
+not new acceptance or growth. No runtime lives; used bytes remain frozen.
+Before any fixed-basis successor, select three bounded source/theory decisions:
+open-ended concept growth's remaining obligation, actual public theory-continuation
+gap, and a resource-bounded concept-capability argument against strong ordinary
+Git/Lake/search. Reuse the already checked independent theory episode; do not
+repeat it. No new mechanism, build or experiment yet. Ordinary authoring stays
+primary. Full deployable v5 remains ACTIVE and unfinished.
+
+**2026-10-24 recursive01 CLOSED/read/adopted; inert public return SELECTED.**
+Independent actual audit verifies fresh native456+34-unit grounding, two genuine
+recursive cuts, durable reopen/resolve, retained36-unit custody and clean closure.
+129.133710wall/122.734375JobCPU+1.3125wrapper. No ancestral theorem-proof input on
+the cut-check paths; fixed basis and selected concrete work remain. Instrumented
+costs establish no speedup. Select only custody-return-public01: existing reviewed
+CLI in a fresh process, two exact selected target units from closed custody, inert
+ordinary bundle output. Inner60wall/30CPU, outer90wall/45CPU/768MiB; no native or
+cut catalog, authoring or mathematical acceptance. Explicit serialized custody
+read/write-handle pragmas permitted, no logical writes or recovery; original state
+and evidence preserved. Source-only next investment review supports a fixed-basis
+capability, not metadata-cadence changes or public accelerator adoption yet.
+
 **2026-10-24 actual recursive01 SELECTED once.** Root fully read/adopts independent
 RECURSIVE-REVIEW SOURCE GO and exact workflowd8c143bf. Fixed retained two-law
 closure is36units/274177bytes;34prerequisites freshly native-grounded, then two
