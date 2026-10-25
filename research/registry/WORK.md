@@ -4,6 +4,28 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 bounded-operation implementation/tests/build/public-use audits CLOSED,
+read/adopted by root. No runtime remains. Fresh growth_payoff_gate owns only
+growth-selection/CUT-INVESTMENT-CHALLENGE.md; current_scale_obstruction owns only
+the Full-cost source discriminator appendix to LIFETIME-VIEW-FEASIBILITY.md.
+These are disjoint source/theory investment decisions, not another dependency
+trace or experiment. Root narrows the cut contract, preserves completed work in
+Git, then selects the smallest useful continuation. Full v5 remains ACTIVE.
+
+2026-10-24 receiving-policy authoring CLOSED/source review in progress.
+current_scale_obstruction next owns only a bounded append to growth-selection/
+LIFETIME-VIEW-FEASIBILITY: discriminate locally grounded interface-cut checking
+without preserving every old proof-computation success. No implementation/runtime.
+Launcher author/reviewer continue their existing assignments;root owns integration.
+This evaluates a possible growth-lifetime architectural change,not another
+certificate,exact-record projection campaign or automatic feature commitment.
+
+2026-10-24 current scale/security/public-path audits CLOSED/read/adopted. Fresh
+ordinary_bounded_operations selection:current_scale_obstruction owns peer_api.py
+and RECEIVE-POLICY.md;current_security_obstruction owns run.py and LAUNCHER.md;
+current_research_path owns REVIEW.md and focused native-free tests. Root owns
+contract,profile/source-build/map/docs,selections,adoption/Git. Source-only first.
+
 2026-10-24 all selected build/payoff/authoring assignments CLOSED/read/adopted.
 authoring_offer_review's actual Lake and Git archive audits PASS;root read complete
 AUTHORING-REVIEW. No runtime or unfinished agent assignment remains. Root owns

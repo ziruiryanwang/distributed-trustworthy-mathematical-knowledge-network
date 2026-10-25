@@ -102,3 +102,71 @@ state the exact region and stop. A theoretical safety gap blocks implementation;
 it is not a reason to launch a broad experiment. The user prioritizes growth and
 permits architectural revision, not sunk-cost preservation or automatic daemons.
 The final deployable-v5 goal stays active and unfinished.
+
+## 2026-10-24 current-package scale audit: control the receiving contract
+
+Source-only follow-up by current_scale_obstruction. No runtime, owner-state
+access, experiment, product edit or Git mutation. The completed standard-project
+handoff does not change the lifetime or cold-checking arguments above.
+
+**One useful next change is an explicit selected-unit-only receiving policy,
+not a new session, projection or certificate campaign.** This is a consumer
+control for the existing ordinary native route. It must not be advertised as
+closing the much larger cold ancestry-free acceptance obligation.
+
+The current clean investigator source map selects
+ordinary_authoring_offers/peer_api.py and ordinary_lean/ordinary_admission.py;
+it does not compose the older restricted mixed/certificate verifier into this
+ordinary Lean acceptance path. Its receive config has exactly contacts,
+selection,parent_root,limits (peer_api.py:288). After fetching the selected
+preview/unit, receive repeatedly calls the actual owner preflight (:337-341),
+then obtains a locator and evidence for each missing premise (:347-366).
+The process is finite and independently checked, but recursive proof-dependency
+acquisition is the only implemented behavior when preflight is not READY.
+
+This is not a new finding that certificates are logically necessary for every
+use: TRUST-AND-LOWER-BOUNDARIES already distinguishes grounded parents, short
+direct witnesses and certificate-covered cuts. Nor is native receive dishonest:
+its docs explicitly describe closure acquisition. The current public gap is
+that a consumer cannot express "check this new unit against my selected accepted
+parent, but do not fetch missing older witnesses" through that command.
+
+Why this is not merely a documentation preference: inspect never runs owner
+preflight or grants mathematical acceptance; it cannot answer the above request.
+Setting units=1 does not prevent the missing-premise locator request, which
+occurs before the next unit-cap check. Setting preflights=1 also enters that
+missing-premise loop before the final readiness refusal. Byte/time caps bound
+cost, but do not express this different permissible-work boundary.
+
+The smallest successor can add an explicit policy such as selected-unit-only
+versus bounded-closure. Under the former, use the unchanged live owner preflight
+after binding the selected exact unit; on missing premises, return a precise
+nonacceptance with its missing frontier before any ancestor locator/evidence
+fetch or owner.admit. READY still enters the unchanged independent admission
+path. No downloaded warrant, stored success Boolean or signature is authority.
+Preserve old bounded-closure behavior as an explicitly identified native mode,
+and preserve existing aggregate grants,cleanup and partial-outcome reporting.
+
+The decisive focused controls are an actual missing-frontier refusal with zero
+ancestor callbacks and zero admit, a ready frontier using unchanged admit,
+explicit bounded-closure continuation, and rejection of an invalid policy.
+These test a new branch/contract; repeating concept creation, native builds,
+mathematical export/intake or whole-network experiments is unnecessary. Root
+alone decides implementation and any execution selection after its own review.
+
+This feature offers bounded warm-delta use and deliberate refusal, not cheap
+successful cold import. It still reads/checks the selected target proof and may
+restore the chosen local parent. Atomic target units can contain several grouped
+declarations. Do not call that constant cost, proof erasure or no local ancestry
+I/O. An ungrounded cold target remains unavailable on this strict ordinary lane.
+
+The binding release obligation remains: supply actually compatible bounded-cost
+evidence for useful cold targets, or retain the requested strict refusal while
+honestly exposing the optional native-learning route. The existing restricted
+mixed-lane receipt evidence cannot be relabeled as an ordinary Lean certificate;
+the prior architecture audit explicitly requires exact semantic correspondence.
+This source audit establishes no suitable new certificate workload or unmet
+batch/session trigger. Therefore do not reopen those campaigns solely because
+the ordinary lane has this known limitation. Ordinary baseline intake still
+supports explicitly selected eligible parents and bounded multi-unit batches;
+those mechanisms control selected local work, not arbitrary cold proof ancestry.

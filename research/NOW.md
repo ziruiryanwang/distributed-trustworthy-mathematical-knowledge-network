@@ -1,5 +1,35 @@
 # Current research desk
 
+**2026-10-24 bounded operations CLOSED/read/adopted; investment gate before cuts.**
+Independent final audit verifies 145 payloads plus PROFILE and the actual direct
+public launcher query (1.1269415wall,0.90625JobCPU+0.109375wrapperCPU), with exact
+expected output and clean closure. Both focused suites and source build are
+already complete; no rerun or runtime remains. GROUNDED-CUT-CONTRACT now chooses
+a distinct local backend and one new theorem per event. Retained theory trace
+finds six usable theorem interfaces and twenty concrete units, not measured
+savings. Before implementing another backend, source-only agents challenge its
+full-cost advantage versus existing batching/small roots and creative-growth
+payoff versus one concrete alternative. Root owns adoption and explicit Git.
+Full v5 ACTIVE; no cut implementation/migration/native run selected yet.
+
+**2026-10-24 bounded package built; growth-lifetime decision selected.** Both
+focused suites pass (19receive/32launcher). One clean-source build completed in
+60.078679wall/52JobCPU+1.328125wrapperCPU;package audit pending,all Jobs closed.
+Actual package PROFILE9c41b9a3fe36f7283af130ac6ef290e82c2a78c432980b2bea75ccdcf197a6d4;
+no mathematical rerun. Root read/adopts both grounded interface-cut reviews and
+selects GROUNDED-CUT-CONTRACT plus existing-theory source/data trace. No cut code,
+native run or migration yet. This reopens a substantive ancestry-saving LOCAL
+acceptance rule without demanding equal full-native success sets;not cheap cold
+trust or global completeness. Full v5 ACTIVE,not completed.
+
+**2026-10-24 central bounded-operation source successor selected:** root reads
+the scale/security/public-path audits and selects ordinary_bounded_operations/
+CONTRACT. Add explicit selected-unit-only vs bounded-closure receive policy and
+a public whole-operation Job launcher over existing supervision. Neither numeric
+caps alone nor inspect supplies the first;current direct CLI lacks the second.
+No acceptance-rule change,cold certificate,reference-lane revival or new runtime.
+Two disjoint authors plus independent review;root owns integration. Full v5 ACTIVE.
+
 **2026-10-24 authoring-retention boundary CLOSED/read/adopted.** Standard Lake
 project for retained repairs/closure theory built in2.62748wall seconds,with zero
 external packages and no historical artifact inputs. Local source ZIP at

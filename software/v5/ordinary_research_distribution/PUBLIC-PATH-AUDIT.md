@@ -146,3 +146,63 @@ security isolation,independent hosting and growth-cost advantage remain unproved
 build audit;do not add a generic investigator wrapper now. Preserve the specific
 live-service limitation for the next availability/role-separation decision instead
 of spending another episode proving the already-supported finite authoring loop.
+
+## Current release workflow: do not revive the parked reference lane
+
+2026-10-24. Source-only follow-up by current_research_path after the standard
+authoring-project handoff. No native call, store opening, protected-state read,
+network operation, test or Git mutation. Existing saved audit was read as evidence.
+
+**The preserved thin-delta reporting failure is not a current shipped command
+failure.** source-map.json:404,411-412 selects ordinary_module_anchor's store,
+closure and exporter;442 selects ordinary_native_package/owner.py. Under reference/
+only baseline_bundle and baseline_intake are copied (449-450). No ReferenceModule,
+reference_store, reference_registration or reference_module role is selected.
+The public owner's choices at41-43 omit register-reference/export-reference-delta;
+its export-module dispatch at543-551 uses the separate generated-module anchor.
+The clean builder/profile contain no hidden reference-delta dispatch. Thus fixing
+the parked package would not repair the default investigator distribution.
+
+THIN-DELTA-SOURCE-REVIEW's retained actual audit still establishes a genuine
+experimental failure: registration and intake succeeded, native delta construction
+and both rereads succeeded, record10a905f4... committed, then its postcommit loader
+failed. The wrapper omits the chained inner exception. Source tracing of
+reference_store03.py:1150-1163 confirms commit/readback precedes load_delta and
+ReferenceCommittedError. Existing CLOSED marking occurs before commit; this is
+not a source-supported missing-closure-marker diagnosis. The saved audit supplies
+no inner predicate/traceback, so neither a budget explanation nor a semantic bug
+is proved. No new recovery call or expensive integration rerun is justified here.
+
+### One actual shipped fix candidate
+
+There is a narrower shared operational blind spot in the current module route:
+
+- ordinary_module_anchor/anchor_store.py:58-64 preserves the exact AnchorID and
+  COMMITTED_LOCAL_ANCHOR_REPORTING_FAILED but no bounded inner diagnostic.
+- _commit_generated:688-691 wraps any postcommit load exception in that class.
+- module_export.py:363-380 serializes the outer type/message and anchor disposition,
+  not the chained inner exception. The public owner returns that structured detail.
+
+Therefore a supported caller facing a late budget, integrity or I/O refusal after
+commit receives the correct retention disposition but cannot distinguish those
+causes from this report. This is a source-established diagnosability limitation,
+not evidence that current successful exports are invalid or that this package
+has reproduced the old thin-delta failure. Current intake separately retains its
+last confirmed root, possible-unreported-commit flag and bounded inner error
+(baseline_intake.py:320-330); that path should not be replaced or retested.
+
+The smallest consequential software action, if root selects it, is to retain a
+bounded inner error type/message in the existing AnchorCommittedError report and
+carry it unchanged through existing public failure reporting. Preserve exact ID,
+commit-vs-unknown distinction, no automatic retry, no changed mathematical authority
+and all current loader checks. Do not log arbitrary locals, source contents or
+full traces. Apply this in a fresh selected successor, not to frozen source bytes.
+A native-free injected postcommit loader refusal can test the changed reporting
+boundary; a full compiler/export/recovery campaign would add little information.
+
+This is lower priority than any substantive scale or acceptance/security defect
+found by parallel review. It is a small current-product repair candidate, not a
+reason to promote optional reference materialization, add a generic workflow
+wrapper, or claim the real-v5 growth requirement complete. The ordinary-project
+concept-development/return sequence remains source-expressible under its existing
+approval, compatibility, cost and availability conditions.
