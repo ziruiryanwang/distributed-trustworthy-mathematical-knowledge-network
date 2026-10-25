@@ -1,5 +1,58 @@
 # Current research desk
 
+**2026-10-24 concept-growth follow-through CLOSED; full v5 remains ACTIVE.**
+Root fully reads/adopts final independently reviewed CONCEPT-CAPABILITY-THEOREM
+(6b66411e), open-ended/public-path decisions and REALIZATION-IDENTITY-COMPATIBILITY
+(70af496d). Independent actual export audit is adopted below. Ordinary Lean
+already supports new concepts/theory extensions; no new generator or scheme is
+selected. Actual source-to-output mismatch is resolved as distinct exact artifact
+versions, not waived: same-catalog branches support coexistence, not silent warm
+upgrade/joint import. Pin dependencies or check an explicit new bridge/revision.
+No experiment or subagent task remains live; no pause or completion of full v5.
+Next work must target actual remaining release/scale/assurance obligations, not
+repeat concept episodes, public export, identity audit or generic growth theory.
+Fixed-basis optimization remains unselected under its existing payoff gate.
+
+**2026-10-24 source-realization export actual audit CLOSED/read/adopted.**
+REVIEWd04d8a12 verifies all212old/new unit hashes/IDs,122exports per bundle and
+819edge bindings.84units exact;10payload changes and12dependency-only changes
+explain22newIDs and all12changed endpoints. Two diagnostic substitutions explain
+all differences; no equivalence authority or historical acceptance transfers.
+Ordinary source now binds to its actual new inert outputs, not guessed old IDs.
+No new mathematics or speedup claimed; no retry/build/intake selected. Results
+are in software/v5/concept_realization/RESULTS.md. Only the bounded source-level
+warm compatibility discriminator remains assigned. Full v5 active, not complete.
+
+**2026-10-24 source-realization export terminal; identities differ.** Public
+export01 returned zero/closed in9.973095wall,5.109375JobCPU+0.96875wrapper; no
+runtime remains. Independent actual audit is pending. Preliminary comparison:
+same106units and12target names,84units byte-identical,22changed and all12target
+identities changed. Preserve new/old outputs; no old acceptance transfers and
+no novelty follows from ID change. Select only a parallel source-level warm
+compatibility discriminator in REALIZATION-IDENTITY-COMPATIBILITY: determine
+what exact-name rebinding/intake already permits. No canonicalizer, rebuild,
+retry,intake or extra experiment selected. Full deployable v5 remains active.
+
+**2026-10-24 concept-realization-export01 SELECTED once.** Root fully reads/adopts
+prospective REVIEW8098ea53. Exact selection7ca79c11f3145b4b21d0fc6093cf311abe8936af
+dedae99c83dd5504485a42dc pins four sources and150 external runtime/package/project
+files. Existing public owner-free producer loads already built TheoryB02 and
+exports the original12 targets. Inner60wall/45CPU/1024MiB; outer90wall/60CPU/
+1280MiB/six processes. No rebuild,new mathematics,owner state,intake or service.
+One attempt; preserve any mismatch or failure. Independent saved-output audit
+follows; no outcome claimed yet. Full deployable v5 remains active.
+
+**2026-10-24 growth decision selects actual source-realization correspondence.**
+The retained episode already supplies nonvacuous independent concept formation
+and continuation; root reads/adopts OPEN-ENDED-GROWTH-DECISION. No new generator,
+concept schema or repeated episode. Public-gap review identifies unbound module
+remapping (TheoryB to TheoryB02), not a known semantic error. Root selects source
+contract/config at software/v5/concept_realization: one existing owner-free export
+from the already built standard project, then exact saved-output comparison to
+the twelve earlier B endpoints. Prospective source/selection review is underway;
+no execution yet. No build, intake, source hosting or new protocol. Fixed-basis
+optimization stays deferred; full v5 remains active and unfinished.
+
 **2026-10-24 public custody return CLOSED/read/adopted; growth decision first.**
 Root read/adopts the complete saved public-return audit (REVIEW SHA256
 450c7f1913c6814b1d4b8e351efb3032d2db6022d571c80c9ca0a405ca65adbd).

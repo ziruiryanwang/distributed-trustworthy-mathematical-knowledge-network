@@ -4,6 +4,39 @@ Updated: 2026-10-24. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
+**Current growth decision (2026-10-24):** support independently chosen concept
+and theory development through ordinary Lean projects, not a theorem-only store
+or a central invention service. The retained repair/closure episode already has
+substantive definitions, models, countermodels and an independently chosen theory
+extension. The [public-path review](research/cycles/v5-2026-10-24-growth-selection/THEORY-CONTINUATION-PUBLIC-GAP.md)
+finds existing public operations for the full native-first route; no additional
+concept-generation primitive is justified. The trusted core checks exact work;
+local investigators choose and revise concepts. A checked model, refutation or
+bridge can be as important for continuation as a positive theorem endpoint.
+
+The [conditional capability argument](research/cycles/v5-2026-10-24-growth-selection/CONCEPT-CAPABILITY-THEOREM.md)
+justifies exact false-branch elimination and a finite prefix-cost condition,
+not automatic research acceleration. It gives ordinary Git/Lake/search the same
+capabilities. Mathematical validity, effective usefulness and novelty remain
+distinct; no human-intention field or global mathematics task list is introduced.
+
+The current default implementation is [bounded ordinary investigator](software/v5/ordinary_bounded_operations/README.md),
+with its completed build/public-launcher audits in the adjacent REVIEW. Ordinary
+source retention and inert checked-evidence custody remain separate obligations.
+The optional grounded-cut backend has actual recursive checks and inert public
+return, but is not the default package or an established speedup. Fixed-basis
+acceleration remains deferred behind concrete public integration work. Full v5
+is not released; global-scale discovery, assurance, availability and deployment
+obligations remain. See NOW for exact current source/run identities.
+
+The [actual ordinary-source realization](software/v5/concept_realization/RESULTS.md)
+now has exact exported outputs. It differs from the earlier experimental module:
+84 of106units are unchanged; binder/generated-name changes and dependency-ID
+propagation change22units and all12endpoint identities. These are artifact
+differences, not22new ideas. Use actual new IDs for that source realization;
+historical acceptance does not transfer. Existing separate context branches
+support version coexistence, not silent same-name upgrade or automatic joint use.
+
 **Forward access to the new theory now exercised (2026-10-24):** existing public
 APIs published12 accepted B targets and found6 connection interfaces from A's
 Repair symbol without a B name or result ID in the query. A stateless client
