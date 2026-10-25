@@ -4,6 +4,39 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 at-hand build/control reviews and shared-setup source checkpoints
+complete; root adopts actual build/control evidence. Research runtime held only
+for user-requested cleanup. Root owns read-only archive equality verification,
+exact deletion decisions, recovery ledger and Git. current_security_obstruction
+owns cleanup CACHE-REVIEW (historical package reference safety); basis_cut_lean
+owns RUNTIME-REVIEW (old Lean extraction reference safety); current_research_path
+owns cleanup REVIEW (verifier safety). All under
+research/audits/storage-cleanup-2026-10-24; no subagent deletion/runtime/Git.
+No new comparison execution or broad research. Resume payoff-led v5 after cleanup.
+
+2026-10-24 root selects focused controls01 after full independent source review
+and exact root pin/budget check. current_research_path owns saved build/control
+audits; no rerun. basis_cut_lean revises only payoff plan to one common fresh
+native prerequisite fixture and serialized lanes. current_security_obstruction
+owns fresh grounded_cut_basis_compare/compare_workflow.py and SOURCE-PLAN.md
+design/source only after that invariant is checked; root owns contract/selection.
+No comparison runtime or public accelerator adoption. All used bytes preserved.
+
+2026-10-24 complete fixed-basis integration/build selection review adopted by
+root. Root selects one minimal grounded-cut-basis-build01 and owns original
+launch/allowance. current_research_path owns control source review then saved
+build audit; security author completed42 focused native-free control sources.
+basis_cut_lean finishes only PAYOFF-PLAN, no orchestration/runtime. No old bytes
+or state touched; no mathematical event or performance adoption yet.
+
+2026-10-24 grounded_cut_basis SOURCE selected under CONTRACT.md. Root owns
+contract/controller/runtime/catalog/bootstrap/worker/build integration and later
+finite selections/Git. current_security_obstruction owns source_anchor.py and
+ANCHOR.md; basis_cut_lean owns GroundedCut.lean, GroundedCutDriver.lean, WORKER.md;
+current_research_path owns independent complete changed-path REVIEW.md. Minimal
+three-field basis_snapshot interface confirmed. No runtime or test selected;
+canonical root only, no old-source edits or subagent Git. Full goal remains open.
+
 2026-10-24 all current concept-growth tasks CLOSED/read/adopted by root. Actual
 realization export, exact difference audit and warm-compatibility source decision
 complete; no runtime or pending assignment. Root owns reviewed Git checkpoint

@@ -25,7 +25,11 @@ with its completed build/public-launcher audits in the adjacent REVIEW. Ordinary
 source retention and inert checked-evidence custody remain separate obligations.
 The optional grounded-cut backend has actual recursive checks and inert public
 return, but is not the default package or an established speedup. Fixed-basis
-acceleration remains deferred behind concrete public integration work. Full v5
+acceleration now has a narrow source-only successor under
+[its contract](software/v5/grounded_cut_basis/CONTRACT.md): authenticate/restore
+only the already checked fixed basis, retaining full checks and unchanged
+metadata cadence. It removes456 repeated seed kernel additions in principle;
+no performance adoption is established. Full v5
 is not released; global-scale discovery, assurance, availability and deployment
 obligations remain. See NOW for exact current source/run identities.
 

@@ -1,5 +1,69 @@
 # Current research desk
 
+**2026-10-24 current build/controls CLOSED; research temporarily held for cleanup.**
+Root reads/adopts REVIEW11386b2f: actual minimal support build PASS and corrected
+42-group controls02 PASS,3.836974wall/2.953125JobCPU+0.109375wrapper, clean closure.
+Controls01 remains failed and charged; all used bytes/evidence remain frozen.
+Shared nine-worker comparison driver/plan are checkpointed SOURCE ONLY, not
+independently reviewed or selected for execution. No research workload lives.
+Storage scan found90.371GiB logical/988228files; root selects only archive-backed
+historical extraction verification and reference checks under
+research/audits/storage-cleanup-2026-10-24. No deletion yet. Finish this maintenance
+then resume v5; do not launch comparison or other research during cleanup.
+
+**2026-10-24 finish current tasks, then user-requested storage cleanup.** Root
+adopts the independent controls02 delta/selection GO and verifies the one-line
+test-only change and exact selection c75c68b79879d765eaa41247df9c6e2d8e96ec767f58cefdd9d4e50a895d3e1f.
+Select its single native-free execution under the original finite limits; preserve
+controls01 as failed. Finish saved-output reviews and existing source checkpoints.
+No larger comparison may run before cleanup. Read-only storage inventory is in
+progress; remove only verified redundant material with an exact deletion ledger,
+preserving source, state, evidence, required artifacts and Git history. Resume
+payoff-led v5 work after cleanup; the full goal is not complete or indefinitely
+paused. No deletion has occurred at this checkpoint.
+
+**2026-10-24 controls01 failed closed on a test expectation; no product change.**
+One negative supplied a JSON boolean count. Actual strict writer parser correctly
+refused ADMISSION_WRITER_TOKEN before the expected ACTUAL_COST_BINDING check.
+The test aborted; no42-group pass is claimed. Outer COMMAND_FAILED/clean closure,
+3.017861wall,2.140625JobCPU+0.109375wrapper; failure/source preserved. Fresh
+test_basis02 changes only that expected string, with proposed selectionc75c68b7;
+independent delta review pending, no second run yet. Full short rerun is cheaper
+than new partial-test machinery. Shared-setup comparison source contract now
+adopted: one new genuine basis+34prereqs, isolated serial cut/native alternatives,
+nine total mathematical events if later selected; no comparison runtime yet.
+
+**2026-10-24 fixed-basis build terminal; focused controls SELECTED once.** Build
+returned zero/closed47.876065wall,6.921875JobCPU+1.046875wrapper; independent saved
+audit pending, no runtime remains from build. Root fully read/adopts42-group
+independent control source review and validates the exact ten source pins/three
+runtime pins in selection47f6954002e44ccae5232fbf9e6ebc0f31bee0004a13028f981b58a14931fcc1.
+Select grounded-cut-basis-controls01 only:60wall/30CPU suite under90wall/45CPU/
+768MiB outer. Synthetic fresh fixtures, explicit authority doubles, no Lean,
+existing state, network or mathematical claim. New source-only payoff plan seeks
+one shared fresh prerequisite setup rather than repeated initialization; no
+mathematical comparison selected. Full deployable v5 remains ACTIVE.
+
+**2026-10-24 fixed-basis minimal support build SELECTED once.** Root fully
+reads/adopts independent complete-path/build review (c792c76d). Exact selection
+dc9a42288ebbcc81bbb990e1024bcb7ae3a4f85992cc3ecc0b799d9eff418519 selects
+grounded-cut-basis-build01: twelve source snapshots/seventeen runtime pins,
+existing ordinary package, one helper compile and driver typecheck without main.
+Inner120wall/90CPU/1024MiB; outer180wall/150CPU/1280MiB. No mathematical event,
+DB open, repeated concept episode or speedup claim. Used source freezes on use;
+independent saved-output audit follows. Focused controls and matched payoff plan
+remain source-only; ordinary Lean/native batching stay default. Full v5 ACTIVE.
+
+**2026-10-24 protected fixed-basis SOURCE successor selected.** Root adopts the
+prior payoff/review and selects software/v5/grounded_cut_basis/CONTRACT.md.
+Remove only456 repeated seed kernel additions via genuinely committed protected
+singleton basis restoration; retain metadata cadence and all mathematical/event
+checks. Three-field internal basis_snapshot is authenticated once per worker
+event. Fresh support/state; existing used source/evidence stay frozen. Disjoint
+anchor/Lean/review assignments are active; root owns complete integration.
+No build/test/native event or performance adoption selected. Ordinary Lean/Lake
+concept/theory development and native batching stay primary. Full v5 ACTIVE.
+
 **2026-10-24 concept-growth follow-through CLOSED; full v5 remains ACTIVE.**
 Root fully reads/adopts final independently reviewed CONCEPT-CAPABILITY-THEOREM
 (6b66411e), open-ended/public-path decisions and REALIZATION-IDENTITY-COMPATIBILITY
