@@ -1,5 +1,28 @@
 # Current research desk
 
+**2026-10-24 independently chosen theory returned:** B's twelve consequential
+targets exported106 units/122names/822414bytes in6.714wall seconds. Existing
+recipient intake CHECKED67 and reused39 exact A units, final root
+`03de3aa800949731dfc0823d8661374c9f216262211c9bfe1ac6afd930421e20`,
+10.547wall/9.921875 nonduplicated observed CPU. No new init, harness, package,
+certificate, ordinary-library registration or module attempt. Saved-result audit
+is active. Root adopts PRODUCT-DECISION and selects only exact source feasibility
+of current publish/find/preview for forward A-symbol discovery of B connections.
+Do not count native creative development as our network's demonstrated advantage.
+
+**2026-10-24 concept episode: checked independent continuation, return selected.**
+Root read/adopts CONTENT-AUDIT and ACCEPTANCE-AUDIT: A and corrected B02 compile;
+B independently adds closure-order theory and consequential countermodels. Fresh
+recipient checked its 456-unit basis and all 66 exported A units at root
+`3edb83787b85ccd2dfdb0c796c8c6636a0fa3dc671530fae6e14594cad0b0da0`.
+Preserve B01's type error and intake01's pre-native allowance refusal. No speedup,
+literature novelty, inert-module B use, or final-v5 claim. Root selects existing
+API B export inputs then conditional intake above that A root; no new harness.
+One separate product decision weighs the actual creative workflow against native
+packages before importer engineering. EXCHANGE-ROUTE's full-record reconciliation
+proposal is read/adopted in principle, NOT selected for implementation or runtime.
+All used inputs/evidence remain frozen; the full v5 goal remains ACTIVE.
+
 **2026-10-24 concept formation produced checked mathematics:** fresh A independently
 selected an asymmetric repair calculus. Its complete ordinary Lean module checked
 first attempt (1.924 wall seconds, 1.140625 nonduplicated observed CPU) with empty

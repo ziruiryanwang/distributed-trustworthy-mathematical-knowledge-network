@@ -1,5 +1,121 @@
 # Independent concept-development episode
 
+## Returned theory accepted; next decision is discovery, not another importer
+
+`concept-theory-b-intake-01` completed successfully under selection
+`33c62a657bb32aeb28f469215554568aa15bd90bf70b23c3fc1647fd0b93be83`.
+The existing recipient independently CHECKED67 units and reused39 exact admitted
+A units, producing local root
+`03de3aa800949731dfc0823d8661374c9f216262211c9bfe1ac6afd930421e20`.
+These counts include supporting library declarations, not counts of inventions.
+Cost:10.5474842 outer wall;9.171875 child Job CPU plus0.75 wrapper CPU.
+No ordinary library was registered and no transferable warrant was produced.
+Independent saved-result audit completed PASS and is read/adopted by root;
+no rerun or generated-module attempt.
+
+Root read/adopts PRODUCT-DECISION: the independent native A-to-B development and
+inert endpoint returns are useful evidence, but the investigator received a
+centrally supplied handoff. Next inspect existing publish/find/preview with the
+actual accepted theory and an A-only symbol query. This is source feasibility,
+not a new runtime selection or a claim of unknown-ID discovery. Do not build
+the full-record matcher, invent another theory, add a ranker, or repeat the
+same proof checks merely to grow the demonstration. Existing ordinary packages
+remain the rich frontend; no-producer-code full theory use remains unresolved.
+
+Source mapping found existing peer publication can expose accepted declarations
+without ordinary-module registration. Select fresh DISCOVERY-PUBLISH.json and
+configuration notes for all twelve actual B outputs in a new bounded index,
+using the existing final accepted root/custody. No server, external endpoint,
+public runtime or discovery result is selected by this configuration preparation.
+
+## Actual B export and conditional intake selected
+
+B export passed with all twelve targets, one batch, 106 units, 122 names,
+822,414 encoded unit bytes and 19,745 nodes. Exact manifest is
+`680cd98f8d1d31ef251b1e78b1cdae7a60bbe2b733e95193b0fe52cb9855c302`.
+Comparison with A's accepted manifest gives 39 exact reused unit IDs and 67
+additional IDs, not 106 newly invented results. Cost: 6.7138303 outer wall,
+4.484375 child Job CPU plus 0.6875 separate wrapper CPU. Production is not
+acceptance. Root selects one existing `intake-baseline` above actual A root
+`3edb83787b85ccd2dfdb0c796c8c6636a0fa3dc671530fae6e14594cad0b0da0`,
+using the same recipient and limits. All 149 package/runtime pins, exact manifest
+and all 106 units fit the runner ceiling exactly (256 pins); no binding exception
+or harness change is needed. One batch reserves60 CPU; retain corrected A's
+inner120wall/90CPU/1024MiB and outer150wall/120CPU/1280MiB/six processes.
+The existing intake preflight will enforce actual local compatibility/capacity;
+an export count or root's comparison is not mathematical admission.
+
+## B return boundary selected
+
+Root read/adopts the complete mathematical-content and saved-acceptance audits,
+and the exact-reconciliation source recommendation. B's independently chosen
+closure-order theory is substantive; A's actual 66-unit intake is CHECKED, not
+merely produced. Ordinary approved native modules remain the authoring baseline.
+Select one direct `produce-baseline` for twelve consequential B targets, logical
+module `TheoryB`, using all five retained B02 artifacts and all five original A
+artifacts. Sources are B02 and fresh B configs; package/runtime remain unchanged.
+Exact selection `concept-theory-b-export-01.selection.json` is
+`bb8bc9baa2e60e57c9af9fad1a3757e337f5812bedf72437a0ad82a9c9958a32`;
+159 runtime pins, inner120wall/90CPU/1536MiB, outer150wall/120CPU/1792MiB,
+six processes. Inspect actual closure and reuse before selecting intake above
+the real A root; no duplicate recipient initialization or new harness. A later
+intake needs its own concrete manifest/input selection. No module export,
+matcher repair, network operation or growth-speedup experiment is selected.
+
+## Intake allowance correction
+
+Recipient init succeeded; exact actual basis is
+`b0851e46d05bffc3ad289ca9d1c731940265ca9c5eca4856aa580f5d6cb8ffd3`.
+Intake01 stopped before native work at `BASELINE_AGGREGATE_CPU_RESERVATION`.
+Root chose an insufficient outer operation allowance: baseline_intake.py's
+default CallLimits reserves 60 CPU seconds per batch, plus controller cost; a
+60-second total cannot satisfy its strict capacity inequality. No batch ran,
+no possible unreported commit, no mathematical rejection. Preserve the failure.
+Select a fresh intake02 using exactly the same basis, bundle, package and limits
+file, changing only total inner wall/CPU to120/90 and outer wall/CPU to150/120.
+Memory/process caps are unchanged. This is a source-justified input allowance
+correction, not evidence for higher measured checking cost or a repeated init.
+
+## Actual B and A export; independent intake selection
+
+B02 compiled successfully with empty diagnostics and clean closure in 1.0387915
+outer wall seconds, 0.59375 child CPU plus 0.359375 wrapper CPU. Its predecessor
+failure is retained and costs 1.0968664 wall / 0.96875 observed CPU seconds.
+A export returned 66 units (430,438 encoded unit bytes, 78 names), including five
+inductive groups, in 6.4710613 wall / 4.71875 observed CPU seconds. Independent
+saved-output review passes for production only. Full manifest is
+`324c8a04fe7a31cd0ee3a3cba0421014f5a5136593c26bcefa65ee2e0ad36e07`.
+
+Do NOT run unchanged generated-module export: both full closure >32 and actual
+small subclosures' ambient Option/Prod collisions are source-established limits.
+Select instead the minimum independent acceptance boundary: one fresh recipient
+init, followed only on its actual returned basis by one intake of the complete
+actual A bundle. Existing package and public commands, no new harness, reference
+registration, changed caps in product, or metadata repair. Per command outer
+120wall/90CPU/1280MiB/six-process caps; inner90wall/60CPU/1024MiB. Record actual
+outcomes; an intake success would not establish no-producer-code module use.
+
+## B source feedback, one exact correction
+
+First B compile failed only at line 69: dependent equality notation rewrote more
+of the relation than intended. The mathematical implication is unchanged. Root
+selects fresh `TheoryB02.lean`, `d1397331c7b633fec21558189c2eaa45b76642c49d5ca3f359a01f6e623c5bb4`,
+with one explicit Eq.mp/congrArg motive holding the left side fixed. Original
+B source/failure remain frozen. Use the same B-SETUP (logical module TheoryB),
+A artifacts and 60wall/45CPU/1024MiB/two-process caps in fresh concept-theory-b-02.
+No silent success claim or unrelated changes.
+
+## Independent B compilation selection
+
+Root read the complete final B source and mathematical arguments. Select one direct
+compile of `TheoryB.lean`, `bf3b0947459feca323403ea4e1263133efd5ab6a53eb69f44d6ebf9dd0fea54e`,
+using only the original five pinned A artifacts in `B-SETUP.json` and the approved
+Init distribution. Lean's ModuleSetup maps A artifacts and leaves source imports
+unchanged; unknown library artifacts use ordinary installed-library lookup.
+The existing runner applies 60wall/45CPU/1024MiB/two processes; no recompilation
+of A, owner store, independent intake or network call. Ordinary frontend reuse
+is the declared baseline, not inert-peer reuse. Preserve used source and outcome.
+
 ## A inert-export boundary
 
 Root selects one `produce-baseline` call with the existing native-src01 package,

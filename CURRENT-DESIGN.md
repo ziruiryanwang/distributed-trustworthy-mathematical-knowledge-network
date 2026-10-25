@@ -4,6 +4,21 @@ Updated: 2026-10-24. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
+**Actual creative continuation (2026-10-24):** the
+[concept episode](software/v5/concept_episode/CONTRACT.md) now includes an
+independently chosen repair calculus, a separately chosen closure-order extension,
+successful ordinary Lean builds and independent inert intake of both selected
+interfaces. B returned67 newly checked units using39 exact A units; these include
+library dependencies, not67 new ideas. The content audit found coherent nonvacuous
+mathematics, not evidence of literature novelty or speedup. Ordinary Lean earns
+credit for the creative frontend; our current exchange lane supplied independent
+endpoint checking, not full inert-module theory use. That path has concrete
+unit-cap, installed-definition matching and frontend-metadata limitations.
+The [product decision](software/v5/concept_episode/PRODUCT-DECISION.md) therefore
+defers matcher engineering and selects source inspection of existing forward
+symbol-neighborhood discovery for these real connections. Root-supplied handoff
+must not stand in for decentralized discovery. Full v5 remains unfinished.
+
 **Explicit creative-growth requirement (2026-10-24):** the user requires support
 for developing new concepts and theories, not only sharing proved endpoints.
 The formal-native investigation in CP-001C already distinguishes legal definitions,

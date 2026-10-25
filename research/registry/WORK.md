@@ -4,6 +4,21 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 B return execution COMPLETE. concept_return_inputs CLOSED/read;
+thin_delta_audit owns append-only saved B export/intake audit in concept_episode/
+ACCEPTANCE-AUDIT.md. concept_product_decision owns source-feasibility append to
+PRODUCT-DECISION.md mapping actual A/B into existing publication/discovery. No
+runtime or code implementation selected for that follow-up. Root owns adoption,
+navigation and explicit Git checkpoint; full v5 remains ACTIVE.
+
+2026-10-24 concept continuation: prior saved acceptance and exchange source audits
+CLOSED/read/adopted. concept_return_inputs owns only fresh B-EXPORT-PROJECT.json,
+B-EXPORT-NAMES.json and B-RETURN-SELECTION.md under software/v5/concept_episode;
+no runtime. concept_product_decision owns only adjacent PRODUCT-DECISION.md, a
+bounded nonduplicative architecture/payoff decision. Root owns direct selections,
+actual export/intake conditional on outputs, navigation, integration and Git.
+No matcher, new framework, old integration retry or certificate campaign selected.
+
 2026-10-24 thin actual audit CLOSED/read/adopted with failure preserved. A source
 and handoff CLOSED/frozen; B independently active. theory_exchange_route inputs
 completed/read; thin_delta_audit now owns only the direct A-export selection review
