@@ -4,6 +4,19 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 build01 saved-outcome audit CLOSED/read/adopted; no runtime lives.
+Security author continues source-only recursive_workflow; scale author continues
+source-only custody-return controls. Reviewer owns their independent source and
+later actual-output reviews; root owns selections, integration and explicit Git.
+All used build/cut source stays frozen; no main-package rebuild or new certificate.
+
+2026-10-24 root selects only grounded-cut-build01 support build; owns launch and
+adoption. current_security_obstruction owns recursive_workflow.py and plan append
+SOURCE ONLY. current_scale_obstruction owns ordinary_custody_return/test_return.py
+and CONTROL-PLAN SOURCE ONLY. current_research_path owns independent build outcome
+and new source reviews. Canonical root only; no subagent runtime or Git mutation.
+No repeated old test, certificate work, native admission or mixed checker selected.
+
 2026-10-24 controls01 full source/launch/actual audits CLOSED/read/adopted; no runtime.
 current_security_obstruction owns grounded_cut/build_support.py and BUILD-PLAN.md
 SOURCE ONLY, no base rebuild. current_scale_obstruction owns only

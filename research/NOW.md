@@ -1,5 +1,26 @@
 # Current research desk
 
+**2026-10-24 grounded-cut build01 CLOSED/read/adopted.** Independent saved-output
+audit verifies all twelve snapshots/seventeen runtime pins and the exact reused
+base. One helper object compiled; driver typechecked without main; approved
+addition loaded. Manifest8bdcd6bd93b2d3b10d5c1ef01b995893e0c417da57bd848412ddcc0b912e5135.
+55.650762wall,7.921875JobCPU+0.96875wrapperCPU; zero active/terminated processes,
+no cleanup errors. Used source/Lean/build bytes now frozen. No mathematical
+event or speedup established. Remaining source work: two existing substantive
+laws through actual recursive checking, and inert custody-return controls.
+No further runtime selected yet. Full deployable v5 remains ACTIVE.
+
+**2026-10-24 minimal grounded-cut support build SELECTED once.** Root read/adopts
+the complete builder and custody-return source reviews. Exact build01 selection
+uses the existing bounded ordinary package, twelve snapshot sources and seventeen
+runtime-file pins: inner120wall/90CPU/1024MiB; outer180wall/150CPU/1280MiB.
+One helper compilation and driver typecheck, no mathematical request or base
+rebuild. Independent saved-output audit follows; failure is preserved, not retried.
+In parallel: source-only substantive two-law recursive workflow and disjoint
+custody-return controls. Neither is runtime-selected. Native-first mixed theory
+authoring remains primary; no certification requirement or speedup claim.
+Full v5 remains ACTIVE and unfinished.
+
 **2026-10-24 grounded-cut controls01 CLOSED/read/adopted.** All 24 focused
 native-free groups passed once; independent saved-output audit verifies exact
 snapshots/pins, clean closure,0.8202986wall,0.3125JobCPU+0.140625wrapperCPU and

@@ -624,3 +624,170 @@ artifacts. Used Python dependencies/test snapshots stay frozen. The unused Lean
 primitive and driver are not compiled or qualified by this pass. Actual native
 grounding, recursive theorem use, practical mixed-theory continuation and a
 whole-cost benefit remain separate central obligations.
+
+## Minimal support-build source review
+
+Reviewed the complete `build_support.py` and `BUILD-PLAN.md`, including the
+author's narrow cleanup-reserve correction requested during this review.
+Final hashes are respectively
+`1e851df5827e96f823d3b15c6e36db244b74fb1ed9f06a273fbf41ead63dc081`
+and `c5f77ad3cd2a75ffec30aaae43cbfd077bf17b46f3de4341871dbf189ba2b14c`.
+**SOURCE GO for a separately selected finite support build.** No compilation,
+installation, native request or state open was performed by this review.
+
+The builder authenticates the exact approved base PROFILE
+`9c41b9a3fe36f7283af130ac6ef290e82c2a78c432980b2bea75ccdcf197a6d4`,
+pins the actual owner source from that descriptor, and reuses its full bootstrap
+and ordinary profile loader. The input addition sources come only from the
+selected snapshot. Its ten exact copied source byte strings and readbacks are
+retained; the base package and used earlier sources are not changed.
+
+The sole fixed compile child invokes the pinned Lean command twice in order:
+one `GroundedCut.lean` compilation with an explicit new output path, then driver
+elaboration without `--run` or output flag. Defining `main` is not invoking it.
+The inherited environment removes Lean/Python/PATH overrides, uses the selected
+runtime and imports only the new object directory, the existing exact authoring
+helpers and the existing installation library plus the approved standard runtime.
+No dynamic peer command, mathematical packet or owner-state path is supplied.
+
+The child has the unchanged original absolute deadline. Its supervisor receives
+only the original remaining wall/CPU allowance less the existing 24-second and
+one-CPU-second cleanup/bookkeeping reserves; insufficient remainder refuses
+before launch. Observations are saved, and known finite child CPU is charged
+before rejecting an unclean result. Hard aggregate parent/child containment still
+requires root's selected outer Job. There is no automatic retry or continuation.
+
+Assembly requires exactly the ten source files, the new native directory and
+only permitted GroundedCut object suffixes, including its required `.olean`.
+It checks all copied/input bytes again, writes the exact support manifest last
+inside the addition, then actually loads through the already reviewed bootstrap
+to test same-manifest/base/module compatibility. Only a later successful outer
+run and independent saved-output audit may adopt that output; manifest presence
+alone is insufficient, especially after a loader failure. A complete build says
+nothing yet about real packet checking or protected theorem admission.
+
+The small local `ordinary(..., fresh=True)` helper does not itself refuse an
+existing directory. This is not an overwrite path here: `output.mkdir()` refuses
+an existing output before any output-file write, and subsequent writes are
+exclusive. The exact selection must nevertheless choose a fresh output, as
+documented. No broader path helper rewrite is justified for this build.
+
+## Ordinary custody-return complete source review
+
+Reviewed `ordinary_custody_return/CONTRACT.md`, the complete helper and public
+command, `API.md`, and their actual existing baseline bundle, intake and custody
+dependencies. **SOURCE GO for focused separately selected checks**, not execution,
+installation or a claim that mixed theory development is already demonstrated.
+
+| Source | Reviewed SHA-256 |
+|---|---|
+| `ordinary_custody_return/custody_return.py` | `518f78ece7dbba0744982ce4184db043a31f98756cf2286d1c550335589b05eb` |
+| `ordinary_custody_return/return_bundle.py` | `d4f27858b022f5f4a216e21a2f3843abc7d46ec1811accc8a16d245b3eae87ff` |
+| `ordinary_custody_return/API.md` | `80bfb287dcebaca8bd0381bf8cdfaefc1f6039390d2e891c19478cfb9165e72a` |
+
+This adapter has no cut/native acceptance authority. It supplies the existing
+ordinary receiver format from already held full V2 claims. `selected-units`
+acquires only chosen whole units and exposes unresolved exact imports;
+`closed-basis` explicitly traverses full proof imports to the pinned basis.
+Neither mode changes silently or makes a cold ancestry-free claim.
+
+Exact locator name/unit/export identities are recomputed; every unit is parsed
+and matched to its full content identity. All generated outputs are preserved,
+with one exact symbol per structured name across outputs and imports. Basis
+symbols derive from the pinned actual inventory; shadowing, conflicts, missing
+claimed group outputs and dependency cycles refuse. Cached sibling targets
+still refer to the same whole unit. Iterative topological ordering preserves
+the necessary selected-unit dependencies without recursive Python traversal.
+
+The locator/evidence getters receive remaining byte caps before SQLite BLOB
+materialization. Distinct unit/name/edge/node limits accumulate over the call.
+The reduced parser budget bounds the next unit; the zero-import-allowance case
+permits one bounded parse and then checks the exact zero before further reads,
+as documented. Name accounting similarly follows parsing one bounded unit.
+This is not a claim of zero temporary overshoot in parser object memory.
+
+The helper reuses actual `baseline_bundle.split_units` and `make_manifest`,
+including their aggregate/batch validation. Files use the exact existing
+`units/<unit_id>.json` layout; obligations are written before the final manifest.
+The actual intake reads only manifest-listed files and independently checks
+imports against its approved parent, so extra `obligations.json` is compatible
+advisory metadata, not authority or an intake schema change. Failure leaves
+partial inert output and cannot issue a mathematical warrant.
+
+The public command hash-authenticates the selected profile/owner, reuses that
+owner's complete profile loading, then executes only its hash-selected fixed
+sibling helper. It uses one original nonrenewing cooperative budget and exact
+hash-selected custody limits, targets and optional lowered bundle limits. Paths
+must be absolute, ordinary and disjoint from custody, source, package and runtime
+support. A fresh output is required; writes are exclusive, flushed and read back.
+The approved entrypoint/interpreter/immutable support remain premises, not
+properties proved merely by asking a caller for hashes.
+
+Before opening selected custody, the command refuses preexisting journal/WAL/SHM
+sidecars. The reused store opens read/write SQLite and executes its normal
+connection pragmas; this is accurately disclosed, not mislabeled physically
+read-only. The adapter calls only exact getters and makes no logical custody
+writes. Owner-serialized access/no concurrent mutation is a required premise;
+it does not secretly acquire native/cut authority or perform interrupted-state
+recovery. Hard whole-operation supervision remains a separate launch requirement.
+
+The narrow product benefit is recovering already held proof bytes without an
+unnecessary source export. Receiving checks, authoring, full closure acquisition
+when selected, support validation and repeated bundle parsing remain charged.
+This is useful interoperability, not proof of creative growth or low-cost
+mixed-theory re-entry. No broader mechanism or repeated concept episode is
+justified by this source conclusion alone.
+
+## build01 saved-outcome audit
+
+**PASS for selected support compilation, driver elaboration without main, exact
+assembly and actual approved-loader compatibility.** Read-only saved-evidence
+audit of `experiments/v5-local-checks/grounded-cut-build01`; no rerun or native
+mathematical request by this reviewer. The source/primitives are now used/frozen.
+
+Saved selection SHA-256:
+`c8bdd3c674ddc83ea50db8b34d522067e66a9d131f9da63a3b488d566bca6dca`.
+All 12 exact source snapshots and 17 explicit runtime pins match. All 113 files
+in the reused base PROFILE match their recorded sizes/hashes; the PROFILE remains
+`9c41b9a3fe36f7283af130ac6ef290e82c2a78c432980b2bea75ccdcf197a6d4`.
+This reuses the approved base and its runtime model, not a new hermetic-toolchain
+claim. The new addition has exactly ten source payloads, one compiled payload
+and its manifest, with no unexpected native object.
+
+The sole compiled object is `lean-lib/GroundedCut.olean`, 1,475,720 bytes,
+SHA-256 `87e9211b351c47c7b79e904db8c826b20111458bffb08f800960e24ea1015009`.
+All source/object payloads match `CUT-SUPPORT.json`, whose SHA-256 is
+`8bdcd6bd93b2d3b10d5c1ef01b995893e0c417da57bd848412ddcc0b912e5135`.
+Independent domain-separated recomputation gives the reported support ID
+`60a4c075b07ae91b3482963bddef0735318f1bee32615bf7c1cb9ee308e1ff9c`.
+
+The fixed compile child's raw stdout reports both distinct phases with exit
+zero: `conditional-helper-compile` and `driver-typecheck-no-main`. Its stderr
+is empty. The reviewed executed source has no `--run` for either phase. The
+actual outer success report follows the mandatory copied-bootstrap `load` call
+and same-manifest/base check; it is not a report-only alternative to loading.
+No catalog is opened and no mathematical packet is checked by this build path.
+
+Inner and outer observations both show zero exit, no requested termination,
+zero active/terminated processes, reaped direct child, closed Job and no cleanup
+errors. Inner limits were the derived 94-wall/88-CPU seconds, 1024 MiB and four
+active processes; original parent bounds remained 120-wall/90-CPU seconds.
+Outer bounds remained 180-wall/150-CPU seconds, 1280 MiB and six active processes.
+The cumulative process counts (six inner/eight outer) are not simultaneous
+process counts and do not contradict the active-process limits.
+
+Outer wall time is 55.6507620001 seconds; observed outer Job CPU is 7.921875
+seconds plus separately reported wrapper CPU 0.96875 seconds. Peak outer Job
+private commit is 642,977,792 bytes. Inner worker CPU 6.234375 seconds and builder
+controller CPU 1.5625 seconds are nested in the outer measurements, not extra
+charges to add again. Both outer/inner stderr streams are empty.
+
+Outer result SHA-256:
+`1c742f47c632940454a3ed38ab22bc6b85befe6cf70f6cc2c4ce2c9fc1f604ef`.
+Build result SHA-256:
+`f5aa401692e2c5012b1020b12f0651ff5172159a7e4a66a09787e408334bc63c`.
+The result's one compilation, one driver typecheck, zero mathematical requests
+and zero catalog opens agree with the selected source path. This closes only
+compile/assembly compatibility. Actual native grounding, recursive interface
+reuse, ordinary return and mixed-concept development still require their separate
+decision-changing evidence; no mathematical speedup or final-v5 claim follows.
