@@ -1,5 +1,31 @@
 # Current research desk
 
+**2026-10-24 actual recursive01 SELECTED once.** Root fully read/adopts independent
+RECURSIVE-REVIEW SOURCE GO and exact workflowd8c143bf. Fixed retained two-law
+closure is36units/274177bytes;34prerequisites freshly native-grounded, then two
+actual cut events with close/reopen and exact intent resolution. Approved build01
+support unchanged. Inner360wall/240CPU/1280MiB inside outer420wall/300CPU/1536MiB,
+eight simultaneous processes. No certificate, source authoring, network, retry,
+fallback or old owner state. Final full custody read is separate charged handoff
+evidence, not cut input. Diagnostic reopen logical counters are not event totals.
+Independent saved outcome follows; no public return invocation selected yet.
+Full v5 ACTIVE, not complete.
+
+**2026-10-24 custody-return controls01 CLOSED/read/adopted.** All27 focused
+native-free groups pass; independent saved audit checks exact snapshots/runtime/
+package, six successful bundles and retained refusal evidence.25.507375wall,
+21.78125JobCPU+0.78125wrapper,67,006,464peak bytes; zero active/terminated processes
+and no cleanup errors. No mathematical acceptance. Source/CLI/test now frozen;
+do not repeat. Recursive two-law source remains under separate review, no native
+workflow selected yet. Full v5 ACTIVE, not complete or paused.
+
+**2026-10-24 custody-return controls01 SELECTED once.** Root read complete controls
+and independent SOURCE GO:27 native-free groups, actual approved support/codecs/
+fresh SQLite/bundle bytes, two disclosed narrow test doubles. One original
+60wall/30CPU suite inside90wall/45CPU/768MiB outer Job. No existing mathematical
+state, native process, network or mathematical claim. Used helper/test bytes freeze
+on execution. Independent actual audit follows; recursive workflow still source-only.
+
 **2026-10-24 grounded-cut build01 CLOSED/read/adopted.** Independent saved-output
 audit verifies all twelve snapshots/seventeen runtime pins and the exact reused
 base. One helper object compiled; driver typechecked without main; approved

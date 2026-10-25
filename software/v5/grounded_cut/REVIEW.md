@@ -791,3 +791,107 @@ and zero catalog opens agree with the selected source path. This closes only
 compile/assembly compatibility. Actual native grounding, recursive interface
 reuse, ordinary return and mixed-concept development still require their separate
 decision-changing evidence; no mathematical speedup or final-v5 claim follows.
+
+## Custody-return focused-control source review
+
+**SOURCE GO for one separately root-selected native-free run, not an outcome.**
+The complete test and control plan were read against the previously reviewed
+adapter, selected ordinary APIs and parser refusal paths. No source blocker was
+identified within this deliberately inert boundary. This reviewer executed no
+test, opened no retained mathematical state and made no Git mutation.
+
+| Selected source | SHA-256 |
+|---|---|
+| `ordinary_custody_return/test_control.py` | `628043ed18219045d4236d98c5950449115689e8a76cd179f922cd80cc5a8e8b` |
+| `ordinary_custody_return/CONTROL-PLAN.md` | `36573f3ef32627a6d449646a6c1379a653f2da038377f12ff83a33b1bce6fbe3` |
+
+There are 27 prospective groups: two bootstrap/profile groups, 21 helper groups
+and four CLI groups. The actual package/profile loader, V2 codecs, basis inventory,
+SQLite custody, exact bundle bytes and manifest processing are used. Synthetic
+theorem/group fixtures are grammar claims only; no kernel validity is asserted.
+Subprocess/socket construction and mathematical-owner opens are forbidden by
+explicit interceptions. All fresh fixture state is confined to the selected
+output; the source requires the canonical working directory and isolated Python.
+
+The positive assertions check exact bytes, full generated groups, topological
+ordering and exact unresolved imports. Selected-only records just the chosen
+unit's acquisition, including when its ancestor is absent; closed-basis really
+follows proof imports and refuses missing custody rather than switching policy.
+The byte-cap case checks the remaining cap on the second getter and confirms
+only one full BLOB SELECT materializes. Other controls cover corrupt locator and
+evidence binding, absent claimed output, conflicting names, fixed-basis mismatch,
+unit/node/edge/name/locator caps, duplicate targets and original-budget stopping
+while preserving partial output without publishing a manifest.
+
+Two doubles are explicit and appropriately limit the conclusions. The cycle
+defense changes imports after genuine parsing; it is not a byte-valid hash cycle.
+CLI main reuses the separately actually loaded namespace at its owner-loader seam,
+because the real preloaded-module defense prevents a second complete load in the
+same process. Subsequent CLI helper pinning, config, SQLite opening, output and
+sidecar refusal are real. This is not fresh-process end-to-end CLI evidence.
+The pin/sidecar negative cases additionally forbid custody construction before
+the expected refusal; they do not merely inspect the resulting error text.
+
+The original 60-wall/30-process-CPU callback is never renewed across cases.
+It is cooperative, not a hard limit. Root's proposed separate outer
+90-wall/45-Job-CPU/768-MiB/two-process envelope is consistent with this
+subprocess-free suite, contingent on exact source snapshots and runtime pins.
+Source/helper pins in the final report do not replace the supervisor's test-file
+and complete snapshot selection. A failure must be retained as that outcome.
+
+Passing this boundary would justify inert custody-to-bundle interoperability
+only. It would not establish theorem correctness, recursive cut acceptance,
+creative mathematical novelty, cold ancestry-free verification or full v5.
+
+## custody-return-controls01 saved-outcome audit
+
+**PASS for all 27 selected native-free custody-return boundary groups.** This is
+an independent read-only review of saved files, not a rerun. Exact selection:
+`experiments/v5-local-checks/custody-return-controls01-selection.json`, SHA-256
+`9acc57b85a1c72141090859eac37c104b4097edff100f56a206895afb43e1de9`.
+All four source snapshots and all 17 explicit runtime pins match. The actual
+bounded ordinary package PROFILE is the selected
+`9c41b9a3fe36f7283af130ac6ef290e82c2a78c432980b2bea75ccdcf197a6d4`;
+all 113 profile payload sizes/hashes were independently rechecked. No profile,
+native support, protected retained state or old-run evidence was modified here.
+
+The saved report contains precisely the 27 source-declared groups, with no
+missing or extra case. Its two loaded helper byte pins match the selected source.
+Stdout repeats the complete success report; stderr is empty. The report discloses
+unchecked synthetic claims, zero native invocations, zero protected mathematical
+store opens, no mathematical acceptance and both doubles described above.
+These scope observations agree with the executed source and its forbidden-call
+interceptions; they are not an independent OS-level filesystem access trace.
+
+The six successful bundle outputs were also checked directly: all ten listed
+unit-file occurrences match their manifest size/hash, and each obligations file
+binds its exact manifest hash. Selected-only contains only its requested whole
+unit and leaves the exact missing import obligation. Closed output contains its
+three dependency-ordered units; whole-group output remains one complete unit.
+All 16 negative helper fixture directories lack a completed bundle manifest.
+The three early CLI refusals produced no corresponding output directory. The
+budget-stop fixture retains its one 764-byte partial unit without a manifest;
+the deliberately preexisting 23-byte journal remains retained. No custody SQLite
+database was opened by this reviewer. The positive byte-unchanged assertion is
+established by the executed selected-only test, not by inventing a post-hoc
+before-state hash. This run creates only fresh inert fixture stores; it does not
+open existing native/cut owners or claim retention-state authority.
+
+The hard supervisor reports zero child exit, no termination request, zero final
+active/terminated processes, reaped child, closed Job and no cleanup errors.
+Original outer limits remained 90 wall seconds, 45 Job CPU seconds, 768 MiB and
+two active processes. Total outer wall was 25.5073749 seconds; observed Job CPU
+was 21.78125 seconds plus 0.78125 separately charged wrapper CPU. Peak Job private
+commit was 67,006,464 bytes. The suite's internal 24.4973287-wall/21.640625-CPU
+measurements are nested within those outer measurements, not additional charges.
+Full support authentication contributes to this run; the duration is not a
+per-bundle performance estimate or growth result.
+
+Outer result SHA-256:
+`3350148f32194073f8a7c7083d60c6a28d02ceaeb587fe706e0ab6db32d0963f`.
+Control report SHA-256:
+`59d2af360c6c57f050e2b1c93aae05d446d8fa59de71c67b96e1a75abc602ba7`.
+Used source/test and saved evidence remain frozen. This closes the focused inert
+handoff controls only; actual substantive custody return and independently
+checked reuse, recursive cut mathematics and the final deployable-v5 objective
+remain separate obligations.

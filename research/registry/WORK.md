@@ -4,6 +4,17 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 root selects/launches grounded-cut-recursive01 after full source review.
+current_scale_obstruction owns independent saved recursive-outcome audit in
+RECURSIVE-REVIEW.md, no rerun. Source author finished. Current_research_path control
+audit finished. Root owns original finite launch, integration/next selection/Git.
+
+2026-10-24 custody-return source27-controls/actual audit CLOSED/read/adopted.
+current_scale_obstruction owns independent recursive_workflow source review at
+grounded_cut/RECURSIVE-REVIEW.md; security author owns only unused workflow/plan
+corrections if findings arise. Root has read full source; owns next selection.
+No live runtime. Current_research_path's saved control audit is complete.
+
 2026-10-24 build01 saved-outcome audit CLOSED/read/adopted; no runtime lives.
 Security author continues source-only recursive_workflow; scale author continues
 source-only custody-return controls. Reviewer owns their independent source and
