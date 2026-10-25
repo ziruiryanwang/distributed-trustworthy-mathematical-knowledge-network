@@ -1,5 +1,27 @@
 # Current research desk
 
+**2026-10-24 clean-source build CLOSED/read/adopted; growth decision next.**
+investigator-src01 completed once in80.523wall seconds,55.71875JobCPU plus
+1.34375wrapperCPU;all processes reaped/Jobs closed. Independent audit verifies
+83 staged source files,142payloads/112auxiliary profile entries and143package files.
+139payloads equal the offered predecessor;README and two executable timestamp
+fields account for all differences. New PROFILE is
+`4ce53c16f42a4f2a1c0643f93399d5d1436c0bbb0c25142783f5ae85db791b19`.
+No native rerun justified by metadata-only relinking. PUBLIC-PATH-AUDIT is fully
+read/adopted:public investigator loop expressible;CLI service excludes same-catalog
+intake/publication,while existing disjoint custody SDK needs no owner catalog.
+No lock change or service implementation selected. Source-only parallel decisions
+compare practical creative-growth payoff,existing formal-search corpus integration,
+and role separation before choosing further code. Full v5 ACTIVE;no runtime lives.
+
+**2026-10-24 one source build selected:** prior turn is progress(cbfc8ee).
+Root selects investigator-src01 under ordinary_research_distribution/CONTRACT,
+one fresh exact-source build with original finite480wall/360CPU inner envelope.
+No reused binaries,state migration,service or concept episode. Independent saved
+build audit and fresh public-investigator-path source audit proceed in parallel.
+The latter must identify an actual missing public operation,not repeat broad
+growth claims. Full v5 ACTIVE;current software source/output remain distinct.
+
 **2026-10-24 creative-growth decision and source consolidation CLOSED/read/adopted.**
 Root reads both independent decisions and the bounded Repair/modulo discriminator.
 Existing formal-pattern search is the first cross-vocabulary route;no new matcher,

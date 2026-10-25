@@ -4,6 +4,18 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 investigator-src01 actual audit and PUBLIC-PATH-AUDIT CLOSED/read/adopted.
+growth_mechanism_payoff owns growth-selection/NEXT-GROWTH-PAYOFF.md;
+formal_search_integration owns FORMAL-SEARCH-INTEGRATION-DECISION.md;
+investigator_public_path_audit owns ROLE-SEPARATION-PAYOFF.md in that same cycle.
+All source-only,disjoint,bounded decisions;no product code/runtime/owner-state/Git.
+Root owns build adoption,next payoff-led choice,navigation and explicit commits.
+
+2026-10-24 root selects investigator-src01 build. authoring_offer_review owns
+saved build audit appended to ordinary_research_distribution/REVIEW.md,no rerun.
+Fresh investigator_public_path_audit owns PUBLIC-PATH-AUDIT.md there,source-only
+adversarial public workflow inspection. Root owns launch,scope,next decision/Git.
+
 2026-10-24 latest assignments CLOSED/read/adopted: growth_mechanism_decision's
 source discriminator, growth_product_challenge's clean-source successor and theory
 audit, authoring_offer_review's final actual audits and clean-source review.
