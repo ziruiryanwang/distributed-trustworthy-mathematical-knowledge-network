@@ -4,6 +4,13 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 concept discovery complete: concept_return_inputs and
+concept_product_decision source work CLOSED/read/adopted; thin_delta_audit's actual
+publication/service/find/preview audit CLOSED/read/adopted. Root finished the
+finite public operations; no runtime or subagent assignment remains. All used
+configs/evidence frozen. Root owns synthesis/Git and the next payoff-led source
+selection; full v5 remains ACTIVE, not paused or complete.
+
 2026-10-24 B return execution COMPLETE. concept_return_inputs CLOSED/read;
 thin_delta_audit owns append-only saved B export/intake audit in concept_episode/
 ACCEPTANCE-AUDIT.md. concept_product_decision owns source-feasibility append to

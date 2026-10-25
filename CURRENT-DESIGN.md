@@ -4,6 +4,16 @@ Updated: 2026-10-24. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
+**Forward access to the new theory now exercised (2026-10-24):** existing public
+APIs published12 accepted B targets and found6 connection interfaces from A's
+Repair symbol without a B name or result ID in the query. A stateless client
+bound the first returned formal type preview; the finite loopback service closed
+cleanly. [Independent audit](software/v5/concept_episode/ACCEPTANCE-AUDIT.md)
+keeps incomplete coverage and preview-not-acceptance explicit. This is a useful
+small-corpus access path, not blind research, global semantic search or speedup.
+No new concept language, ranker or importer was required for this boundary.
+The unresolved new-theory frontend/semantic-use limits below remain real.
+
 **Actual creative continuation (2026-10-24):** the
 [concept episode](software/v5/concept_episode/CONTRACT.md) now includes an
 independently chosen repair calculus, a separately chosen closure-order extension,

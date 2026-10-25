@@ -237,3 +237,97 @@ It does not establish publication, unknown-ID discovery, fresh third-party use,
 generated-module usability, cryptographic certification, acceleration against an
 optimized local baseline, sustained novelty or deployable-v5 completion. Those
 limits do not negate the actual A-to-B-to-checked-context contribution boundary.
+
+## Publication, symbol search and exact preview
+
+2026-10-24, `thin_delta_audit`. **PASS for the completed local public-API
+discovery boundary**, not complete search or new mathematical acceptance.
+The canonical guard passed. This audit reads saved selections, snapshots,
+outputs and one previously exported A unit; it calls no state/native API,
+reads no mutable index/catalog/custody database and reruns no operation.
+All four selection files match their terminal result bindings, and all source
+snapshot hashes match:
+
+| Run | Selection SHA-256 |
+|---|---|
+| `concept-discovery-publish-01` | `8dc14690ba72e8303d563a433aaca7aad84fe9a112ae9f6987c55260e683e6db` |
+| `concept-discovery-serve-01` | `4709ede372e1733f3f9a5b3fb818e216a000a0d39f42f76afcbe77816593548d` |
+| `concept-discovery-find-01` | `9a0aaf0aac5007d186fed343a59f1d00baa13e02b2620264d6afa51ea1028b8c` |
+| `concept-discovery-preview-01` | `cba704af33af16ae051521eb5a21cf8b8638b317143f1d2fc528c43ac9c994ad` |
+
+Publication returned `INDEXED_LOCAL_TARGETS` for **12** new records from the
+accepted context `03de3aa8...421e20`. Their unit/export identities each match
+one of B's actual exported targets. Publication read 169,565 evidence bytes,
+within its selected 262,144-byte aggregate allowance; it did not repeat native
+checking. The deliberately small new index allows at most 16 objects and holds
+these selected twelve B targets, not a representative mathematical corpus.
+Its final publication snapshot is
+`7bfe2bc70c033f676c986b7d0338c7b5e0cfc910ea384ca1682066413e4bda70`.
+
+The find configuration contains one `type-symbol` query for the portable
+`RepairTheory.Repair` identity
+`ccf36ceef222dbd19a914c058d9659a273159ee5a72416390fe307879f47a751`.
+That exact identity occurs in the imports of A's already exported `follows_iff`
+unit; the query need not name a B theorem or its result ID. It used one explicit
+loopback provider and selected limits of one snapshot, 16 requests, 15 pages,
+512 charged examined slots, 64 candidates, 4 MiB replies, 10 seconds and one
+in-flight request. Each page allowed 32 scanned slots / eight matches / 128 KiB.
+
+Actual find returned **six unique verified records**, with no provider errors:
+`follows_iff_swap_le`, `run_is_least`, `mutual_follows_iff_commute`,
+`pointwise_le_iff_fixed_inclusion`, `same_fixed_same_output` and
+`same_constraints_same_run`, all under `RepairTheory.ClosureBridge`.
+Their complete saved records agree with the publication output. Search charged
+192 scan allowances across six pages; this is **not a measurement of 192 actual
+rows examined**. Actual HTTP totals are seven completed requests, 18,477 reply
+bytes, 3,433 request bytes and 1,598 header bytes, with zero failed requests.
+The outer network budget conservatively prepaid 16 requests / 4 MiB: do not
+misreport that reservation as actual traffic.
+
+The result expressly remains `INCOMPLETE_SEARCH`,
+`SELECTED_CONTACTS_FINISHED_NO_COMPLETENESS_CLAIM`, `global_complete: false`
+and `verified_scan_coverage: false`. Candidate verification and authenticated
+snapshot context do not establish complete scanning, correct full-corpus
+indexing, semantic relevance or global coverage. The operational test supplied
+the query and curated corpus; it was **not a blind independent researcher**
+experiment, despite its query omitting the eventual B result's identity.
+
+Preview selected exactly the first returned record,
+`RepairTheory.ClosureBridge.follows_iff_swap_le`, at the returned snapshot.
+The preview config, output selection and find record agree. Compact UTF-8
+re-encoding of the saved structured preview independently reproduces its **3,514
+bytes** and SHA-256
+`720319f27b6965a5fabfd69ee080dc142006d4168f19bb6ec1e857e2706604af`,
+equal to the returned record's committed object size/hash. The preview's unit ID
+is the same actual B unit `f0216e3a...b75f061`. This is a saved-object binding
+check, not a separate capture of raw transport bytes. Preview reports one
+completed request, 3,514 reply bytes, 148 request bytes and 225 header bytes.
+Its status is `PREVIEW_BOUND_NOT_ACCEPTED`, with `evidence_bound: false`,
+`mathematical_acceptance: false` and `snapshot_membership_reverified: false`.
+It neither acquires a full proof closure nor establishes fresh recipient trust.
+
+The single server bound only `127.0.0.1:54764`, no TLS, under its original
+120-second lease, two-connection / 32-request / 8 MiB reply limits. Its final
+saved result is `LEASE_FINISHED`, `quiescent: true`, with zero active requests,
+failures or refusals. Its eight requests, 21,991 reply bytes, 3,581 request bytes
+and 1,823 header bytes equal the find-plus-preview actual totals. There was no
+lease extension, external service or independent-host test.
+
+| Operation | Outer wall seconds | Child Job CPU | Separate runner CPU | Nonduplicated observed CPU |
+|---|---:|---:|---:|---:|
+| Publish01 | 2.505041 | 1.656250 | 0.515625 | 2.171875 |
+| Serve01 | 121.575253 | 1.109375 | 1.046875 | 2.156250 |
+| Find01 | 1.579341 | 0.859375 | 0.562500 | 1.421875 |
+| Preview01 | 1.344481 | 0.703125 | 0.546875 | 1.250000 |
+
+Total observed CPU is **7.000000 seconds**, including service supervision;
+service elapsed includes its mostly idle lease and overlaps the client calls,
+so summed wall times are not end-to-end latency. Every outer operation returned
+zero, reaped children, closed its Job, ended with zero active processes and
+reported no cleanup error or forced termination. Each public result reports
+zero native worker CPU and no mathematical acceptance. No runtime remains.
+
+This adds actual publication and public symbol-based retrieval/preview of the
+newly accepted B work. It does not close fresh third-party acquisition/use,
+no-producer-code module interoperability, broad discovery quality, continued
+availability, whole-cost growth benefit or globally deployable-v5 requirements.

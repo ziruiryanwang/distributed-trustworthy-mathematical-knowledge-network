@@ -1,5 +1,18 @@
 # Current research desk
 
+**2026-10-24 concept episode and public discovery CLOSED/read/adopted.** Independent
+A/B theory development compiled; both endpoint selections were independently
+admitted. All12 B targets published through existing API. A-only Repair-symbol
+find returned6 B connection records; first actual result's3514-byte formal type
+preview bound successfully. Query named no B target; this was a curated local
+API check, not blind research. Search retains incomplete/unchecked coverage;
+preview is not mathematics acceptance. Original120-second loopback service ended
+cleanly, no runtime remains. Discovery operations total7observedCPU seconds.
+See concept_episode/ACCEPTANCE-AUDIT and CONTRACT for exact pins/costs/boundaries.
+No new matcher/ranker/certificate framework was needed. Full v5 ACTIVE; practical
+new-concept semantics/usability and justified lifetime/large-network performance
+remain central, not another repeated episode or optional mechanism campaign.
+
 **2026-10-24 independently chosen theory returned:** B's twelve consequential
 targets exported106 units/122names/822414bytes in6.714wall seconds. Existing
 recipient intake CHECKED67 and reused39 exact A units, final root

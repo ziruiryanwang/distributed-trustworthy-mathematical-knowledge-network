@@ -1,5 +1,77 @@
 # Independent concept-development episode
 
+## Closed episode boundary and adopted result
+
+Root read/adopts the complete independent discovery audit. Service ended its
+original lease with LEASE_FINISHED/quiescent true and clean outer closure. Its
+eight HTTP requests and21991 reply bytes reconcile exactly with find plus preview;
+all four discovery operations together used7.0 observed CPU seconds. The121.575
+seconds service wall includes idle lease time and overlaps client calls. No
+runtime or audit assignment remains; full deployable v5 is ACTIVE and unfinished.
+
+Established separately: independently selected concept/theory development using
+ordinary Lean; nontrivial content assessed by a separate reviewer; inert A/B
+endpoint acceptance; publication and A-symbol retrieval of B connections through
+existing APIs. Not established: new-to-literature mathematics, blind discovery,
+research acceleration, full no-producer-code theory imports, sustained growth or
+global release. No new core mechanism was needed for this selected discovery.
+The next central work must address actual usability of encountered new concepts
+or measured/justified lifetime/discovery costs, not repeat this successful episode
+or add another abstract growth theory. A source decision must precede new runtime.
+
+## Actual forward-discovery boundary
+
+The selected localhost service became READY on127.0.0.1:54764. Stateless find
+used only A's Repair symbol, no B target name/unit/export ID, and returned six
+B interfaces from final publication snapshot7bfe2bc7... . The first actual result
+was follows_iff_swap_le; a separate stateless preview successfully bound its
+complete formal type. Find reports INCOMPLETE_SEARCH and no verified scan
+coverage/global completeness; preview is PREVIEW_BOUND_NOT_ACCEPTED. No recipient
+owner/catalog/custody is opened by these clients. This is an API discovery check,
+not a blinded researcher or a fresh independent mathematical acceptance.
+
+Find selection9a0aaf0aac5007d186fed343a59f1d00baa13e02b2620264d6afa51ea1028b8c:
+1.5793406wall/1.421875 observed CPU, seven HTTP requests,18477 actual reply bytes
+and3433 actual request-body bytes. Preview selection
+cba704af33af16ae051521eb5a21cf8b8638b317143f1d2fc528c43ac9c994ad:
+1.3444808wall/1.25 observed CPU. Configs were constructed via apply_patch from
+actual READY and actual first result. No provider label is a mathematical identity.
+Service selection4709ede372e1733f3f9a5b3fb818e216a000a0d39f42f76afcbe77816593548d
+retains its original120-second lease; its terminal cleanup/outcome audit is next.
+All used inputs are frozen. Do not extend/restart the service or repeat search.
+
+## Publication passed; finite loopback search selected
+
+Publication indexed all twelve actual targets successfully,2.5050411 wall and
+2.171875 nonduplicated observed CPU seconds. Final snapshot
+`7bfe2bc70c033f676c986b7d0338c7b5e0cfc910ea384ca1682066413e4bda70`.
+Root selects one finite loopback-only service of this index and selected episode
+custody, explicitly including all addressable custody data, exclusive owner use.
+No external access or authentication claim. Service binds127.0.0.1:0, no TLS,
+lease120seconds/cleanup10, inner150wall/45CPU/1024MiB, outer180wall/75CPU/1280MiB.
+The slightly longer than suggested lease permits manual public-call sequencing
+without a new harness; no renewal. Provider caps32requests/8MiB/two connections.
+Use its actual READY contact for one stateless find with only A's Repair symbol,
+then preview the first actually returned candidate (no B target named in query).
+Search budgets and preview cap are PRODUCT-DECISION's finite values. Each client
+gets inner35wall/30CPU/1024MiB, outer60wall/45CPU/1280MiB; grants and costs are
+separate, not a shared automatic budget. No receive, proof replay, new researcher,
+worldwide claim or malicious-provider test is selected. Preserve any failure.
+
+## Selected existing-API publication
+
+Root read/adopts PRODUCT-DECISION's actual-package source map. Select exactly one
+`peer.py publish`, twelve actual B targets, already accepted final root, existing
+catalog/custody and fresh `concept-discovery-index-01`. No new initialization,
+proof check, generated module or source compilation. DISCOVERY-PUBLISH.json SHA
+`6ddd890a3c5380a26876b976c42128b9ac0377e1ac28c38ecadea0fa7c4437df`;
+direct selection `8dc14690ba72e8303d563a433aaca7aad84fe9a112ae9f6987c55260e683e6db`.
+Read caps32768 per unit/262144 total exceed actual19945/169565; finite index
+limits16objects/2048postings/2048features/16snapshots/64MiB/32768DB pages.
+Inner60wall/45CPU/1024MiB; outer90wall/75CPU/1280MiB/six processes. Publication
+creates local searchable previews, not a mathematical warrant or remote service.
+Inspect actual outcome before selecting the finite loopback discovery boundary.
+
 ## Returned theory accepted; next decision is discovery, not another importer
 
 `concept-theory-b-intake-01` completed successfully under selection
