@@ -1,5 +1,48 @@
 # Current research desk
 
+**2026-10-24 grounded-cut controls01 CLOSED/read/adopted.** All 24 focused
+native-free groups passed once; independent saved-output audit verifies exact
+snapshots/pins, clean closure,0.8202986wall,0.3125JobCPU+0.140625wrapperCPU and
+26,783,744peak private bytes. No native run or protected mathematical acceptance.
+Used Python/test source stays frozen; no rerun. Full source review and controls
+justify only the next small support-build source, not a performance claim.
+Security author owns build_support/BUILD-PLAN (source only). Scale author owns
+ordinary_custody_return's complete inert bundle API/command under its fresh
+CONTRACT, addressing the mixed-theory return gap without a broader checker.
+Root owns integration, explicit Git and finite later selections; no runtime lives.
+Full deployable v5 remains ACTIVE and unfinished.
+
+**2026-10-24 complete grounded-cut source review GO for focused controls.**
+Root read/adopts REVIEW: exact native-to-summary derivation, actual worker binding,
+selected-root induction, approved loader, durable lost-reply resolution and
+history-free recursive lookup have no identified source blocker under stated
+owner premises. This is not compiled/tested mathematics or performance evidence.
+Focused native-free control source/review is underway; no execution selected yet.
+Mixed concept trace finds existing ordinary re-entry but missing cut-custody-to-
+inert-bundle handoff. Do not broaden mathematical checking; retain native-first
+Git/Lake authoring, charge re-entry costs, finish bounded handoff after this gate.
+Full deployable v5 remains ACTIVE and unfinished.
+
+**2026-10-24 grounded-cut complete SOURCE path under independent review.**
+Root added exact native derivation, selected-root extension, durable pre-COMMIT
+intent and indexed lost-reply resolution in cut_controller. Distinct local
+support identity, one new theorem, complete fixed-input/call-spool bounds and
+original source withdrawal remain mandatory. Security author supplies verified
+byte bootstrap; reviewer owns whole-path HOLD until actual source is assessed.
+No runtime/test/build/migration/admission selected. Scale author investigates
+mixed definition/theorem continuation as the next creative-growth discriminator,
+not another concept episode. Ordinary Lean authoring remains primary. Full v5 ACTIVE.
+
+**2026-10-24 grounded-cut SOURCE implementation selected, not a native probe.**
+Independent investment review favors affordable sequential theory continuation
+over speculative bridge-search infrastructure. Fresh software/v5/grounded_cut/
+CONTRACT selects a fixed-basis conditional kernel primitive and path-local
+persistent exact-name trie, with distinct protected-event integration required
+before execution or acceptance. Concrete units initially precede signatures and
+are checked in one batch. No cut runtime, migration or package selected. Existing
+rich Lean authoring remains; cuts do not invent theories or establish speedup.
+Completed bounded operations committed84bc72d; no runtime remains. Full v5 ACTIVE.
+
 **2026-10-24 bounded operations CLOSED/read/adopted; investment gate before cuts.**
 Independent final audit verifies 145 payloads plus PROFILE and the actual direct
 public launcher query (1.1269415wall,0.90625JobCPU+0.109375wrapperCPU), with exact

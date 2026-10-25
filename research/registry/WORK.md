@@ -4,6 +4,29 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 controls01 full source/launch/actual audits CLOSED/read/adopted; no runtime.
+current_security_obstruction owns grounded_cut/build_support.py and BUILD-PLAN.md
+SOURCE ONLY, no base rebuild. current_scale_obstruction owns only
+ordinary_custody_return/{custody_return.py,return_bundle.py,API.md} under root
+CONTRACT: complete inert return, no mathematical catalog or acceptance. Root owns
+review coordination, integration, explicit Git/next selections. Used cut Python
+sources/control suite frozen. No mixed checker, repeated concept episode or test
+rerun. Full v5 remains ACTIVE, not complete.
+
+2026-10-24 current grounded_cut SOURCE owners: root controller/runtime/child/driver
+and integration docs; current_security_obstruction cut_bootstrap.py/BOOTSTRAP.md
+(prior worker/catalog source complete); current_research_path independent whole-path
+REVIEW. current_scale_obstruction owns only growth-selection/GROWTH-AFTER-CUT.md
+after completing map/summary helpers. No runtime, tests, native migration or build
+selected; no subagent Git. Full v5 remains ACTIVE, not complete.
+
+2026-10-24 grounded_cut SOURCE selection: current_security_obstruction owns only
+GroundedCut.lean/WORKER.md; current_scale_obstruction, after its cost appendix,
+owns only cut_map.py/MAP.md. Root owns shared CONTRACT and complete protected
+controller integration/selection; current_research_path owns independent REVIEW.
+No runtime, migration, old-source edits or subagent Git mutations. growth_payoff_gate
+completed CUT-INVESTMENT-CHALLENGE; root read/adopts its complete-path gate.
+
 2026-10-24 bounded-operation implementation/tests/build/public-use audits CLOSED,
 read/adopted by root. No runtime remains. Fresh growth_payoff_gate owns only
 growth-selection/CUT-INVESTMENT-CHALLENGE.md; current_scale_obstruction owns only
