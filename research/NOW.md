@@ -1,5 +1,35 @@
 # Current research desk
 
+**2026-10-24 concept formation produced checked mathematics:** fresh A independently
+selected an asymmetric repair calculus. Its complete ordinary Lean module checked
+first attempt (1.924 wall seconds, 1.140625 nonduplicated observed CPU) with empty
+diagnostics. It includes new episode-relative definitions, general composition/
+schedule results and two countermodels; it makes no literature-novelty claim.
+Fresh B chooses an extension from only A's formal source/handoff and shared Init,
+not A's scratchpad. Root selects one inert export of A's real theory under the
+existing native-first API; input review pending, no new framework/owner state.
+Thin integration actual audit is CLOSED/read: native build and both rereads
+succeeded, committed output preserved, loader cause unresolved because diagnostics
+omit its inner exception. No regeneration/recovery campaign is selected.
+
+**2026-10-24 thin integration terminal; concept episode active:** integration01
+FAILED at DELTA with clean process closure (230.219 wall seconds; 163.71875 child
+Job CPU plus 2.0625 separate wrapper CPU). Fresh registration and actual two-new-
+unit intake succeeded. Delta reply reports COMMITTED_REFERENCE_REPORTING_FAILED,
+ID `10a905f4881d4175f755b86bc8ee2f5fa8fcb161989853c20e7c0495638c032e`.
+Do not regenerate or relabel it as successful; saved-output/source audit is active.
+Private refusal and recipient compilation did not run. Source-first independent
+concept investigator A and minimal existing exchange-route analysis proceed under
+software/v5/concept_episode/CONTRACT. Full v5 remains active and unfinished.
+
+**2026-10-24 final at-hand thin integration selected:** completed export02 and
+assembly audits PASS, integration source review GO read/adopted. Root selects
+exactly one five-call integration under ordinary_thin_delta/CONTRACT's preserved
+caps and actual export02 pins. Registration and intake must establish their own
+authority; production alone is not acceptance. No automatic successor. After this
+finite boundary, source-first unprescribed concept/theory development takes
+priority. Full v5 remains ACTIVE and unfinished.
+
 **2026-10-24 latest user clarification: concepts and theories, not reuse alone.**
 Finish the finite at-hand thin-base boundary without expanding it. The subsequent
 growth decision must explicitly cover local definition/abstraction proposal,

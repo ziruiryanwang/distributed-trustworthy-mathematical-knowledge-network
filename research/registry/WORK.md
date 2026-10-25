@@ -4,6 +4,26 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 thin actual audit CLOSED/read/adopted with failure preserved. A source
+and handoff CLOSED/frozen; B independently active. theory_exchange_route inputs
+completed/read; thin_delta_audit now owns only the direct A-export selection review
+appended to concept_episode/EXCHANGE-ROUTE.md. No new integration harness or package
+change; root alone selects runtime, reconciles evidence and commits explicit paths.
+
+2026-10-24 theory A SOURCE complete/read, first bounded direct compilation PASS.
+Fresh theory_investigator_b owns only concept_episode/TheoryB.lean, B-RESEARCH.md,
+B-HANDOFF.md from sealed A source/handoff (not A scratchpad). No B runtime yet.
+theory_exchange_route source map complete/read; root owns selecting only the
+extra independent-data operations needed to expose genuine interoperability
+limits. thin_delta_audit closes exact committed-record saved audit, no regeneration.
+
+2026-10-24 concept episode SOURCE selection: fresh investigator A owns only
+software/v5/concept_episode/TheoryA.lean, A-RESEARCH.md and A-HANDOFF.md under the
+adjacent root CONTRACT. Source-first unprescribed concept/theory research; no
+runtime or protected-state access. Root owns finite thin integration outcome,
+subsequent exact source/compile selection and independently separated B handoff.
+The thin integration reviewer will audit its saved outcome without rerunning it.
+
 2026-10-24 concept-growth clarification: fresh concept_growth owns only
 growth-selection/CONCEPT-THEORY-GROWTH.md, source/theory decision translating the
 user's new-concept/new-theory requirement into an actual creative loop and decisive

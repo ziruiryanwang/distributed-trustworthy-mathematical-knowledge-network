@@ -254,7 +254,7 @@ campaign. Root must separately select its exact scope after the at-hand boundary
 
 ## Established design precedents
 
-Root inspected the primary [HR thesis abstract](https://era.ed.ac.uk/items/44d34b4f-90c9-4a99-a10c-3f4271c32214):
+Root inspected the primary [HR paper abstract](https://era.ed.ac.uk/items/44d34b4f-90c9-4a99-a10c-3f4271c32214):
 concept production, conjectures, and OTTER/MACE proving/countermodels form an
 explicit theory-formation loop. Root also inspected the [QuickSpec overview](https://arxiv.org/html/2109.03721v1),
 sections 1-2: typed term enumeration and testing suggest equations and prune

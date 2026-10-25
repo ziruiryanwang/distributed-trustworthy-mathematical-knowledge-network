@@ -1,5 +1,20 @@
 # Same-base checked delta: module-only source successor
 
+## Final at-hand runtime selection, 2026-10-24
+
+Root read/adopts the completed independent export02 and integration source review.
+Select one `thin-delta-integration-01`, workflow
+`ba11d050b576a2658009bec28b025efa5e1e69e372700cd41a0bf644741b83f4`, selector
+`a7c6a40a3ee05995e6f1cb4d2f8d2e3944e801dc48932766db70e3127312325c`, with actual
+export02 manifest `5877f1110daf39573dcb9e1ca3073c1310a07be76fc8cbe42015e59860f45e8d`.
+Thin package PROFILE is `dfe0ae9772cde81a98f0a320d7dfcfc82985c9c10acafb594094203d41855219`;
+ASSEMBLY is `db69f222b9882c36591c63b43726ac04134271587cd1863078f2c0729e77a3d5`.
+The source-reviewed five calls and existing fixed 500wall/350CPU inner,
+600wall/450CPU/1792MiB/eight-process outer caps are unchanged. No automatic retry,
+fixture rebuild, source-authoring revival or follow-on campaign. Inspect actual
+outcomes before adoption. This closes an integration uncertainty, not the growth
+or final-release objective; creative theory development is the subsequent priority.
+
 ## Retained-input integration adapters (source selection)
 
 Root read/adopts THIN-REUSE-INTEGRATION. The file-only assembly returned zero
