@@ -4,6 +4,11 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 all selected build/payoff/authoring assignments CLOSED/read/adopted.
+authoring_offer_review's actual Lake and Git archive audits PASS;root read complete
+AUTHORING-REVIEW. No runtime or unfinished agent assignment remains. Root owns
+reviewed evidence commit and next genuinely new central selection. Full v5 ACTIVE.
+
 2026-10-24 authoring project source and selection review CLOSED/read/adopted;
 growth_mechanism_payoff source assignment CLOSED. authoring_offer_review owns
 saved concept-lake-source-01 audit appended to AUTHORING-REVIEW.md,no rerun.
