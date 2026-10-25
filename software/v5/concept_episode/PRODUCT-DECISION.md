@@ -268,3 +268,83 @@ budgets can accommodate that finite traversal but do not prove runtime completio
 or server honesty. Separate CLI allowances are separate explicit grants, not an
 implemented shared find/preview ledger; charge their sum. A later `receive` is
 neither needed to inspect the new connection nor selected by this map.
+
+## After the actual preview: inspect unfamiliar laws before adoption
+
+2026-10-24, source/data-only follow-up. **The current wire protocol and SDK can
+already inspect one exact definition/group without its ancestry; the public peer
+API/CLI lacks a state-free operation exposing that pair of reads.** The smallest
+useful change is that facade, not a new evidence schema, body index or matcher.
+No runtime, provider restart, store/API open, source change or Git action occurred.
+
+The actual first preview is `RepairTheory.ClosureBridge.follows_iff_swap_le`,
+3,514 bytes, SHA`720319f27b6965a5fabfd69ee080dc142006d4168f19bb6ec1e857e2706604af`.
+Its exact `type_bindings` contain the new `OrderData`, `OrderData.le`, `IsClosure`
+alongside known A symbols. Those are the discovery-derived inputs, not names
+invented by an inspection harness. The present preview contains their identities,
+not their bodies or laws. Retained B evidence gives these actual costs:
+
+| Referenced declaration | Unit bytes | Exact UnitID |
+|---|---:|---|
+| `OrderData` | 11,703 | `3da789d6da6c0a12fadfdc74f08e7cced7146a97454eababae91ec9266242dd8` |
+| `IsClosure` | 12,323 | `3df7224c1e9454143de4e15239e353cd58eca4e92ce5943e74ab19d5bd166550` |
+| `OrderData.le` | 3,671 | `e1c74359d9ebbcc70bb189a5bb3726262e8fec62f31962dc0c7d2102cdd46554` |
+
+The first two are whole inductive-group records including constructor types and
+recursors, not executable `.olean` files. Actual constructor binder sequences are
+`α,le,refl,trans,antisymm` and `α,o,r,extensive,monotone`; their full encoded types
+state the corresponding field laws. The third unit supplies the relation
+projection body. Together these are **27,697 evidence bytes**, not the 106-unit
+B closure. Further referenced meanings can require additional explicitly chosen
+units; there is no promise that arbitrary concepts are understandable in three.
+
+### Existing exact route and missing facade
+
+Construct the already loaded `OrdinaryAcquisition` with its current adapter,
+explicit existing endpoints, **one** `OrdinaryBudget` and `local_custody=None`.
+For a chosen `(name,ExportID)` from the preview, call `locator(provider,S,ExportID,
+locator_cap,expected_name=name)`, then `evidence(provider,S,returned_UnitID,
+unit_cap,expected_export_id=ExportID,expected_export_name=name)`. These public SDK
+methods are in `support/transport/ordinary_acquisition.py:420-469`.
+They use `/v5/ordinary/locator` and `/v5/ordinary/evidence`; neither follows imports,
+loads native/source code, opens a recipient owner or performs mathematical checking.
+The reply bounds are separately chosen, locator at most1MiB and unit at most8MiB.
+Each attempted failure consumes its original reservation; no retry or fresh budget.
+
+The locator verifies the exact name/ExportID/UnitID relation. Evidence parsing
+verifies the content-derived UnitID, semantic ID and that the selected export is
+actually in the unit's census. Return the parsed inert unit/imports and byte/hash
+accounting, not merely a success flag or non-JSON raw Python bytes. Existing
+`portable_evidence.read_evidence` supplies that parsed document; no new codec.
+Reading three selected units takes six calls without deduplication, plus locator
+replies and transport overhead; this is not measured or automatically selected.
+
+The provider routes these reads directly to ordinary custody, **not through the
+discovery index**. `put_evidence` creates locators for every declared unit output;
+the completed intake therefore uses the needed custody path even though only
+twelve theorem previews were published. Actual availability must still be checked
+by the future request. Serving exposes this whole custody under its existing scope.
+
+`peer.py` still offers only find/preview/receive/publish/serve; `peer_api.receive`
+adds owner preflight, recursive missing-dependency acquisition and admission, so
+using it merely to inspect laws forces unnecessary state/closure work. There is
+no `fetch_export` helper in this installed package. Legacy `clients.AcquisitionClient`
+declaration/body methods use a different module/group codec and are not this route.
+`client/terminal_inspection.py` inspects local certified terminal-author outputs;
+it is neither installed here nor a remote ordinary-definition reader.
+
+**Decision:** expose the existing two-read sequence as one bounded, state-free
+peer inspection operation, selected by one preview-derived symbol. Preserve
+`mathematical_acceptance:false`, dependency-validation absent, no native usability
+claim. Byte/identity binding is enough for tentative semantic inspection, not for
+using an advertised law as a warranted premise. Later actual independent admission
+and supported realization remain necessary and separate. Generic Lean rendering,
+automatic recursive semantic exploration and model-driven interpretation are not
+prerequisites of this narrow seam. Root must separately select implementation.
+
+Exact native-src01 inspected SHA-256s: `peer.py`=`bf90809c35eb0a2cbc827d678bded411d8187dcfe2ba52223d443e2ce439e26d`;
+`peer_api.py`=`8b96e3bf7b7d5e3401b682f8eebc62a1d63421b9c4108dd94567db5f4d09c84f`;
+`ordinary_acquisition.py`=`e69bd0f33829e4709fdc1a7c3afe4150704dfeabfe30243195b379945081e826`;
+`clients.py`=`640d1344824829865060712370444b5051720ce7b0a741e8efc0da8a066c6464`;
+`http_provider.py`=`431aae7f10f1a2c0c0323c4aea720f4139e57bb4bf7b61bf98e9e5b69d6cdd59`.
+Reused ORDINARY-BODY-DISCOVERY-OUTCOME/ORDINARY-DISCOVERY-NEXT-CHALLENGE; no repeat.

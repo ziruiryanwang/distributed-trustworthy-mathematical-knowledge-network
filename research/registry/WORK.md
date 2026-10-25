@@ -4,6 +4,24 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-24 inspection boundary CLOSED: symbol_inspection_impl source and
+symbol_inspection_review source/23-controls/assembly/public-read/terminal audit
+read/adopted. All selected operations finished cleanly; no service remains.
+creative_growth_challenge decision and advisory-authoring follow-up read/adopted.
+Root owns Git and next exact source selection; no source-offer code/runtime yet.
+
+2026-10-24 symbol inspection SOURCE: symbol_inspection_impl owns fresh
+ordinary_symbol_inspection/{peer.py,peer_api.py,API.md}; symbol_inspection_review
+owns REVIEW.md/test_inspection.py. Root owns CONTRACT/selection/execution/Git.
+Separate creative_growth_challenge owns one bounded GROWTH-NEXT-DECISION.md under
+concept_episode, avoiding repeat theory and experiments. No runtime selected.
+
+2026-10-24 next concept-use boundary source-selected: concept_product_decision
+owns only a <=80-line actual-source/data append to concept_episode/PRODUCT-DECISION
+mapping unfamiliar definition/structure inspection from the saved preview to
+existing public APIs. No runtime, owner API, source edit or new report file.
+Root owns selection/adoption; earlier discovery work and audit remain CLOSED.
+
 2026-10-24 concept discovery complete: concept_return_inputs and
 concept_product_decision source work CLOSED/read/adopted; thin_delta_audit's actual
 publication/service/find/preview audit CLOSED/read/adopted. Root finished the

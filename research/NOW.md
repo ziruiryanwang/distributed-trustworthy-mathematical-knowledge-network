@@ -1,5 +1,33 @@
 # Current research desk
 
+**2026-10-24 unfamiliar-concept inspection CLOSED/read/adopted.** New public
+inspect API/CLI exposes one exact inert unit with no ancestry/admission/import.
+23 focused controls and actual packaged OrderData read pass independent review:
+two HTTP requests,12,104reply bytes,1.3983wall seconds; service original lease
+closed cleanly. File-only successor symbol-inspection-assembly-01/package changes
+only two of141payloads; no Lean rebuild. All four operations7.375observedCPU.
+No runtime remains. Root read/adopts GROWTH-NEXT-DECISION including its follow-up:
+the next central missing edge is discovered mathematics to obtainable ordinary
+authoring project. A bounded advisory source association is justified; it must
+not grant execution approval, correspondence, math acceptance or availability.
+Exact implementation scope still needs selection. Full v5 ACTIVE, not complete.
+
+**2026-10-24 source selection: unfamiliar-concept inspect facade.** Root read/adopts
+PRODUCT-DECISION's completed source map. Select only fresh peer.py/peer_api.py
+under ordinary_symbol_inspection/CONTRACT: expose existing one-unit inert locator
+and evidence reads, no ancestry/admission/importer. Separate implementation and
+review/control owners; no runtime yet. A third source-only challenge assesses
+the most important remaining creative-growth bottleneck against ordinary Lean,
+not another example or certificate campaign. Full v5 remains ACTIVE.
+
+**2026-10-24 next core usability question, source only:** after commit e2e067e's
+completed discovery, inspect whether a consumer can learn the meaning of newly
+encountered OrderData/IsClosure from inert public APIs without approving producer
+code or fetching full proof ancestry. The actual preview contains type bindings,
+not definition bodies. concept_product_decision owns one bounded source/data
+append to its existing PRODUCT-DECISION; root owns decision/adoption. No new
+schema, matcher, server restart, runtime or theory episode is selected.
+
 **2026-10-24 concept episode and public discovery CLOSED/read/adopted.** Independent
 A/B theory development compiled; both endpoint selections were independently
 admitted. All12 B targets published through existing API. A-only Repair-symbol
