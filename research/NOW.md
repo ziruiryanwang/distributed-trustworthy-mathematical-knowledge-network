@@ -1,5 +1,17 @@
 # Current research desk
 
+**2026-10-24 creative-growth decision and source consolidation CLOSED/read/adopted.**
+Root reads both independent decisions and the bounded Repair/modulo discriminator.
+Existing formal-pattern search is the first cross-vocabulary route;no new matcher,
+generator,registry or repeated theory episode. CREATIVE-GROWTH-DECISION gives the
+reviewed lower-fixed-normalizer/left-regular-band argument,not a Lean-checked new
+artifact or speedup claim. Fresh ordinary_research_distribution build/map/README
+passes independent complete-source review:81source inputs,61direct copies,
+142payloads;all native lanes/base inputs unchanged. No rebuild selected/executed.
+Offers checkpoint6c87c31 is complete;all experiments/services closed. Full v5
+ACTIVE. Next work must resolve a named real investigator/release obstruction,
+not reiterate these arguments or run another synthetic discovery demonstration.
+
 **2026-10-24 offers CLOSED; growth-led next choice:** all41 controls,file-only
 assembly and one packaged HTTP lookup pass independent review; original60second
 lease ended cleanly. Reply856bytes,one request; synthetic source not fetched.

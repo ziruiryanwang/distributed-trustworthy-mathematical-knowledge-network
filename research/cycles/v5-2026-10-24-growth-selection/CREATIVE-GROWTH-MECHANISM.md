@@ -196,3 +196,95 @@ GROWTH-DISCOVERY-BOTTLENECK; GROWTH-DESIGN-REVISION; BRIDGE-INVESTMENT;
 GROWTH-CONSTRUCTIVE-MODEL; GROWTH-VALUE-CHALLENGE; PREEXPORT-TOOLS/SELECTION;
 concept_episode/PRODUCT-DECISION and GROWTH-NEXT-DECISION; ordinary_formal_query
 README and complete relevant adapter source. No new literature claim is made.
+
+## Bounded source discriminator: remainder normalization and Repair
+
+2026-10-24 follow-up selected by root. Targeted retained-source reading plus two
+root-authorized pinned public source/document reads; no live search query, Lean
+execution, installation, new theory file or product change. A broad filename
+enumeration was stopped when it exceeded the useful bound; no experiment ran.
+
+**Decision: no new matcher/index is warranted.** A meaningful existing law pair
+is present, and maintained formal-pattern search has a suitable expressive route.
+Actual supported-provider coverage, success and cost remain untested. The pair is
+already inside A's Init basis, so it cannot evidence a network growth advantage.
+Proceed with ordinary workflow/source-release consolidation, not an analogy engine.
+
+### Actual pair, mathematical meaning and adaptation
+
+`concept_episode/TheoryA.lean:10-12` requires unary idempotence for `Repair`.
+Retained Lean 4.34 `Init/Data/Nat/Lemmas.lean:807` supplies:
+
+    Nat.mod_mod (a n : Nat) : (a % n) % n = a % n.
+
+For each fixed n, define mathematically r_n(x) = x % n. The displayed theorem
+supplies precisely the `stable` field of a `Repair Nat`; no analogy is assumed
+as a premise. Its fixed states have content: for n != 0, `Nat.mod_eq_iff_lt`
+(same file:1492) identifies them as x < n. For n = 0, `Nat.mod_zero` makes the
+repair identity, so a false universal x < n characterization must not be used.
+The necessary bridge is an ordinary constructor plus lambda abstraction of n;
+the existing theorem supplies its proof. It has not been compiled as a new file.
+
+This is a real library instance, not a renamed fixture. Further behavior need not
+be trivial: at x = 5, applying mod 3 then mod 2 gives 0, whereas reversing them
+gives 1. The repair framework can therefore organize order-sensitive arithmetic
+normalizations. These arithmetic facts and the adaptation argument are theory,
+not newly checked network outputs or novel mathematics.
+
+Source identities: TheoryA SHA256
+`d2391e4a1a69d1ce57274ed011cd16734457e8239d2831a8e6eddd3349cbd9d9`;
+Nat/Lemmas SHA256
+`5eda52f6dc0f8efa4ea9b3c42d5206f1afe41f2d51d0681fbfe40793cf223ef4`.
+
+### Existing pattern expressibility, with the higher-order caveat
+
+Pinned Loogle [blurb](https://github.com/nomeata/loogle/blob/9f11169aaebf1ed1e7dcc4077f2aafe0fcf66fd0/blurb.html)
+documents repeated named metavariables, subexpression patterns and conclusion
+patterns. Thus repeated variable operations are expressible, not an absent syntax.
+[Find.lean](https://github.com/nomeata/loogle/blob/9f11169aaebf1ed1e7dcc4077f2aafe0fcf66fd0/Loogle/Find.lean)
+opens candidate binders and invokes Lean definitional-equality matching
+(lines103-119); it does not implement a complete higher-order unifier.
+
+The unary proposal `|- ?f (?f ?x) = ?f ?x` has the mathematical solution
+`?f := fun x => x % n`, `?x := a` for this law. That proves expressibility of a
+solution, **not** that Lean's search heuristics synthesize that lambda. Its
+argument placement matters: `% n` fixes a binary operation's second argument.
+Do not turn this proposed query into a promised successful lookup.
+
+A locally proposed fixed-parameter variant avoids requiring that lambda synthesis:
+
+    |- ?op (?op ?x ?p) ?p = ?op ?x ?p
+
+Taking `?op` as the elaborated Nat remainder operation, `?x := a`, `?p := n`
+gives a direct application-spine solution. Equality supplies an indexing symbol;
+neither the candidate's
+name nor modulo is in this query. The alternative fixed-first-argument pattern
+is also natural from `Repair.apply r x`. These are ordinary investigator query
+choices, not a new protocol or proof rule. No actual matching outcome is asserted.
+
+Find.lean collects pattern constants before matching (lines405-458), then sorts
+and truncates (464-470). Here equality alone can leave a large candidate set.
+This establishes a route, not bounded provider work or reliable top-page exposure.
+Retained Lean `Meta/ExprDefEq.lean:1184-1224` also explicitly treats first-order
+application matching as an approximation; no completeness claim is justified.
+
+### Coverage and final consequence
+
+The local source corpus definitely contains the law: `Init.lean:19` imports
+`Init.Data`, whose line9 imports `Init.Data.Nat`, whose line22 imports the lemma
+module; its retained `.olean` also exists. A imports Init. This is a disclosed
+shared-basis relationship, not independently observed remote discovery.
+
+The earlier PREEXPORT-TOOLS record supports configurable project/root-module
+search, but neither it nor these reads establishes a currently selected provider
+serving this exact corpus with this pattern and an adequate budget. No deployment
+or toolchain compatibility was tested. A new matcher cannot manufacture that
+coverage. Nor does one already local law justify launching an otherwise unnecessary
+service, repeating A/B, or creating new comparison infrastructure.
+
+The source question is now resolved enough for the architectural decision:
+existing formal search is the first advisory route; partial-application-aware
+query choice belongs to local investigators. Keep exact checking and ordinary
+authoring. Reconsider a custom sketch only after a real covered search fails for
+an identified expressibility/selectivity reason, not because this lookup remains
+unmeasured. No further investigation or runtime is selected by this append.
