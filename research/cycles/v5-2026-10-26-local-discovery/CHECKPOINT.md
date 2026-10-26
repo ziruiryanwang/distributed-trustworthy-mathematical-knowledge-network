@@ -1,6 +1,29 @@
 # Local v5 checkpoint
 
 Full deployable v5 remains active; everything stays local and unpublished.
+Latest: root adopts `ordinary_workflow_bundle/ADOPTION.md` and its complete
+independent continuation audit (06663d0ec2cac0d64e1a7ac8f0fedc6d96091e830edc8955df1babfda471aea1).
+The retained 3,953,637-byte archive now passes relocation, six-guide file closure
+and twelve refusal cases with clean closure; no repack/native/math test occurred.
+Runtime default is unchanged. The two POST-BUNDLE decisions select only the new
+`ordinary_basis_query/CONTRACT.md` source companion: approved proof-free Init-type
+syntax to exact fixed-basis search hints under the existing Job supervisor.
+No owner/custody state, arbitrary project rebinding or new checker. service_lifecycle
+owns implementation/guide, cold_start_workflow tests/plan, update_trust_lifecycle
+independent review, root integration/selections/Git. No runtime selected yet.
+
+Preserved immediately preceding boundary: the cold-start bridge and REVIEW03 were adopted. The already
+selected workflow-source-controls03 finished before context handoff: actual pack
+and full base/companion projection succeeded, then a test-side Windows DirEntry
+link-count census failed. All reports/archive/extraction are retained unchanged;
+no duplicate execution occurred. Root's read-only diagnosis and fresh test-only
+continuation are in `ordinary_workflow_bundle/CONTINUATION.md`. The continuation
+will reuse the exact existing ZIP, not repack, and is held for independent review
+before a fresh finite file-only selection. Product/checker bytes are unchanged.
+Parallel source-only agents assess the next real investigator/core architecture
+obstacle; no native/growth/service campaign or external release is selected.
+
+Earlier completed-service checkpoint follows as retained context:
 Canonical root and Git ownership rules are unchanged. The single reviewed
 archive-install01 execution and its independent outcome audit are complete.
 The single reviewed service-plan controls01 execution completed raw PASS, five

@@ -2,18 +2,19 @@
 
 ## Current ordinary source route
 
-Start with [the selected source handoff](ordinary_release_bundle/ADOPTION.md)
-and [its build/use guide](ordinary_release_bundle/README.md), which specifies the
+Start with [the self-contained source handoff](ordinary_workflow_bundle/ADOPTION.md)
+and its extracted root START-HERE guide, which specifies the
 supported Windows Python/Lean runtimes and supersedes the included older build
 recipes. Do not select a package merely because its directory name looks newer.
 
-For actual investigator work, the separate
+For actual investigator work, the included
 [receive-to-contribute guide](ordinary_reuse_workflow/README.md) explains the
 existing no-project authoring path. The tested
 [selected-export companion](ordinary_selected_export/ADOPTION.md) adds offline
 full-closure portability; its [direct destination intake recipe](ordinary_selected_export/INTAKE.md)
-uses unchanged independent checking. These companions are outside the frozen
-source archive. Optional correlation search is not the default.
+uses unchanged independent checking. These companions are now included in the
+verified workflow source archive; the older base archive remains unchanged.
+Optional correlation search is not the default.
 
 The [finite service companion](ordinary_service_plan/ADOPTION.md) lets an operator
 authorize several bounded serving leases once, without adding a perpetual daemon

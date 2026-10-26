@@ -3,12 +3,10 @@
 ## Current entry points
 
 **October 26 v5 development:** start with the
-[ordinary Lean source handoff](software/v5/ordinary_release_bundle/ADOPTION.md)
-and its [build/use instructions](software/v5/ordinary_release_bundle/README.md).
-The separate [receive-to-contribute recipe](software/v5/ordinary_reuse_workflow/README.md)
-and [selected offline export companion](software/v5/ordinary_selected_export/ADOPTION.md)
-complete the documented local investigator route. These companions are not
-inside the frozen source archive. Follow the
+[self-contained ordinary Lean source handoff](software/v5/ordinary_workflow_bundle/ADOPTION.md).
+Its verified archive includes the build, cold-start authoring, discovery/reuse,
+offline export/intake, finite serving and recovery routes. The mathematical
+implementation is unchanged. Follow the
 [current local checkpoint](research/cycles/v5-2026-10-26-local-discovery/CHECKPOINT.md)
 for current integration evidence. V5 remains unfinished, local and unpublished;
 ordinary local Lean checking is the default, not mandatory certificate production.
