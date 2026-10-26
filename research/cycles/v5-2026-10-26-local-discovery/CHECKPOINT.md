@@ -1,5 +1,25 @@
 # Local v5 checkpoint
 
+Root read/adopts STATE-OUTCOME28eaeb4e and STATE-ADOPTION: status01 passes actual
+installed loading/retained context compatibility, zero workerCPU, both layers
+closed.1.9051575wall/1.625knownCPU;69same before/after file paths, no DB-byte claim.
+No runtime remains; no native/network/proof repeat. Commons handoff source and
+file-only controls are being finalized/reviewed; no packing selected yet.
+
+Root read/adopts STATE-READ-REVIEWeae903fe and selects one status01 invocation,
+selection400efda7, under ordinary_multi_source_package/STATE-EXECUTION.md. All
+158pins match; both retained state dirs serialized. This permits normal recovery,
+not private state edits; no Lean/native/network/proof work. Actual outcome pending.
+Commons source handoff implementation proceeds independently with no runtime yet.
+
+Package/preparer integration committed as b9d4704. Root read/adopts complete
+DISTRIBUTION-PLANc6272ce9 and selects ordinary_commons_bundle/CONTRACT.md source
+implementation only: path owns one direct-helper bundler/current guides, relation
+tests/plan, challenge independent review, root integration/selection/Git. No pack,
+native build or service repeated. Root read STATE-READ-PLAN74be79a5; one installed
+status operation is under review, NOT selected yet, and may perform catalog
+recovery mutations. Full v5 stays active/local/unpublished.
+
 Root read/adopts complete package OUTCOME31f6a082 and ADOPTION. Actual five groups/
 28refusals pass; packagePROFILEca257419, exact3payloads+PROFILE changes, unchanged
 INSTALLATION32236aa3/150payloads.7.3889341wall/3.34375knownCPU; no runtime lives.
