@@ -29,7 +29,11 @@ The independent PACKAGE-OUTCOME
 also passes: all 154 files checked, exactly binder+PROFILE changed, 152 retained.
 Development package: `experiments/v5-local-checks/binding-package01/assembled/package`;
 PROFILE `dc0c19b7cf116742caa0751665da93400f6bc5b4663cfe313c3e81aa0d9c58e0`.
-The unchanged public loader/query returned zero; saved-output audit is pending.
+Root read/adopts complete QUERY-OUTCOME
+`93db7a858343d58ab3866b31c73d175d55299de2be19e0a856c53df8819a0d6e`:
+the unchanged public loader imports the successor successfully; query/spec bytes
+match retained outputs, all 166 pins remain, zero native-worker CPU and clean
+closure. Direct launcher cost: 1.1261235 wall / 1.0625 known CPU seconds.
 
 The production Std failure remains failed. No native retry, intake, checked
 state, source/prebuilt distribution or default-package change follows these
