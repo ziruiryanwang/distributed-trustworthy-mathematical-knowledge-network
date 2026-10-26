@@ -16,6 +16,11 @@ uses unchanged independent checking. These companions are now included in the
 verified workflow source archive; the older base archive remains unchanged.
 Optional correlation search is not the default.
 
+The separately [tested proof-free query companion](ordinary_basis_query/ADOPTION.md)
+lets a new investigator prepare exact-type search from ordinary Lean syntax
+without a proof or owner initialization. It supports the pinned fixed-basis
+vocabulary, explicitly refuses unknown names, and is not in the frozen archive.
+
 The [finite service companion](ordinary_service_plan/ADOPTION.md) lets an operator
 authorize several bounded serving leases once, without adding a perpetual daemon
 or changing mathematical acceptance. Serve only disclosure-approved custody and

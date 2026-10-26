@@ -11,6 +11,10 @@ implementation is unchanged. Follow the
 for current integration evidence. V5 remains unfinished, local and unpublished;
 ordinary local Lean checking is the default, not mandatory certificate production.
 
+A separately [tested query companion](software/v5/ordinary_basis_query/ADOPTION.md)
+now prepares supported formal search directly from Lean type syntax, without
+first proving a theorem or initializing a mathematical owner.
+
 **Historical October 7 v4:** the [software and layered guide](deliverables/2026-10-07-v4/START-HERE.md)
 and [actual results](deliverables/2026-10-07-v4/RESULTS.md). The persistent named
 library now supports selected acquisition, checked reciprocal extension and

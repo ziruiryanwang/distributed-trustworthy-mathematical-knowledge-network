@@ -1,6 +1,34 @@
 # Local v5 checkpoint
 
 Full deployable v5 remains active; everything stays local and unpublished.
+Current: root adopts `ordinary_basis_query/ADOPTION.md` and the complete final
+independent OUTCOME (`e72362e917d051f0a4678ec214574769f7be7bd480ee273d38ec15f4352fd6f5`).
+Eight native-free groups passed. Public01 failed closed on an undersized memory
+allowance and remains preserved; unchanged code then passed the separately
+reviewed 1024-MiB public02 extraction. Actual And-only AST, bindings, specs,
+namespace and all ten output pins agree, with clean inner/outer closure.
+Public02 cost: 3.7320647002 wall / 3.140625 known inclusive CPU seconds; total
+controls+failed01+public02 CPU7.390625. No runtime remains from this seam.
+
+Next source/theory decision: the complete RECEIVED-VOCABULARY-QUERY note identifies
+a small retained AllClosure concept whose nonbasis Init dependencies trigger
+the current module exporter's installed-definition/group collision refusal.
+No larger cap or name-only substitution solves that. exact_import_relation owns
+EXACT-INSTALLED-RELATION.md (safe exact reuse principle); received_vocabulary owns
+EXACT-INSTALLED-INTEGRATION.md (minimum source/report/build footprint). Both are
+source-only, with no native probe, owner access, code change or new test selected.
+Root owns integration/selection/Git; paper/shared NOW/WORK remain untouched.
+
+Preserved preceding execution selection: root read/adopts the complete basis-query source/selection
+review (`b5e1fde8d534310b3dc8f2aca0526abd47ec53eda5042ac8bd703213e3097238`)
+and selects `basis-query-controls01` once: eight native-free groups under the
+exact selection in `ordinary_basis_query/EXECUTION.md`. One proof-free public
+extraction is source-reviewed but remains conditional on clean controls and
+saved-output review. No owner initialization, helper build or network work.
+The separate source-only received-vocabulary audit has one new owner/checkpoint,
+`RECEIVED-VOCABULARY-QUERY.md`; it selects no implementation or experiment.
+
+Previous completed boundary:
 Latest: root adopts `ordinary_workflow_bundle/ADOPTION.md` and its complete
 independent continuation audit (06663d0ec2cac0d64e1a7ac8f0fedc6d96091e830edc8955df1babfda471aea1).
 The retained 3,953,637-byte archive now passes relocation, six-guide file closure
