@@ -10,6 +10,14 @@ files have not been edited.
   finite evidence and limits. It is not the default, a growth result or a new
   mathematical trust mode. The failed first test remains preserved.
 - The default remains `software/v5/ordinary_release_bundle/ADOPTION.md`.
+- Selective inert custody export is now implemented, independently reviewed and
+  adopted in `software/v5/ordinary_selected_export/ADOPTION.md`. Eight focused
+  groups and the bounded public CLI passed once with clean closure:
+  12.7488195 wall seconds / 10.703125 known inclusive CPU seconds. It exports all
+  required imports and group siblings into the unchanged baseline format without
+  owner acceptance, native execution or a producer project. Destination checking
+  remains mandatory. Sources/evidence are frozen; the default archive is unchanged
+  and does not contain this separate companion.
 - A fresh public-path reader found that its instructions do not expose the
   existing receive-to-own-source loop. The companion
   [practical recipe](../../../software/v5/ordinary_reuse_workflow/README.md)
