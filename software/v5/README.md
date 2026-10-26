@@ -2,6 +2,20 @@
 
 ## Current ordinary source route
 
+Use [the current flat source/prebuilt distribution](ordinary_current_release/ADOPTION.md)
+and its actual extracted operator guide. It includes the adopted producer-binding
+improvement, current preparation, formal queries and offline export. The prebuilt
+needs no native rebuild; the source uses one direct builder with actual generated
+identities. No historical overlay sequence is required. Direct finite serving is
+supported; the old multi-lease wrapper and standalone mirror are outside this
+selection. Independent checking and external runtime approval remain mandatory.
+
+The following preceding milestones preserve capability/evidence links, not an
+alternative current installation recipe. Their archives and source bytes remain
+unchanged; consult the flat distribution for which companions are actually shipped.
+
+## Preserved preceding ordinary route
+
 For the simplest investigator setup, use the
 [adopted prebuilt package and no-build guide](ordinary_prebuilt_handoff/ADOPTION.md)
 with the unchanged source companions below. It preserves the existing package

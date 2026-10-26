@@ -3,16 +3,14 @@
 ## Current entry points
 
 **October 26 v5 development:** start with the
-[current prebuilt investigator and no-build guide](software/v5/ordinary_prebuilt_handoff/ADOPTION.md),
-plus its [unchanged companion source handoff](software/v5/ordinary_commons_bundle/ADOPTION.md).
-The prebuilt package avoids native compilation and six file-overlay stages;
-approved external Python/Lean runtimes are still required. The source route
-remains available for rebuilding and storage-only operation.
-The verified source archive includes the build, cold-start authoring, discovery/reuse,
-received-concept questions, incremental module reuse, offline export/intake,
-finite serving, storage-only mirroring, bounded multi-source receiving and recovery
-routes. Follow the external prebuilt guide for no-build setup, or the source
-extraction's root README for the supported rebuild sequence. Follow the
+[current flat source/prebuilt distribution](software/v5/ordinary_current_release/ADOPTION.md).
+One selection includes the adopted producer-binding improvement, operator tools,
+formal queries and offline export. The prebuilt avoids compilation; the source
+route uses one direct builder, not historical overlays. Approved external
+Python/Lean runtimes remain required. Use the extracted root guide for ordinary
+investigation, independent checking, reusable modules, contribution and finite
+serving. Historical service wrappers and mirrors are not part of this selection.
+Follow the
 [current local checkpoint](research/cycles/v5-2026-10-26-local-discovery/CHECKPOINT.md)
 for current integration evidence. V5 remains unfinished, local and unpublished;
 ordinary local Lean checking is the default, not mandatory certificate production.

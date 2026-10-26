@@ -1,5 +1,67 @@
 # Local v5 checkpoint
 
+Root read/adopts full BUILD-OUTCOMEe91652aa: direct actual source-extraction build
+PASS,154files/117aux,151identical to prebuilt; two freshly linked exporters and
+PROFILE differ only. ActualPROFILE7c41db61,INSTALLATION32236aa3,implementationfafc8387.
+123.2429436wall/71.140625knownCPU/923103232Bpeak; allnested/outer jobs closed.
+No runtime remains. Prebuilt default unchanged. Root read rich-library decision
+4d80d139;3batchcapacity requires>180CPU pluscontroller upfront with no refund.
+Strict intake source/plan proceeds; no live native or newmathematical selection.
+
+Root read CORE-NEXT-DECISIONc0b9e902 and selects ordinary_std_intake/CONTRACT.md
+SOURCE/PLAN ONLY: materialize missing full inert bundle from retained genuineStd
+writer with adopted binder; independently screen existing3batchintake. No native
+export repeated, no cap increase, no intake or new theory/runtime selected yet.
+Practical owns materializer/selector; relation receiving plan; challenge review
+after direct-build actualaudit; root integration/finite decisions/Git.
+
+Root selects current-release-build01 once, selection9999327a, after adopting
+corrected distribution and full BUILD-REVIEW948da6f2.107extraction/23runtime pins,
+7snapshots;540wall/440CPU/2304MiB/8processes outer,480/360/2048inner. One direct
+build from actual repaired ZIP extraction; no old overlay/native campaign repeat.
+Outcome pending. Source/theory rich-library/core-value work continues concurrently.
+
+Root adopts complete continuation OUTCOMEe0116d60 and current-release ADOPTION:
+corrected sourceZIP58112022/manifest3ca83278 and prebuiltZIP57f064c5/manifestacb75cab.
+Only preparer+outermanifest differ; exact actual preparation/exportcodec gates
+pass.13.5428403wall/5.3125knownCPU, clean closure/no runtime. Controls01 stays
+failed/frozen. Root/v5 navigation now selects flat distribution, not old overlays.
+BUILD-REVIEW948da6f2 is root-read; direct build remains a separate finite selection.
+Rich-library/growth source decisions proceed in parallel; full v5 active/local.
+
+Root read complete continuation review bb12b11d and selects repaired-distribution
+continuation01 exactly once: selection01edd396,110source/161external pins,
+180wall/90CPU/768MiB/oneprocess. Exact scope in current-release
+CONTINUATION-EXECUTION.md. Old controls01 remains failed/frozen; only preparer
+payload changes in the new archives. No runtime result or adoption yet.
+Parallel source/theory work assesses rich-library grounding and highest-payoff
+growth/discovery next steps; no old campaign, external trial or paper edits.
+
+Current flat-release controls01 CLOSED/FAILED at inert preparation:
+KIT_INPUT_BOUND because one12-read report ledger was reused for45 interface
+files. Both source/prebuilt archives and sole actual ZIP extractions completed;
+the complete suite is NOT a pass. Clean closure:4.75JobCPU+.625wrapper,
+11.337996wall. No native/owner/database/network operation. All usedcurrent-release
+sources and01evidence are frozen. Challenge owns OUTCOME saved audit.
+
+Root selects source-only continuation: fresh prepare_selected02 (one-line
+per-file Inputs repair, hash27da75ff; no cap change) replaces only the logical
+preparer in one fresh explicitly staged input tree under experiments. Reuse
+release821796aa, bundle437cc3c0, build86612e8c unchanged; new outer manifests
+will bind updated support. Relation owns continue_release.py/CONTINUATION,
+root select_continue.py/finite launch, challenge review. Don't repeat passed
+negatives, old pack or mathematical tests. Direct build plan/selector are source
+only and HELD until repaired distribution is adopted. Full v5 active/local.
+
+Current release consolidation selected SOURCE ONLY in
+software/v5/ordinary_current_release/CONTRACT.md. One explicit current manifest
+will replace historical overlay requirements for future distribution; old bytes
+remain frozen. Relation owns exact source/native/prebuilt map, practical route
+operator/packer plan, challenge independent changed-boundary review, root
+integration/finite selections/Git. No native runtime, Std retry, owner operation
+or external action selected. Binding QUERY-OUTCOME93db7a85 is adopted (the older
+query-audit-pending sentence below is historical). Full v5 active/unpublished.
+
 Producer-binding continuation: root adopts independent OUTCOME39175f42,
 SAVED-WRITER-OUTCOME4d926fb5 and PACKAGE-OUTCOMEc8508caa. All31controls pass;
 one saved Std binder finishes2651units/44,912,843B in3batches,28.125binderCPU.
