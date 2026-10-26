@@ -1,0 +1,17 @@
+{
+  "schema": "DMKN_ORDINARY_MULTI_SOURCE_OVERLAY_V1",
+  "files": {
+    "support/transport/http_provider.py": {
+      "bytes": 31361,
+      "sha256": "d9c342d1dcb5ee3e4b293e8dc0566397a321cc59a6f545e2f2afde452c760251"
+    },
+    "support/transport/ordinary_acquisition.py": {
+      "bytes": 30121,
+      "sha256": "076130f7a34b505df33ee550501d1c4276bb46e408ff226df765225933a0658e"
+    },
+    "peer_api.py": {
+      "bytes": 68115,
+      "sha256": "dcaea5226f58e4254dd4cff0d6c621cf593aabe9b4d511d127194816c8ddc0ef"
+    }
+  }
+}

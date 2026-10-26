@@ -1,5 +1,26 @@
 # Local v5 checkpoint
 
+Root read/adopts complete package OUTCOME31f6a082 and ADOPTION. Actual five groups/
+28refusals pass; packagePROFILEca257419, exact3payloads+PROFILE changes, unchanged
+INSTALLATION32236aa3/150payloads.7.3889341wall/3.34375knownCPU; no runtime lives.
+No actual state/native/math operation. Source handoff and one possible read-only
+installed-state check remain SOURCE/DATA analysis, not runtime authorization.
+Root owns Git checkpoint; full v5 active, shared NOW/WORK/paper untouched.
+
+Root reads complete source/test/guide and independent integration REVIEW8e402a2a,
+selects multi-source-package01 once under selectioneba0bda5,16source/158external
+pins, all174 verified. Five file-only map/preparation groups, one package copy;
+no native/state/network run. See ordinary_multi_source_package/EXECUTION.md.
+Actual outcome pending; no retry. Path separately designs one coherent source
+handoff; no new archive utility or packing selected yet.
+
+Adopted multi-source slice committed as b539595. Root reads both full integration
+notes and selects ordinary_multi_source_package/CONTRACT.md SOURCE ONLY:
+path owns fixed three-file assembler/guide; relation owns strict preparer/selector;
+root maps/tests/finite selection/Git; challenge independent review. No runtime,
+native build/state opening or archive production selected. Narrow mathematical
+identities stay unchanged; old PROFILE-bound reports are never rewritten.
+
 Root read/adopts complete ordinary_multi_source OUTCOMEe03a7f6d and ADOPTION.
 All six focused groups passed with clean closure,0.9815673wall/0.453125knownCPU;
 no runtime remains. These are exact acquisition/accounting controls with explicit
