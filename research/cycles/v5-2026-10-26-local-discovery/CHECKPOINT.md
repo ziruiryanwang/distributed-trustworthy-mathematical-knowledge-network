@@ -1,5 +1,47 @@
 # Local v5 checkpoint
 
+Current: root read/adopts the complete anchor-query OUTCOMEa0d7ff1c and
+ordinary_anchor_query/ADOPTION.md. Seven focused groups and actual public02 pass;
+actual AST/bindings/query/specs are exact prior bytes. Public fullwall4.109535,
+knownCPU3.40625; all three selected operations total4.203125CPU, failed01 preserved.
+No runtime remains. Root owns the coherent Git checkpoint. In parallel,
+next_workflow_payoff finishes the nonempty-anchor source/data challenge;
+update_trust_lifecycle owns RELEASE-CRITICAL-PATH.md, a source-only comparison
+of that next test against public-software consolidation/remaining central gaps.
+No extension run, build, new protocol, paper work or external sharing selected.
+The full v5 goal remains active; this command is a completed capability, not release.
+
+Earlier execution-pending entries below preserve history, not live operations.
+
+Current: controls02 seven groups passed, independent OUTCOMEb61faaac adopted,
+knownCPU0.578125. Root selects public02 once under reviewed selection8bccce2e;
+original60wall/30CPU/1024MiB companion under120wall/60CPU/1280MiB root.
+One real registered-anchor query only; no new mathematical acceptance/search.
+Prior failure and source versions below remain preserved; no old run repeats.
+
+Latest: controls01 stopped before product import on a missing bracket at harness
+line680. No groups or native/owner operations ran; clean closure, knownCPU0.21875.
+Failure/source preserved. Root selects only fresh test_query02's one-character
+repair plus parse-only validation; independent reviewer owns OUTCOME. Public01
+is unexecuted/unselected; no automatic retry or product repair. Ancillary
+anchored-extension work remains source/data-only with its existing owner.
+
+Root fully read/adopts anchor-query source REVIEW3cdf79a1 and selects controls01
+once under ordinary_anchor_query/EXECUTION.md. Seven source snapshots/three
+Python pins; seven synthetic changed-boundary groups; no native/state/network.
+Public01 has a proposed exact selection but remains conditional on clean
+controls and independent outcome review. No other runtime is selected.
+
+Current implementation: anchor-query code/guide and narrow controls are under
+independent source review; no execution is selected yet. Root's source-traced
+ordinary_exact_module/AFTER-QUERY.md connects existing contribute/publish paths,
+without another protocol or an end-to-end claim. In parallel, received_vocabulary
+may assess only the exact retained same_constraints_same_run closure against the
+AllClosure anchor in ANCHORED-EXTENSION-DECISION.md, after its query-source duties.
+That is a possible native nonempty new-tag plan boundary, not a new theorem,
+growth experiment or runtime selection. Completed composition/adoption committed
+as `108db04`; unrelated shared work remains untouched.
+
 Root read/adopts the completed received-query01 OUTCOME
 `c0e8eb1c996156f8a29b156a5bb160ec7ef06130e633c0d557889e83a76f3f3d`;
 see ordinary_received_query/ADOPTION.md. The actual proof-free received-concept

@@ -28,6 +28,13 @@ It is a separately selected development package, not a silent update to the
 source archive; its adoption note records compatibility and query-integration
 boundaries.
 
+The [registered-concept question command](ordinary_anchor_query/ADOPTION.md)
+now prepares search hints from that received vocabulary using a validated local
+module anchor. It replaces custom import glue; it does not prove the question
+or perform peer search. Its [continuation guide](ordinary_exact_module/AFTER-QUERY.md)
+connects optional search to existing contribution and publication commands.
+This separately tested companion is not yet in the frozen workflow archive.
+
 The [finite service companion](ordinary_service_plan/ADOPTION.md) lets an operator
 authorize several bounded serving leases once, without adding a perpetual daemon
 or changing mathematical acceptance. Serve only disclosure-approved custody and
