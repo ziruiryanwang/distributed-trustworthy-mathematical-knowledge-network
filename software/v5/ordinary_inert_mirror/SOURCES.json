@@ -1,0 +1,158 @@
+{
+  "schema": "DMKN_INERT_MIRROR_SOURCES_V1",
+  "source_manifest_sha256": "65edf28f928d4100346a4603fe508252ddc6393950c34a373fbb33da4c6491f5",
+  "python": {
+    "version": "3.14.6",
+    "files": {
+      "python.exe": {
+        "bytes": 106208,
+        "sha256": "03168c01b7b7491423350e82c26fee71f35b43694d1319d3c668bda6903a0c38"
+      },
+      "python314.dll": {
+        "bytes": 6778592,
+        "sha256": "fde89cdb5c2d08ae65de7ef4abca1876c93ba3796002f5ac0bf7e4d4f5a94da0"
+      },
+      "python3.dll": {
+        "bytes": 73952,
+        "sha256": "22c6e46d8bd563cdb072650901461ef68be2ea6cb1e80af859559d9395a27e39"
+      }
+    }
+  },
+  "files": {
+    "ordinary_evidence": {
+      "source": "software/v5/ordinary_lean/ordinary_evidence.py",
+      "bytes": 17058,
+      "sha256": "fc52de53a260b37735da704f4a8a7a732168ca047410868e0f53765950749fa6"
+    },
+    "ordinary_semantics": {
+      "source": "software/v5/ordinary_lean/ordinary_semantics.py",
+      "bytes": 10283,
+      "sha256": "ee601536f53640a2695e51d37d3e87e6746604ed6433cb3ace9349ae1aedf915"
+    },
+    "portable_evidence": {
+      "source": "software/v5/ordinary_lean/portable_evidence.py",
+      "bytes": 2993,
+      "sha256": "f8ea819bdd9344d696cef2725888828125b2ef5d1b60d2c31a0412657a62cbd8"
+    },
+    "portable_candidate": {
+      "source": "software/v5/ordinary_lean/portable_candidate.py",
+      "bytes": 10437,
+      "sha256": "29ae111a362472b09b2b1ff16b567b352be793d76c2cd1b5421e0aee29219331"
+    },
+    "ordinary_preview": {
+      "source": "software/v5/ordinary_lean/ordinary_preview.py",
+      "bytes": 10576,
+      "sha256": "0fd9bb516fbb53d9d4264271853904e35810286fc92d5670d15d7a9d3c26b0d6"
+    },
+    "portable_preview": {
+      "source": "software/v5/ordinary_lean/portable_preview.py",
+      "bytes": 7434,
+      "sha256": "b78dd54340b7b55e4359769d6784f7f225ba304457ce880ce2760717e865550d"
+    },
+    "formal_query": {
+      "source": "software/v5/ordinary_formal_query/formal_query.py",
+      "bytes": 7811,
+      "sha256": "7901236768784a399f9ae5c56b374d040bce56536b0a47a6ee85093440cabcee"
+    },
+    "baseline_bundle": {
+      "source": "software/v5/ordinary_baseline/baseline_bundle.py",
+      "bytes": 19197,
+      "sha256": "d5a9c13392e2de8b170cbaf4a9a27e4d1e5d99eb2714165848a640069fe42fce"
+    },
+    "_supervisor": {
+      "source": "software/v5/ordinary_package/supervisor/commons.py",
+      "bytes": 41984,
+      "sha256": "6ea16154f4533e80d2e4e27e12fb6fa0ab7abfa0ff2c52cfb7479c1a35a8c1c9"
+    },
+    "domains": {
+      "source": "software/v5/ordinary_package/supervisor/domains.py",
+      "bytes": 4934,
+      "sha256": "651db5f6bb707159c0d29dd6092174bfcebd1dc17b833fdfdacf7e2a66d8522a"
+    },
+    "_job": {
+      "source": "software/v5/ordinary_package/supervisor/run_stage.py",
+      "bytes": 30037,
+      "sha256": "bdd2cbc28258f49ef08b678ba54b437ff541ef4deb0af4aa36795d2baa19b028"
+    },
+    "_inventory": {
+      "source": "software/assets/foundation/seed-inventory-json.json",
+      "bytes": 823690,
+      "sha256": "c81800abbe3f421b2e3d3687e864946e9c0dd43a97a118034c79376f7cdba1b0"
+    },
+    "_launcher": {
+      "source": "software/v5/ordinary_contact_federation/run.py",
+      "bytes": 18894,
+      "sha256": "47a2b63c73f1bd8346c5881c6d6a76abac86d33aa8e55bfc19bf3359ea924a39"
+    },
+    "custody.module_store": {
+      "source": "software/v5/custody/module_store.py",
+      "bytes": 10535,
+      "sha256": "39e8eee8fd556c4ec66b76ac2e9abc73efdf039dc2b488ffa237040438a4da28"
+    },
+    "discovery.authenticated_index": {
+      "source": "software/v5/discovery/authenticated_index.py",
+      "bytes": 17346,
+      "sha256": "77a12cda9dd4a303153b59d00998de8aa6bf08bb572af10136e21dfa9c96cc95"
+    },
+    "discovery.candidate_query": {
+      "source": "software/v5/ordinary_sparse_access/candidate_query.py",
+      "bytes": 22703,
+      "sha256": "62de52fdd95df045632e865f90e5ec6ea076c8a1f68937d437597905e63a478b"
+    },
+    "discovery.discovery_query": {
+      "source": "software/v5/discovery/discovery_query.py",
+      "bytes": 10717,
+      "sha256": "f9ce09ba74e7656a2f53d813489a43434258208198bcb4784c0e4eb682ac24e2"
+    },
+    "discovery.discovery_store": {
+      "source": "software/v5/ordinary_sparse_access/discovery_store.py",
+      "bytes": 20666,
+      "sha256": "26ccca0fda86a255c38f7c3cc39b6b1fd88deba2ae10c6f79bc562b872c9502c"
+    },
+    "discovery.formal_features": {
+      "source": "software/v5/discovery/formal_features.py",
+      "bytes": 11876,
+      "sha256": "f1f53ee40ce32126085f7f776c47d9d0ab2c5b7c679d40f018f6bff70f6430e5"
+    },
+    "discovery.ordinary_export_adapter": {
+      "source": "software/v5/ordinary_formal_query/discovery/ordinary_export_adapter.py",
+      "bytes": 9849,
+      "sha256": "3ddbed2156a393b08543a5da88c89b5c5b9c2b4f65689c46fbd7623cec38db0a"
+    },
+    "discovery.pair_access": {
+      "source": "software/v5/ordinary_sparse_access/pair_access.py",
+      "bytes": 8677,
+      "sha256": "7d3f2fc199736df54d76b421f3587ebc8a0167bd75363921385a1916b832116c"
+    },
+    "discovery.summary_wire": {
+      "source": "software/v5/discovery/summary_wire.py",
+      "bytes": 8574,
+      "sha256": "e487ffe6f7033505f91122c6acace9e8f2930b8856e7292e86b866a1479ac341"
+    },
+    "transport.authoring_offers": {
+      "source": "software/v5/ordinary_authoring_offers/authoring_offers.py",
+      "bytes": 9780,
+      "sha256": "da525f75088b65950185465f17581c9f1ec32cbeaa462101881f41f5b1bbede1"
+    },
+    "transport.clients": {
+      "source": "software/v5/transport/clients.py",
+      "bytes": 9553,
+      "sha256": "640d1344824829865060712370444b5051720ce7b0a741e8efc0da8a066c6464"
+    },
+    "transport.contact_directory": {
+      "source": "software/v5/ordinary_contact_federation/contact_directory.py",
+      "bytes": 10534,
+      "sha256": "a77486e716eb774337f2aedc04771c34395b24a910848600a2eae702f8ae3eb4"
+    },
+    "transport.http_provider": {
+      "source": "software/v5/ordinary_bounded_transport/http_provider.py",
+      "bytes": 29560,
+      "sha256": "9288996fa1d4e737f500043cddfc1c7935d9b7830ac6638596b6f7f278f2add7"
+    },
+    "transport.ordinary_acquisition": {
+      "source": "software/v5/ordinary_authoring_offers/ordinary_acquisition.py",
+      "bytes": 27297,
+      "sha256": "d4599471b1285650876d53763c4a618a4dd5d7a953197954249052771a9df64f"
+    }
+  }
+}

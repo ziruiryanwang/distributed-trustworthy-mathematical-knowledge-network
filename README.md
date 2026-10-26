@@ -3,10 +3,11 @@
 ## Current entry points
 
 **October 26 v5 development:** start with the
-[self-contained ordinary Lean source handoff](software/v5/ordinary_workflow_bundle/ADOPTION.md).
+[current self-contained investigator source handoff](software/v5/ordinary_investigator_bundle/ADOPTION.md).
 Its verified archive includes the build, cold-start authoring, discovery/reuse,
-offline export/intake, finite serving and recovery routes. The mathematical
-implementation is unchanged. Follow the
+received-concept questions, incremental module reuse, offline export/intake,
+finite serving and recovery routes. Its extracted root README selects the
+supported build and overlay sequence. Follow the
 [current local checkpoint](research/cycles/v5-2026-10-26-local-discovery/CHECKPOINT.md)
 for current integration evidence. V5 remains unfinished, local and unpublished;
 ordinary local Lean checking is the default, not mandatory certificate production.

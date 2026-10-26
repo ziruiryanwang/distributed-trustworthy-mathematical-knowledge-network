@@ -1,5 +1,51 @@
 # Local v5 checkpoint
 
+Root read/adopts the complete mirror02 OUTCOMEcdb282e6 and ADOPTION: all three
+remaining-path groups passed, all inner/outer processes closed, no runtime lives.
+The original failure stays preserved; total known CPU across both runs is
+7.484375 seconds. The intentionally mutated final test state is not reusable.
+The separate source companion supports storage-only discovery/byte service;
+it grants no mathematical acceptance and does not change the investigator ZIP.
+Root owns the coherent Git checkpoint. The multi-source theoretical challenge
+continues separately; no implementation is selected merely by this adoption.
+
+service02 executed once and returned all three groups PASS with clean outer
+closure: 7.8031542 wall seconds, 1.96875 Job CPU + 0.09375 wrapper = 2.0625
+known CPU seconds, peak 83,582,976 bytes. Exact selection bbf032102eb81f6e;
+no runtime remains. Independent saved-output review is pending in
+ordinary_inert_mirror02/OUTCOME.md; root has not adopted the service yet.
+All used sources/inputs/results are frozen; controls01 remains failed.
+Parallel source/theory decision: ordinary receive fixes every fetch to one
+provider even though the acquisition primitive already supports per-fetch
+sources. next_core_payoff and inert_rehost_relation assess explicit bounded
+alternative custodians with unchanged exact identities, local checking and
+one aggregate grant. No multi-source code or experiment is selected yet.
+
+Current continuation: inert-mirror-controls01 failed cleanly before service;
+root read/adopts its complete OUTCOME182c3395. Successful preparation and earlier
+refusals remain evidence, not a service pass. Its 5.421875 known CPU seconds stay
+charged. Root selects only mirror02/CONTRACT.md's four-line metadata-parser repair:
+DESCRIPTOR/READY use the existing bounded metadata parser; evidence parsing and
+acceptance rules do not change. Independent source delta REVIEW is GO. Path owns
+test_service.py/TEST-PLAN for the unreached service path; reviewer owns REVIEW
+and later actual outcome; root owns finite selection, integration and Git.
+No runtime yet. Reuse the retained four-unit fixture, but prepare fresh state
+because READY pins helper bytes. Preserve the failed run and all prior sources.
+In parallel, next_core_payoff owns NEXT-CORE-PAYOFF-AFTER-MIRROR.md: one concrete
+next user obstruction, source/theory only, not another generic release audit.
+Full v5 remains active, local and unpublished; no external pilot is selected.
+
+Earlier current-state statements below are retained history.
+
+2026-10-26 continuation: root selects SOURCE ONLY ordinary_inert_mirror/CONTRACT.md
+after reading INERT-REHOST-RELATION and PATH. Narrow payoff: supported storage-only
+unknown-ID discovery/selective acquisition without a mathematical owner/native
+install. Static backup remains cheaper; no receiver-check saving is claimed.
+Existing stores/provider/supervisor are reused. relation owns mirror.py; path owns
+run.py/fixed source map/README; root tests/integration/Git; independent challenge
+owns review. No runtime, rebuild, new theorem or publication is selected.
+All previous evidence and unrelated paper/shared NOW/WORK changes remain intact.
+
 Root read/adopts ordinary_method_return/OUTCOME6b662586 and ADOPTION: one
 received-method observation law passed independent new CHECKED admission,
 with exact imported-method proof evidence and clean authoring/admission/outer

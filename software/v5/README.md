@@ -54,6 +54,12 @@ authorize several bounded serving leases once, without adding a perpetual daemon
 or changing mathematical acceptance. Serve only disclosure-approved custody and
 exclude writers throughout the plan, including between leases.
 
+The [storage-only mirror companion](ordinary_inert_mirror02/ADOPTION.md) can
+prepare and serve disclosed inert bundles without Lean or a mathematical owner.
+It supports existing formal discovery and exact-byte acquisition; consumers
+still check mathematics independently. This separate companion is not included
+in the frozen investigator ZIP.
+
 Read [updating and recovering checked knowledge](UPDATE-AND-RECOVERY.md) before
 changing the checking implementation or reusing state after suspected compromise.
 It distinguishes package changes from changes to mathematical trust; it does not
