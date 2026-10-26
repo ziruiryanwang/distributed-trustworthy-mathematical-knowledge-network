@@ -1,5 +1,25 @@
 # Local v5 checkpoint
 
+Std-export01 is CLOSED/FAILED: root adopts complete OUTCOME345896ce. Native
+extracted2651units/38,154,768B writer,18.421875CPU; public producer exhausted its
+cooperative budget in WRITE_EVIDENCE,708partialunits/no manifest.117.411wall/
+89.078125knownCPU/919,453,696Bpeak; all three layers closed. No retry or intake.
+ADOPTION preserves exact failure. Relation prepares bounded saved-writer F census;
+practical route confirms approved-project/empty-acquired-target warm authoring
+can use an independently warranted parent without reconstructing F. Root selects
+ordinary_binding_reuse/CONTRACT.md SOURCE ONLY: local census/serialization reuse,
+strict raw parsing retained; practical author, challenge independent review.
+No product/package/native/acceptance change or runtime selected. Full goal active.
+
+Root reads complete Std PLAN/REVIEW/ALLOCATION-REVIEW and selects std-export01
+once, selection77c077d4, six source/176external pins all independently verified.
+EXECUTION.md records prospective outer150wall/110CPU/1792MiB/four processes and
+public120wall/90CPU/1536MiB/three children, superseding PLAN's smaller proposal
+before execution. Direct existing public producer, one installed HashMap method,
+no new harness/build/state/network/intake. Preserve first outcome; no retry.
+Relation separately traces recipient bounds; challenge owns saved outcome review.
+Full v5 remains active/local/unpublished; shared NOW/WORK/paper untouched.
+
 Root adopts complete prebuilt OUTCOME4a99b386 and ADOPTION: exact154file archive
 ee392301 (39,171,771B), sole relocation,6refusals and public inert query pass;
 8.5666452wall/5.109375knownCPU,66,592,768B peak, clean closure/no runtime.
