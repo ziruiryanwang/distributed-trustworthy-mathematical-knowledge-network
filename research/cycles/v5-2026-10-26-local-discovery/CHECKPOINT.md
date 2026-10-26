@@ -1,5 +1,12 @@
 # Local v5 checkpoint
 
+Root read both full installation8db6c5ad and library8b6d52c8 decisions. Select
+ordinary_prebuilt_handoff/CONTRACT.md source preparation: exact existing154-file
+package archive, not another installer/native build/source repack. Path owns
+maintainer packer/current guide; relation narrow controls/public-query plan;
+challenge independent review; root integration/selection/Git and central growth
+priority. No execution selected yet; full v5 active/local/unpublished.
+
 Consolidation committed c9a7804. Root reads branch trace4dce7d3d and union
 principle64593e30; AFTER-CONSOLIDATION records safe existing composition and
 real but not yet high-payoff cross-branch recheck optimization. No union code
