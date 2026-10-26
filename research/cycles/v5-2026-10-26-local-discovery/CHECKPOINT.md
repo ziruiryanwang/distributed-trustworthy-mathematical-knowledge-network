@@ -1,5 +1,42 @@
 # Local v5 checkpoint
 
+Latest: root read/adopts exact-module ADOPTION and complete final independent
+OUTCOME `e20fe82e9537e04f6014d53cff8767d1b586a7bd43db726521c4049214a5eedd`.
+Both native mismatch fixtures refused exactly; all five allocations are closed,
+known combinedCPU39.078125seconds. No runtime remains. Root selects source-only
+`ordinary_received_query/CONTRACT.md`: one proof-free question over the actual
+registered concept then existing public context-query preparation, no new product
+API or find/provider setup. Author received_vocabulary; independent reviewer
+update_trust_lifecycle; root integration/selection/Git. next_workflow_payoff
+assesses release composition without duplicating this query work. Shared paper,
+NOW/WORK/CURRENT and unrelated dirty files remain untouched.
+
+2026-10-26 continued: root read/adopts complete exact-module public01 independent
+OUTCOME (`b35381fdb6f9e853ebf031ae92a7dc1ea29f264f042a4ceea3e7e832fc7398e6`).
+The retained AllClosure closure now exports with four exact installed units/nine
+rows plus six new units/twelve rows, both checking passes and fresh private/public
+rereads. Registered anchor `79db183e7c154929cb8aca320082854ddde304466a3dd901da071aac425f9325`
+reopens with zero native calls/fetches. Prior sidecar inventory was empty: do not
+claim nontrivial old-record preservation. Public cost19.2552430998wall /
+17.953125 known CPU seconds; cumulative preliminary+public CPU25.0seconds.
+Root selects the independently cleared native-negative selection recorded in
+ordinary_exact_module/EXECUTION.md. received_vocabulary owns source-only query
+composition; next_workflow_payoff owns a nonduplicative next-user-obstruction
+assessment. No new wrapper, query execution, paper changes, repack or growth
+campaign selected. Full deployable v5 remains active, local and unpublished.
+
+The older current-state paragraphs below preserve prior commissioning, not
+permission to repeat finished work. All used exact-module source bytes are frozen.
+
+2026-10-26 continuation: root read/adopts all three complete exact-installed
+relation/integration/challenge notes and selects source implementation under
+`software/v5/ordinary_exact_module/CONTRACT.md`. Three fresh payload successors,
+no helper rebuild: exact_import_relation owns native; received_vocabulary owns
+controller/store; update_trust_lifecycle owns independent source review; root
+owns overlay/test/selection/Git. No runtime selected yet. Actual installed
+AllClosure correspondence is still unknown. Prior query seam is complete and
+must not be repeated. Shared NOW/WORK/paper changes remain untouched.
+
 Full deployable v5 remains active; everything stays local and unpublished.
 Current: root adopts `ordinary_basis_query/ADOPTION.md` and the complete final
 independent OUTCOME (`e72362e917d051f0a4678ec214574769f7be7bd480ee273d38ec15f4352fd6f5`).

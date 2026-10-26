@@ -21,6 +21,13 @@ lets a new investigator prepare exact-type search from ordinary Lean syntax
 without a proof or owner initialization. It supports the pinned fixed-basis
 vocabulary, explicitly refuses unknown names, and is not in the frozen archive.
 
+The [exact installed-vocabulary successor](ordinary_exact_module/ADOPTION.md)
+now exports a received concept whose definitions and complete inductive groups
+overlap the local Lean installation, while rejecting altered or partial matches.
+It is a separately selected development package, not a silent update to the
+source archive; its adoption note records compatibility and query-integration
+boundaries.
+
 The [finite service companion](ordinary_service_plan/ADOPTION.md) lets an operator
 authorize several bounded serving leases once, without adding a perpetual daemon
 or changing mathematical acceptance. Serve only disclosure-approved custody and
