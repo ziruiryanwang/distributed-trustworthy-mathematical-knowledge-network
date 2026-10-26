@@ -1,5 +1,24 @@
 # Local v5 checkpoint
 
+Root read/adopts CONTROLS-OUTCOME3d038697 in CONTROLS-ADOPTION: all16 native
+controls, exact4 artifacts/no refused artifact, empty stderr/clean closure;
+3.2098135wall/3knownCPU. Nothing running. Package review caught missing8docs
+before execution; unused adapter corrected to full154receipt/125aux+docs and
+review27305f21 passes. Root selects no old owner reuse; fresh package then new
+owner required. PUBLIC-PLAN corrected to actual std-intake02-current template,
+not unexecuted stale-plan draft. Actual package/init/intake still pending.
+
+Root read/adopts actual kernel build OUTCOME96dfbd13 in BUILD-ADOPTION.md:
+five compiles/three exact reused objects, eight objects13,954,288B; clean closure,
+empty stderr,7.4181178wall/6.703125knownCPU. No runtime live. Controls fixture
+b8bb7074 is independently source-reviewed; unexecuted launch plan receives full
+environment scrub/hidden launch/four-process margin, no product cap change.
+Root prepares direct exact selection; integration agent's file-only package
+adapter is ready for review after controls. No old owner/failed artifact promotion.
+The transient CONTRACT append was restored exactly to frozen c5dbdaad/3597B;
+BUILD-ADOPTION records incident and separate PACKAGE-CONTRACT future scope.
+Full v5 remains active, local/unpublished; no completion or growth claim.
+
 Three native successors are source-ready, no compilation: CheckedExtension
 2d6804ea7fe90daacf8889c0e05a9f5a9d7657d2323a36c6e2df48e18cc9a92e,
 LocalSnapshot ae8bc1c9d2e8e01c293d9757d3ab2db744a6a65c2281c965406bdaba993e0f95,
