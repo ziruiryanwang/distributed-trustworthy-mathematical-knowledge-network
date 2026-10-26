@@ -1,5 +1,90 @@
 # Local v5 checkpoint
 
+Root read/adopts actual auxiliary package OUTCOMEc2e33f05 in PACKAGE-ADOPTION;
+no runtime lives. Diagnostics source/control adoption committed7d96f20, preserving
+the tested trailing blank line flagged by diff-check. Source-only mathematical
+drafting selected in ordinary_finite_map_effects/CONTRACT: exact nonemptiness
+effects over write/sequence/choice, using received HashMap insertion law. Author
+intake_cost_localization, reviewer interrupted_owner_recovery; noLean run selected.
+Fresh intake selection under independent review: std-intake02-current.selection
+1f168a31,4sources/220pins,unchanged budgets/actual recovered basis. Earlier
+unlaunched draft6d2a637d has stale plan pin after author finalization; preserve it,
+never launch it. Current plan38228d68 is frozen. Root has read final theory note
+aa73a5ce and actual dependency inventory evidence; no extra library is required
+by the mathematical specification. Full v5 remains active/local/unpublished.
+
+Root adopted diagnostic controls OUTCOMEfccf2162 (seven groups,0.96875knownCPU).
+File-only package01 then closed raw PASS,3.987253wall/1.515625knownCPU, under
+selectionf9d2dfe8. Actual PROFILEb850b12a, ASSEMBLYd3aec3e9, RESULTe4bc8d2f;
+independent actual package audit pending. No runtime lives. Recovery evidence
+committed c96b6e2; unrelated dirty files untouched. Next math candidate is an
+exact nonemptiness effect analysis for finite write/sequence/choice programs,
+subject to actual retained dependency check. Intake source plan is still pending;
+no native run or new proof is selected.
+
+Intake diagnostics controls01 ran once and returned seven-group raw PASS with
+clean closure: 7.3887159 wall / 0.96875 known CPU seconds. Independent actual
+audit pending. Selection8232df40; sources now frozen. One initial relative-path
+wrapper invocation refused before allocation; corrected absolute CLI launched
+the sole controls run (see ordinary_intake_progress/EXECUTION.md). File-only
+assembly source REVIEW5d26ef9c is root-read; selection remains held for controls
+adoption. Parallel source work checks a concrete finite-map concept/law against
+actually available dependencies and prepares the fresh intake decision. No
+native workload or owner operation is live. Full v5 remains active/local.
+
+Root fully read/adopts RECOVERY-OUTCOME66bec50b in RECOVERY-ADOPTION.md. status01
+closedPASS (session67697closed):onlybasis30349865,has_morefalse,581names/1module/
+669968B,allcustodycounts0/workerCPU0. All11statefiles byte-identical to backup;
+224pins/5sourcepairs unchanged.12.5423211wall/2.34375knownCPU/50106368Bpeak.
+Presentbasis eligible; oldintakecause/cost/closure remain unknown. No runtime
+lives. Progressauxiliary source/tests continue; no intake retry selected.
+
+Root read RECOVERY-REVIEW62b29a44, repeated fresh narrow processcensus=0, and
+selects std-recovery-status01 once under RECOVERY-STATUS-LAUNCH.md. Selection
+6a78055e,5sources/224pins;public35wall/10CPU/512MiB/1child,outer60/20/768/2.
+Public mutating-capable open/contextvalidation only, noLean/intakeretry. Exact
+pre-recovery11files preserved; unknown stoppedrun cause/cost remains unknown.
+
+Exact closed-state FILE preservation completed:11files/1746308B under
+std-recovery-preserve01, readback+unchanged source map; PRESERVATIONd7bb49f4.
+This is forensic file preservation, not an alternate owner; empty directories
+are not part of the file census. Direct statusselection6a78055e prepared:
+5sources/224pins (old200+12stoppedrun+12backup), no launch pending review.
+Root read costdecision9e004dbc and selects ordinary_intake_progress/CONTRACT.md
+SOURCE ONLY: one auxiliary baseline_intake successor with bounded durable scalar
+diagnostics; no mathauthority/automaticresume/controller/native changes. Cost
+agent authors, recoveryagent focusedtests, interruptionagent review afterstatus.
+
+Root read/adopts stopped intake auditf530475a and source recovery decisiond03cd377.
+No confirmedStd prefix; priorbasis remains evidenced but current owner reuse is
+held. Select bounded exact11file/<=4MiB closedstate preservation only in
+ordinary_parse_reuse/RECOVERY-EXECUTION.md; then prepare existing publicstatus+
+exactbasiscontext selection. Recovery can mutate abandoned reservations; no
+privateDBedit/nativechecking/intakeretry selected. Cause/cost remain unknown.
+
+2026-10-26 22:32 UTC: resumed goal after tool/session transition. Previous work
+was progress (tested parse reuse, actual package, checked basis). Intake session
+77963 now returns Unknown process id; read-only Win32_Process census finds no
+matching Python/Lean process for std-intake01/std-catalog01. No outer RESULT,
+public RUN/SUPERVISION or owner stdout exists; root cannot confirm completion,
+clean closure, mathematical result or total cost. Preserve all run/state bytes;
+NO retry/restart or promotion. Three new disjoint source/saved-data audits:
+intake_interruption_audit actual evidence; interrupted_owner_recovery existing
+safe public recovery path; intake_cost_localization phase/cost observability.
+All under ordinary_parse_reuse/INTERRUPTED-*.md. No product/DB/status/native
+operation selected. Full v5 remains ACTIVE, local/unpublished; no blocker claim.
+
+Root fully read intake delta REVIEWa6757cb3 and selects std-intake01 once under
+parse-reuse/INTAKE-EXECUTION.md,selection2125ea37:4sources/200pins;
+public360wall/300CPU/1536MiB/3processes,outer420/330/1792/4. Actual parent30349865,
+exact reconstructed2651units/3batches; unchanged60CPU per batch. No competing
+native workload, retry or cap escalation. Outcome pending; preserve any prefix.
+
+Root fully read/adopts INIT-OUTCOMEa3f7002e in INIT-ADOPTION.md: actual456basis/
+581names and669968B artifact, all three supervisor layers clean, newI/profile/
+store bound. Parent3034986549a52b2a0b46f5fffe2c650879453f43ff85d4ef38cf3ff73b7a7d62.
+No runtime remains. Generate/review exact intake selection next; no launch yet.
+
 std-init01 closed raw PASS,session49207 closed, RESULTf15c1864. Actual public
 owner reports CHECKED basis456, root30349865…; newI/profile match. Outer
 52.7855955wall,40.09375JobCPU+3.328125wrapper=43.421875knownCPU,709234688Bpeak.
