@@ -1,5 +1,35 @@
 # Local v5 checkpoint
 
+package01 closed raw PASS, session64312 closed:15.0800238 wall,
+7.640625 Job CPU +3.109375 wrapper=10.75 known CPU,21360640 B peak.
+Actual four-file integration/new identity awaits independent outcome adoption;
+no native operation. Practical owns fresh select_std.py/PUBLIC-PLAN source only,
+binding this actual package and exact restored bundle, same proposed allowances.
+Root read USER-PAYOFFe6fbb647: a checked rich parent should enable investigator-
+chosen finite-map abstraction/law via existing approved-project contribution;
+no new generator/protocol or automatic warm run selected by that source trace.
+
+Root fully read/adopts controls OUTCOME15e63644 in parse-reuse ADOPTION. Select
+file-only package01 once under PACKAGE-EXECUTION.md, selection436004dc:
+14 snapshots/183 external pins,180 wall/90 CPU/768 MiB/one process. No compiler
+or owner/native operation. Exact four-file delta/new controller identity required.
+Root read NEXT-INTAKE-DECISION7f95b479: conditional public init/intake only after
+actual package adoption; same proposed finite limits, no wider parser rewrite.
+
+controls01 closed PASS: all 11 groups; 13-to-8 full-path and 8-to-5 admission
+counts, unchanged projections and failure paths. Explicit doubles, no native
+or mathematical acceptance. Actual RESULT221b7c4f; 5.2065776 wall,
+4.40625 Job CPU + .265625 wrapper = 4.671875 known CPU; 26525696 B peak.
+Independent actual audit is pending before package selection. No runtime remains.
+
+Root read complete parse-reuse sources/design/tests/selector and independent
+REVIEW78893829; AST-only checks pass. Select controls01 once under
+ordinary_parse_reuse/EXECUTION.md, selection5e9e5215: 7 snapshots/15 external pins,
+60 wall/45 CPU/512 MiB/one process. No native/state/network work. Outcome pending;
+used sources freeze. File-only assembly source review10876ce5 is root-read but
+launch remains conditional on adopted controls. Parallel source decisions assess
+remaining real intake cost and practical user payoff. No shared NOW/WORK edits.
+
 Root read/adopts full RECONSTRUCT-OUTCOME8a5b0e48 in ordinary_std_intake/ADOPTION.md.
 All2651exact preimages/708old partials independently pass,2653files/45382802bytes.
 No runtime remains. Bundle restoration closes only file preparation. Public
