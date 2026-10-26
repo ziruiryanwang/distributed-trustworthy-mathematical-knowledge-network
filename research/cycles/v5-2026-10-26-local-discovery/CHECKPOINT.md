@@ -1,5 +1,45 @@
 # Local v5 checkpoint
 
+Current: investigator controls01 independently passes OUTCOME22b5a955, read and
+adopted completely by root. ADOPTION identifies the exact 4,236,874-byte archive,
+170-file extraction and authoritative current root README. Six groups/nine inert
+selector cases passed with 2.03125 known CPU seconds and clean closure. All used
+source/evidence freeze; no rerun/rebuild is needed. Root owns a coherent local Git
+checkpoint. The next source-only growth decision is still assigned to
+received_vocabulary; no further experiment or public release is selected.
+
+Root read/adopts the complete exact-extension OUTCOMEed2376e3 and ADOPTION:
+the 26-unit delta over the ten-unit parent passed with nonvacuous preservation,
+21.78125 known CPU seconds and clean closure. No repeated module work selected.
+Root read/adopts investigator source REVIEW293eca33 and TEST-REVIEW99201383,
+and selects the one file-only controls01 operation under EXECUTION.md, exact
+selectionbfce64a3. Actual outcome remains pending. received_vocabulary continues
+the source/theory-only post-handoff growth decision; no new growth runtime or
+external sharing is selected. Full v5 remains active, local and unpublished.
+
+Exact-module-extension01 terminal raw PASS/zero/closed; independent actual audit
+pending in ordinary_exact_extension/OUTCOME.md. Fullwall77.553928, rootJobCPU
+20.765625+runner1.015625=21.78125 knownCPU, peak1498984448bytes; no runtime lives.
+Used source/inputs/evidence freeze. No retry or additional module work selected.
+Current source distribution/review work proceeds; no packaging execution yet.
+
+Exact-module-extension01 SELECTED once after root reads complete REVIEWb26f801a:
+selection322dd916,4sources/209external pins, one existing-owner extension under
+original180wall/100CPU/2048MiB outer allocation; no outcome yet. Code/source pins
+freeze on this use. In parallel, investigator169-source distribution is written:
+investigator_release_audit independently reviews utility/selector/guides,
+received_vocabulary reviews its file-only test harness, root prepares selections.
+No distribution runtime or additional mathematical operation selected.
+
+Root selects ordinary_investigator_bundle/CONTRACT.md SOURCE ONLY after the
+received-concept command commit68f3ee9 and independent extension challenge6005f7d9.
+One deliverable: coherent current investigator source handoff, not another
+standalone module milestone. received_vocabulary owns one unchanged-API extension
+harness/PLAN; next_workflow_payoff owns union utility/current guide; root owns
+explicit compatibility selection/integration/tests/Git; update_trust_lifecycle
+independently reviews. No runtime, repeated native build, new theory campaign,
+external sharing or completion claim. Current 154 payloads and used bytes freeze.
+
 Current: root read/adopts the complete anchor-query OUTCOMEa0d7ff1c and
 ordinary_anchor_query/ADOPTION.md. Seven focused groups and actual public02 pass;
 actual AST/bindings/query/specs are exact prior bytes. Public fullwall4.109535,

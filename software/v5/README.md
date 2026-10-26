@@ -2,8 +2,8 @@
 
 ## Current ordinary source route
 
-Start with [the self-contained source handoff](ordinary_workflow_bundle/ADOPTION.md)
-and its extracted root START-HERE guide, which specifies the
+Start with [the current investigator source handoff](ordinary_investigator_bundle/ADOPTION.md)
+and its extracted root README, which specifies the
 supported Windows Python/Lean runtimes and supersedes the included older build
 recipes. Do not select a package merely because its directory name looks newer.
 
@@ -13,27 +13,29 @@ existing no-project authoring path. The tested
 [selected-export companion](ordinary_selected_export/ADOPTION.md) adds offline
 full-closure portability; its [direct destination intake recipe](ordinary_selected_export/INTAKE.md)
 uses unchanged independent checking. These companions are now included in the
-verified workflow source archive; the older base archive remains unchanged.
+verified investigator source archive; the older archives remain unchanged.
 Optional correlation search is not the default.
 
 The separately [tested proof-free query companion](ordinary_basis_query/ADOPTION.md)
 lets a new investigator prepare exact-type search from ordinary Lean syntax
 without a proof or owner initialization. It supports the pinned fixed-basis
-vocabulary, explicitly refuses unknown names, and is not in the frozen archive.
+vocabulary and explicitly refuses unknown names. It is included in the current
+investigator archive, outside the built package.
 
 The [exact installed-vocabulary successor](ordinary_exact_module/ADOPTION.md)
 now exports a received concept whose definitions and complete inductive groups
 overlap the local Lean installation, while rejecting altered or partial matches.
-It is a separately selected development package, not a silent update to the
-source archive; its adoption note records compatibility and query-integration
-boundaries.
+Its exact overlay is included in the current investigator source archive;
+its adoption note records compatibility and query-integration boundaries.
 
 The [registered-concept question command](ordinary_anchor_query/ADOPTION.md)
 now prepares search hints from that received vocabulary using a validated local
 module anchor. It replaces custom import glue; it does not prove the question
 or perform peer search. Its [continuation guide](ordinary_exact_module/AFTER-QUERY.md)
 connects optional search to existing contribution and publication commands.
-This separately tested companion is not yet in the frozen workflow archive.
+This tested companion is included in the current investigator archive. The
+[incremental module check](ordinary_exact_extension/ADOPTION.md) also confirms
+that a 26-unit delta can reuse its ten-unit parent under the unchanged local cap.
 
 The [finite service companion](ordinary_service_plan/ADOPTION.md) lets an operator
 authorize several bounded serving leases once, without adding a perpetual daemon
