@@ -1,5 +1,14 @@
 # Current software continuation: handoff closure
 
+**2026-10-26 controlling user decision:** keep v5 local and unpublished for now.
+The private-trial question is answered; do not keep asking for a participant or
+treat external testing as a prerequisite for further local development. No
+participant contact, external sharing, upload, public deployment, infrastructure
+purchase or license choice is authorized. Independent-user/host evidence remains
+deferred and cannot be claimed from same-machine agents or tests. The full v5
+objective is unchanged; the goal service is active again. The earlier blocked
+audit below records history, not the current direction.
+
 Goal remains the full deployable v5, active and unfinished. This software chat
 does not replace it with the separately owned paper or an operator guide.
 Canonical root only; shared NOW/WORK/CURRENT and paper files remain untouched.
@@ -246,3 +255,21 @@ the owner must specify a permitted private-trial scope and a willing independent
 participant/environment, or give a different concrete in-scope direction. Public
 license selection can remain separate from an explicitly permitted private trial.
 No contact, upload, purchase, infrastructure or license choice has been made.
+
+## Local-only continuation selected by the user
+
+The explicit 2026-10-26 answer is "Keep it local and unpublished for now."
+Root records this as the controlling operational boundary, not permission to
+publish under an invented license or evidence that the release gates are met.
+The runtime/source candidate and used evidence stay unchanged. The goal service
+was read back as ACTIVE; no replacement goal or narrower completion criterion
+was created.
+
+Further local work must address the central discovery/reuse/growth requirements
+with a concrete workflow, architectural uncertainty and decision-changing
+evidence. An external participant is not required to investigate such questions.
+Conversely, the absence of an external trial does not justify another package,
+generic audit, passed-test rerun or expensive certificate campaign. Reuse the
+completed compatibility/cost arguments and the separately owned growth findings;
+keep that other chat's files and investigation unduplicated. This preference
+update itself selects no experiment, new subsystem or repeated source review.
