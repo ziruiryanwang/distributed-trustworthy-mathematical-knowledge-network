@@ -176,3 +176,47 @@ participant/project and public licensing remain unresolved. Root does not infer
 them from silence or from renewed support for the goal. No further packaging,
 native build, protocol or growth experiment is automatically selected. The
 separately owned growth/paper work and shared NOW/WORK/CURRENT files are untouched.
+
+## Final local revalidation before independent use
+
+The preceding goal turn made concrete progress by committing the fresh-install
+repair as `bdbee38`; it was not a status-only turn. The private-sharing/participant
+question remains unanswered. This continuation does not infer permission from
+the automatic goal reminder. Root selected two disjoint source-only checks of
+central conditions, not another package, native build or passing-test rerun.
+
+Root read/adopts the complete corrected source findings:
+
+- `CROSS-BUILD-SEMANTIC-BOUNDARY.md`, SHA-256
+  `cfbd2b950a1b08f13a2c5a6e0abcdb9bf173d9b0a36a53fbf6a5f66b9db7f3c9`:
+  portable mathematical identities and discovery namespaces do not require a
+  peer's binary/PROFILE identity. Under the same semantic/feature contracts,
+  conforming local implementations and compatible warranted imports, each node
+  can independently check and re-export work. Local implementation bindings
+  protect its own snapshots; they are not a remote implementation equality rule.
+- `REUSE-COST-BOUNDARY.md`, SHA-256
+  `5104c1ebb6e25bc931ce5eeeb5dbf1b38b0e9027cebc1598302d13c71100629f`:
+  the actual public path still supports explicit smaller eligible parents,
+  bounded batches and strict missing-frontier refusal. Existing warrants avoid
+  old kernel-proof replay, not all context loading, artifact integrity checking
+  or catalog-history bookkeeping. The latter remains charged work, outside the
+  earlier restoration-only bound. No total-cost independence claim is adopted.
+
+Root caught predecessor-path citations in both drafts before adoption. Their
+authors traced the installed source-map selections and corrected the notes:
+authoring uses `ordinary_project_return/ordinary_contribution.py`; acquisition
+uses `ordinary_authoring_offers/ordinary_acquisition.py`. Source-manifest
+inclusion alone was not treated as proof that a file is the runtime selection.
+Root independently checked portable hash inputs, candidate projection, selected
+authoring bindings and the catalog reservation/open operations. Neither correction
+changed the conditional conclusions. No product or frozen evidence was changed.
+
+No additional local obstruction or justified mechanism emerged. These arguments
+do not provide independent-host execution, cheap arbitrary cold acceptance,
+useful global recall or comparative mathematical-growth evidence. Do not reopen
+the two source questions, invent another audit campaign or repeat the packaging
+work in lieu of an actual independent-use decision. The remaining requested
+external trial requires an owner-approved sharing scope and a real participant;
+licensing and public deployment remain separate unresolved choices. All assigned
+source work is closed and no experiment is live. Full v5 remains active and
+unfinished; this is not a completion or a user-requested pause.
