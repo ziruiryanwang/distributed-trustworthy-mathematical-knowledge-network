@@ -3,7 +3,14 @@
 Full deployable v5 remains active; everything stays local and unpublished.
 Canonical root and Git ownership rules are unchanged. The single reviewed
 archive-install01 execution and its independent outcome audit are complete.
-No experiment is running. Shared paper work, NOW/WORK/CURRENT and unrelated dirty
+The single reviewed service-plan controls01 execution completed raw PASS, five
+groups, two genuine one-second leases, and the existing-output refusal. Outer
+wall 7.3818592 seconds; inclusive Job CPU 3.984375 plus runner CPU 0.5625 =
+4.546875 known CPU seconds; peak Job commitment 98,447,360 bytes. Job closed with
+zero active processes and no cleanup errors. Root read/adopts the complete
+independent saved-output audit in `ordinary_service_plan/ADOPTION.md` (audit
+SHA-256 `55129940e06b1617973568b64ff2f99e753dbda00e31d6165f2db2598f6b41dc`).
+No experiment remains live. Shared paper work, NOW/WORK/CURRENT and unrelated dirty
 files have not been edited.
 
 ## Current next gate
@@ -40,8 +47,18 @@ leases through the unchanged public launcher, fails closed on uncertain reports
 and preserves aggregate allowances. It adds no publication queue, arbitrary
 command executor, mathematical acceptance rule or lock redesign. Source owner:
 service_lifecycle; focused test/plan owner: service_plan_tests; independent reviewer:
-update_trust_lifecycle. No runtime is selected yet. Root owns integration/Git and
+update_trust_lifecycle. Its source/test/selection review now passes; the exact
+controls01 allocation is selected separately in EXECUTION.md. Root owns integration/Git and
 will adopt only independently reviewed code and separately selected evidence.
+
+Root read/adopts the source-only COMPANION-DISTRIBUTION-DECISION.md and selects
+`software/v5/ordinary_workflow_bundle/CONTRACT.md`: one new self-contained source
+handoff preserving all 143 base payloads and exact companion code, with a compact
+distinct full-root verifier and coherent current workflow navigation. Source only;
+no pack, build, native or network run is selected. service_lifecycle owns the
+utility/new guide copies; service_plan_tests owns focused file-only tests/plan;
+independent review follows the service outcome audit. No full research/evidence
+tree or optional correlation mechanism belongs in this compact distribution.
 
 ## Completed local work
 

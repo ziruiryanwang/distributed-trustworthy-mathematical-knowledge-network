@@ -15,6 +15,11 @@ full-closure portability; its [direct destination intake recipe](ordinary_select
 uses unchanged independent checking. These companions are outside the frozen
 source archive. Optional correlation search is not the default.
 
+The [finite service companion](ordinary_service_plan/ADOPTION.md) lets an operator
+authorize several bounded serving leases once, without adding a perpetual daemon
+or changing mathematical acceptance. Serve only disclosure-approved custody and
+exclude writers throughout the plan, including between leases.
+
 Read [updating and recovering checked knowledge](UPDATE-AND-RECOVERY.md) before
 changing the checking implementation or reusing state after suspected compromise.
 It distinguishes package changes from changes to mathematical trust; it does not
