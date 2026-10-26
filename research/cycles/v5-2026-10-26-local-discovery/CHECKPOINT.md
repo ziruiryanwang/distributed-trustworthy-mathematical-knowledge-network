@@ -1,5 +1,31 @@
 # Local v5 checkpoint
 
+Producer-binding continuation: root adopts independent OUTCOME39175f42,
+SAVED-WRITER-OUTCOME4d926fb5 and PACKAGE-OUTCOMEc8508caa. All31controls pass;
+one saved Std binder finishes2651units/44,912,843B in3batches,28.125binderCPU.
+All708original partials agree; original public production remains FAILED.
+New154file development package changes only binder+PROFILEdc0c19b7,152unchanged.
+One direct public manual query returned zero; practical route audits saved output.
+No runtime remains. Next: make accepted patch available through one supported
+operator/source selection, not another native/library campaign. Relation compares
+minimal current-map update with a flat release selection to avoid multiplying
+packer chains. Root owns integration/selection/Git. Fullv5 active/local/unpublished.
+
+Continuation after context turnover: canonical guard passed; existing agents
+retained, no completed campaign restarted. Root read/adopts the complete
+construction-local binding PROOF and independent REVIEW7a7b6c31 (source only).
+The 265-unit signature frontier confirms the no-project convenience cap is not
+the rich-library route; ordinary approved-project authoring above an independently
+grounded parent remains the intended route. Approval alone is not a warrant.
+
+Current disjoint work: challenge reviews the 31-group small binding controls and
+their exact selection; relation prepares one saved-Std-writer successor-only
+binding diagnostic (manifest/census, no native rerun or 2651-file bundle); practical
+route prepares a fresh one-payload package assembler. Root owns selection,
+execution, integration and Git. All three remain source work until separately
+selected. No bootstrap/intake, cap increase, certificate, source publication or
+external pilot is selected. Full v5 remains active, local and unpublished.
+
 Std-export01 is CLOSED/FAILED: root adopts complete OUTCOME345896ce. Native
 extracted2651units/38,154,768B writer,18.421875CPU; public producer exhausted its
 cooperative budget in WRITE_EVIDENCE,708partialunits/no manifest.117.411wall/
