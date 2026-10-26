@@ -6,6 +6,13 @@
 All eight selected data-control groups passed once, including the actual bounded
 public command. Source and evidence are frozen. No runtime remains from this run.
 
+The additional [direct intake recipe](INTAKE.md), SHA-256
+`b0d8e19e74fef6167afc7bf432535ea10caf21f8d134b77a4e90229d7ce8bb5e`,
+now supplies the exact destination command omitted from the frozen guides. Root
+read/adopts [its independent source review](INTAKE-REVIEW.md), SHA-256
+`aed5dcad9a7a1a2fcc17c21969f82c5e8fd863b8110574853fdd55c1056de387`.
+This is a reviewed recipe, not an additional executed intake or changed API.
+
 ## What is now available
 
 [The public guide](README.md) explains how to copy selected exact results and

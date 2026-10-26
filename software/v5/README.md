@@ -1,5 +1,27 @@
 # Mathematical commons v5 — development source
 
+## Current ordinary source route
+
+Start with [the selected source handoff](ordinary_release_bundle/ADOPTION.md)
+and [its build/use guide](ordinary_release_bundle/README.md), which specifies the
+supported Windows Python/Lean runtimes and supersedes the included older build
+recipes. Do not select a package merely because its directory name looks newer.
+
+For actual investigator work, the separate
+[receive-to-contribute guide](ordinary_reuse_workflow/README.md) explains the
+existing no-project authoring path. The tested
+[selected-export companion](ordinary_selected_export/ADOPTION.md) adds offline
+full-closure portability; its [direct destination intake recipe](ordinary_selected_export/INTAKE.md)
+uses unchanged independent checking. These companions are outside the frozen
+source archive. Optional correlation search is not the default.
+
+[The local checkpoint](../../research/cycles/v5-2026-10-26-local-discovery/CHECKPOINT.md)
+identifies the current integration gate and preserved evidence. This is local,
+unpublished development, not full v5 completion, general growth acceleration or
+worldwide deployment. Licensing remains undecided.
+
+## Earlier milestones and specialized development lanes
+
 This is the single evolving v5 source tree, not a completed release. The frozen
 v4 distribution is unchanged. Current architecture, ownership and open gates
 are in `../../research/cycles/v5-2026-10-07/PLAN.md` and `DECISIONS.md`.
