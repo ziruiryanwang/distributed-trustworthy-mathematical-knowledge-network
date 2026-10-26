@@ -26,13 +26,22 @@ are adopted. Root/software README navigation now points to the actual current
 route rather than historical v4. This changes no frozen exporter, archive or API,
 and establishes no additional executed intake.
 
-Two disjoint source-only decisions are now selected: the practical service
-lifecycle while local agents investigate/publish (service_lifecycle), and the
-trust/state boundary when an operator updates a checker (update_trust_lifecycle).
-Their only writable checkpoints are SERVICE-LIFECYCLE-DECISION.md and
-UPDATE-TRUST-DECISION.md in this cycle. They must prefer existing explicit routes,
-identify a concrete deployability obstruction before recommending new code, and
-select no runtime. Root owns integration and any subsequent implementation choice.
+Root adopts the source-only SERVICE-LIFECYCLE-DECISION.md and
+UPDATE-TRUST-DECISION.md. The latter confirms the existing implementation-bound
+catalog refusal and selective fresh-owner recheck route; the public policy is
+`software/v5/UPDATE-AND-RECOVERY.md`. No automatic migrator or pretend checker
+upgrade experiment is selected. Package-only changes are not automatically
+checker changes; suspected compromise can invalidate protection premises even
+without a new checker identity.
+
+Root selects the finite unattended service companion in
+`software/v5/ordinary_service_plan/CONTRACT.md`. It preauthorizes several bounded
+leases through the unchanged public launcher, fails closed on uncertain reports
+and preserves aggregate allowances. It adds no publication queue, arbitrary
+command executor, mathematical acceptance rule or lock redesign. Source owner:
+service_lifecycle; focused test/plan owner: service_plan_tests; independent reviewer:
+update_trust_lifecycle. No runtime is selected yet. Root owns integration/Git and
+will adopt only independently reviewed code and separately selected evidence.
 
 ## Completed local work
 

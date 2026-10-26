@@ -15,6 +15,11 @@ full-closure portability; its [direct destination intake recipe](ordinary_select
 uses unchanged independent checking. These companions are outside the frozen
 source archive. Optional correlation search is not the default.
 
+Read [updating and recovering checked knowledge](UPDATE-AND-RECOVERY.md) before
+changing the checking implementation or reusing state after suspected compromise.
+It distinguishes package changes from changes to mathematical trust; it does not
+claim automatic runtime migration.
+
 [The local checkpoint](../../research/cycles/v5-2026-10-26-local-discovery/CHECKPOINT.md)
 identifies the current integration gate and preserved evidence. This is local,
 unpublished development, not full v5 completion, general growth acceleration or
