@@ -1,5 +1,11 @@
 # Local v5 checkpoint
 
+Consolidation committed c9a7804. Root reads branch trace4dce7d3d and union
+principle64593e30; AFTER-CONSOLIDATION records safe existing composition and
+real but not yet high-payoff cross-branch recheck optimization. No union code
+selected. Two disjoint source decisions now compare real-library interoperability
+and simplest prebuilt deployment path. No runtime or external action selected.
+
 Root read/adopts complete commons OUTCOMEc9dbccf8 and ADOPTION. One archive
 079383e4/manifestf5134135,187files/47dirs,6groups/15refusals,37links/27mirror
 associations pass;7.7555915wall/3.25knownCPU, clean closure. Root/software README
