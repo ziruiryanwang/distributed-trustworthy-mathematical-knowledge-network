@@ -3,12 +3,16 @@
 ## Current entry points
 
 **October 26 v5 development:** start with the
-[current self-contained commons source handoff](software/v5/ordinary_commons_bundle/ADOPTION.md).
-Its verified archive includes the build, cold-start authoring, discovery/reuse,
+[current prebuilt investigator and no-build guide](software/v5/ordinary_prebuilt_handoff/ADOPTION.md),
+plus its [unchanged companion source handoff](software/v5/ordinary_commons_bundle/ADOPTION.md).
+The prebuilt package avoids native compilation and six file-overlay stages;
+approved external Python/Lean runtimes are still required. The source route
+remains available for rebuilding and storage-only operation.
+The verified source archive includes the build, cold-start authoring, discovery/reuse,
 received-concept questions, incremental module reuse, offline export/intake,
 finite serving, storage-only mirroring, bounded multi-source receiving and recovery
-routes. Its extracted root README selects the
-supported build and overlay sequence. Follow the
+routes. Follow the external prebuilt guide for no-build setup, or the source
+extraction's root README for the supported rebuild sequence. Follow the
 [current local checkpoint](research/cycles/v5-2026-10-26-local-discovery/CHECKPOINT.md)
 for current integration evidence. V5 remains unfinished, local and unpublished;
 ordinary local Lean checking is the default, not mandatory certificate production.

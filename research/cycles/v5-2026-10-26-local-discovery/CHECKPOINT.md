@@ -1,5 +1,21 @@
 # Local v5 checkpoint
 
+Root adopts complete prebuilt OUTCOME4a99b386 and ADOPTION: exact154file archive
+ee392301 (39,171,771B), sole relocation,6refusals and public inert query pass;
+8.5666452wall/5.109375knownCPU,66,592,768B peak, clean closure/no runtime.
+Root/software navigation now offers no-build setup; source archive unchanged.
+This slice is complete; no repack or repeat. Root reads/adopts independent value
+decisiona264b43d and selects ordinary_std_export/CONTRACT.md input/plan work ONLY:
+one installed HashMap method's practical export closure, not a new theorem or
+growth study. Relation owns PLAN, challenge review, root inert inputs/selection/
+later launch/Git. No Std execution yet. Full v5 remains active/local/unpublished.
+
+Root reads full prebuilt REVIEW0abc9a0d and selects prebuilt-handoff01 once,
+selection562393d6,8source/176external pins; exact scope in EXECUTION.md.
+One archive/relocation plus unchanged state-free public query; no native/state/
+network. Independent saved outcome pending. Fresh release_value_audit separately
+challenges next core payoff; no new mathematical experiment selected yet.
+
 Root read both full installation8db6c5ad and library8b6d52c8 decisions. Select
 ordinary_prebuilt_handoff/CONTRACT.md source preparation: exact existing154-file
 package archive, not another installer/native build/source repack. Path owns

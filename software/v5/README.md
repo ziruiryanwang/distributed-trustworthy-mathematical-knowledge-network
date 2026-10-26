@@ -2,6 +2,12 @@
 
 ## Current ordinary source route
 
+For the simplest investigator setup, use the
+[adopted prebuilt package and no-build guide](ordinary_prebuilt_handoff/ADOPTION.md)
+with the unchanged source companions below. It preserves the existing package
+bytes and avoids compilation/six overlays, while keeping external runtime approval
+and the same mathematical trust boundaries. No automatic installer is required.
+
 Start with [the current commons source handoff](ordinary_commons_bundle/ADOPTION.md)
 and its extracted root README, which specifies the
 supported Windows Python/Lean runtimes and supersedes the included older build
