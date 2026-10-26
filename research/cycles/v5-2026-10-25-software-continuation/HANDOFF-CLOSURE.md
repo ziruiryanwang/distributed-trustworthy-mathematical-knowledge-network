@@ -102,3 +102,77 @@ decision, not automatic repackaging, more synthetic tests or a new mechanism.
 No external trial, license choice, contact or provisioning is inferred without
 the owner's direction and an actual participant. Other v5 obligations remain
 open; this concrete local service repair neither finishes nor pauses the goal.
+
+## Continuation: concrete fresh-install obstruction
+
+The previous turn made authoritative progress (repair commit `872a5af`); the
+external trial question remains unanswered, not authorization. Rechecking the
+local source-delivery boundary found a distinct safe task before that trial:
+the last transport assembler pins one historical generated profile/installation/
+receipt. Even identical native bytes cannot make a fresh receipt's path/timing
+identical to the old selected receipt. A fresh supported source build therefore
+cannot reliably complete the repaired source recipe.
+
+Root read/adopts TRANSPORT-FRESH-BUILD-BOUNDARY.md and independent
+FRESH-BUILD-CLOSURE-REVIEW.md. The preceding build/fair/contact/sparse chain and
+final selector already accept fresh generated identities; do not rebuild them.
+The new source-only selection is `software/v5/ordinary_transport_release/CONTRACT.md`:
+replace only historical generated-identity restrictions with caller-selected
+exact commitments plus fixed source/runtime/role/support checks. A compact
+`ordinary_release_bundle` will expose that complete repaired recipe. Provider,
+mathematical code and all used source/evidence remain frozen. No native compile,
+owner-state operation, socket or external sharing is selected. Runtime selection
+awaits independent complete new-source/test review; no new result is claimed.
+
+## Fresh-install repair and corrected source handoff closed
+
+Root read/adopts the full independent source review
+`software/v5/ordinary_transport_release/REVIEW.md` (SHA-256
+`586d5062499498a5a27385e3e68a45c41b3997e36cf051dca79f66525dd59220`)
+and saved-outcome review `OUTCOME.md` (SHA-256
+`26897d3c10e9269f31ed9c5b6d4bebc8bb5c8d16bd4955af7ad812aa80b7d6da`).
+Seven selected groups and ten exact refusals passed in the one file-only
+operation. Synthetic changed native identities were parsed metadata only, not
+compiled artifacts or mathematical acceptance evidence. No native build,
+mathematical admission, network service or old campaign was run.
+
+The corrected archive is
+`experiments/v5-local-checks/transport-release-handoff01/suite/packed/source.zip`:
+143 payloads, 144 ZIP entries, 3,789,448 bytes, SHA-256
+`897a6eb57056b911b200551413c65ce7788ba3d448ff8b6b8c143d883180ebd0`.
+Manifest SHA-256 is
+`f1beab01d43e4b5fc6d7b9999ff2795598e3f2ee77c0dc85f1d99e82a15b31f1`.
+All 133 predecessor source inputs remain unchanged. The corrected route is
+bounded build -> fair -> contact -> sparse -> transport, followed by the
+bounded-transport offline selector. See
+`software/v5/ordinary_release_bundle/ADOPTION.md` for the actionable handoff.
+
+The actual relocated assembler produced the complete 154-file package under
+`experiments/v5-local-checks/transport-release-handoff01/suite/assembled/package`.
+Its runtime PROFILE remains
+`b047d4492da79e363fcd154144a6d9088a93100fde7aac3c385f3a296a41dad7`
+and installation remains
+`32236aa3d7bcbf4369a56a4988c75da80593bebd4b756694f079664036e42ae2`.
+All executable/runtime/checker bytes equal the earlier repaired package; only
+the transport recipe sidecar differs. The final selector produced inert inputs,
+not a running service. All 143 selected source/snapshot and 159 runtime/input
+pins remained exact. Used source, test, selection and evidence bytes are frozen.
+
+This operation cost 15.883159699849784 wall seconds, 7.59375 inclusive Job CPU
+seconds and 0.484375 runner CPU seconds: 8.078125 measured CPU seconds. Nested
+child/harness figures are not added again. Peak Job private commitment was
+151,863,296 bytes. All three utilities exited zero and were reaped; the outer
+Job closed with zero active processes, no termination and no cleanup errors.
+No experiment remains live. These are engineering costs, not useful-growth data.
+
+The known helper limitation remains explicit: foreign producer reports must not
+be rewritten to match a local PROFILE. Independently built producers can use the
+existing explicit bundle/manifest intake and receiver-local operations. This
+does not justify another helper or test campaign without a concrete user need.
+
+The unchanged full-v5 goal is not completed by this handoff. Next high-value
+evidence is still actual independent operation; private-sharing authority,
+participant/project and public licensing remain unresolved. Root does not infer
+them from silence or from renewed support for the goal. No further packaging,
+native build, protocol or growth experiment is automatically selected. The
+separately owned growth/paper work and shared NOW/WORK/CURRENT files are untouched.
