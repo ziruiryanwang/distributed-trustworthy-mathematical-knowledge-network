@@ -1,5 +1,63 @@
 # Local v5 checkpoint
 
+Root read/adopts full RECONSTRUCT-OUTCOME8a5b0e48 in ordinary_std_intake/ADOPTION.md.
+All2651exact preimages/708old partials independently pass,2653files/45382802bytes.
+No runtime remains. Bundle restoration closes only file preparation. Public
+init/intake remain held while the two-file private parse-reuse successor proceeds;
+no old operation/source changes and no automatic runtime follow-up.
+
+Exact restoration std-reconstruct01 returned exit0/clean closure, session59936
+closed:89.4923735wall,42.609375JobCPU+.84375wrapper=43.453125knownCPU,
+599363584Bpeak. Independent actual audit pending; no live runtime. Root read full
+INTAKE-COST-SCREENc328434e and selects ordinary_parse_reuse/CONTRACT.md source
+and focused test preparation: private same-call parses reused for three admission
+projections and two baseline planning projections; public/custody/catalog/native
+boundaries stay strict. Expected13to8full-path parse calls, not a timing promise.
+Practical owns two fresh successor files/design, rich owns focusedtests/plan,
+challenge independent review after restoration audit; root integration/Git.
+No nativeinit/intake, installation rewrite, cap change or parser rewrite selected.
+
+Root read complete reconstruction source/plan/helper and REVIEW03e34edf; AST
+parsing passes. Select std-reconstruct01 once under selectiona8569b15,
+5snapshots/11externalpins, same120wall/90CPU/1792MiB/oneprocess outer. Used source
+freezes. Outcome pending; no mathematical or owner operation selected. Separately,
+rich_intake_acceptance traced13portable parses per unit,8inside each admission,
+~584MB repeated parsing for this44.9MB closure. Init/intake are held on this
+decision-changing cost finding. Source-only bounded operation-local exact-byte
+reuse is being assessed before spending a native allocation; no parser rewrite,
+global cache or weakened trust boundary is selected.
+
+Root resumed from the preserved checkpoint; canonical guard passes and the full
+v5 goal remains active, local and unpublished. The materialization launch below
+has CLOSED/FAILED. Root read/adopts MATERIALIZE-OUTCOME7894ef85 and the complete
+causal screen92d95ba0: std-materialize01 exhausted cumulative process CPU while
+phase BIND_ONCE was active, before any unit writes. Known CPU71.328125seconds,
+79.9715823wall,592408576Bpeak; clean closure and zero live processes. All pinned
+inputs and708partial files remain unchanged. Internal binder timing/cause is
+unknown; no RAM, scheduler or code-regression diagnosis is established.
+
+Root selects SOURCE ONLY exact-manifest restoration under ordinary_std_intake:
+practical_library_route owns reconstruct.py/select_reconstruct.py/RECONSTRUCT-PLAN;
+current_acceptance_challenge owns independent principle/source review. Standard
+JSON on the pinned writer plus unchanged reference inspection may reconstruct
+the already selected2651portable preimages; each exact saved length, rawSHA and
+domain UnitID must match before writing. This changes neither general producer
+validation nor strict public acceptance. Failed01 and used bytes stay frozen.
+Same budget maxima as failed materializer; no rerun/cap escalation/native call
+selected. Fresh std-reconstruct01 requires separate reviewed execution selection.
+The unused public selector may receive only the new prerequisite bindings, then
+independent delta review. PUBLIC-REVIEWbc74cf64 passes source/plan but holds launch.
+All3batch grants are capacity-checked upfront; recorded reservations accumulate
+per attempted batch, not all180seconds before the first batch. Init/intake remain
+held until complete restored files and independently adopted actual evidence.
+
+Flatdistribution/directbuild committed6c26f0a; unrelated dirtywork preserved.
+Root read full MATERIALIZE-REVIEW20ed3bf3 and selects std-materialize01 once,
+selectionacfc0bb9,6snapshots/12externalpins;120wall/90CPU/1792MiB/oneprocess.
+Only missing inert2651unitfiles from retainedStdwriter, exactoldmanifest and708
+partialcorrespondence; no nativeexport/checking. Publicinit/intake sourceplan
+continues separately; no mathematical runtime selected. Usedmaterializer freezes.
+
 Root read/adopts full BUILD-OUTCOMEe91652aa: direct actual source-extraction build
 PASS,154files/117aux,151identical to prebuilt; two freshly linked exporters and
 PROFILE differ only. ActualPROFILE7c41db61,INSTALLATION32236aa3,implementationfafc8387.
