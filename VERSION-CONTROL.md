@@ -21,6 +21,15 @@ existing manifests/checkpoints still identify those dependencies. Promote any
 additional source or compact reproducibility evidence through a reviewed scope
 change; never force-add a whole excluded directory. Ignored does not mean disposable.
 
+The 2026-10-25 ordinary network handoff narrows this remaining gap: its exact
+136-payload source closure is selected for local Git recording, including the
+unchanged bounded builder, fair/contact/sparse overlays and matching offline kit.
+The source archive and relocated interface check are documented in
+`software/v5/ordinary_network_bundle/ADOPTION.md`. This is a source-completeness
+boundary, not a claim of a newly executed native build from a Git clone, external
+publication or complete v5. Supported runtimes and raw evidence remain separately
+retained and ignored; unrelated dirty research files are not swept into commits.
+
 The ordinary-owner lane now has a narrower reproducible source boundary:
 `software/v5/ordinary_package/build.py` builds its receiver and authoring support
 from versioned source and explicitly supplied supported runtimes, without reading

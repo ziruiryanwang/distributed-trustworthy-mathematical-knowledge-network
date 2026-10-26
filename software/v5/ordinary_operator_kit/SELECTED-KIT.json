@@ -1,0 +1,43 @@
+{
+  "schema": "DMKN_ORDINARY_SELECTED_OPERATOR_KIT_V1",
+  "status": "INERT_PREPARATION_CONTROLS_ADOPTED_NOT_FULL_V5",
+  "entry": "prepare_selected.py",
+  "files": {
+    "prepare.py": {
+      "bytes": 28501,
+      "sha256": "a843efb7a5b2518469260e5d5acedad530068147cf86851c867c75d9e22e855e"
+    },
+    "prepare_selected.py": {
+      "bytes": 5549,
+      "sha256": "9a2436210a869d815ec3c353250345424d540c6f1b4e765a20c4f8af86bcc6cc"
+    },
+    "compatibility.json": {
+      "bytes": 10697,
+      "sha256": "b5a812c90a8edc930a3a1b2859a7f77e5799772a516e1478bb04ae7add7abfe2"
+    },
+    "examples.json": {
+      "bytes": 5509,
+      "sha256": "c585172795401aca25a7fabaf9173dcd9ee38f1cdceeed129d13e2e9b6742b3a"
+    },
+    "START-HERE.md": {
+      "bytes": 16487,
+      "sha256": "3af7eea96011a18642eb5d3039b47284b2d6dbbcee6c912a821c8e72c654947c"
+    },
+    "SELECTED-PACKAGE.md": {
+      "bytes": 2749,
+      "sha256": "365a6d76a36e338cd6dfb7d71daddb8136e63743fb1e395afb169cc89167b63c"
+    }
+  },
+  "tested_profiles": [
+    "9c41b9a3fe36f7283af130ac6ef290e82c2a78c432980b2bea75ccdcf197a6d4",
+    "ea7a958db31ac070aa59be1c1e3c50d4b195cfd982c63658bd80de15ef3c6d01"
+  ],
+  "evidence": {
+    "selection_sha256": "428269fa80b0c4ba8cd6c4ee47f96aeb03eda918a411b965696fa465ee7b23b3",
+    "suite_result_sha256": "506107d65df212bbd96a9a18483cd2f3be83333fab01e5e0b5088956b44ab231",
+    "independent_outcome": "../ordinary_fair_search/INTEGRATION-OUTCOME.md",
+    "independent_outcome_sha256": "61b85f57461bbba75640a63a06e4810fc32a82b0225b7921c348e58fe608effa",
+    "cases": 12
+  },
+  "boundary": "Known auxiliary-interface selection; does not verify installed core/native/foundation, approve a package, authenticate reports, execute commands, or accept mathematics."
+}
