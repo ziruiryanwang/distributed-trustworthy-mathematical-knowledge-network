@@ -1,5 +1,24 @@
 # Local v5 checkpoint
 
+std-init01 closed raw PASS,session49207 closed, RESULTf15c1864. Actual public
+owner reports CHECKED basis456, root30349865…; newI/profile match. Outer
+52.7855955wall,40.09375JobCPU+3.328125wrapper=43.421875knownCPU,709234688Bpeak.
+Independent saved native-event audit underway before intake selection. No runtime
+remains; no timing extrapolation or rich-closure acceptance is inferred.
+
+Root fully read PUBLIC-REVIEW0ec0ad1d and selects std-init01 once under
+parse-reuse/PUBLIC-EXECUTION.md, selection9076770d:4snapshots/191pins;
+public90wall/60CPU/1280MiB/3processes,outer120/90/1536/4. Freshowner/newI;
+no old-state migration. Actual basis456/clean closure required. Challenge owns
+saved native-init audit; intake held for actual adoption and separate selection.
+
+Root fully read/adopts PACKAGE-OUTCOMEf8fb91d3 in PACKAGE-ADOPTION.md:154files,
+four exact changes,150unchanged; PROFILE37fcb520,INSTALLATIONa7403d6b,I89450cdf.
+No runtime lives. Reviewed parse sources/tests committed3509017, unrelated dirty
+work untouched. select_std.py b6dadecc / PUBLIC-PLAN3f81962e are root-read/AST-
+checked source only, under rich's independent delta review. New public native
+init/intake require separate exact root selections; old public selector unchanged.
+
 package01 closed raw PASS, session64312 closed:15.0800238 wall,
 7.640625 Job CPU +3.109375 wrapper=10.75 known CPU,21360640 B peak.
 Actual four-file integration/new identity awaits independent outcome adoption;
