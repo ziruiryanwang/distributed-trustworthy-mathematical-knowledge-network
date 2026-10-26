@@ -220,3 +220,29 @@ external trial requires an owner-approved sharing scope and a real participant;
 licensing and public deployment remain separate unresolved choices. All assigned
 source work is closed and no experiment is live. Full v5 remains active and
 unfinished; this is not a completion or a user-requested pause.
+
+## Repeated independent-use boundary: blocked audit
+
+The next goal continuation revalidated HEAD `b4fd57f`, the completed local
+assignments and unchanged license/sharing status. The previous turn completed
+two source audits and committed their corrected arguments; classify it as
+progress, not a verified runtime wait. No experiment or agent assignment remains
+live, and the new automatic reminder supplies neither a participant nor external
+sharing authority.
+
+The same independent-use blocker has now recurred in three consecutive goal
+turns: the `bdbee38` repair closure requested the private-sharing/participant
+decision; the `b4fd57f` source-revalidation closure found no additional justified
+local intervention and repeated that boundary; the current continuation confirms
+it remains unresolved. Completed source checks and existing explicit manual
+alternatives do not supply independent operation. Repeating them is not a way
+around the missing decision, and separately owned paper work is not a substitute
+or authority for this chat to start a duplicate growth study.
+
+Root therefore requests goal status BLOCKED on that unchanged boundary, not
+COMPLETE or PAUSED. The full v5 objective and unresolved scale, growth, assurance
+and deployment obligations remain intact. To unblock the selected next step,
+the owner must specify a permitted private-trial scope and a willing independent
+participant/environment, or give a different concrete in-scope direction. Public
+license selection can remain separate from an explicitly permitted private trial.
+No contact, upload, purchase, infrastructure or license choice has been made.
