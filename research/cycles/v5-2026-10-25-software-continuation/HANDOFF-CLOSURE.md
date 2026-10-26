@@ -73,3 +73,32 @@ obstruction to reliable service, not speculative feature expansion.
 No pause or full-goal completion is requested or recorded. A further implementation
 must address a concrete remaining obstruction or changed requirement, not a test
 count. Preserve all failures and unrelated working-tree changes.
+
+## Bounded transport repair closed
+
+Root has read/adopted the complete source review and three independent saved
+outcome reviews in `software/v5/ordinary_bounded_transport/ADOPTION.md`.
+Six direct loopback groups, the exact 154-file assembly and actual public
+wrapper-to-service integration pass their selected boundaries. The public
+unfinished-header client closes with the two-second lease instead of waiting
+for its 60-second HTTP timeout. Failed TLS attempts now consume the finite
+accepted-attempt allowance, and admission precedes TLS resource ownership.
+
+Selected assembled package is
+`experiments/v5-local-checks/bounded-transport-assembly01/assembled/package`,
+PROFILE `b047d4492da79e363fcd154144a6d9088a93100fde7aac3c385f3a296a41dad7`.
+Use the bounded-transport `prepare_selected.py`; the old wrapper deliberately
+refuses this interface. Native/checker, discovery and custody bytes are unchanged.
+The earlier source ZIP remains unchanged and does not contain this repair.
+
+Exactly three additional operations consumed 17.2957477 outer wall seconds,
+3.859375 inclusive Job CPU seconds and 1.125 runner CPU seconds. Nested CPU is
+not added again. All Jobs closed cleanly; no workload or incomplete agent
+assignment remains from this repair. Used sources/evidence are frozen; the
+private disposable TLS key remains only in ignored local test evidence.
+
+Next action is the previously identified independent-use/release-sharing
+decision, not automatic repackaging, more synthetic tests or a new mechanism.
+No external trial, license choice, contact or provisioning is inferred without
+the owner's direction and an actual participant. Other v5 obligations remain
+open; this concrete local service repair neither finishes nor pauses the goal.

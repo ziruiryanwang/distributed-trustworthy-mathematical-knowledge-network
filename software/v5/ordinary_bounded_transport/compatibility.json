@@ -1,0 +1,259 @@
+{
+  "schema": "DMKN_OPERATOR_KIT_KNOWN_NETWORK_INTERFACE_V1",
+  "sparse_noncompiled": {
+    "author_worker.py": {
+      "bytes": 4458,
+      "sha256": "19f9375fdf4b12cac05baeece6a750aa0d2d363112f51876d451f54c71ab2b02"
+    },
+    "authoring/py/anchor_store.py": {
+      "bytes": 41827,
+      "sha256": "a244eaf2764b6a51f4006447eebe3b69529a46bf376f999804a99f23661a929e"
+    },
+    "authoring/py/baseline_production.py": {
+      "bytes": 18969,
+      "sha256": "4e52450af203027212205f292e5965b94febe7e6b58f12a7b87e052444662926"
+    },
+    "authoring/py/baseline_worker.py": {
+      "bytes": 4831,
+      "sha256": "c44d14ec5ddcde8be0952eb7fcd4388b48eae79f44c79fdef187467ee9ca2917"
+    },
+    "authoring/py/completion_api.py": {
+      "bytes": 8528,
+      "sha256": "76767855da84ee64cfe6c70098b2671a5c3523643803b034b3de6b151bb74982"
+    },
+    "authoring/py/formal_query.py": {
+      "bytes": 7811,
+      "sha256": "7901236768784a399f9ae5c56b374d040bce56536b0a47a6ee85093440cabcee"
+    },
+    "authoring/py/library_completion.py": {
+      "bytes": 11124,
+      "sha256": "b587c74e156c81a392f394b263b27b13de427753c41009ecc3b99193f88b93d9"
+    },
+    "authoring/py/library_extraction.py": {
+      "bytes": 20275,
+      "sha256": "cd79d9050fbc80a94faef845ddf99fe7d1b8ba5e376048aa4a7698f06f396061"
+    },
+    "authoring/py/module_closure.py": {
+      "bytes": 13534,
+      "sha256": "f053e9726bdba24724e7e44baa03ffa0006f80b068440086a36023068512aa8c"
+    },
+    "authoring/py/module_export.py": {
+      "bytes": 23242,
+      "sha256": "85f9a2b5695dd90dd888bd3868f51a41904cb0b2d0d14335abe0b65d5182b65c"
+    },
+    "authoring/py/ordinary_contribution.py": {
+      "bytes": 31251,
+      "sha256": "09394f523417406aefcad0b47d06fa2d7782940bec3bb5094975f08b68f94ca8"
+    },
+    "authoring/py/ordinary_preview.py": {
+      "bytes": 10576,
+      "sha256": "0fd9bb516fbb53d9d4264271853904e35810286fc92d5670d15d7a9d3c26b0d6"
+    },
+    "authoring/py/owner_request.py": {
+      "bytes": 10932,
+      "sha256": "b6f39083728304c49f99cd8c223b5e44b3fa89a4c6a1092ec7eefdeddabfcd17"
+    },
+    "authoring/py/portable_candidate.py": {
+      "bytes": 10437,
+      "sha256": "29ae111a362472b09b2b1ff16b567b352be793d76c2cd1b5421e0aee29219331"
+    },
+    "authoring/py/portable_owner_request.py": {
+      "bytes": 8803,
+      "sha256": "cf4a899642128f99839010248b5817a0e00e79411cfae36c4be654f85a6fc242"
+    },
+    "authoring/py/portable_preview.py": {
+      "bytes": 7434,
+      "sha256": "b78dd54340b7b55e4359769d6784f7f225ba304457ce880ce2760717e865550d"
+    },
+    "authoring/py/retained_preparation.py": {
+      "bytes": 11011,
+      "sha256": "49e9550f9d1d231654ef120b7fac8194d9d6707690675c1f0baa96be6463ddb3"
+    },
+    "authoring/py/supervised_library_exchange.py": {
+      "bytes": 19827,
+      "sha256": "f6d0ee89d792f3741f74c790914dc8e21cf21dc7ca256bb03360dbc31907dea4"
+    },
+    "module_worker.py": {
+      "bytes": 14936,
+      "sha256": "7d577ce31e37a07a0ac4868d10da792e4476db4df6ab0492791f9d8434b6247b"
+    },
+    "module/OrdinaryModule.lean": {
+      "bytes": 40942,
+      "sha256": "901e4fc06351f6ad658eba9b5ea23ab644648646c8567fc035b057aa1883cfe8"
+    },
+    "owner.py": {
+      "bytes": 36818,
+      "sha256": "56ef042f652fcb88cae7d16ab74883016a469e2e82777c1a173f842f5ef8245a"
+    },
+    "peer_api.py": {
+      "bytes": 63437,
+      "sha256": "48ec02f0ecf76f44d7ab64e6e029bdfb4f7ccb3aba8513711dd6b07952c917e9"
+    },
+    "peer.py": {
+      "bytes": 16893,
+      "sha256": "968d13e4c926b1520cba00502f3e98a87ffda7bdfefa0ec3fcf362c2d3efb655"
+    },
+    "profile.py": {
+      "bytes": 13521,
+      "sha256": "1f40fb7a663c10d8f09132375ac8ab7899dea5830fff4979e0dda66b668003f8"
+    },
+    "query.py": {
+      "bytes": 21192,
+      "sha256": "449b5fea77f4c19cfbde47346ea255ae1277a1cf53e3030a6baa9de3f8659af6"
+    },
+    "reference/baseline_bundle.py": {
+      "bytes": 19197,
+      "sha256": "d5a9c13392e2de8b170cbaf4a9a27e4d1e5d99eb2714165848a640069fe42fce"
+    },
+    "reference/baseline_intake.py": {
+      "bytes": 16856,
+      "sha256": "b5a17aa580f8d9cfdeaaded7d93c2b12ad6e19e5018bf5e7c087cb56760069d8"
+    },
+    "run.py": {
+      "bytes": 18894,
+      "sha256": "47a2b63c73f1bd8346c5881c6d6a76abac86d33aa8e55bfc19bf3359ea924a39"
+    },
+    "support/custody/module_store.py": {
+      "bytes": 10535,
+      "sha256": "39e8eee8fd556c4ec66b76ac2e9abc73efdf039dc2b488ffa237040438a4da28"
+    },
+    "support/discovery/authenticated_index.py": {
+      "bytes": 17346,
+      "sha256": "77a12cda9dd4a303153b59d00998de8aa6bf08bb572af10136e21dfa9c96cc95"
+    },
+    "support/discovery/candidate_query.py": {
+      "bytes": 22703,
+      "sha256": "62de52fdd95df045632e865f90e5ec6ea076c8a1f68937d437597905e63a478b"
+    },
+    "support/discovery/discovery_query.py": {
+      "bytes": 10717,
+      "sha256": "f9ce09ba74e7656a2f53d813489a43434258208198bcb4784c0e4eb682ac24e2"
+    },
+    "support/discovery/discovery_store.py": {
+      "bytes": 20666,
+      "sha256": "26ccca0fda86a255c38f7c3cc39b6b1fd88deba2ae10c6f79bc562b872c9502c"
+    },
+    "support/discovery/fair_search.py": {
+      "bytes": 13134,
+      "sha256": "046f55c5498448c5f1d7696f3c81efd80663bbbacc8b363bfe75780d3e6d6d1b"
+    },
+    "support/discovery/formal_features.py": {
+      "bytes": 11876,
+      "sha256": "f1f53ee40ce32126085f7f776c47d9d0ab2c5b7c679d40f018f6bff70f6430e5"
+    },
+    "support/discovery/ordinary_export_adapter.py": {
+      "bytes": 9849,
+      "sha256": "3ddbed2156a393b08543a5da88c89b5c5b9c2b4f65689c46fbd7623cec38db0a"
+    },
+    "support/discovery/pair_access.py": {
+      "bytes": 8677,
+      "sha256": "7d3f2fc199736df54d76b421f3587ebc8a0167bd75363921385a1916b832116c"
+    },
+    "support/discovery/search_session.py": {
+      "bytes": 21331,
+      "sha256": "a9f49c50d239656327a2a373df184922ed746f546e25761fcdcbacec33299ec8"
+    },
+    "support/discovery/summary_wire.py": {
+      "bytes": 8574,
+      "sha256": "e487ffe6f7033505f91122c6acace9e8f2930b8856e7292e86b866a1479ac341"
+    },
+    "support/transport/authoring_offers.py": {
+      "bytes": 9780,
+      "sha256": "da525f75088b65950185465f17581c9f1ec32cbeaa462101881f41f5b1bbede1"
+    },
+    "support/transport/clients.py": {
+      "bytes": 9553,
+      "sha256": "640d1344824829865060712370444b5051720ce7b0a741e8efc0da8a066c6464"
+    },
+    "support/transport/contact_directory.py": {
+      "bytes": 10534,
+      "sha256": "a77486e716eb774337f2aedc04771c34395b24a910848600a2eae702f8ae3eb4"
+    },
+    "support/transport/fair_exchange.py": {
+      "bytes": 5986,
+      "sha256": "89de88de6ddbc8a2d0aafb96aac150a8f5e7b550303fc9504f970e477ce16b71"
+    },
+    "support/transport/http_provider.py": {
+      "bytes": 29560,
+      "sha256": "9288996fa1d4e737f500043cddfc1c7935d9b7830ac6638596b6f7f278f2add7"
+    },
+    "support/transport/ordinary_acquisition.py": {
+      "bytes": 27297,
+      "sha256": "d4599471b1285650876d53763c4a618a4dd5d7a953197954249052771a9df64f"
+    }
+  },
+  "native_roles": [
+    "authoring/bin/BaselineExporter.exe",
+    "authoring/bin/MissingImportExporter.exe",
+    "authoring/helpers/BootstrapSupport.ir",
+    "authoring/helpers/BootstrapSupport.ir.sig",
+    "authoring/helpers/BootstrapSupport.olean",
+    "authoring/helpers/BootstrapSupport.olean.private",
+    "authoring/helpers/BootstrapSupport.olean.server",
+    "authoring/helpers/CheckedExtension.ir",
+    "authoring/helpers/CheckedExtension.ir.sig",
+    "authoring/helpers/CheckedExtension.olean",
+    "authoring/helpers/CheckedExtension.olean.private",
+    "authoring/helpers/CheckedExtension.olean.server",
+    "authoring/helpers/OrdinaryExport.ir",
+    "authoring/helpers/OrdinaryExport.ir.sig",
+    "authoring/helpers/OrdinaryExport.olean",
+    "authoring/helpers/OrdinaryExport.olean.private",
+    "authoring/helpers/OrdinaryExport.olean.server",
+    "authoring/helpers/OriginalDecl.ir",
+    "authoring/helpers/OriginalDecl.ir.sig",
+    "authoring/helpers/OriginalDecl.olean",
+    "authoring/helpers/OriginalDecl.olean.private",
+    "authoring/helpers/OriginalDecl.olean.server",
+    "authoring/helpers/OriginalExpr.ir",
+    "authoring/helpers/OriginalExpr.ir.sig",
+    "authoring/helpers/OriginalExpr.olean",
+    "authoring/helpers/OriginalExpr.olean.private",
+    "authoring/helpers/OriginalExpr.olean.server",
+    "authoring/helpers/OwnerConstruction.ir",
+    "authoring/helpers/OwnerConstruction.ir.sig",
+    "authoring/helpers/OwnerConstruction.olean",
+    "authoring/helpers/OwnerConstruction.olean.private",
+    "authoring/helpers/OwnerConstruction.olean.server",
+    "authoring/helpers/OwnerQueryCommand.ir",
+    "authoring/helpers/OwnerQueryCommand.ir.sig",
+    "authoring/helpers/OwnerQueryCommand.olean",
+    "authoring/helpers/OwnerQueryCommand.olean.private",
+    "authoring/helpers/OwnerQueryCommand.olean.server",
+    "authoring/helpers/OwnerRebind.ir",
+    "authoring/helpers/OwnerRebind.ir.sig",
+    "authoring/helpers/OwnerRebind.olean",
+    "authoring/helpers/OwnerRebind.olean.private",
+    "authoring/helpers/OwnerRebind.olean.server",
+    "authoring/helpers/OwnerUseCommand.ir",
+    "authoring/helpers/OwnerUseCommand.ir.sig",
+    "authoring/helpers/OwnerUseCommand.olean",
+    "authoring/helpers/OwnerUseCommand.olean.private",
+    "authoring/helpers/OwnerUseCommand.olean.server",
+    "authoring/helpers/PortableConstructExportCommand.ir",
+    "authoring/helpers/PortableConstructExportCommand.ir.sig",
+    "authoring/helpers/PortableConstructExportCommand.olean",
+    "authoring/helpers/PortableConstructExportCommand.olean.private",
+    "authoring/helpers/PortableConstructExportCommand.olean.server",
+    "authoring/helpers/PortableContributionExportCommand.ir",
+    "authoring/helpers/PortableContributionExportCommand.ir.sig",
+    "authoring/helpers/PortableContributionExportCommand.olean",
+    "authoring/helpers/PortableContributionExportCommand.olean.private",
+    "authoring/helpers/PortableContributionExportCommand.olean.server",
+    "authoring/helpers/PortableOwnerConstructCommand.ir",
+    "authoring/helpers/PortableOwnerConstructCommand.ir.sig",
+    "authoring/helpers/PortableOwnerConstructCommand.olean",
+    "authoring/helpers/PortableOwnerConstructCommand.olean.private",
+    "authoring/helpers/PortableOwnerConstructCommand.olean.server",
+    "authoring/helpers/SuccessorExport.ir",
+    "authoring/helpers/SuccessorExport.ir.sig",
+    "authoring/helpers/SuccessorExport.olean",
+    "authoring/helpers/SuccessorExport.olean.private",
+    "authoring/helpers/SuccessorExport.olean.server",
+    "authoring/helpers/SuccessorExportCommand.ir",
+    "authoring/helpers/SuccessorExportCommand.ir.sig",
+    "authoring/helpers/SuccessorExportCommand.olean",
+    "authoring/helpers/SuccessorExportCommand.olean.private",
+    "authoring/helpers/SuccessorExportCommand.olean.server"
+  ]
+}
