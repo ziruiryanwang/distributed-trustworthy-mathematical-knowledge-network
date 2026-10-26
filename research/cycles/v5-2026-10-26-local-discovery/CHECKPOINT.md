@@ -1,5 +1,35 @@
 # Local v5 checkpoint
 
+Root read/adopts complete ordinary_multi_source OUTCOMEe03a7f6d and ADOPTION.
+All six focused groups passed with clean closure,0.9815673wall/0.453125knownCPU;
+no runtime remains. These are exact acquisition/accounting controls with explicit
+mathematical-authority doubles, not new mathematical acceptance. All used bytes
+freeze; no retry. Public integration remains source analysis, not assembled.
+Root adopts AFTER-MULTI-SOURCE-PRIORITYa5789ec5: integrate existing capability
+with strict preparation and explicit retained-report guidance, no new mechanism
+or repeated native/theory campaign. Full v5 remains active/local/unpublished.
+
+Root selects multi-source-controls01 once after complete independent REVIEW
+4141012a, test/source read and AST-only parse. Selection fffcb8e6 has nine source
+and 37 external pins, all verified, output fresh; exact allocation/authority in
+ordinary_multi_source/EXECUTION.md. No native or mathematical campaign selected.
+Actual outcome pending. Separate source-only agents assess package/state identity
+integration and the single highest-payoff next user obstruction; no new mechanism
+or assembly is selected. Shared NOW/WORK/paper changes remain untouched.
+
+Current source selection: root read/adopts NEXT-CORE-PAYOFF-AFTER-MIRROR46810b46
+and MULTI-SOURCE-CHALLENGE8032ee35 and selects ordinary_multi_source/CONTRACT.md.
+Three fresh pure payloads only; no kernel/catalog/wire or native build change.
+Root owns peer_api (optional explicit sources, bounded time division, same ledger
+and final admission); inert_rehost_relation owns transport/acquisition typing;
+inert_rehost_path owns focused tests/plan; current_acceptance_challenge reviews.
+Copies were initially hash-verified. Root's peer delta is syntax-parsed only;
+no runtime or overlay assembly is selected. Default remains the adopted current
+investigator software; no broad fallback on trust/local-state failures.
+Mirror completion is committed locally as 2973295; old failure remains preserved.
+Full v5 remains active, local and unpublished; shared paper/NOW/WORK edits remain
+untouched. Finish this concrete data-availability seam, not another concept demo.
+
 Root read/adopts the complete mirror02 OUTCOMEcdb282e6 and ADOPTION: all three
 remaining-path groups passed, all inner/outer processes closed, no runtime lives.
 The original failure stays preserved; total known CPU across both runs is
