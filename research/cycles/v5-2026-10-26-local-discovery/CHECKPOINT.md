@@ -1,5 +1,35 @@
 # Local v5 checkpoint
 
+Root read/adopts the completed received-query01 OUTCOME
+`c0e8eb1c996156f8a29b156a5bb160ec7ef06130e633c0d557889e83a76f3f3d`;
+see ordinary_received_query/ADOPTION.md. The actual proof-free received-concept
+query passes, with 4.109375 known CPU seconds and no live runtime. No search,
+law proof or growth advantage is claimed. Root now selects source implementation
+of ordinary_anchor_query/CONTRACT.md: a small user-facing companion over existing
+validated anchor APIs, not a new mathematical mechanism. received_vocabulary
+owns query.py/README; next_workflow_payoff owns tests/PLAN; update_trust_lifecycle
+owns independent REVIEW; root integration/Git/finite selections. No runtime,
+package/archive rebuild or shared NOW/WORK/paper change is selected.
+
+The execution-pending statements below are preserved historical checkpoints.
+
+Root now selects the one independently cleared received-query01 execution;
+exact sources, pins, finite envelope and authority are in
+ordinary_received_query/EXECUTION.md. REVIEW323c0aa0 was read completely.
+Actual outcome is pending. No concurrent owner work or additional run selected.
+
+Current next gate: exact-module checkpoint is committed locally as `b15c3ef`.
+Received-query test-only source/PLAN are ready; selection
+`experiments/received-query01-selection.json` at
+`2d12cd2d42f1e85395247bb4c48fbbf8c24139330ec6e2b26081610ee78c0c07`
+is awaiting final independent clearance, not running. Root read the completed
+WORKFLOW source trace: direct approved-checkout build/init/intake/module routes
+compose, but no shipped turnkey bounded received-question extractor exists.
+Ordinary approved Lean supervision remains valid; this is an operator-interface
+gap, not a new mathematical protocol. A proposed one-file anchor-query successor
+at the end of NEXT-USER-PAYOFF is undergoing one source-only challenge; no
+implementation is yet selected. Finish the actual composition gate first.
+
 Latest: root read/adopts exact-module ADOPTION and complete final independent
 OUTCOME `e20fe82e9537e04f6014d53cff8767d1b586a7bd43db726521c4049214a5eedd`.
 Both native mismatch fixtures refused exactly; all five allocations are closed,
