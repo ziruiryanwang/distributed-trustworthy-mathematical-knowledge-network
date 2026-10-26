@@ -1,0 +1,79 @@
+{
+  "context_root": "69b5fdc52e3eeef1f03a89144b2ef40b7de8916e6402666efa4ed958f34e7b1b",
+  "targets": [
+    {
+      "export_id": "9e30b48ea03e45255a87e6c72293f40f04bc964592833d97a10af530b52b3a3c",
+      "name": [
+        [
+          0,
+          {
+            "$bytes": [
+              67,
+              111,
+              109,
+              109,
+              111,
+              110,
+              115,
+              77,
+              101,
+              116,
+              104,
+              111,
+              100,
+              82,
+              101,
+              116,
+              117,
+              114,
+              110
+            ]
+          }
+        ],
+        [
+          0,
+          {
+            "$bytes": [
+              111,
+              98,
+              115,
+              101,
+              114,
+              118,
+              97,
+              116,
+              105,
+              111,
+              110,
+              95,
+              105,
+              110,
+              118,
+              97,
+              114,
+              105,
+              97,
+              110,
+              116
+            ]
+          }
+        ]
+      ],
+      "unit_id": "e22cb0beb73866585c1ed084c34c9ae82f9172b4c201a4dc9a787d319b7d9ba1"
+    }
+  ],
+  "index": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\ordinary-method-return-publication-unlaunched\\index",
+    "create": true,
+    "limits": {
+      "max_objects": 4096,
+      "max_postings": 262144,
+      "max_features": 65536,
+      "max_snapshots": 4097,
+      "max_logical_bytes": 67108864,
+      "max_db_pages": 32768
+    }
+  },
+  "max_unit_bytes": 8388608,
+  "max_total_bytes": 33554432
+}

@@ -43,6 +43,12 @@ query bindings to the existing one/two-symbol search, replacing the exact-type
 constraint. This independently reviewed text supplement adds no command and is
 not silently included in the frozen archive.
 
+The [received-method return check](ordinary_method_return/ADOPTION.md) now confirms
+that the no-project route can use the received mixed-vocabulary repair theorem
+in a new observation law and independently admit its full proof. The existing
+package and checked context were reused; no rebuild or certificate was needed.
+This is one checked reuse boundary, not a mathematical-growth speedup result.
+
 The [finite service companion](ordinary_service_plan/ADOPTION.md) lets an operator
 authorize several bounded serving leases once, without adding a perpetual daemon
 or changing mathematical acceptance. Serve only disclosure-approved custody and

@@ -1,5 +1,29 @@
 # Local v5 checkpoint
 
+Root read/adopts ordinary_method_return/OUTCOME6b662586 and ADOPTION: one
+received-method observation law passed independent new CHECKED admission,
+with exact imported-method proof evidence and clean authoring/admission/outer
+closure. Actual21groups/155125acquired bytes/900792request bytes; complete
+20.3337584wall and7.28125knownCPU. No setup/search/module/rebuild was repeated.
+Inert publication requestc16fbe56 is reviewed but unexecuted. The composition
+slice is closed; no runtime remains. Full v5 remains active, local/unpublished.
+Root owns Git adoption. The separate complete ACCEPTANCE-SEAM-CHALLENGE
+(d037f9b6) is read/adopted: no new scratch-candidate/peer-metadata bypass found
+under the explicit protected-state and trusted-checker premises. That bounded
+audit is closed and selects no test or redesign. No runtime or agent task remains
+from this slice. No new mechanism is selected without a concrete core
+obstruction/payoff case; full-v5/growth/deployment obligations remain unchanged.
+
+2026-10-26 resumed: existing setup/discovery/module work is reused. Root selects
+only the source-ready ordinary_method_return plan: a fresh history-restricted
+actor authored observation_invariant using the received safe-run equality and
+fixed-basis congrArg. Implementation-assisted direct CLI syntax is disclosed.
+Independent method_return_review owns REVIEW/OUTCOME; root owns the exact
+selection and launch. Selection9a1aaf89 has seven source/166 external pins,
+all checked unchanged, but runtime is not yet selected. No new harness, package,
+setup, discovery, module export or broad campaign. Full v5 remains active,
+local and unpublished; shared NOW/WORK/paper edits remain untouched.
+
 Root read/adopts METHOD-DISCOVERY guide361c3d6a and complete independent
 REVIEW51aa86ca. The public recipe connects successful query BINDINGS to existing
 symbol-based method search; one source-template entry link was corrected before
