@@ -37,6 +37,12 @@ This tested companion is included in the current investigator archive. The
 [incremental module check](ordinary_exact_extension/ADOPTION.md) also confirms
 that a 26-unit delta can reuse its ten-unit parent under the unchanged local cap.
 
+To find a useful method whose complete type or hypotheses you do not yet know,
+use the [known-concept discovery recipe](METHOD-DISCOVERY.md). It connects actual
+query bindings to the existing one/two-symbol search, replacing the exact-type
+constraint. This independently reviewed text supplement adds no command and is
+not silently included in the frozen archive.
+
 The [finite service companion](ordinary_service_plan/ADOPTION.md) lets an operator
 authorize several bounded serving leases once, without adding a perpetual daemon
 or changing mathematical acceptance. Serve only disclosure-approved custody and

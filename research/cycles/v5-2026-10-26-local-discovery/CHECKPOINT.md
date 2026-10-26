@@ -1,5 +1,24 @@
 # Local v5 checkpoint
 
+Root read/adopts METHOD-DISCOVERY guide361c3d6a and complete independent
+REVIEW51aa86ca. The public recipe connects successful query BINDINGS to existing
+symbol-based method search; one source-template entry link was corrected before
+adoption. No product edits, runtime or repack are needed. The actual retained
+Repair binding matches the earlier six-hit query, but this is not a new discovery
+experiment or growth result. update_trust_lifecycle is deciding the smallest
+remaining integration gate, particularly no-project contribution from the
+received mixed-Init concept; no new operation is yet selected.
+
+Investigator distribution and anchored extension are committed as `7a73175`.
+Root selects one source-only public recipe, `software/v5/METHOD-DISCOVERY.md`,
+owned by received_vocabulary with POST-HANDOFF-GROWTH-DECISION as checkpoint.
+Its child source challenge identifies a real interface gap: current question
+guides pass exact whole-type SPECS; existing one/two-symbol find is available
+but lacks the crosswalk from successful query BINDINGS. Replacing, not appending
+to, the exact-type spec permits searching for methods with unknown hypotheses.
+No new matcher, ranker, companion, theorem episode, repack or runtime is selected.
+Root owns evolving README navigation and independent source/schema review.
+
 Current: investigator controls01 independently passes OUTCOME22b5a955, read and
 adopted completely by root. ADOPTION identifies the exact 4,236,874-byte archive,
 170-file extraction and authoritative current root README. Six groups/nine inert
