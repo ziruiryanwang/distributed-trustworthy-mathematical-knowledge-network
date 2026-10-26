@@ -2,7 +2,7 @@
 
 ## Current ordinary source route
 
-Start with [the current investigator source handoff](ordinary_investigator_bundle/ADOPTION.md)
+Start with [the current commons source handoff](ordinary_commons_bundle/ADOPTION.md)
 and its extracted root README, which specifies the
 supported Windows Python/Lean runtimes and supersedes the included older build
 recipes. Do not select a package merely because its directory name looks newer.
@@ -40,8 +40,8 @@ that a 26-unit delta can reuse its ten-unit parent under the unchanged local cap
 To find a useful method whose complete type or hypotheses you do not yet know,
 use the [known-concept discovery recipe](METHOD-DISCOVERY.md). It connects actual
 query bindings to the existing one/two-symbol search, replacing the exact-type
-constraint. This independently reviewed text supplement adds no command and is
-not silently included in the frozen archive.
+constraint. The current archive includes a destination-correct successor of this
+independently reviewed guide; it adds no command or mathematical authority.
 
 The [received-method return check](ordinary_method_return/ADOPTION.md) now confirms
 that the no-project route can use the received mixed-vocabulary repair theorem
@@ -57,8 +57,11 @@ exclude writers throughout the plan, including between leases.
 The [storage-only mirror companion](ordinary_inert_mirror02/ADOPTION.md) can
 prepare and serve disclosed inert bundles without Lean or a mathematical owner.
 It supports existing formal discovery and exact-byte acquisition; consumers
-still check mathematics independently. This separate companion is not included
-in the frozen investigator ZIP.
+still check mathematics independently. It is included in the current commons
+archive; the older investigator ZIP remains unchanged. The current archive also
+includes the [bounded multi-source package/preparer](ordinary_multi_source_package/ADOPTION.md),
+with [actual retained-state compatibility](ordinary_multi_source_package/STATE-ADOPTION.md).
+Its new selector and old-report restrictions are explicit in the extracted guide.
 
 Read [updating and recovering checked knowledge](UPDATE-AND-RECOVERY.md) before
 changing the checking implementation or reusing state after suspected compromise.

@@ -3,10 +3,11 @@
 ## Current entry points
 
 **October 26 v5 development:** start with the
-[current self-contained investigator source handoff](software/v5/ordinary_investigator_bundle/ADOPTION.md).
+[current self-contained commons source handoff](software/v5/ordinary_commons_bundle/ADOPTION.md).
 Its verified archive includes the build, cold-start authoring, discovery/reuse,
 received-concept questions, incremental module reuse, offline export/intake,
-finite serving and recovery routes. Its extracted root README selects the
+finite serving, storage-only mirroring, bounded multi-source receiving and recovery
+routes. Its extracted root README selects the
 supported build and overlay sequence. Follow the
 [current local checkpoint](research/cycles/v5-2026-10-26-local-discovery/CHECKPOINT.md)
 for current integration evidence. V5 remains unfinished, local and unpublished;

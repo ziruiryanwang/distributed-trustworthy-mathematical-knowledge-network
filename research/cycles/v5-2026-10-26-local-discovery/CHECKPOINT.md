@@ -1,5 +1,19 @@
 # Local v5 checkpoint
 
+Root read/adopts complete commons OUTCOMEc9dbccf8 and ADOPTION. One archive
+079383e4/manifestf5134135,187files/47dirs,6groups/15refusals,37links/27mirror
+associations pass;7.7555915wall/3.25knownCPU, clean closure. Root/software README
+now select this coherent source handoff. Consolidation is complete; no repeat.
+Next source/theory decision: relation traces existing checked-branch composition
+and cost, path challenges sufficient sound-union premises. No merge mechanism,
+state operation, new mathematics or experiment selected. Full v5 stays active.
+
+Root read/adopts complete commons source/test/guide REVIEWab832e63 and selects
+commons-source-controls01 once, selection1e4b122c,21source/173external pins all
+verified. One file-only pack/relocation gate; no native/state/service work. Used
+bytes freeze; actual outcome pending. In parallel relation assesses existing
+public branch composition, source/theory only, to choose the next core payoff.
+
 Root read/adopts STATE-OUTCOME28eaeb4e and STATE-ADOPTION: status01 passes actual
 installed loading/retained context compatibility, zero workerCPU, both layers
 closed.1.9051575wall/1.625knownCPU;69same before/after file paths, no DB-byte claim.
