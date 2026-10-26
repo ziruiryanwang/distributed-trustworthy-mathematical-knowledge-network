@@ -1,5 +1,30 @@
 # Local v5 checkpoint
 
+std-intake02 session14616 CLOSED with COMMAND_FAILED after140.3750267wall /
+91.921875knownCPU (90.328125Job+1.59375wrapper), no active/terminated processes,
+cleanup errors or outer stderr. Owner reports ADMISSION_NATIVE_DIAGNOSTIC at
+batch0,zero confirmed,lastbasis30349865,uncertaintytrue. Native exited0 but stderr
+has Lean.AsyncConsts.add PANIC private normalized-name collisions (PSigma helper
+across modules and private/public List.mem_cons_self). Do NOT adopt its retained
+report/chunk. Fourteen progress records endFAILED; no confirmed event. Actual
+independent audit underway; no native work now, no status/retry selected.
+
+New central source-only question: preserve exact cross-module private names in
+kernel checking without populating an incompatible elaborator async-name map.
+intake_cost_localization owns PRIVATE-NAME-COMPATIBILITY.md; root traces downstream
+Environment users. A blanket ofKernelEnv conversion could discard frontend
+metadata, so no implementation selected until safe boundary is justified.
+Finite-map source Bodya1595a90/PROOFf172082b drafted, uncompiled; reviewer may fix
+one pre-execution Bool-case proof term and record exact change. No rich parent
+exists for its commons contribution. User goal remains active, not fulfilled.
+
+Root fully read/adopts INTAKE-REVIEW768872e9 and selects exact std-intake02-current
+selection1f168a31 once under ordinary_intake_progress/INTAKE-EXECUTION.md.
+LIVE session14616; unchanged public360/300/1536/3,outer420/330/1792/4. Root owns
+polling. No competing owner/native job. Independent auditor waits terminal data;
+two math agents source-draft/review only. Package/theory checkpoint committed
+76260b6. Preserve all partial state/results; no automatic retry or cap increase.
+
 Root read/adopts actual auxiliary package OUTCOMEc2e33f05 in PACKAGE-ADOPTION;
 no runtime lives. Diagnostics source/control adoption committed7d96f20, preserving
 the tested trailing blank line flagged by diff-check. Source-only mathematical
