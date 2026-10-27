@@ -1,5 +1,43 @@
 # Local v5 checkpoint
 
+std-kernel-intake01 session26054 CLOSED with COMMAND_FAILED:159.3159979wall,
+154.96875knownCPU(153.375Job+1.59375wrapper),cleanouterclosure. Actual batch0
+CHECKED1024 rootc3d0f6209f42abdc98a6975a358545b0d61701e849b6ed0a3e69bdc1b7f400f6;
+batch1 ADMISSION_NATIVE_EVENT_NOT_CLEAN, officialuncertaintytrue. Failed native
+22c8515... RESOURCE_LIMIT24CPU/24.015625actual, logs0/report+chunkabsent;
+60CPU per-operation allowance lost~35to controllerbeforeNative. NoRAMexhaustion.
+Do notpromotefailedstate/retry/status yet. Actualaudit interruptionagent; cost
+decision kernel_path_integration; legal suffix/bytebalanced existingcontinuation
+kernel_package_audit. Remaining1627units, not1667. Prefer existing operations if
+sound over newcoreidentity/rebuild; source decisions pending, no runtime now.
+Root read/adopts INDUCTIVE-TARGET-DECISIONb1d6df4f and independent publication
+REVIEWd9ed8422: current peer.publish already creates/indexes direct Plan/Exec
+previews from accepted raw unit evidence. No helper change needed; preserve
+earlier narrower contributor automatic-target limitation as history.
+
+std-kernel-intake01 currently LIVE session26054; diagnostic records reached
+first ADMIT_INTENT, no outcome adopted. Root alone polls. Whole-protocol review
+corrects the provisional concept-interface concern below: existing peer publish
+accepts exact retained inductive outputs, constructs previews, indexes kind4;
+new group IDs can come from public contribution evidence. No helper rebuild is
+needed for standalone Plan/Exec advertisement. Decision/review notes pending;
+prior source-only restriction remains only contribute's automatic target list.
+
+Fresh init99103CLOSED/adopted OUTCOME3343690:456units/581names/669968B,
+newparent4d7cc70e,all3layersclean,10.856913wall/10.640625knownCPU. Root selects
+std-kernel-intake01 once under INTAKE-EXECUTION, selection289e0197 (4sources/
+218pins), review9c424667; unchanged360/300/1536/3 outer420/330/1792/4.
+Root owns launch/poll; no concurrent native job. Seven-target math route passed
+review3334cee6;3smallJSONinputs prepared, Bodyunchanged, no contribution launch.
+
+Fresh std-kernel-init01 SELECTED/LIVE session99103 under INIT-EXECUTION,
+selectiona3a4ea1c, unchangedpublic90/60/1280/3 outer120/90/1536/4. Root polls;
+no competing native job. Exact source/package checkpoint committedcf5e97e.
+Finite-map source review found deterministic API restriction: output targets
+accept theorem/definition, not inductive types. Prospective route selects seven
+eligible targets with full Plan/Exec groups retained as dependencies; direct
+concept targeting is an explicit open API question, no goal completion claim.
+
 Root read/adopts actual package OUTCOMEbc69d519 in PACKAGE-ADOPTION:154files,
 39,316,958B,9changed/145unchanged; PROFILE60b6e0d6/INSTALLATION9112bc5d/I86b6fcce.
 No runtime. PUBLIC-REVIEWc3706f15 adopted; fresh init selectiona3a4ea1c (4sources/
