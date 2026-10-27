@@ -1,5 +1,42 @@
 # Local v5 checkpoint
 
+Suffix A session17765 CLOSED/adopted OUTCOME7ea4ca70:twoCHECKED620/404,
+actualparent674e33cbe441566ea8385e3bb6011b9f2cecaae4b587b50645c975e48c27c95b,
+110.4974515wall/108.5625knownCPU,cleanclosure. Bselectioncc198b16 now prepared
+with3sources/256pins(exact13actualAadditions),unchangedlimits/canonicalB.
+Independent changed-boundaryreview pending; no runtime live. Parallel actual
+reuse review found generic acquired-target reconstruction from fixedbasis can
+overflow for Std-backed theory; source-assisted approved ordinaryproject route
+under investigation before newmechanisms. No contribution yet/fullv5open.
+
+First suffix A is LIVE under root session17765, exact selectiond7c7c12a.
+Root read/adopts SUFFIX-A-SELECTION-REVIEW49de540f in SUFFIX-A-EXECUTION;
+same package, actual eligibleprefix, canonicalA, unchangedlimits. Root alone
+polls; integration agent prepares actualaudit after terminalsignal. Package
+auditor prepares minimal Bboundary checklist; interruptionagent traces existing
+publication/independent conceptreuse route and its acquiredclosure constraints.
+NoB/contribution/runtime competitor selected. Fullv5active/local/unpublished.
+
+Root adopted PREFIX-STATUS-OUTCOMEe7570b03 in PREFIX-STATUS-ADOPTION: exact
+c3d0...prefix currentlyeligible,2roots/1743names/2820152B,zeroWorker,cleanclosure.
+Root read/adopts final SUFFIX-MANIFEST-REVIEW3a9273c7; only noLFcanonical files
+9eee8527/a0036d02 eligible. SUFFIX-PLAN prepares two separate unchanged-budget
+operations; firstAselectiond7c7c12a (3sources/243pins) awaits exactindependent
+review. Eight obsoletehistorical-onlypins omitted; allcurrentsoftware/runtime,
+originalreconstruction and immediateactualbindings retained. Bnotselected/no
+parentinvented. Nothing running. No new checker/source/cap change needed.
+
+Prefixstatus01 completed rawPASS under selection7c262deb:2.4383179wall/
+2.203125knownCPU,zero outerstderr/cleanclosure; independent actualaudit pending.
+No runtime. Exactsource/cost/statusplans reviewed; current route keeps checkerI
+and existinglimits. Two suffixmanifests use cuts1024/1644/2048/2477/2651.
+Initial LF artifacts remain preserved (strictmanifest JSON forbidsnewline);
+fresh noLF part-a-canonical180917B hash9eee8527 and part-b-canonical106731B
+hasha0036d02 match exactoriginalrows, no rawunitcopy. Independent finalbytes
+review pending. PrettyJSON contribution inputs ARE allowed by distinct writer/
+project readers; do not needlessly rewrite them. Previous checkpoint committed
+21f3c0e, preserving sourceplan trailingblank. Actualrichparent/contribution held.
+
 std-kernel-intake01 session26054 CLOSED with COMMAND_FAILED:159.3159979wall,
 154.96875knownCPU(153.375Job+1.59375wrapper),cleanouterclosure. Actual batch0
 CHECKED1024 rootc3d0f6209f42abdc98a6975a358545b0d61701e849b6ed0a3e69bdc1b7f400f6;
