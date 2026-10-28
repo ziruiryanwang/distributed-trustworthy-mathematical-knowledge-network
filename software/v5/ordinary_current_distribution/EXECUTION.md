@@ -31,3 +31,23 @@ invoked builder's bytes equal the extracted builder. This avoids changing the
 frozen runner's source scope or adding a wrapper solely for two foundation files.
 The input manifest and all extracted source/runtime bytes will be externally
 pinned. No native build is launched by this plan.
+
+Root reads/adopts current_source_bundle/OUTCOME6b7acb4f:actual95-file archive/
+extraction and seven controls pass; exact build selection independently reviewed.
+Select one real current-distribution-build01 under
+`b08498d1a894b1bfb2dd61b0b42cd1e2e552a1f875a1223128d91e2c4134888c`.
+Two snapshots and121externalpins cover byte-identical invoked builder,all96
+extracted files,23runtimes,two immediate evidence records. Explicit source-root
+is the verified relocated extraction; all sources come from it. Public480wall/
+380CPU/2048MiB within outer540/440/2304/eightprocesses,unchanged remainder rules.
+No runtime currently lives. Require three real stages,actual154/117/8 census,
+PROFILE/INSTALLATION support identities and clean closure. No old-owner reopen,
+richStd/peer campaign or automatic retry follows.
+
+Build01 closed cleanly:50.7916521wall/47.234375knownCPU,peak905678848B.
+All154payloads produced; actual raw result reports117auxiliary/eightdocuments.
+PROFILEd5e56dd3bb2d1a531abeaabf06aea1864a7037c88a2035749230574455d7d4b0;
+INSTALLATION9112bc5d and receiverI86b6fcce remain unchanged. Independent audit
+is verifying actual support/file maps and auxiliary differences before adoption.
+No runtime remains. Root has selected source-only current_operator_kit work to
+close existing contribution/query/publication handoff gaps,not a new protocol.
