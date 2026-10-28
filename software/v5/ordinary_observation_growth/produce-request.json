@@ -1,0 +1,122 @@
+{
+  "action": "produce-baseline",
+  "project_search_paths": [
+    "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\observation-growth-compiled01\\library",
+    "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\observation-modes-inputs01\\library",
+    "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\frontier-launcher-package01\\distribution\\package\\authoring\\helpers"
+  ],
+  "modules": [
+    [
+      [
+        0,
+        {
+          "$bytes": [
+            82,
+            101,
+            115,
+            101,
+            116,
+            69,
+            102,
+            102,
+            101,
+            99,
+            116,
+            115
+          ]
+        }
+      ],
+      [
+        0,
+        {
+          "$bytes": [
+            67,
+            104,
+            101,
+            99,
+            107
+          ]
+        }
+      ]
+    ]
+  ],
+  "output_names": [
+    [
+      [
+        0,
+        {
+          "$bytes": [
+            82,
+            101,
+            115,
+            101,
+            116,
+            69,
+            102,
+            102,
+            101,
+            99,
+            116,
+            115
+          ]
+        }
+      ],
+      [
+        0,
+        {
+          "$bytes": [
+            102,
+            105,
+            108,
+            108
+          ]
+        }
+      ]
+    ],
+    [
+      [
+        0,
+        {
+          "$bytes": [
+            82,
+            101,
+            115,
+            101,
+            116,
+            69,
+            102,
+            102,
+            101,
+            99,
+            116,
+            115
+          ]
+        }
+      ],
+      [
+        0,
+        {
+          "$bytes": [
+            99,
+            111,
+            110,
+            116,
+            101,
+            120,
+            116,
+            117,
+            97,
+            108,
+            95,
+            105,
+            102,
+            102
+          ]
+        }
+      ]
+    ]
+  ],
+  "approve_local_project": true,
+  "spool_mib": 144,
+  "operation_output": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\observation-growth-produce01"
+}

@@ -1,0 +1,41 @@
+{
+  "action": "publish",
+  "state": {
+    "catalog": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\refinement-recipient-catalog01",
+    "custody": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\refinement-recipient-custody01",
+    "store_id": "8fc4067f95cb39f89a1168c16a2aab22df1844cfc5a2d01f5bfd324bb7f7a9e5"
+  },
+  "custody_limits": {
+    "objects": 4096,
+    "exports": 8192,
+    "logical_bytes": 134217728,
+    "db_pages": 65536
+  },
+  "target_indices": [
+    0,
+    1
+  ],
+  "index": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\refinement-recipient-index01",
+    "create": false,
+    "limits": {
+      "max_db_pages": 4096,
+      "max_features": 512,
+      "max_logical_bytes": 16777216,
+      "max_objects": 32,
+      "max_postings": 4096,
+      "max_snapshots": 33
+    }
+  },
+  "max_unit_bytes": 1048576,
+  "max_total_bytes": 4194304,
+  "operation_output": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\observation-growth-publication01",
+  "producer_report": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\observation-growth-produce-launch01\\child\\stdout.txt",
+    "sha256": null
+  },
+  "intake_report": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\observation-growth-intake-launch01\\child\\stdout.txt",
+    "sha256": null
+  }
+}
