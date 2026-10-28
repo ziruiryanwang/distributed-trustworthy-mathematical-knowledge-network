@@ -4,6 +4,21 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-28 reciprocal continuation: root owns selections/execution/adoption/Git.
+fresh_recipient_plan owns refinement/FRESH-RECIPIENT-PLAN.md (saved receive and
+authoring closures, cold setup recipe); frontier_failure_audit owns independent
+FRESH-RECIPIENT-REVIEW.md. portable_integration owns PORTABLE-INTEGRATION-PLAN.md,
+source mapping only. No subagent runtime/state/Git operations. Publication audit
+is adopted; no runtime lives. Use canonical root and preserve all used bytes.
+
+2026-10-28 latest after actual theory success: root selects/polls/adopts and owns
+Git. frontier_correction closes CONTRIBUTION02-MATH; frontier_failure_audit has
+finished CONTRIBUTION02-OUTCOME and now assesses NEXT-PAYOFF (independent rich
+recipient vs growth study vs portable integration, source-only). finite_map_discovery
+finished launcher audit and derived12target publication config/plan; available
+for saved publication audit. No agent runtime/state/Git. Contribution02 closed
+CHECKED21units11targets; no service currently holds the Std owner.
+
 2026-10-28 latest: root owns exact selections/launches/adoption/Git.
 finite_map_discovery audits serve01 closure and actual serve02/find02/six
 previews; owns DISCOVERY02-OUTCOME and the actual derived acquired-targets.

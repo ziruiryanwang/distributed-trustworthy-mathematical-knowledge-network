@@ -4,6 +4,15 @@ Updated: 2026-10-24. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
+**2026-10-28 working theory reuse:** the [finite-map refinement checkpoint](software/v5/ordinary_finite_map_refinement/ADOPTION.md)
+now connects actual formal-feature discovery, type-based interface selection,
+bounded reconstruction above installed Std, checked new contexts/refinement
+laws, and return to the local index. Ordinary kernel checking remains the
+authority; expensive certificates are not required by this workflow. The
+standard launcher now forwards the protected authoring frontier option.
+This removes a concrete local theory-development obstruction, without claiming
+independent rich-peer transfer or measured acceleration of discovery.
+
 **Current growth decision (2026-10-24):** support independently chosen concept
 and theory development through ordinary Lean projects, not a theorem-only store
 or a central invention service. The retained repair/closure episode already has
@@ -25,11 +34,14 @@ with its completed build/public-launcher audits in the adjacent REVIEW. Ordinary
 source retention and inert checked-evidence custody remain separate obligations.
 The optional grounded-cut backend has actual recursive checks and inert public
 return, but is not the default package or an established speedup. Fixed-basis
-acceleration now has a narrow source-only successor under
+acceleration now has a narrow compiled successor with 42 audited native-free
+controls under
 [its contract](software/v5/grounded_cut_basis/CONTRACT.md): authenticate/restore
 only the already checked fixed basis, retaining full checks and unchanged
 metadata cadence. It removes456 repeated seed kernel additions in principle;
-no performance adoption is established. Full v5
+actual successor restoration and whole-workflow benefit remain to be checked
+by the single matched comparison currently under source review. No performance
+adoption is established. Full v5
 is not released; global-scale discovery, assurance, availability and deployment
 obligations remain. See NOW for exact current source/run identities.
 
