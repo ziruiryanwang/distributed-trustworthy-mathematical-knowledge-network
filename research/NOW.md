@@ -1,5 +1,13 @@
 # Current research desk
 
+**2026-10-28 sustained-use decision adopted:** CONTINUOUS-USE-DECISION `f8c0cefb`
+supports existing batched owner updates -> incremental publish(create=false) ->
+finite service cycles. Dedicated normal restart uses bounded seals/retained
+metadata, not all-proof scans. Complete-generation copying has a real quadratic
+policy cost, but is not required by the existing evolving-owner path. No updater,
+daemon, native job or repeated experiment selected. Current kit committed fa424c6.
+next_value's concrete locally actionable RELEASE-BLOCKERS review remains active.
+
 **2026-10-28 adopted usable local kit:** ordinary_usable_distribution/ADOPTION.md
 is the single current entrypoint. Independent OUTCOME `e9c8a423` confirms archive,
 260-payload extraction, unchanged 158-file package, 93 source-build inputs and

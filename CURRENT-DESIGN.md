@@ -91,9 +91,13 @@ aggregate-budget bounds even when a client maximum exceeds remaining capacity.
 
 [Current host capability](software/v5/ordinary_dedicated_host/ADOPTION.md) and
 [reply accounting](software/v5/ordinary_reply_capacity/CONTRACT.md) record the
-implemented boundaries. Sustained publishing/hosting is the next source-level
-operability question; existing APIs should be used before introducing another
-service mechanism. No previous service allowance is automatically renewed.
+implemented boundaries. The [sustained-use audit](software/v5/ordinary_usable_distribution/CONTINUOUS-USE-DECISION.md)
+supports existing batched owner updates, incremental publication to the retained
+index (`create:false`), and finite service cycles. Dedicated hosts serve stable
+selected generations; they are not evolving unbounded aggregators. Normal host
+restart checks retained metadata, not every proof. A new updater is deferred:
+partial updates across its separate databases need a real recovery design.
+No previous service allowance is automatically renewed.
 
 ## Completion criteria still open
 
