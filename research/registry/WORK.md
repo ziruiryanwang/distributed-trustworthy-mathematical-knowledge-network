@@ -1,5 +1,24 @@
 # Work and agent ledger
 
+2026-10-28 current: operator_route audits saved reply-capacity assembly/adapter at
+ordinary_reply_capacity/OUTCOME.md; query_scaling completed adopted report-selection
+OUTCOME. Fresh next_value owns ordinary_reply_capacity/NEXT-VALUE.md, one source-led
+next practical bottleneck. Root owns package adoption/Git and subsequent selection.
+All five new scoped runs are terminal; no runtime or mathematical campaign lives.
+
+2026-10-28 parallel narrow successors: operator_route authors report-selection
+controls after source completion; portable_integration independently reviews its
+consumer chain and implementation. query_scaling authored the eight-line provider
+successor and accounting argument, now reviews root-authored reply-capacity
+controls. Root owns exact selections, execution, package integration and Git.
+All work remains canonical, local and unpublished; no native operation selected.
+
+2026-10-28 next source selection: ordinary_report_selection/SELECTION.md.
+operator_route owns the two fresh offline preparer sources and usage docs;
+portable_integration owns independent old-report consumer-chain/source review.
+Root owns integration, finite controls and Git. Query_scaling closes the separate
+source-only reply-budget/search payoff audit. No product/native/state change.
+
 2026-10-28 continued: dedicated-host actual remaining-only inspection succeeded;
 all selected runtimes closed. portable_integration owns its complete saved OUTCOME;
 operator_route owns ordinary_dedicated_host/NEXT-CENTRAL-DECISION.md (practical

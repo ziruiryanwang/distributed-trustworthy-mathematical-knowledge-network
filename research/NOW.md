@@ -1,5 +1,22 @@
 # Current research desk
 
+**2026-10-28 current package integration:** report-selection controls and public
+adapter are independently adopted (OUTCOME `b03ed4b5`, 0.703125 known CPU seconds).
+Reply-capacity seven controls also pass (audit `c9627c7d`, 0.4375 known CPU).
+File-only assembly and matching adapter now passed under PROFILE `c8c8b597` with
+unchanged native support; final saved-package audit is closing. No runtime remains.
+Fresh next_value critic evaluates one investigator-facing next step; no new
+mathematical experiment or feature is selected. Local/unpublished v5 stays ACTIVE.
+
+**2026-10-28 current implementation:** dedicated hosting is committed as 297c830.
+Two small source successors address observed practical barriers. The offline
+ordinary_report_selection kit extracts old-report parent/acquired/frontier
+identifiers only with explicit opt-in, preserving current backend checks; source
+review and inert controls are in progress. ordinary_reply_capacity narrows only
+locator/evidence response maxima to the provider's remaining allowance, with a
+proved cumulative-output bound; seven focused controls are under source review.
+No new runtime, mathematical campaign or owner-state change is selected.
+
 **2026-10-28 adopted dedicated host:** independent OUTCOME `8a35924f` passes the
 completed integration, with both original inspection failures preserved. Current
 entrypoint is ordinary_dedicated_host/ADOPTION.md, PROFILE `21bcb169`. All ten
