@@ -1,5 +1,26 @@
 # Current research desk
 
+**2026-10-28 contribution handoff adopted:** ordinary_contribution_bundle/ADOPTION.md
+is the current kit entrypoint. Root read/adopts source39cd903d and outcome3840c5c2:
+268 exact payloads, eight focused groups on the extracted kit, all runtime closed.
+Archive856935e7; PROFILE/installation and all 160 package files remain unchanged.
+Only guide and contribution companion changed. Known CPU3.671875seconds; no owner,
+native or service replay. Full v5 remains ACTIVE/local/unpublished.
+Next source/cost decisions identify five repeated parent metadata constructions,
+but no current phase attribution or justification for a persistent cache/new
+profiling campaign. Root is evaluating a smaller helper-only advisory preflight
+reuse that would preserve fresh admission and the core implementation identity.
+No implementation or runtime for that idea is selected yet.
+
+**2026-10-28 new contribution handoff selected:** ordinary_contribution_bundle/
+SELECTION.md chooses a small offline companion from already emitted public
+contribute/complete units to existing baseline bundles and host append configs.
+No repeated native export, owner opening, host change or product profile change.
+operable_scale_decision owns helper/contract; query_scaling challenges/reviews;
+growth_design_audit selects retained fixtures then controls. Root owns integration,
+finite runtime selection and Git. No runtime selected. Current kit committed
+db676e4, full v5 ACTIVE/local/unpublished.
+
 **2026-10-28 incremental-host adopted:** ordinary_incremental_host/ADOPTION.md is
 the current single kit entrypoint, PROFILE e8d33500. Root read/adopts assembly
 feb77ac2, controls1bd539d5, public903e943f and kit8f115540 outcomes. Stable-descriptor

@@ -12,7 +12,7 @@ check selected contributions locally, develop concepts and consequences, and
 return reusable mathematics. No global research agenda, human-intention field,
 central mathematical authority or total blockchain ledger is required.
 
-The current [local distribution](software/v5/ordinary_incremental_host/ADOPTION.md)
+The current [local distribution](software/v5/ordinary_contribution_bundle/ADOPTION.md)
 provides one adopted extraction and archive.
 Its package adds incremental independent inert hosting to the adopted contact
 refresh, owned TCP connection and historical name-directory implementation,
@@ -22,6 +22,9 @@ that package; native checking support is unchanged. Use its current root guide, 
 instructions preserved inside older documentation. The public host lifecycle
 and exact pack passed independent saved-outcome review; unchanged relocated
 preparer behavior evidence is reused, with new compatibility pins checked.
+Its offline contribution companion now joins public contribute/complete outputs
+to the existing host-bundle format. All 160 package payloads and PROFILE remain
+unchanged; the new companion and updated guide are bound by the kit manifest.
 
 Work is local and unpublished, with license undecided. The supported profile is
 Windows x86-64, Python 3.14.6 and Lean 4.34.0 with separately approved runtimes.

@@ -1,5 +1,18 @@
 # Work and agent ledger
 
+2026-10-28 adopted: contribution companion + 268-payload kit, all eight controls
+and file-only pack closed and independently reviewed. Root owns adoption/Git.
+operable_scale_decision and growth_design_audit completed distinct source/cost
+decisions on repeated owner metadata. No cache/profiling/native campaign selected.
+Root evaluates helper-only reuse of advisory preflight inputs before choosing
+next implementation; current ordinary mathematical admission remains unchanged.
+
+2026-10-28 source selected: ordinary_contribution_bundle/SELECTION.md.
+operable_scale_decision owns project.py/CONTRACT; query_scaling independent
+principle/source review; growth_design_audit retained fixture selection then
+focused controls. Root owns integration/runtime selection/adoption/Git. No owner,
+native, database or network operation selected; current kit remains db676e4.
+
 2026-10-28 adopted: incremental host and coherent kit complete; all four validation
 operations closed, no repeat selected. operable_scale_decision owns source-only
 ordinary_incremental_host/NEXT-CENTRAL-DECISION.md for new contribution-to-host
