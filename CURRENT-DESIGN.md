@@ -1,8 +1,16 @@
 # Current design: decentralized Lean mathematical commons
 
-Updated: 2026-10-24. This is a mutable navigation page, excluded from frozen checkpoint manifests.
+Updated: 2026-10-28. This is a mutable navigation page, excluded from frozen checkpoint manifests.
 
 ## Current candidate architecture: v5
+
+**Portable current source now builds:** the [actual build audit](software/v5/ordinary_current_distribution/BUILD-OUTCOME.md)
+adopts a complete current package constructed from the verified relocated source
+archive, with no historical experiment package as a build input. The receiver and
+all executable code match the preceding tested package; two exporter timestamp
+fields account for their changed hashes. The current offline operator kit is in
+review to expose contribution/query/publication handoffs. This is deployment and
+usability progress, not a new mathematical or discovery-speedup result.
 
 **2026-10-28 reciprocal theory reuse:** the [independent recipient audit](software/v5/ordinary_finite_map_refinement/FRESH-RECIPIENT-REVIEW.md)
 now establishes separate local grounding,37-unit checked receipt,offline dependent

@@ -1,5 +1,26 @@
 # Current research desk
 
+**2026-10-28 portable build adopted; operator usability in review.** Root reads
+and adopts `ordinary_current_distribution/BUILD-OUTCOME.md` (38a9b1fa): actual
+relocated-source build produced154files/117auxiliaries/8documents in50.7916521wall
+and47.234375knownCPU seconds, clean closure. PROFILEd5e56dd3; receiver and
+INSTALLATION unchanged. The only two changed executables differ exclusively in
+PE timestamp fields. No native requalification or repeated theory episode is
+needed. Fresh `ordinary_current_operator_kit` source is sealed for independent
+review and focused inert controls. Root selects/launches only after that review.
+Parallel source-led growth/discovery payoff assessment is in
+`research/cycles/v5-2026-10-28-growth/NEXT-CENTRAL-DECISION.md`; no new research
+experiment is selected. No runtime lives. Full v5 ACTIVE/local/unpublished.
+
+**2026-10-28 portable construction current:** Git2848134 preserves completed
+reciprocal evidence; f73c736 preserves reviewed current builder/map and seven
+actual composition controls. Source bundle01 also closed/pass seven groups:
+95payloads3040663B,archive3071941B SHA68c5683e,manifest3d869c88,actualrelocation.
+Buildselectionb08498d1 is prepared from that exact extraction,not launched yet;
+independent actualbundle/selection audit closing. No runtime lives. Operator_route
+plans smallest offline-kit update for current45roles/query/contribute/report
+transitions; no new protocol or duplicated mathematics. Full v5 remains ACTIVE.
+
 **2026-10-28 current:** complete reciprocal audit6bce2d51 adopted. All ten calls
 closed; same-PC independent rich receive/offline extension/checked return works,
 302.21875knownCPU including260.1875cold grounding. No runtime lives. The current

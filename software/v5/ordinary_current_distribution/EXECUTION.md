@@ -51,3 +51,11 @@ INSTALLATION9112bc5d and receiverI86b6fcce remain unchanged. Independent audit
 is verifying actual support/file maps and auxiliary differences before adoption.
 No runtime remains. Root has selected source-only current_operator_kit work to
 close existing contribution/query/publication handoff gaps,not a new protocol.
+
+Root reads/adopts BUILD-OUTCOME38a9b1fa5f4a4d75b7cf4a7bab12242912253d6e9ca05e1d0e0e1cc1fc726a88.
+All actual maps/support/lane identities and clean closure pass. Only PROFILE and
+two exporter PE timestamp fields differ from the tested current candidate;
+executable code is byte-identical. No exporter or receiver rerun is selected.
+The next validation is the fresh operator helper's changed inert handoffs, after
+independent source review. A native workflow would require a specific remaining
+integration question, not a new binary hash alone. Full v5 remains unfinished.

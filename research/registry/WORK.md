@@ -4,6 +4,21 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-28 latest: root adopts actual current build38a9b1fa and owns finite
+selections, navigation and Git. fresh_recipient_plan independently reviews
+ordinary_current_operator_kit/REVIEW.md; portable_integration owns that kit's
+control_tests.py/CONTROL-PLAN.md. operator_route finished kit implementation and
+now owns source-only growth/NEXT-CENTRAL-DECISION.md (one highest-payoff concrete
+discovery/growth action, reusing existing theory and evidence). No runtime,
+owner-state access, native operation or external publication is assigned.
+
+2026-10-28 current: root owns buildselectionb08498d1 and all launch/adoption/Git.
+portable_integration finished current_source_bundle source; available for narrow
+future work. fresh_recipient_plan audits actual bundle and exact buildselection.
+operator_route owns current_distribution/OPERATOR-PLAN.md (current kit gaps and
+minimal usable report transitions). No runtime is live. All used source/evidence
+stays frozen; new work is fresh successor only, local and unpublished.
+
 2026-10-28 current: root finished/adopted10call reciprocal flow, owns Git and
 next source-bundle/build selections. portable_integration authors fresh
 ordinary_current_source_bundle source (95payload fixed-selection successor).
