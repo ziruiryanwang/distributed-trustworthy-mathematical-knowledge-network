@@ -12,15 +12,16 @@ check selected contributions locally, develop concepts and consequences, and
 return reusable mathematics. No global research agenda, human-intention field,
 central mathematical authority or total blockchain ledger is required.
 
-The current [local distribution](software/v5/ordinary_connect_ownership/ADOPTION.md)
+The current [local distribution](software/v5/ordinary_incremental_host/ADOPTION.md)
 provides one adopted extraction and archive.
-Its package adds policy-scoped contact refresh and explicitly owned TCP connection
-setup to the adopted historical name-directory implementation,
-PROFILE `d8eb8e4bfa4845ad44673ee037c739973dc5d03f89ed38ee80979c47888fa3cb`.
+Its package adds incremental independent inert hosting to the adopted contact
+refresh, owned TCP connection and historical name-directory implementation,
+PROFILE `e8d33500db4c0a5ce89b2dfb51c3e1f9ec8f12063bbc58fe5e4eb23c2b6dfb13`.
 The guide, matching operator, offline preview and direct build closure accompany
 that package; native checking support is unchanged. Use its current root guide, not historical overlay
-instructions preserved inside older documentation. The pack and relocated CLI
-checks passed independent saved-outcome review.
+instructions preserved inside older documentation. The public host lifecycle
+and exact pack passed independent saved-outcome review; unchanged relocated
+preparer behavior evidence is reused, with new compatibility pins checked.
 
 Work is local and unpublished, with license undecided. The supported profile is
 Windows x86-64, Python 3.14.6 and Lean 4.34.0 with separately approved runtimes.
@@ -104,14 +105,21 @@ are not promises of perpetual availability. Replication on one PC is not
 independent failure tolerance. Exact object replies retain complete-object and
 aggregate-budget bounds even when a client maximum exceeds remaining capacity.
 
-[Current host capability](software/v5/ordinary_dedicated_host/ADOPTION.md) and
+[Current host capability](software/v5/ordinary_incremental_host/ADOPTION.md) and
 [reply accounting](software/v5/ordinary_reply_capacity/CONTRACT.md) record the
 implemented boundaries. The [sustained-use audit](software/v5/ordinary_usable_distribution/CONTINUOUS-USE-DECISION.md)
 supports existing batched owner updates, incremental publication to the retained
-index (`create:false`), and finite service cycles. Dedicated hosts serve stable
-selected generations; they are not evolving unbounded aggregators. Normal host
-restart checks retained metadata, not every proof. A new updater is deferred:
-partial updates across its separate databases need a real recovery design.
+index (`create:false`), and finite service cycles. Dedicated hosts now support
+fresh incremental roots as well as existing static generations. Incremental init
+binds fixed quotas and partial-publication policy in a stable descriptor; append
+commits custody, previews and index support in that order under one host lock.
+Every committed prefix preserves indexed support. Current contents have separate
+snapshot/count fields; the descriptor is not a content identity. An interrupted
+batch need not be complete for its valid committed prefix to be served after
+cleanup. Normal restart reads retained metadata, not every proof. This relies on
+protected serialized stores and SQLite durability; orderly postcommit exceptions
+were tested, actual power loss was not. Each append has at most 64 targets while
+cumulative storage obeys fixed quotas. Producer export costs remain separate.
 No previous service allowance is automatically renewed.
 
 ## Completion criteria still open

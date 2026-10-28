@@ -1,5 +1,29 @@
 # Current research desk
 
+**2026-10-28 incremental-host adopted:** ordinary_incremental_host/ADOPTION.md is
+the current single kit entrypoint, PROFILE e8d33500. Root read/adopts assembly
+feb77ac2, controls1bd539d5, public903e943f and kit8f115540 outcomes. Stable-descriptor
+init/append/serve and all nine focused controls passed; all runtime closed.
+The coherent 266-payload archive is 933a5f7d. Combined known CPU18.984375seconds;
+no native/owner replay, actual power-loss or new relocated-preparer claim.
+Next source-only decision: operable_scale_decision traces public new-contribution
+outputs into incremental host input without complete earlier-corpus export;
+query_scaling independently challenges this seam. Checkpoints under
+ordinary_incremental_host. Root owns adoption/Git and subsequent selection.
+Full v5 remains ACTIVE/local/unpublished; license undecided.
+
+**2026-10-28 incremental-host validation:** exact file assembly and nine focused
+SQLite controls passed and closed, PROFILE e8d33500; assembly audit feb77ac2 is
+adopted, saved control audit is pending. Controls used 8.375 known CPU seconds,
+tested 64+1 cumulative targets and legal postcommit-exception prefixes; no actual
+process-kill/power-loss claim. Root's INCREMENTAL-HOST-INVARIANT avoids whole-batch
+recovery machinery through explicit partial disclosure and custody -> preview ->
+index commits under one lock. Native support is unchanged. operable_scale_decision
+owns one public lifecycle runner; growth_design_audit reviews/audits; query_scaling
+reviews the coherent kit source. Root owns selections/integration/Git. No runtime
+lives. Current adopted kit remains b83295a's ordinary_connect_ownership. Full v5
+ACTIVE/local/unpublished; license undecided.
+
 **2026-10-28 current adopted kit:** ordinary_connect_ownership/ADOPTION.md is the
 single current entrypoint, PROFILE d8eb8e4b. Root read/adopts software OUTCOME
 5f61e1cb and KIT-OUTCOME 2faff545: exact 266-payload kit and relocated inert

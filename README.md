@@ -3,9 +3,11 @@
 ## Current entry points
 
 **October 28 v5 development:** start with the
-[current local kit](software/v5/ordinary_connect_ownership/ADOPTION.md).
+[current local kit](software/v5/ordinary_incremental_host/ADOPTION.md).
 One extraction includes the tested ordinary library package, matching operator,
 formal preview, historical name directory, direct source build and current guide.
+Independent inert hosts can append new contributions within fixed quotas while
+retaining earlier results, without rebuilding a full static generation.
 Approved specialist contact feeds can now be refreshed within a finite policy
 and freshness horizon, with explicit incomplete-source outcomes.
 Discover unfamiliar laws through shared mathematical vocabulary, inspect candidates,

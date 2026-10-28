@@ -1,5 +1,19 @@
 # Work and agent ledger
 
+2026-10-28 adopted: incremental host and coherent kit complete; all four validation
+operations closed, no repeat selected. operable_scale_decision owns source-only
+ordinary_incremental_host/NEXT-CENTRAL-DECISION.md for new contribution-to-host
+handoff; query_scaling owns CONTRIBUTION-HANDOFF-CHALLENGE.md. Root owns adoption,
+navigation/Git and later selection. growth_design_audit completed saved evidence
+audits. No runtime, native operation or owner/DB access selected.
+
+2026-10-28 current: incremental-host source and assembly complete; nine focused
+controls passed once and closed. operable_scale_decision owns PUBLIC-PLAN/runner;
+growth_design_audit saved control outcome then public source review; query_scaling
+independent kit-source review. Root owns finite selections/package/adoption/Git.
+No live runtime, owner or native operation. Stable descriptor plus per-item commits
+replaces exact-generation intent/recover machinery. Used source/evidence frozen.
+
 2026-10-28 latest: connect-ownership software and 266-payload kit adopted;
 all runtime closed. growth_design_audit completed KIT-OUTCOME; operable_scale_decision
 completed source-only NEXT-CENTRAL-DECISION on bounded independent host growth;
