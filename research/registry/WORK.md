@@ -1,5 +1,16 @@
 # Work and agent ledger
 
+2026-10-28 latest: native-output source audit closed; root RESOURCE-DECISION defers
+serializer/accounting changes. query_scaling now owns POINT-QUERY-DECISION.md on
+remaining local context metadata cost for exact-name queries (core scale issue),
+reusing prior scaling audits. No new index, native work or test selected.
+
+2026-10-28 current source-only assurance split: next_value owns RELEASE-BLOCKERS.md
+and NATIVE-OUTPUT-DECISION.md (actual Lean serializer/pre-write feasibility);
+query_scaling owns OUTPUT-GRANT-PATH.md (Python/worker grant and durable authority).
+All under ordinary_usable_distribution. No native implementation, experiment,
+disk quota or repeated prior acceptance review selected. Root reconciles payoff.
+
 2026-10-28 latest: coherent kit pack/relocation independently adopted (OUTCOME
 e9c8a423), all runtime closed. Root owns adoption/navigation/Git. release_direction
 owns ordinary_usable_distribution/CONTINUOUS-USE-DECISION.md source-only lifecycle

@@ -30,6 +30,15 @@ boundary, not a claim of a newly executed native build from a Git clone, externa
 publication or complete v5. Supported runtimes and raw evidence remain separately
 retained and ignored; unrelated dirty research files are not swept into commits.
 
+The 2026-10-28 [current local kit](software/v5/ordinary_usable_distribution/ADOPTION.md)
+now includes a direct current source handoff: 91 mapped build inputs plus its
+recipe/map, accompanied by current operator/viewer/guide utilities. All 102 unique
+source-origin paths selected by that kit are tracked and match HEAD after commits
+fa424c6 and 1769a7b; no selected path is missing or locally modified. This closes
+the selected ordinary-commons source closure at Git's byte-preservation boundary.
+External approved runtimes and raw evidence remain separately retained. It does
+not claim a new build from a fresh clone, hermetic toolchains or public release.
+
 The ordinary-owner lane now has a narrower reproducible source boundary:
 `software/v5/ordinary_package/build.py` builds its receiver and authoring support
 from versioned source and explicitly supplied supported runtimes, without reading

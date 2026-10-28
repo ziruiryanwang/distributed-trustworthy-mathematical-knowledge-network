@@ -1,5 +1,23 @@
 # Current research desk
 
+**2026-10-28 resource decision closed:** RESOURCE-DECISION.md retains the explicit
+operator storage premise; no C++ fork, native build or accounting migration.
+Pinned serializer source supports only a conditional per-artifact `M+88` bound
+from the existing Job private-commit ceiling. Current ledger still is not a hard
+disk quota, and spool/log obligations remain separate. Next priority returns to
+core scalability: query_scaling owns POINT-QUERY-DECISION, tracing repeated exact
+name queries on large local contexts against existing batching/smaller-context
+alternatives. Source-only; no new index or runtime selected. Kit remains unchanged.
+
+**2026-10-28 narrow release-assurance investigation:** no new false-acceptance
+defect found by the bounded review. Existing artifact grants are post-write and
+do not constitute physical disk containment. next_value traces the exact Lean
+serializer/pre-write feasibility; query_scaling traces selected Python-worker
+grant propagation and failed-call authority/retention. Source-only checkpoints
+under ordinary_usable_distribution; no quota setup, runtime, code change or native
+build selected. Do not turn an explicitly disclosed storage premise into a new
+mathematical unsoundness claim. Current adopted kit and native support stay frozen.
+
 **2026-10-28 sustained-use decision adopted:** CONTINUOUS-USE-DECISION `f8c0cefb`
 supports existing batched owner updates -> incremental publish(create=false) ->
 finite service cycles. Dedicated normal restart uses bounded seals/retained
