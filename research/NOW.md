@@ -1,5 +1,26 @@
 # Current research desk
 
+**2026-10-28 current adopted kit:** ordinary_connect_ownership/ADOPTION.md is the
+single current entrypoint, PROFILE d8eb8e4b. Root read/adopts software OUTCOME
+5f61e1cb and KIT-OUTCOME 2faff545: exact 266-payload kit and relocated inert
+preparation pass; native support unchanged. Two contact-refresh cycles passed
+with unchanged policy, changed provider address, unavailable-feed continuation
+and natural service closure. Prior failed evidence remains preserved. All
+runtime is closed. Root owns adoption/navigation/Git; next source-only decision
+compares independent inert-host append/recovery against current owner publication
+and stable shards. No next implementation/runtime selected. Full v5 remains
+ACTIVE, local and unpublished, license undecided.
+
+**2026-10-28 next central implementation:** ordinary_connect_ownership/SELECTION.md
+selects a single transport successor after theory/independent principle challenge.
+Explicitly own TCP socket before stream handoff so known unavailable TCP feeds
+can be skipped only after observed local close; uncertain TLS/stream setup stays
+terminal. operable_scale_decision owns source/contract; growth_design_audit owns
+changed ownership controls/review; query_scaling owns a fresh public continuation;
+root owns five-role file integration. No native/owner work or runtime is live.
+Registration source and partial evidence committed02e2f8d; current adopted kit
+remains ordinary_directory_kit. No v5-completion or public-readiness claim.
+
 **2026-10-28 actual refresh continuation:** assembly01 and repaired controls02 pass;
 controls01 remains non-clean because its socket-class test guard broke Windows
 Proactor callbacks. Independent CONTROL-OUTCOME8833c1e preserves all costs/results.

@@ -1,5 +1,18 @@
 # Work and agent ledger
 
+2026-10-28 latest: connect-ownership software and 266-payload kit adopted;
+all runtime closed. growth_design_audit completed KIT-OUTCOME; operable_scale_decision
+completed source-only NEXT-CENTRAL-DECISION on bounded independent host growth;
+query_scaling owns HOSTING-PAYOFF-CHALLENGE comparing stable shards/owner publish
+against append. Root owns adoption/navigation/Git and next selection. No new
+implementation, native work, database access or runtime selected.
+
+2026-10-28 current: ordinary_connect_ownership source selected. operable_scale_decision
+owns fair_exchange.py/contract; growth_design_audit owns independent source review
+and focused ownership controls; query_scaling owns fresh public runner/plan. Root
+owns map/build/assembler and later finite selections/adoption/Git. No live runtime.
+Prior refresh/pattern/Lean evidence is reused, never restarted as a broad campaign.
+
 2026-10-28 latest: public refresh01 failed only at post-cutoff client connect;
 first refreshed service actually returned allowed row and naturally closed.
 operable_scale_decision owns TRANSPORT-FAILURE-DECISION source diagnosis;

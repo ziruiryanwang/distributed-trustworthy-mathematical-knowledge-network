@@ -3,9 +3,11 @@
 ## Current entry points
 
 **October 28 v5 development:** start with the
-[current local kit](software/v5/ordinary_directory_kit/ADOPTION.md).
+[current local kit](software/v5/ordinary_connect_ownership/ADOPTION.md).
 One extraction includes the tested ordinary library package, matching operator,
 formal preview, historical name directory, direct source build and current guide.
+Approved specialist contact feeds can now be refreshed within a finite policy
+and freshness horizon, with explicit incomplete-source outcomes.
 Discover unfamiliar laws through shared mathematical vocabulary, inspect candidates,
 check selected mathematics locally, and return new concepts and consequences.
 The prebuilt avoids compilation; approved external Python/Lean runtimes remain

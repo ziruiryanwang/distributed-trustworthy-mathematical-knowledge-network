@@ -1,0 +1,74 @@
+{
+  "instructions": "This is an additive catalog of direct peer configs, not an operator-preparer request. Copy one configs entry, fill the required null placeholders, and save that object alone as fresh UTF-8 JSON without BOM. Follow REFRESH-USAGE.md. Public TLS templates below are choices to complete, not live endpoints or credentials. Numbers are finite example ceilings, not capacity guarantees.",
+  "profile_sha256": "d8eb8e4bfa4845ad44673ee037c739973dc5d03f89ed38ee80979c47888fa3cb",
+  "installation_manifest_sha256": "9112bc5dfeb688f5aaf266816781fa58a80c84f2916e820e030b9a2b86992f27",
+  "operations": {
+    "provider_feed": "directory-serve",
+    "registrar": "directory-refresh-serve",
+    "reader": "directory-find"
+  },
+  "placeholders": {
+    "specs": "Use an actual successful shared-symbol SPECS.json array. Use the same exact route in provider_feed.entries[0].specs, registrar.slots[0].specs and reader.routes[0]. The reader.specs may add justified conjuncts, up to eight total, while retaining every route feature.",
+    "host": "Select the actual numeric IPv4 address. Feed and registrar listener addresses belong to their respective operators; learned mathematical-provider addresses must pass both registrar and reader egress policies.",
+    "server_name": "Select the actual lower-case TLS certificate name, or null only when the selected literal-IP certificate is appropriate. Registrar endpoint_scopes.tls_names must contain the approved mathematical-provider name, not the feed or registrar name.",
+    "tls_files": "Select existing approved certificate/key files and calculate their lowercase SHA-256 values. Never copy private key material into this catalog.",
+    "ca_file_and_ca_sha256": "The paired nulls intentionally select system CA trust for an explicit known feed/directory. To use an approved private CA for a direct contact, supply both its local path and hash. Learned mathematical contacts cannot carry a private CA.",
+    "port": "443 is the public TLS example. Choose permitted reachable ports and update the corresponding egress public_ports lists. A local loopback setup needs the explicit alternative described in REFRESH-USAGE.md."
+  },
+  "configs": {
+    "provider_feed": {
+      "entries": [
+        {
+          "specs": null,
+          "endpoints": [
+            {"host": null, "port": 443, "tls": true, "server_name": null}
+          ]
+        }
+      ],
+      "host": null,
+      "port": 443,
+      "tls": {"cert_file": null, "cert_sha256": null, "key_file": null, "key_sha256": null},
+      "lease_seconds": 90,
+      "cleanup_seconds": 10,
+      "limits": {"max_connections": 2, "max_requests": 64, "max_reply_bytes": 1048576, "operation_ms": 1000}
+    },
+    "registrar": {
+      "contacts": {
+        "provider-a": {"host": null, "port": 443, "tls": true, "server_name": null, "ca_file": null, "ca_sha256": null}
+      },
+      "slots": [
+        {"feed": "provider-a", "specs": null, "max_contacts": 4, "max_bytes": 32768}
+      ],
+      "endpoint_scopes": {
+        "provider-a": {"tls_names": [null], "endpoints": []}
+      },
+      "egress": {"schema": "DMKN_V5_OWNER_EGRESS_V1", "mode": "public-ipv4", "public_ports": [443], "test_endpoints": []},
+      "refresh": {"requests": 1, "reply_bytes": 32768, "attempt_timeout_ms": 2000, "max_age_ms": 120000, "min_service_ms": 5000},
+      "service": {
+        "host": null,
+        "port": 443,
+        "tls": {"cert_file": null, "cert_sha256": null, "key_file": null, "key_sha256": null},
+        "lease_seconds": 60,
+        "cleanup_seconds": 10,
+        "limits": {"max_connections": 2, "max_requests": 64, "max_reply_bytes": 1048576, "operation_ms": 1000}
+      }
+    },
+    "reader": {
+      "contacts": {
+        "community": {"host": null, "port": 443, "tls": true, "server_name": null, "ca_file": null, "ca_sha256": null}
+      },
+      "directories": ["community"],
+      "specs": null,
+      "routes": [null],
+      "egress": {"schema": "DMKN_V5_OWNER_EGRESS_V1", "mode": "public-ipv4", "public_ports": [443], "test_endpoints": []},
+      "directory": {"requests": 1, "reply_bytes": 32768, "max_contacts": 4, "max_bytes": 32768, "max_age_ms": 30000, "attempt_timeout_ms": 2000},
+      "search": {
+        "limits": {"providers": 4, "snapshots": 8, "requests": 16, "pages": 12, "examined": 256, "candidates": 16, "bytes": 4194304, "wall_ms": 20000, "inflight": 1},
+        "offer": {"max_bytes": 65536, "max_expanded_bytes": 65536, "max_age_ms": 20000},
+        "page": {"scanned": 16, "matches": 4, "bytes": 65536, "timeout_ms": 500, "record_probes": 256, "node_reads": 2048, "hash_calls": 4096, "sql_vm_steps": 100000}
+      }
+    }
+  },
+  "shared_symbol_names_example": [[[0, {"$bytes": [83, 116, 100]}], [0, {"$bytes": [72, 97, 115, 104, 77, 97, 112]}]]],
+  "shared_symbol_names_example_meaning": "Std.HashMap. Save this array alone only when that exact name belongs to your approved selected context or historical name directory; it is a name, not an invented portable symbol ID."
+}

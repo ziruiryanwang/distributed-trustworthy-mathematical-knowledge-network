@@ -12,12 +12,13 @@ check selected contributions locally, develop concepts and consequences, and
 return reusable mathematics. No global research agenda, human-intention field,
 central mathematical authority or total blockchain ledger is required.
 
-The current [local distribution](software/v5/ordinary_directory_kit/ADOPTION.md)
+The current [local distribution](software/v5/ordinary_connect_ownership/ADOPTION.md)
 provides one adopted extraction and archive.
-Its package is the adopted [historical name-directory implementation](software/v5/ordinary_name_directory/ADOPTION.md),
-PROFILE `7687d5276d8a7edc0beeb7066e4cbaae16529b0e88d8a0728b003dad04a4dd34`.
+Its package adds policy-scoped contact refresh and explicitly owned TCP connection
+setup to the adopted historical name-directory implementation,
+PROFILE `d8eb8e4bfa4845ad44673ee037c739973dc5d03f89ed38ee80979c47888fa3cb`.
 The guide, matching operator, offline preview and direct build closure accompany
-that unchanged package. Use its current root guide, not historical overlay
+that package; native checking support is unchanged. Use its current root guide, not historical overlay
 instructions preserved inside older documentation. The pack and relocated CLI
 checks passed independent saved-outcome review.
 
@@ -53,6 +54,14 @@ and indexed probes can avoid unrelated proof data; selectivity and routing
 coverage remain premises, and broad queries can still have corpus-sized work.
 A finite query reports its coverage/budgets, not universal absence or relevance.
 See the [source-based discovery audit](software/v5/ordinary_dedicated_host/QUERY-PAYOFF-AUDIT.md).
+
+Independent registrars can refresh preapproved contact feeds, applying exact route,
+endpoint and aggregate quotas before serving a finite union. Missing, truncated,
+empty and expired replies retain distinct outcomes. A fresh response is advisory;
+it neither proves current endpoint availability nor authorizes mathematics. The
+registrar never dials learned endpoints. Known TCP unavailability permits trying
+another approved feed only after observed owned-socket closure; uncertain
+stream/TLS setup remains terminal. See the current kit's refresh companion.
 
 The optional historical name directory exports a selected library's bindings once,
 then resolves previously unqueried exact names with bounded point reads and no
