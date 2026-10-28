@@ -4,6 +4,14 @@ Updated: 2026-10-24. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
+**2026-10-28 reciprocal theory reuse:** the [independent recipient audit](software/v5/ordinary_finite_map_refinement/FRESH-RECIPIENT-REVIEW.md)
+now establishes separate local grounding,37-unit checked receipt,offline dependent
+extension and a one-unit independently checked return. The providers closed
+normally. This strengthens the operational evidence for transferable theories;
+it is not independent hosting or demonstrated discovery acceleration. Current
+source construction is being consolidated into one portable builder, without
+historical experiment-package dependencies.
+
 **2026-10-28 working theory reuse:** the [finite-map refinement checkpoint](software/v5/ordinary_finite_map_refinement/ADOPTION.md)
 now connects actual formal-feature discovery, type-based interface selection,
 bounded reconstruction above installed Std, checked new contexts/refinement

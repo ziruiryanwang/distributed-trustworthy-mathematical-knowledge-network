@@ -1,5 +1,37 @@
 # Adopted local search, theory extension and return
 
+## Independent recipient and checked return now adopted
+
+Root adopts the completed FRESH-RECIPIENT-REVIEW
+`6bce2d51a6bbf981560e850317b43142e5e2877f37a3f4d69dc91890af0f73db`.
+All ten selected public calls closed cleanly. Separate B state independently
+checked its selected Std library, received the37-unit theory closure, and used
+it after A's provider closed to prove contextual sequence/choice distributivity.
+A then independently checked the returned theorem as one new unit.
+
+- B checked Std root: `a4f4c231a5ee12a1bcbb7054742dad01a1c0491015534ada671c99bf3136b4f6`.
+- B received theory root: `cd4e2f646a69fc8c4e34205a856d43f054fc4b84623b2975ff8df6d227d30393`.
+- B new extension root: `6e5fbf1f8418ac78173197096520f786c943766415bfd3fa8236894559fa9a2d`.
+- A checked return root: `54108bb211988482d33cbf21f1c61feaef1f89ae6c88c0730d1f95b5c12dca7c`.
+
+The actual returned proof depends on the received equivalence theorem; all24
+imports were already warranted at A. Reception used75requests/730173replyB;
+return used2requests/52541replyB. No producer source project or database was
+copied. Both finite providers stopped normally; no service remains live.
+
+This episode cost302.21875knownCPU seconds:260.1875for one-time B grounding and
+42.03125for subsequent exchange/extension/publication/services. Earlier research,
+producer/discovery and agent costs are excluded, and overlapping service/receive
+wall durations are not summed as elapsed time. This establishes separate-owner
+reciprocal theory use on one PC, not independent hosting, autonomous discovery
+or a causal speedup. Do not repeat this episode to accumulate theorem counts.
+
+The next implementation focus is reproducible current-source construction and
+a usable operator path. The flattened builder is under focused review/controls;
+no new native build is yet qualified. Full v5 remains active and unfinished.
+
+## Preceding producer-side adoption
+
 2026-10-28. Root adopts the actual operational and mathematical results:
 CONTRIBUTION02-OUTCOME (`872ce5d3`), CONTRIBUTION02-MATH (`afb45106`) and
 DISCOVERY02-OUTCOME (`f9c1aada`). The ordinary frontier positive and both
@@ -48,8 +80,8 @@ the observed layout dependency without weakening mathematics. This does not
 establish arbitrary executable use of reconstructed libraries. Use an approved
 ordinary source project when executable code or extra frontend metadata is needed.
 
-The next selected work is a saved-data preflight for a separate receiving owner:
+The next work selected at that earlier checkpoint was a saved-data preflight for a separate receiving owner:
 check the full proof dependency closure and existing public limits before cold
 grounding. NEXT-PAYOFF records why this advances the unresolved reciprocal user
 flow. No extra same-owner theorem, repeated discovery or certificate campaign is
-selected. Portable source integration is investigated independently in parallel.
+selected. That recipient flow has now completed as recorded above.

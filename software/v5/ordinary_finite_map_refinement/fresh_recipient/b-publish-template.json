@@ -1,0 +1,1 @@
+{"context_root":"__ACTUAL_B_CONTRIBUTION_ROOT__","index":{"create":true,"limits":{"max_db_pages":4096,"max_features":512,"max_logical_bytes":16777216,"max_objects":32,"max_postings":4096,"max_snapshots":33},"path":"__FRESH_B_INDEX_ABSOLUTE_PATH__"},"max_total_bytes":1048576,"max_unit_bytes":1048576,"targets":"__ACTUAL_B_RESULT_TARGETS__"}

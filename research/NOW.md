@@ -1,5 +1,47 @@
 # Current research desk
 
+**2026-10-28 current:** complete reciprocal audit6bce2d51 adopted. All ten calls
+closed; same-PC independent rich receive/offline extension/checked return works,
+302.21875knownCPU including260.1875cold grounding. No runtime lives. The current
+portable builder source review17f401ee and controls-source review79c4450f pass;
+actual seven controls01 also passed,15.98457wall/3.875knownCPU,awaiting concise
+saved audit. Source-only current_source_bundle successor in progress (95files),
+then one build from its extracted source if cleared. No repeat rich theory or
+certificate work. Full v5 active/local/unpublished; discovery speedup unproved.
+
+**2026-10-28 checked reciprocal loop:** A independently CHECKED the offline B
+extension with1unit/2requests/52541replyB,5.2059234wall/5.109375knownCPU,root54108bb2.
+Full source/grounding/receive/offline/return audit is closing. B service86423
+still original90second lease; root polls it. Actual loop complete; do not repeat
+it or invent a growth-speedup claim. Continue current source distribution and
+focused controls, then improve the practical operator route. Goal ACTIVE.
+
+**2026-10-28 offline theory extension CHECKED:** A's finite service closed cleanly.
+B used only its retained received theory and checked one contextual distributivity
+law,root6e5fbf1f,46747B;10.4227276wall/9.96875knownCPU,21authoringgroups343354B.
+The exact acquired equivalence theorem occurs in its proof imports. B published
+one actual result into its fresh index. Root awaits independent import-closure
+review before finite B service/A checked return. No runtime currently lives.
+Portable builder source review17f401ee passes; changed-boundary controls are
+being authored, no compile/build run selected. Goal remains active/local.
+
+**2026-10-28 independent rich receive CHECKED:** B has independently grounded
+Std (260.1875knownCPU) and now received37theory units through actual75requests,
+730173replyB,12.0961457wall/10.6875knownCPU. Rootcd4e2f64 is separate from A.
+Combined source/grounding review1d2d06e9 adopted; actual receive audit in progress.
+A serve session88264 still holds its original180second lease; after clean close,
+select one B dependent contribution offline. Parallel flattened builder is source
+ready, independently reviewed by fresh_recipient_plan; portable_integration owns
+focused native-free control source. No broad rebuild or historical replay.
+
+**2026-10-28 fresh recipient grounding:** init01 CHECKED456 basis units in fresh
+independent B state,10.1592173wall/9.828125knownCPU; prefix01 is running under
+root session94118, exact selection9871d49c. Reviewed source/data preflight gives
+37units709263B for the chosen law's full receive closure; authoring is separate.
+Root owns serial state operations. In parallel, portable_integration implements
+a fresh flattened source builder per PORTABLE-INTEGRATION-PLANc0bba463; no build
+or predecessor mutation. Latest Git checkpoint7f0367d records local theory return.
+
 **2026-10-28 reciprocal continuation:** root adopts PUBLICATION-OUTCOME575d2f6e;
 Context plus11 checked endpoints are now in the existing local index,200395B
 read,3.0593944wall/2.75knownCPU,clean closure. ADOPTION records the completed

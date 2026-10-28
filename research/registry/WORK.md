@@ -4,6 +4,21 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-28 current: root finished/adopted10call reciprocal flow, owns Git and
+next source-bundle/build selections. portable_integration authors fresh
+ordinary_current_source_bundle source (95payload fixed-selection successor).
+fresh_recipient_plan audits actual seven current-distribution controls then
+reviews bundle source. frontier_failure_audit completed combined reciprocal
+review6bce2d51; its follow-on payoff note did not complete due agent capacity.
+No runtime lives and no subagent state/Git/native operations are selected.
+
+2026-10-28 current: root owns fresh_recipient/select_grounding.py and execution;
+init passed,prefix session94118 live. fresh_recipient_plan owns source/config
+templates for receiving/offline contribution; frontier_failure_audit reviews
+the changed flow and saved outcomes. portable_integration now owns source-only
+ordinary_current_distribution/ builder/map implementation per adopted plan.
+No subagent native/state/Git operations; no duplicated tests or historical rebuild.
+
 2026-10-28 reciprocal continuation: root owns selections/execution/adoption/Git.
 fresh_recipient_plan owns refinement/FRESH-RECIPIENT-PLAN.md (saved receive and
 authoring closures, cold setup recipe); frontier_failure_audit owns independent
