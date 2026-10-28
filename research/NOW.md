@@ -1,5 +1,26 @@
 # Current research desk
 
+**2026-10-28 current:** observation-modes-check02 PASS, all six axiom listings
+empty; independently audited9852ad17adopted. Source03 adds exact three-mode
+contextual guarantees with destructive total observation updates. Diagnostic
+used ordinary source/no index and explicit assistance; no speedup claim. Failed01
+preserved,combined6.0625knownCPU. No runtime lives. Root selects source-only
+ordinary_observation_growth plan for one actual operator-kit contribution into
+already grounded B and publication of bridge/main interfaces, then actual
+verification if reviewed. No new grounding, rebuild, certificate or repeat loop.
+
+**2026-10-28 current diagnostic check:** source-only investigator chose destructive
+observation updates using ordinary source, with no index request. SOURCE-REVIEW
+and CHECK-ROUTE pass in principle. Proposed02 corrects one redundant tactic;
+ordinary compiled-context reuse check01 CLOSED FAILED under selection7da96e76.
+Retained Context imported cleanly; new source had missing proof-only hypothesis,
+ambiguous constructors and a wrongly removed rfl. No new theorem accepted.
+Source-only Proposed03 corrections and saved-outcome audit are selected; no
+native retry or runtime currently lives.
+Five retained module companions reused without old source/grounding replay.
+Full record: v5-2026-10-28-growth/CHECK-EXECUTION.md. Git efe7ece retains adopted
+operator companion. Do not launch extra math/reciprocal tests or claim index benefit.
+
 **2026-10-28 current:** Gitc9e3691 preserves adopted portable build. Current
 operator controls01 exposed a test expectation error after eight successful
 preparations; helper correctly refused the unwrapped report. Failure preserved.

@@ -4,6 +4,12 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-28 latest: fresh diagnostic/check phase COMPLETE, independent actual
+check02adopted. portable_integration owns source-only ordinary_observation_growth
+CONTRIBUTION-PLAN and exact operator request templates using retained B state.
+Root owns adoption, preparation/launch selections and Git. No runtime lives;
+source/failed evidence retained. Other agents currently have no active assignment.
+
 2026-10-28 latest: fresh_discovery_diagnostic owns INVESTIGATION.md and optional
 Proposed.lean under v5-2026-10-28-growth, source-only first phase with no inherited
 conversation. fresh_recipient_plan audits actual operator remaining01 at
