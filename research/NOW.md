@@ -1,5 +1,18 @@
 # Current research desk
 
+**2026-10-28 current:** Gitc9e3691 preserves adopted portable build. Current
+operator controls01 exposed a test expectation error after eight successful
+preparations; helper correctly refused the unwrapped report. Failure preserved.
+Remaining-only01 now passed11refusals/3groups/63input-integrity with clean closure,
+zero replayed positives,0.3125knownCPU; independent auditad5f7953adopted.
+The current operator companion is adopted for its inert preparation scope;
+software/v5/ordinary_current_distribution/ADOPTION.md is the local entrypoint.
+No runtime lives.
+Root selected one fresh source-only investigator under
+`research/cycles/v5-2026-10-28-growth/SELECTION.md`, with five pinned whole modules,
+ordinary source tools and optional index. This is a diagnostic, not causal evidence
+or a new matcher. Native/public calls require a later concrete decision. Goal ACTIVE.
+
 **2026-10-28 portable build adopted; operator usability in review.** Root reads
 and adopts `ordinary_current_distribution/BUILD-OUTCOME.md` (38a9b1fa): actual
 relocated-source build produced154files/117auxiliaries/8documents in50.7916521wall

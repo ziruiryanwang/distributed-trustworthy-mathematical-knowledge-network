@@ -1,0 +1,29 @@
+{
+  "files": {
+    "software/v5/concept_episode/TheoryA.lean": {
+      "bytes": 5724,
+      "sha256": "d2391e4a1a69d1ce57274ed011cd16734457e8239d2831a8e6eddd3349cbd9d9"
+    },
+    "software/v5/concept_episode/TheoryB02.lean": {
+      "bytes": 7401,
+      "sha256": "d1397331c7b633fec21558189c2eaa45b76642c49d5ca3f359a01f6e623c5bb4"
+    },
+    "software/v5/ordinary_finite_map_effects/Body.lean": {
+      "bytes": 5482,
+      "sha256": "1bf285a61e8436b694cac26c8a59f21bf0adadfd25b9e2efefd95f3e06284a7e"
+    },
+    "software/v5/ordinary_finite_map_refinement/BodyParametric.lean": {
+      "bytes": 6902,
+      "sha256": "55988cf3fde26bc08173cbc352c1266ea836897ac56d70ec45c8e9e900d71b9d"
+    },
+    "software/v5/ordinary_finite_map_refinement/fresh_recipient/Body.lean": {
+      "bytes": 1077,
+      "sha256": "af055f8fb031383770e952fdd155bc1ef0280214d60f2724109695c62900aec0"
+    }
+  },
+  "index_coverage": "Separate existing publication endpoints; not every declaration in these sources is indexed",
+  "native_execution_selected": false,
+  "schema": "DMKN_LOCAL_DEVELOPMENT_DIAGNOSTIC_CORPUS_V1",
+  "scope": "Whole retained approved source modules selected before investigation; source access is permitted, no causal efficacy claim",
+  "source_is_not_an_acceptance_report": true
+}

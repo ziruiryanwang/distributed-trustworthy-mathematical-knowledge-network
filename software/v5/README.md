@@ -2,6 +2,15 @@
 
 ## Current ordinary source route
 
+**2026-10-28 current:** use the [current local software entrypoint](ordinary_current_distribution/ADOPTION.md).
+It identifies the actual portable-source build, exact approved package/profile,
+runtimes and the current operator companion for query, receive, contribution and
+publication. The receiver is unchanged from the independently checked rich-theory
+workflow. Source and failed test evidence remain preserved; consult the entrypoint
+for the separate operator-control outcome. No historical overlay rebuild is needed.
+
+### Preceding distribution
+
 Use [the current flat source/prebuilt distribution](ordinary_current_release/ADOPTION.md)
 and its actual extracted operator guide. It includes the adopted producer-binding
 improvement, current preparation, formal queries and offline export. The prebuilt

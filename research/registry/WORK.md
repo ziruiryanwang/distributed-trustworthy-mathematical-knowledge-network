@@ -4,6 +4,13 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-28 latest: fresh_discovery_diagnostic owns INVESTIGATION.md and optional
+Proposed.lean under v5-2026-10-28-growth, source-only first phase with no inherited
+conversation. fresh_recipient_plan audits actual operator remaining01 at
+ordinary_current_operator_kit/REMAINING-OUTCOME.md. portable_integration finished
+the remaining-only control source; operator_route finished NEXT-CENTRAL-DECISION.
+Root owns adoption, navigation, exact subsequent calls and Git. No runtime lives.
+
 2026-10-28 latest: root adopts actual current build38a9b1fa and owns finite
 selections, navigation and Git. fresh_recipient_plan independently reviews
 ordinary_current_operator_kit/REVIEW.md; portable_integration owns that kit's

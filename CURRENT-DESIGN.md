@@ -4,6 +4,15 @@ Updated: 2026-10-28. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
+**Current operator route adopted:** the [local software entrypoint](software/v5/ordinary_current_distribution/ADOPTION.md)
+now connects the actual portable-source build to the tested current preparation
+companion. It accepts checked contribution reports as parents and publication
+inputs, prepares new contributions with exact selected targets, and connects
+context-query reports to search. Eight positive preparations and focused refusals
+were checked, with the failed assertion run preserved and only its unfinished
+tail rerun. One fresh optional-index investigation now targets the remaining
+discovery/value assumption before selecting any new retrieval mechanism.
+
 **Portable current source now builds:** the [actual build audit](software/v5/ordinary_current_distribution/BUILD-OUTCOME.md)
 adopts a complete current package constructed from the verified relocated source
 archive, with no historical experiment package as a build input. The receiver and

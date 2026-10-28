@@ -1,0 +1,153 @@
+{
+  "package_selection": "Use prepare_selected.py with your explicitly approved current package and its exact PROFILE SHA-256. No implicit package or profile is selected.",
+  "instructions": "Copy exactly one requests entry into a separate request JSON. Replace every null required input with an explicit choice or exact public report reference. Null TLS/CA fields are intentional for these loopback examples. Approval booleans deliberately start false. Policy numbers are example finite ceilings, not sufficient-capacity promises. Do not submit this whole catalog as a request.",
+  "requests": {
+    "init": {
+      "action": "init",
+      "state": {"catalog": null, "custody": null, "store_id": null},
+      "custody_limits": {"objects": 4096, "exports": 32768, "logical_bytes": 67108864, "db_pages": 32768}
+    },
+    "prepare-query": {
+      "action": "prepare-query",
+      "state": {"catalog": null, "custody": null, "store_id": null},
+      "custody_limits": {"objects": 4096, "exports": 32768, "logical_bytes": 67108864, "db_pages": 32768},
+      "parent_report": {"path": null, "sha256": null},
+      "native_type": {"path": null, "sha256": null},
+      "operation_output": null
+    },
+    "find": {
+      "action": "find",
+      "contacts": {"peer-a": {"host": "127.0.0.1", "port": 38191, "tls": false, "server_name": null, "ca_file": null, "ca_sha256": null}},
+      "providers": ["peer-a"],
+      "specs": [{"tag": "type-symbol", "symbol": {"kind": "portable-symbol", "symbol_id": null}}],
+      "limits": {"providers": 1, "snapshots": 4, "requests": 16, "pages": 12, "examined": 256, "candidates": 16, "bytes": 4194304, "wall_ms": 20000, "inflight": 1},
+      "offer": {"max_bytes": 262144, "max_expanded_bytes": 524288, "max_age_ms": 60000},
+      "page": {"scanned": 64, "matches": 4, "bytes": 262144, "timeout_ms": 500, "record_probes": 1024, "node_reads": 8192, "hash_calls": 65536, "sql_vm_steps": 200000},
+      "operation_output": null
+    },
+    "preview": {
+      "action": "preview",
+      "contacts": {"peer-a": {"host": "127.0.0.1", "port": 38191, "tls": false, "server_name": null, "ca_file": null, "ca_sha256": null}},
+      "find_report": {"path": null, "sha256": null},
+      "match_index": null,
+      "limits": {"requests": 1, "reply_bytes": 1048576},
+      "operation_output": null
+    },
+    "inspect": {
+      "action": "inspect",
+      "contacts": {"peer-a": {"host": "127.0.0.1", "port": 38191, "tls": false, "server_name": null, "ca_file": null, "ca_sha256": null}},
+      "preview_report": {"path": null, "sha256": null},
+      "binding_index": null,
+      "limits": {"requests": 2, "reply_bytes": 9437184, "locator_bytes": 1048576, "unit_bytes": 8388608},
+      "operation_output": null
+    },
+    "authoring-offers": {
+      "action": "authoring-offers",
+      "contacts": {"peer-a": {"host": "127.0.0.1", "port": 38191, "tls": false, "server_name": null, "ca_file": null, "ca_sha256": null}},
+      "preview_report": {"path": null, "sha256": null},
+      "limits": {"requests": 1, "reply_bytes": 32768, "max_offers": 8},
+      "operation_output": null
+    },
+    "receive": {
+      "action": "receive",
+      "state": {"catalog": null, "custody": null, "store_id": null},
+      "custody_limits": {"objects": 4096, "exports": 32768, "logical_bytes": 67108864, "db_pages": 32768},
+      "contacts": {"peer-a": {"host": "127.0.0.1", "port": 38191, "tls": false, "server_name": null, "ca_file": null, "ca_sha256": null}},
+      "find_report": {"path": null, "sha256": null},
+      "match_index": null,
+      "parent_report": {"path": null, "sha256": null},
+      "dependency_policy": null,
+      "limits": {"requests": 128, "reply_bytes": 67108864, "units": 64, "unit_bytes": 8388608, "total_bytes": 33554432, "missing": 256, "preflights": 65, "locator_bytes": 1048576},
+      "operation_output": null
+    },
+    "contribute": {
+      "action": "contribute",
+      "state": {"catalog": null, "custody": null, "store_id": null},
+      "custody_limits": {"objects": 4096, "exports": 32768, "logical_bytes": 67108864, "db_pages": 32768},
+      "parent_report": {"path": null, "sha256": null},
+      "source": {"path": null, "sha256": null},
+      "approve_local_source": false,
+      "acquired": [{"report": {"path": null, "sha256": null}, "target_indices": [null]}],
+      "output_names": [null],
+      "operation_output": null
+    },
+    "contribute-with-frontier": {
+      "action": "contribute",
+      "state": {"catalog": null, "custody": null, "store_id": null},
+      "custody_limits": {"objects": 4096, "exports": 32768, "logical_bytes": 67108864, "db_pages": 32768},
+      "parent_report": {"path": null, "sha256": null},
+      "source": {"path": null, "sha256": null},
+      "approve_local_source": false,
+      "acquired": [{"report": {"path": null, "sha256": null}, "target_indices": [null]}],
+      "output_names": [null],
+      "project_authoring": {"path": null, "sha256": null},
+      "approve_local_project": false,
+      "authoring_frontier_report": {"path": null, "sha256": null},
+      "operation_output": null
+    },
+    "produce-baseline": {
+      "action": "produce-baseline",
+      "project_search_paths": [null],
+      "modules": [null],
+      "output_names": [null],
+      "approve_local_project": false,
+      "spool_mib": 144,
+      "operation_output": null
+    },
+    "intake-baseline": {
+      "action": "intake-baseline",
+      "state": {"catalog": null, "custody": null, "store_id": null},
+      "custody_limits": {"objects": 4096, "exports": 32768, "logical_bytes": 67108864, "db_pages": 32768},
+      "parent_report": {"path": null, "sha256": null},
+      "producer_report": {"path": null, "sha256": null},
+      "bundle_directory": null,
+      "manifest": {"path": null, "sha256": null}
+    },
+    "intake-explicit-manifest": {
+      "action": "intake-baseline",
+      "state": {"catalog": null, "custody": null, "store_id": null},
+      "custody_limits": {"objects": 4096, "exports": 32768, "logical_bytes": 67108864, "db_pages": 32768},
+      "parent_report": {"path": null, "sha256": null},
+      "bundle_directory": null,
+      "manifest": {"path": null, "sha256": null}
+    },
+    "publish-accepted": {
+      "action": "publish",
+      "state": {"catalog": null, "custody": null, "store_id": null},
+      "custody_limits": {"objects": 4096, "exports": 32768, "logical_bytes": 67108864, "db_pages": 32768},
+      "accepted_report": {"path": null, "sha256": null},
+      "target_indices": [null],
+      "index": {"path": null, "limits": {"max_objects": 4096, "max_postings": 262144, "max_features": 65536, "max_snapshots": 4097, "max_logical_bytes": 67108864, "max_db_pages": 32768}, "create": true},
+      "max_unit_bytes": 8388608,
+      "max_total_bytes": 33554432,
+      "operation_output": null
+    },
+    "publish": {
+      "action": "publish",
+      "state": {"catalog": null, "custody": null, "store_id": null},
+      "custody_limits": {"objects": 4096, "exports": 32768, "logical_bytes": 67108864, "db_pages": 32768},
+      "producer_report": {"path": null, "sha256": null},
+      "intake_report": {"path": null, "sha256": null},
+      "target_indices": [null],
+      "index": {"path": null, "limits": {"max_objects": 4096, "max_postings": 262144, "max_features": 65536, "max_snapshots": 4097, "max_logical_bytes": 67108864, "max_db_pages": 32768}, "create": true},
+      "max_unit_bytes": 8388608,
+      "max_total_bytes": 33554432,
+      "operation_output": null
+    },
+    "serve": {
+      "action": "serve",
+      "state": {"catalog": null, "custody": null, "store_id": null},
+      "custody_limits": {"objects": 4096, "exports": 32768, "logical_bytes": 67108864, "db_pages": 32768},
+      "index": {"path": null, "limits": {"max_objects": 4096, "max_postings": 262144, "max_features": 65536, "max_snapshots": 4097, "max_logical_bytes": 67108864, "max_db_pages": 32768}, "create": false},
+      "host": "127.0.0.1",
+      "port": 38191,
+      "tls": null,
+      "lease_seconds": 60,
+      "cleanup_seconds": 15,
+      "limits": {"max_connections": 4, "max_requests": 256, "max_reply_bytes": 67108864, "operation_ms": 1000},
+      "share_all_custody": false,
+      "exclusive": false,
+      "operation_output": null
+    }
+  }
+}
