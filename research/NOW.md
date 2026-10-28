@@ -1,5 +1,70 @@
 # Current research desk
 
+**2026-10-28 adopted directory kit:** ordinary_directory_kit/ADOPTION.md is the current
+complete entrypoint; independent OUTCOMEb933e5a3 adopted.264payloads, exact160-file package
+PROFILE7687d527; pack+changed-preparer2.296875knownCPU, all closed. No pattern deployment.
+Root updated README/CURRENT-DESIGN. Next source/theory is bounded policy-scoped provider
+registration refresh, challenged independently; no implementation selected yet.
+
+**2026-10-28 latest:** name-directory capability and pure DAG pattern helper committed993caa1.
+Root adopted actual-workflow NO-GO for shipping whole-type patterns: preserve reviewed
+candidates; no integration controls/index or pattern package. A naturally useful matching
+query was absent; current shared-carrier discovery remains supported.
+New ordinary_directory_kit pack and one relocated directory-spec find preparation passed
+and closed (2.296875 known CPU seconds);264payloads, unchanged160-file package PROFILE7687d527.
+growth_design_audit owns saved OUTCOME before adoption/navigation. No runtime remains.
+Next source/theory: operable_scale_decision evaluates bounded provider registration lifecycle;
+query_scaling challenges expiry/curation/real payoff. Root owns selection/Git. Fullv5 active/local/unpublished.
+
+**2026-10-28 continued:** directory OUTCOME195974eb adopted; current complete kit unchanged.
+Pattern twelve pure groups passed once, all closed, 0.515625 known CPU seconds.
+Root selects optional pattern-profile integration per ordinary_type_pattern/INTEGRATION-SELECTION.
+query_scaling owns adapter/peer API; next_value host successor then independent controls;
+growth_design_audit chooses decision-changing real workflow; root owns query/profile/package/Git.
+Exact mode remains default; no native build, mathematical replay or runtime lives.
+
+**2026-10-28 actual directory workflow passed:** assembly160/153unchanged;
+one real historical export captured3511names and closed; four installed offline
+CLI controls passed, including exact saved-query equality and mixed absence.
+Positive lookup used832entry+384treebytes, plus fixed code/manifest/input work;
+no owner reopening or whole payload scan. All four runs are closed, combined
+known CPU5.25seconds. growth_design_audit audits saved outcome; no runtime lives.
+Current kit still remains the adopted usable-kit-pack01 pending coherent next
+handoff. New tested package is name-directory-assembly01, PROFILE7687d527.
+Next source work: next_value independent ordinary_type_pattern controls;
+query_scaling optional profile/index integration decision. Root owns adoption,
+documentation and Git. No native build, proof replay or service campaign.
+
+**2026-10-28 directory integration underway:** fourteen focused controls passed
+and independent saved audit5e638655 is adopted (0.390625 known CPU seconds).
+File-only assembly passed with160files/153unchanged, PROFILE7687d527; unchanged
+native support. Root selects one full historical metadata export through the
+existing public launcher, then installed offline controls after actual success.
+No proof, service or compiler campaign. Parallel: ordinary_type_pattern port
+source is implemented/reviewed; next_value owns independent changed-DAG controls.
+Full v5 remains ACTIVE/local/unpublished; current adopted kit is unchanged until
+the new workflow and coherent handoff are adopted.
+
+**2026-10-28 selected name-directory source:** ordinary_name_directory/SELECTION
+selects export-once historical lookup for many fresh names. Root owns packed
+ordinal-vector storage/offline query and integration; query_scaling owns the
+full advisory projection/export callers; next_value independent review/controls.
+Reuse existing authenticated_index primitives. No runtime or native change.
+The separate growth audit confirmed rich authoring already works; its next
+source-only choice is current ordinary inert law-shape search versus existing
+pattern tools, deduplicating the earlier type_pattern implementation.
+
+**2026-10-28 resumed core-scale investigation:** full v5 remains ACTIVE, local
+and unpublished. Root adopts the point-query finding: saved exact specs avoid
+repeat resolution, but fresh names still reconstruct selected metadata. Root now
+selects source-only evaluation of an immutable advisory name-directory companion
+with an explicitly weaker historical-projection contract, not current owner
+validation. query_scaling owns ADVISORY-DIRECTORY-DECISION. next_value deduplicates
+warm semantic imports against already implemented grounded cuts; growth_design_audit
+checks the remaining independent concept-development workflow. Checkpoints are
+under ordinary_usable_distribution. No runtime, native build, owner access, schema
+migration or new index implementation is selected. Root owns reconciliation/Git.
+
 **2026-10-28 resource decision closed:** RESOURCE-DECISION.md retains the explicit
 operator storage premise; no C++ fork, native build or accounting migration.
 Pinned serializer source supports only a conditional per-artifact `M+88` bound

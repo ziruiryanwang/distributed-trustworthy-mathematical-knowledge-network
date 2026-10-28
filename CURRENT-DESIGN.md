@@ -12,10 +12,10 @@ check selected contributions locally, develop concepts and consequences, and
 return reusable mathematics. No global research agenda, human-intention field,
 central mathematical authority or total blockchain ledger is required.
 
-The current [local distribution](software/v5/ordinary_usable_distribution/ADOPTION.md)
+The current [local distribution](software/v5/ordinary_directory_kit/ADOPTION.md)
 provides one adopted extraction and archive.
-Its package is the adopted [reply-capacity implementation](software/v5/ordinary_reply_capacity/ADOPTION.md),
-PROFILE `c8c8b5971e43361b7b09847b35b0e44c2645b284e59c59b90ab993136ccdb146`.
+Its package is the adopted [historical name-directory implementation](software/v5/ordinary_name_directory/ADOPTION.md),
+PROFILE `7687d5276d8a7edc0beeb7066e4cbaae16529b0e88d8a0728b003dad04a4dd34`.
 The guide, matching operator, offline preview and direct build closure accompany
 that unchanged package. Use its current root guide, not historical overlay
 instructions preserved inside older documentation. The pack and relocated CLI
@@ -53,6 +53,12 @@ and indexed probes can avoid unrelated proof data; selectivity and routing
 coverage remain premises, and broad queries can still have corpus-sized work.
 A finite query reports its coverage/budgets, not universal absence or relevance.
 See the [source-based discovery audit](software/v5/ordinary_dedicated_host/QUERY-PAYOFF-AUDIT.md).
+
+The optional historical name directory exports a selected library's bindings once,
+then resolves previously unqueried exact names with bounded point reads and no
+owner reopening. Its commitment requires an approved complete exporter; it does
+not certify current state or mathematical truth. Whole-type pattern integration
+is deferred after an actual-workflow audit; it is not shipped support.
 
 Before acquisition, the [offline formal viewer](software/v5/ordinary_preview_view/ADOPTION.md)
 shows a candidate type with exact symbol/universe/binder identities. It either

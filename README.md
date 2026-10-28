@@ -2,22 +2,19 @@
 
 ## Current entry points
 
-**October 26 v5 development:** start with the
-[current flat source/prebuilt distribution](software/v5/ordinary_current_release/ADOPTION.md).
-One selection includes the adopted producer-binding improvement, operator tools,
-formal queries and offline export. The prebuilt avoids compilation; the source
-route uses one direct builder, not historical overlays. Approved external
-Python/Lean runtimes remain required. Use the extracted root guide for ordinary
-investigation, independent checking, reusable modules, contribution and finite
-serving. Historical service wrappers and mirrors are not part of this selection.
-Follow the
-[current local checkpoint](research/cycles/v5-2026-10-26-local-discovery/CHECKPOINT.md)
-for current integration evidence. V5 remains unfinished, local and unpublished;
-ordinary local Lean checking is the default, not mandatory certificate production.
+**October 28 v5 development:** start with the
+[current local kit](software/v5/ordinary_directory_kit/ADOPTION.md).
+One extraction includes the tested ordinary library package, matching operator,
+formal preview, historical name directory, direct source build and current guide.
+Discover unfamiliar laws through shared mathematical vocabulary, inspect candidates,
+check selected mathematics locally, and return new concepts and consequences.
+The prebuilt avoids compilation; approved external Python/Lean runtimes remain
+required. Follow the extracted GUIDE.md rather than historical overlay instructions.
 
-A separately [tested query companion](software/v5/ordinary_basis_query/ADOPTION.md)
-now prepares supported formal search directly from Lean type syntax, without
-first proving a theorem or initializing a mathematical owner.
+The [current design](CURRENT-DESIGN.md) and [research desk](research/NOW.md)
+record remaining work. Full v5 remains unfinished, local and unpublished;
+ordinary local Lean checking is the default. Expensive certificates are optional,
+and no global task agenda or human-intention field controls mathematical acceptance.
 
 **Historical October 7 v4:** the [software and layered guide](deliverables/2026-10-07-v4/START-HERE.md)
 and [actual results](deliverables/2026-10-07-v4/RESULTS.md). The persistent named

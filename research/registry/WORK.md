@@ -1,5 +1,35 @@
 # Work and agent ledger
 
+2026-10-28 latest: pattern deployment deferred by practical workflow audit; sources preserved.
+Directory-kit pack+changed-preparer check complete; growth_design_audit audits saved OUTCOME.
+operable_scale_decision owns directory-kit/NEXT-CORE-DECISION (provider registration lifecycle);
+query_scaling REGISTRATION-CHALLENGE. Root owns adoption/navigation/Git. No runtime lives.
+
+2026-10-28 current: ordinary_type_pattern/INTEGRATION-SELECTION.md selects fresh optional
+profile integration. query_scaling owns adapter+peer_api; next_value custodian then
+independent seam controls; growth_design_audit WORKFLOW-CHOICE; root query/profile/package/Git.
+Directory outcome adopted; twelve pure pattern groups passed/closed. No native/runtime work.
+
+2026-10-28 latest: directory controls/assembly/realexport/offlineCLIs all passed
+and closed. Used ordinary_name_directory source/input/evidence frozen.
+growth_design_audit owns that directory's saved OUTCOME; next_value owns
+ordinary_type_pattern/controls.py+REVIEW.md; query_scaling owns its optional
+INTEGRATION-DECISION.md. Root owns current handoff/adoption/Git. No runtime lives.
+
+2026-10-28 name-directory source implementation selected: root owns
+ordinary_name_directory/directory_index.py, offline lookup and packaging;
+query_scaling owns fresh query.py/advisory_context.py successors; next_value
+owns independent review and controls. No runtime selected. growth_design_audit
+continues source-only LAW-SHAPE-DECISION, deduplicating old type_pattern and
+instantiation_discovery before recommending any implementation.
+
+2026-10-28 resumed source-only split: query_scaling owns the exact advisory
+directory contract at ordinary_usable_distribution/ADVISORY-DIRECTORY-DECISION.md;
+next_value owns WARM-SEMANTIC-IMPORT-DECISION.md, deduplicating grounded cuts;
+growth_design_audit owns GROWTH-CORE-DECISION.md, tracing the independent concept
+development path. Root reconciles whole-cost payoff, next selection and Git.
+No runtime, owner access, implementation, migration or external activity selected.
+
 2026-10-28 latest: native-output source audit closed; root RESOURCE-DECISION defers
 serializer/accounting changes. query_scaling now owns POINT-QUERY-DECISION.md on
 remaining local context metadata cost for exact-name queries (core scale issue),
