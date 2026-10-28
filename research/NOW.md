@@ -1,5 +1,23 @@
 # Current research desk
 
+**2026-10-28 adopted:** advisory-query independent OUTCOME4dec0160 passes and is
+adopted; entrypoint software/v5/ordinary_advisory_query/ADOPTION.md, PROFILE135c1824.
+Four controls, exact assembly, real query and inert find handoff are complete;
+3.625 known CPU seconds, no runtime remains. No measured speedup is asserted.
+Next source-only dedicated-host contract/data-path selection below remains active.
+
+**2026-10-28 latest continuation:** advisory-query controls01 passed four groups;
+file-only assembly01 produced PROFILE135c1824 with149 unchanged files; one actual
+query returned identical Context binding/spec/features with custody NOT_OPENED,
+snapshots NOT_CHECKED. Its inert find configuration is byte-identical to the prior
+tested one. All runtimes closed; independent saved-outcome review is closing.
+Root owns adoption/Git; no native/math/service repeat. Next source-only selection
+is ordinary_dedicated_host: usable dedicated inert custody/index hosting without
+mathematical-owner setup. Operator_route owns exact lifecycle/exclusion contract;
+query_scaling owns existing SDK data path. No host implementation/runtime yet.
+The existing SDK should be reused; an unsafe lock-removal shortcut is excluded.
+Full v5 remains ACTIVE, local/unpublished, license undecided.
+
 **2026-10-28 latest:** symbol-query candidate adopted after cumulative audit
 4b3dfb01a199ae58480df4d8ba40ed6d48cf4283de20b8ea281a5dfef3da113f.
 Known Context name -> exact selected-context feature -> actual newly indexed fill

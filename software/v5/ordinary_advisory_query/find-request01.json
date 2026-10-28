@@ -1,0 +1,47 @@
+{
+  "action": "find",
+  "contacts": {
+    "local-b": {
+      "ca_file": null,
+      "ca_sha256": null,
+      "host": "127.0.0.1",
+      "port": 38327,
+      "server_name": null,
+      "tls": false
+    }
+  },
+  "limits": {
+    "bytes": 4194304,
+    "candidates": 16,
+    "examined": 256,
+    "inflight": 1,
+    "pages": 12,
+    "providers": 1,
+    "requests": 16,
+    "snapshots": 4,
+    "wall_ms": 20000
+  },
+  "offer": {
+    "max_age_ms": 60000,
+    "max_bytes": 262144,
+    "max_expanded_bytes": 524288
+  },
+  "operation_output": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\advisory-query-unexecuted-find01",
+  "page": {
+    "bytes": 262144,
+    "hash_calls": 65536,
+    "matches": 4,
+    "node_reads": 8192,
+    "record_probes": 1024,
+    "scanned": 64,
+    "sql_vm_steps": 200000,
+    "timeout_ms": 500
+  },
+  "providers": [
+    "local-b"
+  ],
+  "query_report": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\advisory-query-positive01\\RESULT.json",
+    "sha256": "b7f0507a91ad36eb80e0885b2a1adcbc47d281f2e6f7acb528a32593a7393c20"
+  }
+}

@@ -1,5 +1,13 @@
 # Work and agent ledger
 
+2026-10-28 current: root completed advisory controls/assembly/one query/inert find
+handoff; portable_integration audits only saved outcomes at ordinary_advisory_query/
+OUTCOME.md. Root owns adoption/Git and next selections. operator_route owns
+ordinary_dedicated_host/CONTRACT.md (fresh immutable dedicated stores, enforced
+supported-command exclusion); query_scaling owns DATA-PATH.md (existing SDK and
+inert bundle validation reuse). Host source/theory only, no runtime or native work.
+No source/evidence already executed may be changed. Canonical root required.
+
 2026-10-28 latest: symbol-query implementation adopted and closed. Root owns
 adoption/Git and next integration. query_scaling owns ordinary_advisory_query/
 advisory_context.py+CONTRACT; operator_route owns its query.py+API caller;
