@@ -1,5 +1,28 @@
 # Current research desk
 
+**2026-10-28 adopted usable local kit:** ordinary_usable_distribution/ADOPTION.md
+is the single current entrypoint. Independent OUTCOME `e9c8a423` confirms archive,
+260-payload extraction, unchanged 158-file package, 93 source-build inputs and
+actual relocated preparation/preview plus expected manifest refusal. PROFILE
+remains `c8c8b597`; no state migration or native build. Known CPU 2.96875 seconds.
+Preview controls independently adopted as `5e360078`, 0.328125 CPU, commit8cb8d97.
+All runs closed. CURRENT-DESIGN and old entrypoint now describe one current path.
+Next source-only decisions: release_direction audits sustained-use cost/lifecycle;
+next_value identifies the largest remaining locally actionable release blocker
+without repeating prior assurance campaigns. Root owns selection, adoption and
+Git. Full v5 remains ACTIVE/local/unpublished; no license or external trial chosen.
+
+**2026-10-28 current source work:** ordinary_preview_view's complete specimen and
+scope/budget contract passed independent design review. Pure renderer and pinned
+saved-report wrapper are implemented; focused source review/controls are closing.
+No runtime selected yet. Root also adopts NEXT-CENTRAL-DECISION `af4c088a`:
+one coherent local distribution, because current linked guides contradict the
+installed product. ordinary_usable_distribution/SELECTION.md reuses unchanged
+158-file package/native support, matching companions and direct current sources.
+release_direction owns guide/catalog; next_value reviews root kit utility;
+query_scaling closes preview controls. No theorem, service or certificate replay.
+Full v5 stays ACTIVE, local/unpublished; license undecided.
+
 **2026-10-28 adopted current package:** ordinary_reply_capacity/ADOPTION.md is the
 current local entrypoint, PROFILE `c8c8b597`; OUTCOME `dd52636e` confirms the exact
 158-file package and matching operator companion. Reply controls/assembly/adapter

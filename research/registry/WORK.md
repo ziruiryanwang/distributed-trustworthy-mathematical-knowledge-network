@@ -1,5 +1,20 @@
 # Work and agent ledger
 
+2026-10-28 latest: coherent kit pack/relocation independently adopted (OUTCOME
+e9c8a423), all runtime closed. Root owns adoption/navigation/Git. release_direction
+owns ordinary_usable_distribution/CONTINUOUS-USE-DECISION.md source-only lifecycle
+audit; next_value owns RELEASE-BLOCKERS.md, a concrete remaining local release
+decision excluding that lifecycle task. No blanket reaudit or new implementation
+is yet selected. query_scaling and kit_usage_audit closed their scoped reviews.
+
+2026-10-28 active: preview design reviewed; render.py complete source-only,
+query_scaling owns final renderer/wrapper review and focused controls. Root owns
+view_preview.py, finite runtime selections and adoption/Git. In parallel,
+ordinary_usable_distribution source selection unifies the current package,
+operator/preview, instructions and direct build closure. release_direction owns
+GUIDE.md/REQUESTS.json/DOC-CONTRACT; next_value independently reviews root kit.py.
+No runtime, native build, service or new mathematical investigation lives.
+
 2026-10-28 next: current reply-capacity package adopted; both narrow fixes closed.
 next_value owns ordinary_preview_view/CONTRACT.md and SPECIMEN.md, query_scaling
 owns independent display-design REVIEW.md. Source/theory only before renderer
