@@ -1,8 +1,9 @@
 # Current local software entrypoint
 
-**Latest successor:** the adopted [dedicated-host candidate](../ordinary_dedicated_host/ADOPTION.md)
-adds inert custody/index hosting without mathematical-owner setup and retains
-advisory known-name search. Use its exact package and matching operator companion.
+**Latest successor:** the adopted [reply-capacity candidate](../ordinary_reply_capacity/ADOPTION.md)
+retains dedicated hosting and advisory search, improves exact-object replies and
+supports explicit earlier-report selections through its matching companion.
+Use its exact package and matching operator companion.
 It reuses this build's native support; mathematical acceptance is unchanged.
 The build and earlier-report compatibility information below remains preserved.
 

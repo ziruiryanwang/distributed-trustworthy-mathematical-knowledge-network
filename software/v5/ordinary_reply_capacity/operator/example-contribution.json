@@ -1,0 +1,17 @@
+{
+  "action": "contribute",
+  "selection_report_policy": "prior-profile-extract-only-v1",
+  "state": {"catalog": null, "custody": null, "store_id": null},
+  "custody_limits": {
+    "objects": 4096,
+    "exports": 32768,
+    "logical_bytes": 67108864,
+    "db_pages": 32768
+  },
+  "parent_report": {"path": null, "sha256": null},
+  "source": {"path": null, "sha256": null},
+  "approve_local_source": false,
+  "acquired": [{"report": {"path": null, "sha256": null}, "target_indices": [null]}],
+  "output_names": [null],
+  "operation_output": null
+}

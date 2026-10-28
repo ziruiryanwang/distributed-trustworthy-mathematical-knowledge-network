@@ -1,5 +1,11 @@
 # Work and agent ledger
 
+2026-10-28 next: current reply-capacity package adopted; both narrow fixes closed.
+next_value owns ordinary_preview_view/CONTRACT.md and SPECIMEN.md, query_scaling
+owns independent display-design REVIEW.md. Source/theory only before renderer
+selection. Root owns reconciliation, CLI/package, later finite selections and Git.
+operator_route completed final package/adapter OUTCOME; no runtime lives.
+
 2026-10-28 current: operator_route audits saved reply-capacity assembly/adapter at
 ordinary_reply_capacity/OUTCOME.md; query_scaling completed adopted report-selection
 OUTCOME. Fresh next_value owns ordinary_reply_capacity/NEXT-VALUE.md, one source-led

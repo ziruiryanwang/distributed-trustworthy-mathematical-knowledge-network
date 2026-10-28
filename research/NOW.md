@@ -1,5 +1,15 @@
 # Current research desk
 
+**2026-10-28 adopted current package:** ordinary_reply_capacity/ADOPTION.md is the
+current local entrypoint, PROFILE `c8c8b597`; OUTCOME `dd52636e` confirms the exact
+158-file package and matching operator companion. Reply controls/assembly/adapter
+used 2.53125 known CPU seconds; report-selection controls/adapter used 0.703125.
+All closed; native mathematical support unchanged; no runtime remains.
+Next source-only selection: ordinary_preview_view/SELECTION.md. next_value owns
+scope-faithful bounded formal rendering contract/specimen; query_scaling challenges
+it before implementation. Root owns integration/Git. No theorem/index campaign.
+Full v5 remains ACTIVE, local/unpublished, license undecided.
+
 **2026-10-28 current package integration:** report-selection controls and public
 adapter are independently adopted (OUTCOME `b03ed4b5`, 0.703125 known CPU seconds).
 Reply-capacity seven controls also pass (audit `c9627c7d`, 0.4375 known CPU).

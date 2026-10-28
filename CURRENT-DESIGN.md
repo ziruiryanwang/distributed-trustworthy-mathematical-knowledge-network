@@ -4,6 +4,20 @@ Updated: 2026-10-28. This is a mutable navigation page, excluded from frozen che
 
 ## Current candidate architecture: v5
 
+**Current local package (2026-10-28):** the [reply-capacity candidate](software/v5/ordinary_reply_capacity/ADOPTION.md)
+combines independently checked ordinary mathematics, advisory known-name search,
+dedicated inert hosting and explicit continuation from earlier reports. Exact
+locator/evidence reads can fit a provider's remaining allowance despite a larger
+client maximum; complete-object and aggregate charging bounds remain. Older
+reports supply selections only, with original identities disclosed and current
+backend checks retained. Native support is unchanged; no expensive proof campaign
+was repeated. All selected operations closed and the full v5 goal remains open.
+
+The next selected investigation is a bounded formal view of existing inert
+previews. It targets interpretation before proof acquisition; source-derived
+scope/identity/sharing design precedes implementation. Neither this usability work
+nor the completed transfer loops establish measured discovery acceleration.
+
 **Current operator route adopted:** the [local software entrypoint](software/v5/ordinary_current_distribution/ADOPTION.md)
 now connects the actual portable-source build to the tested current preparation
 companion. It accepts checked contribution reports as parents and publication
