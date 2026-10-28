@@ -1,5 +1,18 @@
 # Work and agent ledger
 
+2026-10-28 latest: public refresh01 failed only at post-cutoff client connect;
+first refreshed service actually returned allowed row and naturally closed.
+operable_scale_decision owns TRANSPORT-FAILURE-DECISION source diagnosis;
+growth_design_audit owns saved PUBLIC01-OUTCOME; query_scaling owns kit/docs review.
+Root owns next architecture/implementation selection and Git. All runtime closed.
+No failed campaign/source is overwritten or restarted without a fresh selection.
+
+2026-10-28 current: registration-refresh source implementation selected and complete.
+growth_design_audit owns independent API/Provider review and minimal controls;
+query_scaling owns public workflow plan/runner source after wrapper review PASS;
+operable_scale_decision completed API/contract. Root owns mapping/build recipe,
+assembly/runtime selection, adoption and Git. No runtime lives; no native work.
+
 2026-10-28 latest: pattern deployment deferred by practical workflow audit; sources preserved.
 Directory-kit pack+changed-preparer check complete; growth_design_audit audits saved OUTCOME.
 operable_scale_decision owns directory-kit/NEXT-CORE-DECISION (provider registration lifecycle);

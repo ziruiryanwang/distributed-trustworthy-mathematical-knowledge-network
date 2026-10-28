@@ -1,5 +1,25 @@
 # Current research desk
 
+**2026-10-28 actual refresh continuation:** assembly01 and repaired controls02 pass;
+controls01 remains non-clean because its socket-class test guard broke Windows
+Proactor callbacks. Independent CONTROL-OUTCOME8833c1e preserves all costs/results.
+Public01's first refresh/read and natural refreshed-service close passed, but its
+post-cutoff connect raised FAIR_CONNECT_CLOSURE_UNOBSERVED; full workflow failed
+before cycle2. All processes are closed; no automatic retry. Source-only diagnosis
+by operable_scale_decision distinguishes pretransfer socket ownership from TLS
+transport cleanup; growth_design_audit audits partial evidence. Root selects any
+successor only after that argument. query_scaling reviews proposed kit/docs; no
+new package adoption. Full v5 ACTIVE/local/unpublished.
+
+**2026-10-28 registration-refresh implementation:** fresh source is selected in
+ordinary_registration_refresh/SELECTION.md. API/contract and contact-only cutoff
+are complete source candidates; wrapper/assembler review99d7688e passes.
+growth_design_audit owns independent changed-seam controls and API review;
+query_scaling prepares one finite public workflow. Root owns exact source mapping,
+assembly, runtime selections and adoption/Git. Nothing has executed yet; current
+adopted directory kit and all used evidence remain unchanged. Full v5 ACTIVE,
+local and unpublished, license undecided.
+
 **2026-10-28 adopted directory kit:** ordinary_directory_kit/ADOPTION.md is the current
 complete entrypoint; independent OUTCOMEb933e5a3 adopted.264payloads, exact160-file package
 PROFILE7687d527; pack+changed-preparer2.296875knownCPU, all closed. No pattern deployment.
