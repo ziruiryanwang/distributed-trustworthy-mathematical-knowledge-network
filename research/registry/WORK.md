@@ -1,5 +1,17 @@
 # Work and agent ledger
 
+2026-10-28 latest: symbol-query implementation adopted and closed. Root owns
+adoption/Git and next integration. query_scaling owns ordinary_advisory_query/
+advisory_context.py+CONTRACT; operator_route owns its query.py+API caller;
+portable_integration independently reviews and authors focused control source.
+All are source-only; no native/build/state operation selected. Prior symbol-query
+sources/evidence are now used and frozen. Fresh_recipient_plan completed the
+cumulative actual audit. Canonical root/workdir remains mandatory.
+
+
+2026-10-28 latest: observation producer/intake/publication adopted; no runtime remains. portable_integration owns ordinary_symbol_query/query.py+CONTRACT; operator_route owns operator/ kit successor and POST-DIAGNOSTIC-DECISION; fresh_recipient_plan owns independent REVIEW and pure control source. Root owns run.py/LAUNCHER.md,file-only package/source mapping,selections/adoption and Git. New mode resolves1..8 exact names through selected checked context, fails whole query on any missing name. No native build or mathematical replay selected.
+
+
 Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathematics tasks.
 
 ## Current work

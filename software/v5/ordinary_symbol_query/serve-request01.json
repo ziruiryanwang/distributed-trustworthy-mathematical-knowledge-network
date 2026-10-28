@@ -1,0 +1,40 @@
+{
+  "action": "serve",
+  "cleanup_seconds": 10,
+  "custody_limits": {
+    "db_pages": 65536,
+    "exports": 8192,
+    "logical_bytes": 134217728,
+    "objects": 4096
+  },
+  "exclusive": true,
+  "host": "127.0.0.1",
+  "index": {
+    "create": false,
+    "limits": {
+      "max_db_pages": 4096,
+      "max_features": 512,
+      "max_logical_bytes": 16777216,
+      "max_objects": 32,
+      "max_postings": 4096,
+      "max_snapshots": 33
+    },
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\refinement-recipient-index01"
+  },
+  "lease_seconds": 45,
+  "limits": {
+    "max_connections": 2,
+    "max_reply_bytes": 8388608,
+    "max_requests": 32,
+    "operation_ms": 1000
+  },
+  "operation_output": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\symbol-query-serve01",
+  "port": 38327,
+  "share_all_custody": true,
+  "state": {
+    "catalog": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\refinement-recipient-catalog01",
+    "custody": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\refinement-recipient-custody01",
+    "store_id": "8fc4067f95cb39f89a1168c16a2aab22df1844cfc5a2d01f5bfd324bb7f7a9e5"
+  },
+  "tls": null
+}

@@ -1,0 +1,20 @@
+{
+  "action": "prepare-symbol-query",
+  "context_root": "1b8761f807bba6c5ebe628636621a556e4271b955cc6cd3e836b9a5c5bc728ee",
+  "custody_limits": {
+    "db_pages": 65536,
+    "exports": 8192,
+    "logical_bytes": 134217728,
+    "objects": 4096
+  },
+  "operation_output": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\symbol-query-missing01",
+  "state": {
+    "catalog": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\refinement-recipient-catalog01",
+    "custody": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\refinement-recipient-custody01",
+    "store_id": "8fc4067f95cb39f89a1168c16a2aab22df1844cfc5a2d01f5bfd324bb7f7a9e5"
+  },
+  "symbol_names": [
+    "FiniteMapRefinement.Context",
+    "DMKNSymbolQueryMissingWitness"
+  ]
+}

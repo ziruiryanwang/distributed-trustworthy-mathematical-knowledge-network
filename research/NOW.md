@@ -1,5 +1,25 @@
 # Current research desk
 
+**2026-10-28 latest:** symbol-query candidate adopted after cumulative audit
+4b3dfb01a199ae58480df4d8ba40ed6d48cf4283de20b8ea281a5dfef3da113f.
+Known Context name -> exact selected-context feature -> actual newly indexed fill
+candidate works; missing-any query correctly refuses. Five controls, file-only
+assembly, two public queries and finite service/find all closed; 8.203125 known
+CPU seconds. Current entrypoint: software/v5/ordinary_symbol_query/ADOPTION.md,
+PROFILE72102801. No runtime remains; no native rebuild or math replay.
+
+Next source-only selection: ordinary_advisory_query, removing snapshot-byte reads
+from name projection while preserving committed metadata and unchanged admission.
+Private query-only facade, no core identity/schema migration or sparse-index claim.
+This follows SCALING-AUDIT; query-only output must say snapshot integrity unchecked.
+Full v5 remains ACTIVE, local and unpublished.
+
+
+**2026-10-28 current:** observation theory fully returned through public operator route. Root adopts independent OUTCOME beff2a6fb34bac6ce55f2497f44ff08a0589de4645a76ac415276d5929aac37b:47 exported units,39 checked+8 reused,two new local index records;19.448725wall/14.328125knownCPU,clean closure. Existing producer route resolved32unit contribution limit without recompilation. New B root1b8761f807bba6c5ebe628636621a556e4271b955cc6cd3e836b9a5c5bc728ee.
+
+Next selected capability: ordinary_symbol_query provides familiar fully qualified names to existing type-symbol search via an explicitly selected checked context. No new matcher,index protocol,native math or growth-speedup claim. Ordinary source sufficed in diagnostic; this fixes independently identified API friction, not its supposed cause. Root owns launcher/package; agents own query,operator and review/controls. Fullv5 ACTIVE/local/unpublished.
+
+
 **2026-10-28 current:** observation-modes-check02 PASS, all six axiom listings
 empty; independently audited9852ad17adopted. Source03 adds exact three-mode
 contextual guarantees with destructive total observation updates. Diagnostic

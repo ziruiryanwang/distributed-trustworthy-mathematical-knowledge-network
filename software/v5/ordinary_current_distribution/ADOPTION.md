@@ -1,5 +1,11 @@
 # Current local software entrypoint
 
+**Latest successor:** the adopted [symbol-query candidate](../ordinary_symbol_query/ADOPTION.md)
+adds a tested known-name-to-search handoff. Its file-only package reuses this
+build's native support and changes only query, launcher, launcher documentation
+and PROFILE. Use its matching companion for the new action. The build and
+earlier-report compatibility information below remains preserved.
+
 Mutable navigation and root adoption, 2026-10-28. The final v5 goal is still
 active. This is the current local candidate, not an announcement of a public
 release. The project remains unpublished and its license remains undecided.

@@ -1,0 +1,14 @@
+{
+  "LAUNCHER.md": {
+    "bytes": 8299,
+    "sha256": "f438e90a3076b7eccbeada316d62d6e2fd500ca9f022cf3775de146797ecbc6c"
+  },
+  "query.py": {
+    "bytes": 25031,
+    "sha256": "5db6c0b12258b37cf2704b7003108fe23ff23085656290eb01e09bfab40d5ecb"
+  },
+  "run.py": {
+    "bytes": 19023,
+    "sha256": "77de8ed046273b6eec3ab4fc8c1f779fb31d662072176562313068a432f9ccc9"
+  }
+}
