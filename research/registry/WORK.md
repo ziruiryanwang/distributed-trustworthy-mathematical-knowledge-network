@@ -1,5 +1,18 @@
 # Work and agent ledger
 
+2026-10-28 continued: dedicated-host actual remaining-only inspection succeeded;
+all selected runtimes closed. portable_integration owns its complete saved OUTCOME;
+operator_route owns ordinary_dedicated_host/NEXT-CENTRAL-DECISION.md (practical
+workflow/growth payoff); query_scaling owns QUERY-PAYOFF-AUDIT.md (source-only
+budget semantics and search locality). Root owns adoption, navigation, Git and
+subsequent implementation selection. No duplicate tests, state or native operations.
+
+2026-10-28 implementation selected after advisory checkpointc583afc:
+ordinary_dedicated_host/SELECTION.md assigns query_scaling custodian.py;
+operator_route CONTRACT+fresh owner.py guard; root host.py/run.py/profile.py and
+package selection; portable_integration independent changed-boundary review.
+Existing SDK/storage/network/native semantics are retained. No host runtime yet.
+
 2026-10-28 current: root completed advisory controls/assembly/one query/inert find
 handoff; portable_integration audits only saved outcomes at ordinary_advisory_query/
 OUTCOME.md. Root owns adoption/Git and next selections. operator_route owns

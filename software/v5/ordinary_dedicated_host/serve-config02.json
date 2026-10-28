@@ -1,0 +1,16 @@
+{
+  "cleanup_seconds": 10,
+  "exclusive": true,
+  "host": "127.0.0.1",
+  "lease_seconds": 30,
+  "limits": {
+    "max_connections": 2,
+    "max_reply_bytes": 131072,
+    "max_requests": 4,
+    "operation_ms": 2000
+  },
+  "port": 0,
+  "schema": "DMKN_DEDICATED_HOST_SERVE_V1",
+  "share_all_custody": true,
+  "tls": null
+}

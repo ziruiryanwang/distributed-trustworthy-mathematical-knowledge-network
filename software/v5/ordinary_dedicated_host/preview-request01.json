@@ -1,0 +1,23 @@
+{
+  "action": "preview",
+  "contacts": {
+    "dedicated": {
+      "ca_file": null,
+      "ca_sha256": null,
+      "host": "127.0.0.1",
+      "port": 54708,
+      "server_name": null,
+      "tls": false
+    }
+  },
+  "find_report": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\dedicated-host-find01\\RESULT.json",
+    "sha256": "f467a06169b3da4925db0af858d6aefc0514c86474a7abdc8c33916e2e0826ca"
+  },
+  "limits": {
+    "reply_bytes": 1048576,
+    "requests": 1
+  },
+  "match_index": 0,
+  "operation_output": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\dedicated-host-preview01"
+}

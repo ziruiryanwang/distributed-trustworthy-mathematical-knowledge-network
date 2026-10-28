@@ -1,0 +1,64 @@
+{
+  "contacts": {
+    "dedicated": {
+      "ca_file": null,
+      "ca_sha256": null,
+      "host": "127.0.0.1",
+      "port": 54708,
+      "server_name": null,
+      "tls": false
+    }
+  },
+  "limits": {
+    "locator_bytes": 1048576,
+    "reply_bytes": 9437184,
+    "requests": 2,
+    "unit_bytes": 8388608
+  },
+  "selection": {
+    "export_id": "b093eb970b89de31662abccdb05552270225e26b93e4f0dc47a6463b1590f8be",
+    "name": [
+      [
+        0,
+        {
+          "$bytes": [
+            82,
+            101,
+            115,
+            101,
+            116,
+            69,
+            102,
+            102,
+            101,
+            99,
+            116,
+            115
+          ]
+        }
+      ],
+      [
+        0,
+        {
+          "$bytes": [
+            99,
+            111,
+            110,
+            116,
+            101,
+            120,
+            116,
+            117,
+            97,
+            108,
+            95,
+            105,
+            102,
+            102
+          ]
+        }
+      ]
+    ],
+    "provider": "dedicated"
+  }
+}

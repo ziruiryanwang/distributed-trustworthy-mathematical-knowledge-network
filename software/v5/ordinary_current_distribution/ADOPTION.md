@@ -1,8 +1,8 @@
 # Current local software entrypoint
 
-**Latest successor:** the adopted [advisory-query candidate](../ordinary_advisory_query/ADOPTION.md)
-preserves known-name search while omitting retained proof-snapshot reads from
-advisory preparation. Use its exact package and matching operator companion.
+**Latest successor:** the adopted [dedicated-host candidate](../ordinary_dedicated_host/ADOPTION.md)
+adds inert custody/index hosting without mathematical-owner setup and retains
+advisory known-name search. Use its exact package and matching operator companion.
 It reuses this build's native support; mathematical acceptance is unchanged.
 The build and earlier-report compatibility information below remains preserved.
 

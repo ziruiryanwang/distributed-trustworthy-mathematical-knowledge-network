@@ -1,0 +1,113 @@
+{
+  "bundle_directory": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\observation-growth-produce01",
+  "bundle_limits": {
+    "max_batch_bytes": 16777216,
+    "max_batch_units": 128,
+    "max_bytes": 16777216,
+    "max_units": 128
+  },
+  "custody_limits": {
+    "db_pages": 4096,
+    "exports": 2048,
+    "logical_bytes": 16777216,
+    "objects": 256
+  },
+  "index_limits": {
+    "max_db_pages": 4096,
+    "max_features": 8192,
+    "max_logical_bytes": 16777216,
+    "max_objects": 256,
+    "max_postings": 32768,
+    "max_snapshots": 257
+  },
+  "manifest": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\observation-growth-produce01\\manifest.json",
+    "sha256": "d31ee8536962cff8c60c856f107594610d7b82f851c518ec37a838885f3bb4b6"
+  },
+  "schema": "DMKN_DEDICATED_HOST_PREPARE_V1",
+  "share_all_bundle": true,
+  "targets": [
+    {
+      "export_id": "9c99432c3c567d7ca63d40e9e2a76e11df45d985218361a63a15cc565bd58c9c",
+      "name": [
+        [
+          0,
+          {
+            "$bytes": [
+              82,
+              101,
+              115,
+              101,
+              116,
+              69,
+              102,
+              102,
+              101,
+              99,
+              116,
+              115
+            ]
+          }
+        ],
+        [
+          0,
+          {
+            "$bytes": [
+              102,
+              105,
+              108,
+              108
+            ]
+          }
+        ]
+      ],
+      "unit_id": "4af85fd28ee3188b147f8d16633e45296165f04326b6943031a9aa344d5d8c71"
+    },
+    {
+      "export_id": "b093eb970b89de31662abccdb05552270225e26b93e4f0dc47a6463b1590f8be",
+      "name": [
+        [
+          0,
+          {
+            "$bytes": [
+              82,
+              101,
+              115,
+              101,
+              116,
+              69,
+              102,
+              102,
+              101,
+              99,
+              116,
+              115
+            ]
+          }
+        ],
+        [
+          0,
+          {
+            "$bytes": [
+              99,
+              111,
+              110,
+              116,
+              101,
+              120,
+              116,
+              117,
+              97,
+              108,
+              95,
+              105,
+              102,
+              102
+            ]
+          }
+        ]
+      ],
+      "unit_id": "c59ee7bd4eed61193dc06729ca76e28887ad83171f11173353e93bb46305c2c4"
+    }
+  ]
+}

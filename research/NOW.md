@@ -1,5 +1,29 @@
 # Current research desk
 
+**2026-10-28 adopted dedicated host:** independent OUTCOME `8a35924f` passes the
+completed integration, with both original inspection failures preserved. Current
+entrypoint is ordinary_dedicated_host/ADOPTION.md, PROFILE `21bcb169`. All ten
+operations closed; 15.28125 known CPU seconds, no native mathematics repeated.
+Root is selecting the next practical continuation improvement from source audits:
+old report reuse across auxiliary package changes and reply-budget compatibility.
+No new runtime selected. Full v5 ACTIVE, local and unpublished.
+
+**2026-10-28 dedicated-host continuation:** preparation retained all 47 units without
+an owner; find01 and preview01 passed. Inspect01's oversized reservation and
+inspect02's expired-service refusal remain saved. Explicit remaining-only
+serve02/inspect03 now returned the exact 26,650-byte theorem unit in two requests,
+27,005 payload bytes. Both runtimes exited and closed cleanly; independent saved
+outcome audit is closing. No runtime remains. Root owns adoption/Git; operator_route
+assesses the next practical core bottleneck and query_scaling audits the budget
+friction/search locality from source. No new experiment or native work selected.
+Full v5 remains ACTIVE, local/unpublished, license undecided.
+
+**2026-10-28 now implementing:** advisory change committed asc583afc. Root selected
+ordinary_dedicated_host/SELECTION.md: public fresh prepare and finite serve over
+existing inert SDK, permanent dedicated marker+OS lock and current-entry guards.
+No mathematical-owner setup, native proof work, refresh or new wire protocol.
+Source implementation/review runs in parallel; no host experiment selected yet.
+
 **2026-10-28 adopted:** advisory-query independent OUTCOME4dec0160 passes and is
 adopted; entrypoint software/v5/ordinary_advisory_query/ADOPTION.md, PROFILE135c1824.
 Four controls, exact assembly, real query and inert find handoff are complete;
