@@ -1,0 +1,122 @@
+{
+  "contacts": {
+    "a": {
+      "ca_file": null,
+      "ca_sha256": null,
+      "host": "127.0.0.1",
+      "port": 62853,
+      "server_name": null,
+      "tls": false
+    }
+  },
+  "limits": {
+    "reply_bytes": 65536,
+    "requests": 1
+  },
+  "selection": {
+    "provider": "a",
+    "record": {
+      "features": [
+        "0556766630e45bbf7e521b925a12acd7b1297e2f8cd7e4b4104323c6359d9afe",
+        "0ae3410bd935264b923e343fbd8765a29ae401182e61a158372e3d660789c669",
+        "0b45116e1a330948cd318c09f5ccd6eb77daf944d12d632ce24d68cd41a2b46d",
+        "105a1dc0a1044e8f6796e920d6d83bb8948783b7b8717b6d376ce76e30bb65f2",
+        "13e2121958e557b352582608a3b2f85c41815021c0587c6ca721e390057c9280",
+        "1e80363a716d0e00058dc856acacf0d1e770ec6c9303099f4e9f4d35ecbc8d43",
+        "25bce3d9c9a65666b6d627510eed75fe4781106aa1a74606709288a42952d3e6",
+        "280e91b98127f19d8c63c08985f28c77214b5fb42892dfb3090a7eda5d049391",
+        "3454fea8432f20e1bc9be039769de550faa5964636253fb5c445638586d81d32",
+        "43d60550b8f02e7a762968ef36fd5e267dfee7df075ea43f65dba66aafbd2938",
+        "44ae7f7ee272c75240d225bc711f995929a49871e3f5b17fb7c7847468d64841",
+        "456bf891a29f7c9b909db41e51bfda4173a3289ca1a9d12f01b9ec762888d3d7",
+        "5a7d8af863ab1e8dbdb0f1f0af14c3e78d8067407c36a575140b51751370d026",
+        "719fe725cf2617421bb6116dc4d9b25e134c97bd760ea9b7d361036646edb0a9",
+        "872d462668585193126c7eea8e9cb87c6f51603681f6ccfcccdd5337ad541d8e",
+        "97a602425706eaef672a5e111b065d8f166b51106055c44eb8f44650db313594",
+        "9ce694bad812159c920b14ed8357e686b067fb7cb6f239b348528ea4cb5a00a7",
+        "a43d7870e837b74f842b2926ecd0cd2be3a9a04f0fd528312d6c28564612d2e7",
+        "b3e9623c11c06d3ce4ed3cc0be1a6f57d0135520a99af7a1fc842c9f6a3c6256",
+        "b624399520001640f7257cfbeadaf81e109cc546c1a92e3df38ecb38b47fb6de",
+        "b6d864aa6ac6de2cc6f244d642adc05b76a80806707b92441673ebaa2d021693",
+        "b8ae8bc4fbac926b8e972fc96af35b1657eec6435e20a2dd27786c01ac5cd900",
+        "c91c604292b6183ad7560bd86c421fe05736170d23de25fd8a2e9acd313bc2f6",
+        "c92acfbb4f2555e28a774aa78c41bbd97a25014821bbce365af985eb70a865d5",
+        "caf906d7e56317da58ccc60fe75e2fab397bfda2eaf7debeab7e36b636630d14",
+        "e215c415a1ee5301ac6a43123cfba74b8fc6316eed124fe1ee87cdbe540c115d",
+        "f34d1dd38e7f6e276408238f5a1b15ffd15a1a7100720ff5a7f0ab5146d5f76b"
+      ],
+      "kind": "ordinary-lean-export-v2",
+      "locator": {
+        "export_name": [
+          [
+            0,
+            {
+              "$bytes": [
+                70,
+                105,
+                110,
+                105,
+                116,
+                101,
+                77,
+                97,
+                112,
+                69,
+                102,
+                102,
+                101,
+                99,
+                116,
+                115
+              ]
+            }
+          ],
+          [
+            0,
+            {
+              "$bytes": [
+                111,
+                112,
+                116,
+                105,
+                111,
+                110,
+                97,
+                108,
+                95,
+                119,
+                114,
+                105,
+                116,
+                101,
+                95,
+                101,
+                109,
+                112,
+                116,
+                121,
+                95,
+                111,
+                117,
+                116,
+                99,
+                111,
+                109,
+                101
+              ]
+            }
+          ]
+        ],
+        "schema": "DMKN_ORDINARY_LEAN_EXPORT_LOCATOR_V2",
+        "semantic_id": "9108f44dba66e2a26a06f65566e143e3185e3f8237e156a4e5c826222a308ad7",
+        "unit_id": "945f4d0d6face25cf62580f3a796207c31110db09302592190bdfbb7733de586"
+      },
+      "namespace": "d966de54aa32c6cd059ab9553a0968a320594a63561cadf742cca6265858079c",
+      "object_bytes": 6070,
+      "object_id": "f73c4cf148abc0204a45ceceb3975358bc27d578ee2cb6e5fc53eb8a14796be5",
+      "object_sha256": "e3d3b50539de7b4fc1945072eedd59e49988f2a9492aa1ad4333cfa5d76f2c81",
+      "schema": "DMKN_FORMAL_FEATURE_RECORD_V3"
+    },
+    "snapshot_id": "4c641b21a09a37b31a96fce6c31761c4e312619f26c36fba3407d076f6714c78"
+  }
+}

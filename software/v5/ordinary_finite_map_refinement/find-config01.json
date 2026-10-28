@@ -1,0 +1,58 @@
+{
+  "contacts": {
+    "a": {
+      "ca_file": null,
+      "ca_sha256": null,
+      "host": "127.0.0.1",
+      "port": 65091,
+      "server_name": null,
+      "tls": false
+    }
+  },
+  "limits": {
+    "bytes": 1048576,
+    "candidates": 16,
+    "examined": 64,
+    "inflight": 1,
+    "pages": 8,
+    "providers": 1,
+    "requests": 9,
+    "snapshots": 1,
+    "wall_ms": 20000
+  },
+  "offer": {
+    "max_age_ms": 60000,
+    "max_bytes": 262144,
+    "max_expanded_bytes": 524288
+  },
+  "page": {
+    "bytes": 65536,
+    "hash_calls": 65536,
+    "matches": 4,
+    "node_reads": 8192,
+    "record_probes": 256,
+    "scanned": 8,
+    "sql_vm_steps": 200000,
+    "timeout_ms": 500
+  },
+  "providers": [
+    "a"
+  ],
+  "specs": [
+    {
+      "tag": "object-kind",
+      "value": "ordinary-lean-export-v2"
+    },
+    {
+      "tag": "declaration-kind",
+      "value": "theorem"
+    },
+    {
+      "symbol": {
+        "kind": "portable-symbol",
+        "symbol_id": "baa1877cd14b1dc673e5273d7289fac7217bd71ac12087079c32df5503f8d452"
+      },
+      "tag": "type-symbol"
+    }
+  ]
+}

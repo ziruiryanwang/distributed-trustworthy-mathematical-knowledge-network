@@ -4,6 +4,42 @@ Updated: 2026-10-07 UTC. Mutable investigation assignments, not network mathemat
 
 ## Current work
 
+2026-10-28 latest: root owns exact selections/launches/adoption/Git.
+finite_map_discovery audits serve01 closure and actual serve02/find02/six
+previews; owns DISCOVERY02-OUTCOME and the actual derived acquired-targets.
+frontier_failure_audit owns remaining01 saved failure and fresh negative-only
+harness correction after its guard blocked the final candidate evidence read.
+frontier_correction owns substantive refinement contribution selection/plan,
+using BodyMath and actual discovered interfaces. No agent runtime or Git.
+Discovery service74150 is CLOSED cleanly; remaining01 is CLOSED failed before
+the intended final native rejection. Separate owners; no concurrent owner writes.
+
+
+2026-10-28 resumption: root owns selections/execution/Git. frontier_correction
+owns ordinary_demand_frontier/NATIVE-CORRECTION.md source argument only;
+frontier_failure_audit owns NATIVE-OUTCOME.md saved actual audit (then correction
+review when selected); finite_map_discovery owns refinement/DISCOVERY-EXECUTION-PLAN.md
+and exact prospective public discovery configs. Canonical root only; no subagent
+runtime/state/Git. Previous agents are no longer live. Native01 failed/closed at
+SETUP_P before V3cases; passing build/pure controls/package remain adopted.
+
+2026-10-26 current local software continuation: root owns ordinary_demand_frontier
+contract, integration, finite selections, launch/adoption and Git. Agent
+kernel_package_audit owns REVIEW.md and CONTROLS-PLAN.md (six-source assurance).
+kernel_path_integration owns BUILD-REVIEW.md, assemble.py and PACKAGE-PLAN.md;
+its source preparation is complete, awaiting review. Fresh frontier_controls owns
+control_tests.py and CONTROL-SOURCE.md, native-free changed-boundary controls
+only. No execution, owner access, old-source edits or subagent Git is selected.
+All work uses the canonical root. Nine exact finite-map local publications are
+adopted; contextual refinement remains source-only. Full v5 active/unpublished.
+
+Latest user clarification: the PAgE claim need not be decentralized. Root owns
+page-2027-paper/DISCOVERY-STUDY-DESIGN.md, a prospective automated-theory-formation
+and causal-transfer design. Existing three paper agents retain their disjoint
+checkpoints and now audit ordinary durable-library comparators, statement-vs-proof
+discovery, nearest autonomous-theory literature, and economical experimental
+identification. No new runtime, manuscript or product mutation selected.
+
 2026-10-24 latest user pivot: PAgE2027 paper viability, not drafting. Root owns
 venue/protocol prior work/synthesis. page_evidence owns page-2027-paper/EVIDENCE-AUDIT;
 page_growth_literature owns GROWTH-RELATED-WORK; page_claim_challenge owns

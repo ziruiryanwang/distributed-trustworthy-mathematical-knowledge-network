@@ -1,0 +1,50 @@
+{
+  "contacts": {
+    "a": {
+      "host": null,
+      "port": null,
+      "tls": null,
+      "server_name": null,
+      "ca_file": null,
+      "ca_sha256": null
+    }
+  },
+  "providers": ["a"],
+  "specs": [
+    {"tag": "object-kind", "value": "ordinary-lean-export-v2"},
+    {"tag": "declaration-kind", "value": "theorem"},
+    {
+      "tag": "type-symbol",
+      "symbol": {
+        "kind": "portable-symbol",
+        "symbol_id": "baa1877cd14b1dc673e5273d7289fac7217bd71ac12087079c32df5503f8d452"
+      }
+    }
+  ],
+  "limits": {
+    "providers": 1,
+    "snapshots": 1,
+    "requests": 9,
+    "pages": 8,
+    "examined": 64,
+    "candidates": 16,
+    "bytes": 1048576,
+    "wall_ms": 20000,
+    "inflight": 1
+  },
+  "offer": {
+    "max_bytes": 262144,
+    "max_expanded_bytes": 524288,
+    "max_age_ms": 60000
+  },
+  "page": {
+    "scanned": 8,
+    "matches": 4,
+    "bytes": 65536,
+    "timeout_ms": 500,
+    "record_probes": 256,
+    "node_reads": 8192,
+    "hash_calls": 65536,
+    "sql_vm_steps": 200000
+  }
+}

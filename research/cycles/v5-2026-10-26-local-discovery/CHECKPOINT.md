@@ -1,5 +1,88 @@
 # Local v5 checkpoint
 
+Latest: remaining02 PASS two actual negatives, cd779727 audit adopted,
+9.0894676wall/8.796875knownCPU,4roots unchanged/one failed call. Root selected
+refinement-contribution01 ff76781b after actual bridge adoption. It CLOSED FAILED
+AUTHORING6.2910984wall/5.640625knownCPU:11groups609labels construct successfully;
+Context compilation requires inherited Plan's executable representation. Source
+correction agent investigates supported option or generic payload abstraction;
+independent reviewer records failure then checks rationale. No automatic retry.
+Discovery agent now prepares only standard launcher flag integration (fresh
+run_frontier.py, parser controls/file-only overlay). No native work is running.
+
+2026-10-28 latest continuation: native02 positive V3 contribution independently
+adopted, though full suite failed its Eq.refl/rfl assertion. remaining01 failed
+before native negative because its instrumentation rejected the normal candidate
+evidence read; clean closure,4.5493878wall/4.25knownCPU. Fresh minimal harness
+correction in progress; no setup/positive/build repeats. Discovery serve01 closed
+unqueried; explicitly selected serve02/find02/six previews all closed cleanly.
+Find returned6 using only known HashMap symbol/general kinds (7requests), followed
+by6 type-bound previews. Actual types select previews04/03; derived acquired
+targets a62aba43 agree with prior targets only in a post-selection comparison.
+Service74150 clean terminal301.4860909wall/7.671875knownCPU. No global-completeness,
+new-owner acceptance or causal-growth claim. Next is exact BodyMath contribution
+with existing Std frontier, after negatives/actual bridge audit.
+
+
+2026-10-28 resumed: preceding native01 session15435 CLOSED FAILED at SETUP_P,
+17.4836364wall/17.109375knownCPU, cleanouter/ownercloses. Realbasis and F accepted;
+V2Base.c reconstruction checkedUnits1 succeeded, then Above.d executable-code
+compiler failed IR unknownjoinpoint/panics. Zero V3cases ran. Preserve all bytes.
+New agents audit savedfailure, analyze minimal mathematical/noncomputable source
+correction, and prepare existing public discovery configs. No retry/runtime now.
+Previous turn = progress (new testedpackage and decision-changing failure), not
+goal completion. Gitb5ca2aa preserves purecontrols/package; fullv5active/local.
+
+Frontier pure controls01 CLOSED/adopted CONTROL-OUTCOME1eb00d66:all6PASS,
+12.6325168wall/12.171875knownCPU, no forbidden operations, clean closure.
+Package01 CLOSED/adopted PACKAGE-OUTCOME89250f0c:154files/13changed/141unchanged,
+PROFILE6af0c3de, same INSTALLATION9112bc5d/I86b6fcce;5.3351815wall/2.203125CPU.
+See ordinary_demand_frontier/ADOPTION. No runtime lives. Source native fixture
+uses one tiny fresh owner and three outcomes; reviewer checking actual final
+rejection and imported-definition exposure. Source-only substantive refinement
+fits11groups/22names/232441evidenceB above sixStd cuts. No actual native frontier
+or downstream mathematics claim yet. Git428e447 preserves reviewed helper work.
+
+Nine finite-map publications are adopted in PUBLICATION-ADOPTION (both concepts
+and seven results have index records). Contextual-refinement source review passes;
+execution remains pending. Root selects ordinary_demand_frontier auxiliary
+successors to stop scratch reconstruction at a protected ancestor while retaining
+the exact-parent final check. Six-source REVIEW4cc87b63 and build source/binding
+reviews pass. demand-frontier-build01 now CLOSED zero under ea004555: four helper
+compiles/20 parts, 6.2117749wall,5.375JobCPU+0.515625wrapper, no stderr and clean
+closure. Actual audit pending; no runtime remains. Pure changed-boundary controls
+and tiny real final-checker fixture are under disjoint source preparation; package
+adapter is independently reviewed next. No owner state/package adoption yet.
+Full v5 remains active, local and unpublished; no certificate campaign restarted.
+
+Finite-map-contribution01 session62260CLOSED rawPASS under ced73d96;
+CHECKED_CONTRIBUTION_WITH_DURABLE_PUBLICATION_BYTES,19newunits/7targets,
+rootad4aa90b014ff326ded6f4750dd4f6ac7e3b56d15027114b91788923d0238079.
+22.9411031wall/13.3125knownCPU. Actualaudit integrationagent; publication exact
+9targets/config sourceprep interruptionagent; no runtime. B adopted OUTCOME
+0595e3f2 in SUFFIX-B-ADOPTION; fullselectedparentb75b... (2651+456units).
+New installed_frontier_audit investigates cheapest sound sourceless reuse,
+distinguishing best-effort authoringscratch from exactmodule realization;
+noimplementation selected. RECIPROCAL-PLAN source-only final38ef4b40 supersedes
+earlier4677226d after condensation/alignment; no runtime used either version.
+
+Bsession75292CLOSED rawPASS:429/174CHECKED,finalb75b2800b956aedbbb9c333806a7b369f3213442634482c1e3818137fefac6a6,
+112.3905701wall/110.125knownCPU. Independent conciseactualaudit pending; no runtime.
+Root read DOWNSTREAM-THEORYb41704eb and RECIPROCAL-PLAN4677226d: prefer ordinary
+approved sourceproject for initial theoryreuse; generic nonempty acquired list
+still reconstructs fixedbasisclosure, and shipped export-module has no installed
+Std frontier. A future inert-only delta-import correction is genuine missingwork,
+not grounds to revive parked reference machinery blindly. No independent richB
+owner established under currentI. Next remains finite-mapcontribution afterB
+adoption,then exactpublication. Futuretheory contextualrefinement is sourceonly.
+
+Bselectioncc198b16 reviewed PASS85848b29 and root selected SUFFIX-B-EXECUTION;
+LIVE session75292, root alonepolls. Unchanged checker/limits/actualAparent,
+canonicalB429/174units. Integrationagent awaits terminal for concise actualaudit;
+packageagent proposes contextualnonemptiness refinement theorem; interruptionagent
+traces normal source-assisted consumer workflow. Prior continuation committed
+f823b06. No contribution/native competitor selected; goalactive.
+
 Suffix A session17765 CLOSED/adopted OUTCOME7ea4ca70:twoCHECKED620/404,
 actualparent674e33cbe441566ea8385e3bb6011b9f2cecaae4b587b50645c975e48c27c95b,
 110.4974515wall/108.5625knownCPU,cleanclosure. Bselectioncc198b16 now prepared

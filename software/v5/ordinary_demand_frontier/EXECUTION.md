@@ -47,3 +47,58 @@ Select file-only `demand-frontier-package01` once under
 90 wall seconds, 45 Job CPU, 768 MiB, three processes, 1 MiB streams. This copy
 can run while the independent controls audit closes; no owner/native use or
 package adoption precedes those actual audits. Preserve all original bytes.
+
+Build, pure controls and exact package are now adopted in ADOPTION.md. Root read
+the complete native_workflow source and NATIVE-CONTROL-REVIEW
+`159880f365f32b548a95122287f8518c66a9a371120c8286a36f6311048e4f61`.
+Before execution, source inspection caught imported definition-body visibility;
+both local Base.c fixtures now explicitly use `@[expose]`. No runtime repair
+or product change was needed. Source is `2cd81f0d...` as pinned in the review.
+
+Select `demand-frontier-native01` once under
+`b21425f7c2d9242a44d7c6307351c97b037eca9dea07e15f53044d46168fe18a`:
+four snapshots/164 pins; outer420wall/260JobCPU/2048MiB/eightprocesses/4MiBstreams,
+inner360wall/220CPU with separately clipped finite stages. One tiny new owner,
+shared basis/F/P, positive/false-parent/missing-name cases, one alternate compile.
+Root alone launches/polls. Preserve failed/partial output; no retry or old owner
+access. The kernel marker conflates type/internal-resource rejection; only actual
+arrival of the precise false candidate and clean refusal may be claimed. Useful
+theory extension remains a separate operation after outcome review.
+
+2026-10-28: root read/adopts NATIVE-OUTCOME
+`d473f2fcba86e7b6c20c313f61a7d74fda32b0e61b7e0a794ed5406e40dbf62b`.
+Native01 failed at SETUP_P before V3 cases, after successful V2 reconstruction;
+executable compilation failed. Basis/F remain saved accepted setup, P's emitted
+candidate remains inert. The run closed cleanly and consumed 17.4836364 wall /
+17.109375 known CPU seconds. No passing negative or old-state reuse follows.
+
+Root read the correction argument and NATIVE02-REVIEW
+`7c6899659d9e5d589f16ad888f3c9f35eb2c00612d5b959d547a73a0ad0e5cf5`.
+Select fresh `demand-frontier-native02` once, selection
+`d0e2e7ab4f6eae8234a8161356768133677f4aa95e7740ef875bf1b75a7eb0b9`.
+Only one explicit noncomputable modifier changes in setup-P; original limits,
+assertions, actual parent checking and package stay unchanged. This skips optional
+executable-code generation, retaining the safe transparent mathematical body.
+Repeating the tiny fresh setup is cheaper than new recovery machinery; both runs'
+costs remain charged. Root owns launch/poll; no fallback/retry or cap increase.
+# Native negative-only continuation selected
+
+remaining01 closed failed before final native checking: the test interceptor
+incorrectly rejected normal candidate custody readback. Root read the saved
+OUTCOME/candidate and full remaining02 delta. Select fresh remaining02 once,
+same finite limits/owner, source a63573855cfcbb1c755f5e82a99fa268e618d8919593e7f59f0114c670998f26.
+Only the guard/preconditions change: allow bounded readback, prohibit Base.c and
+repeat Above.d reads, bind the extra read to the exact candidate/native input.
+Prior failed reports/inputs are pinned and retained. No product/checker change,
+setup/positive replay or renewed old allocation. Root reviewed this small delta;
+the author will audit actual outcomes separately. Exact selection is saved before
+launch at demand-frontier-remaining02.selection.json.
+
+2026-10-28: root reads/adopts NATIVE02-OUTCOME (501471a6) and
+NATIVE-REMAINING-REVIEW (ab0866bb). Select remaining01 once under exact
+selection fd0c7142fefb9f4b26f95521a6518280377bf155f27e0c662979fa36704b4230:
+three source snapshots, 183 pins, outer210wall/120CPU/2048MiB/eightprocesses.
+Only false-parent and missing-name; public reopen of the closed tiny fixture,
+no repeated basis/setup/positive/compilation, no retry. Native02 remains failed
+as a suite with separately audited checked-positive capability. Root owns
+launch/terminal observation; its owner is distinct from the Std discovery owner.

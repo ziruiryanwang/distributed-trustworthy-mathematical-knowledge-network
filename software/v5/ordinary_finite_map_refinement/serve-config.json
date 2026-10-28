@@ -1,0 +1,27 @@
+{
+  "index": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\finite-map-index01",
+    "limits": {
+      "max_objects": 32,
+      "max_postings": 4096,
+      "max_features": 512,
+      "max_snapshots": 33,
+      "max_logical_bytes": 16777216,
+      "max_db_pages": 4096
+    },
+    "create": false
+  },
+  "host": "127.0.0.1",
+  "port": 0,
+  "tls": null,
+  "lease_seconds": 300,
+  "cleanup_seconds": 15,
+  "limits": {
+    "max_connections": 2,
+    "max_requests": 16,
+    "max_reply_bytes": 4194304,
+    "operation_ms": 1000
+  },
+  "share_all_custody": true,
+  "exclusive": true
+}

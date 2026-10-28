@@ -1,5 +1,67 @@
 # Current research desk
 
+**2026-10-28 current central obstruction:** native frontier positive and both
+negative cases are adopted (NATIVE02-OUTCOME, NATIVE-REMAINING02-OUTCOME).
+Discovery02's six returned type previews are adopted; service closed, no repeat.
+Actual refinement-contribution01 reconstructed exactly 11 groups/609 labels,
+then new Context inductive executable compilation failed on uncompiled inherited
+Plan. No final admission. Source-theory correction is now the critical path;
+consider a supported math-only option or generic context payload, not compiling
+the full inherited library. In parallel, a narrow fresh launcher successor closes
+the omitted authoring-frontier-root allowlist. No runtime currently lives.
+Full v5 ACTIVE, local and unpublished; used sources/failures retained.
+
+**2026-10-28 active continuation:** Native02 actually checked the positive
+ancestor-frontier reuse; its harness then failed an overly strict Eq.refl/rfl
+spelling assertion. Independent NATIVE02-OUTCOME adopted; the suite stays failed.
+Only two native negatives remain, using its closed fixture without setup replay.
+Discovery serve01 closed cleanly with zero requests; find01 never executed.
+Root selects one fresh bounded serve02/find02/actual-record-preview sequence
+under DISCOVERY-EXECUTION.md, then substantive BodyMath theory contribution.
+No full-v5 completion, global search completeness or measured growth claim.
+
+**2026-10-28 resumption: finish real frontier reuse, then substantive theory use.**
+The prior turn made progress: four-helper build, six pure controls and exact
+auxiliary package passed and were independently adopted. Native01 subsequently
+failed at SETUP_P before any V3 case: portable Base.c reconstruction succeeded,
+then executable-code compilation of Above.d failed. Closed outer/owner evidence
+is preserved; no native runtime remains and no frontier qualification follows.
+Current work: independent saved-failure audit; principle-led math-only source
+correction versus approved compiled-library setup; exact existing public search
+configs for the nine published finite-map outputs. No repeat build/package, new
+certificate, old-state mutation or native retry selected. Full v5 ACTIVE/local.
+
+**2026-10-26 current software continuation; local and unpublished.** The detailed
+live checkpoint is `research/cycles/v5-2026-10-26-local-discovery/CHECKPOINT.md`.
+Nine finite-map concepts/results have local index records; the checked contextual
+refinement is still source-only. The current central improvement is
+`software/v5/ordinary_demand_frontier/CONTRACT.md`: scratch authoring stops at an
+explicit protected ancestor, with mandatory unchanged actual-parent checking.
+Four Python/two Lean successors are source-ready; independent review is closing.
+Root selects only fresh native-free control source authoring in that directory;
+no test/build/package/native run is selected yet. Root owns integration, execution
+and Git; agents own independent review, controls and package source respectively.
+No runtime is live. Prior paper/cleanup entries below are historical directions,
+not competing current assignments. Full deployable v5 remains ACTIVE.
+
+**Latest PAgE clarification: decentralization optional, discovery central.**
+Root selects the research direction in
+research/cycles/page-2027-paper/DISCOVERY-STUDY-DESIGN.md: automated theory
+formation, fresh-agent transfer and full-cost causal benefit. Current technology
+may suffice; no blockchain, succinct certificate, new prover or topology experiment
+is required for this paper. Distinguish true statement discovery from supplied-goal
+proof success. Strong ordinary persistent Lean/library agents are the comparator.
+Three audits are being reconciled to this direction. This selects research/design,
+not an experiment, manuscript, API purchase or publication. Full v5 remains open.
+
+**PAgE priority clarification:** user specifically wants a defensible result that
+decentralized exchange accelerates theorem discovery. Cost-local verification
+remains enabling infrastructure, not a substitute headline. The three paper
+audits are redirected toward causal discovery design, closest growing-library
+prior work and feasible peer workflows under equal full resource budgets.
+No manuscript or experiment is yet selected; avoid claiming speedup from the
+existing scaffolded concept episode or calling theorem counts conceptual novelty.
+
 **2026-10-24 user-directed PAgE paper pivot; no manuscript yet.** Prioritize
 research/cycles/page-2027-paper/PLAN.md over the earlier next-experiment plan.
 Root verifies venue/verification prior art and coordinates three disjoint audits:

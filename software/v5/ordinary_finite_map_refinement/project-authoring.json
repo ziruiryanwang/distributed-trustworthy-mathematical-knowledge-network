@@ -1,0 +1,14 @@
+{
+  "schema": "DMKN_ORDINARY_TRUSTED_PROJECT_AUTHORING_V1",
+  "module_name": "FiniteMapRefinement.Contribution",
+  "project_cwd": "E:/Distributed Trustworthy Mathematical Knowledge Network/software/v5/ordinary_finite_map_refinement",
+  "project_search_paths": [
+    "E:/Distributed Trustworthy Mathematical Knowledge Network/software/runtime/lean-4.34.0-windows/lib/lean"
+  ],
+  "imports": [
+    {
+      "module": "Std.Data.HashMap.Lemmas",
+      "meta": false
+    }
+  ]
+}
