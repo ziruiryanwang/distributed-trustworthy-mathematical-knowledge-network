@@ -1,5 +1,11 @@
 # Work and agent ledger
 
+2026-10-28 ordinary_owned_acquisition/SELECTION selected, source only so far.
+query_scaling owns two helper successors/CONTRACT; growth_design_audit independent
+review and focused controls; root assembly, compatibility, finite launches/Git.
+operable_scale_decision finishes dependency-location SOURCE-FEASIBILITY. Preserve
+existing kit/host/evidence. No runtime active; full v5 remains active.
+
 2026-10-28 exact-location source model selected, not implementation. Under
 ordinary_dependency_location: operable_scale_decision SOURCE-FEASIBILITY for
 producer/DHT/gateway/counts; query_scaling GROUPING-ALTERNATIVE; growth_design_audit

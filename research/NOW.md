@@ -1,5 +1,13 @@
 # Current research desk
 
+**2026-10-28 current transport repair selected:** ordinary_owned_acquisition/
+SELECTION.md chooses a two-helper successor for existing configured-provider
+reads, using owned sockets and the original absolute budget. query_scaling owns
+implementation/contract; growth_design_audit independent review/controls; root
+assembly/compatibility/exact execution/Git. operable_scale_decision completes
+distinct location feasibility. No runtime selected. Existing kit and standalone
+host stay frozen. Dynamic location remains a separate decision; full v5 active.
+
 **2026-10-28 next exact-location decision:** standalone host committed13088a5;
 no runtime remains. Root read DECISION89a7ad83/CHALLENGE914924c5 and selected only
 ordinary_dependency_location/OPERATOR-MODEL.md source feasibility. Concrete
