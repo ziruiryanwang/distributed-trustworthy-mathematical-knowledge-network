@@ -26,6 +26,15 @@ Its offline contribution companion now joins public contribute/complete outputs
 to the existing host-bundle format. All 160 package payloads and PROFILE remain
 unchanged; the new companion and updated guide are bound by the kit manifest.
 
+A separately packaged [Python-only host](software/v5/ordinary_inert_host_role/ADOPTION.md)
+now carries the same sparse incremental storage/index role without the Lean or
+native installation requirement. Its 30 files total 477,704 payload bytes, plus
+the separately approved Python runtime. It uses a genuine inert support profile;
+old host state is not migrated and the investigator kit is unchanged. Exact
+distribution, eight focused control groups and an actual four-command lifecycle
+passed with clean process/provider closure. The earlier Python-only static mirror
+remains prior evidence; the new capability is incremental sparse hosting.
+
 Work is local and unpublished, with license undecided. The supported profile is
 Windows x86-64, Python 3.14.6 and Lean 4.34.0 with separately approved runtimes.
 This is progress toward the full v5 goal, not a declaration of worldwide readiness.
@@ -124,6 +133,14 @@ protected serialized stores and SQLite durability; orderly postcommit exceptions
 were tested, actual power loss was not. Each append has at most 64 targets while
 cumulative storage obeys fixed quotas. Producer export costs remain separate.
 No previous service allowance is automatically renewed.
+
+Locating a dependency and validating it are separate steps. A missing ordinary
+import currently supplies an exact name/ExportID, and the acquisition client
+tries its selected provider set for the bound locator and evidence. Support-only
+units can be stored without any formal-search preview. The next selected
+[source decision](software/v5/ordinary_dependency_location/SELECTION.md) examines
+affordable candidate-custodian lookup for such imports across unknown providers.
+No new lookup service or DHT integration is yet implemented by that selection.
 
 ## Completion criteria still open
 

@@ -1,5 +1,43 @@
 # Current research desk
 
+**2026-10-28 Python-only host adopted:** ordinary_inert_host_role/ADOPTION.md is the
+storage-only entrypoint alongside unchanged investigator kit6d34e62. Root read/
+adopts OUTCOME20fbb4c2:30-file standalone archive, eight controls, four actual public
+calls/six requests all pass; known CPU7.328125seconds, all closed. No native/owner
+work or new growth claim. Root owns Git/navigation. Next source-only selection:
+ordinary_dependency_location/SELECTION.md, operable_scale_decision DECISION and
+query_scaling CHALLENGE on exact missing-import candidate-custodian location.
+No new implementation/runtime selected; full v5 ACTIVE/local/unpublished.
+
+**2026-10-28 standalone host packed:** pure-role source REVIEW7ea01e55 read/adopted.
+Actual inert-host-pack01 has30files/477,704bytes, SOURCESd6c1f029, archive40405ae1;
+all processes closed,0.390625 known CPU seconds. No Lean/native payload or owner.
+growth_design_audit owns focused controls and saved review; operable_scale_decision
+owns one retained-bundle public runner; query_scaling reviews that runner. Root
+owns exact execution selections/adoption/Git. Source is used/frozen; no operation
+qualification yet. Investigator kit6d34e62 unchanged; full v5 ACTIVE/local/unpublished.
+
+**2026-10-28 pure-host implementation selected:** ordinary_inert_host_role/
+IMPLEMENTATION-SELECTION.md adopts the three source decisions. Reuse mirror02
+loader/supervision plus current incremental custody and25 current pure sources;
+no Lean/native/owner requirement. operable_scale_decision owns host_core/contract,
+query_scaling support/launcher/source-map/usage, growth_design_audit independent
+review then controls. Root owns integration and later exact runtime selection.
+All four current host actions, permanent locking, partial prefixes, finite provider
+cleanup and wire namespace remain. Fresh role profiles only, no state migration.
+Current investigator kit6d34e62 stays unchanged. No runtime selected yet.
+
+**2026-10-28 current source decision:** ordinary_inert_host_role/SELECTION.md
+compares current Lean-dependent inert hosting with the existing qualified
+Python-only ordinary_inert_mirror02. Reuse that role's work; original mirror01
+service failed and remains preserved. Target question is minimal current sparse
+incremental custody without full Lean setup, keeping existing protocols, prefix
+invariant and closure. No implementation/runtime/migration selected. Author owns
+dependency decision; query_scaling independent challenge; growth_design_audit
+saved installation-burden census. Root owns reconciliation. Metadata/preflight
+optimization deferred in light of unknown margin and contribution-anchor costs.
+Current kit committed6d34e62; all experiments closed. Full v5 ACTIVE/local/unpublished.
+
 **2026-10-28 contribution handoff adopted:** ordinary_contribution_bundle/ADOPTION.md
 is the current kit entrypoint. Root read/adopts source39cd903d and outcome3840c5c2:
 268 exact payloads, eight focused groups on the extracted kit, all runtime closed.

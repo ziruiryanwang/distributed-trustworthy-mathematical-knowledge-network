@@ -17,6 +17,12 @@ check selected mathematics locally, and return new concepts and consequences.
 The prebuilt avoids compilation; approved external Python/Lean runtimes remain
 required. Follow the extracted GUIDE.md rather than historical overlay instructions.
 
+For storage/index operators, the separate
+[standalone Python host](software/v5/ordinary_inert_host_role/ADOPTION.md)
+supports the same incremental bundles and wire protocols without installing Lean.
+Its 30-file distribution and actual append/query/retrieval lifecycle passed local
+checks. Recipients still perform their selected independent mathematical checking.
+
 The [current design](CURRENT-DESIGN.md) and [research desk](research/NOW.md)
 record remaining work. Full v5 remains unfinished, local and unpublished;
 ordinary local Lean checking is the default. Expensive certificates are optional,

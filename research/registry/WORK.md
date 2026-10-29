@@ -1,5 +1,29 @@
 # Work and agent ledger
 
+2026-10-28 pure-host OUTCOME20fbb4c2 adopted; all three operations closed, current
+standalone source/extraction frozen. Root owns adoption/navigation/Git. Disjoint
+next source-only task: ordinary_dependency_location/SELECTION; operable_scale_decision
+DECISION, query_scaling CHALLENGE. No runtime or implementation for location yet.
+growth_design_audit completed source/control/outcome assignment. Full v5 active.
+
+2026-10-28 standalone pure host: source review adopted, pack01 completed/closed.
+growth_design_audit owns control_tests.py/control plan and saved outcome;
+operable_scale_decision public_workflow.py/PUBLIC-PLAN; query_scaling PUBLIC-REVIEW.
+Root owns exact selections, integration/adoption/Git. Runtime product sources
+used/frozen; current investigator kit unchanged. No runtime lives at this point.
+
+2026-10-28 source implementation: ordinary_inert_host_role/IMPLEMENTATION-SELECTION.
+operable_scale_decision owns host_core.py/CONTRACT; query_scaling support.py/run.py/
+SOURCES/usage; growth_design_audit independent review then controls. Root owns
+integration, exact runtime selections, adoption/Git. No native, owner, DB or network
+operation is live or selected. Reuse25 current pure sources and existing supervision.
+
+2026-10-28 current source-only split: ordinary_inert_host_role/SELECTION.md.
+operable_scale_decision owns minimal pure-host dependency cut and existing mirror02
+reuse; query_scaling challenges source/trust/operation; growth_design_audit quantifies
+saved setup/verification burden. Root selects any later changes. No runtime,
+native, database, core cache or preflight implementation. Current kit6d34e62 retained.
+
 2026-10-28 adopted: contribution companion + 268-payload kit, all eight controls
 and file-only pack closed and independently reviewed. Root owns adoption/Git.
 operable_scale_decision and growth_design_audit completed distinct source/cost
