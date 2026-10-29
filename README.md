@@ -3,7 +3,7 @@
 ## Current entry points
 
 **October 28 v5 development:** start with the
-[current local kit](software/v5/ordinary_contribution_bundle/ADOPTION.md).
+[current local kit](software/v5/ordinary_owned_acquisition/ADOPTION.md).
 One extraction includes the tested ordinary library package, matching operator,
 formal preview, historical name directory, direct source build and current guide.
 Independent inert hosts can append new contributions within fixed quotas while
@@ -12,6 +12,9 @@ Public contribution/completion outputs can be converted directly into those host
 bundles, preserving new supporting definitions without reexporting the past.
 Approved specialist contact feeds can now be refreshed within a finite policy
 and freshness horizon, with explicit incomplete-source outcomes.
+Ordinary downloads preserve their original deadline through setup and allow
+supplier fallback only after observed connection closure; mathematical checking
+and existing local module compatibility remain unchanged.
 Discover unfamiliar laws through shared mathematical vocabulary, inspect candidates,
 check selected mathematics locally, and return new concepts and consequences.
 The prebuilt avoids compilation; approved external Python/Lean runtimes remain

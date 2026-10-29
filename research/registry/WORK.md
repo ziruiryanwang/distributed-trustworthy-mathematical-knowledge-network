@@ -1,5 +1,20 @@
 # Work and agent ledger
 
+2026-10-28 owned-acquisition final OUTCOME3d652bde adopted; all5operations closed,
+no repeat needed. Root owns adoption/Git. New source work under
+ordinary_export_location/SELECTION.md: operable_scale_decision backend+wire;
+query_scaling Python wire/receiver/gateway after exact contract agreement;
+growth_design_audit independent source/invariant review. Root separate-role
+packaging and later finite validation. No location runtime/native/owner work.
+
+2026-10-28 transport checks: assembly/7controls/kit pass, public01 failed narrow
+test expectation but clean close. Author prepares fresh public02; query reviews;
+growth audits actual saved outcomes. Next ordinary_export_location/SELECTION:
+operable_scale_decision backend+WIRE-CONTRACT; query_scaling Python receive/wire/
+gateway after shared agreement; growth independent invariant/source review; root
+optional-role packaging/launch/adoption/Git. No location runtime. Existing all
+used sources/evidence frozen; no loader/native/owner changes selected.
+
 2026-10-28 ordinary_owned_acquisition/SELECTION selected, source only so far.
 query_scaling owns two helper successors/CONTRACT; growth_design_audit independent
 review and focused controls; root assembly, compatibility, finite launches/Git.

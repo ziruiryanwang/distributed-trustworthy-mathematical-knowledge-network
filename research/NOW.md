@@ -1,5 +1,25 @@
 # Current research desk
 
+**2026-10-28 owned-acquisition adopted:** ordinary_owned_acquisition/ADOPTION.md
+is current investigator entrypoint, PROFILE85d45c92/archive0714debe. Root read
+final OUTCOME3d652bde:assembly,7controls,268-payload kit and actual typed public02
+pass; public01 test-assumption failure preserved. All5operations closed, known
+CPU6.265625seconds. Native/anchor inputs unchanged; standalone host unchanged.
+Next ordinary_export_location source work is active: backend/protocol and Python
+receiver/gateway agreeing one exact wire before coding, independent invariant
+review. No location runtime selected. Full v5 active/local/unpublished.
+
+**2026-10-28 owned-acquisition validation/next source:** assembly,seven controls,
+and268-payload kit passed/closed; public01 failed only its OS-specific immediate
+refusal expectation after a correctly charged settled timeout and clean natural
+closure. Exact successor public02 is under narrow review, no product change.
+Next integrated source scope is ordinary_export_location/SELECTION.md after
+reconciled DHT direction and focused invariant challenge. operable_scale_decision
+owns Node/protocol/IPC/controller and common wire contract; query_scaling Python
+receiver/gateway after contract agreement; growth_design_audit finishes saved
+outcome then independently reviews integration. Root owns packaging/Git/finite
+launches. No location runtime selected. Full v5 ACTIVE/local/unpublished.
+
 **2026-10-28 current transport repair selected:** ordinary_owned_acquisition/
 SELECTION.md chooses a two-helper successor for existing configured-provider
 reads, using owned sockets and the original absolute budget. query_scaling owns

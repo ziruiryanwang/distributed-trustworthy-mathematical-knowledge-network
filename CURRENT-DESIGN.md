@@ -12,25 +12,31 @@ check selected contributions locally, develop concepts and consequences, and
 return reusable mathematics. No global research agenda, human-intention field,
 central mathematical authority or total blockchain ledger is required.
 
-The current [local distribution](software/v5/ordinary_contribution_bundle/ADOPTION.md)
+The current [local distribution](software/v5/ordinary_owned_acquisition/ADOPTION.md)
 provides one adopted extraction and archive.
 Its package adds incremental independent inert hosting to the adopted contact
 refresh, owned TCP connection and historical name-directory implementation,
-PROFILE `e8d33500db4c0a5ce89b2dfb51c3e1f9ec8f12063bbc58fe5e4eb23c2b6dfb13`.
+PROFILE `85d45c928523c2b96f127ec8c15b2e2664f8428f0c1ef2415470a5b30737d3c8`.
 The guide, matching operator, offline preview and direct build closure accompany
 that package; native checking support is unchanged. Use its current root guide, not historical overlay
 instructions preserved inside older documentation. The public host lifecycle
 and exact pack passed independent saved-outcome review; unchanged relocated
 preparer behavior evidence is reused, with new compatibility pins checked.
 Its offline contribution companion now joins public contribute/complete outputs
-to the existing host-bundle format. All 160 package payloads and PROFILE remain
-unchanged; the new companion and updated guide are bound by the kit manifest.
+to the existing host-bundle format. The latest repair changes only ordinary
+acquisition and owned-exchange helpers plus PROFILE;157 other package payloads,
+the mathematical implementation and module-anchor support inputs remain exact.
+All four ordinary read routes preserve original deadlines through setup and
+require observed closure before retryable failure. Seven focused groups and one
+actual typed fallback passed; the first harness's narrower OS assumption failed
+and stays recorded. No native/owner campaign was repeated. Unknown-holder
+location remains a separate active implementation, not an existing kit feature.
 
 A separately packaged [Python-only host](software/v5/ordinary_inert_host_role/ADOPTION.md)
 now carries the same sparse incremental storage/index role without the Lean or
 native installation requirement. Its 30 files total 477,704 payload bytes, plus
 the separately approved Python runtime. It uses a genuine inert support profile;
-old host state is not migrated and the investigator kit is unchanged. Exact
+old host state is not migrated and this role remains unchanged by the reader repair. Exact
 distribution, eight focused control groups and an actual four-command lifecycle
 passed with clean process/provider closure. The earlier Python-only static mirror
 remains prior evidence; the new capability is incremental sparse hosting.
