@@ -1,5 +1,15 @@
 # Current research desk
 
+**2026-10-28 next exact-location decision:** standalone host committed13088a5;
+no runtime remains. Root read DECISION89a7ad83/CHALLENGE914924c5 and selected only
+ordinary_dependency_location/OPERATOR-MODEL.md source feasibility. Concrete
+voluntary custody/routing operators, existing maintained DHT behind replaceable
+HTTP gateways, no reader Node requirement or remote arbitrary registration API.
+operable_scale_decision owns SOURCE-FEASIBILITY (producer/DHT/gateway/counts),
+query_scaling GROUPING-ALTERNATIVE, growth_design_audit RECEIVER-SEAM (common
+budget/expiry/transport). Root chooses one route after whole-cost comparison.
+No implementation/network/native campaign selected. Full v5 remains active.
+
 **2026-10-28 Python-only host adopted:** ordinary_inert_host_role/ADOPTION.md is the
 storage-only entrypoint alongside unchanged investigator kit6d34e62. Root read/
 adopts OUTCOME20fbb4c2:30-file standalone archive, eight controls, four actual public

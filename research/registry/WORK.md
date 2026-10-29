@@ -1,5 +1,11 @@
 # Work and agent ledger
 
+2026-10-28 exact-location source model selected, not implementation. Under
+ordinary_dependency_location: operable_scale_decision SOURCE-FEASIBILITY for
+producer/DHT/gateway/counts; query_scaling GROUPING-ALTERNATIVE; growth_design_audit
+RECEIVER-SEAM only. Root reconciles whole-cost choice/Git. No runtime active.
+Pure host adopted/committed13088a5; all used bytes remain frozen.
+
 2026-10-28 pure-host OUTCOME20fbb4c2 adopted; all three operations closed, current
 standalone source/extraction frozen. Root owns adoption/navigation/Git. Disjoint
 next source-only task: ordinary_dependency_location/SELECTION; operable_scale_decision
