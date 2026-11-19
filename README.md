@@ -57,24 +57,36 @@ and which results to use.
 
 ## What exists today
 
-Small tests on one computer have covered parts of the full cycle: finding a
-result, checking it, using it in further work, and sharing the new work. There
-are also tools for storing results and making them available to others. A
-[recorded example](software/v5/ordinary_finite_map_refinement/ADOPTION.md) shows
-how separate local participants built on each other's definitions and proofs.
+**The local prototype has demonstrated the complete research loop: find a result,
+check it, build on it, share the new work, and have another participant check it.**
 
-We still need to show that the whole system works well across independently
-operated computers and large collections of mathematics.
+In a [completed demonstration](software/v5/ordinary_finite_map_refinement/ADOPTION.md),
+one participant used shared results about table updates to develop new
+mathematical definitions and proofs. A second participant independently checked
+that work, used it to prove another theorem after the original provider stopped,
+and returned the theorem for the first participant to check. Each participant
+kept its own mathematical collection; the exchange ran on one computer.
 
-Our two main challenges are:
+The software also provides:
 
-- **Finding and checking work efficiently.** A useful result should be practical
-  to find and use even when the shared library is huge. The current software can
-  reuse work already checked locally; a first use can still require checking
-  supporting results.
-- **Helping mathematics grow.** Sharing should help people develop new ideas
-  and theories at a reasonable cost. We need to count the time spent searching,
-  checking, and maintaining the library when judging whether it helps.
+- **Search using familiar mathematical names.** Participants can find unfamiliar
+  results by searching for mathematical objects they already use.
+- **A growing local library.** Checked work stays available for later use, so
+  participants can build further results without starting their collection over.
+- **Separate storage and search services.** A lightweight
+  [Python host](software/v5/ordinary_inert_host_role/ADOPTION.md) can accept and
+  serve new contributions without rebuilding its whole collection. People using
+  those contributions check the mathematics themselves.
+
+The next development steps build on these working capabilities:
+
+- **Handle larger collections and more providers:** improve search across them
+  and reduce the cost of checking supporting mathematics on first use.
+- **Make it easier to run on separate computers:** simplify setup and test the
+  same exchange between independently operated machines.
+- **Measure the benefit of sharing:** compare the time and computing cost of
+  developing further mathematics with an equally capable standalone Lean project,
+  including the costs of searching, checking, and sharing.
 
 ## Where to start
 
