@@ -213,3 +213,45 @@ compiler, owner open or experiment was run by this agent. No Git mutation was
 performed. Independent source reviews were requested separately for the assembly
 pair and continuation pair. Later review corrections supersede these hashes and
 must be recorded before use; no completed run exists here to repeat.
+
+## Authoring-only successor after retained registration completed
+
+Root later reported actual assembly02 success and continuation01 terminal failure
+at author A's compiler-facing long-path map. Registration itself committed
+`7a48dd24b43abdef20fe09bd505ef229f56cb9bdd1094f2bf24c6f2f01fd2914` under support
+`bcf0198ddd7a5aa44da3118d3cb3d7c43edb35450d4b9b65eaf04cf1e55a9efc`.
+The source continuation now selected in RETAINED-CONTINUATION-SELECTION preserves
+that record and changes only logical `reference/reference_authoring.py` to the
+root-authored `reference_authoring02.py` (`38045f1f...`). Its source is outside the
+registration support descriptor, while full profile verification still pins it.
+
+The following fresh adapters implement that root-selected source-only scope:
+
+| File | SHA-256 |
+|---|---|
+| `assemble03.py` | `759059ad735238d82a0ac209a1062be224f54a2d75da82ee73cb4dbb58aa6041` |
+| `select_assembly03.py` | `43428010b5d8d702bdde03859d2c1b120419aad53191ad54551eb9bf37e2dad7` |
+| `public_continuation02.py` | `0037a94e1e43995950d20539d062bba9233d1f2006421492b715210b17ff5c8d` |
+| `select_public_continuation02.py` | `60f328b2fd1780299465466cb23c811f63f9ec12287f2009a20c0e1de83e610e` |
+
+Assembly03 derives the reviewed assembly02 algorithm from the actual retained
+assembly02 package (PROFILE `1054b9a3...`, ASSEMBLY `537b8852...`), with one changed
+and 164 unchanged payloads. Proposed assembly limits remain 90 wall/50 CPU,
+512 MiB/two processes. The fresh package destination is
+`ordinary-reference-assembly-03/package`; no native compiler or state operation.
+
+Continuation02 has five calls only: A, delta A, B, compiled-sorry refusal, status.
+It uses the same current catalog/custody and initially accepted roots, pins actual
+continuation01 failure metadata and the committed reference record, but does not
+use those diagnostic reports as live mathematical authority. The first real
+authoring call must load the protected record/current warrants. No initialization,
+intake, registration, old matcher call or snapshot copy is present. New evidence
+goes under `ordinary-reference-public-continuation-02/workflow`. Proposed inner
+limits are 420 wall/260 CPU, outer 480 wall/320 CPU; memory/process limits are
+unchanged. Native acquisition/admission assertions remain as before.
+
+All four new files pass AST-only parsing. This agent did not run selectors,
+assembly, any public operation or Git. Independent source review was requested
+before root's separate runtime decision. Growth producer-facade design is parked
+during this bounded repair, as root directed; its source-only proposal remains
+in PRODUCER-FACADE-PLAN and has no implementation authority.

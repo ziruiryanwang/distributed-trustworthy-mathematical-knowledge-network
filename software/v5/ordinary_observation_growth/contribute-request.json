@@ -1,0 +1,110 @@
+{
+  "action": "contribute",
+  "state": {
+    "catalog": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\refinement-recipient-catalog01",
+    "custody": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\refinement-recipient-custody01",
+    "store_id": "8fc4067f95cb39f89a1168c16a2aab22df1844cfc5a2d01f5bfd324bb7f7a9e5"
+  },
+  "custody_limits": {
+    "objects": 4096,
+    "exports": 8192,
+    "logical_bytes": 134217728,
+    "db_pages": 65536
+  },
+  "parent_report": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\refinement-recipient-contribute-b01\\public-launch\\child\\stdout.txt",
+    "sha256": "4fa48a7ad144e474dde9e78531c4ee37c7547d87661ed688fe3824f00195841c"
+  },
+  "source": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\research\\cycles\\v5-2026-10-28-growth\\Proposed03.lean",
+    "sha256": "4743094ebb82157bff58c0131c52592911672909c522e58b0efae3c747d2754a"
+  },
+  "approve_local_source": true,
+  "acquired": [],
+  "output_names": [
+    [
+      [
+        0,
+        {
+          "$bytes": [
+            82,
+            101,
+            115,
+            101,
+            116,
+            69,
+            102,
+            102,
+            101,
+            99,
+            116,
+            115
+          ]
+        }
+      ],
+      [
+        0,
+        {
+          "$bytes": [
+            102,
+            105,
+            108,
+            108
+          ]
+        }
+      ]
+    ],
+    [
+      [
+        0,
+        {
+          "$bytes": [
+            82,
+            101,
+            115,
+            101,
+            116,
+            69,
+            102,
+            102,
+            101,
+            99,
+            116,
+            115
+          ]
+        }
+      ],
+      [
+        0,
+        {
+          "$bytes": [
+            99,
+            111,
+            110,
+            116,
+            101,
+            120,
+            116,
+            117,
+            97,
+            108,
+            95,
+            105,
+            102,
+            102
+          ]
+        }
+      ]
+    ]
+  ],
+  "project_authoring": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\ordinary_observation_growth\\project-authoring.json",
+    "sha256": "ff9623c5e16247556ed0e33eb79501ba8b3d26a6a6ab68d7f6a0d98da8b9d5b6"
+  },
+  "approve_local_project": true,
+  "authoring_frontier_report": {
+    "path": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\refinement-recipient-part-b01\\public-launch\\child\\stdout.txt",
+    "sha256": "e06a0ab9f171868f2d9187ba5757a3d6a7408f2d54c5b79fa52981d0e01f713e"
+  },
+  "operation_output": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\observation-growth-contribution01"
+}

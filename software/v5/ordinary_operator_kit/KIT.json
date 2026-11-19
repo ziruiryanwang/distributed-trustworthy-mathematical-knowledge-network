@@ -1,0 +1,30 @@
+{
+  "schema": "DMKN_ORDINARY_OPERATOR_KIT_V1",
+  "status": "OFFLINE_CONFIG_ADAPTER_CONTROLS_ADOPTED_NOT_FULL_V5",
+  "profile_sha256": "9c41b9a3fe36f7283af130ac6ef290e82c2a78c432980b2bea75ccdcf197a6d4",
+  "entry": "prepare.py",
+  "files": {
+    "prepare.py": {
+      "bytes": 28501,
+      "sha256": "a843efb7a5b2518469260e5d5acedad530068147cf86851c867c75d9e22e855e"
+    },
+    "examples.json": {
+      "bytes": 5509,
+      "sha256": "c585172795401aca25a7fabaf9173dcd9ee38f1cdceeed129d13e2e9b6742b3a"
+    },
+    "START-HERE.md": {
+      "bytes": 16487,
+      "sha256": "3af7eea96011a18642eb5d3039b47284b2d6dbbcee6c912a821c8e72c654947c"
+    }
+  },
+  "evidence": {
+    "selection_sha256": "095bdff5bb08d1b767c55bee026da3822f3463e24c718c49508d2b60ce31d42d",
+    "outer_result": "experiments/v5-local-checks/operator-kit-controls01/RESULT.json",
+    "outer_result_sha256": "584d48212b42b41c2eff9725123e61594090fba19433cc96fbb3c6e2a2fb560c",
+    "suite_result_sha256": "4f5c1c3238ca6bf3a988f1f697d84772083e510648bcd94154faf44864a05479",
+    "independent_outcome": "OUTCOME.md",
+    "independent_outcome_sha256": "6526f2dac47215c2710bb088a2638689cf85b8d790a50b767930deb1fe21fb31",
+    "cases": 74
+  },
+  "boundary": "Inert explicit configuration only; no command execution, mathematical authority or report authentication. Package/profile remains separately approved. No compatibility with a different profile is implied."
+}

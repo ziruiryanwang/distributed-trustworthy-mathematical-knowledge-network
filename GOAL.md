@@ -1,5 +1,7 @@
 # Goal: a usable mathematical commons architecture and software
 
+**2026-10-28 explicit temporary pause:** the user asks to pause. Work is paused after saving software/v5/ordinary_export_location/PAUSE.md; no experiment or service is running. The full objective remains unfinished. Later resumption must read that checkpoint and current desk before choosing work.
+
 **2026-10-24 explicit concept/theory-development requirement:** the system must
 be capable of supporting the development of new mathematical concepts and
 theories, not merely distributing existing results or caching answers. Agents

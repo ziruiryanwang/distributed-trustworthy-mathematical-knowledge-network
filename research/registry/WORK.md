@@ -1,5 +1,7 @@
 # Work and agent ledger
 
+2026-10-28 explicit user pause. Root, operable_scale_decision, query_scaling and growth_design_audit have stopped source edits; all checkpoints saved under ordinary_export_location/PAUSE*.md. No live runtime. Do not execute draft manifests or restart any completed operation. Full v5 remains unfinished.
+
 2026-10-28 owned-acquisition final OUTCOME3d652bde adopted; all5operations closed,
 no repeat needed. Root owns adoption/Git. New source work under
 ordinary_export_location/SELECTION.md: operable_scale_decision backend+wire;

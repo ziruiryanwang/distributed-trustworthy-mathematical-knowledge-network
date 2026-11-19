@@ -1,5 +1,7 @@
 # Current research desk
 
+**2026-10-28 explicit user pause:** all source work stopped after checkpoint. No runtime is active. See software/v5/ordinary_export_location/PAUSE.md and the three agent pause notes. Export-location source is unadopted; its operator SOURCES is a stale draft pending final pin refresh, reader source-map and reviews remain unfinished. Current adopted kit remains owned-acquisition at9eebc1c. Resume only when instructed; full v5 unfinished.
+
 **2026-10-28 owned-acquisition adopted:** ordinary_owned_acquisition/ADOPTION.md
 is current investigator entrypoint, PROFILE85d45c92/archive0714debe. Root read
 final OUTCOME3d652bde:assembly,7controls,268-payload kit and actual typed public02

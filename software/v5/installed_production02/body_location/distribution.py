@@ -1,0 +1,1369 @@
+"""Installed producer successor: exact full release and dedicated producer lane.
+
+Trusted local bootstrap, not a signature verifier or hostile-code sandbox.
+No package downloads, binary builds, alternative supervisor, or migration.
+Producer dispatch is explicit and separate from ordinary receiver operations.
+"""
+import time
+STARTED_NS, STARTED_CPU = time.monotonic_ns(), time.process_time()
+from copy import deepcopy
+from contextlib import contextmanager
+from contextvars import ContextVar
+import hashlib
+import json
+import os
+from pathlib import Path, PurePosixPath
+import re
+import stat
+import sys
+from types import ModuleType
+
+MIB = 1024**2
+BASE_SHA = "a93714ecd267984d2bdc7830fc28027151d650d5b0aeea13fac850b52ba5beed"
+RELATION = "9dfd589213a3245cf88e0d28096356aae4d2666bf0e85a7c3302b92e21d2c69e"
+FOUNDATION = "d931d114155cf3cf0dc0b868aa88c6d38b8ada8ecafe267a5934934075782481"
+POLICY = "5edfd0ee15b141b7304e26c1a39cd11f7f7e721713cf099813ae4f4442fad377"
+INPUT_SCHEMA = "DMKN_V5_DISTRIBUTION_INPUT_V4"
+RELEASE_SCHEMA = "DMKN_V5_DIRECTORY_RELEASE_V4"
+SDK_LIMIT = 144
+PRODUCER_ONLY_SOURCES = frozenset((
+    "v5/aggregate_lifecycle/__init__.py", "v5/aggregate_lifecycle/producer.py",
+    "v5/aggregate_lifecycle/snapshot.py", "v5/aggregate_small/__init__.py",
+    "v5/aggregate_small/producer.py", "v5/aggregate_small/operator.py",
+    "v5/aggregate_claims/input.py", "v5/aggregate_claims/prepare_mixed.py",
+    "v5/release_production/__init__.py", "v5/release_production/producer.py",
+    "v5/release_production/adoption.py", "v5/release_production/operator.py",
+    "v5/release_production/launch.py", "v5/release_production/launch_contract.py"))
+PRODUCTION_DESCRIPTOR = "production/ARTIFACTS.json"
+PRODUCTION_TEMPLATE = "production/PROFILE-TEMPLATE.json"
+PRODUCTION_CONTRACT = "v5/release_production/launch_contract.py"
+PRODUCTION_LAUNCH = "v5/release_production/launch.py"
+PRODUCTION_ENTRY = "v5/release_production/operator.py"
+PRODUCTION_PROFILE_REQUEST = "DMKN_RELEASE_PRODUCER_PROFILE_REQUEST_V1"
+PRODUCTION_IMAGE = "9d5072a67f5ab2c4f9468df03c2424d71c457021c4b442d7739c5a3d51ba2865"
+PRODUCTION_PATHS = {
+    "stage_host": "assets/producer/stage_host.exe",
+    "snapshot_host": "assets/producer/snapshot_host.exe",
+    "guest_image": "assets/producer/aggregate_image.bin",
+}
+PRODUCTION_ARTIFACTS = {
+    "stage_host": {"bytes": 68039168,
+        "sha256": "263841ae256af217de2c00452c7f0688a2e9e58e6aa6d95457d5118aef04ff3c"},
+    "snapshot_host": {"bytes": 6630400,
+        "sha256": "a9438205bbb091623f12bd10a7e9a0a2b437c873003fec3cb000c7d8dbbd7a05"},
+    "guest_image": {"bytes": 1868700,
+        "sha256": "0bb44c54238f78fe04a385b689ddcce9a1b8770eac5a2f0ae9e71de1b62b0d46"},
+}
+BASE_ROLE = "mathematical-client-v1"
+LOCATION_ROLE = "mathematical-client-location-v1"
+BASE_ROLES = frozenset((BASE_ROLE, LOCATION_ROLE))
+SERVING = frozenset(("serve", "serve-advertised"))
+LEAN_SUPPORT = "LEAN_4_34_INIT_PRIVATE_V1"
+BASE_HELPERS = {"operator/commons.py", "receiver/helpers/domains.py",
+                "receiver/helpers/run_stage.py"}
+LEAN_SUFFIXES = (".olean", ".olean.server", ".olean.private", ".ir.sig", ".ir")
+REQUEST_SCHEMA = "DMKN_V5_INSTALLED_REQUEST_V1"
+RELEASE_FILE = "V5-RELEASE.json"
+ROLES = {"native", "receipt", "aggregate", "image", "frontend", "foundation"}
+WRAPPERS = {
+    "reader": b"from client.remote_reader import main\n",
+    "serve": b"from client.serve_workspace import main\n",
+    "serve-advertised": b"from client.serve_advertised import main\n",
+}
+ENTRY_SCHEMAS = {
+    "reader": "DMKN_V5_REMOTE_READER_WITHDRAWAL_V1",
+    "serve": "DMKN_V5_WORKSPACE_SERVICE_V1",
+    "serve-advertised": "DMKN_V5_ADVERTISED_WORKSPACE_SERVICE_V1",
+}
+LOCATION_SOURCES = frozenset((
+    "__init__.py", "controller.py", "controller_services.py", "protocol.py",
+    "workflow.py", "available_descriptor.py", "observed_route.py", "protocol.mjs",
+    "framing.mjs", "intent.mjs", "runtime.mjs", "maintained.mjs", "transport.mjs",
+    "composition.mjs", "ipc_wire.mjs", "node_entry.mjs", "maintained_roles.mjs",
+    "role_composition.mjs", "node_entry_roles.mjs", "services_composition.mjs",
+    "node_entry_services.mjs"))
+README = """# Mathematical commons: pinned Windows directory
+
+This installation supplies the selected v5 SDK and mathematical-client support.
+The base is an exact named projection of an unchanged manifest. Both roles supply
+Python and the three supervisor helpers. mathematical-client-location-v1 also
+supplies the retained Node/overlay role; mathematical-client-v1 does not.
+Neither role is a complete v4 installation; historical v4 commands are unsupported.
+The active role is recorded in V5-RELEASE.json and at the end of this document.
+The complete selected Lean Init private-import support closure is included and
+hashed at ordinary consumer launch and full verify. The worker's short pin list
+remains minimum launch dependencies,
+not a claim that those six files are the entire Lean import dependency closure.
+It is not a declaration that all final-v5 release/security/growth gates passed.
+Licensing remains undecided; this file grants no additional license.
+
+Trust bootstrap Python and distribution.py before executing them. Independently
+adopt the V5-RELEASE.json SHA-256; hashes alone do not identify a publisher.
+Keep installation files immutable; owner data/TLS secrets/state live outside.
+
+Commands (absolute paths, Python -I -S -B, Windows):
+
+  base/receiver/runtime/python/python.exe -I -S -B distribution.py verify RELEASE_SHA
+  base/receiver/runtime/python/python.exe -I -S -B distribution.py launch RELEASE_SHA reader REQUEST REQUEST_SHA
+  base/receiver/runtime/python/python.exe -I -S -B distribution.py launch RELEASE_SHA serve REQUEST REQUEST_SHA
+  base/receiver/runtime/python/python.exe -I -S -B distribution.py launch RELEASE_SHA run REQUEST REQUEST_SHA
+  base/receiver/runtime/python/python.exe -I -S -B distribution.py producer-profile RELEASE_SHA REQUEST REQUEST_SHA
+  base/receiver/runtime/python/python.exe -I -S -B distribution.py producer RELEASE_SHA PLAN PLAN_SHA
+
+Producer-profile REQUEST has exactly schema DMKN_RELEASE_PRODUCER_PROFILE_REQUEST_V1
+and output_directory: a fresh absolute directory outside the entire installation
+and all inputs. It writes profile.json and RESULT.json, or retains a failure
+marker. This finite parent operation constructs no producer and runs no host.
+Keep the resulting profile unchanged across producer operations. Relocation
+changes its identity; it does not migrate an old allowance or proof session.
+
+Producer PLAN is the exact DMKN_RELEASE_PRODUCER_LAUNCH_V1 selection described
+by the shipped release_production.launch_contract, including explicit action,
+release, profile, input, installed entry, finite limits, provenance and fresh
+run directory. It is NOT a generic installed request. The producer command
+uses a dedicated bounded launcher, not client.boot; its core origins stay
+installed. Only snapshot/request/preflight/run are supported. Each action is
+separately selected; no new proof, funding, trust adoption or retry is automatic.
+RESULT.json from profile creation is valid only without PROFILE-PENDING.json
+and PROFILE-FAILED.json. Pending is created first and removed only as the final
+commit; a failure to write a failure marker cannot expose a stale success.
+Launch results have their own genuine completion/failure evidence rules.
+Neither record is mathematical acceptance or a final-v5 readiness claim.
+The full SDK includes fourteen producer-only files. Ordinary reader/service/run
+launches omit exactly those roles and retain the bounded consumer source map;
+their preparation pins do not grow merely because the producer is installed.
+Producer-profile and producer validate the complete physical file census and
+the existing non-Lean hash selection, but do not hash unused assets/lean content.
+Missing/extra files and reparse paths still refuse. This is producer-purpose
+readiness, not complete payload integrity; explicit verify still hashes all
+payloads. Child interpreter/import, producer-owner and explicit input checks
+remain unchanged. The trusted local bootstrap/OS must not load producer
+dependencies from assets/lean; this producer-purpose path is unsupported when
+that premise does not hold. No cross-operation validation cache or extra
+execution authority is created.
+
+REQUEST is canonical/local JSON with schema DMKN_V5_INSTALLED_REQUEST_V1,
+name, workspace_root, parameters, limits, output_limits, owner, runtime_mode.
+Name is a fresh lowercase run name. workspace_root is an existing directory
+disjoint from this installation. limits/output_limits retain client.launch's
+finite Windows Job/census schemas. parameters are the ordinary selected SDK
+entry's parameters, without runtime_adoption/foundation (injected for reader).
+owner is null for reader/serve/serve-advertised; run uses {root,entry,sources}, with sources a
+relative-path -> {bytes,sha256} map for explicitly trusted local Python code.
+runtime_mode is aggregate for reader, atomic or aggregate for run, null for either
+serving command. No mathematical runtime profile is created for serving.
+Trusted run parameters can request release roles at any depth with exact
+{"$installed":"runtime_adoption"} or {"$installed":"foundation"} singleton maps.
+No automatic trust downgrade is allowed; aggregate configuration does not prove
+an aggregate certificate exists. User's strategy chooses its own mathematics.
+
+The launcher creates fresh NAME-request/launch.json outside the installation
+(and preparation.json only for mathematical owners), then invokes unchanged client.launch/boot with the original
+wrapper clock. Mathematical Workspace data must be a disjoint persistent sibling
+of NAME and NAME-request. Existing files are never overwritten; failure leaves
+its partial directory for inspection, without retry or allowance renewal.
+
+First mathematical use requires a SEPARATE explicit local trust adoption. Neither
+ordinary startup nor missing/withdrawn state creates or repairs policy. Through
+the existing trusted run entry, use runtime_mode="aggregate" for validated
+clients and parameters runtime_adoption={"$installed":"runtime_adoption"},
+directory=<fresh absolute persistent policy directory>, domain_id=<owner-chosen
+64 lowercase hex digits>. A minimal owner main(context) is:
+
+```python
+import json
+from pathlib import Path
+from admission.trust import TrustDomain, support_id
+from client.runtime import RuntimeProfile
+
+def main(context):
+    p = dict(context.parameters)
+    support = RuntimeProfile.support_manifest(context, p["runtime_adoption"])
+    selected = support_id(support)
+    TrustDomain.create(p["directory"], p["domain_id"], support)
+    configuration = {"directory": p["directory"],
+                     "domain_id": p["domain_id"], "support_id": selected}
+    with (Path(context.location_workspace)/"trust-domain.json").open(
+            "x", encoding="utf-8") as stream:
+        json.dump(configuration, stream, sort_keys=True)
+    return 0
+```
+
+Keep the policy directory outside the immutable installation, operation trees and
+mathematical workspace; its parent must already exist. Retain the resulting
+three-field configuration in owner-controlled files. A completed adoption is a
+local trust decision, not a mathematical result or a security audit. If writing
+the report fails after adoption, preserve the directory and inspect the failure;
+do not auto-adopt another domain.
+
+Every later owner opens that SAME existing domain before creating runtime owners:
+
+```python
+trust = context.parameters["trust_domain"]
+domain = TrustDomain.open(trust["directory"], trust["domain_id"], trust["support_id"])
+runtime = RuntimeProfile.from_context(context, context.parameters["runtime_adoption"],
+                                      trust_domain=domain)
+```
+
+A new SDK/checker support identity requires deliberate new adoption. Run paths
+and caller strategy bytes do not change support identity. Missing, changed or
+withdrawn policy fails closed across restarts; do not catch denial and create
+new policy. Operator withdrawal is domain.withdraw(reason), with no reinstate
+API. It denies new issuer/cache/post-worker use at the next live gate, not data
+already returned or instantaneous cancellation of an in-flight worker. Serving
+retained untrusted data creates no mathematical owners and requires no domain.
+
+reader's ordinary parameters: workspace_path,workspace_config,create_workspace,
+operation_limits,query,trust_domain. trust_domain has exactly directory,domain_id,
+support_id and opens an existing adoption. The query has contacts,egress_policy,specs,search_limits,
+contact_lifetime_ms,selection,offer,page,packets,admission. Selection is one
+provider/partition ordinal/start/candidate ordinal/packet ordinal; it is not a
+usefulness ranking. The entry adds schema DMKN_V5_REMOTE_READER_WITHDRAWAL_V1. Inspect the
+saved read outcome; completed MISS/REFUSED/NEED_SEMANTICS is not READY.
+
+Pair indexing is OPTIONAL. The old DMKN_V5_CLIENT_EVIDENCE_WORKSPACE_V1
+configuration keeps its exact original namespace. For a fresh specialized index,
+select DMKN_V5_CLIENT_EVIDENCE_CONJUNCTION_WORKSPACE_V1 with all old fields plus
+discovery_profile={"schema":"DMKN_MODULE_EXPORT_PAIR_PROFILE_V1","pairs":[...]}.
+Configure 1..8 distinct pairs of existing atomic formal-feature specs; each pair
+has two distinct atoms sorted by discovery.formal_features.compact, and the pair
+list is sorted by that same canonical byte function. No nested pairs. Persist
+the exact config and reopen it, never mutate/reindex an old workspace in place.
+Providers and consumers must use the identical profile/namespace.
+
+Both ordinary find and direct-contact queries use workspace.adapter.compile_query(specs).
+Use this method for location route features too, not the legacy free compiler.
+It accepts 1..8 atomic query specs and replaces only the first configured pair
+present in the query, retaining every other atom. No eligible pair uses ordinary
+atomic keys in the SAME namespace; incompatible providers do not trigger silent
+cross-profile fallback. Mismatch/exhaustion is not global mathematical absence.
+Each record keeps all atomics and adds at most eight pair postings. Existing
+128-feature/16-KiB record caps refuse overflow rather than truncate. A selective
+pair can reduce nonmatching scans; extra build/update/storage/replication costs
+still need repeated useful queries to repay them. Neither this optimization nor
+an authenticated index proves mathematical relevance, global completeness or
+full-cost knowledge growth. Mathematical candidate acceptance is unchanged.
+
+serve's parameters are schema DMKN_V5_WORKSPACE_SERVICE_V1,mode,workspace_path,
+workspace_config,bind,tls,service_limits. It serves existing data remotely
+read-only but opening/querying may update local metadata and holds an exclusive
+workspace lock. It neither admits mathematics nor advertises through DHT.
+
+Optional common-profile bridge: trusted run owner code can call
+client.base_projection.main(context) to materialize a finite explicit selection
+of held exports into workspace/base-projection-index. The run launch still needs
+its normal runtime_mode/configuration, but this helper starts no proof/native
+process. Preparation is separate from service; it never scans the full corpus.
+The fixed metadata-only projection shares original module/packet custody and
+does not change the workspace's specialist profile or mathematical authority.
+
+To serve that retained projection choose explicit DMKN_V5_WORKSPACE_SERVICE_V2,
+or DMKN_V5_ADVERTISED_WORKSPACE_SERVICE_V2 for serve-advertised. Add exactly
+index_view:{schema:DMKN_V5_BASE_PROJECTION_VIEW_V1,index_limits:TARGET_LIMITS,
+expected_snapshot_id:LATEST_TARGET_HASH}. The hash must equal the actual retained
+latest cut before listeners start; a historical snapshot is not sufficient.
+V1 remains the default and refuses index_view. V2 reports the selected base view,
+source namespace and partial/owner-selected coverage, never all-source coverage.
+Compile advertised route features with the default ModuleExportAdapter, not a
+specialist adapter. Only one view is served per invocation under the original
+workspace lock. No preparation, catch-up, migration or renewal is implicit.
+See client.base_projection for the closed prepare request and uncertainty report.
+
+Only mathematical-client-location-v1 also supports:
+  base/receiver/runtime/python/python.exe -I -S -B distribution.py launch RELEASE_SHA serve-advertised REQUEST REQUEST_SHA
+Its parameters use DMKN_V5_ADVERTISED_WORKSPACE_SERVICE_V1 and the HTTP fields
+plus location:{egress,listen,announce,bootstrap,limits,routes,health_interval_ms}.
+The launcher injects the selected installed location root; caller-supplied
+installation_root is refused. Routes are bounded {features,stripe} hints, not
+mathematical authority or acknowledged remote placement. Use explicit IPv4 HTTP
+ports and owner-approved peer destinations. Public HTTPS must validate the
+numeric-IP certificate; no automatic DNS/NAT/relay discovery is supplied.
+Node service lifetime, sampled health, cleanup and all work stay in the original
+finite Job. HTTP-only installations reject this command before creating outputs.
+
+The installed SDK now supplies client.semantic_reader.SemanticReader and
+CommonsClient.try_acquire_body, CommonsClient.try_resolve_declaration and
+SemanticReader.try_resolve for caller-directed demanded semantics and settled
+supplier refusals. Use them inside one live validated operation via trusted run.
+Bind alternative contacts before the existing one-shot search; choose every
+packet/member/supplier explicitly. No automatic retry, contact/grant renewal or
+saved authority loader exists. The one-shot reader does NOT drive this helper
+and may still return NEED_SEMANTICS. Reports are not portable live handles.
+
+Concrete SDK guide (inside explicitly trusted run owner code): open a validated
+Workspace and one RuntimeProfile operation, then discover/resolve a live
+candidate and choose its offered packet. Do not call remote_reader.read first:
+that one-shot policy already admits rather than staging the packet. Use
+runtime_mode="aggregate" for the validated configuration; this is not a claim
+that an aggregate certificate exists. Set authoring=True only when intended
+and funded. The following are API fragments for the appropriate demanded phase,
+not an unconditional script or an automatic network policy:
+
+```python
+from client.semantic_reader import SemanticReader
+
+helper = SemanticReader(client, candidate, definition_mode="interface-only", limits={
+    "modules": 8, "names": 64, "groups": 64, "bodies": 64,
+    "steps": 512, "data_bytes": 1048576,
+})
+staged = await helper.stage(candidate, caller_selected_entry)
+preview = helper.preview()  # Data/structural demands only, never authority.
+# For a current NeedModuleEvidence covered by the staged packet's inventory:
+helper.select_member(staged["module"], exact_184_byte_member_journal)
+# For a current declaration/body demand, choose an already authorized contact:
+await helper.resolve(current_demand, max_bytes=65536, supplier="P")
+# For a declaration demand, settled absence permits an explicit alternate:
+declaration_attempt = await helper.try_resolve(
+    current_declaration_demand, max_bytes=65536, supplier="P", attempt_timeout_ms=2000)
+if declaration_attempt["status"] == "UNAVAILABLE_AT_SELECTED_SUPPLIER":
+    declaration_attempt = await helper.try_resolve(
+        current_declaration_demand, max_bytes=65536, supplier="Q", attempt_timeout_ms=2000)
+attempt = await helper.try_fetch_body(
+    current_body_demand, max_bytes=65536, supplier="P", attempt_timeout_ms=2000)
+if attempt["status"] == "UNAVAILABLE_AT_SELECTED_SUPPLIER":
+    attempt = await helper.try_fetch_body(
+        current_body_demand, max_bytes=65536, supplier="Q", attempt_timeout_ms=2000)
+# Only after a fresh preview returns STRUCTURAL_CLOSURE_STAGED:
+result = helper.finish({staged["module"]: admission_limits})
+```
+
+P and Q must already belong to the original authorized contacts. Q need not
+resupply the declaration merely to supply its committed body. Member journals
+must come from the selected packet inventory and match the actual demand;
+additional packets or ambiguous variants require another explicit local choice.
+The example caps are not extra grants: all must fit original operation limits.
+Bound your own loop/action count, stop on no progress/exhaustion, and use one
+admission_limits entry per selected packet root. Each entry has exactly
+native_cpu_seconds, receipt_cpu_seconds, wall_seconds, memory_mib. finish admits
+through existing owners once and cannot be repeated on a consumed helper.
+
+Direct declaration callers may use client.try_resolve_declaration(origin_candidate,
+module, relative_name, max_bytes=..., supplier=..., attempt_timeout_ms=...) inside
+the same operation. Its DECLARATION_CUSTODIED result supplies a live candidate,
+not mathematical authority. The helper folds that data into its staged context.
+
+Default definition_mode="eager" retains the ordinary body-complete path. The
+optional "interface-only" mode defers ONLY missing ordinary-definition bodies;
+declaration types, present bodies, inductive groups and recursor computation
+rules still require their ordinary structural closure. Select this mode when
+using such a definition by its interface; when its computation is required,
+explicitly acquire its body first. The mode is fixed for that reader/live-import
+session, including pending continuation. Direct client.import_context and
+client.preview_context also accept definition_mode="interface-only".
+Only the untrusted Lean frontend request receives opaque surrogates for absent
+definition bodies. Original authenticated descriptors, body hashes and hints
+remain bound to final native checking. This is not a new axiom, certification,
+or fallback. A native checking failure is fatal; there is no automatic retry
+or semantics acquisition. Retained input packets may still contain earlier
+native-tail bodies: this API does not promise reduced total initial bandwidth.
+
+Only the typed supplier-unavailability result permits that explicit Q continuation;
+the failed attempt's full reply reservation stays charged. Malformed data,
+unauthorized/expired contacts, cancellation, uncertain cleanup or custody errors
+remain fatal, not reasons for a catch-and-retry loop. FETCHED/NO_PROGRESS concerns
+held committed bytes, not mathematical acceptance. Use result["context"] only
+when result["status"] == "READY", with the same live client (for example its
+author/publish API if selected). No handle is serializable/resumable authority.
+Use a finally block to helper.close(); it does not close its borrowed client.
+The owner must also await client.close() and then close the workspace, attempt
+both despite earlier cleanup errors, and preserve any failure report.
+
+Runtime profiles are materialized from relative pinned roles at each launch,
+so moving the whole installation does not retain obsolete absolute runtime paths.
+Launch checks release structure/census and selected SDK/assets; unused nested
+base payload hashes are checked by explicit verify, while existing launch/boot
+still validate their exact runtime/helper selection. No ambient code is adopted.
+Windows OS loader/PATH assumptions remain; resource Jobs are not security
+sandboxes. No archive, publishing, cloud, verifier build or proof run is implied.
+
+Build/verify/launch assume owner-controlled local directories remain stable during
+one operation. Each operation validates canonical directory ancestry once, then
+checks each file's lexical name, nonreparse type and selected bytes independently.
+Directory caching is never reused by the next operation; it is not protection
+against concurrent filesystem mutation or a hostile filesystem.
+"""
+
+
+def need(ok, reason):
+    if not ok:
+        raise ValueError(reason)
+
+
+def fields(value, expected):
+    need(type(value) is dict and set(value) == set(expected), "DIST_FIELDS")
+
+
+def digest(value):
+    need(type(value) is str and re.fullmatch("[0-9a-f]{64}", value), "DIST_SHA256")
+    return value
+
+
+def row(value):
+    fields(value, {"bytes", "sha256"})
+    need(type(value["bytes"]) is int and 0 <= value["bytes"] <= 128*MIB, "DIST_FILE_BOUND")
+    digest(value["sha256"])
+    return value
+
+
+def relative(value):
+    need(type(value) is str and 0 < len(value) <= 1024 and "\\" not in value, "DIST_RELATIVE")
+    path = PurePosixPath(value)
+    need(path.parts and not path.is_absolute() and path.as_posix() == value
+         and len(path.parts) <= 32, "DIST_RELATIVE_SHAPE")
+    for part in path.parts:
+        need(part not in (".", "..") and not part.endswith((".", " "))
+             and not os.path.isreserved(part)
+             and not any(ord(c) < 32 or c in ':*?"<>|' for c in part), "DIST_PATH_PART")
+    return path.parts
+
+
+_DIRECTORIES = ContextVar("dmkn_distribution_checked_directories", default=None)
+
+
+@contextmanager
+def path_scope():
+    """Fresh directory-only validation cache, for a stable trusted local tree.
+
+    Nested scopes start fresh and restore their caller's scope. No file type,
+    freshness, hash, failed check or cached scope crosses an operation boundary.
+    This reduces metadata I/O, not the selected content-verification work.
+    """
+    token = _DIRECTORIES.set(set())
+    try:
+        yield
+    finally:
+        _DIRECTORIES.reset(token)
+
+
+def _directory(path, checked):
+    # Full resolution is needed only when first adopting an existing directory.
+    # File leaves are separately checked below, never added to this cache.
+    for ancestor in reversed((path, *path.parents)):
+        key = str(ancestor)
+        if key in checked:
+            continue
+        need(str(ancestor.resolve()) == key, "DIST_CANONICAL_LOCAL_PATH")
+        info = ancestor.lstat()
+        need(stat.S_ISDIR(info.st_mode) and not getattr(info, "st_file_attributes", 0) & 0x400,
+             "DIST_ORDINARY_ANCESTOR")
+        checked.add(key)
+
+
+def ordinary(value, *, directory=False, fresh=False):
+    path = Path(value)
+    need(path.is_absolute() and len(path.drive) == 2 and path.drive[1] == ":"
+         and path != Path(path.anchor), "DIST_CANONICAL_LOCAL_PATH")
+    for part in path.parts[1:]:
+        relative(part)
+    checked = _DIRECTORIES.get()
+    if checked is None:
+        # Standalone callers keep the predecessor's uncached path validation.
+        need(str(path.resolve()) == str(path), "DIST_CANONICAL_LOCAL_PATH")
+        for ancestor in path.parents:
+            info = ancestor.lstat()
+            need(stat.S_ISDIR(info.st_mode) and not getattr(info, "st_file_attributes", 0) & 0x400,
+                 "DIST_ORDINARY_ANCESTOR")
+    else:
+        _directory(path.parent, checked)
+    if fresh:
+        need(not os.path.lexists(path), "DIST_FRESH_PATH")
+    elif directory and checked is not None:
+        _directory(path, checked)
+    else:
+        # Verified canonical ordinary parent + lexical component + nonreparse
+        # leaf confines the target without resolving its entire ancestry again.
+        # File-map spelling/census and hash binding remain independent checks.
+        info = path.lstat()
+        need(not getattr(info, "st_file_attributes", 0) & 0x400
+             and (stat.S_ISDIR(info.st_mode) if directory else stat.S_ISREG(info.st_mode)),
+             "DIST_ORDINARY_TARGET")
+    return path
+
+
+def overlap(left, right):
+    return left.is_relative_to(right) or right.is_relative_to(left)
+
+
+def encode(value):
+    return json.dumps(value, ensure_ascii=False, sort_keys=True, separators=(",", ":"),
+                      allow_nan=False).encode("utf-8")
+
+
+def parse(raw):
+    def pairs(items):
+        result = {}
+        for key, value in items:
+            need(key not in result, "DIST_DUPLICATE_JSON_KEY")
+            result[key] = value
+        return result
+    def reject(unused):
+        raise ValueError("DIST_INTEGER_JSON_REQUIRED")
+    return json.loads(raw.decode("utf-8"), object_pairs_hook=pairs,
+                      parse_float=reject, parse_constant=reject)
+
+
+def read(path, maximum=8*MIB):
+    path = ordinary(path)
+    size = path.stat().st_size
+    need(0 < size <= maximum, "DIST_INPUT_SIZE")
+    with path.open("rb") as stream:
+        raw = stream.read(maximum+1)
+    need(len(raw) == size == path.stat().st_size, "DIST_INPUT_CHANGED")
+    return raw
+
+
+def checked_json(path, expected, maximum=8*MIB):
+    raw = read(path, maximum)
+    need(hashlib.sha256(raw).hexdigest() == digest(expected), "DIST_INPUT_PIN")
+    return parse(raw)
+
+
+def pinned(path, expected):
+    path = ordinary(path)
+    row(expected)
+    need(path.stat().st_size == expected["bytes"], "DIST_PIN_SIZE:"+str(path))
+    with path.open("rb") as stream:
+        actual = hashlib.file_digest(stream, "sha256").hexdigest()
+    need(path.stat().st_size == expected["bytes"] and actual == expected["sha256"],
+         "DIST_PIN:"+str(path))
+    return path
+
+
+def absolute_pin(value):
+    fields(value, {"path", "bytes", "sha256"})
+    ordinary(value["path"])
+    return row({key: value[key] for key in ("bytes", "sha256")})
+
+
+def pin(path):
+    path = ordinary(path)
+    with path.open("rb") as stream:
+        sha = hashlib.file_digest(stream, "sha256").hexdigest()
+    return {"path": str(path), "bytes": path.stat().st_size, "sha256": sha}
+
+
+def file_map(value):
+    need(type(value) is dict and 1 <= len(value) <= 20000, "DIST_FILE_COUNT")
+    aliases, spelling, total, files, directories = set(), {}, 0, set(), set()
+    for name, expected in value.items():
+        parts = relative(name)
+        key = name.casefold()
+        need(key not in aliases, "DIST_CASE_ALIAS")
+        aliases.add(key)
+        for n in range(1, len(parts)+1):
+            prefix = "/".join(parts[:n])
+            need(spelling.get(prefix.casefold(), prefix) == prefix, "DIST_DIRECTORY_CASE_ALIAS")
+            spelling[prefix.casefold()] = prefix
+        row(expected)
+        total += expected["bytes"]
+        files.add(key)
+        directories.update("/".join(parts[:n]).casefold() for n in range(1, len(parts)))
+    need(not files.intersection(directories) and total <= 2*1024**3, "DIST_MAP_BOUND_OR_FILE_PARENT")
+    return value
+
+
+def wrappers(role):
+    """Closed role-to-entry map; no caller-defined executable roles."""
+    need(type(role) is str and role in BASE_ROLES, "DIST_BASE_ROLE")
+    return {name: raw for name, raw in WRAPPERS.items()
+            if name != "serve-advertised" or role == LOCATION_ROLE}
+
+
+def consumer_sdk_sources(sources):
+    """Closed role projection; preserve consumer rows, never inflate pin caps."""
+    need(type(sources) is dict and 1 <= len(sources) <= SDK_LIMIT,
+         "DIST_SOURCE_COUNT")
+    need(PRODUCER_ONLY_SOURCES <= set(sources), "DIST_PRODUCER_ONLY_SOURCES_REQUIRED")
+    for name in sources:
+        parts = relative(name)
+        need(len(parts) >= 2 and parts[0] in ("v5", "portable")
+             and Path(parts[-1]).suffix in (".py", ".mjs")
+             and not name.startswith(("v5/location/", "v5/portable_runtime/")),
+             "DIST_SDK_PATH")
+    selected = {name: value for name, value in sources.items() if name not in PRODUCER_ONLY_SOURCES}
+    need(1 <= len(selected) <= 130
+         and sum(name.startswith("v5/") and name.endswith(".py") for name in selected) <= 109,
+         "DIST_CONSUMER_SOURCE_BOUND")
+    return selected
+
+
+def required_sources(role):
+    wrappers(role)
+    result = {"v5/client/launch.py", "v5/client/boot.py", "v5/client/workspace.py",
+        "v5/client/runtime.py", "v5/client/remote_reader.py", "v5/client/serve_workspace.py",
+        "v5/admission/trust.py", "v5/client/base_projection.py",
+        "v5/client/workspace_evidence.py", "v5/client/workspace_staged.py",
+        "v5/client/semantic_reader.py", "v5/client/body_custody.py",
+        "v5/transport/acquisition_resilience.py",
+        "v5/mixed_claims/interface_projection.py", "v5/transport/declaration_resilience.py",
+        "v5/authoring/worker.py", "v5/production/producer.py", "v5/production/__init__.py",
+        PRODUCTION_CONTRACT, PRODUCTION_LAUNCH, PRODUCTION_ENTRY}
+    if role == LOCATION_ROLE:
+        result.add("v5/client/serve_advertised.py")
+        result.update("portable/location/"+name for name in LOCATION_SOURCES)
+    return result
+
+
+def builtin_parameters(root, role, command, parameters):
+    """Pure closed entry selection; root was verified by the installed launcher."""
+    need(command in wrappers(role), "DIST_COMMAND_NOT_IN_BASE_ROLE")
+    need(type(parameters) is dict, "DIST_PARAMETERS")
+    result = deepcopy(parameters)
+    schema = ENTRY_SCHEMAS[command]
+    explicit_v2 = {"serve": "DMKN_V5_WORKSPACE_SERVICE_V2",
+                   "serve-advertised": "DMKN_V5_ADVERTISED_WORKSPACE_SERVICE_V2"}
+    selected = result.get("schema", schema)
+    allowed = (schema, explicit_v2[command]) if command in explicit_v2 else (schema,)
+    if command == "serve-advertised":
+        allowed += ("DMKN_V5_ADVERTISED_WORKSPACE_SERVICE_V3",)
+    need(selected in allowed, "DIST_ENTRY_SCHEMA")
+    result["schema"] = selected
+    if command == "serve-advertised":
+        location = result.get("location")
+        need(type(location) is dict and "installation_root" not in location,
+             "DIST_INSTALLED_LOCATION_ROOT_RESERVED")
+        location["installation_root"] = str(root/"base")
+    return result
+
+
+def base_projection(files, role=BASE_ROLE):
+    """Exact named role; the retained full manifest is a catalogue, not a census."""
+    wrappers(role)
+    file_map(files)
+    need(BASE_HELPERS <= set(files), "DIST_BASE_HELPERS_MISSING")
+    runtime = {name: item for name, item in files.items()
+               if name.startswith("receiver/runtime/python/")}
+    need(1 <= len(runtime) <= 10000
+         and sum(item["bytes"] for item in runtime.values()) <= 256*MIB,
+         "DIST_BASE_PYTHON_BOUND")
+    selected = {**runtime, **{name: files[name] for name in sorted(BASE_HELPERS)}}
+    if role == LOCATION_ROLE:
+        location = {name: item for name, item in files.items()
+                    if name.startswith(("overlay/", "runtime/node/"))}
+        need(len(location) == 5896 and sum(item["bytes"] for item in location.values()) <= 192*MIB
+             and {"runtime/node/node.exe", "overlay/quota_store.mjs"} <= set(location),
+             "DIST_EXACT_LOCATION_ROLE")
+        selected.update(location)
+    return selected
+
+
+def support_layout(value):
+    """Structural closure of an owner-adopted Lean source import graph.
+
+    This does not infer the graph from arbitrary binary files or prove that a
+    compiler produced those files. The selector binds the retained release's
+    sources/artifacts; every selected artifact still needs its own exact hash.
+    """
+    fields(value, {"profile", "modules", "files"})
+    need(value["profile"] == LEAN_SUPPORT, "DIST_LEAN_SUPPORT_PROFILE")
+    modules = value["modules"]
+    need(type(modules) is dict and 1 <= len(modules) <= 4096 and "Init" in modules,
+         "DIST_LEAN_MODULE_BOUND")
+    edges = 0
+    for name, imports in modules.items():
+        need(type(name) is str and len(name) <= 256
+             and re.fullmatch(r"Init(?:\.[A-Za-z_][A-Za-z_0-9']*)*", name) is not None,
+             "DIST_LEAN_MODULE_NAME")
+        need(type(imports) is list and len(imports) <= 256
+             and all(type(item) is str and item in modules for item in imports)
+             and len(imports) == len(set(imports)), "DIST_LEAN_IMPORT_EDGE")
+        edges += len(imports)
+        need(edges <= 32768, "DIST_LEAN_IMPORT_BOUND")
+    seen, pending = set(), ["Init"]
+    while pending:
+        name = pending.pop()
+        if name not in seen:
+            seen.add(name)
+            pending.extend(modules[name])
+    need(seen == set(modules), "DIST_LEAN_UNREACHABLE_MODULE")
+    expected = {"lib/lean/"+name.replace(".", "/")+suffix
+                for name in modules for suffix in LEAN_SUFFIXES}
+    need(type(value["files"]) is dict and set(value["files"]) == expected,
+         "DIST_LEAN_EXACT_ARTIFACT_CLOSURE")
+    return expected
+
+
+def write_new(path, raw):
+    ordinary(path, fresh=True)
+    with path.open("xb") as stream:
+        stream.write(raw)
+    need(path.stat().st_size == len(raw), "DIST_OUTPUT_SIZE")
+
+
+def copy_pinned(source, target, expected):
+    source = ordinary(source)
+    row(expected)
+    need(source.stat().st_size == expected["bytes"], "DIST_COPY_INPUT_SIZE")
+    target.parent.mkdir(parents=True, exist_ok=True)
+    ordinary(target, fresh=True)
+    observed, size = hashlib.sha256(), 0
+    with source.open("rb") as incoming, target.open("xb") as outgoing:
+        while block := incoming.read(MIB):
+            size += len(block)
+            need(size <= expected["bytes"], "DIST_COPY_GREW")
+            observed.update(block)
+            outgoing.write(block)
+    need(size == expected["bytes"] == source.stat().st_size
+         and observed.hexdigest() == expected["sha256"], "DIST_COPY_PIN")
+    pinned(target, expected)
+
+
+def census(root, expected):
+    actual, directories = set(), 0
+    for parent, children, names in os.walk(root, followlinks=False):
+        ordinary(parent, directory=True)
+        directories += 1
+        need(directories <= 20000, "DIST_DIRECTORY_BOUND")
+        for child in children:
+            ordinary(Path(parent)/child, directory=True)
+        for name in names:
+            path = ordinary(Path(parent)/name)
+            actual.add(path.relative_to(root).as_posix())
+            need(len(actual) <= 20001, "DIST_CENSUS_BOUND")
+    need(actual == set(expected) | {RELEASE_FILE}, "DIST_EXACT_FILE_CENSUS")
+
+
+def held_module(path, expected, name):
+    """Execute only exact adopted bytes; never import a product package here."""
+    path = ordinary(path)
+    need(expected["bytes"] <= MIB, "DIST_PRODUCTION_SOURCE_BOUND")
+    pinned(path, expected)
+    raw = read(path, MIB)
+    need(len(raw) == expected["bytes"]
+         and hashlib.sha256(raw).hexdigest() == expected["sha256"],
+         "DIST_PRODUCTION_HELD_SOURCE")
+    need(name not in sys.modules, "DIST_PRODUCTION_MODULE_PRELOADED")
+    module = ModuleType(name)
+    module.__file__ = str(path)
+    sys.modules[name] = module
+    try:
+        exec(compile(raw, str(path), "exec", dont_inherit=True), module.__dict__)
+    finally:
+        # The returned module retains its held globals; a later operation must
+        # load/revalidate its own bytes instead of reusing sys.modules authority.
+        need(sys.modules.get(name) is module, "DIST_PRODUCTION_MODULE_REBOUND")
+        del sys.modules[name]
+    return module
+
+
+def production_metadata(root, manifest):
+    """Read exact producer metadata after validating the complete file map."""
+    values = []
+    for name in (PRODUCTION_DESCRIPTOR, PRODUCTION_TEMPLATE):
+        expected = manifest["files"][name]
+        need(0 < expected["bytes"] <= MIB, "DIST_PRODUCTION_DOCUMENT_BOUND")
+        path = root.joinpath(*relative(name))
+        pinned(path, expected)
+        values.append(checked_json(path, expected["sha256"], MIB))
+    helper_path = manifest["sdk_sources"][PRODUCTION_CONTRACT]
+    helper = held_module(root.joinpath(*relative(helper_path)),
+                         manifest["files"][helper_path], "_dmkn_distribution_production_contract")
+    descriptor, template = values
+    helper.validate_production_metadata(manifest, descriptor, template)
+    for name in helper.SOURCE_MODULES:
+        logical = "v5/"+name.replace(".", "/")+(".py" if "." in name else "/__init__.py")
+        selected = descriptor["sources"][name]
+        need(manifest["sdk_sources"].get(logical) == selected["path"]
+             and 0 < selected["bytes"] <= MIB, "DIST_PRODUCTION_CORE_SDK_ROLE")
+    for logical in (PRODUCTION_CONTRACT, PRODUCTION_LAUNCH, PRODUCTION_ENTRY,
+                    "v5/aggregate_small/operator.py"):
+        selected = manifest["sdk_sources"].get(logical)
+        need(selected == "sdk/"+logical and 0 < manifest["files"][selected]["bytes"] <= MIB,
+             "DIST_PRODUCTION_ENTRY_SDK_ROLE")
+    return helper, descriptor, template
+
+
+def build(input_path, expected, destination):
+    with path_scope():
+        return _build(input_path, expected, destination)
+
+
+def _build(input_path, expected, destination):
+    value = checked_json(input_path, expected)
+    fields(value, {"schema", "base_role", "base_root", "base_manifest", "sdk_sources",
+                   "preparation_template", "assets", "aggregate_image", "lean_runtime",
+                   "lean_support", "distribution_source", "production"})
+    need(value["schema"] == INPUT_SCHEMA, "DIST_INPUT_SCHEMA")
+    wrappers(value["base_role"])
+    output = ordinary(destination, directory=True, fresh=True)
+    base = ordinary(value["base_root"], directory=True)
+    base_pin = value["base_manifest"]
+    absolute_pin(base_pin)
+    need(Path(base_pin["path"]) == base/"RELEASE-MANIFEST.json" and base_pin["sha256"] == BASE_SHA,
+         "DIST_FIXED_BASE_MANIFEST")
+    nested = checked_json(base_pin["path"], BASE_SHA)
+    base_files = base_projection(nested["files"], value["base_role"])
+    template_pin = value["preparation_template"]
+    absolute_pin(template_pin)
+    template = checked_json(template_pin["path"], template_pin["sha256"], MIB)
+    fields(template, {"schema", "producer", "image", "worker", "native_executable", "lean_root",
+                      "lean_runtime_pins", "source_pins"})
+    need(template["schema"] == "DMKN_V5_PREPARATION_PROFILE_V1", "DIST_PREPARATION_SCHEMA")
+    producer = template["producer"]
+    fields(producer, {"schema", "supervisor_manifest", "host", "python", "python_dll",
+                      "source_pins", "runtime_pins", "image_id", "foundation", "policy"})
+    need(producer["schema"] == "DMKN_V5_PRODUCER_PROFILE_V1"
+         and (producer["image_id"], producer["foundation"], producer["policy"])
+         == (RELATION, FOUNDATION, POLICY) and producer["supervisor_manifest"] == base_pin,
+         "DIST_PREPARATION_FOUNDATION")
+    digest(value["aggregate_image"])
+    need(value["aggregate_image"] not in ("00"*32, RELATION), "DIST_AGGREGATE_IMAGE")
+    fields(value["assets"], ROLES)
+    need(value["assets"]["receipt"] == producer["host"]
+         and value["assets"]["image"] == template["image"]
+         and value["assets"]["frontend"] == template["native_executable"], "DIST_TEMPLATE_ROLES")
+    source_pin = value["distribution_source"]
+    absolute_pin(source_pin)
+    source_identity = {key: source_pin[key] for key in ("bytes", "sha256")}
+    pinned(source_pin["path"], source_identity)
+    # A bounded owner may execute an exact source snapshot. Adopt byte identity,
+    # not the builder's original folder; installed launch origin stays unchanged.
+    pinned(Path(__file__).resolve(), source_identity)
+    files, copies, sources, roles = {}, {}, {}, {}
+    def select(name, path, expected_row):
+        relative(name)
+        need(name not in files and not overlap(output, Path(path)), "DIST_OUTPUT_INPUT_OVERLAP")
+        files[name] = row(deepcopy(expected_row))
+        copies[name] = ordinary(path)
+        return {"path": name, **files[name]}
+    for name, expected_row in base_files.items():
+        select("base/"+name, base.joinpath(*relative(name)), expected_row)
+    select("base/RELEASE-MANIFEST.json", base_pin["path"], absolute_pin(base_pin))
+    need(type(value["sdk_sources"]) is dict and 1 <= len(value["sdk_sources"]) <= SDK_LIMIT, "DIST_SDK_COUNT")
+    for name, item in value["sdk_sources"].items():
+        parts = relative(name)
+        need(len(parts) >= 2 and parts[0] in ("v5", "portable")
+             and Path(parts[-1]).suffix in (".py", ".mjs")
+             and not name.startswith(("v5/location/", "v5/portable_runtime/")), "DIST_SDK_PATH")
+        expected_row = absolute_pin(item)
+        need(expected_row["bytes"] <= 2*MIB, "DIST_SDK_FILE_BOUND")
+        selected = select("sdk/"+name, item["path"], expected_row)
+        sources[name] = selected["path"]
+    need(required_sources(value["base_role"]) <= set(sources), "DIST_SDK_REQUIRED")
+    for role, item in value["assets"].items():
+        selected = select("assets/"+role+"/"+Path(item["path"]).name,
+                          item["path"], absolute_pin(item))
+        roles[role] = selected["path"]
+    fields(value["production"], {"artifacts", "profile_template"})
+    fields(value["production"]["artifacts"], PRODUCTION_PATHS)
+    production_roles = {}
+    for role, item in value["production"]["artifacts"].items():
+        need(absolute_pin(item) == PRODUCTION_ARTIFACTS[role], "DIST_PRODUCTION_ARTIFACT")
+        production_roles[role] = select(PRODUCTION_PATHS[role], item["path"], PRODUCTION_ARTIFACTS[role])
+    production_template_pin = value["production"]["profile_template"]
+    absolute_pin(production_template_pin)
+    need(0 < production_template_pin["bytes"] <= MIB, "DIST_PRODUCTION_TEMPLATE_BOUND")
+    pinned(production_template_pin["path"], absolute_pin(production_template_pin))
+    production_template = checked_json(production_template_pin["path"],
+                                       production_template_pin["sha256"], MIB)
+    selected_template = select(PRODUCTION_TEMPLATE, production_template_pin["path"],
+                               absolute_pin(production_template_pin))
+    old_lean = ordinary(template["lean_root"], directory=True)
+    need(type(value["lean_runtime"]) is dict and 1 <= len(value["lean_runtime"]) <= 128,
+         "DIST_LEAN_RUNTIME")
+    original_lean = {Path(item["path"]).relative_to(old_lean).as_posix(): item
+                    for item in template["lean_runtime_pins"]}
+    need(len(original_lean) == len(template["lean_runtime_pins"])
+         and original_lean == value["lean_runtime"], "DIST_EXACT_LEAN_RUNTIME")
+    lean = [select("assets/lean/"+name, item["path"], absolute_pin(item))
+            for name, item in value["lean_runtime"].items()]
+    support_layout(value["lean_support"])
+    support = {"profile": LEAN_SUPPORT,
+               "modules": deepcopy(value["lean_support"]["modules"]), "files": {}}
+    for name, item in value["lean_support"]["files"].items():
+        expected_row = absolute_pin(item)
+        need(Path(item["path"]) == old_lean.joinpath(*relative(name)),
+             "DIST_LEAN_SUPPORT_ORIGIN")
+        target = "assets/lean/"+name
+        if target in files:
+            need(files[target] == expected_row and copies[target] == Path(item["path"]),
+                 "DIST_LEAN_OVERLAP_CONFLICT")
+            selected = {"path": target, **expected_row}
+        else:
+            selected = select(target, item["path"], expected_row)
+        support["files"][name] = selected
+    select("distribution.py", source_pin["path"], absolute_pin(source_pin))
+    def base_role(item):
+        absolute_pin(item)
+        path = Path(item["path"])
+        need(path.is_relative_to(base), "DIST_TEMPLATE_BASE_ROLE")
+        name = path.relative_to(base).as_posix()
+        expected_row = {key: item[key] for key in ("bytes", "sha256")}
+        need(base_files.get(name) == expected_row, "DIST_TEMPLATE_BASE_PIN")
+        return {"path": "base/"+name, **expected_row}
+    def role_pin(role):
+        name = roles[role]
+        return {"path": name, **files[name]}
+    consumer_sources = consumer_sdk_sources(sources)
+    relative_profile = {
+        "schema": template["schema"], "image": role_pin("image"),
+        "worker": {"path": sources["v5/authoring/worker.py"], **files[sources["v5/authoring/worker.py"]]},
+        "native_executable": role_pin("frontend"), "lean_root": "assets/lean",
+        "lean_runtime_pins": lean,
+        "source_pins": [{"path": name, **files[name]} for key, name in consumer_sources.items()
+                        if key.startswith("v5/") and key.endswith(".py")],
+        "producer": {"schema": producer["schema"], "supervisor_manifest":
+            {"path": "base/RELEASE-MANIFEST.json", **files["base/RELEASE-MANIFEST.json"]},
+            "host": role_pin("receipt"), "python": base_role(producer["python"]),
+            "python_dll": base_role(producer["python_dll"]),
+            "runtime_pins": [base_role(item) for item in producer["runtime_pins"]],
+            "source_pins": [{"path": sources["v5/production/"+name],
+                            **files[sources["v5/production/"+name]]}
+                           for name in ("__init__.py", "producer.py")],
+            "image_id": RELATION, "foundation": FOUNDATION, "policy": POLICY}}
+    readme = README+"\nSelected base role: "+value["base_role"]+"\n"
+    generated = {"README.md": readme.encode("utf-8"),
+                 **{"owners/"+name+".py": raw for name, raw in wrappers(value["base_role"]).items()}}
+    # Descriptor sources are selected by the helper's closed role list, not
+    # arbitrary declarations found in a supplied template or directory scan.
+    contract_pin = value["sdk_sources"][PRODUCTION_CONTRACT]
+    contract = held_module(contract_pin["path"], absolute_pin(contract_pin),
+                           "_dmkn_distribution_production_contract")
+    production_sources = {}
+    for name in contract.SOURCE_MODULES:
+        logical = "v5/"+name.replace(".", "/")+(".py" if "." in name else "/__init__.py")
+        need(logical in sources, "DIST_PRODUCTION_REQUIRED_SOURCE:"+name)
+        selected = sources[logical]
+        need(files[selected]["bytes"] <= MIB, "DIST_PRODUCTION_CORE_BOUND")
+        production_sources[name] = {"path": selected, **files[selected]}
+    descriptor = {"schema": "DMKN_RELEASE_AGGREGATE_ARTIFACTS_V1",
+        "foundation": FOUNDATION, "policy": POLICY, "relation_image": RELATION,
+        "aggregate_image": PRODUCTION_IMAGE, "roles": production_roles,
+        "sources": production_sources}
+    descriptor_raw = encode(descriptor)
+    need(0 < len(descriptor_raw) <= MIB, "DIST_PRODUCTION_DESCRIPTOR_BOUND")
+    generated[PRODUCTION_DESCRIPTOR] = descriptor_raw
+    for name, raw in generated.items():
+        need(name not in files, "DIST_GENERATED_COLLISION")
+        files[name] = {"bytes": len(raw), "sha256": hashlib.sha256(raw).hexdigest()}
+    manifest = {"schema": RELEASE_SCHEMA, "base_manifest_sha256": BASE_SHA, "base_role": value["base_role"],
+        "files": files, "sdk_sources": sources, "roles": roles,
+        "aggregate_image": value["aggregate_image"], "preparation": relative_profile,
+        "lean_support": support, "build_input_sha256": expected,
+        "production": {"descriptor": {"path": PRODUCTION_DESCRIPTOR, **files[PRODUCTION_DESCRIPTOR]},
+                       "profile_template": selected_template}}
+    validate_manifest(manifest)
+    contract.validate_production_metadata(manifest, descriptor, production_template)
+    need(not overlap(output, base) and not overlap(output, ordinary(input_path)), "DIST_OUTPUT_SCOPE")
+    output.mkdir()
+    for name, path in copies.items():
+        copy_pinned(path, output.joinpath(*relative(name)), files[name])
+    for name, raw in generated.items():
+        target = output.joinpath(*relative(name))
+        target.parent.mkdir(parents=True, exist_ok=True)
+        write_new(target, raw)
+    raw = encode(manifest)
+    need(len(raw) <= 8*MIB, "DIST_RELEASE_SIZE")
+    write_new(output/RELEASE_FILE, raw)
+    verify_release(output, manifest, full=True)
+    return {"status": "DIRECTORY_CREATED_AND_EXACTLY_VERIFIED", "root": str(output),
+            "manifest_sha256": hashlib.sha256(raw).hexdigest(), "files": len(files),
+            "bytes": sum(item["bytes"] for item in files.values()), "mathematical_acceptance": False}
+
+
+def validate_manifest(manifest):
+    fields(manifest, {"schema", "base_manifest_sha256", "base_role", "files", "sdk_sources",
+                      "roles", "aggregate_image", "preparation", "lean_support",
+                      "build_input_sha256", "production"})
+    need(manifest["schema"] == RELEASE_SCHEMA and manifest["base_manifest_sha256"] == BASE_SHA,
+         "DIST_RELEASE_SCHEMA")
+    selected_wrappers = wrappers(manifest["base_role"])
+    digest(manifest["build_input_sha256"])
+    digest(manifest["aggregate_image"])
+    need(manifest["aggregate_image"] not in ("00"*32, RELATION), "DIST_AGGREGATE_IMAGE")
+    files = file_map(manifest["files"])
+    expected_wrappers = {"owners/"+name+".py": raw for name, raw in selected_wrappers.items()}
+    need(RELEASE_FILE not in files and {"distribution.py", "README.md",
+         "base/RELEASE-MANIFEST.json"} <= set(files), "DIST_FIXED_FILES")
+    need({name for name in files if name.startswith("owners/")} == set(expected_wrappers),
+         "DIST_EXACT_ROLE_WRAPPERS")
+    for name, raw in expected_wrappers.items():
+        need(files[name] == {"bytes": len(raw), "sha256": hashlib.sha256(raw).hexdigest()},
+             "DIST_WRAPPER_SOURCE_BINDING")
+    need(files["base/RELEASE-MANIFEST.json"]["sha256"] == BASE_SHA, "DIST_BASE_PIN")
+    fields(manifest["roles"], ROLES)
+    for role, name in manifest["roles"].items():
+        relative(name)
+        need(name.startswith("assets/"+role+"/") and name in files, "DIST_ROLE_SCOPE")
+    sources = manifest["sdk_sources"]
+    need(type(sources) is dict and 1 <= len(sources) <= SDK_LIMIT, "DIST_SOURCE_COUNT")
+    need(required_sources(manifest["base_role"]) <= set(sources), "DIST_SDK_REQUIRED")
+    for name, path in sources.items():
+        parts = relative(name)
+        need(len(parts) >= 2 and parts[0] in ("v5", "portable") and path == "sdk/"+name
+             and path in files and files[path]["bytes"] <= 2*MIB
+             and Path(parts[-1]).suffix in (".py", ".mjs"), "DIST_SOURCE_MAP")
+    def check_tree(value):
+        if type(value) is dict:
+            if "path" in value:
+                fields(value, {"path", "bytes", "sha256"})
+                relative(value["path"])
+                need(files.get(value["path"]) == {key: value[key] for key in ("bytes", "sha256")},
+                     "DIST_PROFILE_FILE_ROLE")
+            else:
+                for item in value.values():
+                    check_tree(item)
+        elif type(value) is list:
+            need(len(value) <= 128, "DIST_PROFILE_LIST_BOUND")
+            for item in value:
+                check_tree(item)
+    profile = manifest["preparation"]
+    fields(profile, {"schema", "producer", "image", "worker", "native_executable", "lean_root",
+                     "lean_runtime_pins", "source_pins"})
+    need(profile["schema"] == "DMKN_V5_PREPARATION_PROFILE_V1"
+         and profile["lean_root"] == "assets/lean", "DIST_RELATIVE_PREPARATION")
+    p = profile["producer"]
+    fields(p, {"schema", "supervisor_manifest", "host", "python", "python_dll", "source_pins",
+               "runtime_pins", "image_id", "foundation", "policy"})
+    need(p["schema"] == "DMKN_V5_PRODUCER_PROFILE_V1"
+         and (p["image_id"], p["foundation"], p["policy"]) == (RELATION, FOUNDATION, POLICY)
+         and p["supervisor_manifest"]["path"] == "base/RELEASE-MANIFEST.json"
+         and p["host"]["path"] == manifest["roles"]["receipt"]
+         and profile["image"]["path"] == manifest["roles"]["image"]
+         and profile["native_executable"]["path"] == manifest["roles"]["frontend"]
+         and profile["worker"]["path"] == "sdk/v5/authoring/worker.py", "DIST_PROFILE_ROLE_BINDING")
+    check_tree(profile)
+    expected_preparation = {path: {"path": path, **files[path]}
+        for logical, path in consumer_sdk_sources(sources).items()
+        if logical.startswith("v5/") and logical.endswith(".py")}
+    selected_preparation = profile["source_pins"]
+    need(type(selected_preparation) is list and len(selected_preparation) == len(expected_preparation)
+         and {item["path"]: item for item in selected_preparation} == expected_preparation,
+         "DIST_EXACT_CONSUMER_PREPARATION_SOURCES")
+    need(all(item["path"].startswith("assets/lean/") for item in profile["lean_runtime_pins"]),
+         "DIST_LEAN_ROLE_SCOPE")
+    need(all(item["path"].startswith("base/") for item in
+             [p["python"], p["python_dll"], *p["runtime_pins"]]), "DIST_PYTHON_ROLE_SCOPE")
+    support_layout(manifest["lean_support"])
+    for name, item in manifest["lean_support"]["files"].items():
+        fields(item, {"path", "bytes", "sha256"})
+        need(item["path"] == "assets/lean/"+name
+             and files.get(item["path"]) == {key: item[key] for key in ("bytes", "sha256")},
+             "DIST_LEAN_SUPPORT_ROLE")
+    selected_lean = {item["path"] for item in profile["lean_runtime_pins"]}
+    selected_lean.update(item["path"] for item in manifest["lean_support"]["files"].values())
+    need({name for name in files if name.startswith("assets/lean/")} == selected_lean,
+         "DIST_LEAN_EXACT_RELEASE_CLOSURE")
+    fields(manifest["production"], {"descriptor", "profile_template"})
+    for role, name in (("descriptor", PRODUCTION_DESCRIPTOR), ("profile_template", PRODUCTION_TEMPLATE)):
+        selected = manifest["production"][role]
+        fields(selected, {"path", "bytes", "sha256"})
+        need(selected["path"] == name and 0 < selected["bytes"] <= MIB
+             and files.get(name) == {key: selected[key] for key in ("bytes", "sha256")},
+             "DIST_PRODUCTION_DOCUMENT_ROLE")
+    need({name for name in files if name.startswith("production/")}
+         == {PRODUCTION_DESCRIPTOR, PRODUCTION_TEMPLATE}, "DIST_PRODUCTION_METADATA_CENSUS")
+    need({name for name in files if name.startswith("assets/producer/")}
+         == set(PRODUCTION_PATHS.values()), "DIST_PRODUCTION_ARTIFACT_CENSUS")
+    for role, name in PRODUCTION_PATHS.items():
+        need(files.get(name) == PRODUCTION_ARTIFACTS[role], "DIST_PRODUCTION_ARTIFACT")
+    return manifest
+
+
+def verify_release(root, manifest, *, full):
+    # Even the final verification nested inside build revalidates directories.
+    with path_scope():
+        return _verify_release(root, manifest, full=full)
+
+
+def _verify_producer_release(root, manifest):
+    """Closed producer-only purpose; retain census and every non-Lean check.
+
+    Producer code does not use the Lean frontend/library. Trusted bootstrap/OS
+    configuration must not resolve producer dependencies through assets/lean.
+    This is not complete payload integrity or a persistent validation cache.
+    """
+    with path_scope():
+        return _verify_release(root, manifest, full=False, producer_purpose=True)
+
+
+def _verify_release(root, manifest, *, full, producer_purpose=False):
+    need(type(producer_purpose) is bool and not (full and producer_purpose),
+         "DIST_CLOSED_VERIFICATION_PURPOSE")
+    validate_manifest(manifest)
+    census(root, manifest["files"])
+    for name, expected in manifest["files"].items():
+        if producer_purpose and name.startswith("assets/lean/"):
+            continue
+        if full or not name.startswith("base/") or name == "base/RELEASE-MANIFEST.json":
+            pinned(root.joinpath(*relative(name)), expected)
+    base = checked_json(root/"base/RELEASE-MANIFEST.json", BASE_SHA)
+    need({name[5:]: value for name, value in manifest["files"].items()
+          if name.startswith("base/") and name != "base/RELEASE-MANIFEST.json"}
+         == base_projection(base["files"], manifest["base_role"]), "DIST_EXACT_BASE_ROLE_MAP")
+    return production_metadata(root, manifest)
+
+
+def materialize(root, value):
+    if type(value) is dict:
+        if "path" in value:
+            return {**value, "path": str(root.joinpath(*relative(value["path"])))}
+        return {key: str(root/"assets/lean") if key == "lean_root" else materialize(root, item)
+                for key, item in value.items()}
+    if type(value) is list:
+        return [materialize(root, item) for item in value]
+    return value
+
+
+def substitute(value, roles, depth=0):
+    """Two explicit local-owner placeholders, not arbitrary code/path lookup."""
+    need(depth <= 64, "DIST_PARAMETER_DEPTH")
+    if type(value) is dict:
+        if "$installed" in value:
+            fields(value, {"$installed"})
+            need(type(value["$installed"]) is str and value["$installed"] in roles,
+                 "DIST_PARAMETER_ROLE")
+            return deepcopy(roles[value["$installed"]])
+        return {key: substitute(item, roles, depth+1) for key, item in value.items()}
+    if type(value) is list:
+        return [substitute(item, roles, depth+1) for item in value]
+    return value
+
+
+def installed_production_release(expected):
+    """Producer-purpose readiness, not full content integrity; no owner created."""
+    root = ordinary(Path(__file__).resolve().parent, directory=True)
+    manifest_path = root/RELEASE_FILE
+    manifest = checked_json(manifest_path, expected)
+    helper, descriptor, template = _verify_producer_release(root, manifest)
+    executable = root/"base/receiver/runtime/python/python.exe"
+    need(os.name == "nt" and sys.flags.isolated and sys.flags.no_site and sys.dont_write_bytecode
+         and not sys.flags.optimize and Path(sys.executable).resolve() == executable,
+         "DIST_INSTALLED_ISOLATED_PYTHON")
+    manifest_pin = {"path": str(manifest_path), "bytes": manifest_path.stat().st_size,
+                    "sha256": digest(expected)}
+    pinned(manifest_path, {key: manifest_pin[key] for key in ("bytes", "sha256")})
+    descriptor_pin = materialize(root, manifest["production"]["descriptor"])
+    release = {"root": str(root), "manifest": manifest_pin, "descriptor": descriptor_pin}
+    return root, manifest, helper, descriptor, template, release
+
+
+def production_parent_limit():
+    need(time.process_time()-STARTED_CPU <= 30 and time.monotonic_ns()-STARTED_NS < 120*10**9,
+         "DIST_PRODUCTION_PARENT_LIMIT")
+
+
+def producer_profile(expected, request_path, request_sha):
+    """Write one stable external profile; no constructor, child or host call."""
+    with path_scope():
+        root, manifest, helper, unused_descriptor, template, release = installed_production_release(expected)
+        request_path = ordinary(request_path)
+        request = checked_json(request_path, request_sha, MIB)
+        request_pin = pin(request_path)
+        need(request_pin["sha256"] == digest(request_sha), "DIST_PRODUCTION_REQUEST_CHANGED")
+        fields(request, {"schema", "output_directory"})
+        need(request["schema"] == PRODUCTION_PROFILE_REQUEST
+             and type(request["output_directory"]) is str, "DIST_PRODUCTION_PROFILE_REQUEST")
+        output = ordinary(request["output_directory"], directory=True, fresh=True)
+        need(not overlap(output, root) and not overlap(output, request_path),
+             "DIST_PRODUCTION_PROFILE_OUTPUT_SCOPE")
+        profile = helper.materialize_profile(root, release["manifest"], release["descriptor"], template)
+        profile_raw = helper.encoded(profile)
+        need(0 < len(profile_raw) <= MIB, "DIST_PRODUCTION_PROFILE_BOUND")
+        production_parent_limit()
+        output.mkdir()
+        try:
+            pending_path = output/"PROFILE-PENDING.json"
+            pending_raw = encode({"schema": "DMKN_RELEASE_PRODUCER_PROFILE_PENDING_V1",
+                                  "status": "PENDING", "request": request_pin})
+            write_new(pending_path, pending_raw)
+            profile_path = output/"profile.json"
+            write_new(profile_path, profile_raw)
+            profile_pin = pin(profile_path)
+            need(profile_pin["bytes"] == len(profile_raw)
+                 and profile_pin["sha256"] == hashlib.sha256(profile_raw).hexdigest(),
+                 "DIST_PRODUCTION_PROFILE_OUTPUT_CHANGED")
+            # Rebind the actual inputs/installation before reporting creation.
+            pinned(request_path, {key: request_pin[key] for key in ("bytes", "sha256")})
+            need(checked_json(root/RELEASE_FILE, expected) == manifest, "DIST_PRODUCTION_RELEASE_CHANGED")
+            _verify_producer_release(root, manifest)
+            production_parent_limit()
+            result = {"schema": "DMKN_RELEASE_PRODUCER_PROFILE_RESULT_V1", "status": "PROFILE_CREATED",
+                "release": release, "request": request_pin,
+                "installation_validation": "PRODUCER_PURPOSE_FULL_CENSUS_EXISTING_NONLEAN_HASH_SELECTION_NOT_FULL_PAYLOAD_INTEGRITY",
+                "template": materialize(root, manifest["production"]["profile_template"]),
+                "profile": profile_pin,
+                "profile_id": hashlib.sha256(helper.PROFILE_DOMAIN+profile_raw).hexdigest(),
+                "completion_rule": "RESULT_valid_only_when_PROFILE-PENDING.json_and_PROFILE-FAILED.json_are_absent",
+                "cpu_seconds": time.process_time()-STARTED_CPU,
+                "wall_seconds": (time.monotonic_ns()-STARTED_NS)/10**9,
+                "measurement_scope": "original_distribution_clocks_through_result_construction",
+                "unmeasured": ["pre_clock_interpreter_startup", "result_write_final_rebind_stdout_and_commit"],
+                "containment": "finite_trusted_parent_checks_not_a_Job_or_security_sandbox",
+                "constructor_calls": 0, "host_calls": 0, "mathematical_acceptance": False}
+            result_raw = encode(result)
+            write_new(output/"RESULT.json", result_raw)
+            need({item.name for item in output.iterdir()} == {"profile.json", "RESULT.json", "PROFILE-PENDING.json"},
+                 "DIST_PRODUCTION_PROFILE_OUTPUT_CENSUS")
+            pinned(profile_path, {key: profile_pin[key] for key in ("bytes", "sha256")})
+            pinned(output/"RESULT.json", {"bytes": len(result_raw), "sha256": hashlib.sha256(result_raw).hexdigest()})
+            pinned(request_path, {key: request_pin[key] for key in ("bytes", "sha256")})
+            pinned(root/RELEASE_FILE, {key: release["manifest"][key] for key in ("bytes", "sha256")})
+            production_parent_limit()
+            print(json.dumps(result, sort_keys=True), flush=True)
+            pinned(pending_path, {"bytes": len(pending_raw), "sha256": hashlib.sha256(pending_raw).hexdigest()})
+            production_parent_limit()
+            # Final commit: every failable validation/reporting step precedes
+            # this unlink. On any earlier failure even an unwritable failure
+            # marker leaves PENDING in place and the saved success unusable.
+            pending_path.unlink()
+            return result
+        except BaseException as error:
+            marker = {"schema": "DMKN_RELEASE_PRODUCER_PROFILE_FAILURE_V1", "status": "FAILED",
+                      "error_type": type(error).__name__, "error": str(error)[:4096],
+                      "overrides": ["profile.json", "RESULT.json"], "mathematical_acceptance": False}
+            try:
+                write_new(output/"PROFILE-FAILED.json", encode(marker))
+            except BaseException as marker_error:
+                raise RuntimeError("DIST_PRODUCTION_PROFILE_FAILURE_MARKER_UNCONFIRMED") from marker_error
+            raise
+
+
+def producer_launch(expected, plan_path, plan_sha):
+    """Dispatch the genuine producer plan without receiver preparation/boot."""
+    with path_scope():
+        root, manifest, helper, unused_descriptor, unused_template, release = installed_production_release(expected)
+        plan, plan_pin = helper.read_selection(plan_path, plan_sha)
+        need(plan.get("release") == release, "DIST_PRODUCTION_PLAN_RELEASE")
+        # The dedicated launcher owns full selection/lineage validation once.
+        # This wrapper binds only its adopted release before delegating.
+        production_parent_limit()
+        launcher_path = manifest["sdk_sources"][PRODUCTION_LAUNCH]
+        launcher = root.joinpath(*relative(launcher_path))
+        module = held_module(launcher, manifest["files"][launcher_path],
+                             "_dmkn_installed_producer_launch")
+        module.STARTED_NS, module.STARTED_CPU = STARTED_NS, STARTED_CPU
+        sys.argv = [str(launcher), str(ordinary(plan_path)), digest(plan_sha)]
+        return module.main()
+
+
+def launch(expected, command, request_path, request_sha):
+    with path_scope():
+        return _launch(expected, command, request_path, request_sha)
+
+
+def _launch(expected, command, request_path, request_sha):
+    need(command in (*WRAPPERS, "run"), "DIST_COMMAND")
+    root = ordinary(Path(__file__).resolve().parent, directory=True)
+    manifest = checked_json(root/RELEASE_FILE, expected)
+    verify_release(root, manifest, full=False)
+    executable = root/"base/receiver/runtime/python/python.exe"
+    need(os.name == "nt" and sys.flags.isolated and sys.flags.no_site and sys.dont_write_bytecode
+         and not sys.flags.optimize and Path(sys.executable).resolve() == executable,
+         "DIST_INSTALLED_ISOLATED_PYTHON")
+    request = checked_json(request_path, request_sha, MIB)
+    fields(request, {"schema", "name", "workspace_root", "parameters", "limits", "output_limits",
+                     "owner", "runtime_mode"})
+    need(request["schema"] == REQUEST_SCHEMA and type(request["name"]) is str
+         and re.fullmatch("[a-z0-9][a-z0-9-]{0,63}", request["name"]), "DIST_REQUEST_SCHEMA")
+    workspace = ordinary(request["workspace_root"], directory=True)
+    need(not overlap(workspace, root), "DIST_STATE_INSTALLATION_DISJOINT")
+    controls = ordinary(workspace/(request["name"]+"-request"), fresh=True, directory=True)
+    run = ordinary(workspace/request["name"], fresh=True, directory=True)
+    need(type(request["parameters"]) is dict, "DIST_PARAMETERS")
+    parameters = deepcopy(request["parameters"])
+    sources = {name: manifest["files"][path]
+               for name, path in consumer_sdk_sources(manifest["sdk_sources"]).items()}
+    if command == "run":
+        owner = request["owner"]
+        fields(owner, {"root", "entry", "sources"})
+        owner_root = ordinary(owner["root"], directory=True)
+        relative(owner["entry"])
+        need(type(owner["sources"]) is dict and 1 <= len(owner["sources"]) <= 64
+             and owner["entry"] in owner["sources"] and owner["entry"].endswith(".py"),
+             "DIST_TRUSTED_OWNER_SELECTION")
+        need(not overlap(run, owner_root) and not overlap(controls, owner_root), "DIST_OWNER_OUTPUT_OVERLAP")
+        for name, expected_row in file_map(owner["sources"]).items():
+            need(name.endswith(".py") and expected_row["bytes"] <= 2*MIB, "DIST_OWNER_SOURCE_BOUND")
+            pinned(owner_root.joinpath(*relative(name)), expected_row)
+            sources["owner/"+name] = expected_row
+        entry = owner["entry"]
+    else:
+        need(command in wrappers(manifest["base_role"]), "DIST_COMMAND_NOT_IN_BASE_ROLE")
+        need(request["owner"] is None, "DIST_BUILTIN_OWNER_ONLY")
+        owner_root, entry = root/"owners", command+".py"
+        sources["owner/"+entry] = manifest["files"]["owners/"+entry]
+        parameters = builtin_parameters(root, manifest["base_role"], command, parameters)
+    if command in SERVING:
+        need(request["runtime_mode"] is None, "DIST_SERVICE_NO_RUNTIME_OWNER")
+    else:
+        mode = request["runtime_mode"]
+        need(mode in ("atomic", "aggregate") and (command != "reader" or mode == "aggregate"),
+             "DIST_EXPLICIT_ISSUER_MODE")
+        if command == "reader":
+            need("runtime_adoption" not in parameters and "foundation" not in parameters,
+                 "DIST_RELEASE_RUNTIME_PARAMETERS_RESERVED")
+    # Check the mathematical workspace scope before creating control data.
+    if "workspace_path" in parameters:
+        data = Path(parameters["workspace_path"])
+        need(data.is_absolute() and not overlap(data, controls) and not overlap(data, run)
+             and not overlap(data, root), "DIST_MATHEMATICAL_DATA_SCOPE")
+    need(time.process_time()-STARTED_CPU <= 30 and time.monotonic_ns()-STARTED_NS < 120*10**9,
+         "DIST_PRELAUNCH_LIMIT")
+    controls.mkdir()
+    write_new(controls/"request.json", encode(request))
+    if command not in SERVING:
+        profile_path = controls/"preparation.json"
+        write_new(profile_path, encode(materialize(root, manifest["preparation"])))
+        def selected(role):
+            name = manifest["roles"][role]
+            return {"path": str(root.joinpath(*relative(name))), **manifest["files"][name]}
+        adoption = {
+            "schema": "DMKN_V5_CLIENT_RUNTIME_V1", "preparation_profile": pin(profile_path),
+            "native": selected("native"), "receipt": selected("receipt"),
+            "aggregate": None if request["runtime_mode"] == "atomic" else
+                {"executable": selected("aggregate"), "image": manifest["aggregate_image"]}}
+        if command == "reader":
+            parameters.update(runtime_adoption=adoption, foundation=selected("foundation"))
+        else:
+            parameters = substitute(parameters,
+                {"runtime_adoption": adoption, "foundation": selected("foundation")})
+    plan = {"schema": "DMKN_V5_CLIENT_LAUNCH_V1", "name": request["name"],
+        "installation_root": str(root/"base"), "workspace_root": str(workspace),
+        "source_roots": {"v5": str(root/"sdk/v5"), "portable": str(root/"sdk/portable"),
+                         "owner": str(owner_root)}, "sources": sources, "owner_entry": entry,
+        "parameters": parameters, "limits": request["limits"], "output_limits": request["output_limits"]}
+    plan_path = controls/"launch.json"
+    plan_raw = encode(plan)
+    write_new(plan_path, plan_raw)
+    plan_sha = hashlib.sha256(plan_raw).hexdigest()
+    # Load only exact release-adopted source. Preserve the FIRST public wrapper
+    # clocks: preparing a plan must not silently renew the original allowance.
+    launcher = root/"sdk/v5/client/launch.py"
+    expected_row = manifest["files"]["sdk/v5/client/launch.py"]
+    pinned(launcher, expected_row)
+    source = read(launcher, 2*MIB)
+    need(hashlib.sha256(source).hexdigest() == expected_row["sha256"], "DIST_LAUNCH_SOURCE_CHANGED")
+    module = ModuleType("_dmkn_installed_client_launch")
+    module.__file__ = str(launcher)
+    sys.modules[module.__name__] = module
+    exec(compile(source, str(launcher), "exec", dont_inherit=True), module.__dict__)
+    module.STARTED_NS, module.STARTED_CPU = STARTED_NS, STARTED_CPU
+    sys.argv = [str(launcher), str(plan_path), plan_sha]
+    return module.main()
+
+
+def main():
+    need(os.name == "nt", "DIST_WINDOWS_ONLY")
+    args = sys.argv[1:]
+    if len(args) == 4 and args[0] == "build":
+        print(json.dumps(build(*args[1:]), sort_keys=True), flush=True)
+        return 0
+    if len(args) == 2 and args[0] == "verify":
+        root = ordinary(Path(__file__).resolve().parent, directory=True)
+        manifest = checked_json(root/RELEASE_FILE, args[1])
+        verify_release(root, manifest, full=True)
+        print(json.dumps({"status": "EXACT_DIRECTORY_VERIFIED", "mathematical_acceptance": False}), flush=True)
+        return 0
+    if len(args) == 5 and args[0] == "launch":
+        return launch(*args[1:])
+    if len(args) == 4 and args[0] == "producer-profile":
+        producer_profile(*args[1:])
+        return 0
+    if len(args) == 4 and args[0] == "producer":
+        return producer_launch(*args[1:])
+    raise ValueError("USAGE: build INPUT SHA OUTPUT | verify RELEASE_SHA | launch RELEASE_SHA reader|serve|run REQUEST SHA | producer-profile RELEASE_SHA REQUEST SHA | producer RELEASE_SHA PLAN SHA")
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

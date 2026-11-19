@@ -33,13 +33,15 @@ LOCAL_CHECK wrapper recommendation are superseded for this continuation.
 Use the newly installed31-module release-owned profile and genuine public
 selection/result schemas. Do not copy or translate old evidence into them.
 
-The only proposed new source is one **file-only phase selector**:
-`research/cycles/v5-2026-10-20/Select-InstalledProducerV01.ps1`.
-It has separately invoked `profile`, `snapshot`, `request` phases, exact
-root-supplied input/review hashes, fresh outputs and no subprocess invocation.
-Reuse ordinary-path, exact-pin, intended-byte JSON and pending/failure patterns
-from the reviewed existing preparers. Do not add another framework. Root must
-approve authoring, review final bytes and separately select any execution.
+Use small, separately selected **file-only selectors**, not a phase framework.
+The first authored source is
+`research/cycles/v5-2026-10-20/Select-InstalledProducerVProfile01.ps1`.
+It prepares only the profile request with root-supplied release/outcome hashes,
+fresh outputs and no subprocess invocation. Snapshot/request selectors remain
+separate later work; do not elaborate request preparation before an actual
+adopted snapshot. Reuse ordinary-path, exact-pin, intended-byte JSON and
+pending/failure patterns from the reviewed existing preparers. Root must review
+final bytes and separately select any execution.
 
 ## Required actual inputs
 
@@ -276,3 +278,57 @@ This milestone would establish actual installed public A-parent layout and
 request preparation. It would not establish a newly certified V receipt,
 publication/discovery, useful-growth speedup, independent hosting, complete
 security assurance or final-v5 release. Those remain the unchanged broader goal.
+
+## Authored profile-only preparation checkpoint
+
+`Select-InstalledProducerVProfile01.ps1` is 6,592 bytes, SHA-256
+`d823f020fe81f7dad05edefa9da5e887befb9ecde8688b138ee3d92d89d0e224`.
+It is source-only: no syntax execution, imports, profile construction, staging,
+snapshot, proof or Git mutation was performed by this author. Read-only source
+comparison confirms the exact public request schema/argv, the full144-source
+manifest role and ordinary109-source preparation role match the selected
+distribution implementation. This self-review is not independent adoption.
+
+The selector takes release SHA plus an absolute root-selected build-outcome
+path/SHA. It pins those and the installed distribution, Python, descriptor and
+profile template; it creates only fresh W and W/inputs, writes the one profile
+request and PREPARED record, rebinds originals/intended bytes, requires the
+future profile output absent, and removes its pending marker only at final
+commit. Failure retains evidence. The build-outcome prose is not parsed into
+authority; root's adoption and the real public command's complete release
+verification remain required. Profile preparation does not depend on V success.
+
+The first genuine typed-renewal attempt failed after successful Lean export
+because operational float timing was sent to the strict mathematical parser.
+It supplied no admitted V. Future snapshot selection must use independently
+adopted renewal02 (or a separately selected later successor), never failed01.
+The exact two-line owner02 metadata repair and fresh selector02 are recorded in
+`TYPED-RENEWAL-METADATA-REPAIR.md`; this plan does not execute either.
+
+## Authored snapshot-only selection checkpoint
+
+`Select-InstalledProducerVSnapshot01.ps1` is 17,159 bytes, SHA-256
+`87b50280c0ff12b634a5414827f34b1d1777d2c9c1d88b5d299b24b67fb52469`.
+Root assigned this file-only successor after full assembly and actual renewal02
+completed. It accepts exact root-adopted build, renewal and profile outcome pins;
+release, actual renewal request/outer/report, profile/result and V packet/journal
+digests are explicit parameters. It does not execute a product, syntax check,
+constructor, snapshot or proof. Root owns source review and later dispatch.
+
+The selector derives operative60 directly from actual installed profile,
+descriptor and base-supervisor metadata, binds all rows to the adopted release,
+and adds exactly profile/configuration/V packet for runtime63. It writes only
+the exact11-field snapshot configuration and13-field public launch selection
+plus pending/PREPARED evidence in the existing external continuation directory.
+The snapshot-01 and capsule-01 siblings remain absent. It uses po2=18,
+cycles=2^26, the selected180/60/240/3072MiB native limits and
+360/360/4096MiB enclosing limits, without cap changes or proof dispatch.
+
+Read-only inspection of the actual renewal02 request and copied plan confirmed
+the same complete13-field envelope. Its rank cap is UINT64_MAX, represented
+exactly as System.Decimal by Windows PowerShell5.1; the selector deliberately
+uses decimal integrality checks instead of overflowing a signed64-bit cast.
+No envelope value is enlarged or silently normalized. The adopted profile's
+identity is recomputed from domain plus its exact saved bytes; the actual public
+result, release roles and absent completion overrides are required. Root's
+independent profile audit remains the canonical-profile/materialization evidence.

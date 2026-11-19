@@ -107,6 +107,9 @@ finishes the owned-acquisition saved-outcome audit, then challenges this complet
 integration and its count/lifetime/budget invariants independently. Root owns
 the separate role packaging/launcher, coordination, source selections, adoption
 and Git. All edits are fresh absolute paths under this canonical folder.
+Root also owns advertisement_delta.py: pure exact proposal derivation from new
+baseline bundle units. It supplies no custody/availability warrant; the operator
+must perform the separate approved-endpoint locator readback before publication.
 
 Use source reasoning first for the invariant and unchanged-admission argument.
 Later targeted evidence must exercise actual unknown-holder acquisition, ordinary

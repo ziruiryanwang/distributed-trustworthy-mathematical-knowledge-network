@@ -1,0 +1,11 @@
+{
+  "schema": "DMKN_ORDINARY_TRUSTED_PROJECT_AUTHORING_V1",
+  "module_name": "ResetEffects.Contribution",
+  "project_cwd": "E:\\Distributed Trustworthy Mathematical Knowledge Network\\software\\v5\\ordinary_observation_growth",
+  "project_search_paths": [
+    "E:\\Distributed Trustworthy Mathematical Knowledge Network\\experiments\\v5-local-checks\\observation-modes-inputs01\\library"
+  ],
+  "imports": [
+    {"module": "FiniteMapRefinement.Contribution", "meta": false}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "DMKN_V5_AGGREGATE_ARTIFACT_VALIDATION_PROPOSAL_V1",
+  "authorizes_execution": false,
+  "source": {
+    "path": "software/v5/aggregate_guest/validate_artifact.py",
+    "bytes": 13843,
+    "sha256": "715733a37e150d307a99008970ea26fca84f5234beba17e4147577d58ed0f7c4"
+  },
+  "outer_limits": {
+    "cpu_seconds": 30,
+    "wall_seconds": 60,
+    "memory_mib": 512,
+    "active_processes": 2
+  },
+  "scope": "One read-only validation of 39 source/lock files and exact named evidence, ELF and map; no target/cache/SDK census or compile",
+  "success_status": "PASS_REVALIDATED_AGGREGATE_GUEST_ARTIFACT_ONLY",
+  "preserves_prior_failure_and_costs": true
+}

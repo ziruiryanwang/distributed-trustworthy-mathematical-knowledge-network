@@ -2,8 +2,12 @@
 
 Git is local to the sole canonical project root:
 `E:\Distributed Trustworthy Mathematical Knowledge Network`.
-The retired similarly named directory is not a second checkout. No remote or
-external publication is configured by this setup. The license remains undecided.
+The retired similarly named directory is not a second checkout. On 2026-11-18,
+at the user's request, the project is being uploaded to the private GitHub
+repository `ziruiryanwang/distributed-trustworthy-mathematical-knowledge-network`.
+The remote uses HTTPS with Git Credential Manager. The license remains undecided;
+private source backup does not constitute a public release or v5 acceptance.
+See `research/audits/github-upload-2026-11-18/UPLOAD.md` for scope and checks.
 
 ## What this repository preserves
 
